@@ -19,17 +19,17 @@ const monthNamesFull = ["January", "February", "March", "April", "May", "June",
 
 async function GetPackedData(filename) {
     let newCache = null;
-    if ('caches' in window) {
-        newCache = await window.caches.open('new-cache');
-        // newCache.add('packedData.json' JSON.stringify(files));
-        const packedData = await newCache.match(filename);
-        if (packedData) {
-            console.log("Used local storage " + filename);
-            return new Promise(function (resolve, reject) {
-                return resolve(JSON.parse(packedData));
-            });
-        }
-    }
+    // if ('caches' in window) {
+    //     newCache = await window.caches.open('new-cache');
+    //     // newCache.add('packedData.json' JSON.stringify(files));
+    //     const packedData = await newCache.match(filename);
+    //     if (packedData) {
+    //         console.log("Used local storage " + filename);
+    //         return new Promise(function (resolve, reject) {
+    //             return resolve(JSON.parse(packedData));
+    //         });
+    //     }
+    // }
     return new JSZip.external.Promise(function (resolve, reject) {
         let display = filenameWithoutExt(filename);
         display = display.replaceAll('.', ' ');
