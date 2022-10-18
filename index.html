@@ -49,7 +49,7 @@
 <div id="fixedHeader">
     <nav class="navbar navbar-expand-lg navbar-dark bg-light d-print-none">
         <div class="container-fluid">
-            <a class="navbar-brand" href="?list=publications"><img src="images/history_book.svg" style="height: 1.5em; "/> JWs Online Library | <i>1880 - 2022</i></a>
+<!--            <a class="navbar-brand" href="?list=publications"><img src="images/history_book.svg" style="height: 1.5em; "/> JWs Online Library | <i>1880 - 2022</i></a>-->
             <!--        <div class="navbar-collapse" id="navbarSupportedContent">-->
             <!--            <ul class="navbar-nav me-auto mb-2 mb-lg-0 flex-row gap-1">-->
             <!--                <li class="nav-item d-block d-none d-xl-block"><a class="nav-link active" aria-current="page" href="index.html">Home</a></li>-->
@@ -95,9 +95,11 @@
         </div>
     </div>
     <div id="regionBody">
-        <div id="resultsHeader" dir="ltr" style="display: none">
-            <span>
-                <span id="resultsCount">Sort by</span>
+        <ul id="currentFileBox" class="directory"></ul>
+        <div id="regionBodyInner">
+            <div id="resultsHeader" dir="ltr" style="display: none">
+                <span>
+                    <span id="resultsCount">Sort by</span>
 <!--                <span id="proximitySelector">-->
 <!--                    <select name="p" class="form-select d-inline-block w-auto">-->
 <!--                        <option value="sen">Located in the same sentence</option>-->
@@ -105,18 +107,19 @@
 <!--                        <option value="doc">Located in the same article</option>-->
 <!--                    </select>-->
 <!--                </span>-->
-            </span>
-            <span id="resultsSort"></span>
-            <span id="rankSelector">
-                <select name="r" class="form-select d-inline-block w-auto">
+                </span>
+                <span id="resultsSort"></span>
+                <span id="rankSelector">
+                    <select name="r" class="form-select d-inline-block w-auto">
                         <option value="occ" selected="">Sorted by most occurrences</option>
                         <option value="newest">Sorted by date, newest first</option>
                         <option value="oldest">Sorted by date, oldest first</option>
-                </select>
-            </span>
-            <div id="resultsFilter"></div>
+                    </select>
+                </span>
+                <div id="resultsFilter"></div>
+            </div>
+            <div id="contents"><button id="manualLoad" class="btn btn-outline-secondary m-2">Click Here to Begin!</button></div><noscript><h3>Javascript required for this page to operate</h3></noscript>
         </div>
-        <div id="contents"><button id="manualLoad" class="btn btn-primary m-2">Click Here to Begin!</button></div><noscript><h3>Javascript required for this page to operate</h3></noscript>
     </div>
 </div>
 </div>

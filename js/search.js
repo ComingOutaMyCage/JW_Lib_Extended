@@ -626,6 +626,7 @@ function highlightRelatedFile(){
     $("#relatedDocuments a[doc]").each(function(){
         if($(this).attr('doc') === currentDoc) {
             $(this).addClass('active');
+            $('#currentFileBox').html($(this).closest('.directory').find('.folder')[0].outerHTML + $(this).closest('.item')[0].outerHTML);
         }
         else
             $(this).removeClass('active');
@@ -812,4 +813,11 @@ function Begin(){
                 pageStateChanged();
             });
         });
+
+    const el = document.querySelector("#currentFileBox");
+    const observer = new IntersectionObserver(
+        ([e]) => e.target.classList.toggle("isSticky", e.intersectionRatio < 1),
+        { threshold: [1] }
+    );
+    observer.observe(el);
 }

@@ -317,9 +317,12 @@ body {
 #search-form {
   height: 46px;
 }
+#currentFileBox {
+  display: none;;
+}
 
 @media only screen and (min-width: 1201px) {
-  #regionBody {
+  #regionBodyInner {
     margin-left: 450px;
     padding: 1em 80px 5em 80px;
   }
@@ -342,7 +345,7 @@ body {
       font-size: 20px; //Icon is 2em = 60px
     }
   }
-  #regionBody {
+  #regionBodyInner {
     margin-left: 350px;
     padding: 1em 50px 5em 50px;
   }
@@ -358,7 +361,7 @@ body {
   }
 }
 @media only screen and (max-width: 900px) {
-  #regionBody {
+  #regionBodyInner {
     margin-left: 300px;
     padding: 1em 50px 5em 50px;
   }
@@ -368,7 +371,7 @@ body {
   }
 }
 @media only screen and (max-width: 800px) {
-  #regionBody {
+  #regionBodyInner {
     margin-left: 0;
     padding: 1em 50px 5em 50px;
   }
@@ -380,6 +383,36 @@ body {
       width: 320px;
       width: calc(min(450px, 80vw) - 20px);
       float:right;
+    }
+  }
+  #currentFileBox {
+    display: block;
+    position: sticky;
+    top: -1px;
+    &.isSticky{
+      transition: padding 0.2s ease-in-out;
+      padding-top: 92px;
+      .item, .thumbnail {min-height: 16px;}
+      img {
+        max-height: 16px;
+      }
+      .item {
+        background-color: white;
+        .title {
+          transition: padding 0.2s ease-in-out;
+          padding-top: 0.1em;
+          padding-bottom: 0.1em;
+        }
+      }
+    }
+    .item {
+      margin-left: 0;
+      .arrow {
+        display: none;
+      }
+    }
+    .item:last-child{
+      box-shadow: 0 2px 2px 0px #0000004d;
     }
   }
 
@@ -419,7 +452,7 @@ body {
 
 }
 @media only screen and (max-width: 480px) {
-  #regionBody {
+  #regionBodyInner {
     padding: 1em 16px 5em 16px;
   }
 }
