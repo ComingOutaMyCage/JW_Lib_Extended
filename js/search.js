@@ -23,8 +23,8 @@ async function GetPackedData(filename) {
         newCache = await window.caches.open('new-cache');
         // newCache.add('packedData.json' JSON.stringify(files));
         const packedData = await newCache.match(filename);
-        if (packedData !== null) {
-            console.log("Used local storage");
+        if (packedData) {
+            console.log("Used local storage " + filename);
             return new Promise(function (resolve, reject) {
                 return resolve(JSON.parse(packedData));
             });
