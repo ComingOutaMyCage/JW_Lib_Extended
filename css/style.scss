@@ -318,7 +318,7 @@ body {
   height: 46px;
 }
 #currentFileBox {
-  display: none;;
+  display: none !important;
 }
 
 @media only screen and (min-width: 1201px) {
@@ -386,7 +386,7 @@ body {
     }
   }
   #currentFileBox {
-    display: block;
+    display: block !important;
     position: sticky;
     top: -1px;
     &.isSticky{

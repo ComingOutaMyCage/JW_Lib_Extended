@@ -256,6 +256,7 @@ async function DoSearch(){
     }
 
     $("#relatedDocuments").fadeOut(200);
+    $("#currentFileBox").fadeOut(200, function(){ $(this).html('') });
     $("#searchRefineForm").fadeIn(200);
     $('#contents').empty().append($('<div class="results"></div>').append(documents));
     $('#contents').append($('<div id="pagination"></div>').append(pagination));
@@ -376,6 +377,7 @@ async function ShowFile(docPath){
         }
 
         let classes = GetClassesForContent(contents);
+        $('#currentFileBox').fadeIn(200);
         $('#contents').html(`<div class="document ${classes}">` + contents + "</div>");
         $('#contents').find('style').remove();
 
@@ -395,6 +397,7 @@ async function ShowPublications(category, title, symbol, pubId) {
     console.log('ShowPublications', category);
     StopLoading();
     let contents = $('#contents');
+    $("#currentFileBox").fadeOut(200, function(){ $(this).html('') });
     $("#relatedDocuments").fadeOut(200, function(){
         $("#searchRefineForm").fadeIn(200);
     });
@@ -611,7 +614,7 @@ async function showRelatedFiles(store) {
     relatedDocs.append(list);
 
     searchRefine.fadeOut(200, function() {
-        relatedDocs.fadeIn(200);
+        $('#relatedDocuments').fadeIn(200);
     });
 
     relatedDocs.attr('infoId', store.infoId);
@@ -626,7 +629,12 @@ function highlightRelatedFile(){
     $("#relatedDocuments a[doc]").each(function(){
         if($(this).attr('doc') === currentDoc) {
             $(this).addClass('active');
-            $('#currentFileBox').html($(this).closest('.directory').find('.folder')[0].outerHTML + $(this).closest('.item')[0].outerHTML);
+            let dir = $(this).closest('.directory').find('.folder');
+            let file = $(this).closest('.item');
+            let html = dir[0].outerHTML;
+            if(dir.find('.title').text().indexOf(file.find(".title").text().trim()) === -1)
+                html += file[0].outerHTML;
+            $('#currentFileBox').html(html);
         }
         else
             $(this).removeClass('active');
