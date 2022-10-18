@@ -380,7 +380,7 @@ body {
     width:0;
     #sidebarInner {
       width: 320px;
-      width: calc(min(450px, 80vw) - var(--scrollbar-width));
+      width: calc(min(450px, 80vw) - (var(--scrollbar-width) * 1px));
       float:right;
     }
   }
