@@ -14,6 +14,7 @@
   white-space: nowrap;
 }
 body {
+  --scrollbar-width: calc(100vw - 100%);
   margin: auto auto;
 
   font-family: 'Noto Sans',Arial,"Arial Unicode MS",sans-serif;
@@ -43,6 +44,7 @@ a.nav-link img {
 #search-form {
   background-color: #f2f1ef;
   padding: 0.25rem;
+  height: 3rem;
   #btnSideMenu {
     align-self: center;
     height: 38px;
@@ -314,9 +316,6 @@ body {
     font-size: 30px; //Icon is 2em = 60px
   }
 }
-#search-form {
-  height: 46px;
-}
 #currentFileBox {
   display: none !important;
 }
@@ -339,7 +338,7 @@ body {
 }
 @media only screen and (max-width: 1200px){
   #fixedHeader .navbar {
-    height: 46px;
+    height: 3rem;
     color: white;
     .navbar-brand {
       font-size: 20px; //Icon is 2em = 60px
@@ -350,14 +349,14 @@ body {
     padding: 1em 50px 5em 50px;
   }
   #regionMain {
-    padding-top: 92px;
+    padding-top: 6em;
     min-height: 100vh;
   }
   #secondaryNavContent {
     position: fixed;
-    top: 92px;
+    top: 6rem;
     width:350px;
-    height: calc(100vh - 92px);
+    height: calc(100vh - 6rem);
   }
 }
 @media only screen and (max-width: 900px) {
@@ -381,7 +380,7 @@ body {
     width:0;
     #sidebarInner {
       width: 320px;
-      width: calc(min(450px, 80vw) - 20px);
+      width: calc(min(450px, 80vw) - var(--scrollbar-width));
       float:right;
     }
   }
@@ -391,7 +390,7 @@ body {
     top: -1px;
     &.isSticky{
       transition: padding 0.2s ease-in-out;
-      padding-top: 92px;
+      padding-top: 6rem;
       .item, .thumbnail {min-height: 16px;}
       img {
         max-height: 16px;
