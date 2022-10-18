@@ -780,33 +780,36 @@ $("#regionBody").mouseenter(function(){
         DoSearch();
 });
 
-
 var searchDirty = false;
-$('input').change(function(){
+$('input').change(function () {
     searchDirty = true;
     $('#contents .results').fadeTo(600, 0.5);
 }).change($.debounce(1200, DoSearch));
 
+$(document).ready(Begin);
+$(document).on('click', '#manualLoad', Begin);
+function Begin(){
+    LoadCategories();
 
-LoadCategories();
-GetPackedData('index/packed.zip')
-    .then(async function(files) {
-        //console.log(data)
-        $('#contents').html('<h4>Click a file to load</h4>');
+    GetPackedData('index/packed.zip')
+        .then(async function (files) {
+            //console.log(data)
+            $('#contents').html('<h4>Click a file to load</h4>');
 
-        let options = files['index.json'];
-        infoStore = files['infoStore.json'];
-        delete files['index.json'];
-        delete files['infoStore.json'];
-        index = new FlexSearch.Document(options);
-        for (const [filename, file] of Object.entries(files)) {
-            console.log("Importing " + filename);
-            index.import(filename, file);
-        }
+            let options = files['index.json'];
+            infoStore = files['infoStore.json'];
+            delete files['index.json'];
+            delete files['infoStore.json'];
+            index = new FlexSearch.Document(options);
+            for (const [filename, file] of Object.entries(files)) {
+                console.log("Importing " + filename);
+                index.import(filename, file);
+            }
 
-        $("input[type=search]").on('input', $.debounce(600, DoSearch));
-        pageStateChanged();
-        window.addEventListener('popstate', function () {
+            $("input[type=search]").on('input', $.debounce(600, DoSearch));
             pageStateChanged();
+            window.addEventListener('popstate', function () {
+                pageStateChanged();
+            });
         });
-    });
+}
