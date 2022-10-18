@@ -1,26 +1,4 @@
 function InsertNav(){
-    $('#body-div').prepend(`
-<div id="fixedHeader">
-<nav class="navbar navbar-expand-lg navbar-dark bg-light d-print-none">
-    <div class="container-fluid">
-        <a class="navbar-brand" href="?list=publications"><img src="images/history_book.svg" style="height: 1.5em; "/> JWs Online Library | <i>1880 - 2022</i></a>
-<!--        <div class="navbar-collapse" id="navbarSupportedContent">-->
-<!--            <ul class="navbar-nav me-auto mb-2 mb-lg-0 flex-row gap-1">-->
-<!--                <li class="nav-item d-block d-none d-xl-block"><a class="nav-link active" aria-current="page" href="index.html">Home</a></li>-->
-<!--            </ul>-->
-<!--        </div>-->
-    </div>
-</nav>
-<div id="search-form">
-    <div class="input-group">
-        <a id="btnSideMenu"><img src="images/indentation-indent.svg" /></a>
-        <img src="images/icon-search.svg" style="height: 1.5em; align-self: center; margin-right: 0.5em"/>
-        <input type="search" placeholder="Search" class="form-control" style="border-top-left-radius: 0.375rem;border-bottom-left-radius: 0.375rem;" />
-        <button type="button" class="btn btn-outline-dark" onclick="DoSearch()"><img src="images/icon-search.svg"> Search</button>
-    </div>
-<!--    <span class="text-muted">Search for articles containing all words, or use "quotes to match groups"</span>-->
-</div>
-</div>`);
     $('.nav-link').each(function(){
         //console.log(location.href.indexOf($(this).attr('href')));
         if(location.href.indexOf($(this).attr('href')) >= 0) {
