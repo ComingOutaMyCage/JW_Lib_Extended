@@ -218,7 +218,7 @@ async function Process() {
                     // subset[0] = data[0]
                     exportIndexAsync(char + "." + key, JSON.stringify(subset));
                 }
-                // return;
+                return;
                 data = JSON.stringify(data);
                 shouldZip = false;
             }
