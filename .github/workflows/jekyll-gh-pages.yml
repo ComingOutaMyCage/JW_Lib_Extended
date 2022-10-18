@@ -39,9 +39,10 @@ jobs:
       - name: Setup Node.js environment
         uses: actions/setup-node@v3.5.1
         with:
-          node-version: 16.x
-          cache: npm
-          cache-dependency-path: package.lock.json
+          node-version: 16
+          cache: 'npm'
+      - run: npm ci
+      - run: npm test
 
   # Deployment job
   deploy:
