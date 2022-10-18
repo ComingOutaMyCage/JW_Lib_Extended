@@ -14,7 +14,6 @@
   white-space: nowrap;
 }
 body {
-  --scrollbar-width: calc(100vw - 100%);
   margin: auto auto;
 
   font-family: 'Noto Sans',Arial,"Arial Unicode MS",sans-serif;
@@ -380,7 +379,7 @@ body {
     width:0;
     #sidebarInner {
       width: 320px;
-      width: calc(min(450px, 80vw) - (var(--scrollbar-width) * 1px));
+      width: calc(min(450px, 80vw) - 11px);
       float:right;
     }
   }
@@ -388,6 +387,7 @@ body {
     display: block !important;
     position: sticky;
     top: -1px;
+    z-index: 1;
     &.isSticky{
       transition: padding 0.2s ease-in-out;
       padding-top: 6rem;

@@ -180,7 +180,7 @@ class PublicationCodes {
         'bi': 'Bible',
         'gloss': 'Glossary',
         'it': 'Insight',
-        'dx': 'Indexes',
+        //'dx': 'Indexes',
         'w': 'Watchtower',
         //'ws': 'Watchtower Simplified',
         //'wp': 'Watchtower Public',
@@ -191,10 +191,10 @@ class PublicationCodes {
         'km': 'Kingdom Ministry',
         'brch': 'Brochures',
         'bklt': 'Booklets',
-        'trct': 'Tracts',
-        'kn': 'Kingdom News',
-        'web': 'Web',
-        'pgm': 'Programs',
+        //'trct': 'Tracts',
+        //'kn': 'Kingdom News',
+        //'web': 'Web',
+        //'pgm': 'Programs',
         'manual': 'Manuals',
     };
     static GetCategory(info){
