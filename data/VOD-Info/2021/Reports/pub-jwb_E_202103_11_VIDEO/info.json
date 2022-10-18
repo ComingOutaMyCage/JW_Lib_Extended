@@ -1,0 +1,102 @@
+{
+    "guid": "5f6b3e8a0ca056895e5501b2",
+    "languageAgnosticNaturalKey": "pub-jwb_202103_11_VIDEO",
+    "naturalKey": "pub-jwb_E_202103_11_VIDEO",
+    "type": "video",
+    "primaryCategory": "Reports",
+    "description": "",
+    "firstPublished": "2021-03-22T14:20:10.996Z",
+    "duration": 600.81,
+    "durationFormattedHHMM": "10:00",
+    "durationFormattedMinSec": "10m 0s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/56/jwb_E_202103_11_r240P.mp4",
+            "checksum": "4b824ac58e5a793ed8b5bde028d5f807",
+            "filesize": 22441340,
+            "modifiedDatetime": "2021-03-22T05:32:05.000Z",
+            "bitRate": 291.8003181421762,
+            "duration": 600.832,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.833,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/5f/jwb_E_202103_11.vtt",
+                "modifiedDatetime": "2021-03-22T05:31:45.000Z",
+                "checksum": "1b6d0a618d9c7656e98975de38a5c7a5"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/b1/jwb_E_202103_11_r360P.mp4",
+            "checksum": "d5565dcbdc9144f5ed51733ad9ee22bb",
+            "filesize": 42289686,
+            "modifiedDatetime": "2021-03-22T05:32:01.000Z",
+            "bitRate": 549.9045819393818,
+            "duration": 600.81,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/5f/jwb_E_202103_11.vtt",
+                "modifiedDatetime": "2021-03-22T05:31:45.000Z",
+                "checksum": "1b6d0a618d9c7656e98975de38a5c7a5"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/d6/jwb_E_202103_11_r480P.mp4",
+            "checksum": "caf86165a681a9e11a4d2a43a418f8a7",
+            "filesize": 81898028,
+            "modifiedDatetime": "2021-03-22T05:31:54.000Z",
+            "bitRate": 1064.9429000016646,
+            "duration": 600.81,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/5f/jwb_E_202103_11.vtt",
+                "modifiedDatetime": "2021-03-22T05:31:45.000Z",
+                "checksum": "1b6d0a618d9c7656e98975de38a5c7a5"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/5b/jwb_E_202103_11_r720P.mp4",
+            "checksum": "2f265517d9d040f86d6a3de9a34e1342",
+            "filesize": 143549233,
+            "modifiedDatetime": "2021-03-22T05:31:47.000Z",
+            "bitRate": 1866.6107135575307,
+            "duration": 600.81,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/5f/jwb_E_202103_11.vtt",
+                "modifiedDatetime": "2021-03-22T05:31:45.000Z",
+                "checksum": "1b6d0a618d9c7656e98975de38a5c7a5"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202103-11.v",
+        "jwb.202103-11"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/5f/jwb_E_202103_11.vtt",
+    "Name": "pub-jwb_E_202103_11_VIDEO",
+    "Title": "Branch Report: Paraguay and Argentina",
+    "UndatedReferenceTitle": "Branch Report: Paraguay and Argentina",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "Reports"
+}

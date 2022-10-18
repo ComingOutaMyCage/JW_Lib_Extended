@@ -1,0 +1,102 @@
+{
+    "guid": "5f6a16f40ca056895e519f7c",
+    "languageAgnosticNaturalKey": "pub-jwb_202011_2_VIDEO",
+    "naturalKey": "pub-jwb_E_202011_2_VIDEO",
+    "type": "video",
+    "primaryCategory": "StudioTalks",
+    "description": "",
+    "firstPublished": "2020-11-16T22:06:13.131Z",
+    "duration": 916.651,
+    "durationFormattedHHMM": "15:16",
+    "durationFormattedMinSec": "15m 16s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/91/jwb_E_202011_02_r240P.mp4",
+            "checksum": "3ab211adb948c4d0c56d5d04eab16eef",
+            "filesize": 14711676,
+            "modifiedDatetime": "2020-11-16T21:45:57.000Z",
+            "bitRate": 125.38574522910028,
+            "duration": 916.651,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.297,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/c9/jwb_E_202011_02.vtt",
+                "modifiedDatetime": "2020-11-16T21:46:06.000Z",
+                "checksum": "be2cd411f2e93842b99db9acd03ca056"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/e2/jwb_E_202011_02_r360P.mp4",
+            "checksum": "b21a30bb0d24ac48f624b414265bab07",
+            "filesize": 29473969,
+            "modifiedDatetime": "2020-11-16T21:45:58.000Z",
+            "bitRate": 251.21001806900313,
+            "duration": 916.625,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/c9/jwb_E_202011_02.vtt",
+                "modifiedDatetime": "2020-11-16T21:46:06.000Z",
+                "checksum": "be2cd411f2e93842b99db9acd03ca056"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/aa/jwb_E_202011_02_r480P.mp4",
+            "checksum": "02b46e58d9e4601e4a78c8394f1b34c7",
+            "filesize": 49989316,
+            "modifiedDatetime": "2020-11-16T21:46:01.000Z",
+            "bitRate": 426.0646733942452,
+            "duration": 916.625,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/c9/jwb_E_202011_02.vtt",
+                "modifiedDatetime": "2020-11-16T21:46:06.000Z",
+                "checksum": "be2cd411f2e93842b99db9acd03ca056"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/11/jwb_E_202011_02_r720P.mp4",
+            "checksum": "40aeaaa18baff7ec62e28c68e5cdee4a",
+            "filesize": 76306957,
+            "modifiedDatetime": "2020-11-16T21:46:03.000Z",
+            "bitRate": 650.3729459293604,
+            "duration": 916.625,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/c9/jwb_E_202011_02.vtt",
+                "modifiedDatetime": "2020-11-16T21:46:06.000Z",
+                "checksum": "be2cd411f2e93842b99db9acd03ca056"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202011-2.v",
+        "jwb.202011-2"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/c9/jwb_E_202011_02.vtt",
+    "Name": "pub-jwb_E_202011_2_VIDEO",
+    "Title": "Seth Hyatt: Are You Paying Attention?",
+    "UndatedReferenceTitle": "Seth Hyatt: Are You Paying Attention?",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "StudioTalks"
+}

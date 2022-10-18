@@ -1,0 +1,102 @@
+{
+    "guid": "5df00c9d1b4e58739379d9f3",
+    "languageAgnosticNaturalKey": "pub-thv_20_VIDEO",
+    "naturalKey": "pub-thv_E_20_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODMinistryApplyTeaching",
+    "description": "",
+    "firstPublished": "2020-07-13T17:54:50.706Z",
+    "duration": 382.166,
+    "durationFormattedHHMM": "6:22",
+    "durationFormattedMinSec": "6m 22s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/b2/thv_E_20_r240P.mp4",
+            "checksum": "21cb5861103dad00347ccca0eb3c7786",
+            "filesize": 6280359,
+            "modifiedDatetime": "2020-12-13T10:43:00.000Z",
+            "bitRate": 128.3874145986299,
+            "duration": 382.166,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.645,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/75/thv_E_20.vtt",
+                "modifiedDatetime": "2020-07-13T17:36:59.000Z",
+                "checksum": "96fbd69fae40df2b6e734837f9d2d64d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/75/thv_E_20_r360P.mp4",
+            "checksum": "baf16804aaf3c5e160fa384aeb8a4d3c",
+            "filesize": 12202169,
+            "modifiedDatetime": "2020-07-13T17:36:44.000Z",
+            "bitRate": 249.46666556539216,
+            "duration": 382.133,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/75/thv_E_20.vtt",
+                "modifiedDatetime": "2020-07-13T17:36:59.000Z",
+                "checksum": "96fbd69fae40df2b6e734837f9d2d64d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/3a/thv_E_20_r480P.mp4",
+            "checksum": "8bb0023166ddb9df821909f256d0a4cb",
+            "filesize": 22691164,
+            "modifiedDatetime": "2020-07-13T17:36:49.000Z",
+            "bitRate": 463.9084265164223,
+            "duration": 382.133,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/75/thv_E_20.vtt",
+                "modifiedDatetime": "2020-07-13T17:36:59.000Z",
+                "checksum": "96fbd69fae40df2b6e734837f9d2d64d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/d8/thv_E_20_r720P.mp4",
+            "checksum": "dd7a7ab4d021aa5cdc0b867b0f7c83b3",
+            "filesize": 37660509,
+            "modifiedDatetime": "2020-07-13T17:36:56.000Z",
+            "bitRate": 769.9484906105989,
+            "duration": 382.133,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/75/thv_E_20.vtt",
+                "modifiedDatetime": "2020-07-13T17:36:59.000Z",
+                "checksum": "96fbd69fae40df2b6e734837f9d2d64d"
+            }
+        }
+    ],
+    "printReferences": [
+        "thv-20.v",
+        "thv-20"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/75/thv_E_20.vtt",
+    "Name": "pub-thv_E_20_VIDEO",
+    "Title": "Study 20—Effective Conclusion",
+    "UndatedReferenceTitle": "Study 20—Effective Conclusion",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODMinistryApplyTeaching"
+}

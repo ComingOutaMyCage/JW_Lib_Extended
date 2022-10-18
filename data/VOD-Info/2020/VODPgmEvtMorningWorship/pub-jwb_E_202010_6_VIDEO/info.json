@@ -1,0 +1,102 @@
+{
+    "guid": "5e2761c0faacdecc13436a72",
+    "languageAgnosticNaturalKey": "pub-jwb_202010_6_VIDEO",
+    "naturalKey": "pub-jwb_E_202010_6_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2020-10-19T12:47:52.557Z",
+    "duration": 652.395,
+    "durationFormattedHHMM": "10:52",
+    "durationFormattedMinSec": "10m 52s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/3e/jwb_E_202010_06_r240P.mp4",
+            "checksum": "afe098df5dcb680cdf6e6518fcf5f40f",
+            "filesize": 9257143,
+            "modifiedDatetime": "2020-10-19T12:45:03.000Z",
+            "bitRate": 110.85527891461462,
+            "duration": 652.395,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.354,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/1d/jwb_E_202010_06.vtt",
+                "modifiedDatetime": "2020-10-19T12:44:57.000Z",
+                "checksum": "d78d1abfb8d496f230e817ed549a3cf0"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/b9/jwb_E_202010_06_r360P.mp4",
+            "checksum": "09903f272d5a6cb51cb2f4a0f85db8c8",
+            "filesize": 18821777,
+            "modifiedDatetime": "2020-10-19T12:45:09.000Z",
+            "bitRate": 225.4045425960473,
+            "duration": 652.361,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/1d/jwb_E_202010_06.vtt",
+                "modifiedDatetime": "2020-10-19T12:44:57.000Z",
+                "checksum": "d78d1abfb8d496f230e817ed549a3cf0"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/53/jwb_E_202010_06_r480P.mp4",
+            "checksum": "d30aa1aa65ce490905e622a93e60d480",
+            "filesize": 34922293,
+            "modifiedDatetime": "2020-10-19T12:45:13.000Z",
+            "bitRate": 418.21999485330974,
+            "duration": 652.361,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/1d/jwb_E_202010_06.vtt",
+                "modifiedDatetime": "2020-10-19T12:44:57.000Z",
+                "checksum": "d78d1abfb8d496f230e817ed549a3cf0"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/8b/jwb_E_202010_06_r720P.mp4",
+            "checksum": "451e74706492ae1076c6ecfff22986c0",
+            "filesize": 81893075,
+            "modifiedDatetime": "2020-10-19T12:45:17.000Z",
+            "bitRate": 980.7294556809803,
+            "duration": 652.361,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/1d/jwb_E_202010_06.vtt",
+                "modifiedDatetime": "2020-10-19T12:44:57.000Z",
+                "checksum": "d78d1abfb8d496f230e817ed549a3cf0"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202010-6.v",
+        "jwb.202010-6"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/1d/jwb_E_202010_06.vtt",
+    "Name": "pub-jwb_E_202010_6_VIDEO",
+    "Title": "Harold Corkern: Stand Firm Against Our Enemy (1 Pet. 5:9)",
+    "UndatedReferenceTitle": "Harold Corkern: Stand Firm Against Our Enemy (1 Pet. 5:9)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

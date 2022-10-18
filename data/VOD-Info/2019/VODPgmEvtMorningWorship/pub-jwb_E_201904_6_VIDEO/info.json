@@ -1,0 +1,102 @@
+{
+    "guid": "5c8274a064430a5b2d4da1d1",
+    "languageAgnosticNaturalKey": "pub-jwb_201904_6_VIDEO",
+    "naturalKey": "pub-jwb_E_201904_6_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2019-04-15T21:27:53.825Z",
+    "duration": 496.235,
+    "durationFormattedHHMM": "8:16",
+    "durationFormattedMinSec": "8m 16s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/50/jwb_E_201904_06_r240P.mp4",
+            "checksum": "53f55c4a6fec97425275f84bd329caf7",
+            "filesize": 7433136,
+            "modifiedDatetime": "2020-11-06T23:27:16.000Z",
+            "bitRate": 117.02394027023486,
+            "duration": 496.235,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.499,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/17/jwb_E_201904_06.vtt",
+                "modifiedDatetime": "2019-04-15T19:03:22.000Z",
+                "checksum": "68dd99e09f41da48eb2b8e51a2f988a3"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/a2/jwb_E_201904_06_r360P.mp4",
+            "checksum": "22d89b06fa64ca2b08466bd4a634db05",
+            "filesize": 15551106,
+            "modifiedDatetime": "2019-04-15T18:58:21.000Z",
+            "bitRate": 244.84440024788142,
+            "duration": 496.205,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/17/jwb_E_201904_06.vtt",
+                "modifiedDatetime": "2019-04-15T19:03:22.000Z",
+                "checksum": "68dd99e09f41da48eb2b8e51a2f988a3"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/b1/jwb_E_201904_06_r480P.mp4",
+            "checksum": "e20704cbb5a5d103353a993696f5d852",
+            "filesize": 28353146,
+            "modifiedDatetime": "2019-04-15T19:20:52.000Z",
+            "bitRate": 446.40612876734417,
+            "duration": 496.205,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/17/jwb_E_201904_06.vtt",
+                "modifiedDatetime": "2019-04-15T19:03:22.000Z",
+                "checksum": "68dd99e09f41da48eb2b8e51a2f988a3"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/e1/jwb_E_201904_06_r720P.mp4",
+            "checksum": "c56eddb3234853a13bc3619df4f392ee",
+            "filesize": 59707532,
+            "modifiedDatetime": "2019-04-15T19:24:13.000Z",
+            "bitRate": 940.0652829979545,
+            "duration": 496.205,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/17/jwb_E_201904_06.vtt",
+                "modifiedDatetime": "2019-04-15T19:03:22.000Z",
+                "checksum": "68dd99e09f41da48eb2b8e51a2f988a3"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201904-6.v",
+        "jwb.201904-6"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/17/jwb_E_201904_06.vtt",
+    "Name": "pub-jwb_E_201904_6_VIDEO",
+    "Title": "Mark Noumair: Show Humility (1 Pet. 5:5)",
+    "UndatedReferenceTitle": "Mark Noumair: Show Humility (1 Pet. 5:5)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

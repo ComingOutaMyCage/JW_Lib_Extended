@@ -1,0 +1,178 @@
+{
+    "guid": "59af13115434430be822de68",
+    "languageAgnosticNaturalKey": "pub-pkon_8_VIDEO",
+    "naturalKey": "pub-pkon_E_8_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBJFSongs",
+    "description": "",
+    "firstPublished": "2017-11-06T15:39:39.812Z",
+    "duration": 131.072,
+    "durationFormattedHHMM": "2:11",
+    "durationFormattedMinSec": "2m 11s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/9e/pkon_E_008_r240P.mp4",
+            "checksum": "2aac4eaf8c90a1a2427dcb9b0cf830c6",
+            "filesize": 2697886,
+            "modifiedDatetime": "2021-09-30T17:37:25.000Z",
+            "bitRate": 160.8065366744995,
+            "duration": 131.072,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.576,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/96/pkon_E_008.vtt",
+                "modifiedDatetime": "2021-09-30T17:37:19.000Z",
+                "checksum": "0dd5fe67d65ef26a96336749d5c55132"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/dd/pkon_s-Sub_E_008_r240P.mp4",
+            "checksum": "c40df323a3600c598cea5f02ab114592",
+            "filesize": 5920723,
+            "modifiedDatetime": "2020-12-18T05:03:47.000Z",
+            "bitRate": 353.01301552686004,
+            "duration": 131.031,
+            "frameHeight": 180,
+            "frameWidth": 320,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": true,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/96/pkon_E_008.vtt",
+                "modifiedDatetime": "2021-09-30T17:37:19.000Z",
+                "checksum": "0dd5fe67d65ef26a96336749d5c55132"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/38/pkon_E_008_r360P.mp4",
+            "checksum": "223c15f24289320a7d8d7b21f4028b43",
+            "filesize": 4792455,
+            "modifiedDatetime": "2021-09-30T17:37:30.000Z",
+            "bitRate": 285.7027118673168,
+            "duration": 131.049,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/96/pkon_E_008.vtt",
+                "modifiedDatetime": "2021-09-30T17:37:19.000Z",
+                "checksum": "0dd5fe67d65ef26a96336749d5c55132"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/0a/pkon_s-Sub_E_008_r360P.mp4",
+            "checksum": "5c94f1bc24cf4c3c70f0d2ef08b94a21",
+            "filesize": 13770919,
+            "modifiedDatetime": "2019-03-02T21:22:36.000Z",
+            "bitRate": 821.2250380946656,
+            "duration": 131.005875,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 44.056,
+            "mimetype": "video/mp4",
+            "subtitled": true,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/96/pkon_E_008.vtt",
+                "modifiedDatetime": "2021-09-30T17:37:19.000Z",
+                "checksum": "0dd5fe67d65ef26a96336749d5c55132"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/1f/pkon_s-Sub_E_008_r480P.mp4",
+            "checksum": "31e4703f9674efb4cb45ce4ef50a773b",
+            "filesize": 18687847,
+            "modifiedDatetime": "2019-03-02T21:22:41.000Z",
+            "bitRate": 1114.444712403165,
+            "duration": 131.005875,
+            "frameHeight": 480,
+            "frameWidth": 854,
+            "label": "480p",
+            "frameRate": 44.056,
+            "mimetype": "video/mp4",
+            "subtitled": true,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/96/pkon_E_008.vtt",
+                "modifiedDatetime": "2021-09-30T17:37:19.000Z",
+                "checksum": "0dd5fe67d65ef26a96336749d5c55132"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/ff/pkon_E_008_r480P.mp4",
+            "checksum": "518d473a0da43e611b750f2e1cc78d5d",
+            "filesize": 8413854,
+            "modifiedDatetime": "2021-09-30T17:37:32.000Z",
+            "bitRate": 501.5927963967676,
+            "duration": 131.049,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/96/pkon_E_008.vtt",
+                "modifiedDatetime": "2021-09-30T17:37:19.000Z",
+                "checksum": "0dd5fe67d65ef26a96336749d5c55132"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/51/pkon_E_008_r720P.mp4",
+            "checksum": "59b888c1e63d042ab5981e04715164a4",
+            "filesize": 13321364,
+            "modifiedDatetime": "2021-09-30T17:37:34.000Z",
+            "bitRate": 794.1545242619172,
+            "duration": 131.049,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/96/pkon_E_008.vtt",
+                "modifiedDatetime": "2021-09-30T17:37:19.000Z",
+                "checksum": "0dd5fe67d65ef26a96336749d5c55132"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/82/pkon_s-Sub_E_008_r720P.mp4",
+            "checksum": "d9b791f83804423cb83468ce225c031d",
+            "filesize": 26924802,
+            "modifiedDatetime": "2019-03-02T21:23:09.000Z",
+            "bitRate": 1605.6533008538738,
+            "duration": 131.005875,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 44.056,
+            "mimetype": "video/mp4",
+            "subtitled": true,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/96/pkon_E_008.vtt",
+                "modifiedDatetime": "2021-09-30T17:37:19.000Z",
+                "checksum": "0dd5fe67d65ef26a96336749d5c55132"
+            }
+        }
+    ],
+    "printReferences": [
+        "pkon-8.v",
+        "pkon-8"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/96/pkon_E_008.vtt",
+    "Name": "pub-pkon_E_8_VIDEO",
+    "Title": "Journey With Jehovah’s Friends",
+    "UndatedReferenceTitle": "Journey With Jehovah’s Friends",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2017,
+    "Symbol": "SeriesBJFSongs"
+}

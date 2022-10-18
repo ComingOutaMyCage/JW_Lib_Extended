@@ -1,0 +1,102 @@
+{
+    "guid": "5fef6c20e668ffe089122331",
+    "languageAgnosticNaturalKey": "pub-nwtsv_40_VIDEO",
+    "naturalKey": "pub-nwtsv_E_40_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBibleBooks",
+    "description": "",
+    "firstPublished": "2021-01-28T15:00:45.260Z",
+    "duration": 289.814,
+    "durationFormattedHHMM": "4:49",
+    "durationFormattedMinSec": "4m 49s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/65/nwtsv_E_040_r240P.mp4",
+            "checksum": "072146d4c82366acfc4b1a34e4a4e9b5",
+            "filesize": 6026668,
+            "modifiedDatetime": "2021-01-28T07:15:08.000Z",
+            "bitRate": 162.46055659836998,
+            "duration": 289.814,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.438,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/2e/nwtsv_E_040.vtt",
+                "modifiedDatetime": "2021-01-28T07:14:57.000Z",
+                "checksum": "4b74ac0d061a65ff6d483f43f1d0e976"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/fb/nwtsv_E_040_r360P.mp4",
+            "checksum": "c5efc20ed16c0f734fdc2deeadf10dec",
+            "filesize": 12457210,
+            "modifiedDatetime": "2021-01-28T07:15:05.000Z",
+            "bitRate": 335.83497460238584,
+            "duration": 289.791,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/2e/nwtsv_E_040.vtt",
+                "modifiedDatetime": "2021-01-28T07:14:57.000Z",
+                "checksum": "4b74ac0d061a65ff6d483f43f1d0e976"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/33/nwtsv_E_040_r480P.mp4",
+            "checksum": "acb01a7238869eb2276123d3cbce1c87",
+            "filesize": 25294632,
+            "modifiedDatetime": "2021-01-28T07:15:01.000Z",
+            "bitRate": 681.9201165667671,
+            "duration": 289.791,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/2e/nwtsv_E_040.vtt",
+                "modifiedDatetime": "2021-01-28T07:14:57.000Z",
+                "checksum": "4b74ac0d061a65ff6d483f43f1d0e976"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/a5/nwtsv_E_040_r720P.mp4",
+            "checksum": "1fda7fad30a82e714d3a87d88a7b11ad",
+            "filesize": 46728396,
+            "modifiedDatetime": "2021-01-28T07:14:59.000Z",
+            "bitRate": 1259.754767228796,
+            "duration": 289.791,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/2e/nwtsv_E_040.vtt",
+                "modifiedDatetime": "2021-01-28T07:14:57.000Z",
+                "checksum": "4b74ac0d061a65ff6d483f43f1d0e976"
+            }
+        }
+    ],
+    "printReferences": [
+        "nwtsv-40.v",
+        "nwtsv-40"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/2e/nwtsv_E_040.vtt",
+    "Name": "pub-nwtsv_E_40_VIDEO",
+    "Title": "Introduction to Numbers",
+    "UndatedReferenceTitle": "Introduction to Numbers",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "SeriesBibleBooks"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "6157090a6c6199f6a0209841",
+    "languageAgnosticNaturalKey": "pub-jwb-088_7_VIDEO",
+    "naturalKey": "pub-jwb-088_E_7_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2022-04-18T18:04:06.134Z",
+    "duration": 564.139,
+    "durationFormattedHHMM": "9:24",
+    "durationFormattedMinSec": "9m 24s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/a7/jwb-088_E_07_r240P.mp4",
+            "checksum": "6d9503633192e4a7029ba7dac999dcb0",
+            "filesize": 10101230,
+            "modifiedDatetime": "2022-04-18T06:22:09.000Z",
+            "bitRate": 139.88726071943262,
+            "duration": 564.139,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.732,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/12/jwb-088_E_07.vtt",
+                "modifiedDatetime": "2022-04-18T06:22:01.000Z",
+                "checksum": "df174c9f9658714938a8e125b580dbb5"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/29/jwb-088_E_07_r360P.mp4",
+            "checksum": "2a1f7f9e4cc78c4411dc0fd7e15b8362",
+            "filesize": 19482080,
+            "modifiedDatetime": "2022-04-18T06:22:07.000Z",
+            "bitRate": 269.81361692019425,
+            "duration": 564.107,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/12/jwb-088_E_07.vtt",
+                "modifiedDatetime": "2022-04-18T06:22:01.000Z",
+                "checksum": "df174c9f9658714938a8e125b580dbb5"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/de/jwb-088_E_07_r480P.mp4",
+            "checksum": "f639067ff6b058e213655abf9a14f1a5",
+            "filesize": 35280191,
+            "modifiedDatetime": "2022-04-18T06:22:05.000Z",
+            "bitRate": 488.6067575610656,
+            "duration": 564.107,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/12/jwb-088_E_07.vtt",
+                "modifiedDatetime": "2022-04-18T06:22:01.000Z",
+                "checksum": "df174c9f9658714938a8e125b580dbb5"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/dd/jwb-088_E_07_r720P.mp4",
+            "checksum": "796b93d5727639e95778f37076ab50f7",
+            "filesize": 67634383,
+            "modifiedDatetime": "2022-04-18T06:22:02.000Z",
+            "bitRate": 936.6904101305249,
+            "duration": 564.107,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/12/jwb-088_E_07.vtt",
+                "modifiedDatetime": "2022-04-18T06:22:01.000Z",
+                "checksum": "df174c9f9658714938a8e125b580dbb5"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-088-7.v",
+        "jwb-088-7"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/12/jwb-088_E_07.vtt",
+    "Name": "pub-jwb-088_E_7_VIDEO",
+    "Title": "William Malenfant: Spiritually Mature Youths (Prov. 20:11)",
+    "UndatedReferenceTitle": "William Malenfant: Spiritually Mature Youths (Prov. 20:11)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

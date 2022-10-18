@@ -1,0 +1,102 @@
+{
+    "guid": "5eb4130a33192cea84c43b7e",
+    "languageAgnosticNaturalKey": "pub-jwb_202012_6_VIDEO",
+    "naturalKey": "pub-jwb_E_202012_6_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2020-12-21T15:17:38.545Z",
+    "duration": 604.715,
+    "durationFormattedHHMM": "10:04",
+    "durationFormattedMinSec": "10m 4s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/d1/jwb_E_202012_06_r240P.mp4",
+            "checksum": "9c84c440c2671e3adffdb793cd84c737",
+            "filesize": 8856143,
+            "modifiedDatetime": "2020-12-21T15:05:46.000Z",
+            "bitRate": 114.41524881555773,
+            "duration": 604.715,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.615,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/18/jwb_E_202012_06.vtt",
+                "modifiedDatetime": "2020-12-21T15:06:01.000Z",
+                "checksum": "d4a41d2c0015facc40538217c71782e6"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/75/jwb_E_202012_06_r360P.mp4",
+            "checksum": "4503af606450e200a4f624456e699036",
+            "filesize": 18896688,
+            "modifiedDatetime": "2020-12-21T15:05:50.000Z",
+            "bitRate": 244.14588022444892,
+            "duration": 604.681,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/18/jwb_E_202012_06.vtt",
+                "modifiedDatetime": "2020-12-21T15:06:01.000Z",
+                "checksum": "d4a41d2c0015facc40538217c71782e6"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/e2/jwb_E_202012_06_r480P.mp4",
+            "checksum": "854df8defc1986593578da0a7fd239e5",
+            "filesize": 34064886,
+            "modifiedDatetime": "2020-12-21T15:05:53.000Z",
+            "bitRate": 440.11953720226035,
+            "duration": 604.681,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/18/jwb_E_202012_06.vtt",
+                "modifiedDatetime": "2020-12-21T15:06:01.000Z",
+                "checksum": "d4a41d2c0015facc40538217c71782e6"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/1f/jwb_E_202012_06_r720P.mp4",
+            "checksum": "7e4c1ff05c76c2260361808be689786b",
+            "filesize": 63022905,
+            "modifiedDatetime": "2020-12-21T15:05:57.000Z",
+            "bitRate": 814.2581713539865,
+            "duration": 604.681,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/18/jwb_E_202012_06.vtt",
+                "modifiedDatetime": "2020-12-21T15:06:01.000Z",
+                "checksum": "d4a41d2c0015facc40538217c71782e6"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202012-6.v",
+        "jwb.202012-6"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/18/jwb_E_202012_06.vtt",
+    "Name": "pub-jwb_E_202012_6_VIDEO",
+    "Title": "William Malenfant: Learning a New Language (Neh. 13:24)",
+    "UndatedReferenceTitle": "William Malenfant: Learning a New Language (Neh. 13:24)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

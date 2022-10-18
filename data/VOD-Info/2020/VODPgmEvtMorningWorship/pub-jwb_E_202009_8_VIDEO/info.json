@@ -1,0 +1,102 @@
+{
+    "guid": "5eb40bfb33192cea84c41d74",
+    "languageAgnosticNaturalKey": "pub-jwb_202009_8_VIDEO",
+    "naturalKey": "pub-jwb_E_202009_8_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2020-09-21T18:56:16.600Z",
+    "duration": 566.336,
+    "durationFormattedHHMM": "9:26",
+    "durationFormattedMinSec": "9m 26s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/90/jwb_E_202009_08_r240P.mp4",
+            "checksum": "a16d68770cec5422ecc1c1277ca531ef",
+            "filesize": 8832895,
+            "modifiedDatetime": "2020-10-18T03:06:36.000Z",
+            "bitRate": 121.84814701431658,
+            "duration": 566.336,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.586,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f1/jwb_E_202009_08.vtt",
+                "modifiedDatetime": "2020-09-21T14:09:00.000Z",
+                "checksum": "79da6134a4db8bee1cd95fb9ec7028a6"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/1f/jwb_E_202009_08_r360P.mp4",
+            "checksum": "18ea047669f03c8e26c8afc4451fe57d",
+            "filesize": 18041488,
+            "modifiedDatetime": "2020-09-21T14:08:43.000Z",
+            "bitRate": 248.89084404450574,
+            "duration": 566.309,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f1/jwb_E_202009_08.vtt",
+                "modifiedDatetime": "2020-09-21T14:09:00.000Z",
+                "checksum": "79da6134a4db8bee1cd95fb9ec7028a6"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/35/jwb_E_202009_08_r480P.mp4",
+            "checksum": "4937992d0ad3707bffeada917375957a",
+            "filesize": 31391843,
+            "modifiedDatetime": "2020-09-21T14:08:51.000Z",
+            "bitRate": 433.06529374864255,
+            "duration": 566.309,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f1/jwb_E_202009_08.vtt",
+                "modifiedDatetime": "2020-09-21T14:09:00.000Z",
+                "checksum": "79da6134a4db8bee1cd95fb9ec7028a6"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/6a/jwb_E_202009_08_r720P.mp4",
+            "checksum": "ec5b1fbe1e8493f31264109c73310bb3",
+            "filesize": 54665826,
+            "modifiedDatetime": "2020-09-21T14:08:55.000Z",
+            "bitRate": 754.1408764914561,
+            "duration": 566.309,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f1/jwb_E_202009_08.vtt",
+                "modifiedDatetime": "2020-09-21T14:09:00.000Z",
+                "checksum": "79da6134a4db8bee1cd95fb9ec7028a6"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202009-8.v",
+        "jwb.202009-8"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/f1/jwb_E_202009_08.vtt",
+    "Name": "pub-jwb_E_202009_8_VIDEO",
+    "Title": "William Turner, Jr.: Make Known “the Good News” (Rom. 1:16)",
+    "UndatedReferenceTitle": "William Turner, Jr.: Make Known “the Good News” (Rom. 1:16)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

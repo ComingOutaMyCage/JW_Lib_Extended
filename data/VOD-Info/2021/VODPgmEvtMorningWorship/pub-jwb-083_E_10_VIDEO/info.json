@@ -1,0 +1,102 @@
+{
+    "guid": "6138be2aa074a87de6b49ec7",
+    "languageAgnosticNaturalKey": "pub-jwb-083_10_VIDEO",
+    "naturalKey": "pub-jwb-083_E_10_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2021-10-25T14:33:49.927Z",
+    "duration": 658.539,
+    "durationFormattedHHMM": "10:58",
+    "durationFormattedMinSec": "10m 58s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/b5/jwb-083_E_10_r240P.mp4",
+            "checksum": "5e7b2c5c1c94f63842f0f4a4bbfba897",
+            "filesize": 12093949,
+            "modifiedDatetime": "2021-10-25T06:45:13.000Z",
+            "bitRate": 143.47514203790513,
+            "duration": 658.539,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.211,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/5f/jwb-083_E_10.vtt",
+                "modifiedDatetime": "2021-10-25T06:44:55.000Z",
+                "checksum": "79bfc220df0bf02adb84b269da45a24c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/e1/jwb-083_E_10_r360P.mp4",
+            "checksum": "1447de738aa8925b3898f179db54af82",
+            "filesize": 23528754,
+            "modifiedDatetime": "2021-10-25T06:45:11.000Z",
+            "bitRate": 279.1467144696819,
+            "duration": 658.501,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/5f/jwb-083_E_10.vtt",
+                "modifiedDatetime": "2021-10-25T06:44:55.000Z",
+                "checksum": "79bfc220df0bf02adb84b269da45a24c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/47/jwb-083_E_10_r480P.mp4",
+            "checksum": "0351fd3703026a5aa8229e0d6b28b74d",
+            "filesize": 42163957,
+            "modifiedDatetime": "2021-10-25T06:45:06.000Z",
+            "bitRate": 500.23601188532746,
+            "duration": 658.501,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/5f/jwb-083_E_10.vtt",
+                "modifiedDatetime": "2021-10-25T06:44:55.000Z",
+                "checksum": "79bfc220df0bf02adb84b269da45a24c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/6c/jwb-083_E_10_r720P.mp4",
+            "checksum": "56e3d990be9afd761f2c0dadc34afe4d",
+            "filesize": 74925219,
+            "modifiedDatetime": "2021-10-25T06:44:56.000Z",
+            "bitRate": 888.9178200754441,
+            "duration": 658.501,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/5f/jwb-083_E_10.vtt",
+                "modifiedDatetime": "2021-10-25T06:44:55.000Z",
+                "checksum": "79bfc220df0bf02adb84b269da45a24c"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-083-10.v",
+        "jwb-083-10"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/5f/jwb-083_E_10.vtt",
+    "Name": "pub-jwb-083_E_10_VIDEO",
+    "Title": "Hermanus van Selm: Obedience Is a Protection (2 Thess. 1:8)",
+    "UndatedReferenceTitle": "Hermanus van Selm: Obedience Is a Protection (2 Thess. 1:8)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

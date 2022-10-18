@@ -1,0 +1,102 @@
+{
+    "guid": "5ba14567a51af8eef4568fa0",
+    "languageAgnosticNaturalKey": "pub-jwb_201810_2_VIDEO",
+    "naturalKey": "pub-jwb_E_201810_2_VIDEO",
+    "type": "video",
+    "primaryCategory": "StudioTalks",
+    "description": "",
+    "firstPublished": "2018-10-15T21:48:09.817Z",
+    "duration": 1245.056,
+    "durationFormattedHHMM": "20:45",
+    "durationFormattedMinSec": "20m 45s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/60/jwb_E_201810_02_r240P.mp4",
+            "checksum": "165201093292ef3abab979a8a4c200fa",
+            "filesize": 21770814,
+            "modifiedDatetime": "2020-11-07T04:17:11.000Z",
+            "bitRate": 136.6078990623715,
+            "duration": 1245.056,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.326,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/be/jwb_E_201810_02.vtt",
+                "modifiedDatetime": "2018-10-15T19:06:02.000Z",
+                "checksum": "b00e86f7184bea88621e9e6160ffc49a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/0b/jwb_E_201810_02_r360P.mp4",
+            "checksum": "9f1992665d08420a72189a045f2cfed7",
+            "filesize": 45272333,
+            "modifiedDatetime": "2018-10-15T19:06:08.000Z",
+            "bitRate": 284.08387139363225,
+            "duration": 1245.02,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/be/jwb_E_201810_02.vtt",
+                "modifiedDatetime": "2018-10-15T19:06:02.000Z",
+                "checksum": "b00e86f7184bea88621e9e6160ffc49a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/6f/jwb_E_201810_02_r480P.mp4",
+            "checksum": "d35f978dce762970c8491a3348f69a59",
+            "filesize": 82117499,
+            "modifiedDatetime": "2018-10-15T19:06:12.000Z",
+            "bitRate": 515.2872732466145,
+            "duration": 1245.02,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/be/jwb_E_201810_02.vtt",
+                "modifiedDatetime": "2018-10-15T19:06:02.000Z",
+                "checksum": "b00e86f7184bea88621e9e6160ffc49a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/1d/jwb_E_201810_02_r720P.mp4",
+            "checksum": "50e7b1746cabcd19656efd4890fe3e06",
+            "filesize": 135994390,
+            "modifiedDatetime": "2018-10-15T19:06:20.000Z",
+            "bitRate": 853.3647426346565,
+            "duration": 1245.02,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/be/jwb_E_201810_02.vtt",
+                "modifiedDatetime": "2018-10-15T19:06:02.000Z",
+                "checksum": "b00e86f7184bea88621e9e6160ffc49a"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201810-2.v",
+        "jwb.201810-2"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/be/jwb_E_201810_02.vtt",
+    "Name": "pub-jwb_E_201810_2_VIDEO",
+    "Title": "Geoffrey W. Jackson: “Father, Glorify Your Name”",
+    "UndatedReferenceTitle": "Geoffrey W. Jackson: “Father, Glorify Your Name”",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "StudioTalks"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "5b22c380329d2b18632de10b",
+    "languageAgnosticNaturalKey": "pub-jwb_201807_6_VIDEO",
+    "naturalKey": "pub-jwb_E_201807_6_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODBiblePrinciples",
+    "description": "",
+    "firstPublished": "2018-07-16T23:55:20.190Z",
+    "duration": 322.859,
+    "durationFormattedHHMM": "5:22",
+    "durationFormattedMinSec": "5m 22s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/42/jwb_E_201807_06_r240P.mp4",
+            "checksum": "7846924779e4377b5067ead53c8e17b4",
+            "filesize": 7913891,
+            "modifiedDatetime": "2020-11-06T23:26:09.000Z",
+            "bitRate": 191.4993029077709,
+            "duration": 322.859,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.833,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/14/jwb_E_201807_06_r240P.vtt",
+                "modifiedDatetime": "2018-07-16T23:45:03.000Z",
+                "checksum": "bbe9787c20152212cf74117fd2be6cf6"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/86/jwb_E_201807_06_r360P.mp4",
+            "checksum": "f4c60f7183e0ec911e97096c02ede03e",
+            "filesize": 15539891,
+            "modifiedDatetime": "2018-07-16T23:45:04.000Z",
+            "bitRate": 376.0730256656878,
+            "duration": 322.824,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/de/jwb_E_201807_06_r360P.vtt",
+                "modifiedDatetime": "2018-07-16T23:45:06.000Z",
+                "checksum": "bbe9787c20152212cf74117fd2be6cf6"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/29/jwb_E_201807_06_r480P.mp4",
+            "checksum": "d1026040ef993070ce94b60bb7bc8500",
+            "filesize": 28233928,
+            "modifiedDatetime": "2018-07-16T23:45:07.000Z",
+            "bitRate": 683.274981104255,
+            "duration": 322.824,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/cd/jwb_E_201807_06_r480P.vtt",
+                "modifiedDatetime": "2018-07-16T23:45:09.000Z",
+                "checksum": "bbe9787c20152212cf74117fd2be6cf6"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/72/jwb_E_201807_06_r720P.mp4",
+            "checksum": "d19b26569b37962b78492ddc8b0a8d46",
+            "filesize": 46543857,
+            "modifiedDatetime": "2018-07-16T23:45:10.000Z",
+            "bitRate": 1126.384292408557,
+            "duration": 322.824,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/d2/jwb_E_201807_06_r720P.vtt",
+                "modifiedDatetime": "2018-07-16T23:45:12.000Z",
+                "checksum": "bbe9787c20152212cf74117fd2be6cf6"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201807-6.v",
+        "jwb.201807-6"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/14/jwb_E_201807_06_r240P.vtt",
+    "Name": "pub-jwb_E_201807_6_VIDEO",
+    "Title": "Keep “a Tight Grip”—Through Effective Personal Study",
+    "UndatedReferenceTitle": "Keep “a Tight Grip”—Through Effective Personal Study",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "VODBiblePrinciples"
+}

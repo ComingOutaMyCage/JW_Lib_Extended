@@ -1,0 +1,102 @@
+{
+    "guid": "583360a40023ee44860f7936",
+    "languageAgnosticNaturalKey": "docid-502016296_1_VIDEO",
+    "naturalKey": "docid-502016296_E_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesWhiteboard",
+    "description": "",
+    "firstPublished": "2016-12-22T18:22:52.483Z",
+    "duration": 132.703,
+    "durationFormattedHHMM": "2:12",
+    "durationFormattedMinSec": "2m 12s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/51/502016296_E_cnt_1_r240P.mp4",
+            "checksum": "5d0a1db662bdafc9867e3627cbd2a231",
+            "filesize": 5864300,
+            "modifiedDatetime": "2020-10-31T21:59:06.000Z",
+            "bitRate": 345.2434666134149,
+            "duration": 132.703,
+            "frameHeight": 180,
+            "frameWidth": 320,
+            "label": "240p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/1c/502016296_E_cnt_1_r240P.vtt",
+                "modifiedDatetime": "2016-12-22T18:02:39.000Z",
+                "checksum": "8ceee6f1a5490bc13426eae0e9a0643e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/15/502016296_E_cnt_1_r360P.mp4",
+            "checksum": "31af2d17a70bb6cf6377d2b6471f8dfe",
+            "filesize": 13941972,
+            "modifiedDatetime": "2016-12-22T18:02:40.000Z",
+            "bitRate": 821.0175094220898,
+            "duration": 132.66666666667,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/03/502016296_E_cnt_1_r360P.vtt",
+                "modifiedDatetime": "2016-12-22T18:02:43.000Z",
+                "checksum": "8ceee6f1a5490bc13426eae0e9a0643e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/7d/502016296_E_cnt_1_r480P.mp4",
+            "checksum": "ab37f6383df6a20b04920346233662db",
+            "filesize": 19001960,
+            "modifiedDatetime": "2016-12-22T18:02:44.000Z",
+            "bitRate": 1118.9910489949466,
+            "duration": 132.66666666667,
+            "frameHeight": 480,
+            "frameWidth": 854,
+            "label": "480p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/9a/502016296_E_cnt_1_r480P.vtt",
+                "modifiedDatetime": "2016-12-22T18:02:47.000Z",
+                "checksum": "8ceee6f1a5490bc13426eae0e9a0643e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/67/502016296_E_cnt_1_r720P.mp4",
+            "checksum": "3598d34ad73f7866dff5b06c3a717752",
+            "filesize": 27335897,
+            "modifiedDatetime": "2016-12-22T18:02:48.000Z",
+            "bitRate": 1609.7615224559895,
+            "duration": 132.66666666667,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/c0/502016296_E_cnt_1_r720P.vtt",
+                "modifiedDatetime": "2016-12-22T18:02:51.000Z",
+                "checksum": "8ceee6f1a5490bc13426eae0e9a0643e"
+            }
+        }
+    ],
+    "printReferences": [
+        "502016296-1.v",
+        "502016296-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/content_assets/1c/502016296_E_cnt_1_r240P.vtt",
+    "Name": "docid-502016296_E_1_VIDEO",
+    "Title": "Who’s in Control—You or Your Devices?",
+    "UndatedReferenceTitle": "Who’s in Control—You or Your Devices?",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2016,
+    "Symbol": "SeriesWhiteboard"
+}

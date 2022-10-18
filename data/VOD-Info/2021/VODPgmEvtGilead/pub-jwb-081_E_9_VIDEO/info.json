@@ -1,0 +1,102 @@
+{
+    "guid": "6078768e0524ac0a0aff0497",
+    "languageAgnosticNaturalKey": "pub-jwb-081_9_VIDEO",
+    "naturalKey": "pub-jwb-081_E_9_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtGilead",
+    "description": "",
+    "firstPublished": "2021-06-08T14:58:07.206Z",
+    "duration": 565.803,
+    "durationFormattedHHMM": "9:25",
+    "durationFormattedMinSec": "9m 25s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/46/jwb-081_E_09_r240P.mp4",
+            "checksum": "7c4ee1a2f4762c7d373d80469a69d977",
+            "filesize": 10966036,
+            "modifiedDatetime": "2021-06-08T05:12:07.000Z",
+            "bitRate": 151.41693531140697,
+            "duration": 565.803,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.703,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/90/jwb-081_E_09.vtt",
+                "modifiedDatetime": "2021-06-08T05:11:54.000Z",
+                "checksum": "52850014614a33e4edfaea6e8802cb3e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/27/jwb-081_E_09_r360P.mp4",
+            "checksum": "9861697e26cbf977f34ddcad21ee5b52",
+            "filesize": 21347419,
+            "modifiedDatetime": "2021-06-08T05:12:05.000Z",
+            "bitRate": 294.7756810348637,
+            "duration": 565.775,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/90/jwb-081_E_09.vtt",
+                "modifiedDatetime": "2021-06-08T05:11:54.000Z",
+                "checksum": "52850014614a33e4edfaea6e8802cb3e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/6c/jwb-081_E_09_r480P.mp4",
+            "checksum": "0a3e932f853a4e07e56cb76b1eaf53ab",
+            "filesize": 37021355,
+            "modifiedDatetime": "2021-06-08T05:12:00.000Z",
+            "bitRate": 511.20911305289206,
+            "duration": 565.775,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/90/jwb-081_E_09.vtt",
+                "modifiedDatetime": "2021-06-08T05:11:54.000Z",
+                "checksum": "52850014614a33e4edfaea6e8802cb3e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/11/jwb-081_E_09_r720P.mp4",
+            "checksum": "379ec1a7acca9ee8b9271fcafb64c243",
+            "filesize": 59843870,
+            "modifiedDatetime": "2021-06-08T05:11:57.000Z",
+            "bitRate": 826.3536465467722,
+            "duration": 565.775,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/90/jwb-081_E_09.vtt",
+                "modifiedDatetime": "2021-06-08T05:11:54.000Z",
+                "checksum": "52850014614a33e4edfaea6e8802cb3e"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-081-9.v",
+        "jwb-081-9"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/90/jwb-081_E_09.vtt",
+    "Name": "pub-jwb-081_E_9_VIDEO",
+    "Title": "Trent Lippold: Mark Your Meribah",
+    "UndatedReferenceTitle": "Trent Lippold: Mark Your Meribah",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODPgmEvtGilead"
+}

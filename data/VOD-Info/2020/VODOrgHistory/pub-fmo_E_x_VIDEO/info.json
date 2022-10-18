@@ -1,0 +1,102 @@
+{
+    "guid": "5fb2e6ca3082cd7468f9016d",
+    "languageAgnosticNaturalKey": "pub-fmo_x_VIDEO",
+    "naturalKey": "pub-fmo_E_x_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODOrgHistory",
+    "description": "",
+    "firstPublished": "2020-12-31T13:44:04.288Z",
+    "duration": 661.974,
+    "durationFormattedHHMM": "11:01",
+    "durationFormattedMinSec": "11m 1s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/68/fmo_E_r240P.mp4",
+            "checksum": "c550ebf778c235cb059bfd73832f0184",
+            "filesize": 13938651,
+            "modifiedDatetime": "2020-12-31T08:16:52.000Z",
+            "bitRate": 164.50149241133337,
+            "duration": 661.974,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.557,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/c4/fmo_E.vtt",
+                "modifiedDatetime": "2020-12-31T08:17:05.000Z",
+                "checksum": "d1fe4117313defbc45f0f524932a51e8"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/45/fmo_E_r360P.mp4",
+            "checksum": "1842b4f1f1545c596154ef94b5c2f89e",
+            "filesize": 28175732,
+            "modifiedDatetime": "2020-12-31T08:16:54.000Z",
+            "bitRate": 332.5430874945992,
+            "duration": 661.938,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/c4/fmo_E.vtt",
+                "modifiedDatetime": "2020-12-31T08:17:05.000Z",
+                "checksum": "d1fe4117313defbc45f0f524932a51e8"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/c3/fmo_E_r480P.mp4",
+            "checksum": "4da6e8f515e9298482f280733925dab4",
+            "filesize": 57437268,
+            "modifiedDatetime": "2020-12-31T08:16:56.000Z",
+            "bitRate": 677.9013385694733,
+            "duration": 661.938,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/c4/fmo_E.vtt",
+                "modifiedDatetime": "2020-12-31T08:17:05.000Z",
+                "checksum": "d1fe4117313defbc45f0f524932a51e8"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/6f/fmo_E_r720P.mp4",
+            "checksum": "e47ffc57e71fcfc68c513d199871ecfd",
+            "filesize": 105245324,
+            "modifiedDatetime": "2020-12-31T08:16:59.000Z",
+            "bitRate": 1242.1542406539586,
+            "duration": 661.938,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/c4/fmo_E.vtt",
+                "modifiedDatetime": "2020-12-31T08:17:05.000Z",
+                "checksum": "d1fe4117313defbc45f0f524932a51e8"
+            }
+        }
+    ],
+    "printReferences": [
+        "fmo.v",
+        "fmo"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/c4/fmo_E.vtt",
+    "Name": "pub-fmo_E_x_VIDEO",
+    "Title": "Firm Under Opposition",
+    "UndatedReferenceTitle": "Firm Under Opposition",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODOrgHistory"
+}

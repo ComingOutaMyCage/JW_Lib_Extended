@@ -1,0 +1,102 @@
+{
+    "guid": "55faf8e279892656f9a3d735",
+    "languageAgnosticNaturalKey": "pub-jwbrd_201511_2_VIDEO",
+    "naturalKey": "pub-jwbrd_E_201511_2_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODMinistryExpandMinistry",
+    "description": "",
+    "firstPublished": "2015-11-16T14:02:31.149Z",
+    "duration": 453.952,
+    "durationFormattedHHMM": "7:33",
+    "durationFormattedMinSec": "7m 33s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/d2/jwbrd_E_201511_02_r240P.mp4",
+            "checksum": "fdb1cee336c3841290e3b5b33d1a0f99",
+            "filesize": 18978710,
+            "modifiedDatetime": "2021-02-19T22:04:15.000Z",
+            "bitRate": 326.62301713617296,
+            "duration": 453.952,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.557,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/8b/jwbrd_E_201511_02.vtt",
+                "modifiedDatetime": "2021-02-19T22:04:03.000Z",
+                "checksum": "dd5f6b2080d09facfba208bba5dbb200"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/cd/jwbrd_E_201511_02_r360P.mp4",
+            "checksum": "1637c7847936c6614af4cc161c7ec11b",
+            "filesize": 37530590,
+            "modifiedDatetime": "2021-02-19T22:04:21.000Z",
+            "bitRate": 645.9316070209063,
+            "duration": 453.93,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/8b/jwbrd_E_201511_02.vtt",
+                "modifiedDatetime": "2021-02-19T22:04:03.000Z",
+                "checksum": "dd5f6b2080d09facfba208bba5dbb200"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/25/jwbrd_E_201511_02_r480P.mp4",
+            "checksum": "0d2329139f7f551f9ad7c90b3f50bacd",
+            "filesize": 73674032,
+            "modifiedDatetime": "2021-02-19T22:04:26.000Z",
+            "bitRate": 1267.9892824884894,
+            "duration": 453.93,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/8b/jwbrd_E_201511_02.vtt",
+                "modifiedDatetime": "2021-02-19T22:04:03.000Z",
+                "checksum": "dd5f6b2080d09facfba208bba5dbb200"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/ec/jwbrd_E_201511_02_r720P.mp4",
+            "checksum": "a64884d546b2fcad7d480f1fee39ab1a",
+            "filesize": 130195151,
+            "modifiedDatetime": "2021-02-19T22:04:32.000Z",
+            "bitRate": 2240.7631511191153,
+            "duration": 453.93,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/8b/jwbrd_E_201511_02.vtt",
+                "modifiedDatetime": "2021-02-19T22:04:03.000Z",
+                "checksum": "dd5f6b2080d09facfba208bba5dbb200"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwbrd.201511-2.v",
+        "jwbrd.201511-2"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/8b/jwbrd_E_201511_02.vtt",
+    "Name": "pub-jwbrd_E_201511_2_VIDEO",
+    "Title": "Preaching in “the Most Distant Part of the Earth”",
+    "UndatedReferenceTitle": "Preaching in “the Most Distant Part of the Earth”",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2015,
+    "Symbol": "VODMinistryExpandMinistry"
+}

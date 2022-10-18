@@ -1,0 +1,102 @@
+{
+    "guid": "5c520a9b351dc4182b6634dc",
+    "languageAgnosticNaturalKey": "pub-jwb_201903_7_VIDEO",
+    "naturalKey": "pub-jwb_E_201903_7_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2019-03-18T20:27:09.656Z",
+    "duration": 571.414,
+    "durationFormattedHHMM": "9:31",
+    "durationFormattedMinSec": "9m 31s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/eb/jwb_E_201903_07_r240P.mp4",
+            "checksum": "9c14ffee908ce82aed5c392256d196e9",
+            "filesize": 8503667,
+            "modifiedDatetime": "2020-11-23T20:21:56.000Z",
+            "bitRate": 116.26403699856847,
+            "duration": 571.414,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.91,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/d4/jwb_E_201903_07.vtt",
+                "modifiedDatetime": "2019-03-22T15:14:11.000Z",
+                "checksum": "1cb350ac03b57e59062399cc7e5970b0"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/d2/jwb_E_201903_07_r360P.mp4",
+            "checksum": "6f26b3fa1d1db4519d6b01ee11542bac",
+            "filesize": 17868414,
+            "modifiedDatetime": "2019-03-22T15:09:34.000Z",
+            "bitRate": 244.31506188515195,
+            "duration": 571.381,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/d4/jwb_E_201903_07.vtt",
+                "modifiedDatetime": "2019-03-22T15:14:11.000Z",
+                "checksum": "1cb350ac03b57e59062399cc7e5970b0"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/d3/jwb_E_201903_07_r480P.mp4",
+            "checksum": "6f99f429ba10a6bda5f1c0c6bd22e670",
+            "filesize": 31747258,
+            "modifiedDatetime": "2019-03-22T15:17:43.000Z",
+            "bitRate": 434.08068018537546,
+            "duration": 571.381,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/d4/jwb_E_201903_07.vtt",
+                "modifiedDatetime": "2019-03-22T15:14:11.000Z",
+                "checksum": "1cb350ac03b57e59062399cc7e5970b0"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/b6/jwb_E_201903_07_r720P.mp4",
+            "checksum": "8135b62442bb9c3e14b838807661771c",
+            "filesize": 57778657,
+            "modifiedDatetime": "2019-03-22T15:17:47.000Z",
+            "bitRate": 790.0083443665435,
+            "duration": 571.381,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/d4/jwb_E_201903_07.vtt",
+                "modifiedDatetime": "2019-03-22T15:14:11.000Z",
+                "checksum": "1cb350ac03b57e59062399cc7e5970b0"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201903-7.v",
+        "jwb.201903-7"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/d4/jwb_E_201903_07.vtt",
+    "Name": "pub-jwb_E_201903_7_VIDEO",
+    "Title": "Anthony Morris III: Jehovah Protects His People (Ezek. 38:16)",
+    "UndatedReferenceTitle": "Anthony Morris III: Jehovah Protects His People (Ezek. 38:16)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

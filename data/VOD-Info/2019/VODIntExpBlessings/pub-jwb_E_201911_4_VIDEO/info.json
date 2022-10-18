@@ -1,0 +1,102 @@
+{
+    "guid": "5d1396c748fd57354cf34b0c",
+    "languageAgnosticNaturalKey": "pub-jwb_201911_4_VIDEO",
+    "naturalKey": "pub-jwb_E_201911_4_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpBlessings",
+    "description": "",
+    "firstPublished": "2019-11-18T14:10:30.117Z",
+    "duration": 307.392,
+    "durationFormattedHHMM": "5:07",
+    "durationFormattedMinSec": "5m 7s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/37/jwb_E_201911_04_r240P.mp4",
+            "checksum": "90c9f34cea7739f242244a19fbd0ddcf",
+            "filesize": 9648876,
+            "modifiedDatetime": "2020-11-06T20:30:28.000Z",
+            "bitRate": 245.2303369964085,
+            "duration": 307.392,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.952,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/a7/jwb_E_201911_04.vtt",
+                "modifiedDatetime": "2019-11-18T13:09:07.000Z",
+                "checksum": "87f5b3a2042dffdd567c735900635b2f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/66/jwb_E_201911_04_r360P.mp4",
+            "checksum": "172591e90bbbff021d52290ee809c9ab",
+            "filesize": 18043452,
+            "modifiedDatetime": "2019-11-18T13:08:53.000Z",
+            "bitRate": 458.64476573938504,
+            "duration": 307.35,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/a7/jwb_E_201911_04.vtt",
+                "modifiedDatetime": "2019-11-18T13:09:07.000Z",
+                "checksum": "87f5b3a2042dffdd567c735900635b2f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/6d/jwb_E_201911_04_r480P.mp4",
+            "checksum": "4e021543f115429f35b646bc1446fc40",
+            "filesize": 33877471,
+            "modifiedDatetime": "2019-11-18T13:08:57.000Z",
+            "bitRate": 861.1281671953798,
+            "duration": 307.35,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/a7/jwb_E_201911_04.vtt",
+                "modifiedDatetime": "2019-11-18T13:09:07.000Z",
+                "checksum": "87f5b3a2042dffdd567c735900635b2f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/8e/jwb_E_201911_04_r720P.mp4",
+            "checksum": "0fe40d6f69c567e1771fc8a7ce4d0354",
+            "filesize": 57555938,
+            "modifiedDatetime": "2019-11-18T13:09:02.000Z",
+            "bitRate": 1463.008835610867,
+            "duration": 307.35,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/a7/jwb_E_201911_04.vtt",
+                "modifiedDatetime": "2019-11-18T13:09:07.000Z",
+                "checksum": "87f5b3a2042dffdd567c735900635b2f"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201911-4.v",
+        "jwb.201911-4"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/a7/jwb_E_201911_04.vtt",
+    "Name": "pub-jwb_E_201911_4_VIDEO",
+    "Title": "Reeta Francis: “I Am With You”",
+    "UndatedReferenceTitle": "Reeta Francis: “I Am With You”",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODIntExpBlessings"
+}

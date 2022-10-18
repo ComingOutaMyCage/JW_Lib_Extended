@@ -1,0 +1,102 @@
+{
+    "guid": "5e2a024dfaacdecc134c3433",
+    "languageAgnosticNaturalKey": "pub-jwb_202002_9_VIDEO",
+    "naturalKey": "pub-jwb_E_202002_9_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2020-02-10T16:00:44.720Z",
+    "duration": 619.627,
+    "durationFormattedHHMM": "10:19",
+    "durationFormattedMinSec": "10m 19s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/de/jwb_E_202002_09_r240P.mp4",
+            "checksum": "d3af874e9926c80b449c7fcd7d4285d8",
+            "filesize": 8916172,
+            "modifiedDatetime": "2020-10-18T02:59:21.000Z",
+            "bitRate": 112.41859013567841,
+            "duration": 619.627,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.851,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/03/jwb_E_202002_09.vtt",
+                "modifiedDatetime": "2020-02-10T13:41:17.000Z",
+                "checksum": "867edc2015b3bb44b9d10934afdaf9a7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/4e/jwb_E_202002_09_r360P.mp4",
+            "checksum": "6e5d7d7aca6230f09d0be3afeb11368f",
+            "filesize": 17969000,
+            "modifiedDatetime": "2020-02-10T13:41:05.000Z",
+            "bitRate": 226.5718937370379,
+            "duration": 619.595,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/03/jwb_E_202002_09.vtt",
+                "modifiedDatetime": "2020-02-10T13:41:17.000Z",
+                "checksum": "867edc2015b3bb44b9d10934afdaf9a7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/b3/jwb_E_202002_09_r480P.mp4",
+            "checksum": "af8390c1f9cb9a0510ed666a89ae4004",
+            "filesize": 30837733,
+            "modifiedDatetime": "2020-02-10T13:41:09.000Z",
+            "bitRate": 388.83430153971545,
+            "duration": 619.595,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/03/jwb_E_202002_09.vtt",
+                "modifiedDatetime": "2020-02-10T13:41:17.000Z",
+                "checksum": "867edc2015b3bb44b9d10934afdaf9a7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/17/jwb_E_202002_09_r720P.mp4",
+            "checksum": "76cc0706c45b0f913dc093dfe1484df8",
+            "filesize": 55809275,
+            "modifiedDatetime": "2020-02-10T13:41:13.000Z",
+            "bitRate": 703.7015484913532,
+            "duration": 619.595,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/03/jwb_E_202002_09.vtt",
+                "modifiedDatetime": "2020-02-10T13:41:17.000Z",
+                "checksum": "867edc2015b3bb44b9d10934afdaf9a7"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202002-9.v",
+        "jwb.202002-9"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/03/jwb_E_202002_09.vtt",
+    "Name": "pub-jwb_E_202002_9_VIDEO",
+    "Title": "Ronald Curzan: Jehovah’s Name Is Sanctified (Matt. 6:9)",
+    "UndatedReferenceTitle": "Ronald Curzan: Jehovah’s Name Is Sanctified (Matt. 6:9)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

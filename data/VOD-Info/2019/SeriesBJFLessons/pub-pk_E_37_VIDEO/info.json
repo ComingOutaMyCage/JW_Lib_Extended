@@ -1,0 +1,102 @@
+{
+    "guid": "5dd554671b4e58739339a64a",
+    "languageAgnosticNaturalKey": "pub-pk_37_VIDEO",
+    "naturalKey": "pub-pk_E_37_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBJFLessons",
+    "description": "",
+    "firstPublished": "2019-12-02T13:49:04.330Z",
+    "duration": 151.275,
+    "durationFormattedHHMM": "2:31",
+    "durationFormattedMinSec": "2m 31s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/5c/pk_E_037_r240P.mp4",
+            "checksum": "96d518ebad1efa9dde2c3c94ddc79026",
+            "filesize": 4866492,
+            "modifiedDatetime": "2020-12-05T20:34:45.000Z",
+            "bitRate": 251.32684680218145,
+            "duration": 151.275,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.881,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/3b/pk_E_037.vtt",
+                "modifiedDatetime": "2019-12-02T10:15:09.000Z",
+                "checksum": "04676b834c899576d689c04d6053892f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/31/pk_E_037_r360P.mp4",
+            "checksum": "6028e24324f06fb0ca5615eb7a09e64b",
+            "filesize": 8499788,
+            "modifiedDatetime": "2019-12-02T10:14:55.000Z",
+            "bitRate": 439.0792784125473,
+            "duration": 151.236,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/3b/pk_E_037.vtt",
+                "modifiedDatetime": "2019-12-02T10:15:09.000Z",
+                "checksum": "04676b834c899576d689c04d6053892f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/55/pk_E_037_r480P.mp4",
+            "checksum": "0ab2ff32c5e59227736fa45dd068d9d8",
+            "filesize": 15395585,
+            "modifiedDatetime": "2019-12-02T10:14:59.000Z",
+            "bitRate": 795.3001124897512,
+            "duration": 151.236,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/3b/pk_E_037.vtt",
+                "modifiedDatetime": "2019-12-02T10:15:09.000Z",
+                "checksum": "04676b834c899576d689c04d6053892f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/b2/pk_E_037_r720P.mp4",
+            "checksum": "046d98304e73c7dcb72cae1812ae1fe4",
+            "filesize": 24720029,
+            "modifiedDatetime": "2019-12-02T10:15:03.000Z",
+            "bitRate": 1276.979201793885,
+            "duration": 151.236,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/3b/pk_E_037.vtt",
+                "modifiedDatetime": "2019-12-02T10:15:09.000Z",
+                "checksum": "04676b834c899576d689c04d6053892f"
+            }
+        }
+    ],
+    "printReferences": [
+        "pk-37.v",
+        "pk-37"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/3b/pk_E_037.vtt",
+    "Name": "pub-pk_E_37_VIDEO",
+    "Title": "Making Sacrifices",
+    "UndatedReferenceTitle": "Making Sacrifices",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "SeriesBJFLessons"
+}

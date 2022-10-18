@@ -1,0 +1,102 @@
+{
+    "guid": "5efb7981af341cff1318c56e",
+    "languageAgnosticNaturalKey": "pub-jwb_202011_4_VIDEO",
+    "naturalKey": "pub-jwb_E_202011_4_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesWTLessons",
+    "description": "",
+    "firstPublished": "2020-11-16T22:06:56.903Z",
+    "duration": 297.43,
+    "durationFormattedHHMM": "4:57",
+    "durationFormattedMinSec": "4m 57s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/78/jwb_E_202011_04_r240P.mp4",
+            "checksum": "e0ef4ce3f0e4a9cf85ad96e9c91813da",
+            "filesize": 11166745,
+            "modifiedDatetime": "2022-09-12T19:40:07.000Z",
+            "bitRate": 293.3133689019265,
+            "duration": 297.43,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/89/jwb_E_202011_04.vtt",
+                "modifiedDatetime": "2022-09-12T19:39:58.000Z",
+                "checksum": "86cdb699f5df60dc4439a956544a777e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/42/jwb_E_202011_04_r360P.mp4",
+            "checksum": "c4f6ceafa630fdc057b971963ae1b9a4",
+            "filesize": 18263087,
+            "modifiedDatetime": "2022-09-12T19:40:12.000Z",
+            "bitRate": 479.7107460158693,
+            "duration": 297.43,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/89/jwb_E_202011_04.vtt",
+                "modifiedDatetime": "2022-09-12T19:39:58.000Z",
+                "checksum": "86cdb699f5df60dc4439a956544a777e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/32/jwb_E_202011_04_r480P.mp4",
+            "checksum": "9aab518445a4edee98c8d8c046a4a331",
+            "filesize": 34842826,
+            "modifiedDatetime": "2022-09-12T19:40:15.000Z",
+            "bitRate": 915.205521046969,
+            "duration": 297.43,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/89/jwb_E_202011_04.vtt",
+                "modifiedDatetime": "2022-09-12T19:39:58.000Z",
+                "checksum": "86cdb699f5df60dc4439a956544a777e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/42/jwb_E_202011_04_r720P.mp4",
+            "checksum": "598a57d6e61b6ba6f1ebc47b0cbf59b3",
+            "filesize": 57566852,
+            "modifiedDatetime": "2022-09-12T19:41:18.000Z",
+            "bitRate": 1512.0903447870087,
+            "duration": 297.43,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/89/jwb_E_202011_04.vtt",
+                "modifiedDatetime": "2022-09-12T19:39:58.000Z",
+                "checksum": "86cdb699f5df60dc4439a956544a777e"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202011-4.v",
+        "jwb.202011-4"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/89/jwb_E_202011_04.vtt",
+    "Name": "pub-jwb_E_202011_4_VIDEO",
+    "Title": "Lessons From The Watchtower—Safeguard Your Heart",
+    "UndatedReferenceTitle": "Lessons From The Watchtower—Safeguard Your Heart",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "SeriesWTLessons"
+}

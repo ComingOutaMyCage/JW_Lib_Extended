@@ -1,0 +1,102 @@
+{
+    "guid": "62bdb9085649d905f6b79fa5",
+    "languageAgnosticNaturalKey": "pub-mwbv_202209_4_VIDEO",
+    "naturalKey": "pub-mwbv_E_202209_4_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesOrgAccomplishments",
+    "description": "",
+    "firstPublished": "2022-09-05T15:02:36.232Z",
+    "duration": 569.558,
+    "durationFormattedHHMM": "9:29",
+    "durationFormattedMinSec": "9m 29s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/ba/mwbv_E_202209_04_r240P.mp4",
+            "checksum": "28206dbfda7f90173bc6f58717ebce64",
+            "filesize": 16015745,
+            "modifiedDatetime": "2022-09-05T04:46:02.000Z",
+            "bitRate": 219.68440055709866,
+            "duration": 569.558,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/99/mwbv_E_202209_04.vtt",
+                "modifiedDatetime": "2022-09-05T04:45:48.000Z",
+                "checksum": "7efb77d21997a63be4e3f6ab0dbd47e5"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/4d/mwbv_E_202209_04_r360P.mp4",
+            "checksum": "2f84a948935d5bf6be2eb0c401838783",
+            "filesize": 30682978,
+            "modifiedDatetime": "2022-09-05T04:45:57.000Z",
+            "bitRate": 420.88782030459885,
+            "duration": 569.536,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/99/mwbv_E_202209_04.vtt",
+                "modifiedDatetime": "2022-09-05T04:45:48.000Z",
+                "checksum": "7efb77d21997a63be4e3f6ab0dbd47e5"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/0e/mwbv_E_202209_04_r480P.mp4",
+            "checksum": "18436221f887552cc5d3775bbaae08c3",
+            "filesize": 57200791,
+            "modifiedDatetime": "2022-09-05T04:45:53.000Z",
+            "bitRate": 784.640794765388,
+            "duration": 569.536,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/99/mwbv_E_202209_04.vtt",
+                "modifiedDatetime": "2022-09-05T04:45:48.000Z",
+                "checksum": "7efb77d21997a63be4e3f6ab0dbd47e5"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/72/mwbv_E_202209_04_r720P.mp4",
+            "checksum": "274ea43943dc741c9965fc50a329f2aa",
+            "filesize": 97849285,
+            "modifiedDatetime": "2022-09-05T04:45:50.000Z",
+            "bitRate": 1342.228654663621,
+            "duration": 569.536,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/99/mwbv_E_202209_04.vtt",
+                "modifiedDatetime": "2022-09-05T04:45:48.000Z",
+                "checksum": "7efb77d21997a63be4e3f6ab0dbd47e5"
+            }
+        }
+    ],
+    "printReferences": [
+        "mwbv.202209-4.v",
+        "mwbv.202209-4"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/99/mwbv_E_202209_04.vtt",
+    "Name": "pub-mwbv_E_202209_4_VIDEO",
+    "Title": "Organizational Accomplishments—A Support to All Publishers",
+    "UndatedReferenceTitle": "Organizational Accomplishments—A Support to All Publishers",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "SeriesOrgAccomplishments"
+}

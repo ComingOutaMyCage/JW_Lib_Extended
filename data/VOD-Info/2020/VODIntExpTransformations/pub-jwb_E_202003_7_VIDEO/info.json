@@ -1,0 +1,102 @@
+{
+    "guid": "5da5ebdd944f8ae32e52d137",
+    "languageAgnosticNaturalKey": "pub-jwb_202003_7_VIDEO",
+    "naturalKey": "pub-jwb_E_202003_7_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpTransformations",
+    "description": "",
+    "firstPublished": "2020-03-16T21:37:48.234Z",
+    "duration": 70.571,
+    "durationFormattedHHMM": "1:10",
+    "durationFormattedMinSec": "1m 10s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/52/jwb_E_202003_07_r240P.mp4",
+            "checksum": "5b77ea288ee154a15d35ae2413b26aab",
+            "filesize": 2174978,
+            "modifiedDatetime": "2020-10-18T03:00:28.000Z",
+            "bitRate": 240.77901156282326,
+            "duration": 70.571,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.857,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/81/jwb_E_202003_07.vtt",
+                "modifiedDatetime": "2020-03-16T20:10:59.000Z",
+                "checksum": "827ea3d3108fcd5a4d28004a47074f60"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/c3/jwb_E_202003_07_r360P.mp4",
+            "checksum": "d17c03952c80f0499780d3060604bcb0",
+            "filesize": 3475800,
+            "modifiedDatetime": "2020-03-16T20:10:48.000Z",
+            "bitRate": 385.0090387069332,
+            "duration": 70.53,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/81/jwb_E_202003_07.vtt",
+                "modifiedDatetime": "2020-03-16T20:10:59.000Z",
+                "checksum": "827ea3d3108fcd5a4d28004a47074f60"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/fb/jwb_E_202003_07_r480P.mp4",
+            "checksum": "f32f4e165b5f990b9b8237cc1e77be79",
+            "filesize": 5913743,
+            "modifiedDatetime": "2020-03-16T20:10:51.000Z",
+            "bitRate": 655.0562482277045,
+            "duration": 70.53,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/81/jwb_E_202003_07.vtt",
+                "modifiedDatetime": "2020-03-16T20:10:59.000Z",
+                "checksum": "827ea3d3108fcd5a4d28004a47074f60"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/4c/jwb_E_202003_07_r720P.mp4",
+            "checksum": "51a12085991bdddeda20a28af4192f44",
+            "filesize": 9383199,
+            "modifiedDatetime": "2020-03-16T20:10:55.000Z",
+            "bitRate": 1039.3625717779669,
+            "duration": 70.53,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/81/jwb_E_202003_07.vtt",
+                "modifiedDatetime": "2020-03-16T20:10:59.000Z",
+                "checksum": "827ea3d3108fcd5a4d28004a47074f60"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202003-7.v",
+        "jwb.202003-7"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/81/jwb_E_202003_07.vtt",
+    "Name": "pub-jwb_E_202003_7_VIDEO",
+    "Title": "'Why Are You Delaying Baptism?'",
+    "UndatedReferenceTitle": "'Why Are You Delaying Baptism?'",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODIntExpTransformations"
+}

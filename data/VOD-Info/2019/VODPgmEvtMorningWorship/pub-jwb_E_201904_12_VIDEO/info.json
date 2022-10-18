@@ -1,0 +1,102 @@
+{
+    "guid": "5c9e7862db0b288e409debe1",
+    "languageAgnosticNaturalKey": "pub-jwb_201904_12_VIDEO",
+    "naturalKey": "pub-jwb_E_201904_12_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2019-04-22T17:19:07.662Z",
+    "duration": 557.142,
+    "durationFormattedHHMM": "9:17",
+    "durationFormattedMinSec": "9m 17s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/81/jwb_E_201904_12_r240P.mp4",
+            "checksum": "de8ccd301b9cd6e616f3c9c733ae47d7",
+            "filesize": 8233939,
+            "modifiedDatetime": "2020-11-11T21:49:17.000Z",
+            "bitRate": 115.4600594417581,
+            "duration": 557.142,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.412,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f2/jwb_E_201904_12.vtt",
+                "modifiedDatetime": "2019-04-22T13:07:56.000Z",
+                "checksum": "55843fdff6e893355f0759706a03d953"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/16/jwb_E_201904_12_r360P.mp4",
+            "checksum": "af2a2f07f5e7ba900855b85f120e1821",
+            "filesize": 16570215,
+            "modifiedDatetime": "2019-04-22T13:07:27.000Z",
+            "bitRate": 232.37265246365104,
+            "duration": 557.1,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f2/jwb_E_201904_12.vtt",
+                "modifiedDatetime": "2019-04-22T13:07:56.000Z",
+                "checksum": "55843fdff6e893355f0759706a03d953"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/8e/jwb_E_201904_12_r480P.mp4",
+            "checksum": "71b52611b9b9c2d4932ed275b7cad396",
+            "filesize": 30455581,
+            "modifiedDatetime": "2019-04-22T13:07:34.000Z",
+            "bitRate": 427.09428569825883,
+            "duration": 557.1,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f2/jwb_E_201904_12.vtt",
+                "modifiedDatetime": "2019-04-22T13:07:56.000Z",
+                "checksum": "55843fdff6e893355f0759706a03d953"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/9e/jwb_E_201904_12_r720P.mp4",
+            "checksum": "4906030ca3cf2b89f3cffbf48c3bdf69",
+            "filesize": 64986552,
+            "modifiedDatetime": "2019-04-22T13:07:42.000Z",
+            "bitRate": 911.3398626817448,
+            "duration": 557.1,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f2/jwb_E_201904_12.vtt",
+                "modifiedDatetime": "2019-04-22T13:07:56.000Z",
+                "checksum": "55843fdff6e893355f0759706a03d953"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201904-12.v",
+        "jwb.201904-12"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/f2/jwb_E_201904_12.vtt",
+    "Name": "pub-jwb_E_201904_12_VIDEO",
+    "Title": "Gary Breaux: Satan’s Crafty Strategy (Gen. 3:1)",
+    "UndatedReferenceTitle": "Gary Breaux: Satan’s Crafty Strategy (Gen. 3:1)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

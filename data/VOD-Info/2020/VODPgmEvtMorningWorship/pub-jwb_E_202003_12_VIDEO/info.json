@@ -1,0 +1,102 @@
+{
+    "guid": "5e21cd37aff3a23148820728",
+    "languageAgnosticNaturalKey": "pub-jwb_202003_12_VIDEO",
+    "naturalKey": "pub-jwb_E_202003_12_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2020-03-23T11:53:11.073Z",
+    "duration": 588.054,
+    "durationFormattedHHMM": "9:48",
+    "durationFormattedMinSec": "9m 48s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/10/jwb_E_202003_12_r240P.mp4",
+            "checksum": "bc3d9fb190f98817e1e1e6dc88ab0df5",
+            "filesize": 10870048,
+            "modifiedDatetime": "2020-10-18T03:00:55.000Z",
+            "bitRate": 144.41233288099392,
+            "duration": 588.054,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.644,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/4a/jwb_E_202003_12.vtt",
+                "modifiedDatetime": "2020-03-23T06:48:22.000Z",
+                "checksum": "6b88a4fe76b4d25b9fc1261e4ed96036"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/69/jwb_E_202003_12_r360P.mp4",
+            "checksum": "b4ebcebad49817b4386ae51f8c3398a5",
+            "filesize": 21582367,
+            "modifiedDatetime": "2020-03-23T06:47:56.000Z",
+            "bitRate": 286.74039665850955,
+            "duration": 588.031,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/4a/jwb_E_202003_12.vtt",
+                "modifiedDatetime": "2020-03-23T06:48:22.000Z",
+                "checksum": "6b88a4fe76b4d25b9fc1261e4ed96036"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/df/jwb_E_202003_12_r480P.mp4",
+            "checksum": "6ddfd45e1fadf1f9c4f77e9c91993be8",
+            "filesize": 37574822,
+            "modifiedDatetime": "2020-03-23T06:48:02.000Z",
+            "bitRate": 499.2139817033456,
+            "duration": 588.031,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/4a/jwb_E_202003_12.vtt",
+                "modifiedDatetime": "2020-03-23T06:48:22.000Z",
+                "checksum": "6b88a4fe76b4d25b9fc1261e4ed96036"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/1f/jwb_E_202003_12_r720P.mp4",
+            "checksum": "986ae73eb6070c7169fc1ebbffa2900c",
+            "filesize": 62897786,
+            "modifiedDatetime": "2020-03-23T06:48:16.000Z",
+            "bitRate": 835.6514420583269,
+            "duration": 588.031,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/4a/jwb_E_202003_12.vtt",
+                "modifiedDatetime": "2020-03-23T06:48:22.000Z",
+                "checksum": "6b88a4fe76b4d25b9fc1261e4ed96036"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202003-12.v",
+        "jwb.202003-12"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/4a/jwb_E_202003_12.vtt",
+    "Name": "pub-jwb_E_202003_12_VIDEO",
+    "Title": "Robert Luccioni: “Source of Living Water” (Jer. 2:13)",
+    "UndatedReferenceTitle": "Robert Luccioni: “Source of Living Water” (Jer. 2:13)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

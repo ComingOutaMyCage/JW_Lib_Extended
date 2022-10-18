@@ -1,0 +1,102 @@
+{
+    "guid": "5c34a13099077ca5aeb93ea8",
+    "languageAgnosticNaturalKey": "pub-thv_2_VIDEO",
+    "naturalKey": "pub-thv_E_2_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODMinistryApplyTeaching",
+    "description": "",
+    "firstPublished": "2019-01-14T15:37:29.550Z",
+    "duration": 225.131,
+    "durationFormattedHHMM": "3:45",
+    "durationFormattedMinSec": "3m 45s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/52/thv_E_02_r240P.mp4",
+            "checksum": "1f269c23de0c52f50cb3eb1267e78038",
+            "filesize": 4025150,
+            "modifiedDatetime": "2020-11-28T20:23:49.000Z",
+            "bitRate": 139.68082749599122,
+            "duration": 225.131,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.81,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/8d/thv_E_02.vtt",
+                "modifiedDatetime": "2020-11-28T20:23:40.000Z",
+                "checksum": "83d3c71e7d3142e585ef6efb4535bb11"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/d7/thv_E_02_r360P.mp4",
+            "checksum": "eb553a9a7e4a09dd0f07e3ad701d9d34",
+            "filesize": 7811414,
+            "modifiedDatetime": "2020-11-28T20:23:53.000Z",
+            "bitRate": 271.1079554288964,
+            "duration": 225.101,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/8d/thv_E_02.vtt",
+                "modifiedDatetime": "2020-11-28T20:23:40.000Z",
+                "checksum": "83d3c71e7d3142e585ef6efb4535bb11"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/7f/thv_E_02_r480P.mp4",
+            "checksum": "1d43407678f3c1058fd896350d9f6fe2",
+            "filesize": 14899939,
+            "modifiedDatetime": "2020-11-28T20:23:55.000Z",
+            "bitRate": 517.126860553707,
+            "duration": 225.101,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/8d/thv_E_02.vtt",
+                "modifiedDatetime": "2020-11-28T20:23:40.000Z",
+                "checksum": "83d3c71e7d3142e585ef6efb4535bb11"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/bb/thv_E_02_r720P.mp4",
+            "checksum": "0ada6774e310585ffa6c415ccdbddefe",
+            "filesize": 25646544,
+            "modifiedDatetime": "2020-11-28T20:23:58.000Z",
+            "bitRate": 890.1054415573453,
+            "duration": 225.101,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/8d/thv_E_02.vtt",
+                "modifiedDatetime": "2020-11-28T20:23:40.000Z",
+                "checksum": "83d3c71e7d3142e585ef6efb4535bb11"
+            }
+        }
+    ],
+    "printReferences": [
+        "thv-2.v",
+        "thv-2"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/8d/thv_E_02.vtt",
+    "Name": "pub-thv_E_2_VIDEO",
+    "Title": "Study 2—Conversational Manner",
+    "UndatedReferenceTitle": "Study 2—Conversational Manner",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODMinistryApplyTeaching"
+}

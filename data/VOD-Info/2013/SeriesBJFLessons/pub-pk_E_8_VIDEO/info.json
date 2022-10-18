@@ -1,0 +1,102 @@
+{
+    "guid": "553647237f0bc1fc27069bab",
+    "languageAgnosticNaturalKey": "pub-pk_8_VIDEO",
+    "naturalKey": "pub-pk_E_8_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBJFLessons",
+    "description": "",
+    "firstPublished": "2013-11-04T18:00:09.000Z",
+    "duration": 136.534,
+    "durationFormattedHHMM": "2:16",
+    "durationFormattedMinSec": "2m 16s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/a3/pk_E_008_r240P.mp4",
+            "checksum": "af3ffa2d788f9f55f2a3f2852b7ef152",
+            "filesize": 3921909,
+            "modifiedDatetime": "2021-09-15T17:30:36.000Z",
+            "bitRate": 224.41233731158542,
+            "duration": 136.534,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/08/pk_E_008.vtt",
+                "modifiedDatetime": "2021-09-15T17:30:33.000Z",
+                "checksum": "7eace28007420ad4d0f38ecf3cce8d76"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/38/pk_E_008_r360P.mp4",
+            "checksum": "98d5cf9e7fa209cada8c1305117ca21f",
+            "filesize": 6363947,
+            "modifiedDatetime": "2021-09-15T17:30:38.000Z",
+            "bitRate": 364.23422493241804,
+            "duration": 136.501,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/08/pk_E_008.vtt",
+                "modifiedDatetime": "2021-09-15T17:30:33.000Z",
+                "checksum": "7eace28007420ad4d0f38ecf3cce8d76"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/c1/pk_E_008_r480P.mp4",
+            "checksum": "f23e469d2f05ed61740f12f9b87652c6",
+            "filesize": 12501548,
+            "modifiedDatetime": "2021-09-15T17:30:43.000Z",
+            "bitRate": 715.5137599724544,
+            "duration": 136.501,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/08/pk_E_008.vtt",
+                "modifiedDatetime": "2021-09-15T17:30:33.000Z",
+                "checksum": "7eace28007420ad4d0f38ecf3cce8d76"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/e2/pk_E_008_r720P.mp4",
+            "checksum": "e9f6c917e746642745c0eb281f7aaa71",
+            "filesize": 31341606,
+            "modifiedDatetime": "2021-09-15T17:30:48.000Z",
+            "bitRate": 1793.8058832902323,
+            "duration": 136.501,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/08/pk_E_008.vtt",
+                "modifiedDatetime": "2021-09-15T17:30:33.000Z",
+                "checksum": "7eace28007420ad4d0f38ecf3cce8d76"
+            }
+        }
+    ],
+    "printReferences": [
+        "pk-8.v",
+        "pk-8"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/08/pk_E_008.vtt",
+    "Name": "pub-pk_E_8_VIDEO",
+    "Title": "Be Neat and Clean",
+    "UndatedReferenceTitle": "Be Neat and Clean",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2013,
+    "Symbol": "SeriesBJFLessons"
+}

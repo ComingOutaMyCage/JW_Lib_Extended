@@ -1,0 +1,102 @@
+{
+    "guid": "56d0ad5679892656f9a4640b",
+    "languageAgnosticNaturalKey": "pub-jwbiv_201604_2_VIDEO",
+    "naturalKey": "pub-jwbiv_E_201604_2_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesOriginsLife",
+    "description": "",
+    "firstPublished": "2016-04-04T15:13:15.373Z",
+    "duration": 205.206,
+    "durationFormattedHHMM": "3:25",
+    "durationFormattedMinSec": "3m 25s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/63/jwbiv_E_201604_02_r240P.mp4",
+            "checksum": "6e29f3a945b320aab70456cd6696fc5a",
+            "filesize": 6033269,
+            "modifiedDatetime": "2020-11-08T03:16:51.000Z",
+            "bitRate": 229.69559400066277,
+            "duration": 205.206,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.645,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/76/jwbiv_E_201604_02.vtt",
+                "modifiedDatetime": "2019-10-08T19:07:05.000Z",
+                "checksum": "ffb6ec5c64122ede66e11978a85acdef"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/f1/jwbiv_E_201604_02_r360P.mp4",
+            "checksum": "f376c1285d42473e1aff634e47e5885f",
+            "filesize": 11811622,
+            "modifiedDatetime": "2019-10-08T19:07:16.000Z",
+            "bitRate": 449.7760186922721,
+            "duration": 205.165,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/76/jwbiv_E_201604_02.vtt",
+                "modifiedDatetime": "2019-10-08T19:07:05.000Z",
+                "checksum": "ffb6ec5c64122ede66e11978a85acdef"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/6e/jwbiv_E_201604_02_r480P.mp4",
+            "checksum": "0abe1259e764b4ec7752b48e5a79d3e4",
+            "filesize": 22792485,
+            "modifiedDatetime": "2019-10-08T19:07:02.000Z",
+            "bitRate": 867.9174764823435,
+            "duration": 205.165,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/76/jwbiv_E_201604_02.vtt",
+                "modifiedDatetime": "2019-10-08T19:07:05.000Z",
+                "checksum": "ffb6ec5c64122ede66e11978a85acdef"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/f5/jwbiv_E_201604_02_r720P.mp4",
+            "checksum": "fa0ebd55bedb8ccd21b02e5681050bfc",
+            "filesize": 39572215,
+            "modifiedDatetime": "2019-10-08T19:07:10.000Z",
+            "bitRate": 1506.874611593108,
+            "duration": 205.165,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/76/jwbiv_E_201604_02.vtt",
+                "modifiedDatetime": "2019-10-08T19:07:05.000Z",
+                "checksum": "ffb6ec5c64122ede66e11978a85acdef"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwbiv.201604-2.v",
+        "jwbiv.201604-2"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/76/jwbiv_E_201604_02.vtt",
+    "Name": "pub-jwbiv_E_201604_2_VIDEO",
+    "Title": "Yaroslav Dovhanych: A Zoologist Explains His Faith",
+    "UndatedReferenceTitle": "Yaroslav Dovhanych: A Zoologist Explains His Faith",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2016,
+    "Symbol": "SeriesOriginsLife"
+}

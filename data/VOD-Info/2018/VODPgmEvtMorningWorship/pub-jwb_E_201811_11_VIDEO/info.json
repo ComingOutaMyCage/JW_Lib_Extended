@@ -1,0 +1,102 @@
+{
+    "guid": "5bd2f231960f5b04ef4a8ee3",
+    "languageAgnosticNaturalKey": "pub-jwb_201811_11_VIDEO",
+    "naturalKey": "pub-jwb_E_201811_11_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2018-11-26T14:42:43.908Z",
+    "duration": 619.222,
+    "durationFormattedHHMM": "10:19",
+    "durationFormattedMinSec": "10m 19s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/61/jwb_E_201811_11_r240P.mp4",
+            "checksum": "d7d86025c436abe34adff22e48c8e15e",
+            "filesize": 9376203,
+            "modifiedDatetime": "2020-11-07T04:17:19.000Z",
+            "bitRate": 118.29616185713687,
+            "duration": 619.222,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.499,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/92/jwb_E_201811_11.vtt",
+                "modifiedDatetime": "2018-11-26T14:15:12.000Z",
+                "checksum": "e496fd59059ff1286027ea7e421db97e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/5d/jwb_E_201811_11_r360P.mp4",
+            "checksum": "916fa1c952b35498c68b3b1385a9662a",
+            "filesize": 19595506,
+            "modifiedDatetime": "2018-11-26T14:14:50.000Z",
+            "bitRate": 247.24019190238937,
+            "duration": 619.195,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/92/jwb_E_201811_11.vtt",
+                "modifiedDatetime": "2018-11-26T14:15:12.000Z",
+                "checksum": "e496fd59059ff1286027ea7e421db97e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/6e/jwb_E_201811_11_r480P.mp4",
+            "checksum": "437d63109fea240042b99a1281ecb23b",
+            "filesize": 36112572,
+            "modifiedDatetime": "2018-11-26T14:14:56.000Z",
+            "bitRate": 455.63912620418444,
+            "duration": 619.195,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/92/jwb_E_201811_11.vtt",
+                "modifiedDatetime": "2018-11-26T14:15:12.000Z",
+                "checksum": "e496fd59059ff1286027ea7e421db97e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/88/jwb_E_201811_11_r720P.mp4",
+            "checksum": "e2a1bd1d3a81a57c0a6fb5b6b1fb3ea8",
+            "filesize": 70910400,
+            "modifiedDatetime": "2018-11-26T14:15:02.000Z",
+            "bitRate": 894.6898796017409,
+            "duration": 619.195,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/92/jwb_E_201811_11.vtt",
+                "modifiedDatetime": "2018-11-26T14:15:12.000Z",
+                "checksum": "e496fd59059ff1286027ea7e421db97e"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201811-11.v",
+        "jwb.201811-11"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/92/jwb_E_201811_11.vtt",
+    "Name": "pub-jwb_E_201811_11_VIDEO",
+    "Title": "Joel Dellinger: Strengthen Our Hope (Rev. 21:4)",
+    "UndatedReferenceTitle": "Joel Dellinger: Strengthen Our Hope (Rev. 21:4)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "5b97cf64887c963ad88eef9a",
+    "languageAgnosticNaturalKey": "pub-jwb_201810_9_VIDEO",
+    "naturalKey": "pub-jwb_E_201810_9_VIDEO",
+    "type": "video",
+    "primaryCategory": "Reports",
+    "description": "",
+    "firstPublished": "2018-10-08T11:02:26.240Z",
+    "duration": 597.142,
+    "durationFormattedHHMM": "9:57",
+    "durationFormattedMinSec": "9m 57s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/03/jwb_E_201810_09_r240P.mp4",
+            "checksum": "1d204c2576a6fbadfa7448ef6492bb45",
+            "filesize": 17483853,
+            "modifiedDatetime": "2020-11-03T22:15:32.000Z",
+            "bitRate": 228.74391947392746,
+            "duration": 597.142,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.412,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/0b/jwb_E_201810_09.vtt",
+                "modifiedDatetime": "2018-10-08T08:43:56.000Z",
+                "checksum": "8df862b7e84520eaa3d8becb4134731e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/95/jwb_E_201810_09_r360P.mp4",
+            "checksum": "93b275fe720adeb5c5ae0356cc9b7d12",
+            "filesize": 32614345,
+            "modifiedDatetime": "2018-10-08T08:44:02.000Z",
+            "bitRate": 426.7241834992447,
+            "duration": 597.106,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/0b/jwb_E_201810_09.vtt",
+                "modifiedDatetime": "2018-10-08T08:43:56.000Z",
+                "checksum": "8df862b7e84520eaa3d8becb4134731e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/ca/jwb_E_201810_09_r480P.mp4",
+            "checksum": "c41777e8e87e9a8333daa3e6fba622ea",
+            "filesize": 60921133,
+            "modifiedDatetime": "2018-10-08T08:44:07.000Z",
+            "bitRate": 797.0885430099513,
+            "duration": 597.106,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/0b/jwb_E_201810_09.vtt",
+                "modifiedDatetime": "2018-10-08T08:43:56.000Z",
+                "checksum": "8df862b7e84520eaa3d8becb4134731e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/d7/jwb_E_201810_09_r720P.mp4",
+            "checksum": "9e41f12693f368893512054bd1abf387",
+            "filesize": 107731687,
+            "modifiedDatetime": "2018-10-08T08:44:16.000Z",
+            "bitRate": 1409.5550952217864,
+            "duration": 597.106,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/0b/jwb_E_201810_09.vtt",
+                "modifiedDatetime": "2018-10-08T08:43:56.000Z",
+                "checksum": "8df862b7e84520eaa3d8becb4134731e"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201810-9.v",
+        "jwb.201810-9"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/0b/jwb_E_201810_09.vtt",
+    "Name": "pub-jwb_E_201810_9_VIDEO",
+    "Title": "M. Stephen Lett: Greece, Ghana, and Malaysia Travel Report",
+    "UndatedReferenceTitle": "M. Stephen Lett: Greece, Ghana, and Malaysia Travel Report",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "Reports"
+}

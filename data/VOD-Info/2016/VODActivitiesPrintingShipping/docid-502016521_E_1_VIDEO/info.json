@@ -1,0 +1,102 @@
+{
+    "guid": "56ab8dc379892656f9a44428",
+    "languageAgnosticNaturalKey": "docid-502016521_1_VIDEO",
+    "naturalKey": "docid-502016521_E_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODActivitiesPrintingShipping",
+    "description": "",
+    "firstPublished": "2016-02-29T16:56:16.652Z",
+    "duration": 265.963,
+    "durationFormattedHHMM": "4:25",
+    "durationFormattedMinSec": "4m 25s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/04/502016521_E_cnt_1_r240P.mp4",
+            "checksum": "6fd97944f22fb0581deb57219322fc57",
+            "filesize": 11295924,
+            "modifiedDatetime": "2021-01-11T13:27:46.000Z",
+            "bitRate": 331.8108392896756,
+            "duration": 265.963,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.904,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/5a/502016521_E_cnt_1.vtt",
+                "modifiedDatetime": "2021-01-11T13:27:41.000Z",
+                "checksum": "e7c271b445850d61d87e2cbf83dd76c4"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/a1/502016521_E_cnt_1_r360P.mp4",
+            "checksum": "a08f920133e4687a35e46c3a2708492a",
+            "filesize": 22439014,
+            "modifiedDatetime": "2021-01-11T13:27:50.000Z",
+            "bitRate": 659.2041516880128,
+            "duration": 265.934,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/5a/502016521_E_cnt_1.vtt",
+                "modifiedDatetime": "2021-01-11T13:27:41.000Z",
+                "checksum": "e7c271b445850d61d87e2cbf83dd76c4"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/e2/502016521_E_cnt_1_r480P.mp4",
+            "checksum": "f0895dc0fbc5a9b1f928fb1effc83a9a",
+            "filesize": 45035865,
+            "modifiedDatetime": "2021-01-11T13:27:54.000Z",
+            "bitRate": 1323.0451740375431,
+            "duration": 265.934,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/5a/502016521_E_cnt_1.vtt",
+                "modifiedDatetime": "2021-01-11T13:27:41.000Z",
+                "checksum": "e7c271b445850d61d87e2cbf83dd76c4"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/13/502016521_E_cnt_1_r720P.mp4",
+            "checksum": "52a3d87748725154bf46d0ee70efb97c",
+            "filesize": 79833535,
+            "modifiedDatetime": "2021-01-11T13:28:00.000Z",
+            "bitRate": 2345.316853758827,
+            "duration": 265.934,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/5a/502016521_E_cnt_1.vtt",
+                "modifiedDatetime": "2021-01-11T13:27:41.000Z",
+                "checksum": "e7c271b445850d61d87e2cbf83dd76c4"
+            }
+        }
+    ],
+    "printReferences": [
+        "502016521-1.v",
+        "502016521-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/content_assets/5a/502016521_E_cnt_1.vtt",
+    "Name": "docid-502016521_E_1_VIDEO",
+    "Title": "Distributing Bible Literature in Congo",
+    "UndatedReferenceTitle": "Distributing Bible Literature in Congo",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2016,
+    "Symbol": "VODActivitiesPrintingShipping"
+}

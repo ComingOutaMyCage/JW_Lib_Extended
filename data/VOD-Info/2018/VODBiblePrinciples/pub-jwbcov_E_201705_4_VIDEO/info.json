@@ -1,0 +1,178 @@
+{
+    "guid": "5a4fa29fb39ef34e430c0b75",
+    "languageAgnosticNaturalKey": "pub-jwbcov_201705_4_VIDEO",
+    "naturalKey": "pub-jwbcov_E_201705_4_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODBiblePrinciples",
+    "description": "",
+    "firstPublished": "2018-01-22T16:06:44.920Z",
+    "duration": 1075.851,
+    "durationFormattedHHMM": "17:55",
+    "durationFormattedMinSec": "17m 55s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/b8/jwbcov_E_201705_04_r240P.mp4",
+            "checksum": "e4b00279c50d849ffb4640e0b8fcccdd",
+            "filesize": 46788284,
+            "modifiedDatetime": "2020-11-14T11:12:19.000Z",
+            "bitRate": 339.7621685066054,
+            "duration": 1075.851,
+            "frameHeight": 180,
+            "frameWidth": 320,
+            "label": "240p",
+            "frameRate": 30,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/0b/jwbcov_E_201705_04_r240P.vtt",
+                "modifiedDatetime": "2019-02-20T23:32:25.000Z",
+                "checksum": "81e2da4eb73d0b4c25180db4515e793a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/0e/jwbcov_s-Sub_E_201705_04_r240P.mp4",
+            "checksum": "670a4d377ce8b18d4f8d98b55d3c415f",
+            "filesize": 48305016,
+            "modifiedDatetime": "2020-11-04T04:32:04.000Z",
+            "bitRate": 350.77621111101814,
+            "duration": 1075.851,
+            "frameHeight": 180,
+            "frameWidth": 320,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": true,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/0b/jwbcov_E_201705_04_r240P.vtt",
+                "modifiedDatetime": "2019-02-20T23:32:25.000Z",
+                "checksum": "81e2da4eb73d0b4c25180db4515e793a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/be/jwbcov_E_201705_04_r360P.mp4",
+            "checksum": "2c93b68c666f467a1d339199db8d3a29",
+            "filesize": 112469715,
+            "modifiedDatetime": "2019-02-24T01:27:51.000Z",
+            "bitRate": 816.7529672455595,
+            "duration": 1075.8083333333334,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 2205,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/9c/jwbcov_E_201705_04_r360P.vtt",
+                "modifiedDatetime": "2019-02-24T01:27:52.000Z",
+                "checksum": "81e2da4eb73d0b4c25180db4515e793a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/28/jwbcov_s-Sub_E_201705_04_r360P.mp4",
+            "checksum": "1c8b3bea06ffd3eaa06c55ded83d0609",
+            "filesize": 111710816,
+            "modifiedDatetime": "2019-02-24T15:14:14.000Z",
+            "bitRate": 811.2420579854362,
+            "duration": 1075.8080666666667,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 44.056,
+            "mimetype": "video/mp4",
+            "subtitled": true,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/9c/jwbcov_E_201705_04_r360P.vtt",
+                "modifiedDatetime": "2019-02-24T01:27:52.000Z",
+                "checksum": "81e2da4eb73d0b4c25180db4515e793a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/9d/jwbcov_s-Sub_E_201705_04_r480P.mp4",
+            "checksum": "338848737218a700bc87a0f5a942608b",
+            "filesize": 152340200,
+            "modifiedDatetime": "2019-02-24T16:36:11.000Z",
+            "bitRate": 1106.2919579954812,
+            "duration": 1075.8080666666667,
+            "frameHeight": 480,
+            "frameWidth": 854,
+            "label": "480p",
+            "frameRate": 44.056,
+            "mimetype": "video/mp4",
+            "subtitled": true,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/e2/jwbcov_E_201705_04_r480P.vtt",
+                "modifiedDatetime": "2019-02-24T16:06:16.000Z",
+                "checksum": "81e2da4eb73d0b4c25180db4515e793a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/d1/jwbcov_E_201705_04_r480P.mp4",
+            "checksum": "7268f00fac6be78c0802ebdfebd26e30",
+            "filesize": 152635785,
+            "modifiedDatetime": "2019-02-24T16:06:16.000Z",
+            "bitRate": 1108.4382165154882,
+            "duration": 1075.8083333333334,
+            "frameHeight": 480,
+            "frameWidth": 854,
+            "label": "480p",
+            "frameRate": 2205,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/e2/jwbcov_E_201705_04_r480P.vtt",
+                "modifiedDatetime": "2019-02-24T16:06:16.000Z",
+                "checksum": "81e2da4eb73d0b4c25180db4515e793a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/f7/jwbcov_E_201705_04_r720P.mp4",
+            "checksum": "caf624b0fca6afa1fb463b12de0dc979",
+            "filesize": 220706069,
+            "modifiedDatetime": "2019-02-26T05:46:25.000Z",
+            "bitRate": 1602.7633460692346,
+            "duration": 1075.8083333333334,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 2205,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/6c/jwbcov_E_201705_04_r720P.vtt",
+                "modifiedDatetime": "2019-02-26T05:46:26.000Z",
+                "checksum": "81e2da4eb73d0b4c25180db4515e793a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/ff/jwbcov_s-Sub_E_201705_04_r720P.mp4",
+            "checksum": "9218a737d73bc96315378a2e13353052",
+            "filesize": 220230302,
+            "modifiedDatetime": "2019-02-26T05:45:01.000Z",
+            "bitRate": 1599.3087314413146,
+            "duration": 1075.8080666666667,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 44.056,
+            "mimetype": "video/mp4",
+            "subtitled": true,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/6c/jwbcov_E_201705_04_r720P.vtt",
+                "modifiedDatetime": "2019-02-26T05:46:26.000Z",
+                "checksum": "81e2da4eb73d0b4c25180db4515e793a"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwbcov.201705-4.v",
+        "jwbcov.201705-4"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/0b/jwbcov_E_201705_04_r240P.vtt",
+    "Name": "pub-jwbcov_E_201705_4_VIDEO",
+    "Title": "Cultivate Qualities That Promote Endurance",
+    "UndatedReferenceTitle": "Cultivate Qualities That Promote Endurance",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "VODBiblePrinciples"
+}

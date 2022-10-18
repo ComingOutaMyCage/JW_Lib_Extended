@@ -1,0 +1,102 @@
+{
+    "guid": "5e70c6b2faacdecc13286298",
+    "languageAgnosticNaturalKey": "pub-jwb_202005_5_VIDEO",
+    "naturalKey": "pub-jwb_E_202005_5_VIDEO",
+    "type": "video",
+    "primaryCategory": "MeetingsConventions",
+    "description": "",
+    "firstPublished": "2020-05-04T12:08:05.515Z",
+    "duration": 68.352,
+    "durationFormattedHHMM": "1:08",
+    "durationFormattedMinSec": "1m 8s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/e1/jwb_E_202005_05_r240P.mp4",
+            "checksum": "fda290f079de8d21eaa60f6cbeba6358",
+            "filesize": 2922540,
+            "modifiedDatetime": "2020-10-18T03:03:05.000Z",
+            "bitRate": 334.0406096383427,
+            "duration": 68.352,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.553,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/10/jwb_E_202005_05.vtt",
+                "modifiedDatetime": "2020-05-04T09:21:19.000Z",
+                "checksum": "8790cbeecf665ab3e979e365af976796"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/07/jwb_E_202005_05_r360P.mp4",
+            "checksum": "0f48b6078fa4923db4e6d26be1160b8d",
+            "filesize": 4926343,
+            "modifiedDatetime": "2020-05-04T09:21:31.000Z",
+            "bitRate": 563.3351095945551,
+            "duration": 68.32,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/10/jwb_E_202005_05.vtt",
+                "modifiedDatetime": "2020-05-04T09:21:19.000Z",
+                "checksum": "8790cbeecf665ab3e979e365af976796"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/67/jwb_E_202005_05_r480P.mp4",
+            "checksum": "3e1d50a43432ae154bad977f4bbc8a13",
+            "filesize": 8732154,
+            "modifiedDatetime": "2020-05-04T09:21:34.000Z",
+            "bitRate": 998.5356136563233,
+            "duration": 68.32,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/10/jwb_E_202005_05.vtt",
+                "modifiedDatetime": "2020-05-04T09:21:19.000Z",
+                "checksum": "8790cbeecf665ab3e979e365af976796"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/04/jwb_E_202005_05_r720P.mp4",
+            "checksum": "ef0121b2afb14e8ffdb24e8642a5e039",
+            "filesize": 14142558,
+            "modifiedDatetime": "2020-05-04T09:21:41.000Z",
+            "bitRate": 1617.2238638026934,
+            "duration": 68.32,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/10/jwb_E_202005_05.vtt",
+                "modifiedDatetime": "2020-05-04T09:21:19.000Z",
+                "checksum": "8790cbeecf665ab3e979e365af976796"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202005-5.v",
+        "jwb.202005-5"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/10/jwb_E_202005_05.vtt",
+    "Name": "pub-jwb_E_202005_5_VIDEO",
+    "Title": "2020 Convention of Jehovah’s Witnesses: “Always Rejoice”!",
+    "UndatedReferenceTitle": "2020 Convention of Jehovah’s Witnesses: “Always Rejoice”!",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "MeetingsConventions"
+}

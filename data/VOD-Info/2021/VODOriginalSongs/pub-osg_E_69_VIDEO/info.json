@@ -1,0 +1,102 @@
+{
+    "guid": "602c34c0aa8dbd024d51b347",
+    "languageAgnosticNaturalKey": "pub-osg_69_VIDEO",
+    "naturalKey": "pub-osg_E_69_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODOriginalSongs",
+    "description": "",
+    "firstPublished": "2021-09-20T16:02:55.965Z",
+    "duration": 255.083,
+    "durationFormattedHHMM": "4:15",
+    "durationFormattedMinSec": "4m 15s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/1d/osg_E_069_r240P.mp4",
+            "checksum": "fc32b92f02dd8f5fcf23cef1551fe7d3",
+            "filesize": 15663133,
+            "modifiedDatetime": "2021-09-20T05:50:39.000Z",
+            "bitRate": 479.7192543701462,
+            "duration": 255.083,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.576,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/4b/osg_E_069.vtt",
+                "modifiedDatetime": "2021-09-20T05:50:25.000Z",
+                "checksum": "3d264c2167e8c3373a0d9ece0efc1ff9"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/96/osg_E_069_r360P.mp4",
+            "checksum": "78389af9a1e7fe23e0882485fdc0156d",
+            "filesize": 29455693,
+            "modifiedDatetime": "2021-09-20T05:50:37.000Z",
+            "bitRate": 902.2717353694206,
+            "duration": 255.048,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/4b/osg_E_069.vtt",
+                "modifiedDatetime": "2021-09-20T05:50:25.000Z",
+                "checksum": "3d264c2167e8c3373a0d9ece0efc1ff9"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/f7/osg_E_069_r480P.mp4",
+            "checksum": "ad251d65c88c189b3a11ef17b437eadc",
+            "filesize": 57743703,
+            "modifiedDatetime": "2021-09-20T05:50:35.000Z",
+            "bitRate": 1768.775601798485,
+            "duration": 255.048,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/4b/osg_E_069.vtt",
+                "modifiedDatetime": "2021-09-20T05:50:25.000Z",
+                "checksum": "3d264c2167e8c3373a0d9ece0efc1ff9"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/3a/osg_E_069_r720P.mp4",
+            "checksum": "b0fade2f86c9977edc8667d2d83b191a",
+            "filesize": 99697499,
+            "modifiedDatetime": "2021-09-20T05:50:32.000Z",
+            "bitRate": 3053.8828414161258,
+            "duration": 255.048,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/4b/osg_E_069.vtt",
+                "modifiedDatetime": "2021-09-20T05:50:25.000Z",
+                "checksum": "3d264c2167e8c3373a0d9ece0efc1ff9"
+            }
+        }
+    ],
+    "printReferences": [
+        "osg-69.v",
+        "osg-69"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/4b/osg_E_069.vtt",
+    "Name": "pub-osg_E_69_VIDEO",
+    "Title": "\"Always Rejoice\"",
+    "UndatedReferenceTitle": "\"Always Rejoice\"",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODOriginalSongs"
+}

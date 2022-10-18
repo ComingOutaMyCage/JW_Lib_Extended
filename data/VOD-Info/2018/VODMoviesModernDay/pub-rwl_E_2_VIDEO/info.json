@@ -1,0 +1,102 @@
+{
+    "guid": "58ee302ba25a39c2e32b1a5e",
+    "languageAgnosticNaturalKey": "pub-rwl_2_VIDEO",
+    "naturalKey": "pub-rwl_E_2_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODMoviesModernDay",
+    "description": "",
+    "firstPublished": "2017-12-31T23:33:38.185Z",
+    "duration": 1666.499,
+    "durationFormattedHHMM": "27:46",
+    "durationFormattedMinSec": "27m 46s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/5f/rwl_E_02_r240P.mp4",
+            "checksum": "e09897e5a691a272ebcfb0da6a8ac7f4",
+            "filesize": 64465366,
+            "modifiedDatetime": "2020-12-06T00:21:21.000Z",
+            "bitRate": 302.21180563264664,
+            "duration": 1666.499,
+            "frameHeight": 180,
+            "frameWidth": 320,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/50/rwl_E_02_r240P.vtt",
+                "modifiedDatetime": "2019-03-10T06:56:07.000Z",
+                "checksum": "525314163b7229dbd05953f9a05e7256"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/b8/rwl_E_02_r360P.mp4",
+            "checksum": "f935bb5fb9c2d001e42dd035517221a7",
+            "filesize": 172589747,
+            "modifiedDatetime": "2019-03-10T06:57:34.000Z",
+            "bitRate": 809.0961577744353,
+            "duration": 1666.4983333333332,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/58/rwl_E_02_r360P.vtt",
+                "modifiedDatetime": "2019-03-10T06:57:35.000Z",
+                "checksum": "525314163b7229dbd05953f9a05e7256"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/0e/rwl_E_02_r480P.mp4",
+            "checksum": "79e9b9de12abd949ac7e9eb8064c1668",
+            "filesize": 237988124,
+            "modifiedDatetime": "2019-03-10T06:57:53.000Z",
+            "bitRate": 1115.6820151335285,
+            "duration": 1666.4983333333332,
+            "frameHeight": 480,
+            "frameWidth": 854,
+            "label": "480p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/d4/rwl_E_02_r480P.vtt",
+                "modifiedDatetime": "2019-03-10T06:57:53.000Z",
+                "checksum": "525314163b7229dbd05953f9a05e7256"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/52/rwl_E_02_r720P.mp4",
+            "checksum": "e5797425d5474f1018462e70e5a5dd44",
+            "filesize": 326753069,
+            "modifiedDatetime": "2019-03-10T06:58:54.000Z",
+            "bitRate": 1531.8097237195957,
+            "duration": 1666.4983333333332,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/79/rwl_E_02_r720P.vtt",
+                "modifiedDatetime": "2019-03-10T06:58:56.000Z",
+                "checksum": "525314163b7229dbd05953f9a05e7256"
+            }
+        }
+    ],
+    "printReferences": [
+        "rwl-2.v",
+        "rwl-2"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/50/rwl_E_02_r240P.vtt",
+    "Name": "pub-rwl_E_2_VIDEO",
+    "Title": "Remember the Wife of Lot—Part 2",
+    "UndatedReferenceTitle": "Remember the Wife of Lot—Part 2",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "VODMoviesModernDay"
+}

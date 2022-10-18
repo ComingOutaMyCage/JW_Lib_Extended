@@ -1,0 +1,102 @@
+{
+    "guid": "5ef269ceaf341cff13086243",
+    "languageAgnosticNaturalKey": "pub-jwb_202012_8_VIDEO",
+    "naturalKey": "pub-jwb_E_202012_8_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpBlessings",
+    "description": "",
+    "firstPublished": "2020-12-21T15:17:49.678Z",
+    "duration": 299.926,
+    "durationFormattedHHMM": "4:59",
+    "durationFormattedMinSec": "4m 59s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/37/jwb_E_202012_08_r240P.mp4",
+            "checksum": "3c22390e4dc7602f227d8b2618cd46ce",
+            "filesize": 7306846,
+            "modifiedDatetime": "2020-12-21T15:06:04.000Z",
+            "bitRate": 190.3293958343058,
+            "duration": 299.926,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.669,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/23/jwb_E_202012_08.vtt",
+                "modifiedDatetime": "2020-12-21T15:06:21.000Z",
+                "checksum": "a07d526cbd3bc7b2b495d806fa5958c0"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/9d/jwb_E_202012_08_r360P.mp4",
+            "checksum": "b5ee64c5b4c9866dcf73017d14deccdf",
+            "filesize": 13957306,
+            "modifiedDatetime": "2020-12-21T15:06:06.000Z",
+            "bitRate": 363.6121070980779,
+            "duration": 299.884,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/23/jwb_E_202012_08.vtt",
+                "modifiedDatetime": "2020-12-21T15:06:21.000Z",
+                "checksum": "a07d526cbd3bc7b2b495d806fa5958c0"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/48/jwb_E_202012_08_r480P.mp4",
+            "checksum": "c77367c091f2d3246aac257c7d452063",
+            "filesize": 25275470,
+            "modifiedDatetime": "2020-12-21T15:06:10.000Z",
+            "bitRate": 658.4699729728828,
+            "duration": 299.884,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/23/jwb_E_202012_08.vtt",
+                "modifiedDatetime": "2020-12-21T15:06:21.000Z",
+                "checksum": "a07d526cbd3bc7b2b495d806fa5958c0"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/24/jwb_E_202012_08_r720P.mp4",
+            "checksum": "1d49bbba634416cb980e019855a0954f",
+            "filesize": 42039576,
+            "modifiedDatetime": "2020-12-21T15:06:15.000Z",
+            "bitRate": 1095.2041039201824,
+            "duration": 299.884,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/23/jwb_E_202012_08.vtt",
+                "modifiedDatetime": "2020-12-21T15:06:21.000Z",
+                "checksum": "a07d526cbd3bc7b2b495d806fa5958c0"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202012-8.v",
+        "jwb.202012-8"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/23/jwb_E_202012_08.vtt",
+    "Name": "pub-jwb_E_202012_8_VIDEO",
+    "Title": "The Garcias: Teaching Our Children by Example",
+    "UndatedReferenceTitle": "The Garcias: Teaching Our Children by Example",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODIntExpBlessings"
+}

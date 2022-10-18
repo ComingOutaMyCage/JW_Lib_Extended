@@ -1,0 +1,102 @@
+{
+    "guid": "60d0e94bb9f9166228146c2f",
+    "languageAgnosticNaturalKey": "docid-502200113_1_VIDEO",
+    "naturalKey": "docid-502200113_E_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesWasItDesigned",
+    "description": "",
+    "firstPublished": "2021-07-14T13:05:36.665Z",
+    "duration": 168.926,
+    "durationFormattedHHMM": "2:48",
+    "durationFormattedMinSec": "2m 48s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/e5/502200113_E_cnt_1_r240P.mp4",
+            "checksum": "ae7a8b7d23ff0f5bfda05c15526c159e",
+            "filesize": 5643573,
+            "modifiedDatetime": "2021-07-14T13:00:10.000Z",
+            "bitRate": 260.95178777521306,
+            "duration": 168.96,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.739,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/17/502200113_E_cnt_1.vtt",
+                "modifiedDatetime": "2021-07-14T12:59:53.000Z",
+                "checksum": "9755e0b5c195253c1d2344e1246c1347"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/7d/502200113_E_cnt_1_r360P.mp4",
+            "checksum": "4c0a549afe4e169792160462bc6e4e30",
+            "filesize": 10345776,
+            "modifiedDatetime": "2021-07-14T13:00:05.000Z",
+            "bitRate": 478.47208245030373,
+            "duration": 168.926,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/17/502200113_E_cnt_1.vtt",
+                "modifiedDatetime": "2021-07-14T12:59:53.000Z",
+                "checksum": "9755e0b5c195253c1d2344e1246c1347"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/de/502200113_E_cnt_1_r480P.mp4",
+            "checksum": "416fe0abbf8165fb671b28c342951bb3",
+            "filesize": 19635224,
+            "modifiedDatetime": "2021-07-14T13:00:01.000Z",
+            "bitRate": 908.0910428234849,
+            "duration": 168.926,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/17/502200113_E_cnt_1.vtt",
+                "modifiedDatetime": "2021-07-14T12:59:53.000Z",
+                "checksum": "9755e0b5c195253c1d2344e1246c1347"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/10/502200113_E_cnt_1_r720P.mp4",
+            "checksum": "cd9ee48c81aa44685abcdd7666a730fe",
+            "filesize": 33290327,
+            "modifiedDatetime": "2021-07-14T12:59:57.000Z",
+            "bitRate": 1539.6130831695536,
+            "duration": 168.926,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/17/502200113_E_cnt_1.vtt",
+                "modifiedDatetime": "2021-07-14T12:59:53.000Z",
+                "checksum": "9755e0b5c195253c1d2344e1246c1347"
+            }
+        }
+    ],
+    "printReferences": [
+        "502200113-1.v",
+        "502200113-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/content_assets/17/502200113_E_cnt_1.vtt",
+    "Name": "docid-502200113_E_1_VIDEO",
+    "Title": "Was It Designed? The Arctic Ground Squirrel’s Brain",
+    "UndatedReferenceTitle": "Was It Designed? The Arctic Ground Squirrel’s Brain",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "SeriesWasItDesigned"
+}

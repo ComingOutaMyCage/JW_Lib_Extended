@@ -1,0 +1,102 @@
+{
+    "guid": "600f254543f4d7b0240415f0",
+    "languageAgnosticNaturalKey": "pub-jwb_202102_13_VIDEO",
+    "naturalKey": "pub-jwb_E_202102_13_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODOriginalSongs",
+    "description": "",
+    "firstPublished": "2021-02-25T16:00:15.182Z",
+    "duration": 288.235,
+    "durationFormattedHHMM": "4:48",
+    "durationFormattedMinSec": "4m 48s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/f7/jwb_E_202102_13_r240P.mp4",
+            "checksum": "592a47a1aad8ed9d7858ab1800dd7431",
+            "filesize": 8662075,
+            "modifiedDatetime": "2021-02-25T15:52:36.000Z",
+            "bitRate": 234.782246907905,
+            "duration": 288.235,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.483,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/36/jwb_E_202102_13.vtt",
+                "modifiedDatetime": "2021-02-25T15:52:22.000Z",
+                "checksum": "2b11b15a42c7cf5ebe11dca129a08665"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/66/jwb_E_202102_13_r360P.mp4",
+            "checksum": "e80200ee53453ac4fe24973dcd09205a",
+            "filesize": 15362413,
+            "modifiedDatetime": "2021-02-25T15:52:33.000Z",
+            "bitRate": 416.43425731074296,
+            "duration": 288.206,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/36/jwb_E_202102_13.vtt",
+                "modifiedDatetime": "2021-02-25T15:52:22.000Z",
+                "checksum": "2b11b15a42c7cf5ebe11dca129a08665"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/c1/jwb_E_202102_13_r480P.mp4",
+            "checksum": "c4573204db46716743be719c6ac0c8dd",
+            "filesize": 27756735,
+            "modifiedDatetime": "2021-02-25T15:52:31.000Z",
+            "bitRate": 752.4114424664996,
+            "duration": 288.206,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/36/jwb_E_202102_13.vtt",
+                "modifiedDatetime": "2021-02-25T15:52:22.000Z",
+                "checksum": "2b11b15a42c7cf5ebe11dca129a08665"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/34/jwb_E_202102_13_r720P.mp4",
+            "checksum": "de4726e3d2ab847299b99771fd78ec43",
+            "filesize": 44511324,
+            "modifiedDatetime": "2021-02-25T15:52:26.000Z",
+            "bitRate": 1206.5838974552923,
+            "duration": 288.206,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/36/jwb_E_202102_13.vtt",
+                "modifiedDatetime": "2021-02-25T15:52:22.000Z",
+                "checksum": "2b11b15a42c7cf5ebe11dca129a08665"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202102-13.v",
+        "jwb.202102-13"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/36/jwb_E_202102_13.vtt",
+    "Name": "pub-jwb_E_202102_13_VIDEO",
+    "Title": "“Our Joy Eternally”—French Chorus While Distancing",
+    "UndatedReferenceTitle": "“Our Joy Eternally”—French Chorus While Distancing",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODOriginalSongs"
+}

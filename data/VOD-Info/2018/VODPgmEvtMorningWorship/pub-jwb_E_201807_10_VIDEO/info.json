@@ -1,0 +1,102 @@
+{
+    "guid": "5b363731928a076623efbb0a",
+    "languageAgnosticNaturalKey": "pub-jwb_201807_10_VIDEO",
+    "naturalKey": "pub-jwb_E_201807_10_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2018-07-23T13:25:00.343Z",
+    "duration": 557.867,
+    "durationFormattedHHMM": "9:17",
+    "durationFormattedMinSec": "9m 17s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/0a/jwb_E_201807_10_r240P.mp4",
+            "checksum": "c4b684be24324b8c79737795a5bdbd42",
+            "filesize": 9155991,
+            "modifiedDatetime": "2020-11-03T22:15:24.000Z",
+            "bitRate": 128.22264032018384,
+            "duration": 557.867,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.47,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ee/jwb_E_201807_10_r240P.vtt",
+                "modifiedDatetime": "2018-07-23T13:01:30.000Z",
+                "checksum": "93395565e48e5dc91f85e3490bd86b04"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/30/jwb_E_201807_10_r360P.mp4",
+            "checksum": "1852d3a12a46587b3dbde7538f542d32",
+            "filesize": 18551562,
+            "modifiedDatetime": "2018-07-23T13:01:31.000Z",
+            "bitRate": 259.81578413112146,
+            "duration": 557.834,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/cc/jwb_E_201807_10_r360P.vtt",
+                "modifiedDatetime": "2018-07-23T13:01:37.000Z",
+                "checksum": "93395565e48e5dc91f85e3490bd86b04"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/03/jwb_E_201807_10_r480P.mp4",
+            "checksum": "145516af3bbca7d7cc086188e6507792",
+            "filesize": 33302313,
+            "modifiedDatetime": "2018-07-23T13:01:38.000Z",
+            "bitRate": 466.4009728924734,
+            "duration": 557.834,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/c2/jwb_E_201807_10_r480P.vtt",
+                "modifiedDatetime": "2018-07-23T13:01:42.000Z",
+                "checksum": "93395565e48e5dc91f85e3490bd86b04"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/e3/jwb_E_201807_10_r720P.mp4",
+            "checksum": "47e07d7bae9a86f2b04e8fe8b29c13f3",
+            "filesize": 60517646,
+            "modifiedDatetime": "2018-07-23T13:01:43.000Z",
+            "bitRate": 847.5534108265184,
+            "duration": 557.834,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/9a/jwb_E_201807_10_r720P.vtt",
+                "modifiedDatetime": "2018-07-23T13:01:47.000Z",
+                "checksum": "93395565e48e5dc91f85e3490bd86b04"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201807-10.v",
+        "jwb.201807-10"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/ee/jwb_E_201807_10_r240P.vtt",
+    "Name": "pub-jwb_E_201807_10_VIDEO",
+    "Title": "John Ekrann: \"Become Imitators of God\" (Eph. 5:1)",
+    "UndatedReferenceTitle": "John Ekrann: \"Become Imitators of God\" (Eph. 5:1)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

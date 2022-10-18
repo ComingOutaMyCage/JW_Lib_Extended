@@ -1,0 +1,102 @@
+{
+    "guid": "61841a21e4dbeaf5fa208065",
+    "languageAgnosticNaturalKey": "pub-jwb-085_12_VIDEO",
+    "naturalKey": "pub-jwb-085_E_12_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtGilead",
+    "description": "",
+    "firstPublished": "2021-12-07T23:13:48.771Z",
+    "duration": 680.448,
+    "durationFormattedHHMM": "11:20",
+    "durationFormattedMinSec": "11m 20s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/6f/jwb-085_E_12_r240P.mp4",
+            "checksum": "af2e4f41456603f55b3add039af3ff26",
+            "filesize": 13535614,
+            "modifiedDatetime": "2021-12-07T21:31:22.000Z",
+            "bitRate": 155.40788476856426,
+            "duration": 680.448,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.441,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/5d/jwb-085_E_12.vtt",
+                "modifiedDatetime": "2021-12-07T21:31:09.000Z",
+                "checksum": "1f2e5792c3807f383de1f21d7aa167ce"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/f9/jwb-085_E_12_r360P.mp4",
+            "checksum": "c9ea50053e02c3b19ead112b00c226e6",
+            "filesize": 25892519,
+            "modifiedDatetime": "2021-12-07T21:31:19.000Z",
+            "bitRate": 297.29345522932056,
+            "duration": 680.423,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/5d/jwb-085_E_12.vtt",
+                "modifiedDatetime": "2021-12-07T21:31:09.000Z",
+                "checksum": "1f2e5792c3807f383de1f21d7aa167ce"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/81/jwb-085_E_12_r480P.mp4",
+            "checksum": "3f4e1a8f07b126589b5265d6e9705366",
+            "filesize": 48294543,
+            "modifiedDatetime": "2021-12-07T21:31:15.000Z",
+            "bitRate": 554.5096464809391,
+            "duration": 680.423,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/5d/jwb-085_E_12.vtt",
+                "modifiedDatetime": "2021-12-07T21:31:09.000Z",
+                "checksum": "1f2e5792c3807f383de1f21d7aa167ce"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/d5/jwb-085_E_12_r720P.mp4",
+            "checksum": "1b91acc8f474c3ed0e2fc17b02024e91",
+            "filesize": 84874084,
+            "modifiedDatetime": "2021-12-07T21:31:10.000Z",
+            "bitRate": 974.5096524514897,
+            "duration": 680.423,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/5d/jwb-085_E_12.vtt",
+                "modifiedDatetime": "2021-12-07T21:31:09.000Z",
+                "checksum": "1f2e5792c3807f383de1f21d7aa167ce"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-085-12.v",
+        "jwb-085-12"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/5d/jwb-085_E_12.vtt",
+    "Name": "pub-jwb-085_E_12_VIDEO",
+    "Title": "Mark Noumair: ‘I Cling to You; You Hold On to Me’",
+    "UndatedReferenceTitle": "Mark Noumair: ‘I Cling to You; You Hold On to Me’",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODPgmEvtGilead"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "5cd485cc48fd57354cf2fca6",
+    "languageAgnosticNaturalKey": "pub-jwb_201905_11_VIDEO",
+    "naturalKey": "pub-jwb_E_201905_11_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpBlessings",
+    "description": "",
+    "firstPublished": "2019-05-27T14:36:54.029Z",
+    "duration": 307.926,
+    "durationFormattedHHMM": "5:07",
+    "durationFormattedMinSec": "5m 7s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/2d/jwb_E_201905_11_r240P.mp4",
+            "checksum": "2a2b1c56b74c8ff73ffc404592e3a6fb",
+            "filesize": 9963886,
+            "modifiedDatetime": "2020-11-05T21:09:29.000Z",
+            "bitRate": 252.79729342439418,
+            "duration": 307.926,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.506,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/9a/jwb_E_201905_11.vtt",
+                "modifiedDatetime": "2019-05-27T14:07:45.000Z",
+                "checksum": "cb08fc7fcb5601b3e12bdc7ac84f2efe"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/fe/jwb_E_201905_11_r360P.mp4",
+            "checksum": "faa2eacba2a83ed9cf25cfba8f33caf2",
+            "filesize": 18817029,
+            "modifiedDatetime": "2019-05-27T14:07:52.000Z",
+            "bitRate": 477.466251355995,
+            "duration": 307.892,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/9a/jwb_E_201905_11.vtt",
+                "modifiedDatetime": "2019-05-27T14:07:45.000Z",
+                "checksum": "cb08fc7fcb5601b3e12bdc7ac84f2efe"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/1e/jwb_E_201905_11_r480P.mp4",
+            "checksum": "94ca68c4d6e561c7474d40ef8bbac311",
+            "filesize": 35216859,
+            "modifiedDatetime": "2019-05-27T14:07:57.000Z",
+            "bitRate": 893.5981153699998,
+            "duration": 307.892,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/9a/jwb_E_201905_11.vtt",
+                "modifiedDatetime": "2019-05-27T14:07:45.000Z",
+                "checksum": "cb08fc7fcb5601b3e12bdc7ac84f2efe"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/b0/jwb_E_201905_11_r720P.mp4",
+            "checksum": "c81d8e4656b7a89143afffc3da994bdc",
+            "filesize": 58800623,
+            "modifiedDatetime": "2019-05-27T14:08:05.000Z",
+            "bitRate": 1492.0162498132463,
+            "duration": 307.892,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/9a/jwb_E_201905_11.vtt",
+                "modifiedDatetime": "2019-05-27T14:07:45.000Z",
+                "checksum": "cb08fc7fcb5601b3e12bdc7ac84f2efe"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201905-11.v",
+        "jwb.201905-11"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/9a/jwb_E_201905_11.vtt",
+    "Name": "pub-jwb_E_201905_11_VIDEO",
+    "Title": "International Construction Family",
+    "UndatedReferenceTitle": "International Construction Family",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODIntExpBlessings"
+}

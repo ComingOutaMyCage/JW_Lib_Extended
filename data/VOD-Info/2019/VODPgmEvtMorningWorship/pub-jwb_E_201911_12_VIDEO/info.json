@@ -1,0 +1,102 @@
+{
+    "guid": "5db1edc37ae47e7b53034b79",
+    "languageAgnosticNaturalKey": "pub-jwb_201911_12_VIDEO",
+    "naturalKey": "pub-jwb_E_201911_12_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2019-11-25T13:53:50.114Z",
+    "duration": 566.144,
+    "durationFormattedHHMM": "9:26",
+    "durationFormattedMinSec": "9m 26s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/0b/jwb_E_201911_12_r240P.mp4",
+            "checksum": "d900644df99474cc683da99311d594e7",
+            "filesize": 7710420,
+            "modifiedDatetime": "2020-11-03T22:16:59.000Z",
+            "bitRate": 106.3998845700034,
+            "duration": 566.144,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.412,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/50/jwb_E_201911_12.vtt",
+                "modifiedDatetime": "2019-11-25T07:17:24.000Z",
+                "checksum": "a8e04cc2a217f145a2d7c807329650b4"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/9a/jwb_E_201911_12_r360P.mp4",
+            "checksum": "962e6c34a578b7c114280465e941daf9",
+            "filesize": 16279862,
+            "modifiedDatetime": "2019-11-25T07:17:05.000Z",
+            "bitRate": 224.66772631242392,
+            "duration": 566.109,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/50/jwb_E_201911_12.vtt",
+                "modifiedDatetime": "2019-11-25T07:17:24.000Z",
+                "checksum": "a8e04cc2a217f145a2d7c807329650b4"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/7a/jwb_E_201911_12_r480P.mp4",
+            "checksum": "cb82e0a155a7ba7aa8ae408144b16667",
+            "filesize": 29706487,
+            "modifiedDatetime": "2019-11-25T07:17:13.000Z",
+            "bitRate": 409.9597951763706,
+            "duration": 566.109,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/50/jwb_E_201911_12.vtt",
+                "modifiedDatetime": "2019-11-25T07:17:24.000Z",
+                "checksum": "a8e04cc2a217f145a2d7c807329650b4"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/26/jwb_E_201911_12_r720P.mp4",
+            "checksum": "444231fd488a86f8f66b2c8c3d324470",
+            "filesize": 61877351,
+            "modifiedDatetime": "2019-11-25T07:17:18.000Z",
+            "bitRate": 853.9288453062926,
+            "duration": 566.109,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/50/jwb_E_201911_12.vtt",
+                "modifiedDatetime": "2019-11-25T07:17:24.000Z",
+                "checksum": "a8e04cc2a217f145a2d7c807329650b4"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201911-12.v",
+        "jwb.201911-12"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/50/jwb_E_201911_12.vtt",
+    "Name": "pub-jwb_E_201911_12_VIDEO",
+    "Title": "Gary Breaux: In Awe of Jehovah (Josh. 9:9)",
+    "UndatedReferenceTitle": "Gary Breaux: In Awe of Jehovah (Josh. 9:9)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

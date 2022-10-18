@@ -1,0 +1,102 @@
+{
+    "guid": "5e90b0a9001474da272266aa",
+    "languageAgnosticNaturalKey": "pub-jwb_202005_2_VIDEO",
+    "naturalKey": "pub-jwb_E_202005_2_VIDEO",
+    "type": "video",
+    "primaryCategory": "StudioTalks",
+    "description": "",
+    "firstPublished": "2020-05-18T17:25:10.427Z",
+    "duration": 897.899,
+    "durationFormattedHHMM": "14:57",
+    "durationFormattedMinSec": "14m 57s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/af/jwb_E_202005_02_r240P.mp4",
+            "checksum": "d3cfa4209f22c9ef962e23dea6c5b582",
+            "filesize": 18402352,
+            "modifiedDatetime": "2020-10-18T03:02:46.000Z",
+            "bitRate": 160.11642178017794,
+            "duration": 897.899,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.791,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f1/jwb_E_202005_02.vtt",
+                "modifiedDatetime": "2020-05-18T15:13:45.000Z",
+                "checksum": "683727c06d895b17979ed6ab823c71c2"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/98/jwb_E_202005_02_r360P.mp4",
+            "checksum": "f5a8b48da0eed782a5b29b34d8f6c1c3",
+            "filesize": 35015681,
+            "modifiedDatetime": "2020-05-18T15:13:33.000Z",
+            "bitRate": 304.675614271172,
+            "duration": 897.873,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f1/jwb_E_202005_02.vtt",
+                "modifiedDatetime": "2020-05-18T15:13:45.000Z",
+                "checksum": "683727c06d895b17979ed6ab823c71c2"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/66/jwb_E_202005_02_r480P.mp4",
+            "checksum": "45d3ab1a362f32465c6b579dae66f41d",
+            "filesize": 59929919,
+            "modifiedDatetime": "2020-05-18T15:13:37.000Z",
+            "bitRate": 521.4573689012811,
+            "duration": 897.873,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f1/jwb_E_202005_02.vtt",
+                "modifiedDatetime": "2020-05-18T15:13:45.000Z",
+                "checksum": "683727c06d895b17979ed6ab823c71c2"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/63/jwb_E_202005_02_r720P.mp4",
+            "checksum": "1ea3493944fafb363ffb189255bb43f6",
+            "filesize": 95261379,
+            "modifiedDatetime": "2020-05-18T15:13:41.000Z",
+            "bitRate": 828.8806138924992,
+            "duration": 897.873,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f1/jwb_E_202005_02.vtt",
+                "modifiedDatetime": "2020-05-18T15:13:45.000Z",
+                "checksum": "683727c06d895b17979ed6ab823c71c2"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202005-2.v",
+        "jwb.202005-2"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/f1/jwb_E_202005_02.vtt",
+    "Name": "pub-jwb_E_202005_2_VIDEO",
+    "Title": "M. Stephen Lett: Be Childlike—But not Childish!",
+    "UndatedReferenceTitle": "M. Stephen Lett: Be Childlike—But not Childish!",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "StudioTalks"
+}

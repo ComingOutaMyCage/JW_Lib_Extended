@@ -1,0 +1,102 @@
+{
+    "guid": "6256c0f3dedf1bc78926f56c",
+    "languageAgnosticNaturalKey": "pub-jwb-091_6_VIDEO",
+    "naturalKey": "pub-jwb-091_E_6_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2022-06-17T12:47:41.978Z",
+    "duration": 641.856,
+    "durationFormattedHHMM": "10:41",
+    "durationFormattedMinSec": "10m 41s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/27/jwb-091_E_06_r240P.mp4",
+            "checksum": "3fe65cb84d9c0acade39590ca648047b",
+            "filesize": 13045126,
+            "modifiedDatetime": "2022-06-17T12:44:27.000Z",
+            "bitRate": 158.78179354091884,
+            "duration": 641.856,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/8f/jwb-091_E_06.vtt",
+                "modifiedDatetime": "2022-06-17T12:44:18.000Z",
+                "checksum": "376dca2d3ad97e9d65f687c0757f1f25"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/76/jwb-091_E_06_r360P.mp4",
+            "checksum": "254d5fd515f77f5d4bc8891e81f94f53",
+            "filesize": 24743792,
+            "modifiedDatetime": "2022-06-17T12:44:25.000Z",
+            "bitRate": 301.1846892114017,
+            "duration": 641.835,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/8f/jwb-091_E_06.vtt",
+                "modifiedDatetime": "2022-06-17T12:44:18.000Z",
+                "checksum": "376dca2d3ad97e9d65f687c0757f1f25"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/54/jwb-091_E_06_r480P.mp4",
+            "checksum": "b224c0399c1dde676408cfa2bb0ea111",
+            "filesize": 43795516,
+            "modifiedDatetime": "2022-06-17T12:44:22.000Z",
+            "bitRate": 533.0847784087811,
+            "duration": 641.835,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/8f/jwb-091_E_06.vtt",
+                "modifiedDatetime": "2022-06-17T12:44:18.000Z",
+                "checksum": "376dca2d3ad97e9d65f687c0757f1f25"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/6c/jwb-091_E_06_r720P.mp4",
+            "checksum": "9b4dfa63dc1eeeb2df52d9671ab65d3a",
+            "filesize": 77027016,
+            "modifiedDatetime": "2022-06-17T12:44:19.000Z",
+            "bitRate": 937.5829652480777,
+            "duration": 641.835,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/8f/jwb-091_E_06.vtt",
+                "modifiedDatetime": "2022-06-17T12:44:18.000Z",
+                "checksum": "376dca2d3ad97e9d65f687c0757f1f25"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-091-6.v",
+        "jwb-091-6"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/8f/jwb-091_E_06.vtt",
+    "Name": "pub-jwb-091_E_6_VIDEO",
+    "Title": "Christopher Mavor: Jehovah Loves His People (Isa. 54:5)",
+    "UndatedReferenceTitle": "Christopher Mavor: Jehovah Loves His People (Isa. 54:5)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

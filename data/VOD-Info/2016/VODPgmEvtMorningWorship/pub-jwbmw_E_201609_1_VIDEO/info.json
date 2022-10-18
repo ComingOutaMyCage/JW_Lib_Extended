@@ -1,0 +1,102 @@
+{
+    "guid": "57bdeb8181a37aa6ed65ea18",
+    "languageAgnosticNaturalKey": "pub-jwbmw_201609_1_VIDEO",
+    "naturalKey": "pub-jwbmw_E_201609_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2016-09-26T15:04:17.849Z",
+    "duration": 553.262,
+    "durationFormattedHHMM": "9:13",
+    "durationFormattedMinSec": "9m 13s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/d7/jwbmw_E_201609_01_r240P.mp4",
+            "checksum": "cba66629c58785d3332b9cee2119bc02",
+            "filesize": 25068434,
+            "modifiedDatetime": "2020-11-21T22:43:23.000Z",
+            "bitRate": 353.98624995933216,
+            "duration": 553.262,
+            "frameHeight": 180,
+            "frameWidth": 320,
+            "label": "240p",
+            "frameRate": 30,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f7/jwbmw_E_201609_01_r240P.vtt",
+                "modifiedDatetime": "2019-02-11T02:04:02.000Z",
+                "checksum": "322e6ec7c4600e4fbe1875a103d128e3"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/de/jwbmw_E_201609_01_r360P.mp4",
+            "checksum": "ac5b259c02c722bd142d7c16cb2192b3",
+            "filesize": 56962055,
+            "modifiedDatetime": "2019-02-16T18:56:09.000Z",
+            "bitRate": 804.4106407713025,
+            "duration": 553.22,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 2205,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/d3/jwbmw_E_201609_01_r360P.vtt",
+                "modifiedDatetime": "2019-02-16T18:56:10.000Z",
+                "checksum": "322e6ec7c4600e4fbe1875a103d128e3"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/3a/jwbmw_E_201609_01_r480P.mp4",
+            "checksum": "63d84e2d379a778571bd9e77453508bc",
+            "filesize": 77587395,
+            "modifiedDatetime": "2019-02-16T15:28:04.000Z",
+            "bitRate": 1095.678976605148,
+            "duration": 553.22,
+            "frameHeight": 480,
+            "frameWidth": 854,
+            "label": "480p",
+            "frameRate": 2205,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/db/jwbmw_E_201609_01_r480P.vtt",
+                "modifiedDatetime": "2019-02-16T15:28:04.000Z",
+                "checksum": "322e6ec7c4600e4fbe1875a103d128e3"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/cb/jwbmw_E_201609_01_r720P.mp4",
+            "checksum": "2887934453fca967702fe5cd8a1eb878",
+            "filesize": 112044882,
+            "modifiedDatetime": "2019-02-10T11:20:34.000Z",
+            "bitRate": 1582.2830711561403,
+            "duration": 553.22,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 2205,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/82/jwbmw_E_201609_01_r720P.vtt",
+                "modifiedDatetime": "2019-02-10T11:20:35.000Z",
+                "checksum": "322e6ec7c4600e4fbe1875a103d128e3"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwbmw.201609-1.v",
+        "jwbmw.201609-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/f7/jwbmw_E_201609_01_r240P.vtt",
+    "Name": "pub-jwbmw_E_201609_1_VIDEO",
+    "Title": "M. Stephen Lett: Win the Inner Struggle (Rom. 7:23)",
+    "UndatedReferenceTitle": "M. Stephen Lett: Win the Inner Struggle (Rom. 7:23)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2016,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

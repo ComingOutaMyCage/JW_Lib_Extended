@@ -1,0 +1,102 @@
+{
+    "guid": "58bd95cea25a39c2e32ac061",
+    "languageAgnosticNaturalKey": "docid-502017181_1_VIDEO",
+    "naturalKey": "docid-502017181_E_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesWhatPeersSay",
+    "description": "",
+    "firstPublished": "2017-04-20T14:05:44.577Z",
+    "duration": 125.667,
+    "durationFormattedHHMM": "2:05",
+    "durationFormattedMinSec": "2m 5s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/e1/502017181_E_cnt_1_r240P.mp4",
+            "checksum": "d0442fd69ddef0bbf9778607296b80a5",
+            "filesize": 5802000,
+            "modifiedDatetime": "2020-11-01T11:08:28.000Z",
+            "bitRate": 360.70030318221967,
+            "duration": 125.667,
+            "frameHeight": 180,
+            "frameWidth": 320,
+            "label": "240p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/c2/502017181_E_cnt_1_r240P.vtt",
+                "modifiedDatetime": "2017-04-20T13:27:09.000Z",
+                "checksum": "c5b4bb0dd848834540e92f74231150c2"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/86/502017181_E_cnt_1_r360P.mp4",
+            "checksum": "18aa458f9d868412c4443c7f6bdf4f90",
+            "filesize": 13283724,
+            "modifiedDatetime": "2017-04-20T13:27:10.000Z",
+            "bitRate": 826.1022388059702,
+            "duration": 125.625,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/c4/502017181_E_cnt_1_r360P.vtt",
+                "modifiedDatetime": "2017-04-20T13:27:13.000Z",
+                "checksum": "c5b4bb0dd848834540e92f74231150c2"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/18/502017181_E_cnt_1_r480P.mp4",
+            "checksum": "88d2ede2522c254a5ce115f2036591f5",
+            "filesize": 18005532,
+            "modifiedDatetime": "2017-04-20T13:27:14.000Z",
+            "bitRate": 1119.7470149253732,
+            "duration": 125.625,
+            "frameHeight": 480,
+            "frameWidth": 854,
+            "label": "480p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/aa/502017181_E_cnt_1_r480P.vtt",
+                "modifiedDatetime": "2017-04-20T13:27:17.000Z",
+                "checksum": "c5b4bb0dd848834540e92f74231150c2"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/55/502017181_E_cnt_1_r720P.mp4",
+            "checksum": "ab592cf7b696a9a150bbfd43e49c538b",
+            "filesize": 25845835,
+            "modifiedDatetime": "2017-04-20T13:27:18.000Z",
+            "bitRate": 1607.3280472636816,
+            "duration": 125.625,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/ae/502017181_E_cnt_1_r720P.vtt",
+                "modifiedDatetime": "2017-04-20T13:27:25.000Z",
+                "checksum": "c5b4bb0dd848834540e92f74231150c2"
+            }
+        }
+    ],
+    "printReferences": [
+        "502017181-1.v",
+        "502017181-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/content_assets/c2/502017181_E_cnt_1_r240P.vtt",
+    "Name": "docid-502017181_E_1_VIDEO",
+    "Title": "Bible Reading",
+    "UndatedReferenceTitle": "Bible Reading",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2017,
+    "Symbol": "SeriesWhatPeersSay"
+}

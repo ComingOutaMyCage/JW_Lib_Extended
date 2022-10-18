@@ -1,0 +1,102 @@
+{
+    "guid": "5baa931ca51af8eef4569b7b",
+    "languageAgnosticNaturalKey": "pub-pk_33_VIDEO",
+    "naturalKey": "pub-pk_E_33_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBJFLessons",
+    "description": "",
+    "firstPublished": "2018-10-08T11:03:57.887Z",
+    "duration": 496.619,
+    "durationFormattedHHMM": "8:16",
+    "durationFormattedMinSec": "8m 16s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/4d/pk_E_033_r240P.mp4",
+            "checksum": "1528a551c4ef1bee9a5a4a70074f3c38",
+            "filesize": 15263874,
+            "modifiedDatetime": "2020-12-05T20:34:27.000Z",
+            "bitRate": 240.12173441813542,
+            "duration": 496.619,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.814,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/f8/pk_E_033.vtt",
+                "modifiedDatetime": "2018-10-08T08:45:15.000Z",
+                "checksum": "5a6473e37870ca132bdcb86d321ddef3"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/c8/pk_E_033_r360P.mp4",
+            "checksum": "3c732662a8af1a68b44550f26fa2369b",
+            "filesize": 27294530,
+            "modifiedDatetime": "2018-10-08T08:45:03.000Z",
+            "bitRate": 429.40990087296234,
+            "duration": 496.585,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/f8/pk_E_033.vtt",
+                "modifiedDatetime": "2018-10-08T08:45:15.000Z",
+                "checksum": "5a6473e37870ca132bdcb86d321ddef3"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/d8/pk_E_033_r480P.mp4",
+            "checksum": "fb971405ffddeec5e9218e0e50d8b60e",
+            "filesize": 50312880,
+            "modifiedDatetime": "2018-10-08T08:45:07.000Z",
+            "bitRate": 791.5450023661609,
+            "duration": 496.585,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/f8/pk_E_033.vtt",
+                "modifiedDatetime": "2018-10-08T08:45:15.000Z",
+                "checksum": "5a6473e37870ca132bdcb86d321ddef3"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/86/pk_E_033_r720P.mp4",
+            "checksum": "e728c98eb5153a58389bfa97f1e0ca13",
+            "filesize": 81631298,
+            "modifiedDatetime": "2018-10-08T08:45:10.000Z",
+            "bitRate": 1284.260530674507,
+            "duration": 496.585,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/f8/pk_E_033.vtt",
+                "modifiedDatetime": "2018-10-08T08:45:15.000Z",
+                "checksum": "5a6473e37870ca132bdcb86d321ddef3"
+            }
+        }
+    ],
+    "printReferences": [
+        "pk-33.v",
+        "pk-33"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/f8/pk_E_033.vtt",
+    "Name": "pub-pk_E_33_VIDEO",
+    "Title": "Make Jehovah Happy",
+    "UndatedReferenceTitle": "Make Jehovah Happy",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "SeriesBJFLessons"
+}

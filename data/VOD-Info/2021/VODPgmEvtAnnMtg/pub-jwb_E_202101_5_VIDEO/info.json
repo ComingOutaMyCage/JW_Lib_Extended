@@ -1,0 +1,102 @@
+{
+    "guid": "5fc79c64c0bf482e1b86ff99",
+    "languageAgnosticNaturalKey": "pub-jwb_202101_5_VIDEO",
+    "naturalKey": "pub-jwb_E_202101_5_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtAnnMtg",
+    "description": "",
+    "firstPublished": "2021-01-04T15:49:19.335Z",
+    "duration": 978.518,
+    "durationFormattedHHMM": "16:18",
+    "durationFormattedMinSec": "16m 18s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/5c/jwb_E_202101_05_r240P.mp4",
+            "checksum": "fa545fe03faf4f7113731c8df24a49c7",
+            "filesize": 20968419,
+            "modifiedDatetime": "2021-01-04T15:17:17.000Z",
+            "bitRate": 167.41212061249766,
+            "duration": 978.518,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.46,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/3e/jwb_E_202101_05.vtt",
+                "modifiedDatetime": "2021-01-04T15:19:23.000Z",
+                "checksum": "c14bcf1334d608b26c07dcd354bd40b6"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/80/jwb_E_202101_05_r360P.mp4",
+            "checksum": "26e630f66f6cd7718a338a279e8113ad",
+            "filesize": 39753249,
+            "modifiedDatetime": "2021-01-04T15:17:59.000Z",
+            "bitRate": 317.4030897060642,
+            "duration": 978.479,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/3e/jwb_E_202101_05.vtt",
+                "modifiedDatetime": "2021-01-04T15:19:23.000Z",
+                "checksum": "c14bcf1334d608b26c07dcd354bd40b6"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/20/jwb_E_202101_05_r480P.mp4",
+            "checksum": "d0e4e5fe25fa1f68652e1cc1f7f794da",
+            "filesize": 71288178,
+            "modifiedDatetime": "2021-01-04T15:18:38.000Z",
+            "bitRate": 569.1883940534237,
+            "duration": 978.479,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/3e/jwb_E_202101_05.vtt",
+                "modifiedDatetime": "2021-01-04T15:19:23.000Z",
+                "checksum": "c14bcf1334d608b26c07dcd354bd40b6"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/ad/jwb_E_202101_05_r720P.mp4",
+            "checksum": "7213e31c0bea55a3b1a4a5d7d3408c9a",
+            "filesize": 119438274,
+            "modifiedDatetime": "2021-01-04T15:19:04.000Z",
+            "bitRate": 953.6346877398493,
+            "duration": 978.479,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/3e/jwb_E_202101_05.vtt",
+                "modifiedDatetime": "2021-01-04T15:19:23.000Z",
+                "checksum": "c14bcf1334d608b26c07dcd354bd40b6"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202101-5.v",
+        "jwb.202101-5"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/3e/jwb_E_202101_05.vtt",
+    "Name": "pub-jwb_E_202101_5_VIDEO",
+    "Title": "Geoffrey W. Jackson: Yes, It Would Be Great, But . . .",
+    "UndatedReferenceTitle": "Geoffrey W. Jackson: Yes, It Would Be Great, But . . .",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODPgmEvtAnnMtg"
+}

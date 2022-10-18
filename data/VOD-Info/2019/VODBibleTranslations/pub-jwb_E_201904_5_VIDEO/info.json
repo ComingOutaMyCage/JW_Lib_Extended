@@ -1,0 +1,102 @@
+{
+    "guid": "5c4f1902351dc4182b662f0c",
+    "languageAgnosticNaturalKey": "pub-jwb_201904_5_VIDEO",
+    "naturalKey": "pub-jwb_E_201904_5_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODBibleTranslations",
+    "description": "",
+    "firstPublished": "2019-04-15T21:16:32.396Z",
+    "duration": 331.2,
+    "durationFormattedHHMM": "5:31",
+    "durationFormattedMinSec": "5m 31s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/86/jwb_E_201904_05_r240P.mp4",
+            "checksum": "505cf694fc4988704a74fb2c4414206e",
+            "filesize": 9189290,
+            "modifiedDatetime": "2020-11-11T21:49:12.000Z",
+            "bitRate": 216.76125641606282,
+            "duration": 331.2,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.645,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/53/jwb_E_201904_05.vtt",
+                "modifiedDatetime": "2019-04-15T19:22:56.000Z",
+                "checksum": "65c83c4528544145922558cb8ad08621"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/97/jwb_E_201904_05_r360P.mp4",
+            "checksum": "cde685886af134d2a63ab4a77e92a8f8",
+            "filesize": 17492891,
+            "modifiedDatetime": "2019-04-15T18:43:39.000Z",
+            "bitRate": 412.67283156332473,
+            "duration": 331.166,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/53/jwb_E_201904_05.vtt",
+                "modifiedDatetime": "2019-04-15T19:22:56.000Z",
+                "checksum": "65c83c4528544145922558cb8ad08621"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/1f/jwb_E_201904_05_r480P.mp4",
+            "checksum": "8ead91d924249b8cdc1d5404b18b4f3d",
+            "filesize": 32050716,
+            "modifiedDatetime": "2019-04-15T19:14:01.000Z",
+            "bitRate": 756.1048499845999,
+            "duration": 331.166,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/53/jwb_E_201904_05.vtt",
+                "modifiedDatetime": "2019-04-15T19:22:56.000Z",
+                "checksum": "65c83c4528544145922558cb8ad08621"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/4b/jwb_E_201904_05_r720P.mp4",
+            "checksum": "9b2f833ee7fdb17174f35af7e38bde36",
+            "filesize": 52941639,
+            "modifiedDatetime": "2019-04-15T19:08:28.000Z",
+            "bitRate": 1248.940273722242,
+            "duration": 331.166,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/53/jwb_E_201904_05.vtt",
+                "modifiedDatetime": "2019-04-15T19:22:56.000Z",
+                "checksum": "65c83c4528544145922558cb8ad08621"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201904-5.v",
+        "jwb.201904-5"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/53/jwb_E_201904_05.vtt",
+    "Name": "pub-jwb_E_201904_5_VIDEO",
+    "Title": "A New Braille Bible in English and Portuguese  With More to Come",
+    "UndatedReferenceTitle": "A New Braille Bible in English and Portuguese  With More to Come",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODBibleTranslations"
+}

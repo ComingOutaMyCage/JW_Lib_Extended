@@ -1,0 +1,102 @@
+{
+    "guid": "5cc38273db0b288e409e1dac",
+    "languageAgnosticNaturalKey": "pub-jwbcov_201805_28_VIDEO",
+    "naturalKey": "pub-jwbcov_E_201805_28_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpEndurance",
+    "description": "",
+    "firstPublished": "2019-04-29T20:38:38.726Z",
+    "duration": 175.211,
+    "durationFormattedHHMM": "2:55",
+    "durationFormattedMinSec": "2m 55s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/a3/jwbcov_E_201805_28_r240P.mp4",
+            "checksum": "6d182ff1010c46a0f987e0932a2eb2a0",
+            "filesize": 6692444,
+            "modifiedDatetime": "2020-11-14T11:12:34.000Z",
+            "bitRate": 298.41002419939383,
+            "duration": 175.211,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.483,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/eb/jwbcov_E_201805_28.vtt",
+                "modifiedDatetime": "2019-04-29T20:22:58.000Z",
+                "checksum": "d4ba1e37507d73ce043c3f1c35aa628f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/90/jwbcov_E_201805_28_r360P.mp4",
+            "checksum": "72cda8254402994171c08327d008b570",
+            "filesize": 11766911,
+            "modifiedDatetime": "2019-04-29T20:22:30.000Z",
+            "bitRate": 524.7807472912956,
+            "duration": 175.176,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/eb/jwbcov_E_201805_28.vtt",
+                "modifiedDatetime": "2019-04-29T20:22:58.000Z",
+                "checksum": "d4ba1e37507d73ce043c3f1c35aa628f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/a6/jwbcov_E_201805_28_r480P.mp4",
+            "checksum": "777f2c2d1fb243229a9e62f9ea6c95a5",
+            "filesize": 22360827,
+            "modifiedDatetime": "2019-04-29T20:22:37.000Z",
+            "bitRate": 997.2482585371284,
+            "duration": 175.176,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/eb/jwbcov_E_201805_28.vtt",
+                "modifiedDatetime": "2019-04-29T20:22:58.000Z",
+                "checksum": "d4ba1e37507d73ce043c3f1c35aa628f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/39/jwbcov_E_201805_28_r720P.mp4",
+            "checksum": "73c3d30851e81d15bf689b297daf8f5f",
+            "filesize": 37618280,
+            "modifiedDatetime": "2019-04-29T20:22:45.000Z",
+            "bitRate": 1677.7002129287118,
+            "duration": 175.176,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/eb/jwbcov_E_201805_28.vtt",
+                "modifiedDatetime": "2019-04-29T20:22:58.000Z",
+                "checksum": "d4ba1e37507d73ce043c3f1c35aa628f"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwbcov.201805-28.v",
+        "jwbcov.201805-28"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/eb/jwbcov_E_201805_28.vtt",
+    "Name": "pub-jwbcov_E_201805_28_VIDEO",
+    "Title": "There Are More With Us Than Against Us!—Lloyd Likhwide",
+    "UndatedReferenceTitle": "There Are More With Us Than Against Us!—Lloyd Likhwide",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODIntExpEndurance"
+}

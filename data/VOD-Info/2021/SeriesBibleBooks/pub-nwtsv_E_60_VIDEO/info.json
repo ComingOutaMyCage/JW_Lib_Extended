@@ -1,0 +1,102 @@
+{
+    "guid": "60d4cfedb765b4a6fbe763a3",
+    "languageAgnosticNaturalKey": "pub-nwtsv_60_VIDEO",
+    "naturalKey": "pub-nwtsv_E_60_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBibleBooks",
+    "description": "",
+    "firstPublished": "2021-08-13T15:43:57.759Z",
+    "duration": 306.057,
+    "durationFormattedHHMM": "5:06",
+    "durationFormattedMinSec": "5m 6s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/26/nwtsv_E_060_r240P.mp4",
+            "checksum": "9875a5af9019ce8a8b9cf75149ee0e19",
+            "filesize": 5972335,
+            "modifiedDatetime": "2021-08-13T15:28:05.000Z",
+            "bitRate": 152.43462626310475,
+            "duration": 306.091,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/41/nwtsv_E_060.vtt",
+                "modifiedDatetime": "2021-08-13T15:27:54.000Z",
+                "checksum": "eaf98da68c5188f8a2cff7d5464d7339"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/78/nwtsv_E_060_r360P.mp4",
+            "checksum": "ad0edb34404fa0b11b2afe3aee6e6fb6",
+            "filesize": 12726899,
+            "modifiedDatetime": "2021-08-13T15:28:02.000Z",
+            "bitRate": 324.8705255475287,
+            "duration": 306.057,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/41/nwtsv_E_060.vtt",
+                "modifiedDatetime": "2021-08-13T15:27:54.000Z",
+                "checksum": "eaf98da68c5188f8a2cff7d5464d7339"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/af/nwtsv_E_060_r480P.mp4",
+            "checksum": "089ac37288665e3543d50863e1e3c984",
+            "filesize": 25811600,
+            "modifiedDatetime": "2021-08-13T15:27:58.000Z",
+            "bitRate": 658.8744090153141,
+            "duration": 306.057,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/41/nwtsv_E_060.vtt",
+                "modifiedDatetime": "2021-08-13T15:27:54.000Z",
+                "checksum": "eaf98da68c5188f8a2cff7d5464d7339"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/44/nwtsv_E_060_r720P.mp4",
+            "checksum": "7e6cfe2bf5324f79dc8b12f6a87c2301",
+            "filesize": 48134724,
+            "modifiedDatetime": "2021-08-13T15:27:56.000Z",
+            "bitRate": 1228.7009650163204,
+            "duration": 306.057,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/41/nwtsv_E_060.vtt",
+                "modifiedDatetime": "2021-08-13T15:27:54.000Z",
+                "checksum": "eaf98da68c5188f8a2cff7d5464d7339"
+            }
+        }
+    ],
+    "printReferences": [
+        "nwtsv-60.v",
+        "nwtsv-60"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/41/nwtsv_E_060.vtt",
+    "Name": "pub-nwtsv_E_60_VIDEO",
+    "Title": "Introduction to Joshua",
+    "UndatedReferenceTitle": "Introduction to Joshua",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "SeriesBibleBooks"
+}

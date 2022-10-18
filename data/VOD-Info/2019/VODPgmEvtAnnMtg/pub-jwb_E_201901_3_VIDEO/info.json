@@ -1,0 +1,102 @@
+{
+    "guid": "5c253e9299077ca5aeb925a7",
+    "languageAgnosticNaturalKey": "pub-jwb_201901_3_VIDEO",
+    "naturalKey": "pub-jwb_E_201901_3_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtAnnMtg",
+    "description": "",
+    "firstPublished": "2019-01-21T13:31:44.529Z",
+    "duration": 3928.576,
+    "durationFormattedHHMM": "1:05:28",
+    "durationFormattedMinSec": "1h 5m 28s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/43/jwb_E_201901_03_r240P.mp4",
+            "checksum": "87a379a9b7e24393c51b7ee1c7b55b36",
+            "filesize": 63787095,
+            "modifiedDatetime": "2020-11-06T23:27:00.000Z",
+            "bitRate": 126.8491890413982,
+            "duration": 3928.576,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/c2/jwb_E_201901_03.vtt",
+                "modifiedDatetime": "2019-01-21T12:24:30.000Z",
+                "checksum": "261bd8454d9afa9d33a5351105bb5d04"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/f8/jwb_E_201901_03_r360P.mp4",
+            "checksum": "8cc7f87183ff30cd941bf0f414d4f867",
+            "filesize": 139794559,
+            "modifiedDatetime": "2019-01-21T12:24:54.000Z",
+            "bitRate": 278.0031920781391,
+            "duration": 3928.534,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/c2/jwb_E_201901_03.vtt",
+                "modifiedDatetime": "2019-01-21T12:24:30.000Z",
+                "checksum": "261bd8454d9afa9d33a5351105bb5d04"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/bd/jwb_E_201901_03_r480P.mp4",
+            "checksum": "81195c38eb9b37f78d237b47a056b144",
+            "filesize": 266719031,
+            "modifiedDatetime": "2019-01-21T12:25:03.000Z",
+            "bitRate": 530.4122173023067,
+            "duration": 3928.534,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/c2/jwb_E_201901_03.vtt",
+                "modifiedDatetime": "2019-01-21T12:24:30.000Z",
+                "checksum": "261bd8454d9afa9d33a5351105bb5d04"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/ab/jwb_E_201901_03_r720P.mp4",
+            "checksum": "b3815aca9af2f45b09cb5a345dc19faf",
+            "filesize": 530627445,
+            "modifiedDatetime": "2019-01-21T12:25:59.000Z",
+            "bitRate": 1055.235086182912,
+            "duration": 3928.534,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/c2/jwb_E_201901_03.vtt",
+                "modifiedDatetime": "2019-01-21T12:24:30.000Z",
+                "checksum": "261bd8454d9afa9d33a5351105bb5d04"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201901-3.v",
+        "jwb.201901-3"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/c2/jwb_E_201901_03.vtt",
+    "Name": "pub-jwb_E_201901_3_VIDEO",
+    "Title": "Annual Meeting 2018—Talks and Announcements",
+    "UndatedReferenceTitle": "Annual Meeting 2018—Talks and Announcements",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODPgmEvtAnnMtg"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "5d9de263944f8ae32ed5d9a8",
+    "languageAgnosticNaturalKey": "pub-jwb_201911_10_VIDEO",
+    "naturalKey": "pub-jwb_E_201911_10_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2019-11-11T16:05:33.181Z",
+    "duration": 554.454,
+    "durationFormattedHHMM": "9:14",
+    "durationFormattedMinSec": "9m 14s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/82/jwb_E_201911_10_r240P.mp4",
+            "checksum": "ce93e812d56562382fbfc9840d6edc31",
+            "filesize": 8820126,
+            "modifiedDatetime": "2020-11-11T21:49:27.000Z",
+            "bitRate": 124.27944315488752,
+            "duration": 554.454,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.126,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/20/jwb_E_201911_10.vtt",
+                "modifiedDatetime": "2019-11-11T09:28:39.000Z",
+                "checksum": "3d198fc96d519b27d20248c16b4a68ed"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/77/jwb_E_201911_10_r360P.mp4",
+            "checksum": "59ee20af88dae27be2baa4cf54dbd04c",
+            "filesize": 17631087,
+            "modifiedDatetime": "2019-11-11T09:28:25.000Z",
+            "bitRate": 248.4405013933229,
+            "duration": 554.43,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/20/jwb_E_201911_10.vtt",
+                "modifiedDatetime": "2019-11-11T09:28:39.000Z",
+                "checksum": "3d198fc96d519b27d20248c16b4a68ed"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/63/jwb_E_201911_10_r480P.mp4",
+            "checksum": "e91479e2d2f3ad4b3a412d33b158859d",
+            "filesize": 30935771,
+            "modifiedDatetime": "2019-11-11T09:28:29.000Z",
+            "bitRate": 435.9174484380355,
+            "duration": 554.43,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/20/jwb_E_201911_10.vtt",
+                "modifiedDatetime": "2019-11-11T09:28:39.000Z",
+                "checksum": "3d198fc96d519b27d20248c16b4a68ed"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/e1/jwb_E_201911_10_r720P.mp4",
+            "checksum": "e454f6a832d188b6cbf50f3362483a3b",
+            "filesize": 57700378,
+            "modifiedDatetime": "2019-11-11T09:28:34.000Z",
+            "bitRate": 813.0588227999929,
+            "duration": 554.43,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/20/jwb_E_201911_10.vtt",
+                "modifiedDatetime": "2019-11-11T09:28:39.000Z",
+                "checksum": "3d198fc96d519b27d20248c16b4a68ed"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201911-10.v",
+        "jwb.201911-10"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/20/jwb_E_201911_10.vtt",
+    "Name": "pub-jwb_E_201911_10_VIDEO",
+    "Title": "James Mantz: Jehovah Is Our Potter (Isa. 64:8)",
+    "UndatedReferenceTitle": "James Mantz: Jehovah Is Our Potter (Isa. 64:8)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "5e1dc38faff3a23148754c07",
+    "languageAgnosticNaturalKey": "pub-jwb_202002_4_VIDEO",
+    "naturalKey": "pub-jwb_E_202002_4_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpEndurance",
+    "description": "",
+    "firstPublished": "2020-02-17T13:35:00.765Z",
+    "duration": 600.683,
+    "durationFormattedHHMM": "10:00",
+    "durationFormattedMinSec": "10m 0s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/8a/jwb_E_202002_04_r240P.mp4",
+            "checksum": "c1a6da040a0bf98fc490b3283c4a2f6f",
+            "filesize": 19535277,
+            "modifiedDatetime": "2020-10-18T02:58:53.000Z",
+            "bitRate": 254.0763623450306,
+            "duration": 600.683,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.297,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f6/jwb_E_202002_04.vtt",
+                "modifiedDatetime": "2020-02-17T13:21:17.000Z",
+                "checksum": "8cadb2629275e9ecbabe8048570f3aa5"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/57/jwb_E_202002_04_r360P.mp4",
+            "checksum": "04b92e9c5db382916738794bf3eedd2a",
+            "filesize": 33585342,
+            "modifiedDatetime": "2020-02-17T13:21:06.000Z",
+            "bitRate": 436.8409926944957,
+            "duration": 600.643,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f6/jwb_E_202002_04.vtt",
+                "modifiedDatetime": "2020-02-17T13:21:17.000Z",
+                "checksum": "8cadb2629275e9ecbabe8048570f3aa5"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/de/jwb_E_202002_04_r480P.mp4",
+            "checksum": "a6af142fb653d388d92466a9b5746115",
+            "filesize": 57412139,
+            "modifiedDatetime": "2020-02-17T13:21:09.000Z",
+            "bitRate": 746.7536222639737,
+            "duration": 600.643,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f6/jwb_E_202002_04.vtt",
+                "modifiedDatetime": "2020-02-17T13:21:17.000Z",
+                "checksum": "8cadb2629275e9ecbabe8048570f3aa5"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/6f/jwb_E_202002_04_r720P.mp4",
+            "checksum": "b1c3ed8d614444a6c09c0138c2af42b9",
+            "filesize": 92659418,
+            "modifiedDatetime": "2020-02-17T13:21:12.000Z",
+            "bitRate": 1205.2112538146619,
+            "duration": 600.643,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f6/jwb_E_202002_04.vtt",
+                "modifiedDatetime": "2020-02-17T13:21:17.000Z",
+                "checksum": "8cadb2629275e9ecbabe8048570f3aa5"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202002-4.v",
+        "jwb.202002-4"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/f6/jwb_E_202002_04.vtt",
+    "Name": "pub-jwb_E_202002_4_VIDEO",
+    "Title": "Jay and Elaine Humer: Finding Joy With Jehovah’s Family",
+    "UndatedReferenceTitle": "Jay and Elaine Humer: Finding Joy With Jehovah’s Family",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODIntExpEndurance"
+}

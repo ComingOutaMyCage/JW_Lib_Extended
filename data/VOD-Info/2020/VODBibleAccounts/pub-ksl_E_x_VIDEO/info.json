@@ -1,0 +1,102 @@
+{
+    "guid": "5ca649afdb0b288e409df734",
+    "languageAgnosticNaturalKey": "pub-ksl_x_VIDEO",
+    "naturalKey": "pub-ksl_E_x_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODBibleAccounts",
+    "description": "",
+    "firstPublished": "2020-02-20T14:13:07.965Z",
+    "duration": 1811.968,
+    "durationFormattedHHMM": "30:11",
+    "durationFormattedMinSec": "30m 11s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/f8/ksl_E_r240P.mp4",
+            "checksum": "67f038d9bb78b6e1ff5a763d77f11825",
+            "filesize": 21808190,
+            "modifiedDatetime": "2020-12-17T04:57:33.000Z",
+            "bitRate": 94.02841792735853,
+            "duration": 1811.968,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.739,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/72/ksl_E.vtt",
+                "modifiedDatetime": "2019-05-15T15:24:48.000Z",
+                "checksum": "10018d68e030d5185fe7410faefb1b74"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/00/ksl_E_r360P.mp4",
+            "checksum": "5956d108d7dacf37b9345caa38b038ea",
+            "filesize": 44280487,
+            "modifiedDatetime": "2019-05-15T15:24:07.000Z",
+            "bitRate": 190.92347288426697,
+            "duration": 1811.937,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/72/ksl_E.vtt",
+                "modifiedDatetime": "2019-05-15T15:24:48.000Z",
+                "checksum": "10018d68e030d5185fe7410faefb1b74"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/9b/ksl_E_r480P.mp4",
+            "checksum": "be555164a3f41936a4b210c94744a1bc",
+            "filesize": 71893066,
+            "modifiedDatetime": "2019-05-15T15:24:18.000Z",
+            "bitRate": 309.98019143325627,
+            "duration": 1811.937,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/72/ksl_E.vtt",
+                "modifiedDatetime": "2019-05-15T15:24:48.000Z",
+                "checksum": "10018d68e030d5185fe7410faefb1b74"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/40/ksl_E_r720P.mp4",
+            "checksum": "de76e1b74d83800696b3e700624638ca",
+            "filesize": 104623844,
+            "modifiedDatetime": "2019-05-15T15:24:31.000Z",
+            "bitRate": 451.1049673636556,
+            "duration": 1811.937,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/72/ksl_E.vtt",
+                "modifiedDatetime": "2019-05-15T15:24:48.000Z",
+                "checksum": "10018d68e030d5185fe7410faefb1b74"
+            }
+        }
+    ],
+    "printReferences": [
+        "ksl.v",
+        "ksl"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/72/ksl_E.vtt",
+    "Name": "pub-ksl_E_x_VIDEO",
+    "Title": "Jehovah Kept Showing Loyal Love",
+    "UndatedReferenceTitle": "Jehovah Kept Showing Loyal Love",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODBibleAccounts"
+}

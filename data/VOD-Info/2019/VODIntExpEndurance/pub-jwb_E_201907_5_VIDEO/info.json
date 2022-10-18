@@ -1,0 +1,102 @@
+{
+    "guid": "5cfe95f948fd57354cf33133",
+    "languageAgnosticNaturalKey": "pub-jwb_201907_5_VIDEO",
+    "naturalKey": "pub-jwb_E_201907_5_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpEndurance",
+    "description": "",
+    "firstPublished": "2019-07-15T18:50:58.566Z",
+    "duration": 368.576,
+    "durationFormattedHHMM": "6:08",
+    "durationFormattedMinSec": "6m 8s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/c1/jwb_E_201907_05_r240P.mp4",
+            "checksum": "9a5bc4157891b7a762c6fdb7809d4c53",
+            "filesize": 9923439,
+            "modifiedDatetime": "2020-11-14T03:58:39.000Z",
+            "bitRate": 210.34160441130186,
+            "duration": 368.576,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.857,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/26/jwb_E_201907_05.vtt",
+                "modifiedDatetime": "2019-07-15T12:48:11.000Z",
+                "checksum": "77d7195c6a10965d99d1c333d187cdbd"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/f6/jwb_E_201907_05_r360P.mp4",
+            "checksum": "cbc95d742b4a43a968969b01df999b8c",
+            "filesize": 18499959,
+            "modifiedDatetime": "2019-07-15T12:48:18.000Z",
+            "bitRate": 392.1758788490134,
+            "duration": 368.536,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/26/jwb_E_201907_05.vtt",
+                "modifiedDatetime": "2019-07-15T12:48:11.000Z",
+                "checksum": "77d7195c6a10965d99d1c333d187cdbd"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/06/jwb_E_201907_05_r480P.mp4",
+            "checksum": "b8cd3b1416e3eb84997ae24f48820931",
+            "filesize": 34193959,
+            "modifiedDatetime": "2019-07-15T12:48:22.000Z",
+            "bitRate": 724.8689536096881,
+            "duration": 368.536,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/26/jwb_E_201907_05.vtt",
+                "modifiedDatetime": "2019-07-15T12:48:11.000Z",
+                "checksum": "77d7195c6a10965d99d1c333d187cdbd"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/37/jwb_E_201907_05_r720P.mp4",
+            "checksum": "8416176143d2ae6bc5fca1e3935fbf07",
+            "filesize": 56858237,
+            "modifiedDatetime": "2019-07-15T12:48:26.000Z",
+            "bitRate": 1205.3231612718976,
+            "duration": 368.536,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/26/jwb_E_201907_05.vtt",
+                "modifiedDatetime": "2019-07-15T12:48:11.000Z",
+                "checksum": "77d7195c6a10965d99d1c333d187cdbd"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201907-5.v",
+        "jwb.201907-5"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/26/jwb_E_201907_05.vtt",
+    "Name": "pub-jwb_E_201907_5_VIDEO",
+    "Title": "Lei Lei and Mimi McConnell: We Found Christian Love in Jehovah’s Family",
+    "UndatedReferenceTitle": "Lei Lei and Mimi McConnell: We Found Christian Love in Jehovah’s Family",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODIntExpEndurance"
+}

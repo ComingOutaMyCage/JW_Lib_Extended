@@ -1,0 +1,102 @@
+{
+    "guid": "5e137352aff3a2314856bcfd",
+    "languageAgnosticNaturalKey": "docid-702020112_1_VIDEO",
+    "naturalKey": "docid-702020112_E_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "StudioNewsReports",
+    "description": "",
+    "firstPublished": "2020-01-07T14:38:03.441Z",
+    "duration": 304.384,
+    "durationFormattedHHMM": "5:04",
+    "durationFormattedMinSec": "5m 4s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/d6/702020112_E_cnt_1_r240P.mp4",
+            "checksum": "a2a7e02498b33ea3dc83bfb9e37c52de",
+            "filesize": 7321354,
+            "modifiedDatetime": "2020-11-01T16:41:20.000Z",
+            "bitRate": 187.91420746491272,
+            "duration": 304.384,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.952,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/2b/702020112_E_cnt_1.vtt",
+                "modifiedDatetime": "2020-02-24T14:24:43.000Z",
+                "checksum": "56c6e8dae2141ade1c7eedfdfaaa6acc"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/e8/702020112_E_cnt_1_r360P.mp4",
+            "checksum": "07ed64f78b17173203b72d4635365150",
+            "filesize": 14212418,
+            "modifiedDatetime": "2020-02-24T14:23:11.000Z",
+            "bitRate": 364.82868444571494,
+            "duration": 304.347,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/2b/702020112_E_cnt_1.vtt",
+                "modifiedDatetime": "2020-02-24T14:24:43.000Z",
+                "checksum": "56c6e8dae2141ade1c7eedfdfaaa6acc"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/6a/702020112_E_cnt_1_r480P.mp4",
+            "checksum": "d4b199a3d4c53e9af575bc871a10d29b",
+            "filesize": 25835920,
+            "modifiedDatetime": "2020-02-24T14:23:44.000Z",
+            "bitRate": 663.2006394017355,
+            "duration": 304.347,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/2b/702020112_E_cnt_1.vtt",
+                "modifiedDatetime": "2020-02-24T14:24:43.000Z",
+                "checksum": "56c6e8dae2141ade1c7eedfdfaaa6acc"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/b0/702020112_E_cnt_1_r720P.mp4",
+            "checksum": "2f5c407f9fae7cd1e0630a7f53e6622c",
+            "filesize": 42149359,
+            "modifiedDatetime": "2020-02-24T14:28:10.000Z",
+            "bitRate": 1081.9619289413072,
+            "duration": 304.347,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/2b/702020112_E_cnt_1.vtt",
+                "modifiedDatetime": "2020-02-24T14:24:43.000Z",
+                "checksum": "56c6e8dae2141ade1c7eedfdfaaa6acc"
+            }
+        }
+    ],
+    "printReferences": [
+        "702020112-1.v",
+        "702020112-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/content_assets/2b/702020112_E_cnt_1.vtt",
+    "Name": "docid-702020112_E_1_VIDEO",
+    "Title": "The Detention of Brothers Kuzin and Makhnev",
+    "UndatedReferenceTitle": "The Detention of Brothers Kuzin and Makhnev",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "StudioNewsReports"
+}

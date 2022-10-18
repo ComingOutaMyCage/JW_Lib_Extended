@@ -1,0 +1,102 @@
+{
+    "guid": "5d32121448fd57354cf37cce",
+    "languageAgnosticNaturalKey": "pub-jwb_201909_7_VIDEO",
+    "naturalKey": "pub-jwb_E_201909_7_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2019-09-09T12:11:10.061Z",
+    "duration": 498.902,
+    "durationFormattedHHMM": "8:18",
+    "durationFormattedMinSec": "8m 18s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/83/jwb_E_201909_07_r240P.mp4",
+            "checksum": "3d4830aa6ddd241d5af2632fb94ae184",
+            "filesize": 7935904,
+            "modifiedDatetime": "2020-11-11T21:49:24.000Z",
+            "bitRate": 124.27139999438768,
+            "duration": 498.902,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.791,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/c9/jwb_E_201909_07.vtt",
+                "modifiedDatetime": "2019-09-09T10:43:19.000Z",
+                "checksum": "7ecd83981069126f60ef0bedd592bbd3"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/51/jwb_E_201909_07_r360P.mp4",
+            "checksum": "9bc947df1dde2e3f663695012d38a2b9",
+            "filesize": 15902910,
+            "modifiedDatetime": "2019-09-09T10:43:07.000Z",
+            "bitRate": 249.04331621147583,
+            "duration": 498.875,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/c9/jwb_E_201909_07.vtt",
+                "modifiedDatetime": "2019-09-09T10:43:19.000Z",
+                "checksum": "7ecd83981069126f60ef0bedd592bbd3"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/3f/jwb_E_201909_07_r480P.mp4",
+            "checksum": "b8699d03a038b472a7cb4954a9027fed",
+            "filesize": 28356888,
+            "modifiedDatetime": "2019-09-09T10:43:10.000Z",
+            "bitRate": 444.07554497619645,
+            "duration": 498.875,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/c9/jwb_E_201909_07.vtt",
+                "modifiedDatetime": "2019-09-09T10:43:19.000Z",
+                "checksum": "7ecd83981069126f60ef0bedd592bbd3"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/73/jwb_E_201909_07_r720P.mp4",
+            "checksum": "726f79de28eb94b28a68fe916ec4052e",
+            "filesize": 53533721,
+            "modifiedDatetime": "2019-09-09T10:43:14.000Z",
+            "bitRate": 838.350679654222,
+            "duration": 498.875,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/c9/jwb_E_201909_07.vtt",
+                "modifiedDatetime": "2019-09-09T10:43:19.000Z",
+                "checksum": "7ecd83981069126f60ef0bedd592bbd3"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201909-7.v",
+        "jwb.201909-7"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/c9/jwb_E_201909_07.vtt",
+    "Name": "pub-jwb_E_201909_7_VIDEO",
+    "Title": "Gajus Glockentin: “Oppose the Devil” (Jas. 4:7)",
+    "UndatedReferenceTitle": "Gajus Glockentin: “Oppose the Devil” (Jas. 4:7)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "55364c1c7f0bc1fc2706c78d",
+    "languageAgnosticNaturalKey": "docid-502015143_1_VIDEO",
+    "naturalKey": "docid-502015143_E_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesWhiteboard",
+    "description": "",
+    "firstPublished": "2014-11-24T18:14:54.000Z",
+    "duration": 239.638,
+    "durationFormattedHHMM": "3:59",
+    "durationFormattedMinSec": "3m 59s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/7d/502015143_E_cnt_1_r240P.mp4",
+            "checksum": "081613186e9d78c019f82a60b57dc0bc",
+            "filesize": 4363561,
+            "modifiedDatetime": "2020-11-18T20:19:33.000Z",
+            "bitRate": 142.25757314157187,
+            "duration": 239.638,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.529,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/9e/502015143_E_cnt_1.vtt",
+                "modifiedDatetime": "2020-11-18T20:19:30.000Z",
+                "checksum": "eb2f12237c586c435682cfd312fa53be"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/d3/502015143_E_cnt_1_r360P.mp4",
+            "checksum": "c446b56e396b86319766a3dd428750c1",
+            "filesize": 8038131,
+            "modifiedDatetime": "2020-11-18T20:19:36.000Z",
+            "bitRate": 262.0772337302183,
+            "duration": 239.616,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/9e/502015143_E_cnt_1.vtt",
+                "modifiedDatetime": "2020-11-18T20:19:30.000Z",
+                "checksum": "eb2f12237c586c435682cfd312fa53be"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/fd/502015143_E_cnt_1_r480P.mp4",
+            "checksum": "0086b7bfd9eb638c58df029eccd094b0",
+            "filesize": 13144543,
+            "modifiedDatetime": "2020-11-18T20:19:37.000Z",
+            "bitRate": 428.56796786316437,
+            "duration": 239.616,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/9e/502015143_E_cnt_1.vtt",
+                "modifiedDatetime": "2020-11-18T20:19:30.000Z",
+                "checksum": "eb2f12237c586c435682cfd312fa53be"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/45/502015143_E_cnt_1_r720P.mp4",
+            "checksum": "1510bae73ff80de281906e5cb19d5594",
+            "filesize": 19281918,
+            "modifiedDatetime": "2020-11-18T20:19:43.000Z",
+            "bitRate": 628.6724775265425,
+            "duration": 239.616,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/9e/502015143_E_cnt_1.vtt",
+                "modifiedDatetime": "2020-11-18T20:19:30.000Z",
+                "checksum": "eb2f12237c586c435682cfd312fa53be"
+            }
+        }
+    ],
+    "printReferences": [
+        "502015143-1.v",
+        "502015143-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/content_assets/9e/502015143_E_cnt_1.vtt",
+    "Name": "docid-502015143_E_1_VIDEO",
+    "Title": "Stand Up to Peer Pressure!",
+    "UndatedReferenceTitle": "Stand Up to Peer Pressure!",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2014,
+    "Symbol": "SeriesWhiteboard"
+}

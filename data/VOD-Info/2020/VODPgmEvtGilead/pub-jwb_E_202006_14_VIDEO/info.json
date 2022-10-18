@@ -1,0 +1,102 @@
+{
+    "guid": "5f15b4d74bd99b3c3738eaa3",
+    "languageAgnosticNaturalKey": "pub-jwb_202006_14_VIDEO",
+    "naturalKey": "pub-jwb_E_202006_14_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtGilead",
+    "description": "",
+    "firstPublished": "2020-07-20T15:27:25.990Z",
+    "duration": 867.606,
+    "durationFormattedHHMM": "14:27",
+    "durationFormattedMinSec": "14m 27s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/14/jwb_E_202006_14_r240P.mp4",
+            "checksum": "826f08f0a4eb02fe938a77e17a538970",
+            "filesize": 14299189,
+            "modifiedDatetime": "2020-10-18T03:05:12.000Z",
+            "bitRate": 128.75938393982983,
+            "duration": 867.606,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.528,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/82/jwb_E_202006_14.vtt",
+                "modifiedDatetime": "2020-07-20T15:14:28.000Z",
+                "checksum": "fbc1e1d50139a71fda8bc1be81d6b9d8"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/6d/jwb_E_202006_14_r360P.mp4",
+            "checksum": "02d3fb8faf7ff3cff311f4e8e072f5ba",
+            "filesize": 30123645,
+            "modifiedDatetime": "2020-07-20T15:14:41.000Z",
+            "bitRate": 271.26266351593404,
+            "duration": 867.576,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/82/jwb_E_202006_14.vtt",
+                "modifiedDatetime": "2020-07-20T15:14:28.000Z",
+                "checksum": "fbc1e1d50139a71fda8bc1be81d6b9d8"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/58/jwb_E_202006_14_r480P.mp4",
+            "checksum": "1357aa4ef14689608c77249ab1d09aae",
+            "filesize": 57730001,
+            "modifiedDatetime": "2020-07-20T15:14:50.000Z",
+            "bitRate": 519.8572030721227,
+            "duration": 867.576,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/82/jwb_E_202006_14.vtt",
+                "modifiedDatetime": "2020-07-20T15:14:28.000Z",
+                "checksum": "fbc1e1d50139a71fda8bc1be81d6b9d8"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/18/jwb_E_202006_14_r720P.mp4",
+            "checksum": "86537ac00c3bcfb75e69a47fe907f6b0",
+            "filesize": 111267542,
+            "modifiedDatetime": "2020-07-20T15:14:58.000Z",
+            "bitRate": 1001.9614095767979,
+            "duration": 867.576,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/82/jwb_E_202006_14.vtt",
+                "modifiedDatetime": "2020-07-20T15:14:28.000Z",
+                "checksum": "fbc1e1d50139a71fda8bc1be81d6b9d8"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202006-14.v",
+        "jwb.202006-14"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/82/jwb_E_202006_14.vtt",
+    "Name": "pub-jwb_E_202006_14_VIDEO",
+    "Title": "M. Stephen Lett: Imitate Jesus' Modesty",
+    "UndatedReferenceTitle": "M. Stephen Lett: Imitate Jesus' Modesty",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODPgmEvtGilead"
+}

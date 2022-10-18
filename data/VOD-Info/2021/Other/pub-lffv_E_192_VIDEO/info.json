@@ -1,0 +1,83 @@
+{
+    "guid": "5f88c9830ca056895ed81e9c",
+    "languageAgnosticNaturalKey": "pub-lffv_192_VIDEO",
+    "naturalKey": "pub-lffv_E_192_VIDEO",
+    "type": "video",
+    "primaryCategory": "Other",
+    "description": "",
+    "firstPublished": "2021-01-13T18:29:21.268Z",
+    "duration": 176.086,
+    "durationFormattedHHMM": "2:56",
+    "durationFormattedMinSec": "2m 56s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/21/lffv_E_192_r240P.mp4",
+            "checksum": "b153167b6a3e9eb5c3b3194ba5162433",
+            "filesize": 3926354,
+            "modifiedDatetime": "2021-01-13T03:30:36.000Z",
+            "bitRate": 174.20260909441976,
+            "duration": 176.086,
+            "frameHeight": 240,
+            "frameWidth": 320,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/b0/lffv_E_192.vtt",
+                "modifiedDatetime": "2021-01-13T03:30:47.000Z",
+                "checksum": "75408797938ba1e4b87d47beffef9619"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/55/lffv_E_192_r360P.mp4",
+            "checksum": "2764598059fae648a0f5b9f7ee592387",
+            "filesize": 7851549,
+            "modifiedDatetime": "2021-01-13T03:30:39.000Z",
+            "bitRate": 348.42107197021335,
+            "duration": 176.052,
+            "frameHeight": 360,
+            "frameWidth": 480,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/b0/lffv_E_192.vtt",
+                "modifiedDatetime": "2021-01-13T03:30:47.000Z",
+                "checksum": "75408797938ba1e4b87d47beffef9619"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/eb/lffv_E_192_r480P.mp4",
+            "checksum": "3f0bd60611fad2e5b34ae65c08c86a23",
+            "filesize": 12975387,
+            "modifiedDatetime": "2021-01-13T03:30:45.000Z",
+            "bitRate": 575.7969857627293,
+            "duration": 176.052,
+            "frameHeight": 480,
+            "frameWidth": 640,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/b0/lffv_E_192.vtt",
+                "modifiedDatetime": "2021-01-13T03:30:47.000Z",
+                "checksum": "75408797938ba1e4b87d47beffef9619"
+            }
+        }
+    ],
+    "printReferences": [
+        "lffv-192.v",
+        "lffv-192"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/b0/lffv_E_192.vtt",
+    "Name": "pub-lffv_E_192_VIDEO",
+    "Title": "A Name That Defines Us",
+    "UndatedReferenceTitle": "A Name That Defines Us",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "Other"
+}

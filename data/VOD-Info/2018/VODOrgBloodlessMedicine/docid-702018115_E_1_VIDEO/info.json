@@ -1,0 +1,102 @@
+{
+    "guid": "5b048985d2aa9cc349cae436",
+    "languageAgnosticNaturalKey": "docid-702018115_1_VIDEO",
+    "naturalKey": "docid-702018115_E_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODOrgBloodlessMedicine",
+    "description": "",
+    "firstPublished": "2018-05-23T15:18:06.554Z",
+    "duration": 96.576,
+    "durationFormattedHHMM": "1:36",
+    "durationFormattedMinSec": "1m 36s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/b1/702018115_E_cnt_1_r240P.mp4",
+            "checksum": "c1cdc52a232b8ce33d995d530a1c6f8f",
+            "filesize": 2370864,
+            "modifiedDatetime": "2021-01-12T19:58:00.000Z",
+            "bitRate": 191.79066227634195,
+            "duration": 96.576,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.211,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/2f/702018115_E_cnt_1.vtt",
+                "modifiedDatetime": "2021-01-12T19:57:51.000Z",
+                "checksum": "f1eeda197f4204a71c3d2cac8bff63ef"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/34/702018115_E_cnt_1_r360P.mp4",
+            "checksum": "52d808dccebe350aa27617d2e633d340",
+            "filesize": 3928643,
+            "modifiedDatetime": "2021-01-12T19:58:05.000Z",
+            "bitRate": 317.9254551222291,
+            "duration": 96.54,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/2f/702018115_E_cnt_1.vtt",
+                "modifiedDatetime": "2021-01-12T19:57:51.000Z",
+                "checksum": "f1eeda197f4204a71c3d2cac8bff63ef"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/cc/702018115_E_cnt_1_r480P.mp4",
+            "checksum": "c4656d810248c634d820be5476fc3516",
+            "filesize": 6678472,
+            "modifiedDatetime": "2021-01-12T19:58:08.000Z",
+            "bitRate": 540.4553811891443,
+            "duration": 96.54,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/2f/702018115_E_cnt_1.vtt",
+                "modifiedDatetime": "2021-01-12T19:57:51.000Z",
+                "checksum": "f1eeda197f4204a71c3d2cac8bff63ef"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/b8/702018115_E_cnt_1_r720P.mp4",
+            "checksum": "6500a2e975824d34dd0eee294cc01e9f",
+            "filesize": 10494258,
+            "modifiedDatetime": "2021-01-12T19:58:11.000Z",
+            "bitRate": 849.2478830018645,
+            "duration": 96.54,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/2f/702018115_E_cnt_1.vtt",
+                "modifiedDatetime": "2021-01-12T19:57:51.000Z",
+                "checksum": "f1eeda197f4204a71c3d2cac8bff63ef"
+            }
+        }
+    ],
+    "printReferences": [
+        "702018115-1.v",
+        "702018115-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/content_assets/2f/702018115_E_cnt_1.vtt",
+    "Name": "docid-702018115_E_1_VIDEO",
+    "Title": "Interview of Professor Massimo P. Franchi, M.D.",
+    "UndatedReferenceTitle": "Interview of Professor Massimo P. Franchi, M.D.",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "VODOrgBloodlessMedicine"
+}

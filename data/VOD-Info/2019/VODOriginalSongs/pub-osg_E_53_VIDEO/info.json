@@ -1,0 +1,102 @@
+{
+    "guid": "5cd4675948fd57354cf2fc81",
+    "languageAgnosticNaturalKey": "pub-osg_53_VIDEO",
+    "naturalKey": "pub-osg_E_53_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODOriginalSongs",
+    "description": "",
+    "firstPublished": "2019-07-15T21:50:52.562Z",
+    "duration": 237.355,
+    "durationFormattedHHMM": "3:57",
+    "durationFormattedMinSec": "3m 57s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/f2/osg_E_053_r240P.mp4",
+            "checksum": "7a01596933301a12a94268a6c2878206",
+            "filesize": 9794823,
+            "modifiedDatetime": "2020-12-17T23:13:00.000Z",
+            "bitRate": 322.3949556044743,
+            "duration": 237.355,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.553,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/cc/osg_E_053.vtt",
+                "modifiedDatetime": "2019-07-15T21:19:48.000Z",
+                "checksum": "4b7b6dd0704bb267f71f120620717e16"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/d9/osg_E_053_r360P.mp4",
+            "checksum": "8b977d9f7716e60e534e82c131f16a73",
+            "filesize": 18087220,
+            "modifiedDatetime": "2019-07-15T21:19:23.000Z",
+            "bitRate": 595.4205941716318,
+            "duration": 237.322,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/cc/osg_E_053.vtt",
+                "modifiedDatetime": "2019-07-15T21:19:48.000Z",
+                "checksum": "4b7b6dd0704bb267f71f120620717e16"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/7b/osg_E_053_r480P.mp4",
+            "checksum": "caf7aa8bb43d82f200f777f7ac800ccc",
+            "filesize": 34713364,
+            "modifiedDatetime": "2019-07-15T21:19:32.000Z",
+            "bitRate": 1142.7434298126595,
+            "duration": 237.322,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/cc/osg_E_053.vtt",
+                "modifiedDatetime": "2019-07-15T21:19:48.000Z",
+                "checksum": "4b7b6dd0704bb267f71f120620717e16"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/0c/osg_E_053_r720P.mp4",
+            "checksum": "3cae8704524a578844b93c99f715992f",
+            "filesize": 59584341,
+            "modifiedDatetime": "2019-07-15T21:19:37.000Z",
+            "bitRate": 1961.4812957184754,
+            "duration": 237.322,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/cc/osg_E_053.vtt",
+                "modifiedDatetime": "2019-07-15T21:19:48.000Z",
+                "checksum": "4b7b6dd0704bb267f71f120620717e16"
+            }
+        }
+    ],
+    "printReferences": [
+        "osg-53.v",
+        "osg-53"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/cc/osg_E_053.vtt",
+    "Name": "pub-osg_E_53_VIDEO",
+    "Title": "Be Courageous and Strong",
+    "UndatedReferenceTitle": "Be Courageous and Strong",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODOriginalSongs"
+}

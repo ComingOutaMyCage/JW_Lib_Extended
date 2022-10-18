@@ -1,0 +1,102 @@
+{
+    "guid": "5a294e19e4fee9681e92e3e0",
+    "languageAgnosticNaturalKey": "docid-502017872_1_VIDEO",
+    "naturalKey": "docid-502017872_E_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesWhiteboard",
+    "description": "",
+    "firstPublished": "2017-12-07T16:05:23.337Z",
+    "duration": 151.65,
+    "durationFormattedHHMM": "2:31",
+    "durationFormattedMinSec": "2m 31s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/f1/502017872_E_cnt_1_r240P.mp4",
+            "checksum": "9fe279a990b360a38b5993ab8ddae3c3",
+            "filesize": 6928928,
+            "modifiedDatetime": "2020-11-01T12:11:35.000Z",
+            "bitRate": 356.9551599076822,
+            "duration": 151.65,
+            "frameHeight": 180,
+            "frameWidth": 320,
+            "label": "240p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/33/502017872_E_cnt_1_r240P.vtt",
+                "modifiedDatetime": "2017-12-07T15:43:20.000Z",
+                "checksum": "91063bb976e188cedb162eb09c43eefd"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/18/502017872_E_cnt_1_r360P.mp4",
+            "checksum": "9026b56ffcb14f82932a1ca04243b4db",
+            "filesize": 15842958,
+            "modifiedDatetime": "2017-12-07T15:43:21.000Z",
+            "bitRate": 816.3106966199506,
+            "duration": 151.625,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/ee/502017872_E_cnt_1_r360P.vtt",
+                "modifiedDatetime": "2017-12-07T15:43:23.000Z",
+                "checksum": "91063bb976e188cedb162eb09c43eefd"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/53/502017872_E_cnt_1_r480P.mp4",
+            "checksum": "28c0697c8b0fe4b200500361dfc1e697",
+            "filesize": 21581418,
+            "modifiedDatetime": "2017-12-07T15:43:24.000Z",
+            "bitRate": 1111.9856760098928,
+            "duration": 151.625,
+            "frameHeight": 480,
+            "frameWidth": 854,
+            "label": "480p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/31/502017872_E_cnt_1_r480P.vtt",
+                "modifiedDatetime": "2017-12-07T15:43:26.000Z",
+                "checksum": "91063bb976e188cedb162eb09c43eefd"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/48/502017872_E_cnt_1_r720P.mp4",
+            "checksum": "ca18e019ed3feefd991b25013d0b6a07",
+            "filesize": 31002174,
+            "modifiedDatetime": "2017-12-07T15:43:27.000Z",
+            "bitRate": 1597.3914880461666,
+            "duration": 151.625,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/4a/502017872_E_cnt_1_r720P.vtt",
+                "modifiedDatetime": "2017-12-07T15:43:30.000Z",
+                "checksum": "91063bb976e188cedb162eb09c43eefd"
+            }
+        }
+    ],
+    "printReferences": [
+        "502017872-1.v",
+        "502017872-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/content_assets/33/502017872_E_cnt_1_r240P.vtt",
+    "Name": "docid-502017872_E_1_VIDEO",
+    "Title": "Think Past the Drink",
+    "UndatedReferenceTitle": "Think Past the Drink",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2017,
+    "Symbol": "SeriesWhiteboard"
+}

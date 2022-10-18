@@ -1,0 +1,102 @@
+{
+    "guid": "55384d2171a673b272abf180",
+    "languageAgnosticNaturalKey": "pub-jwbai_201502_1_VIDEO",
+    "naturalKey": "pub-jwbai_E_201502_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODBiblePrinciples",
+    "description": "",
+    "firstPublished": "2015-03-05T22:03:30.000Z",
+    "duration": 188.992,
+    "durationFormattedHHMM": "3:08",
+    "durationFormattedMinSec": "3m 8s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/34/jwbai_E_201502_01_r240P.mp4",
+            "checksum": "969f348010f8a571d3f1dcb102c64b05",
+            "filesize": 5406841,
+            "modifiedDatetime": "2020-12-03T19:21:45.000Z",
+            "bitRate": 223.50652573918475,
+            "duration": 188.992,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.88,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/e3/jwbai_E_201502_01.vtt",
+                "modifiedDatetime": "2020-12-03T19:21:41.000Z",
+                "checksum": "166f86b996757527d9030195a15a0fa1"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/d3/jwbai_E_201502_01_r360P.mp4",
+            "checksum": "09631d98501704d9343044be488763e2",
+            "filesize": 8033663,
+            "modifiedDatetime": "2020-12-03T19:21:49.000Z",
+            "bitRate": 332.140831304739,
+            "duration": 188.965,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/e3/jwbai_E_201502_01.vtt",
+                "modifiedDatetime": "2020-12-03T19:21:41.000Z",
+                "checksum": "166f86b996757527d9030195a15a0fa1"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/0b/jwbai_E_201502_01_r480P.mp4",
+            "checksum": "346ea9046d434010f62314b59a7bd87b",
+            "filesize": 14605830,
+            "modifiedDatetime": "2020-12-03T19:21:51.000Z",
+            "bitRate": 603.8581053369671,
+            "duration": 188.965,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/e3/jwbai_E_201502_01.vtt",
+                "modifiedDatetime": "2020-12-03T19:21:41.000Z",
+                "checksum": "166f86b996757527d9030195a15a0fa1"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/ff/jwbai_E_201502_01_r720P.mp4",
+            "checksum": "08fc9c9fce7ffe4d4d1e44b598938b58",
+            "filesize": 23733320,
+            "modifiedDatetime": "2020-12-03T19:22:00.000Z",
+            "bitRate": 981.2217209536158,
+            "duration": 188.965,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/e3/jwbai_E_201502_01.vtt",
+                "modifiedDatetime": "2020-12-03T19:21:41.000Z",
+                "checksum": "166f86b996757527d9030195a15a0fa1"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwbai.201502-1.v",
+        "jwbai.201502-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/e3/jwbai_E_201502_01.vtt",
+    "Name": "pub-jwbai_E_201502_1_VIDEO",
+    "Title": "Love and Respect Unite Families",
+    "UndatedReferenceTitle": "Love and Respect Unite Families",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2015,
+    "Symbol": "VODBiblePrinciples"
+}

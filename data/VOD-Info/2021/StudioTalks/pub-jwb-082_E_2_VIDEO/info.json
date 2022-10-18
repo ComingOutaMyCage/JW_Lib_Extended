@@ -1,0 +1,102 @@
+{
+    "guid": "60b68cc7b9f9166228d86722",
+    "languageAgnosticNaturalKey": "pub-jwb-082_2_VIDEO",
+    "naturalKey": "pub-jwb-082_E_2_VIDEO",
+    "type": "video",
+    "primaryCategory": "StudioTalks",
+    "description": "",
+    "firstPublished": "2021-09-20T16:02:19.288Z",
+    "duration": 1006.24,
+    "durationFormattedHHMM": "16:46",
+    "durationFormattedMinSec": "16m 46s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/cc/jwb-082_E_02_r240P.mp4",
+            "checksum": "c324327676e9803c33e5674cf5a29cd7",
+            "filesize": 18129434,
+            "modifiedDatetime": "2021-09-20T05:55:19.000Z",
+            "bitRate": 140.75787399129433,
+            "duration": 1006.24,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.586,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/3e/jwb-082_E_02.vtt",
+                "modifiedDatetime": "2021-09-20T05:55:04.000Z",
+                "checksum": "0b9397f0e1e2432db4986b9ef670339a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/01/jwb-082_E_02_r360P.mp4",
+            "checksum": "71bef239670254794fe37fe9a2081d54",
+            "filesize": 36418832,
+            "modifiedDatetime": "2021-09-20T05:55:14.000Z",
+            "bitRate": 282.7577168468755,
+            "duration": 1006.24,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/3e/jwb-082_E_02.vtt",
+                "modifiedDatetime": "2021-09-20T05:55:04.000Z",
+                "checksum": "0b9397f0e1e2432db4986b9ef670339a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/6b/jwb-082_E_02_r480P.mp4",
+            "checksum": "7a9d12fc3da1b831722b166257a9ea06",
+            "filesize": 65028384,
+            "modifiedDatetime": "2021-09-20T05:55:12.000Z",
+            "bitRate": 504.8837752424869,
+            "duration": 1006.24,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/3e/jwb-082_E_02.vtt",
+                "modifiedDatetime": "2021-09-20T05:55:04.000Z",
+                "checksum": "0b9397f0e1e2432db4986b9ef670339a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/d7/jwb-082_E_02_r720P.mp4",
+            "checksum": "32a30a5a666a952917dff22efe83d602",
+            "filesize": 108513832,
+            "modifiedDatetime": "2021-09-20T05:55:05.000Z",
+            "bitRate": 842.5070683932263,
+            "duration": 1006.24,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/3e/jwb-082_E_02.vtt",
+                "modifiedDatetime": "2021-09-20T05:55:04.000Z",
+                "checksum": "0b9397f0e1e2432db4986b9ef670339a"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-082-2.v",
+        "jwb-082-2"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/3e/jwb-082_E_02.vtt",
+    "Name": "pub-jwb-082_E_2_VIDEO",
+    "Title": "Patrick LaFranca: You Can Successfully Fight Discouragement",
+    "UndatedReferenceTitle": "Patrick LaFranca: You Can Successfully Fight Discouragement",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "StudioTalks"
+}

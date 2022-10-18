@@ -1,0 +1,102 @@
+{
+    "guid": "601c049aaa8dbd024d1e72aa",
+    "languageAgnosticNaturalKey": "pub-jwb-080_5_VIDEO",
+    "naturalKey": "pub-jwb-080_E_5_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpEndurance",
+    "description": "",
+    "firstPublished": "2021-05-17T15:30:31.621Z",
+    "duration": 250.411,
+    "durationFormattedHHMM": "4:10",
+    "durationFormattedMinSec": "4m 10s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/70/jwb-080_E_05_r240P.mp4",
+            "checksum": "77a881a0982be3eb438c3f1763821226",
+            "filesize": 6454826,
+            "modifiedDatetime": "2021-05-17T06:53:29.000Z",
+            "bitRate": 201.38224009728006,
+            "duration": 250.411,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.952,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/ee/jwb-080_E_05.vtt",
+                "modifiedDatetime": "2021-05-17T06:53:22.000Z",
+                "checksum": "93cd47e90c4d2331dbbcc7f68605d168"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/6b/jwb-080_E_05_r360P.mp4",
+            "checksum": "31d9eca86c53305c308a2a7cba63d25d",
+            "filesize": 12144462,
+            "modifiedDatetime": "2021-05-17T06:53:27.000Z",
+            "bitRate": 378.94299146886493,
+            "duration": 250.377,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/ee/jwb-080_E_05.vtt",
+                "modifiedDatetime": "2021-05-17T06:53:22.000Z",
+                "checksum": "93cd47e90c4d2331dbbcc7f68605d168"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/a6/jwb-080_E_05_r480P.mp4",
+            "checksum": "1c090975a0c8f12b090e23614880e124",
+            "filesize": 22348482,
+            "modifiedDatetime": "2021-05-17T06:53:25.000Z",
+            "bitRate": 697.3384760780742,
+            "duration": 250.377,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/ee/jwb-080_E_05.vtt",
+                "modifiedDatetime": "2021-05-17T06:53:22.000Z",
+                "checksum": "93cd47e90c4d2331dbbcc7f68605d168"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/88/jwb-080_E_05_r720P.mp4",
+            "checksum": "93236967fc2f5c1141d70a98e706cb4e",
+            "filesize": 37320540,
+            "modifiedDatetime": "2021-05-17T06:53:23.000Z",
+            "bitRate": 1164.5107927245713,
+            "duration": 250.377,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/ee/jwb-080_E_05.vtt",
+                "modifiedDatetime": "2021-05-17T06:53:22.000Z",
+                "checksum": "93cd47e90c4d2331dbbcc7f68605d168"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-080-5.v",
+        "jwb-080-5"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/ee/jwb-080_E_05.vtt",
+    "Name": "pub-jwb-080_E_5_VIDEO",
+    "Title": "Personal Accounts From Russia",
+    "UndatedReferenceTitle": "Personal Accounts From Russia",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODIntExpEndurance"
+}

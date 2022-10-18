@@ -1,0 +1,102 @@
+{
+    "guid": "5c5d93e9351dc4182b66476c",
+    "languageAgnosticNaturalKey": "pub-jwb_201903_10_VIDEO",
+    "naturalKey": "pub-jwb_E_201903_10_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2019-03-11T13:59:44.701Z",
+    "duration": 532.032,
+    "durationFormattedHHMM": "8:52",
+    "durationFormattedMinSec": "8m 52s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/dd/jwb_E_201903_10_r240P.mp4",
+            "checksum": "afd07b6c984b67f0a1b544fdd402a0ee",
+            "filesize": 9429615,
+            "modifiedDatetime": "2020-11-21T07:43:06.000Z",
+            "bitRate": 138.46698542098972,
+            "duration": 532.032,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.326,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/cf/jwb_E_201903_10.vtt",
+                "modifiedDatetime": "2019-03-11T13:00:55.000Z",
+                "checksum": "ebe3dd1f323e7eed56e69e4fb15db07f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/55/jwb_E_201903_10_r360P.mp4",
+            "checksum": "b73cd73489ba4cc9518b2b216f7e1d0a",
+            "filesize": 19173025,
+            "modifiedDatetime": "2019-03-11T13:40:32.000Z",
+            "bitRate": 281.5545213840769,
+            "duration": 532.008,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/cf/jwb_E_201903_10.vtt",
+                "modifiedDatetime": "2019-03-11T13:00:55.000Z",
+                "checksum": "ebe3dd1f323e7eed56e69e4fb15db07f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/c7/jwb_E_201903_10_r480P.mp4",
+            "checksum": "4843c09abeaf4db144ccaf116c727117",
+            "filesize": 35530329,
+            "modifiedDatetime": "2019-03-11T13:00:37.000Z",
+            "bitRate": 521.7603782508909,
+            "duration": 532.008,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/cf/jwb_E_201903_10.vtt",
+                "modifiedDatetime": "2019-03-11T13:00:55.000Z",
+                "checksum": "ebe3dd1f323e7eed56e69e4fb15db07f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/82/jwb_E_201903_10_r720P.mp4",
+            "checksum": "e59c5867706e6e68df6b80876c379de0",
+            "filesize": 68258914,
+            "modifiedDatetime": "2019-03-11T13:00:43.000Z",
+            "bitRate": 1002.3773432448384,
+            "duration": 532.008,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/cf/jwb_E_201903_10.vtt",
+                "modifiedDatetime": "2019-03-11T13:00:55.000Z",
+                "checksum": "ebe3dd1f323e7eed56e69e4fb15db07f"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201903-10.v",
+        "jwb.201903-10"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/cf/jwb_E_201903_10.vtt",
+    "Name": "pub-jwb_E_201903_10_VIDEO",
+    "Title": "Robert Luccioni: Have Humility and Peace (Phil. 2:3)",
+    "UndatedReferenceTitle": "Robert Luccioni: Have Humility and Peace (Phil. 2:3)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

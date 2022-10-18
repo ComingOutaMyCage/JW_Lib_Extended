@@ -1,0 +1,102 @@
+{
+    "guid": "61eeef9657c50ea1eb15e4ca",
+    "languageAgnosticNaturalKey": "pub-jwb-087_10_VIDEO",
+    "naturalKey": "pub-jwb-087_E_10_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2022-03-18T14:03:56.342Z",
+    "duration": 664.512,
+    "durationFormattedHHMM": "11:04",
+    "durationFormattedMinSec": "11m 4s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/1f/jwb-087_E_10_r240P.mp4",
+            "checksum": "46828b5c7a7175051e3903c7ebdfc4d5",
+            "filesize": 12138203,
+            "modifiedDatetime": "2022-03-18T13:44:01.000Z",
+            "bitRate": 142.70579152445706,
+            "duration": 664.512,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.762,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/cf/jwb-087_E_10.vtt",
+                "modifiedDatetime": "2022-03-18T13:43:48.000Z",
+                "checksum": "2b5b0d1b0ccad4a49d4e148a6eb36f57"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/e0/jwb-087_E_10_r360P.mp4",
+            "checksum": "3134825625d20c3dabebb0c04d6d4725",
+            "filesize": 22279994,
+            "modifiedDatetime": "2022-03-18T13:43:58.000Z",
+            "bitRate": 261.9552505064156,
+            "duration": 664.474,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/cf/jwb-087_E_10.vtt",
+                "modifiedDatetime": "2022-03-18T13:43:48.000Z",
+                "checksum": "2b5b0d1b0ccad4a49d4e148a6eb36f57"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/a9/jwb-087_E_10_r480P.mp4",
+            "checksum": "044ab75be29f5ac9c0bf7c5eefb7ec87",
+            "filesize": 37821117,
+            "modifiedDatetime": "2022-03-18T13:43:54.000Z",
+            "bitRate": 444.6787632962313,
+            "duration": 664.474,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/cf/jwb-087_E_10.vtt",
+                "modifiedDatetime": "2022-03-18T13:43:48.000Z",
+                "checksum": "2b5b0d1b0ccad4a49d4e148a6eb36f57"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/6f/jwb-087_E_10_r720P.mp4",
+            "checksum": "dda46e7cdb1dc9c2b4a81f2fb9414617",
+            "filesize": 63948047,
+            "modifiedDatetime": "2022-03-18T13:43:50.000Z",
+            "bitRate": 751.8640566636166,
+            "duration": 664.474,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/cf/jwb-087_E_10.vtt",
+                "modifiedDatetime": "2022-03-18T13:43:48.000Z",
+                "checksum": "2b5b0d1b0ccad4a49d4e148a6eb36f57"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-087-10.v",
+        "jwb-087-10"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/cf/jwb-087_E_10.vtt",
+    "Name": "pub-jwb-087_E_10_VIDEO",
+    "Title": "Harold Corkern: “Buy Truth and Never Sell It” (Prov. 23:23)",
+    "UndatedReferenceTitle": "Harold Corkern: “Buy Truth and Never Sell It” (Prov. 23:23)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "564f981e79892656f9a40b59",
+    "languageAgnosticNaturalKey": "pub-pkon_5_VIDEO",
+    "naturalKey": "pub-pkon_E_5_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBJFLessons",
+    "description": "",
+    "firstPublished": "2015-12-07T16:45:36.670Z",
+    "duration": 74.667,
+    "durationFormattedHHMM": "1:14",
+    "durationFormattedMinSec": "1m 14s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/9e/pkon_E_005_r240P.mp4",
+            "checksum": "0164a357eee55ce64fe944961e5926e4",
+            "filesize": 2453770,
+            "modifiedDatetime": "2021-09-16T13:20:03.000Z",
+            "bitRate": 256.74097158048403,
+            "duration": 74.667,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.631,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/e9/pkon_E_005.vtt",
+                "modifiedDatetime": "2021-09-16T13:19:57.000Z",
+                "checksum": "beac7e74b3d5c4ea9bf419624f456f34"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/42/pkon_E_005_r360P.mp4",
+            "checksum": "30cd2246f9d2799062e6643ef6e14eee",
+            "filesize": 3937588,
+            "modifiedDatetime": "2021-09-16T13:20:05.000Z",
+            "bitRate": 412.22102551389594,
+            "duration": 74.626,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/e9/pkon_E_005.vtt",
+                "modifiedDatetime": "2021-09-16T13:19:57.000Z",
+                "checksum": "beac7e74b3d5c4ea9bf419624f456f34"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/99/pkon_E_005_r480P.mp4",
+            "checksum": "1a3431d78a29ced81e8a7fee9215c00f",
+            "filesize": 6867798,
+            "modifiedDatetime": "2021-09-16T13:20:08.000Z",
+            "bitRate": 718.9809433039422,
+            "duration": 74.626,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/e9/pkon_E_005.vtt",
+                "modifiedDatetime": "2021-09-16T13:19:57.000Z",
+                "checksum": "beac7e74b3d5c4ea9bf419624f456f34"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/f9/pkon_E_005_r720P.mp4",
+            "checksum": "ce55b3e10a1c3a7e59b6ac2048b7d7b8",
+            "filesize": 11569647,
+            "modifiedDatetime": "2021-09-16T13:20:09.000Z",
+            "bitRate": 1211.2114703655561,
+            "duration": 74.626,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/e9/pkon_E_005.vtt",
+                "modifiedDatetime": "2021-09-16T13:19:57.000Z",
+                "checksum": "beac7e74b3d5c4ea9bf419624f456f34"
+            }
+        }
+    ],
+    "printReferences": [
+        "pkon-5.v",
+        "pkon-5"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/e9/pkon_E_005.vtt",
+    "Name": "pub-pkon_E_5_VIDEO",
+    "Title": "Be Appreciative",
+    "UndatedReferenceTitle": "Be Appreciative",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2015,
+    "Symbol": "SeriesBJFLessons"
+}

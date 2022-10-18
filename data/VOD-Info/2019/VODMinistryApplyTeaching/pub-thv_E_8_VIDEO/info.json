@@ -1,0 +1,102 @@
+{
+    "guid": "5d12166948fd57354cf34835",
+    "languageAgnosticNaturalKey": "pub-thv_8_VIDEO",
+    "naturalKey": "pub-thv_E_8_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODMinistryApplyTeaching",
+    "description": "",
+    "firstPublished": "2019-07-15T18:52:34.732Z",
+    "duration": 364.267,
+    "durationFormattedHHMM": "6:04",
+    "durationFormattedMinSec": "6m 4s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/1a/thv_E_08_r240P.mp4",
+            "checksum": "0dc111ac947073d7283fc8e8c27d8d22",
+            "filesize": 5596960,
+            "modifiedDatetime": "2020-11-28T20:24:01.000Z",
+            "bitRate": 120.03900984717254,
+            "duration": 364.267,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.881,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/55/thv_E_08.vtt",
+                "modifiedDatetime": "2019-07-15T12:54:20.000Z",
+                "checksum": "66370548660ee44c673b9d429134313a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/b4/thv_E_08_r360P.mp4",
+            "checksum": "3313eb0f27be8955284fa3ba436befe6",
+            "filesize": 11879396,
+            "modifiedDatetime": "2019-07-15T12:54:05.000Z",
+            "bitRate": 254.79843303865582,
+            "duration": 364.24,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/55/thv_E_08.vtt",
+                "modifiedDatetime": "2019-07-15T12:54:20.000Z",
+                "checksum": "66370548660ee44c673b9d429134313a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/6c/thv_E_08_r480P.mp4",
+            "checksum": "fb6dd3bb3feb4fa5b6ce61131dc71487",
+            "filesize": 22350629,
+            "modifiedDatetime": "2019-07-15T12:54:09.000Z",
+            "bitRate": 479.393501709038,
+            "duration": 364.24,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/55/thv_E_08.vtt",
+                "modifiedDatetime": "2019-07-15T12:54:20.000Z",
+                "checksum": "66370548660ee44c673b9d429134313a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/70/thv_E_08_r720P.mp4",
+            "checksum": "67dae88636fe27530103f26c8c9837c8",
+            "filesize": 37835151,
+            "modifiedDatetime": "2019-07-15T12:54:14.000Z",
+            "bitRate": 811.5174532931584,
+            "duration": 364.24,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/55/thv_E_08.vtt",
+                "modifiedDatetime": "2019-07-15T12:54:20.000Z",
+                "checksum": "66370548660ee44c673b9d429134313a"
+            }
+        }
+    ],
+    "printReferences": [
+        "thv-8.v",
+        "thv-8"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/55/thv_E_08.vtt",
+    "Name": "pub-thv_E_8_VIDEO",
+    "Title": "Study 8—Illustrations That Teach",
+    "UndatedReferenceTitle": "Study 8—Illustrations That Teach",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODMinistryApplyTeaching"
+}

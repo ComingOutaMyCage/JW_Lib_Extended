@@ -1,0 +1,102 @@
+{
+    "guid": "61410d89a074a87de667f362",
+    "languageAgnosticNaturalKey": "pub-mwbv_202203_2_VIDEO",
+    "naturalKey": "pub-mwbv_E_202203_2_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODSampleConversations",
+    "description": "",
+    "firstPublished": "2022-02-14T15:53:04.709Z",
+    "duration": 88.747,
+    "durationFormattedHHMM": "1:28",
+    "durationFormattedMinSec": "1m 28s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/c6/mwbv_E_202203_02_r240P.mp4",
+            "checksum": "6db05db30d8579be44f1559c071a81ed",
+            "filesize": 876307,
+            "modifiedDatetime": "2022-02-14T15:40:37.000Z",
+            "bitRate": 77.14230833154923,
+            "duration": 88.747,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.599,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/1a/mwbv_E_202203_02.vtt",
+                "modifiedDatetime": "2022-02-14T15:40:25.000Z",
+                "checksum": "2a887e68296ca04fc431bd80ea376c64"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/14/mwbv_E_202203_02_r360P.mp4",
+            "checksum": "49549facb8a49f851be59d994ede6955",
+            "filesize": 1829248,
+            "modifiedDatetime": "2022-02-14T15:40:33.000Z",
+            "bitRate": 161.08888012173816,
+            "duration": 88.715,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/1a/mwbv_E_202203_02.vtt",
+                "modifiedDatetime": "2022-02-14T15:40:25.000Z",
+                "checksum": "2a887e68296ca04fc431bd80ea376c64"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/46/mwbv_E_202203_02_r480P.mp4",
+            "checksum": "fa13ab243bc46981084bc8a2dc7df32d",
+            "filesize": 2685384,
+            "modifiedDatetime": "2022-02-14T15:40:32.000Z",
+            "bitRate": 236.48269740179225,
+            "duration": 88.715,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/1a/mwbv_E_202203_02.vtt",
+                "modifiedDatetime": "2022-02-14T15:40:25.000Z",
+                "checksum": "2a887e68296ca04fc431bd80ea376c64"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/6d/mwbv_E_202203_02_r720P.mp4",
+            "checksum": "65fe7fdfc8921869db82bf973b3d2961",
+            "filesize": 3463658,
+            "modifiedDatetime": "2022-02-14T15:40:29.000Z",
+            "bitRate": 305.0197613143211,
+            "duration": 88.715,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/1a/mwbv_E_202203_02.vtt",
+                "modifiedDatetime": "2022-02-14T15:40:25.000Z",
+                "checksum": "2a887e68296ca04fc431bd80ea376c64"
+            }
+        }
+    ],
+    "printReferences": [
+        "mwbv.202203-2.v",
+        "mwbv.202203-2"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/1a/mwbv_E_202203_02.vtt",
+    "Name": "pub-mwbv_E_202203_2_VIDEO",
+    "Title": "Return Visit: Jesus—Mt 20:28",
+    "UndatedReferenceTitle": "Return Visit: Jesus—Mt 20:28",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODSampleConversations"
+}

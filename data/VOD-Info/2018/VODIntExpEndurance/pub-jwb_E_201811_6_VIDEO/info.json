@@ -1,0 +1,102 @@
+{
+    "guid": "5bbe1071a51af8eef456ba2c",
+    "languageAgnosticNaturalKey": "pub-jwb_201811_6_VIDEO",
+    "naturalKey": "pub-jwb_E_201811_6_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpEndurance",
+    "description": "",
+    "firstPublished": "2018-11-19T16:25:36.847Z",
+    "duration": 425.174,
+    "durationFormattedHHMM": "7:05",
+    "durationFormattedMinSec": "7m 5s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/bd/jwb_E_201811_06_r240P.mp4",
+            "checksum": "bcb8acf8513a96bf0f9baf0fc3346b98",
+            "filesize": 9526445,
+            "modifiedDatetime": "2020-11-14T03:58:32.000Z",
+            "bitRate": 175.04680804211924,
+            "duration": 425.174,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.645,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f7/jwb_E_201811_06.vtt",
+                "modifiedDatetime": "2018-12-20T14:10:18.000Z",
+                "checksum": "cee1d431c716a7c9d70904ceaef840bc"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/47/jwb_E_201811_06_r360P.mp4",
+            "checksum": "5fb949a1209da99109d502904afa1814",
+            "filesize": 18522462,
+            "modifiedDatetime": "2018-12-20T14:09:05.000Z",
+            "bitRate": 340.37911429102354,
+            "duration": 425.134,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f7/jwb_E_201811_06.vtt",
+                "modifiedDatetime": "2018-12-20T14:10:18.000Z",
+                "checksum": "cee1d431c716a7c9d70904ceaef840bc"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/00/jwb_E_201811_06_r480P.mp4",
+            "checksum": "587f6b62e6b2135fb22953c2bb877541",
+            "filesize": 33892016,
+            "modifiedDatetime": "2018-12-20T14:10:15.000Z",
+            "bitRate": 622.818628949931,
+            "duration": 425.134,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f7/jwb_E_201811_06.vtt",
+                "modifiedDatetime": "2018-12-20T14:10:18.000Z",
+                "checksum": "cee1d431c716a7c9d70904ceaef840bc"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/a0/jwb_E_201811_06_r720P.mp4",
+            "checksum": "9ca5b91fde5264402e5d78427ea89b60",
+            "filesize": 57403229,
+            "modifiedDatetime": "2018-12-20T14:10:20.000Z",
+            "bitRate": 1054.8738199308923,
+            "duration": 425.134,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f7/jwb_E_201811_06.vtt",
+                "modifiedDatetime": "2018-12-20T14:10:18.000Z",
+                "checksum": "cee1d431c716a7c9d70904ceaef840bc"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201811-6.v",
+        "jwb.201811-6"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/f7/jwb_E_201811_06.vtt",
+    "Name": "pub-jwb_E_201811_6_VIDEO",
+    "Title": "We Endured With Jehovah’s Help",
+    "UndatedReferenceTitle": "We Endured With Jehovah’s Help",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "VODIntExpEndurance"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "5e25f1ccaff3a23148881642",
+    "languageAgnosticNaturalKey": "pub-jwb_202002_3_VIDEO",
+    "naturalKey": "pub-jwb_E_202002_3_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODBiblePrinciples",
+    "description": "",
+    "firstPublished": "2020-02-17T13:34:56.725Z",
+    "duration": 285.824,
+    "durationFormattedHHMM": "4:45",
+    "durationFormattedMinSec": "4m 45s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/0c/jwb_E_202002_03_r240P.mp4",
+            "checksum": "2190835a8af234d123d57d0f75ff2ff0",
+            "filesize": 7262350,
+            "modifiedDatetime": "2020-10-18T02:58:45.000Z",
+            "bitRate": 198.5036574080553,
+            "duration": 285.824,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.155,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/64/jwb_E_202002_03.vtt",
+                "modifiedDatetime": "2020-02-17T13:20:59.000Z",
+                "checksum": "60ef2bfef68da6fd4e323e22d9ab3571"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/8f/jwb_E_202002_03_r360P.mp4",
+            "checksum": "5036f5b9f03abfa1265c0ab00fbc53d8",
+            "filesize": 13291871,
+            "modifiedDatetime": "2020-02-17T13:20:49.000Z",
+            "bitRate": 363.3469521422698,
+            "duration": 285.795,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/64/jwb_E_202002_03.vtt",
+                "modifiedDatetime": "2020-02-17T13:20:59.000Z",
+                "checksum": "60ef2bfef68da6fd4e323e22d9ab3571"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/a0/jwb_E_202002_03_r480P.mp4",
+            "checksum": "a0042ed9da5650e5c1c05422d0db02e0",
+            "filesize": 23976231,
+            "modifiedDatetime": "2020-02-17T13:20:52.000Z",
+            "bitRate": 655.4149116936965,
+            "duration": 285.795,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/64/jwb_E_202002_03.vtt",
+                "modifiedDatetime": "2020-02-17T13:20:59.000Z",
+                "checksum": "60ef2bfef68da6fd4e323e22d9ab3571"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/23/jwb_E_202002_03_r720P.mp4",
+            "checksum": "c106c9cb77573872c9723c0648940604",
+            "filesize": 38295158,
+            "modifiedDatetime": "2020-02-17T13:20:55.000Z",
+            "bitRate": 1046.8374949701708,
+            "duration": 285.795,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/64/jwb_E_202002_03.vtt",
+                "modifiedDatetime": "2020-02-17T13:20:59.000Z",
+                "checksum": "60ef2bfef68da6fd4e323e22d9ab3571"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202002-3.v",
+        "jwb.202002-3"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/64/jwb_E_202002_03.vtt",
+    "Name": "pub-jwb_E_202002_3_VIDEO",
+    "Title": "Honor Your Elderly Parents",
+    "UndatedReferenceTitle": "Honor Your Elderly Parents",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODBiblePrinciples"
+}

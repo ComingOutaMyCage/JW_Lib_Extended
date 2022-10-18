@@ -1,0 +1,102 @@
+{
+    "guid": "5f20140d12b86d2c3bfc6350",
+    "languageAgnosticNaturalKey": "pub-jwb_202011_6_VIDEO",
+    "naturalKey": "pub-jwb_E_202011_6_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODActivitiesConstruction",
+    "description": "",
+    "firstPublished": "2020-11-16T22:08:01.239Z",
+    "duration": 400.896,
+    "durationFormattedHHMM": "6:40",
+    "durationFormattedMinSec": "6m 40s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/fc/jwb_E_202011_06_r240P.mp4",
+            "checksum": "a0a2d8e70f04bafc3fc14c5f19e3742f",
+            "filesize": 17591559,
+            "modifiedDatetime": "2020-11-16T21:46:48.000Z",
+            "bitRate": 342.8172261322138,
+            "duration": 400.896,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.669,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/a4/jwb_E_202011_06.vtt",
+                "modifiedDatetime": "2020-11-16T21:46:59.000Z",
+                "checksum": "58404b4534b091a7463f73b525411d61"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/7c/jwb_E_202011_06_r360P.mp4",
+            "checksum": "0eb19ba5fa9e081076a97dded0066b49",
+            "filesize": 32735533,
+            "modifiedDatetime": "2020-11-16T21:46:50.000Z",
+            "bitRate": 637.9941913947513,
+            "duration": 400.86,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/a4/jwb_E_202011_06.vtt",
+                "modifiedDatetime": "2020-11-16T21:46:59.000Z",
+                "checksum": "58404b4534b091a7463f73b525411d61"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/31/jwb_E_202011_06_r480P.mp4",
+            "checksum": "05381ff396af1d6fa06a8b19dc35b869",
+            "filesize": 63842558,
+            "modifiedDatetime": "2020-11-16T21:46:52.000Z",
+            "bitRate": 1244.249823816295,
+            "duration": 400.86,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/a4/jwb_E_202011_06.vtt",
+                "modifiedDatetime": "2020-11-16T21:46:59.000Z",
+                "checksum": "58404b4534b091a7463f73b525411d61"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/59/jwb_E_202011_06_r720P.mp4",
+            "checksum": "d1e376a8716cadd84f88faced0bfe4ad",
+            "filesize": 112364263,
+            "modifiedDatetime": "2020-11-16T21:46:56.000Z",
+            "bitRate": 2189.906213360026,
+            "duration": 400.86,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/a4/jwb_E_202011_06.vtt",
+                "modifiedDatetime": "2020-11-16T21:46:59.000Z",
+                "checksum": "58404b4534b091a7463f73b525411d61"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202011-6.v",
+        "jwb.202011-6"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/a4/jwb_E_202011_06.vtt",
+    "Name": "pub-jwb_E_202011_6_VIDEO",
+    "Title": "Britain Branch Relocation—Final Project Update",
+    "UndatedReferenceTitle": "Britain Branch Relocation—Final Project Update",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODActivitiesConstruction"
+}

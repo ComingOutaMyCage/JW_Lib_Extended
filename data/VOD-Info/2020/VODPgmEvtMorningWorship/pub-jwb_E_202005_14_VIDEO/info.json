@@ -1,0 +1,102 @@
+{
+    "guid": "5ec5693533192cea84f4cc99",
+    "languageAgnosticNaturalKey": "pub-jwb_202005_14_VIDEO",
+    "naturalKey": "pub-jwb_E_202005_14_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2020-05-21T19:20:51.989Z",
+    "duration": 635.072,
+    "durationFormattedHHMM": "10:35",
+    "durationFormattedMinSec": "10m 35s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/18/jwb_E_202005_14_r240P.mp4",
+            "checksum": "51f8c1f6144083940db1a229f719fc23",
+            "filesize": 8218307,
+            "modifiedDatetime": "2020-10-18T03:03:47.000Z",
+            "bitRate": 101.09959727007332,
+            "duration": 635.072,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.644,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/40/jwb_E_202005_14.vtt",
+                "modifiedDatetime": "2020-07-14T18:40:48.000Z",
+                "checksum": "a8171d9f9de177baa995d08e5e000c36"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/a1/jwb_E_202005_14_r360P.mp4",
+            "checksum": "b28e701eda5b7c510d2f77bb903767c6",
+            "filesize": 18090075,
+            "modifiedDatetime": "2020-07-14T18:40:59.000Z",
+            "bitRate": 222.5494783629166,
+            "duration": 635.044,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/40/jwb_E_202005_14.vtt",
+                "modifiedDatetime": "2020-07-14T18:40:48.000Z",
+                "checksum": "a8171d9f9de177baa995d08e5e000c36"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/30/jwb_E_202005_14_r480P.mp4",
+            "checksum": "c91bfb5a4b313357c29b07747120f39c",
+            "filesize": 31856154,
+            "modifiedDatetime": "2020-07-14T18:41:05.000Z",
+            "bitRate": 391.9038729993512,
+            "duration": 635.044,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/40/jwb_E_202005_14.vtt",
+                "modifiedDatetime": "2020-07-14T18:40:48.000Z",
+                "checksum": "a8171d9f9de177baa995d08e5e000c36"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/ec/jwb_E_202005_14_r720P.mp4",
+            "checksum": "fccb09a5ba7f4f2ab07dd919902b66d2",
+            "filesize": 57219047,
+            "modifiedDatetime": "2020-07-14T18:41:12.000Z",
+            "bitRate": 703.9257196154912,
+            "duration": 635.044,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/40/jwb_E_202005_14.vtt",
+                "modifiedDatetime": "2020-07-14T18:40:48.000Z",
+                "checksum": "a8171d9f9de177baa995d08e5e000c36"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202005-14.v",
+        "jwb.202005-14"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/40/jwb_E_202005_14.vtt",
+    "Name": "pub-jwb_E_202005_14_VIDEO",
+    "Title": "Mark Sanderson: Seek the Advantage of the Other Person (1 Cor. 10:23)",
+    "UndatedReferenceTitle": "Mark Sanderson: Seek the Advantage of the Other Person (1 Cor. 10:23)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

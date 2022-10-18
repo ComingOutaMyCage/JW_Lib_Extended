@@ -1,0 +1,102 @@
+{
+    "guid": "60edb0b0b765b4a6fb56a362",
+    "languageAgnosticNaturalKey": "pub-jwb-084_4_VIDEO",
+    "naturalKey": "pub-jwb-084_E_4_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpEndurance",
+    "description": "",
+    "firstPublished": "2021-11-15T13:17:26.153Z",
+    "duration": 297.048,
+    "durationFormattedHHMM": "4:57",
+    "durationFormattedMinSec": "4m 57s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/65/jwb-084_E_04_r240P.mp4",
+            "checksum": "60c8b010bc3deeec436ea47c94fc56af",
+            "filesize": 6065181,
+            "modifiedDatetime": "2021-11-15T05:32:22.000Z",
+            "bitRate": 159.49559242547662,
+            "duration": 297.088,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/55/jwb-084_E_04.vtt",
+                "modifiedDatetime": "2021-11-15T05:32:07.000Z",
+                "checksum": "b7362872d6ead84b8eb4aea9afaea32b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/c8/jwb-084_E_04_r360P.mp4",
+            "checksum": "7559e4c8b0a8e1e01d7756f3e4e8e403",
+            "filesize": 11624268,
+            "modifiedDatetime": "2021-11-15T05:32:20.000Z",
+            "bitRate": 305.7236330492042,
+            "duration": 297.048,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/55/jwb-084_E_04.vtt",
+                "modifiedDatetime": "2021-11-15T05:32:07.000Z",
+                "checksum": "b7362872d6ead84b8eb4aea9afaea32b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/ac/jwb-084_E_04_r480P.mp4",
+            "checksum": "d666f75b738ff1a5fc28b3bc968c9604",
+            "filesize": 20455871,
+            "modifiedDatetime": "2021-11-15T05:32:15.000Z",
+            "bitRate": 537.9988829667259,
+            "duration": 297.048,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/55/jwb-084_E_04.vtt",
+                "modifiedDatetime": "2021-11-15T05:32:07.000Z",
+                "checksum": "b7362872d6ead84b8eb4aea9afaea32b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/6e/jwb-084_E_04_r720P.mp4",
+            "checksum": "85176dfe7692a45ff71a94678a8ebc3d",
+            "filesize": 32105804,
+            "modifiedDatetime": "2021-11-15T05:32:08.000Z",
+            "bitRate": 844.3975174045945,
+            "duration": 297.048,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/55/jwb-084_E_04.vtt",
+                "modifiedDatetime": "2021-11-15T05:32:07.000Z",
+                "checksum": "b7362872d6ead84b8eb4aea9afaea32b"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-084-4.v",
+        "jwb-084-4"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/55/jwb-084_E_04.vtt",
+    "Name": "pub-jwb-084_E_4_VIDEO",
+    "Title": "John Mills: The Joy of Giving",
+    "UndatedReferenceTitle": "John Mills: The Joy of Giving",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODIntExpEndurance"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "5e2b4f21faacdecc1350fc0a",
+    "languageAgnosticNaturalKey": "pub-jwb_202003_11_VIDEO",
+    "naturalKey": "pub-jwb_E_202003_11_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODActivitiesConstruction",
+    "description": "",
+    "firstPublished": "2020-03-16T21:40:04.700Z",
+    "duration": 307.456,
+    "durationFormattedHHMM": "5:07",
+    "durationFormattedMinSec": "5m 7s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/91/jwb_E_202003_11_r240P.mp4",
+            "checksum": "d4f20d3afcfaea686be16beeb1ae2e50",
+            "filesize": 11115750,
+            "modifiedDatetime": "2020-10-18T03:00:51.000Z",
+            "bitRate": 282.4527635661688,
+            "duration": 307.456,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.622,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/4e/jwb_E_202003_11.vtt",
+                "modifiedDatetime": "2020-03-16T20:13:34.000Z",
+                "checksum": "7346f78e8e3b0e7df474ee48d321f18f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/23/jwb_E_202003_11_r360P.mp4",
+            "checksum": "e21387759cc8728b0fe3237df5529cf9",
+            "filesize": 20754300,
+            "modifiedDatetime": "2020-03-16T20:13:23.000Z",
+            "bitRate": 527.4074069556392,
+            "duration": 307.434,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/4e/jwb_E_202003_11.vtt",
+                "modifiedDatetime": "2020-03-16T20:13:34.000Z",
+                "checksum": "7346f78e8e3b0e7df474ee48d321f18f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/75/jwb_E_202003_11_r480P.mp4",
+            "checksum": "40f3291b4f51d166192dbc02f73ce91d",
+            "filesize": 38857394,
+            "modifiedDatetime": "2020-03-16T20:13:26.000Z",
+            "bitRate": 987.4424774911037,
+            "duration": 307.434,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/4e/jwb_E_202003_11.vtt",
+                "modifiedDatetime": "2020-03-16T20:13:34.000Z",
+                "checksum": "7346f78e8e3b0e7df474ee48d321f18f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/21/jwb_E_202003_11_r720P.mp4",
+            "checksum": "4b659df232384e2f3e581062b9af3d50",
+            "filesize": 66098727,
+            "modifiedDatetime": "2020-03-16T20:13:30.000Z",
+            "bitRate": 1679.6980967866273,
+            "duration": 307.434,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/4e/jwb_E_202003_11.vtt",
+                "modifiedDatetime": "2020-03-16T20:13:34.000Z",
+                "checksum": "7346f78e8e3b0e7df474ee48d321f18f"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202003-11.v",
+        "jwb.202003-11"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/4e/jwb_E_202003_11.vtt",
+    "Name": "pub-jwb_E_202003_11_VIDEO",
+    "Title": "Working With Jehovah's Witnesses",
+    "UndatedReferenceTitle": "Working With Jehovah's Witnesses",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODActivitiesConstruction"
+}

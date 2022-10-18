@@ -1,0 +1,102 @@
+{
+    "guid": "5d3b3a8448fd57354cf38a01",
+    "languageAgnosticNaturalKey": "pub-jwb_201910_9_VIDEO",
+    "naturalKey": "pub-jwb_E_201910_9_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpBlessings",
+    "description": "",
+    "firstPublished": "2019-10-21T17:20:11.595Z",
+    "duration": 293.995,
+    "durationFormattedHHMM": "4:53",
+    "durationFormattedMinSec": "4m 53s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/07/jwb_E_201910_09_r240P.mp4",
+            "checksum": "248991df696070d7212f6b00ad519eba",
+            "filesize": 8579382,
+            "modifiedDatetime": "2020-11-03T22:16:50.000Z",
+            "bitRate": 227.98490408000137,
+            "duration": 293.995,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.904,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/e4/jwb_E_201910_09.vtt",
+                "modifiedDatetime": "2019-10-21T14:27:55.000Z",
+                "checksum": "567003a3f249ff4c9dac5eac8e5ad03c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/d7/jwb_E_201910_09_r360P.mp4",
+            "checksum": "8b07ea96c4ccc902b14ea697f03cbf47",
+            "filesize": 16836512,
+            "modifiedDatetime": "2019-10-21T14:27:33.000Z",
+            "bitRate": 447.45664405603446,
+            "duration": 293.962,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/e4/jwb_E_201910_09.vtt",
+                "modifiedDatetime": "2019-10-21T14:27:55.000Z",
+                "checksum": "567003a3f249ff4c9dac5eac8e5ad03c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/3f/jwb_E_201910_09_r480P.mp4",
+            "checksum": "a7d254a930ff923b0d52b9fe4c1be278",
+            "filesize": 31787217,
+            "modifiedDatetime": "2019-10-21T14:27:38.000Z",
+            "bitRate": 844.7950170855416,
+            "duration": 293.962,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/e4/jwb_E_201910_09.vtt",
+                "modifiedDatetime": "2019-10-21T14:27:55.000Z",
+                "checksum": "567003a3f249ff4c9dac5eac8e5ad03c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/ab/jwb_E_201910_09_r720P.mp4",
+            "checksum": "30e365fe38630d9bae3d8a53940c5d6f",
+            "filesize": 55285683,
+            "modifiedDatetime": "2019-10-21T14:27:45.000Z",
+            "bitRate": 1469.3035101050477,
+            "duration": 293.962,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/e4/jwb_E_201910_09.vtt",
+                "modifiedDatetime": "2019-10-21T14:27:55.000Z",
+                "checksum": "567003a3f249ff4c9dac5eac8e5ad03c"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201910-9.v",
+        "jwb.201910-9"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/e4/jwb_E_201910_09.vtt",
+    "Name": "pub-jwb_E_201910_9_VIDEO",
+    "Title": "John Johansen: From Painter to Pioneer",
+    "UndatedReferenceTitle": "John Johansen: From Painter to Pioneer",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODIntExpBlessings"
+}

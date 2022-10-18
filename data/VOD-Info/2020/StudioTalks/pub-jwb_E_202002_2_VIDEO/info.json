@@ -1,0 +1,102 @@
+{
+    "guid": "5e1f85c2aff3a231487b9936",
+    "languageAgnosticNaturalKey": "pub-jwb_202002_2_VIDEO",
+    "naturalKey": "pub-jwb_E_202002_2_VIDEO",
+    "type": "video",
+    "primaryCategory": "StudioTalks",
+    "description": "",
+    "firstPublished": "2020-02-17T13:34:52.265Z",
+    "duration": 865.771,
+    "durationFormattedHHMM": "14:25",
+    "durationFormattedMinSec": "14m 25s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/f0/jwb_E_202002_02_r240P.mp4",
+            "checksum": "3ff31b03fd50e56662cfa4e1213f0565",
+            "filesize": 16771384,
+            "modifiedDatetime": "2020-10-18T02:58:40.000Z",
+            "bitRate": 151.34075581187173,
+            "duration": 865.771,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.383,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/2f/jwb_E_202002_02.vtt",
+                "modifiedDatetime": "2020-02-17T13:20:44.000Z",
+                "checksum": "15d07c311fb89748b3778c80383c61a3"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/bf/jwb_E_202002_02_r360P.mp4",
+            "checksum": "bbe85846b77268c9b7dd20c15d150acc",
+            "filesize": 32244566,
+            "modifiedDatetime": "2020-02-17T13:20:32.000Z",
+            "bitRate": 290.97694561652963,
+            "duration": 865.741,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/2f/jwb_E_202002_02.vtt",
+                "modifiedDatetime": "2020-02-17T13:20:44.000Z",
+                "checksum": "15d07c311fb89748b3778c80383c61a3"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/21/jwb_E_202002_02_r480P.mp4",
+            "checksum": "f0fbf8094cef90aeb97709421b25a712",
+            "filesize": 56229276,
+            "modifiedDatetime": "2020-02-17T13:20:35.000Z",
+            "bitRate": 507.41644296619893,
+            "duration": 865.741,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/2f/jwb_E_202002_02.vtt",
+                "modifiedDatetime": "2020-02-17T13:20:44.000Z",
+                "checksum": "15d07c311fb89748b3778c80383c61a3"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/25/jwb_E_202002_02_r720P.mp4",
+            "checksum": "0c36775df5f0a8a46ed0092df0ba4534",
+            "filesize": 89295479,
+            "modifiedDatetime": "2020-02-17T13:20:39.000Z",
+            "bitRate": 805.8078913757117,
+            "duration": 865.741,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/2f/jwb_E_202002_02.vtt",
+                "modifiedDatetime": "2020-02-17T13:20:44.000Z",
+                "checksum": "15d07c311fb89748b3778c80383c61a3"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202002-2.v",
+        "jwb.202002-2"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/2f/jwb_E_202002_02.vtt",
+    "Name": "pub-jwb_E_202002_2_VIDEO",
+    "Title": "Gajus Glockentin: “Serve Jehovah With Rejoicing”",
+    "UndatedReferenceTitle": "Gajus Glockentin: “Serve Jehovah With Rejoicing”",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "StudioTalks"
+}

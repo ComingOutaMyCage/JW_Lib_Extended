@@ -1,0 +1,102 @@
+{
+    "guid": "5fd7fc32c0bf482e1bec6ca7",
+    "languageAgnosticNaturalKey": "pub-jwb-080_7_VIDEO",
+    "naturalKey": "pub-jwb-080_E_7_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2021-05-17T15:29:37.024Z",
+    "duration": 580.694,
+    "durationFormattedHHMM": "9:40",
+    "durationFormattedMinSec": "9m 40s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/f2/jwb-080_E_07_r240P.mp4",
+            "checksum": "702efcb049616ed0b1f0f1b4ae26582f",
+            "filesize": 8167916,
+            "modifiedDatetime": "2021-05-17T06:53:04.000Z",
+            "bitRate": 109.88893246701362,
+            "duration": 580.694,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.615,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/4c/jwb-080_E_07.vtt",
+                "modifiedDatetime": "2021-05-17T06:52:50.000Z",
+                "checksum": "d4f08b98e41cacfbbf8ebf29e1111e4a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/45/jwb-080_E_07_r360P.mp4",
+            "checksum": "abbbed8e217b705e8b017ff09fbda2a1",
+            "filesize": 16919391,
+            "modifiedDatetime": "2021-05-17T06:53:02.000Z",
+            "bitRate": 227.64341459329688,
+            "duration": 580.657,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/4c/jwb-080_E_07.vtt",
+                "modifiedDatetime": "2021-05-17T06:52:50.000Z",
+                "checksum": "d4f08b98e41cacfbbf8ebf29e1111e4a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/f7/jwb-080_E_07_r480P.mp4",
+            "checksum": "08a4bd3ed4c5b6d14a981da5adc7d3e9",
+            "filesize": 29105736,
+            "modifiedDatetime": "2021-05-17T06:52:58.000Z",
+            "bitRate": 391.60565101255986,
+            "duration": 580.657,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/4c/jwb-080_E_07.vtt",
+                "modifiedDatetime": "2021-05-17T06:52:50.000Z",
+                "checksum": "d4f08b98e41cacfbbf8ebf29e1111e4a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/36/jwb-080_E_07_r720P.mp4",
+            "checksum": "6c2f83afc794dd0c11933bb8b861caa4",
+            "filesize": 51811580,
+            "modifiedDatetime": "2021-05-17T06:52:51.000Z",
+            "bitRate": 697.1033996834619,
+            "duration": 580.657,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/4c/jwb-080_E_07.vtt",
+                "modifiedDatetime": "2021-05-17T06:52:50.000Z",
+                "checksum": "d4f08b98e41cacfbbf8ebf29e1111e4a"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-080-7.v",
+        "jwb-080-7"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/4c/jwb-080_E_07.vtt",
+    "Name": "pub-jwb-080_E_7_VIDEO",
+    "Title": "David H. Splane: We Serve the God of True Prophecy (Ps. 46:8)",
+    "UndatedReferenceTitle": "David H. Splane: We Serve the God of True Prophecy (Ps. 46:8)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "602d7efbaa8dbd024d559173",
+    "languageAgnosticNaturalKey": "pub-jwb-080_6_VIDEO",
+    "naturalKey": "pub-jwb-080_E_6_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpEndurance",
+    "description": "",
+    "firstPublished": "2021-05-17T15:30:15.273Z",
+    "duration": 170.411,
+    "durationFormattedHHMM": "2:50",
+    "durationFormattedMinSec": "2m 50s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/1f/jwb-080_E_06_r240P.mp4",
+            "checksum": "108ec5e8513125f71ba097d8fbcb4b90",
+            "filesize": 5705719,
+            "modifiedDatetime": "2021-05-17T06:53:19.000Z",
+            "bitRate": 261.57894553461927,
+            "duration": 170.411,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.952,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/5b/jwb-080_E_06.vtt",
+                "modifiedDatetime": "2021-05-17T06:53:08.000Z",
+                "checksum": "b76174153c55107ad2ae17371d97d25c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/8c/jwb-080_E_06_r360P.mp4",
+            "checksum": "002384f77920556018df624ad0039ab0",
+            "filesize": 9842461,
+            "modifiedDatetime": "2021-05-17T06:53:17.000Z",
+            "bitRate": 451.31016881382794,
+            "duration": 170.38,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/5b/jwb-080_E_06.vtt",
+                "modifiedDatetime": "2021-05-17T06:53:08.000Z",
+                "checksum": "b76174153c55107ad2ae17371d97d25c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/35/jwb-080_E_06_r480P.mp4",
+            "checksum": "f3c4debab5be102ae8b51e3ce575cd00",
+            "filesize": 17957181,
+            "modifiedDatetime": "2021-05-17T06:53:15.000Z",
+            "bitRate": 823.3975617003169,
+            "duration": 170.38,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/5b/jwb-080_E_06.vtt",
+                "modifiedDatetime": "2021-05-17T06:53:08.000Z",
+                "checksum": "b76174153c55107ad2ae17371d97d25c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/e3/jwb-080_E_06_r720P.mp4",
+            "checksum": "93cc46aa41880b30daff9df974615ebc",
+            "filesize": 29466284,
+            "modifiedDatetime": "2021-05-17T06:53:10.000Z",
+            "bitRate": 1351.128910376805,
+            "duration": 170.38,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/5b/jwb-080_E_06.vtt",
+                "modifiedDatetime": "2021-05-17T06:53:08.000Z",
+                "checksum": "b76174153c55107ad2ae17371d97d25c"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-080-6.v",
+        "jwb-080-6"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/5b/jwb-080_E_06.vtt",
+    "Name": "pub-jwb-080_E_6_VIDEO",
+    "Title": "Brothers in Russia Endure",
+    "UndatedReferenceTitle": "Brothers in Russia Endure",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODIntExpEndurance"
+}

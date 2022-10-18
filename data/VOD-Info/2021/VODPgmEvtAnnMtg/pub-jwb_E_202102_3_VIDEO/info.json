@@ -1,0 +1,102 @@
+{
+    "guid": "5fb80e4cc0bf482e1bd598fb",
+    "languageAgnosticNaturalKey": "pub-jwb_202102_3_VIDEO",
+    "naturalKey": "pub-jwb_E_202102_3_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtAnnMtg",
+    "description": "",
+    "firstPublished": "2021-02-01T11:07:59.961Z",
+    "duration": 864.512,
+    "durationFormattedHHMM": "14:24",
+    "durationFormattedMinSec": "14m 24s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/33/jwb_E_202102_03_r240P.mp4",
+            "checksum": "9e45d6b918fa838cc6e5436b8eefdd6a",
+            "filesize": 15484142,
+            "modifiedDatetime": "2021-02-01T06:48:35.000Z",
+            "bitRate": 139.9284907265602,
+            "duration": 864.512,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.46,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/bc/jwb_E_202102_03.vtt",
+                "modifiedDatetime": "2021-02-01T06:48:24.000Z",
+                "checksum": "2d2f3a64526e726b1c5cf9bb3292c6c4"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/8f/jwb_E_202102_03_r360P.mp4",
+            "checksum": "dcd9c0d71bc7ac13386f6b90dac9aeea",
+            "filesize": 31114611,
+            "modifiedDatetime": "2021-02-01T06:48:33.000Z",
+            "bitRate": 281.1864780824532,
+            "duration": 864.49,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/bc/jwb_E_202102_03.vtt",
+                "modifiedDatetime": "2021-02-01T06:48:24.000Z",
+                "checksum": "2d2f3a64526e726b1c5cf9bb3292c6c4"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/17/jwb_E_202102_03_r480P.mp4",
+            "checksum": "fca2e01a527908d287d739780396956c",
+            "filesize": 55259870,
+            "modifiedDatetime": "2021-02-01T06:48:28.000Z",
+            "bitRate": 499.39008476095734,
+            "duration": 864.49,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/bc/jwb_E_202102_03.vtt",
+                "modifiedDatetime": "2021-02-01T06:48:24.000Z",
+                "checksum": "2d2f3a64526e726b1c5cf9bb3292c6c4"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/13/jwb_E_202102_03_r720P.mp4",
+            "checksum": "3b578099246fd9351a68d98839bb4f54",
+            "filesize": 93892603,
+            "modifiedDatetime": "2021-02-01T06:48:25.000Z",
+            "bitRate": 848.5187346730443,
+            "duration": 864.49,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/bc/jwb_E_202102_03.vtt",
+                "modifiedDatetime": "2021-02-01T06:48:24.000Z",
+                "checksum": "2d2f3a64526e726b1c5cf9bb3292c6c4"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202102-3.v",
+        "jwb.202102-3"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/bc/jwb_E_202102_03.vtt",
+    "Name": "pub-jwb_E_202102_3_VIDEO",
+    "Title": "Kenneth Cook, Jr.: Will You Keep Standing Among the Righteous?",
+    "UndatedReferenceTitle": "Kenneth Cook, Jr.: Will You Keep Standing Among the Righteous?",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODPgmEvtAnnMtg"
+}

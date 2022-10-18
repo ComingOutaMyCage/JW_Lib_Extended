@@ -1,0 +1,102 @@
+{
+    "guid": "61a67e22d4a4e5a332cdfe9e",
+    "languageAgnosticNaturalKey": "pub-jwb-086_7_VIDEO",
+    "naturalKey": "pub-jwb-086_E_7_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtAnnMtg",
+    "description": "",
+    "firstPublished": "2022-01-04T21:15:28.157Z",
+    "duration": 1054.166,
+    "durationFormattedHHMM": "17:34",
+    "durationFormattedMinSec": "17m 34s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/3c/jwb-086_E_07_r240P.mp4",
+            "checksum": "2869d493803ccd7860dff029ad71414e",
+            "filesize": 16937809,
+            "modifiedDatetime": "2022-01-04T20:09:14.000Z",
+            "bitRate": 125.52731999751462,
+            "duration": 1054.166,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.183,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/80/jwb-086_E_07.vtt",
+                "modifiedDatetime": "2022-01-04T20:09:00.000Z",
+                "checksum": "00dbceda76b4266af9b6e659080058a7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/24/jwb-086_E_07_r360P.mp4",
+            "checksum": "45f6cc60878d3d87b49a3d96b0b4017e",
+            "filesize": 33232443,
+            "modifiedDatetime": "2022-01-04T20:09:10.000Z",
+            "bitRate": 246.29643491552272,
+            "duration": 1054.13,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/80/jwb-086_E_07.vtt",
+                "modifiedDatetime": "2022-01-04T20:09:00.000Z",
+                "checksum": "00dbceda76b4266af9b6e659080058a7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/e2/jwb-086_E_07_r480P.mp4",
+            "checksum": "f054c0185042c8b535f5c08906725972",
+            "filesize": 59290711,
+            "modifiedDatetime": "2022-01-04T20:09:07.000Z",
+            "bitRate": 439.42272745059904,
+            "duration": 1054.13,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/80/jwb-086_E_07.vtt",
+                "modifiedDatetime": "2022-01-04T20:09:00.000Z",
+                "checksum": "00dbceda76b4266af9b6e659080058a7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/06/jwb-086_E_07_r720P.mp4",
+            "checksum": "ecad6a6fce29d029a26c163108195193",
+            "filesize": 98554782,
+            "modifiedDatetime": "2022-01-04T20:09:01.000Z",
+            "bitRate": 730.4215176259095,
+            "duration": 1054.13,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/80/jwb-086_E_07.vtt",
+                "modifiedDatetime": "2022-01-04T20:09:00.000Z",
+                "checksum": "00dbceda76b4266af9b6e659080058a7"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-086-7.v",
+        "jwb-086-7"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/80/jwb-086_E_07.vtt",
+    "Name": "pub-jwb-086_E_7_VIDEO",
+    "Title": "Kenneth Cook, Jr.: Are You Heeding the Warnings?",
+    "UndatedReferenceTitle": "Kenneth Cook, Jr.: Are You Heeding the Warnings?",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODPgmEvtAnnMtg"
+}

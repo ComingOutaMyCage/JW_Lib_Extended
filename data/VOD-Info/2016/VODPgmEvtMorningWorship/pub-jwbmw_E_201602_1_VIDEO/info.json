@@ -1,0 +1,102 @@
+{
+    "guid": "5686e59579892656f9a42ee5",
+    "languageAgnosticNaturalKey": "pub-jwbmw_201602_1_VIDEO",
+    "naturalKey": "pub-jwbmw_E_201602_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2016-02-15T18:52:56.282Z",
+    "duration": 484.118,
+    "durationFormattedHHMM": "8:04",
+    "durationFormattedMinSec": "8m 4s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/86/jwbmw_E_201602_01_r240P.mp4",
+            "checksum": "804f6816671e8e46432d6ea2e14e4642",
+            "filesize": 8957398,
+            "modifiedDatetime": "2021-01-18T17:12:00.000Z",
+            "bitRate": 144.55085717738237,
+            "duration": 484.118,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.412,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/fe/jwbmw_E_201602_01.vtt",
+                "modifiedDatetime": "2021-01-18T17:11:50.000Z",
+                "checksum": "106c44ed22e376c63e2a3ebd10ec9e63"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/b4/jwbmw_E_201602_01_r360P.mp4",
+            "checksum": "06f9f77597ab23eda0babb1b20079855",
+            "filesize": 17941854,
+            "modifiedDatetime": "2021-01-18T17:12:04.000Z",
+            "bitRate": 289.55331800914286,
+            "duration": 484.093,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/fe/jwbmw_E_201602_01.vtt",
+                "modifiedDatetime": "2021-01-18T17:11:50.000Z",
+                "checksum": "106c44ed22e376c63e2a3ebd10ec9e63"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/af/jwbmw_E_201602_01_r480P.mp4",
+            "checksum": "43eb3fd2f25dba1a477683bd21843f3f",
+            "filesize": 32576652,
+            "modifiedDatetime": "2021-01-18T17:12:07.000Z",
+            "bitRate": 525.7359510465964,
+            "duration": 484.093,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/fe/jwbmw_E_201602_01.vtt",
+                "modifiedDatetime": "2021-01-18T17:11:50.000Z",
+                "checksum": "106c44ed22e376c63e2a3ebd10ec9e63"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/e6/jwbmw_E_201602_01_r720P.mp4",
+            "checksum": "318be58070c600dd04a0cc1597605e88",
+            "filesize": 61896363,
+            "modifiedDatetime": "2021-01-18T17:12:13.000Z",
+            "bitRate": 998.9099944380522,
+            "duration": 484.093,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/fe/jwbmw_E_201602_01.vtt",
+                "modifiedDatetime": "2021-01-18T17:11:50.000Z",
+                "checksum": "106c44ed22e376c63e2a3ebd10ec9e63"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwbmw.201602-1.v",
+        "jwbmw.201602-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/fe/jwbmw_E_201602_01.vtt",
+    "Name": "pub-jwbmw_E_201602_1_VIDEO",
+    "Title": "Robert Luccioni: Develop the Tongue of the Wise Ones (Prov. 12:18)",
+    "UndatedReferenceTitle": "Robert Luccioni: Develop the Tongue of the Wise Ones (Prov. 12:18)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2016,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "608aaf3fb738cf2eda38de19",
+    "languageAgnosticNaturalKey": "pub-pkon_22_VIDEO",
+    "naturalKey": "pub-pkon_E_22_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBJFSongs",
+    "description": "",
+    "firstPublished": "2021-06-14T17:21:00.172Z",
+    "duration": 151.19,
+    "durationFormattedHHMM": "2:31",
+    "durationFormattedMinSec": "2m 31s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/f8/pkon_E_022_r240P.mp4",
+            "checksum": "b434885ebac3d6511e40622372594af6",
+            "filesize": 3353976,
+            "modifiedDatetime": "2021-06-14T04:55:10.000Z",
+            "bitRate": 173.3113135789404,
+            "duration": 151.19,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.483,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/78/pkon_E_022.vtt",
+                "modifiedDatetime": "2021-06-14T04:54:57.000Z",
+                "checksum": "331325e22d29824eb12fa03c4ceb747e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/5b/pkon_E_022_r360P.mp4",
+            "checksum": "3e822c6ddc48637f5ade0fb49539ed3c",
+            "filesize": 5746634,
+            "modifiedDatetime": "2021-06-14T04:55:08.000Z",
+            "bitRate": 297.02271967952794,
+            "duration": 151.152,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/78/pkon_E_022.vtt",
+                "modifiedDatetime": "2021-06-14T04:54:57.000Z",
+                "checksum": "331325e22d29824eb12fa03c4ceb747e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/02/pkon_E_022_r480P.mp4",
+            "checksum": "35ed7b2edded3f8a2918c783ee209d3d",
+            "filesize": 9827685,
+            "modifiedDatetime": "2021-06-14T04:55:06.000Z",
+            "bitRate": 507.9574803012862,
+            "duration": 151.152,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/78/pkon_E_022.vtt",
+                "modifiedDatetime": "2021-06-14T04:54:57.000Z",
+                "checksum": "331325e22d29824eb12fa03c4ceb747e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/75/pkon_E_022_r720P.mp4",
+            "checksum": "cc14f1db2d03ca9f098189ec37f30744",
+            "filesize": 14872103,
+            "modifiedDatetime": "2021-06-14T04:55:04.000Z",
+            "bitRate": 768.6851956143486,
+            "duration": 151.152,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/78/pkon_E_022.vtt",
+                "modifiedDatetime": "2021-06-14T04:54:57.000Z",
+                "checksum": "331325e22d29824eb12fa03c4ceb747e"
+            }
+        }
+    ],
+    "printReferences": [
+        "pkon-22.v",
+        "pkon-22"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/78/pkon_E_022.vtt",
+    "Name": "pub-pkon_E_22_VIDEO",
+    "Title": "Mary—Humble and Willing",
+    "UndatedReferenceTitle": "Mary—Humble and Willing",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "SeriesBJFSongs"
+}

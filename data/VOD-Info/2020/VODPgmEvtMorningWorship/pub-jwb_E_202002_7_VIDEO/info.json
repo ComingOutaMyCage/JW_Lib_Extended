@@ -1,0 +1,102 @@
+{
+    "guid": "5d6ebd11ad989978fb82220c",
+    "languageAgnosticNaturalKey": "pub-jwb_202002_7_VIDEO",
+    "naturalKey": "pub-jwb_E_202002_7_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2020-02-17T13:35:08.361Z",
+    "duration": 687.104,
+    "durationFormattedHHMM": "11:27",
+    "durationFormattedMinSec": "11m 27s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/27/jwb_E_202002_07_r240P.mp4",
+            "checksum": "58455c09fcc99eb665f809548a2c80f9",
+            "filesize": 10146258,
+            "modifiedDatetime": "2020-10-18T02:59:16.000Z",
+            "bitRate": 115.3648365094658,
+            "duration": 687.104,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f4/jwb_E_202002_07.vtt",
+                "modifiedDatetime": "2020-02-17T13:22:04.000Z",
+                "checksum": "00f860b4fe3fa0efc2d2bea8b7c8faac"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/51/jwb_E_202002_07_r360P.mp4",
+            "checksum": "38543f9c626a8bae8496a78cd83c0127",
+            "filesize": 21262902,
+            "modifiedDatetime": "2020-02-17T13:21:50.000Z",
+            "bitRate": 241.77756897839063,
+            "duration": 687.063,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f4/jwb_E_202002_07.vtt",
+                "modifiedDatetime": "2020-02-17T13:22:04.000Z",
+                "checksum": "00f860b4fe3fa0efc2d2bea8b7c8faac"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/b5/jwb_E_202002_07_r480P.mp4",
+            "checksum": "4d9edfc98fdd4235ac0f7549a5ebd817",
+            "filesize": 37880901,
+            "modifiedDatetime": "2020-02-17T13:21:54.000Z",
+            "bitRate": 430.73857719379447,
+            "duration": 687.063,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f4/jwb_E_202002_07.vtt",
+                "modifiedDatetime": "2020-02-17T13:22:04.000Z",
+                "checksum": "00f860b4fe3fa0efc2d2bea8b7c8faac"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/e9/jwb_E_202002_07_r720P.mp4",
+            "checksum": "27000f91f51a9af86f2345a9a28ca59b",
+            "filesize": 68117316,
+            "modifiedDatetime": "2020-02-17T13:21:58.000Z",
+            "bitRate": 774.5527429799014,
+            "duration": 687.063,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f4/jwb_E_202002_07.vtt",
+                "modifiedDatetime": "2020-02-17T13:22:04.000Z",
+                "checksum": "00f860b4fe3fa0efc2d2bea8b7c8faac"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202002-7.v",
+        "jwb.202002-7"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/f4/jwb_E_202002_07.vtt",
+    "Name": "pub-jwb_E_202002_7_VIDEO",
+    "Title": "M. Stephen Lett: \"Guard Against Every Sort of Greed\" (Jer. 45:5)",
+    "UndatedReferenceTitle": "M. Stephen Lett: \"Guard Against Every Sort of Greed\" (Jer. 45:5)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

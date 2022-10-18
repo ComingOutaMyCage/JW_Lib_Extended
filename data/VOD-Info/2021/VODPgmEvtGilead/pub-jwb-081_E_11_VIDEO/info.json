@@ -1,0 +1,102 @@
+{
+    "guid": "60901468b738cf2eda4b7bed",
+    "languageAgnosticNaturalKey": "pub-jwb-081_11_VIDEO",
+    "naturalKey": "pub-jwb-081_E_11_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtGilead",
+    "description": "",
+    "firstPublished": "2021-06-30T12:40:06.547Z",
+    "duration": 1151.979,
+    "durationFormattedHHMM": "19:11",
+    "durationFormattedMinSec": "19m 11s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/3e/jwb-081_E_11_r240P.mp4",
+            "checksum": "5c0b40f285055f19bf5f5a380f907988",
+            "filesize": 17758071,
+            "modifiedDatetime": "2021-06-30T11:34:16.000Z",
+            "bitRate": 120.43182183659597,
+            "duration": 1151.979,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.904,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/64/jwb-081_E_11.vtt",
+                "modifiedDatetime": "2021-06-30T11:33:44.000Z",
+                "checksum": "b19de90447716ae4e6e05f49edb302cb"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/ba/jwb-081_E_11_r360P.mp4",
+            "checksum": "43d1a1c12a03fb2a9fa99f1c614b39bc",
+            "filesize": 36182781,
+            "modifiedDatetime": "2021-06-30T11:34:11.000Z",
+            "bitRate": 245.39211677173543,
+            "duration": 1151.944,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/64/jwb-081_E_11.vtt",
+                "modifiedDatetime": "2021-06-30T11:33:44.000Z",
+                "checksum": "b19de90447716ae4e6e05f49edb302cb"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/8a/jwb-081_E_11_r480P.mp4",
+            "checksum": "a235b60b7f6ecf4547d7de216d926143",
+            "filesize": 63366345,
+            "modifiedDatetime": "2021-06-30T11:34:09.000Z",
+            "bitRate": 429.75142047920735,
+            "duration": 1151.944,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/64/jwb-081_E_11.vtt",
+                "modifiedDatetime": "2021-06-30T11:33:44.000Z",
+                "checksum": "b19de90447716ae4e6e05f49edb302cb"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/a0/jwb-081_E_11_r720P.mp4",
+            "checksum": "c7a6d247d33aa13a951f939548bc472a",
+            "filesize": 102923910,
+            "modifiedDatetime": "2021-06-30T11:33:46.000Z",
+            "bitRate": 698.0313686038558,
+            "duration": 1151.944,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/64/jwb-081_E_11.vtt",
+                "modifiedDatetime": "2021-06-30T11:33:44.000Z",
+                "checksum": "b19de90447716ae4e6e05f49edb302cb"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-081-11.v",
+        "jwb-081-11"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/64/jwb-081_E_11.vtt",
+    "Name": "pub-jwb-081_E_11_VIDEO",
+    "Title": "Kenneth Cook, Jr.: Look Beyond the Finish Line",
+    "UndatedReferenceTitle": "Kenneth Cook, Jr.: Look Beyond the Finish Line",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODPgmEvtGilead"
+}

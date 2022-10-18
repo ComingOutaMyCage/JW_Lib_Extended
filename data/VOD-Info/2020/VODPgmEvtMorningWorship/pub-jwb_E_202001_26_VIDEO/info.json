@@ -1,0 +1,102 @@
+{
+    "guid": "5e188fa9aff3a2314865cd4a",
+    "languageAgnosticNaturalKey": "pub-jwb_202001_26_VIDEO",
+    "naturalKey": "pub-jwb_E_202001_26_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2020-01-23T14:21:01.477Z",
+    "duration": 646.187,
+    "durationFormattedHHMM": "10:46",
+    "durationFormattedMinSec": "10m 46s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/3e/jwb_E_202001_26_r240P.mp4",
+            "checksum": "a142ecc8257ef576ec0dd5a720d60c01",
+            "filesize": 9201479,
+            "modifiedDatetime": "2020-10-18T02:58:12.000Z",
+            "bitRate": 111.24729325644124,
+            "duration": 646.187,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.183,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/93/jwb_E_202001_26.vtt",
+                "modifiedDatetime": "2020-01-23T13:48:53.000Z",
+                "checksum": "8ea417e6e4167e1d06fede76dfd34a7f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/3a/jwb_E_202001_26_r360P.mp4",
+            "checksum": "e233464d58473c5cfb4d878f59c9f3f7",
+            "filesize": 18775238,
+            "modifiedDatetime": "2020-01-23T13:48:39.000Z",
+            "bitRate": 227.00675050877885,
+            "duration": 646.155,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/93/jwb_E_202001_26.vtt",
+                "modifiedDatetime": "2020-01-23T13:48:53.000Z",
+                "checksum": "8ea417e6e4167e1d06fede76dfd34a7f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/ea/jwb_E_202001_26_r480P.mp4",
+            "checksum": "96d147a7be5b09bfb21e77c8fdacee83",
+            "filesize": 32745630,
+            "modifiedDatetime": "2020-01-23T13:48:43.000Z",
+            "bitRate": 395.91929858160967,
+            "duration": 646.155,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/93/jwb_E_202001_26.vtt",
+                "modifiedDatetime": "2020-01-23T13:48:53.000Z",
+                "checksum": "8ea417e6e4167e1d06fede76dfd34a7f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/95/jwb_E_202001_26_r720P.mp4",
+            "checksum": "4e169ef931fda84d682a17060e862f48",
+            "filesize": 59651927,
+            "modifiedDatetime": "2020-01-23T13:48:47.000Z",
+            "bitRate": 721.2366687366035,
+            "duration": 646.155,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/93/jwb_E_202001_26.vtt",
+                "modifiedDatetime": "2020-01-23T13:48:53.000Z",
+                "checksum": "8ea417e6e4167e1d06fede76dfd34a7f"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202001-26.v",
+        "jwb.202001-26"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/93/jwb_E_202001_26.vtt",
+    "Name": "pub-jwb_E_202001_26_VIDEO",
+    "Title": "David Schafer: Imitate Jehovah’s Generosity (1 Chron. 29:14)",
+    "UndatedReferenceTitle": "David Schafer: Imitate Jehovah’s Generosity (1 Chron. 29:14)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "592494d9a25a39c2e32b6460",
+    "languageAgnosticNaturalKey": "pub-imv_3_VIDEO",
+    "naturalKey": "pub-imv_E_3_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODMinistryTools",
+    "description": "",
+    "firstPublished": "2017-06-22T15:50:45.187Z",
+    "duration": 66.851,
+    "durationFormattedHHMM": "1:06",
+    "durationFormattedMinSec": "1m 6s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/aa/imv_E_03_r240P.mp4",
+            "checksum": "f9ab19c9fc62a2cc094451e29e221191",
+            "filesize": 3376757,
+            "modifiedDatetime": "2020-12-11T18:26:17.000Z",
+            "bitRate": 394.62257950516823,
+            "duration": 66.851,
+            "frameHeight": 180,
+            "frameWidth": 320,
+            "label": "240p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/09/imv_E_03_r240P.vtt",
+                "modifiedDatetime": "2019-03-02T21:25:57.000Z",
+                "checksum": "ce28ef738b3dd1f30c6400b383aab5f2"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/b7/imv_E_03_r360P.mp4",
+            "checksum": "af7070a992517fed4e88bbdeceed1a5f",
+            "filesize": 7386802,
+            "modifiedDatetime": "2019-03-02T21:26:01.000Z",
+            "bitRate": 863.6975399102021,
+            "duration": 66.81666666666666,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/8f/imv_E_03_r360P.vtt",
+                "modifiedDatetime": "2019-03-02T21:26:01.000Z",
+                "checksum": "ce28ef738b3dd1f30c6400b383aab5f2"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/3d/imv_E_03_r480P.mp4",
+            "checksum": "b1668e67029f8c75e4eb175fc848777f",
+            "filesize": 9939562,
+            "modifiedDatetime": "2019-03-02T21:26:05.000Z",
+            "bitRate": 1162.1775224494886,
+            "duration": 66.81666666666666,
+            "frameHeight": 480,
+            "frameWidth": 854,
+            "label": "480p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/a9/imv_E_03_r480P.vtt",
+                "modifiedDatetime": "2019-03-02T21:26:05.000Z",
+                "checksum": "ce28ef738b3dd1f30c6400b383aab5f2"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/1b/imv_E_03_r720P.mp4",
+            "checksum": "dc634853f00186533a431417d440a34e",
+            "filesize": 14167199,
+            "modifiedDatetime": "2019-03-02T21:26:07.000Z",
+            "bitRate": 1656.4915268770267,
+            "duration": 66.81666666666666,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/a9/imv_E_03_r720P.vtt",
+                "modifiedDatetime": "2019-03-02T21:26:08.000Z",
+                "checksum": "ce28ef738b3dd1f30c6400b383aab5f2"
+            }
+        }
+    ],
+    "printReferences": [
+        "imv-3.v",
+        "imv-3"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/09/imv_E_03_r240P.vtt",
+    "Name": "pub-imv_E_3_VIDEO",
+    "Title": "Would You Like Good News?",
+    "UndatedReferenceTitle": "Would You Like Good News?",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2017,
+    "Symbol": "VODMinistryTools"
+}

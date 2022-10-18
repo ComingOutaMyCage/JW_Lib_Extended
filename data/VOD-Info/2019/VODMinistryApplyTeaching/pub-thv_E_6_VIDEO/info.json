@@ -1,0 +1,102 @@
+{
+    "guid": "5cb787c3db0b288e409e0fa4",
+    "languageAgnosticNaturalKey": "pub-thv_6_VIDEO",
+    "naturalKey": "pub-thv_E_6_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODMinistryApplyTeaching",
+    "description": "",
+    "firstPublished": "2019-05-13T16:11:41.709Z",
+    "duration": 221.014,
+    "durationFormattedHHMM": "3:41",
+    "durationFormattedMinSec": "3m 41s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/81/thv_E_06_r240P.mp4",
+            "checksum": "6be3322bd11adeeabf9bb60272d2dcb4",
+            "filesize": 3778970,
+            "modifiedDatetime": "2020-12-13T10:42:26.000Z",
+            "bitRate": 133.5806922864615,
+            "duration": 221.014,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.739,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/51/thv_E_06.vtt",
+                "modifiedDatetime": "2019-05-13T14:15:06.000Z",
+                "checksum": "9c8b3b222e67bfd2fe709a11cd15c61d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/ab/thv_E_06_r360P.mp4",
+            "checksum": "e5056b59b1c86a8d0f2b9ec6e6c1030e",
+            "filesize": 7476581,
+            "modifiedDatetime": "2019-05-13T14:15:17.000Z",
+            "bitRate": 264.3357034488532,
+            "duration": 220.972,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/51/thv_E_06.vtt",
+                "modifiedDatetime": "2019-05-13T14:15:06.000Z",
+                "checksum": "9c8b3b222e67bfd2fe709a11cd15c61d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/1c/thv_E_06_r480P.mp4",
+            "checksum": "a68fc02b7093a7af4353dd50bf065f57",
+            "filesize": 14014202,
+            "modifiedDatetime": "2019-05-13T14:15:21.000Z",
+            "bitRate": 495.47432762974495,
+            "duration": 220.972,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/51/thv_E_06.vtt",
+                "modifiedDatetime": "2019-05-13T14:15:06.000Z",
+                "checksum": "9c8b3b222e67bfd2fe709a11cd15c61d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/6f/thv_E_06_r720P.mp4",
+            "checksum": "de5a112ffdb6ce9bee83ae638789f3b4",
+            "filesize": 23368456,
+            "modifiedDatetime": "2019-05-13T14:15:27.000Z",
+            "bitRate": 826.1954568904657,
+            "duration": 220.972,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/51/thv_E_06.vtt",
+                "modifiedDatetime": "2019-05-13T14:15:06.000Z",
+                "checksum": "9c8b3b222e67bfd2fe709a11cd15c61d"
+            }
+        }
+    ],
+    "printReferences": [
+        "thv-6.v",
+        "thv-6"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/51/thv_E_06.vtt",
+    "Name": "pub-thv_E_6_VIDEO",
+    "Title": "Study 6—Scripture Application Made Clear",
+    "UndatedReferenceTitle": "Study 6—Scripture Application Made Clear",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODMinistryApplyTeaching"
+}

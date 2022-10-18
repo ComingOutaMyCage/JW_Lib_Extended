@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>JW Lib Extended</title>
+    <meta property='og:title' content='JW Lib Extended'/>
+    <meta property='og:image' content='https://comingoutamycage.github.io/JW_Lib_Extended/examples/SiteExample.png'/>
+    <meta property='og:description' content='Examine the scriptures and their usage within JW publications from 1950-2022'/>
+    <meta property='og:url' content='https://comingoutamycage.github.io/JW_Lib_Extended'/>
+    <meta property='og:image:width' content='1215' />
+    <meta property='og:image:height' content='1148' />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <script src="js/pace.min.js"></script>
+    <link rel="stylesheet" href="js/pace.css">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+    <script src="node_modules/jszip/dist/jszip.min.js"></script>
+    <script src="node_modules/jszip-utils/dist/jszip-utils.min.js"></script>
+<!--    <script src="node_modules/jstree/dist/jstree.min.js"></script>-->
+
+    <script src="node_modules/jquery-throttle-debounce/jquery.ba-throttle-debounce.min.js"></script>
+
+
+    <script src="node_modules/flexsearch/dist/flexsearch.debug.js"></script>
+
+    <script src="node_modules/striptags/src/striptags.js"></script>
+    <script src="js/functions.js"></script>
+    <link href="css/style.css" rel="stylesheet" >
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400;1,700&family=Noto+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&display=swap" rel="stylesheet">
+
+</head>
+<body>
+<div id="body-div">
+<script>InsertNav();</script>
+<div id="searchBackdrop" touch-action="none"></div>
+<div id="tooltip" style="display: none"><div id="tooltip-inner"><div id="tooltip-header"></div><div id="tooltip-body"></div></div></div>
+<div id="regionMain">
+    <div id="secondaryNavContent">
+        <div id="sidebarInner">
+            <div id="relatedDocuments" style="display: none">
+            </div>
+            <div id="searchRefineForm" style="display: none">
+                <div id="searchFilterContainer" class="pb-5">
+                    <h1>Refine Search </h1>
+                    <div class="d-flex gap-2">
+                        <div class="form-group">
+                            <label for="minYear" class="form-control-label">Min Year</label>
+                            <input type="number" id="minYear" name="minYear" min="1880" max="2023" class="form-control w-auto" value="1880" step="1"/>
+                        </div>
+                        <div class="form-group mr-1">
+                            <label for="maxYear" class="form-control-label">Max Year</label>
+                            <input type="number" id="maxYear" name="maxYear" min="1880" max="2023" class="form-control w-auto" value="2022" step="1"/>
+                        </div>
+                    </div>
+                    <ul class="searchNav">
+                        <li><a href="#" onclick="$(this).closest('ul').find(':checkbox').prop('checked', true);">Check All</a> | <a href="#" onclick="$(this).closest('ul').find(':checkbox').prop('checked', false);">Uncheck All</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="regionBody">
+        <div id="resultsHeader" dir="ltr" style="display: none">
+            <span>
+                <span id="resultsCount">Sort by</span>
+<!--                <span id="proximitySelector">-->
+<!--                    <select name="p" class="form-select d-inline-block w-auto">-->
+<!--                        <option value="sen">Located in the same sentence</option>-->
+<!--                        <option value="par" selected="">Located in the same paragraph</option>-->
+<!--                        <option value="doc">Located in the same article</option>-->
+<!--                    </select>-->
+<!--                </span>-->
+            </span>
+            <span id="resultsSort"></span>
+            <span id="rankSelector">
+                <select name="r" class="form-select d-inline-block w-auto">
+                        <option value="occ" selected="">Sorted by most occurrences</option>
+                        <option value="newest">Sorted by date, newest first</option>
+                        <option value="oldest">Sorted by date, oldest first</option>
+                </select>
+            </span>
+            <div id="resultsFilter"></div>
+        </div>
+        <div id="contents">Click a file to open</div><noscript><h3>Javascript required for this page to operate</h3></noscript>
+    </div>
+</div>
+</div>
+<script src="js/search.js"></script>
+<script src="js/bible.js"></script>
+<script src="js/bible_nwt.js"></script>
+
+<script async src="//static.getclicky.com/101371960.js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101371960ns.gif" /></p></noscript>

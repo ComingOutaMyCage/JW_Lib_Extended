@@ -1,0 +1,102 @@
+{
+    "guid": "5e6ace1e6ff7de171e0873db",
+    "languageAgnosticNaturalKey": "pub-jwb_202003_14_VIDEO",
+    "naturalKey": "pub-jwb_E_202003_14_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2020-03-13T17:20:07.860Z",
+    "duration": 594.859,
+    "durationFormattedHHMM": "9:54",
+    "durationFormattedMinSec": "9m 54s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/6c/jwb_E_202003_14_r240P.mp4",
+            "checksum": "c950c070c5310f35d9a3139c95c08757",
+            "filesize": 8970664,
+            "modifiedDatetime": "2020-10-18T03:01:05.000Z",
+            "bitRate": 117.81499901657367,
+            "duration": 594.859,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.47,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/7d/jwb_E_202003_14.vtt",
+                "modifiedDatetime": "2020-04-01T19:01:24.000Z",
+                "checksum": "556ae218ff8eb2d5a3a462e629d93b04"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/e2/jwb_E_202003_14_r360P.mp4",
+            "checksum": "06cf50625fe0080dc54b8fd0fd9e63c5",
+            "filesize": 18368418,
+            "modifiedDatetime": "2020-04-01T19:01:27.000Z",
+            "bitRate": 241.24804883522714,
+            "duration": 594.837,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/7d/jwb_E_202003_14.vtt",
+                "modifiedDatetime": "2020-04-01T19:01:24.000Z",
+                "checksum": "556ae218ff8eb2d5a3a462e629d93b04"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/90/jwb_E_202003_14_r480P.mp4",
+            "checksum": "6d86f2f44dcc132a14e54e236025f4ed",
+            "filesize": 31611127,
+            "modifiedDatetime": "2020-04-01T19:02:17.000Z",
+            "bitRate": 415.17580393872606,
+            "duration": 594.837,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/7d/jwb_E_202003_14.vtt",
+                "modifiedDatetime": "2020-04-01T19:01:24.000Z",
+                "checksum": "556ae218ff8eb2d5a3a462e629d93b04"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/53/jwb_E_202003_14_r720P.mp4",
+            "checksum": "7e709b60ab968b42e96408f47d44c225",
+            "filesize": 53516210,
+            "modifiedDatetime": "2020-04-01T19:02:03.000Z",
+            "bitRate": 702.8738807858288,
+            "duration": 594.837,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/7d/jwb_E_202003_14.vtt",
+                "modifiedDatetime": "2020-04-01T19:01:24.000Z",
+                "checksum": "556ae218ff8eb2d5a3a462e629d93b04"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202003-14.v",
+        "jwb.202003-14"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/7d/jwb_E_202003_14.vtt",
+    "Name": "pub-jwb_E_202003_14_VIDEO",
+    "Title": "John Ekrann: Be Clay in Jehovah’s Hands (Rom. 12:2)",
+    "UndatedReferenceTitle": "John Ekrann: Be Clay in Jehovah’s Hands (Rom. 12:2)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

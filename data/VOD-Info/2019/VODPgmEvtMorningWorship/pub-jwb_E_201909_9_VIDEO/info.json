@@ -1,0 +1,102 @@
+{
+    "guid": "5d3b1e1248fd57354cf389aa",
+    "languageAgnosticNaturalKey": "pub-jwb_201909_9_VIDEO",
+    "naturalKey": "pub-jwb_E_201909_9_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2019-09-23T13:12:02.080Z",
+    "duration": 618.155,
+    "durationFormattedHHMM": "10:18",
+    "durationFormattedMinSec": "10m 18s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/6c/jwb_E_201909_09_r240P.mp4",
+            "checksum": "8133c314b12e210139bc9c00e960a6eb",
+            "filesize": 9933210,
+            "modifiedDatetime": "2020-11-07T20:01:31.000Z",
+            "bitRate": 125.54003951274358,
+            "duration": 618.155,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.412,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/e9/jwb_E_201909_09.vtt",
+                "modifiedDatetime": "2019-09-23T13:11:13.000Z",
+                "checksum": "8c61e47290243319cf5388b2532b069b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/b4/jwb_E_201909_09_r360P.mp4",
+            "checksum": "9efc317b06a8a85c49c7d079723a49cf",
+            "filesize": 19331186,
+            "modifiedDatetime": "2019-09-23T13:11:24.000Z",
+            "bitRate": 244.32663615244118,
+            "duration": 618.127,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/e9/jwb_E_201909_09.vtt",
+                "modifiedDatetime": "2019-09-23T13:11:13.000Z",
+                "checksum": "8c61e47290243319cf5388b2532b069b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/4e/jwb_E_201909_09_r480P.mp4",
+            "checksum": "945b0d0078528e4bc670f408f383201c",
+            "filesize": 33424256,
+            "modifiedDatetime": "2019-09-23T13:11:29.000Z",
+            "bitRate": 422.44878479665186,
+            "duration": 618.127,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/e9/jwb_E_201909_09.vtt",
+                "modifiedDatetime": "2019-09-23T13:11:13.000Z",
+                "checksum": "8c61e47290243319cf5388b2532b069b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/59/jwb_E_201909_09_r720P.mp4",
+            "checksum": "d318f0466ac1f45430f2c47188bbb837",
+            "filesize": 62942816,
+            "modifiedDatetime": "2019-09-23T13:11:38.000Z",
+            "bitRate": 795.5335230462349,
+            "duration": 618.127,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/e9/jwb_E_201909_09.vtt",
+                "modifiedDatetime": "2019-09-23T13:11:13.000Z",
+                "checksum": "8c61e47290243319cf5388b2532b069b"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201909-9.v",
+        "jwb.201909-9"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/e9/jwb_E_201909_09.vtt",
+    "Name": "pub-jwb_E_201909_9_VIDEO",
+    "Title": "Geoffrey W. Jackson: “Do All Things for God’s Glory” (1 Cor. 10:31)",
+    "UndatedReferenceTitle": "Geoffrey W. Jackson: “Do All Things for God’s Glory” (1 Cor. 10:31)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

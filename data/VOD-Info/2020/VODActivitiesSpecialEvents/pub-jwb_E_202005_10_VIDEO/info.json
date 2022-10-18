@@ -1,0 +1,102 @@
+{
+    "guid": "5e95cb4acbef69c0329fb6ae",
+    "languageAgnosticNaturalKey": "pub-jwb_202005_10_VIDEO",
+    "naturalKey": "pub-jwb_E_202005_10_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODActivitiesSpecialEvents",
+    "description": "",
+    "firstPublished": "2020-05-18T17:38:20.066Z",
+    "duration": 284.438,
+    "durationFormattedHHMM": "4:44",
+    "durationFormattedMinSec": "4m 44s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/85/jwb_E_202005_10_r240P.mp4",
+            "checksum": "4c8a63894c2344780739dbd5b3844bb8",
+            "filesize": 10860443,
+            "modifiedDatetime": "2020-10-18T03:03:19.000Z",
+            "bitRate": 298.2977342601903,
+            "duration": 284.438,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.786,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/90/jwb_E_202005_10.vtt",
+                "modifiedDatetime": "2020-05-18T15:15:09.000Z",
+                "checksum": "4ef189839b8a757bb0e64bd3a89e4bfe"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/45/jwb_E_202005_10_r360P.mp4",
+            "checksum": "9411be712b21d45d5c84744d55163c00",
+            "filesize": 19467063,
+            "modifiedDatetime": "2020-05-18T15:14:58.000Z",
+            "bitRate": 534.7417282998899,
+            "duration": 284.411,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/90/jwb_E_202005_10.vtt",
+                "modifiedDatetime": "2020-05-18T15:15:09.000Z",
+                "checksum": "4ef189839b8a757bb0e64bd3a89e4bfe"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/12/jwb_E_202005_10_r480P.mp4",
+            "checksum": "c7e5efc884b9cbe23b40e520a3a35d67",
+            "filesize": 36611970,
+            "modifiedDatetime": "2020-05-18T15:15:00.000Z",
+            "bitRate": 1005.6960371610099,
+            "duration": 284.411,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/90/jwb_E_202005_10.vtt",
+                "modifiedDatetime": "2020-05-18T15:15:09.000Z",
+                "checksum": "4ef189839b8a757bb0e64bd3a89e4bfe"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/3e/jwb_E_202005_10_r720P.mp4",
+            "checksum": "4175245732e0bde2bf1d96f2ea83c852",
+            "filesize": 63354770,
+            "modifiedDatetime": "2020-05-18T15:15:04.000Z",
+            "bitRate": 1740.295349423897,
+            "duration": 284.411,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/90/jwb_E_202005_10.vtt",
+                "modifiedDatetime": "2020-05-18T15:15:09.000Z",
+                "checksum": "4ef189839b8a757bb0e64bd3a89e4bfe"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202005-10.v",
+        "jwb.202005-10"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/90/jwb_E_202005_10.vtt",
+    "Name": "pub-jwb_E_202005_10_VIDEO",
+    "Title": "Greece Branch Dedication Report",
+    "UndatedReferenceTitle": "Greece Branch Dedication Report",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODActivitiesSpecialEvents"
+}

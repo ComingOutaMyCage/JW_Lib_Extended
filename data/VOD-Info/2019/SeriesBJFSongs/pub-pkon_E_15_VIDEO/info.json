@@ -1,0 +1,102 @@
+{
+    "guid": "5d028e2348fd57354cf33659",
+    "languageAgnosticNaturalKey": "pub-pkon_15_VIDEO",
+    "naturalKey": "pub-pkon_E_15_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBJFSongs",
+    "description": "",
+    "firstPublished": "2019-08-05T12:12:16.137Z",
+    "duration": 129.579,
+    "durationFormattedHHMM": "2:09",
+    "durationFormattedMinSec": "2m 9s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/ea/pkon_E_015_r240P.mp4",
+            "checksum": "98f19f376ede57b80184ccf9eb7dd643",
+            "filesize": 5089471,
+            "modifiedDatetime": "2020-10-30T12:51:57.000Z",
+            "bitRate": 306.85135853417603,
+            "duration": 129.579,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/34/pkon_E_015.vtt",
+                "modifiedDatetime": "2020-10-30T12:51:46.000Z",
+                "checksum": "ae7e98b73201b7d19059cacd3ca5fc70"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/48/pkon_E_015_r360P.mp4",
+            "checksum": "8275d0b8b8999b74c73c4b55b7f56500",
+            "filesize": 10334362,
+            "modifiedDatetime": "2020-10-30T12:52:02.000Z",
+            "bitRate": 623.2463593169836,
+            "duration": 129.543,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/34/pkon_E_015.vtt",
+                "modifiedDatetime": "2020-10-30T12:51:46.000Z",
+                "checksum": "ae7e98b73201b7d19059cacd3ca5fc70"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/7b/pkon_E_015_r480P.mp4",
+            "checksum": "e79c55154f0c15098b8363b00f186058",
+            "filesize": 21746094,
+            "modifiedDatetime": "2020-10-30T12:52:08.000Z",
+            "bitRate": 1311.4669212153492,
+            "duration": 129.543,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/34/pkon_E_015.vtt",
+                "modifiedDatetime": "2020-10-30T12:51:46.000Z",
+                "checksum": "ae7e98b73201b7d19059cacd3ca5fc70"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/ef/pkon_E_015_r720P.mp4",
+            "checksum": "5865a6db209cc36add55ef5310756a8b",
+            "filesize": 42032963,
+            "modifiedDatetime": "2020-10-30T12:53:10.000Z",
+            "bitRate": 2534.930667326679,
+            "duration": 129.543,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/34/pkon_E_015.vtt",
+                "modifiedDatetime": "2020-10-30T12:51:46.000Z",
+                "checksum": "ae7e98b73201b7d19059cacd3ca5fc70"
+            }
+        }
+    ],
+    "printReferences": [
+        "pkon-15.v",
+        "pkon-15"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/34/pkon_E_015.vtt",
+    "Name": "pub-pkon_E_15_VIDEO",
+    "Title": "This Is My Family",
+    "UndatedReferenceTitle": "This Is My Family",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "SeriesBJFSongs"
+}

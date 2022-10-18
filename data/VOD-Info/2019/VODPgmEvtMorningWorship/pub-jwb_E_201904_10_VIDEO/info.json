@@ -1,0 +1,102 @@
+{
+    "guid": "5ca4b85edb0b288e409df39a",
+    "languageAgnosticNaturalKey": "pub-jwb_201904_10_VIDEO",
+    "naturalKey": "pub-jwb_E_201904_10_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2019-04-08T12:30:03.672Z",
+    "duration": 596.48,
+    "durationFormattedHHMM": "9:56",
+    "durationFormattedMinSec": "9m 56s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/29/jwb_E_201904_10_r240P.mp4",
+            "checksum": "ecdffd5a7324c82f0042f56cac3e6f4a",
+            "filesize": 9091005,
+            "modifiedDatetime": "2020-11-05T21:09:26.000Z",
+            "bitRate": 119.07101086792515,
+            "duration": 596.48,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.126,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/d2/jwb_E_201904_10.vtt",
+                "modifiedDatetime": "2019-04-08T12:26:02.000Z",
+                "checksum": "35602bfed628a44d11e7f7393c6f8c11"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/6c/jwb_E_201904_10_r360P.mp4",
+            "checksum": "6009951fa6025c56f10b6ec47f44a768",
+            "filesize": 18833257,
+            "modifiedDatetime": "2019-04-08T12:24:58.000Z",
+            "bitRate": 246.68879854016924,
+            "duration": 596.439,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/d2/jwb_E_201904_10.vtt",
+                "modifiedDatetime": "2019-04-08T12:26:02.000Z",
+                "checksum": "35602bfed628a44d11e7f7393c6f8c11"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/b0/jwb_E_201904_10_r480P.mp4",
+            "checksum": "81cb7b357b769b573aa6db7d847191d2",
+            "filesize": 33787087,
+            "modifiedDatetime": "2019-04-08T12:25:05.000Z",
+            "bitRate": 442.5626379017804,
+            "duration": 596.439,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/d2/jwb_E_201904_10.vtt",
+                "modifiedDatetime": "2019-04-08T12:26:02.000Z",
+                "checksum": "35602bfed628a44d11e7f7393c6f8c11"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/c7/jwb_E_201904_10_r720P.mp4",
+            "checksum": "721e6c831546d907c29604d7bfbeae44",
+            "filesize": 63516511,
+            "modifiedDatetime": "2019-04-08T12:25:15.000Z",
+            "bitRate": 831.9756793024936,
+            "duration": 596.439,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/d2/jwb_E_201904_10.vtt",
+                "modifiedDatetime": "2019-04-08T12:26:02.000Z",
+                "checksum": "35602bfed628a44d11e7f7393c6f8c11"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201904-10.v",
+        "jwb.201904-10"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/d2/jwb_E_201904_10.vtt",
+    "Name": "pub-jwb_E_201904_10_VIDEO",
+    "Title": "Christopher Mavor: Abraham—Jehovah’s Friend (Isa. 41:8)",
+    "UndatedReferenceTitle": "Christopher Mavor: Abraham—Jehovah’s Friend (Isa. 41:8)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

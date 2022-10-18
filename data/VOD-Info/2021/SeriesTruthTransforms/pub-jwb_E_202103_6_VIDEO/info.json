@@ -1,0 +1,102 @@
+{
+    "guid": "5f8f2779a05028daa1b9dd48",
+    "languageAgnosticNaturalKey": "pub-jwb_202103_6_VIDEO",
+    "naturalKey": "pub-jwb_E_202103_6_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesTruthTransforms",
+    "description": "",
+    "firstPublished": "2021-03-15T14:09:16.387Z",
+    "duration": 341.59,
+    "durationFormattedHHMM": "5:41",
+    "durationFormattedMinSec": "5m 41s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/c7/jwb_E_202103_06_r240P.mp4",
+            "checksum": "06da64a5f7b56419bcda5acb0e7bb9dc",
+            "filesize": 8333740,
+            "modifiedDatetime": "2021-11-26T18:59:14.000Z",
+            "bitRate": 190.60084823911708,
+            "duration": 341.59,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.857,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/37/jwb_E_202103_06.vtt",
+                "modifiedDatetime": "2021-11-26T18:59:09.000Z",
+                "checksum": "1300f1e0c3d9b92b0dc2b63a1a683173"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/fe/jwb_E_202103_06_r360P.mp4",
+            "checksum": "446e13ed0531505fd57ac9ba7cbad409",
+            "filesize": 16014296,
+            "modifiedDatetime": "2021-11-26T18:59:19.000Z",
+            "bitRate": 366.30455627417285,
+            "duration": 341.551,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/37/jwb_E_202103_06.vtt",
+                "modifiedDatetime": "2021-11-26T18:59:09.000Z",
+                "checksum": "1300f1e0c3d9b92b0dc2b63a1a683173"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/b7/jwb_E_202103_06_r480P.mp4",
+            "checksum": "10948324d1ba48e4c1661d4a78e59a4e",
+            "filesize": 30057859,
+            "modifiedDatetime": "2021-11-26T18:59:27.000Z",
+            "bitRate": 687.5313597017722,
+            "duration": 341.551,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/37/jwb_E_202103_06.vtt",
+                "modifiedDatetime": "2021-11-26T18:59:09.000Z",
+                "checksum": "1300f1e0c3d9b92b0dc2b63a1a683173"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/50/jwb_E_202103_06_r720P.mp4",
+            "checksum": "ed18c51b0af635f2bbdcae79fbf564e1",
+            "filesize": 53696142,
+            "modifiedDatetime": "2021-11-26T18:59:30.000Z",
+            "bitRate": 1228.2239237332053,
+            "duration": 341.551,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/37/jwb_E_202103_06.vtt",
+                "modifiedDatetime": "2021-11-26T18:59:09.000Z",
+                "checksum": "1300f1e0c3d9b92b0dc2b63a1a683173"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202103-6.v",
+        "jwb.202103-6"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/37/jwb_E_202103_06.vtt",
+    "Name": "pub-jwb_E_202103_6_VIDEO",
+    "Title": "Alexandru and Dorina Văcar: \"Love Is Patient and Kind\"",
+    "UndatedReferenceTitle": "Alexandru and Dorina Văcar: \"Love Is Patient and Kind\"",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "SeriesTruthTransforms"
+}

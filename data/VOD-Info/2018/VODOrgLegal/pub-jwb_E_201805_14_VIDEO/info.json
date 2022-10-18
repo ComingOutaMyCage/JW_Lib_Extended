@@ -1,0 +1,102 @@
+{
+    "guid": "5aeb9fead2aa9cc349cac7df",
+    "languageAgnosticNaturalKey": "pub-jwb_201805_14_VIDEO",
+    "naturalKey": "pub-jwb_E_201805_14_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODOrgLegal",
+    "description": "",
+    "firstPublished": "2018-05-21T14:16:45.104Z",
+    "duration": 422.507,
+    "durationFormattedHHMM": "7:02",
+    "durationFormattedMinSec": "7m 2s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/b5/jwb_E_201805_14_r240P.mp4",
+            "checksum": "5939ef06640c6b375ad3cd211bb08415",
+            "filesize": 8511394,
+            "modifiedDatetime": "2020-11-14T03:21:04.000Z",
+            "bitRate": 157.38263655986765,
+            "duration": 422.507,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.126,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/2b/jwb_E_201805_14_r240P.vtt",
+                "modifiedDatetime": "2018-05-21T13:23:36.000Z",
+                "checksum": "f751e7548d1b37cd680ae8b6dfbea298"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/62/jwb_E_201805_14_r360P.mp4",
+            "checksum": "4dd4272f6c254abc14aa95aae5a16002",
+            "filesize": 17980126,
+            "modifiedDatetime": "2018-05-21T13:23:37.000Z",
+            "bitRate": 332.50028848543667,
+            "duration": 422.465,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/9b/jwb_E_201805_14_r360P.vtt",
+                "modifiedDatetime": "2018-05-21T13:23:39.000Z",
+                "checksum": "f751e7548d1b37cd680ae8b6dfbea298"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/cd/jwb_E_201805_14_r480P.mp4",
+            "checksum": "4d577ecf099160cac96784f476403599",
+            "filesize": 35772124,
+            "modifiedDatetime": "2018-05-21T13:23:40.000Z",
+            "bitRate": 661.5215905459625,
+            "duration": 422.465,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/32/jwb_E_201805_14_r480P.vtt",
+                "modifiedDatetime": "2018-05-21T13:23:43.000Z",
+                "checksum": "f751e7548d1b37cd680ae8b6dfbea298"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/89/jwb_E_201805_14_r720P.mp4",
+            "checksum": "651984664896bf2f4cbc56be87a9253f",
+            "filesize": 72040801,
+            "modifiedDatetime": "2018-05-21T13:23:44.000Z",
+            "bitRate": 1332.2257650042015,
+            "duration": 422.465,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/41/jwb_E_201805_14_r720P.vtt",
+                "modifiedDatetime": "2018-05-21T13:23:48.000Z",
+                "checksum": "f751e7548d1b37cd680ae8b6dfbea298"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201805-14.v",
+        "jwb.201805-14"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/2b/jwb_E_201805_14_r240P.vtt",
+    "Name": "pub-jwb_E_201805_14_VIDEO",
+    "Title": "Shane Brady: Trusting in Jehovah's Guidance",
+    "UndatedReferenceTitle": "Shane Brady: Trusting in Jehovah's Guidance",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "VODOrgLegal"
+}

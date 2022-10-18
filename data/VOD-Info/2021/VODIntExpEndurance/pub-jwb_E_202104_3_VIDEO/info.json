@@ -1,0 +1,102 @@
+{
+    "guid": "5ffdcd14e668ffe08948fd8c",
+    "languageAgnosticNaturalKey": "pub-jwb_202104_3_VIDEO",
+    "naturalKey": "pub-jwb_E_202104_3_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpEndurance",
+    "description": "",
+    "firstPublished": "2021-04-19T14:12:50.433Z",
+    "duration": 305.302,
+    "durationFormattedHHMM": "5:05",
+    "durationFormattedMinSec": "5m 5s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/6e/jwb_E_202104_03_r240P.mp4",
+            "checksum": "85c781fe948bc0d33a8b0e065d6df845",
+            "filesize": 4831926,
+            "modifiedDatetime": "2021-04-19T05:53:05.000Z",
+            "bitRate": 123.64616633693849,
+            "duration": 305.302,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.715,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/df/jwb_E_202104_03.vtt",
+                "modifiedDatetime": "2021-04-19T05:52:58.000Z",
+                "checksum": "749e4c912a64e61d20c70a491a90d6ca"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/8a/jwb_E_202104_03_r360P.mp4",
+            "checksum": "63a94eb37f4df7c5e3c142238957a6a1",
+            "filesize": 9871914,
+            "modifiedDatetime": "2021-04-19T05:53:03.000Z",
+            "bitRate": 252.64713650434868,
+            "duration": 305.265,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/df/jwb_E_202104_03.vtt",
+                "modifiedDatetime": "2021-04-19T05:52:58.000Z",
+                "checksum": "749e4c912a64e61d20c70a491a90d6ca"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/4d/jwb_E_202104_03_r480P.mp4",
+            "checksum": "ec38eb2e0df3838228202468a52ed8be",
+            "filesize": 17941180,
+            "modifiedDatetime": "2021-04-19T05:53:01.000Z",
+            "bitRate": 459.15997166396414,
+            "duration": 305.265,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/df/jwb_E_202104_03.vtt",
+                "modifiedDatetime": "2021-04-19T05:52:58.000Z",
+                "checksum": "749e4c912a64e61d20c70a491a90d6ca"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/5d/jwb_E_202104_03_r720P.mp4",
+            "checksum": "d390ec2e9953ae60575cf52d06288083",
+            "filesize": 29921344,
+            "modifiedDatetime": "2021-04-19T05:52:59.000Z",
+            "bitRate": 765.762534191604,
+            "duration": 305.265,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/df/jwb_E_202104_03.vtt",
+                "modifiedDatetime": "2021-04-19T05:52:58.000Z",
+                "checksum": "749e4c912a64e61d20c70a491a90d6ca"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202104-3.v",
+        "jwb.202104-3"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/df/jwb_E_202104_03.vtt",
+    "Name": "pub-jwb_E_202104_3_VIDEO",
+    "Title": "Living Through the Genocide in Rwanda",
+    "UndatedReferenceTitle": "Living Through the Genocide in Rwanda",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODIntExpEndurance"
+}

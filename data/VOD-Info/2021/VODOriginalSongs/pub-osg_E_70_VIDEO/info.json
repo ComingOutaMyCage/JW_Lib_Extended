@@ -1,0 +1,102 @@
+{
+    "guid": "601db26baa8dbd024d2ba1c7",
+    "languageAgnosticNaturalKey": "pub-osg_70_VIDEO",
+    "naturalKey": "pub-osg_E_70_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODOriginalSongs",
+    "description": "",
+    "firstPublished": "2021-05-17T15:29:16.171Z",
+    "duration": 270.934,
+    "durationFormattedHHMM": "4:30",
+    "durationFormattedMinSec": "4m 30s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/8e/osg_E_070_r240P.mp4",
+            "checksum": "3c18cfe49e25eb9fdff137bf9ee77067",
+            "filesize": 6412122,
+            "modifiedDatetime": "2021-05-17T06:47:47.000Z",
+            "bitRate": 184.89633314755622,
+            "duration": 270.934,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.506,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/d3/osg_E_070.vtt",
+                "modifiedDatetime": "2021-05-17T06:47:38.000Z",
+                "checksum": "2ba657412fa182ae1f4bd880edc93845"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/96/osg_E_070_r360P.mp4",
+            "checksum": "f997039954d6a7c30c1b773527212c40",
+            "filesize": 11799040,
+            "modifiedDatetime": "2021-05-17T06:47:45.000Z",
+            "bitRate": 340.27693182279614,
+            "duration": 270.897,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/d3/osg_E_070.vtt",
+                "modifiedDatetime": "2021-05-17T06:47:38.000Z",
+                "checksum": "2ba657412fa182ae1f4bd880edc93845"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/fb/osg_E_070_r480P.mp4",
+            "checksum": "bb8b3e029eb98f93c665e75b6948560b",
+            "filesize": 21191769,
+            "modifiedDatetime": "2021-05-17T06:47:44.000Z",
+            "bitRate": 611.1573598544835,
+            "duration": 270.897,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/d3/osg_E_070.vtt",
+                "modifiedDatetime": "2021-05-17T06:47:38.000Z",
+                "checksum": "2ba657412fa182ae1f4bd880edc93845"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/d5/osg_E_070_r720P.mp4",
+            "checksum": "0bf26289785bbfd78e9b9000145e3f5a",
+            "filesize": 34251098,
+            "modifiedDatetime": "2021-05-17T06:47:41.000Z",
+            "bitRate": 987.7802379686744,
+            "duration": 270.897,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/d3/osg_E_070.vtt",
+                "modifiedDatetime": "2021-05-17T06:47:38.000Z",
+                "checksum": "2ba657412fa182ae1f4bd880edc93845"
+            }
+        }
+    ],
+    "printReferences": [
+        "osg-70.v",
+        "osg-70"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/d3/osg_E_070.vtt",
+    "Name": "pub-osg_E_70_VIDEO",
+    "Title": "One United People",
+    "UndatedReferenceTitle": "One United People",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODOriginalSongs"
+}

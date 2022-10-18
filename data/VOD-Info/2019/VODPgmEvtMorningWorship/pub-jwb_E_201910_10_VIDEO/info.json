@@ -1,0 +1,102 @@
+{
+    "guid": "5d5573dfad989978fb48d932",
+    "languageAgnosticNaturalKey": "pub-jwb_201910_10_VIDEO",
+    "naturalKey": "pub-jwb_E_201910_10_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2019-10-28T12:43:53.712Z",
+    "duration": 616.256,
+    "durationFormattedHHMM": "10:16",
+    "durationFormattedMinSec": "10m 16s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/e3/jwb_E_201910_10_r240P.mp4",
+            "checksum": "1685b2577e7951f9e73133a10caff5ce",
+            "filesize": 9476248,
+            "modifiedDatetime": "2020-11-21T07:43:26.000Z",
+            "bitRate": 120.1338201980995,
+            "duration": 616.256,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.821,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/b2/jwb_E_201910_10.vtt",
+                "modifiedDatetime": "2019-10-28T06:21:49.000Z",
+                "checksum": "9d5107107722200d1feeda8709a0d007"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/e8/jwb_E_201910_10_r360P.mp4",
+            "checksum": "d822aaf407561602dff1381f076f924d",
+            "filesize": 19751396,
+            "modifiedDatetime": "2019-10-28T06:21:24.000Z",
+            "bitRate": 250.40818085926406,
+            "duration": 616.225,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/b2/jwb_E_201910_10.vtt",
+                "modifiedDatetime": "2019-10-28T06:21:49.000Z",
+                "checksum": "9d5107107722200d1feeda8709a0d007"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/bb/jwb_E_201910_10_r480P.mp4",
+            "checksum": "72297d9bfb72dc5d0c4d0e29c7d90cdd",
+            "filesize": 37586002,
+            "modifiedDatetime": "2019-10-28T06:21:28.000Z",
+            "bitRate": 476.51529980932287,
+            "duration": 616.225,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/b2/jwb_E_201910_10.vtt",
+                "modifiedDatetime": "2019-10-28T06:21:49.000Z",
+                "checksum": "9d5107107722200d1feeda8709a0d007"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/32/jwb_E_201910_10_r720P.mp4",
+            "checksum": "e09e0dadc97889c874ca23f20893c722",
+            "filesize": 71554880,
+            "modifiedDatetime": "2019-10-28T06:21:44.000Z",
+            "bitRate": 907.1727047750416,
+            "duration": 616.225,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/b2/jwb_E_201910_10.vtt",
+                "modifiedDatetime": "2019-10-28T06:21:49.000Z",
+                "checksum": "9d5107107722200d1feeda8709a0d007"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201910-10.v",
+        "jwb.201910-10"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/b2/jwb_E_201910_10.vtt",
+    "Name": "pub-jwb_E_201910_10_VIDEO",
+    "Title": "M. Stephen Lett: Avoid Murmuring (Jas. 3:5)",
+    "UndatedReferenceTitle": "M. Stephen Lett: Avoid Murmuring (Jas. 3:5)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "62bc497c5649d905f6ae3968",
+    "languageAgnosticNaturalKey": "pub-jwb-090_12_VIDEO",
+    "naturalKey": "pub-jwb-090_E_12_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2022-09-16T14:44:00.596Z",
+    "duration": 527.232,
+    "durationFormattedHHMM": "8:47",
+    "durationFormattedMinSec": "8m 47s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/8b/jwb-090_E_12_r240P.mp4",
+            "checksum": "a19c00e43913b8e553696ced487b1b97",
+            "filesize": 8575037,
+            "modifiedDatetime": "2022-09-16T14:33:32.000Z",
+            "bitRate": 127.06451156701415,
+            "duration": 527.232,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/b8/jwb-090_E_12.vtt",
+                "modifiedDatetime": "2022-09-16T14:33:17.000Z",
+                "checksum": "32f388c980bd8fcb592bf958ce22c23f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/ee/jwb-090_E_12_r360P.mp4",
+            "checksum": "5dfdc6f6de486ed766780ce04de3d53b",
+            "filesize": 16748396,
+            "modifiedDatetime": "2022-09-16T14:33:28.000Z",
+            "bitRate": 248.18686209126895,
+            "duration": 527.211,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/b8/jwb-090_E_12.vtt",
+                "modifiedDatetime": "2022-09-16T14:33:17.000Z",
+                "checksum": "32f388c980bd8fcb592bf958ce22c23f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/73/jwb-090_E_12_r480P.mp4",
+            "checksum": "cbcbb1edce367d800765bcb243304d4b",
+            "filesize": 29310273,
+            "modifiedDatetime": "2022-09-16T14:33:25.000Z",
+            "bitRate": 434.33560341589987,
+            "duration": 527.211,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/b8/jwb-090_E_12.vtt",
+                "modifiedDatetime": "2022-09-16T14:33:17.000Z",
+                "checksum": "32f388c980bd8fcb592bf958ce22c23f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/66/jwb-090_E_12_r720P.mp4",
+            "checksum": "edda254858784ca684081edc65aed987",
+            "filesize": 54758054,
+            "modifiedDatetime": "2022-09-16T14:33:20.000Z",
+            "bitRate": 811.4346947901314,
+            "duration": 527.211,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/b8/jwb-090_E_12.vtt",
+                "modifiedDatetime": "2022-09-16T14:33:17.000Z",
+                "checksum": "32f388c980bd8fcb592bf958ce22c23f"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-090-12.v",
+        "jwb-090-12"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/b8/jwb-090_E_12.vtt",
+    "Name": "pub-jwb-090_E_12_VIDEO",
+    "Title": "Izak Marais: Benefit From Jehovah’s Loving Discipline (Heb. 12:6)",
+    "UndatedReferenceTitle": "Izak Marais: Benefit From Jehovah’s Loving Discipline (Heb. 12:6)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

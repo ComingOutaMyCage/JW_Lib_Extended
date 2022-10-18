@@ -1,0 +1,102 @@
+{
+    "guid": "55365e1e7f0bc1fc27072391",
+    "languageAgnosticNaturalKey": "pub-pk_13_VIDEO",
+    "naturalKey": "pub-pk_E_13_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBJFLessons",
+    "description": "",
+    "firstPublished": "2014-10-06T00:42:46.000Z",
+    "duration": 719.958,
+    "durationFormattedHHMM": "11:59",
+    "durationFormattedMinSec": "11m 59s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/8c/pk_E_013_r240P.mp4",
+            "checksum": "c383e0c58ce9d825a3d09d9c2dff1d17",
+            "filesize": 18263797,
+            "modifiedDatetime": "2021-11-18T21:26:40.000Z",
+            "bitRate": 198.18644151811634,
+            "duration": 719.958,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/fb/pk_E_013.vtt",
+                "modifiedDatetime": "2021-11-18T21:26:29.000Z",
+                "checksum": "e5c3794d0558df3bf3f96d50b9c5e0e7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/49/pk_E_013_r360P.mp4",
+            "checksum": "91ecf7c5b98f794c2e4aa0abf34ca176",
+            "filesize": 32354179,
+            "modifiedDatetime": "2021-11-18T21:26:44.000Z",
+            "bitRate": 351.1052973220561,
+            "duration": 719.918,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/fb/pk_E_013.vtt",
+                "modifiedDatetime": "2021-11-18T21:26:29.000Z",
+                "checksum": "e5c3794d0558df3bf3f96d50b9c5e0e7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/21/pk_E_013_r480P.mp4",
+            "checksum": "499c75a70a5ffb47f203c81ee00bbbaf",
+            "filesize": 58927873,
+            "modifiedDatetime": "2021-11-18T21:26:50.000Z",
+            "bitRate": 639.4811739843982,
+            "duration": 719.918,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/fb/pk_E_013.vtt",
+                "modifiedDatetime": "2021-11-18T21:26:29.000Z",
+                "checksum": "e5c3794d0558df3bf3f96d50b9c5e0e7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/48/pk_E_013_r720P.mp4",
+            "checksum": "1c87877345fc70a7c2c7f61dfe7985cb",
+            "filesize": 98212483,
+            "modifiedDatetime": "2021-11-18T21:26:58.000Z",
+            "bitRate": 1065.7950258744745,
+            "duration": 719.918,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/fb/pk_E_013.vtt",
+                "modifiedDatetime": "2021-11-18T21:26:29.000Z",
+                "checksum": "e5c3794d0558df3bf3f96d50b9c5e0e7"
+            }
+        }
+    ],
+    "printReferences": [
+        "pk-13.v",
+        "pk-13"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/fb/pk_E_013.vtt",
+    "Name": "pub-pk_E_13_VIDEO",
+    "Title": "Jehovah Will Help You Be Bold",
+    "UndatedReferenceTitle": "Jehovah Will Help You Be Bold",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2014,
+    "Symbol": "SeriesBJFLessons"
+}

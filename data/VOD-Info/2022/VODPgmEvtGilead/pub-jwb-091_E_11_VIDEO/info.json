@@ -1,0 +1,102 @@
+{
+    "guid": "627078e8b685ba344192f194",
+    "languageAgnosticNaturalKey": "pub-jwb-091_11_VIDEO",
+    "naturalKey": "pub-jwb-091_E_11_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtGilead",
+    "description": "",
+    "firstPublished": "2022-06-07T13:50:18.080Z",
+    "duration": 600.278,
+    "durationFormattedHHMM": "10:00",
+    "durationFormattedMinSec": "10m 0s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/4c/jwb-091_E_11_r240P.mp4",
+            "checksum": "1a83b0244a34686bb8d127874a67d2ef",
+            "filesize": 11813073,
+            "modifiedDatetime": "2022-06-07T05:46:36.000Z",
+            "bitRate": 153.73944119930235,
+            "duration": 600.299,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/f3/jwb-091_E_11.vtt",
+                "modifiedDatetime": "2022-06-07T05:46:24.000Z",
+                "checksum": "05d76d90eaa3a58d352fbfc7f58e4fcd"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/50/jwb-091_E_11_r360P.mp4",
+            "checksum": "ac2b407dab0029bc3a5958f7dd7863da",
+            "filesize": 23663911,
+            "modifiedDatetime": "2022-06-07T05:46:33.000Z",
+            "bitRate": 307.98114321614315,
+            "duration": 600.278,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/f3/jwb-091_E_11.vtt",
+                "modifiedDatetime": "2022-06-07T05:46:24.000Z",
+                "checksum": "05d76d90eaa3a58d352fbfc7f58e4fcd"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/d2/jwb-091_E_11_r480P.mp4",
+            "checksum": "e5689332cb10fd343f6c3c98d0413249",
+            "filesize": 42407927,
+            "modifiedDatetime": "2022-06-07T05:46:28.000Z",
+            "bitRate": 551.9308215318569,
+            "duration": 600.278,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/f3/jwb-091_E_11.vtt",
+                "modifiedDatetime": "2022-06-07T05:46:24.000Z",
+                "checksum": "05d76d90eaa3a58d352fbfc7f58e4fcd"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/4a/jwb-091_E_11_r720P.mp4",
+            "checksum": "64d30137ec68ca9799c15babb0ac883e",
+            "filesize": 69879286,
+            "modifiedDatetime": "2022-06-07T05:46:25.000Z",
+            "bitRate": 909.4651509383986,
+            "duration": 600.278,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/f3/jwb-091_E_11.vtt",
+                "modifiedDatetime": "2022-06-07T05:46:24.000Z",
+                "checksum": "05d76d90eaa3a58d352fbfc7f58e4fcd"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-091-11.v",
+        "jwb-091-11"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/f3/jwb-091_E_11.vtt",
+    "Name": "pub-jwb-091_E_11_VIDEO",
+    "Title": "Trent Lippold: Will I Be More?",
+    "UndatedReferenceTitle": "Trent Lippold: Will I Be More?",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODPgmEvtGilead"
+}

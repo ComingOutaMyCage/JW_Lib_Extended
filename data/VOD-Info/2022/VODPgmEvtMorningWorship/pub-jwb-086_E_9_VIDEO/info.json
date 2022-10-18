@@ -1,0 +1,102 @@
+{
+    "guid": "61bba9e7d4a4e5a3329e1876",
+    "languageAgnosticNaturalKey": "pub-jwb-086_9_VIDEO",
+    "naturalKey": "pub-jwb-086_E_9_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2022-01-28T11:14:42.426Z",
+    "duration": 597.867,
+    "durationFormattedHHMM": "9:57",
+    "durationFormattedMinSec": "9m 57s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/77/jwb-086_E_09_r240P.mp4",
+            "checksum": "8c1f0f9d73d1a9228ea657c3c5a5a6b2",
+            "filesize": 8827231,
+            "modifiedDatetime": "2022-01-28T06:47:14.000Z",
+            "bitRate": 115.34796566376804,
+            "duration": 597.867,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.791,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/03/jwb-086_E_09.vtt",
+                "modifiedDatetime": "2022-01-28T06:47:06.000Z",
+                "checksum": "a5b2f5c5983fdeaeea3ea202df2ea3b7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/5f/jwb-086_E_09_r360P.mp4",
+            "checksum": "ba9fd04289b844854ad5c0f38c865f4e",
+            "filesize": 17933135,
+            "modifiedDatetime": "2022-01-28T06:47:11.000Z",
+            "bitRate": 234.34801483256388,
+            "duration": 597.84,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/03/jwb-086_E_09.vtt",
+                "modifiedDatetime": "2022-01-28T06:47:06.000Z",
+                "checksum": "a5b2f5c5983fdeaeea3ea202df2ea3b7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/b5/jwb-086_E_09_r480P.mp4",
+            "checksum": "4deee4ea323db4d233e26db0462e59b5",
+            "filesize": 29939306,
+            "modifiedDatetime": "2022-01-28T06:47:09.000Z",
+            "bitRate": 391.2431890221464,
+            "duration": 597.84,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/03/jwb-086_E_09.vtt",
+                "modifiedDatetime": "2022-01-28T06:47:06.000Z",
+                "checksum": "a5b2f5c5983fdeaeea3ea202df2ea3b7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/36/jwb-086_E_09_r720P.mp4",
+            "checksum": "1085fdf705e2a2b3d3653fa12bc525ed",
+            "filesize": 47980273,
+            "modifiedDatetime": "2022-01-28T06:47:07.000Z",
+            "bitRate": 627.0003392421049,
+            "duration": 597.84,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/03/jwb-086_E_09.vtt",
+                "modifiedDatetime": "2022-01-28T06:47:06.000Z",
+                "checksum": "a5b2f5c5983fdeaeea3ea202df2ea3b7"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-086-9.v",
+        "jwb-086-9"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/03/jwb-086_E_09.vtt",
+    "Name": "pub-jwb-086_E_9_VIDEO",
+    "Title": "Leonard Myers: Remain Watchful for “Peace and Security!” (1 Thess. 5:3)",
+    "UndatedReferenceTitle": "Leonard Myers: Remain Watchful for “Peace and Security!” (1 Thess. 5:3)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "55365e1e7f0bc1fc2707238e",
+    "languageAgnosticNaturalKey": "pub-pk_900_VIDEO",
+    "naturalKey": "pub-pk_E_900_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBJFLessons",
+    "description": "",
+    "firstPublished": "2014-07-07T21:16:09.000Z",
+    "duration": 286.827,
+    "durationFormattedHHMM": "4:46",
+    "durationFormattedMinSec": "4m 46s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/2d/pk_E_900_r240P.mp4",
+            "checksum": "76c82997949f01801d3a6d4861ca9337",
+            "filesize": 9828048,
+            "modifiedDatetime": "2020-12-03T19:47:48.000Z",
+            "bitRate": 267.693156502003,
+            "duration": 286.827,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/18/pk_E_900.vtt",
+                "modifiedDatetime": "2020-01-22T18:45:27.000Z",
+                "checksum": "4b98357ce2bef02b53f24ffb2b008336"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/3d/pk_E_900_r360P.mp4",
+            "checksum": "0079070ffaffc0071228d74ff0c8eb80",
+            "filesize": 17564203,
+            "modifiedDatetime": "2020-01-22T18:45:38.000Z",
+            "bitRate": 478.464732184886,
+            "duration": 286.793,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/18/pk_E_900.vtt",
+                "modifiedDatetime": "2020-01-22T18:45:27.000Z",
+                "checksum": "4b98357ce2bef02b53f24ffb2b008336"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/c3/pk_E_900_r480P.mp4",
+            "checksum": "3e9765b7bf7f32efcbe39d01293fd323",
+            "filesize": 33546594,
+            "modifiedDatetime": "2020-01-22T18:46:02.000Z",
+            "bitRate": 913.8394787355339,
+            "duration": 286.793,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/18/pk_E_900.vtt",
+                "modifiedDatetime": "2020-01-22T18:45:27.000Z",
+                "checksum": "4b98357ce2bef02b53f24ffb2b008336"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/43/pk_E_900_r720P.mp4",
+            "checksum": "38ccffe0dfbbbb1ed4f64437ff5d9d38",
+            "filesize": 59946109,
+            "modifiedDatetime": "2020-01-22T18:45:08.000Z",
+            "bitRate": 1632.9860790273822,
+            "duration": 286.793,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/18/pk_E_900.vtt",
+                "modifiedDatetime": "2020-01-22T18:45:27.000Z",
+                "checksum": "4b98357ce2bef02b53f24ffb2b008336"
+            }
+        }
+    ],
+    "printReferences": [
+        "pk-900.v",
+        "pk-900"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/18/pk_E_900.vtt",
+    "Name": "pub-pk_E_900_VIDEO",
+    "Title": "An Animated Series That Touches Little Hearts",
+    "UndatedReferenceTitle": "An Animated Series That Touches Little Hearts",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2014,
+    "Symbol": "SeriesBJFLessons"
+}

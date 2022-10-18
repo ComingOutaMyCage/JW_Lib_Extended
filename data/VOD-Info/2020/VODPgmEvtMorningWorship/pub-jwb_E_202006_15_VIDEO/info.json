@@ -1,0 +1,102 @@
+{
+    "guid": "5eda53fdaf341cff13d5f3f8",
+    "languageAgnosticNaturalKey": "pub-jwb_202006_15_VIDEO",
+    "naturalKey": "pub-jwb_E_202006_15_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2020-06-05T14:58:25.423Z",
+    "duration": 579.712,
+    "durationFormattedHHMM": "9:39",
+    "durationFormattedMinSec": "9m 39s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/73/jwb_E_202006_15_r240P.mp4",
+            "checksum": "49e8eb78dbc5045ed5a0b31c14ee4ba9",
+            "filesize": 8865626,
+            "modifiedDatetime": "2020-10-18T03:05:20.000Z",
+            "bitRate": 119.4777805617272,
+            "duration": 579.712,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.94,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/aa/jwb_E_202006_15.vtt",
+                "modifiedDatetime": "2020-08-05T18:44:05.000Z",
+                "checksum": "4616d4c914705c6eb03fc430d2607f68"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/fa/jwb_E_202006_15_r360P.mp4",
+            "checksum": "ab3bea606a146bd3905140499d9edc49",
+            "filesize": 18768863,
+            "modifiedDatetime": "2020-08-05T18:44:31.000Z",
+            "bitRate": 252.9489815875409,
+            "duration": 579.689,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/aa/jwb_E_202006_15.vtt",
+                "modifiedDatetime": "2020-08-05T18:44:05.000Z",
+                "checksum": "4616d4c914705c6eb03fc430d2607f68"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/36/jwb_E_202006_15_r480P.mp4",
+            "checksum": "2835acf26ad858759203f52798b57ec2",
+            "filesize": 32859019,
+            "modifiedDatetime": "2020-08-05T18:44:36.000Z",
+            "bitRate": 442.8427759324397,
+            "duration": 579.689,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/aa/jwb_E_202006_15.vtt",
+                "modifiedDatetime": "2020-08-05T18:44:05.000Z",
+                "checksum": "4616d4c914705c6eb03fc430d2607f68"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/9a/jwb_E_202006_15_r720P.mp4",
+            "checksum": "a00adb86ce5e6d8eea6a942324230331",
+            "filesize": 57004396,
+            "modifiedDatetime": "2020-08-05T18:44:41.000Z",
+            "bitRate": 768.2513274359183,
+            "duration": 579.689,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/aa/jwb_E_202006_15.vtt",
+                "modifiedDatetime": "2020-08-05T18:44:05.000Z",
+                "checksum": "4616d4c914705c6eb03fc430d2607f68"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202006-15.v",
+        "jwb.202006-15"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/aa/jwb_E_202006_15.vtt",
+    "Name": "pub-jwb_E_202006_15_VIDEO",
+    "Title": "Anthony Morris III: Jehovah “Well Knows How We Are Formed” (Ps. 103:14)",
+    "UndatedReferenceTitle": "Anthony Morris III: Jehovah “Well Knows How We Are Formed” (Ps. 103:14)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

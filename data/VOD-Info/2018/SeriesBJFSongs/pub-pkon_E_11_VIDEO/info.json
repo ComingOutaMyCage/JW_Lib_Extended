@@ -1,0 +1,102 @@
+{
+    "guid": "5b438c1e928a076623efcbd3",
+    "languageAgnosticNaturalKey": "pub-pkon_11_VIDEO",
+    "naturalKey": "pub-pkon_E_11_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBJFSongs",
+    "description": "",
+    "firstPublished": "2018-08-06T12:12:09.105Z",
+    "duration": 80.534,
+    "durationFormattedHHMM": "1:20",
+    "durationFormattedMinSec": "1m 20s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/1c/pkon_E_011_r240P.mp4",
+            "checksum": "79f8d15b12ad9f269a48bf9918dde054",
+            "filesize": 1801091,
+            "modifiedDatetime": "2021-09-17T15:22:46.000Z",
+            "bitRate": 174.72152677751012,
+            "duration": 80.534,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.631,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/20/pkon_E_011.vtt",
+                "modifiedDatetime": "2021-09-17T15:22:42.000Z",
+                "checksum": "7bd6eec561612d61d7d473a008a789f7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/c3/pkon_E_011_r360P.mp4",
+            "checksum": "c7437c4e646c458e66a7d15aacd4b46a",
+            "filesize": 3036510,
+            "modifiedDatetime": "2021-09-17T15:22:48.000Z",
+            "bitRate": 294.6886917553819,
+            "duration": 80.501,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/20/pkon_E_011.vtt",
+                "modifiedDatetime": "2021-09-17T15:22:42.000Z",
+                "checksum": "7bd6eec561612d61d7d473a008a789f7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/d9/pkon_E_011_r480P.mp4",
+            "checksum": "ccf99f4c9b1d41d8fe1334760c7a75bd",
+            "filesize": 4973116,
+            "modifiedDatetime": "2021-09-17T15:22:54.000Z",
+            "bitRate": 482.63336790847313,
+            "duration": 80.501,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/20/pkon_E_011.vtt",
+                "modifiedDatetime": "2021-09-17T15:22:42.000Z",
+                "checksum": "7bd6eec561612d61d7d473a008a789f7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/85/pkon_E_011_r720P.mp4",
+            "checksum": "bf4edb97eab52c4d3cd89d3ebe245eb6",
+            "filesize": 7736310,
+            "modifiedDatetime": "2021-09-17T15:22:58.000Z",
+            "bitRate": 750.7971562465062,
+            "duration": 80.501,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/20/pkon_E_011.vtt",
+                "modifiedDatetime": "2021-09-17T15:22:42.000Z",
+                "checksum": "7bd6eec561612d61d7d473a008a789f7"
+            }
+        }
+    ],
+    "printReferences": [
+        "pkon-11.v",
+        "pkon-11"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/20/pkon_E_011.vtt",
+    "Name": "pub-pkon_E_11_VIDEO",
+    "Title": "Wonderfully Made",
+    "UndatedReferenceTitle": "Wonderfully Made",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "SeriesBJFSongs"
+}

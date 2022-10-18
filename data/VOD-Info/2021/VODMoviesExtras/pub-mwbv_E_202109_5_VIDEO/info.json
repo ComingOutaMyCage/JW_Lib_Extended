@@ -1,0 +1,102 @@
+{
+    "guid": "60c7ccabb9f9166228008789",
+    "languageAgnosticNaturalKey": "pub-mwbv_202109_5_VIDEO",
+    "naturalKey": "pub-mwbv_E_202109_5_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODMoviesExtras",
+    "description": "",
+    "firstPublished": "2021-09-06T15:14:41.117Z",
+    "duration": 354.752,
+    "durationFormattedHHMM": "5:54",
+    "durationFormattedMinSec": "5m 54s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/47/mwbv_E_202109_05_r240P.mp4",
+            "checksum": "e8d1e2fd38936a2b9d3dd9839dbc2414",
+            "filesize": 9003966,
+            "modifiedDatetime": "2021-09-06T03:20:43.000Z",
+            "bitRate": 198.289183359079,
+            "duration": 354.752,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.438,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/46/mwbv_E_202109_05.vtt",
+                "modifiedDatetime": "2021-09-06T03:20:32.000Z",
+                "checksum": "b7e77f92902aaa634284c3b89282493b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/91/mwbv_E_202109_05_r360P.mp4",
+            "checksum": "1a803427e93d0e6f5e5cfcf20810d7e0",
+            "filesize": 17233315,
+            "modifiedDatetime": "2021-09-06T03:20:39.000Z",
+            "bitRate": 379.54188790238237,
+            "duration": 354.731,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/46/mwbv_E_202109_05.vtt",
+                "modifiedDatetime": "2021-09-06T03:20:32.000Z",
+                "checksum": "b7e77f92902aaa634284c3b89282493b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/74/mwbv_E_202109_05_r480P.mp4",
+            "checksum": "b514dc4e0acaec0d6908eb840cf0f0f6",
+            "filesize": 32372483,
+            "modifiedDatetime": "2021-09-06T03:20:36.000Z",
+            "bitRate": 712.9628463187598,
+            "duration": 354.731,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/46/mwbv_E_202109_05.vtt",
+                "modifiedDatetime": "2021-09-06T03:20:32.000Z",
+                "checksum": "b7e77f92902aaa634284c3b89282493b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/83/mwbv_E_202109_05_r720P.mp4",
+            "checksum": "c61e37a3fbc79ad6f6765c20e2a79f8a",
+            "filesize": 54695934,
+            "modifiedDatetime": "2021-09-06T03:20:33.000Z",
+            "bitRate": 1204.6085184971148,
+            "duration": 354.731,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/46/mwbv_E_202109_05.vtt",
+                "modifiedDatetime": "2021-09-06T03:20:32.000Z",
+                "checksum": "b7e77f92902aaa634284c3b89282493b"
+            }
+        }
+    ],
+    "printReferences": [
+        "mwbv.202109-5.v",
+        "mwbv.202109-5"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/46/mwbv_E_202109_05.vtt",
+    "Name": "pub-mwbv_E_202109_5_VIDEO",
+    "Title": "‘Not One Word Has Failed’—Excerpt",
+    "UndatedReferenceTitle": "‘Not One Word Has Failed’—Excerpt",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODMoviesExtras"
+}

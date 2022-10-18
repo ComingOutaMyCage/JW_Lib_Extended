@@ -1,0 +1,102 @@
+{
+    "guid": "5c4b7259351dc4182b662d38",
+    "languageAgnosticNaturalKey": "pub-thv_3_VIDEO",
+    "naturalKey": "pub-thv_E_3_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODMinistryApplyTeaching",
+    "description": "",
+    "firstPublished": "2019-02-11T12:35:28.328Z",
+    "duration": 315.35,
+    "durationFormattedHHMM": "5:15",
+    "durationFormattedMinSec": "5m 15s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/97/thv_E_03_r240P.mp4",
+            "checksum": "2c7a6c6fe661f311e32dd32ad00bb492",
+            "filesize": 5453181,
+            "modifiedDatetime": "2020-12-13T10:42:16.000Z",
+            "bitRate": 135.09743638021246,
+            "duration": 315.35,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.553,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/df/thv_E_03.vtt",
+                "modifiedDatetime": "2019-02-11T12:05:21.000Z",
+                "checksum": "544faf4156a22824ac0f4ec7eaa57499"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/bb/thv_E_03_r360P.mp4",
+            "checksum": "042996f69e96f6b30c7ea06ffad7852f",
+            "filesize": 11068363,
+            "modifiedDatetime": "2019-02-11T12:05:25.000Z",
+            "bitRate": 274.237862770998,
+            "duration": 315.316,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/df/thv_E_03.vtt",
+                "modifiedDatetime": "2019-02-11T12:05:21.000Z",
+                "checksum": "544faf4156a22824ac0f4ec7eaa57499"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/48/thv_E_03_r480P.mp4",
+            "checksum": "a1c710a2d25a3bf71fe7fe2b9b8f995e",
+            "filesize": 21694502,
+            "modifiedDatetime": "2019-02-11T12:05:29.000Z",
+            "bitRate": 537.5188600483325,
+            "duration": 315.316,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/df/thv_E_03.vtt",
+                "modifiedDatetime": "2019-02-11T12:05:21.000Z",
+                "checksum": "544faf4156a22824ac0f4ec7eaa57499"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/d7/thv_E_03_r720P.mp4",
+            "checksum": "6a57a881d251f74d1e5a54102a03c0b6",
+            "filesize": 38267649,
+            "modifiedDatetime": "2019-02-11T12:05:33.000Z",
+            "bitRate": 948.1472802284059,
+            "duration": 315.316,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/df/thv_E_03.vtt",
+                "modifiedDatetime": "2019-02-11T12:05:21.000Z",
+                "checksum": "544faf4156a22824ac0f4ec7eaa57499"
+            }
+        }
+    ],
+    "printReferences": [
+        "thv-3.v",
+        "thv-3"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/df/thv_E_03.vtt",
+    "Name": "pub-thv_E_3_VIDEO",
+    "Title": "Study 3—Use of Questions",
+    "UndatedReferenceTitle": "Study 3—Use of Questions",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODMinistryApplyTeaching"
+}

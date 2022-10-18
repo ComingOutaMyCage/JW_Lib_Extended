@@ -1,0 +1,102 @@
+{
+    "guid": "5c38f37c99077ca5aeb9461a",
+    "languageAgnosticNaturalKey": "pub-jwb_201902_2_VIDEO",
+    "naturalKey": "pub-jwb_E_201902_2_VIDEO",
+    "type": "video",
+    "primaryCategory": "StudioTalks",
+    "description": "",
+    "firstPublished": "2019-02-19T03:16:18.490Z",
+    "duration": 1201.451,
+    "durationFormattedHHMM": "20:01",
+    "durationFormattedMinSec": "20m 1s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/52/jwb_E_201902_02_r240P.mp4",
+            "checksum": "1e40ab122a4762372a8e2ed314ad446c",
+            "filesize": 20708236,
+            "modifiedDatetime": "2020-11-06T23:27:10.000Z",
+            "bitRate": 134.65642273384432,
+            "duration": 1201.451,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.674,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/e1/jwb_E_201902_02.vtt",
+                "modifiedDatetime": "2019-03-28T18:11:18.000Z",
+                "checksum": "36e507c1e67f28bc7c53febcb8e7ec77"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/6c/jwb_E_201902_02_r360P.mp4",
+            "checksum": "c8ffc30fa05a38008c836b00d5dc8d70",
+            "filesize": 41764640,
+            "modifiedDatetime": "2019-03-28T18:11:08.000Z",
+            "bitRate": 271.5860946720936,
+            "duration": 1201.41,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/e1/jwb_E_201902_02.vtt",
+                "modifiedDatetime": "2019-03-28T18:11:18.000Z",
+                "checksum": "36e507c1e67f28bc7c53febcb8e7ec77"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/bc/jwb_E_201902_02_r480P.mp4",
+            "checksum": "a4fc8810c903da9fa37f5e4bfb7e2f76",
+            "filesize": 74061353,
+            "modifiedDatetime": "2019-03-28T18:11:03.000Z",
+            "bitRate": 481.6043817784936,
+            "duration": 1201.41,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/e1/jwb_E_201902_02.vtt",
+                "modifiedDatetime": "2019-03-28T18:11:18.000Z",
+                "checksum": "36e507c1e67f28bc7c53febcb8e7ec77"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/a3/jwb_E_201902_02_r720P.mp4",
+            "checksum": "891e4915761afecaaf3ec227360171df",
+            "filesize": 120565785,
+            "modifiedDatetime": "2019-03-28T18:11:11.000Z",
+            "bitRate": 784.0122816627961,
+            "duration": 1201.41,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/e1/jwb_E_201902_02.vtt",
+                "modifiedDatetime": "2019-03-28T18:11:18.000Z",
+                "checksum": "36e507c1e67f28bc7c53febcb8e7ec77"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201902-2.v",
+        "jwb.201902-2"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/e1/jwb_E_201902_02.vtt",
+    "Name": "pub-jwb_E_201902_2_VIDEO",
+    "Title": "Anthony Morris III: ‘In Showing Honor, Take the Lead’",
+    "UndatedReferenceTitle": "Anthony Morris III: ‘In Showing Honor, Take the Lead’",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "StudioTalks"
+}

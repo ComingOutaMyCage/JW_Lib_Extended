@@ -1,0 +1,102 @@
+{
+    "guid": "5d7f9694ad989978fb078adf",
+    "languageAgnosticNaturalKey": "docid-702019222_1_VIDEO",
+    "naturalKey": "docid-702019222_E_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODOrgLegal",
+    "description": "",
+    "firstPublished": "2019-09-18T15:17:08.072Z",
+    "duration": 879.872,
+    "durationFormattedHHMM": "14:39",
+    "durationFormattedMinSec": "14m 39s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/10/702019222_E_cnt_1_r240P.mp4",
+            "checksum": "abbec5d7d35f3ce8f768466b40ba15b5",
+            "filesize": 16131341,
+            "modifiedDatetime": "2020-11-01T16:24:33.000Z",
+            "bitRate": 143.2323128392539,
+            "duration": 879.872,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.833,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/97/702019222_E_cnt_1.vtt",
+                "modifiedDatetime": "2019-09-18T14:47:57.000Z",
+                "checksum": "ca0b87eb4e8953da1f7c41717d884069"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/70/702019222_E_cnt_1_r360P.mp4",
+            "checksum": "94ad3d24c72ed16757f473cda8e98e6f",
+            "filesize": 32742030,
+            "modifiedDatetime": "2019-09-18T14:48:01.000Z",
+            "bitRate": 290.73172407110843,
+            "duration": 879.839,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/97/702019222_E_cnt_1.vtt",
+                "modifiedDatetime": "2019-09-18T14:47:57.000Z",
+                "checksum": "ca0b87eb4e8953da1f7c41717d884069"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/f0/702019222_E_cnt_1_r480P.mp4",
+            "checksum": "4999a184957580a8704d97087f77c78c",
+            "filesize": 58739906,
+            "modifiedDatetime": "2019-09-18T14:48:06.000Z",
+            "bitRate": 521.5789657255475,
+            "duration": 879.839,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/97/702019222_E_cnt_1.vtt",
+                "modifiedDatetime": "2019-09-18T14:47:57.000Z",
+                "checksum": "ca0b87eb4e8953da1f7c41717d884069"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/ca/702019222_E_cnt_1_r720P.mp4",
+            "checksum": "170325896f4ea43c9a373c54d969ef35",
+            "filesize": 95648822,
+            "modifiedDatetime": "2019-09-18T14:48:10.000Z",
+            "bitRate": 849.3104100579765,
+            "duration": 879.839,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/97/702019222_E_cnt_1.vtt",
+                "modifiedDatetime": "2019-09-18T14:47:57.000Z",
+                "checksum": "ca0b87eb4e8953da1f7c41717d884069"
+            }
+        }
+    ],
+    "printReferences": [
+        "702019222-1.v",
+        "702019222-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/content_assets/97/702019222_E_cnt_1.vtt",
+    "Name": "docid-702019222_E_1_VIDEO",
+    "Title": "Christian Neutrality in South Korea—History of Faith and Courage",
+    "UndatedReferenceTitle": "Christian Neutrality in South Korea—History of Faith and Courage",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODOrgLegal"
+}

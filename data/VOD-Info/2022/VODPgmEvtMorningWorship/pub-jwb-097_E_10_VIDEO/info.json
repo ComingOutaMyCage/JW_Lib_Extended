@@ -1,0 +1,102 @@
+{
+    "guid": "61c5dfccc06f02f011837ead",
+    "languageAgnosticNaturalKey": "pub-jwb-097_10_VIDEO",
+    "naturalKey": "pub-jwb-097_E_10_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2022-02-18T12:38:26.519Z",
+    "duration": 623.099,
+    "durationFormattedHHMM": "10:23",
+    "durationFormattedMinSec": "10m 23s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/43/jwb-097_E_10_r240P.mp4",
+            "checksum": "0b0e6c3f959314aa19ba4408df36b76b",
+            "filesize": 10426713,
+            "modifiedDatetime": "2022-02-18T12:35:25.000Z",
+            "bitRate": 130.72588098153503,
+            "duration": 623.126,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.732,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/f7/jwb-097_E_10.vtt",
+                "modifiedDatetime": "2022-02-18T12:35:04.000Z",
+                "checksum": "77e6b9044bd8a5af9ca2dacc1d7106f4"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/91/jwb-097_E_10_r360P.mp4",
+            "checksum": "df84c30a9d7aa7659069d94ba28b6d84",
+            "filesize": 20232444,
+            "modifiedDatetime": "2022-02-18T12:35:19.000Z",
+            "bitRate": 253.67713437190557,
+            "duration": 623.099,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/f7/jwb-097_E_10.vtt",
+                "modifiedDatetime": "2022-02-18T12:35:04.000Z",
+                "checksum": "77e6b9044bd8a5af9ca2dacc1d7106f4"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/4a/jwb-097_E_10_r480P.mp4",
+            "checksum": "b11ee8e5b9bd937e899b05aa7442f4fb",
+            "filesize": 35162167,
+            "modifiedDatetime": "2022-02-18T12:35:14.000Z",
+            "bitRate": 440.8680317052346,
+            "duration": 623.099,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/f7/jwb-097_E_10.vtt",
+                "modifiedDatetime": "2022-02-18T12:35:04.000Z",
+                "checksum": "77e6b9044bd8a5af9ca2dacc1d7106f4"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/7b/jwb-097_E_10_r720P.mp4",
+            "checksum": "944b0a73ef8fc7902e626ffce321497c",
+            "filesize": 60271536,
+            "modifiedDatetime": "2022-02-18T12:35:05.000Z",
+            "bitRate": 755.6927149618278,
+            "duration": 623.099,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/f7/jwb-097_E_10.vtt",
+                "modifiedDatetime": "2022-02-18T12:35:04.000Z",
+                "checksum": "77e6b9044bd8a5af9ca2dacc1d7106f4"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-097-10.v",
+        "jwb-097-10"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/f7/jwb-097_E_10.vtt",
+    "Name": "pub-jwb-097_E_10_VIDEO",
+    "Title": "James Mantz: Jehovah Provides True Freedom (2 Cor. 3:17)",
+    "UndatedReferenceTitle": "James Mantz: Jehovah Provides True Freedom (2 Cor. 3:17)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "5e173e88aff3a2314862a7e0",
+    "languageAgnosticNaturalKey": "pub-osg_59_VIDEO",
+    "naturalKey": "pub-osg_E_59_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODOriginalSongs",
+    "description": "",
+    "firstPublished": "2020-03-16T21:38:07.315Z",
+    "duration": 270.336,
+    "durationFormattedHHMM": "4:30",
+    "durationFormattedMinSec": "4m 30s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/02/osg_E_059_r240P.mp4",
+            "checksum": "eff8e6b6545893c34421966fb558da6a",
+            "filesize": 10830294,
+            "modifiedDatetime": "2020-11-28T07:00:45.000Z",
+            "bitRate": 312.9870674826882,
+            "duration": 270.336,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.553,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/23/osg_E_059.vtt",
+                "modifiedDatetime": "2020-03-16T20:18:31.000Z",
+                "checksum": "135cbcfdf64f57cc34cfd5a02aca1d49"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/d9/osg_E_059_r360P.mp4",
+            "checksum": "5c46034a8421b9dbcb1417017b5df020",
+            "filesize": 20417866,
+            "modifiedDatetime": "2020-03-16T20:18:16.000Z",
+            "bitRate": 590.1106425699097,
+            "duration": 270.313,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/23/osg_E_059.vtt",
+                "modifiedDatetime": "2020-03-16T20:18:31.000Z",
+                "checksum": "135cbcfdf64f57cc34cfd5a02aca1d49"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/df/osg_E_059_r480P.mp4",
+            "checksum": "01ca50bea0a5d96e1fb9ca77ed1f485b",
+            "filesize": 38996319,
+            "modifiedDatetime": "2020-03-16T20:18:19.000Z",
+            "bitRate": 1127.0591580408638,
+            "duration": 270.313,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/23/osg_E_059.vtt",
+                "modifiedDatetime": "2020-03-16T20:18:31.000Z",
+                "checksum": "135cbcfdf64f57cc34cfd5a02aca1d49"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/bf/osg_E_059_r720P.mp4",
+            "checksum": "863f81c2869c263971c16c60bc3b4844",
+            "filesize": 67029308,
+            "modifiedDatetime": "2020-03-16T20:18:23.000Z",
+            "bitRate": 1937.2596536237622,
+            "duration": 270.313,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/23/osg_E_059.vtt",
+                "modifiedDatetime": "2020-03-16T20:18:31.000Z",
+                "checksum": "135cbcfdf64f57cc34cfd5a02aca1d49"
+            }
+        }
+    ],
+    "printReferences": [
+        "osg-59.v",
+        "osg-59"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/23/osg_E_059.vtt",
+    "Name": "pub-osg_E_59_VIDEO",
+    "Title": "I Give My Life to You",
+    "UndatedReferenceTitle": "I Give My Life to You",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODOriginalSongs"
+}

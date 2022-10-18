@@ -1,0 +1,102 @@
+{
+    "guid": "5b5a14e0c1963ea3306e05ad",
+    "languageAgnosticNaturalKey": "pub-jwb_201809_3_VIDEO",
+    "naturalKey": "pub-jwb_E_201809_3_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODBiblePrinciples",
+    "description": "",
+    "firstPublished": "2018-09-17T13:03:45.778Z",
+    "duration": 279.275,
+    "durationFormattedHHMM": "4:39",
+    "durationFormattedMinSec": "4m 39s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/9a/jwb_E_201809_03_r240P.mp4",
+            "checksum": "be35a9dcded097a8f884f7c29caaecb5",
+            "filesize": 9396916,
+            "modifiedDatetime": "2020-11-12T21:19:15.000Z",
+            "bitRate": 262.8713857309104,
+            "duration": 279.275,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.881,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/eb/jwb_E_201809_03.vtt",
+                "modifiedDatetime": "2018-09-17T12:38:40.000Z",
+                "checksum": "14d37be9265f4826d50f81b0359289a2"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/5a/jwb_E_201809_03_r360P.mp4",
+            "checksum": "e64567ee6265ea910869b105f2bceaf4",
+            "filesize": 17233317,
+            "modifiedDatetime": "2018-09-17T12:38:31.000Z",
+            "bitRate": 482.15073489913664,
+            "duration": 279.239,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/eb/jwb_E_201809_03.vtt",
+                "modifiedDatetime": "2018-09-17T12:38:40.000Z",
+                "checksum": "14d37be9265f4826d50f81b0359289a2"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/04/jwb_E_201809_03_r480P.mp4",
+            "checksum": "b2f9f4d98f3f012c4cd69c560031a80a",
+            "filesize": 32252717,
+            "modifiedDatetime": "2018-09-17T12:38:34.000Z",
+            "bitRate": 902.3608864180864,
+            "duration": 279.239,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/eb/jwb_E_201809_03.vtt",
+                "modifiedDatetime": "2018-09-17T12:38:40.000Z",
+                "checksum": "14d37be9265f4826d50f81b0359289a2"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/77/jwb_E_201809_03_r720P.mp4",
+            "checksum": "ff9108b403f1e17335cebf1ebfd5689e",
+            "filesize": 54071936,
+            "modifiedDatetime": "2018-09-17T12:38:36.000Z",
+            "bitRate": 1512.815186990356,
+            "duration": 279.239,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/eb/jwb_E_201809_03.vtt",
+                "modifiedDatetime": "2018-09-17T12:38:40.000Z",
+                "checksum": "14d37be9265f4826d50f81b0359289a2"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201809-3.v",
+        "jwb.201809-3"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/eb/jwb_E_201809_03.vtt",
+    "Name": "pub-jwb_E_201809_3_VIDEO",
+    "Title": "What Entertainment Should I Choose?",
+    "UndatedReferenceTitle": "What Entertainment Should I Choose?",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "VODBiblePrinciples"
+}

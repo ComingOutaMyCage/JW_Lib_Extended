@@ -1,0 +1,102 @@
+{
+    "guid": "5c618269351dc4182b6649c7",
+    "languageAgnosticNaturalKey": "pub-jwbcov_201805_1_VIDEO",
+    "naturalKey": "pub-jwbcov_E_201805_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "2018Convention",
+    "description": "",
+    "firstPublished": "2019-02-12T13:31:33.909Z",
+    "duration": 66.262,
+    "durationFormattedHHMM": "1:06",
+    "durationFormattedMinSec": "1m 6s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/21/jwbcov_E_201805_01_r240P.mp4",
+            "checksum": "869a1b66bd6282e739f2ef408aca24a8",
+            "filesize": 2614734,
+            "modifiedDatetime": "2020-11-05T02:11:10.000Z",
+            "bitRate": 308.2854332045516,
+            "duration": 66.262,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.881,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/c1/jwbcov_E_201805_01.vtt",
+                "modifiedDatetime": "2019-03-15T18:20:01.000Z",
+                "checksum": "9856148ac2bc874c01dae242260a3bbe"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/51/jwbcov_E_201805_01_r360P.mp4",
+            "checksum": "d0af649aa6a7df80bc3c1c7236eefd8c",
+            "filesize": 4470874,
+            "modifiedDatetime": "2019-03-15T18:20:08.000Z",
+            "bitRate": 527.3530682881903,
+            "duration": 66.234,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/c1/jwbcov_E_201805_01.vtt",
+                "modifiedDatetime": "2019-03-15T18:20:01.000Z",
+                "checksum": "9856148ac2bc874c01dae242260a3bbe"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/0e/jwbcov_E_201805_01_r480P.mp4",
+            "checksum": "036f51532cb56b34196ad2874764af36",
+            "filesize": 8029276,
+            "modifiedDatetime": "2019-03-15T18:20:03.000Z",
+            "bitRate": 947.0773130114444,
+            "duration": 66.234,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/c1/jwbcov_E_201805_01.vtt",
+                "modifiedDatetime": "2019-03-15T18:20:01.000Z",
+                "checksum": "9856148ac2bc874c01dae242260a3bbe"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/fd/jwbcov_E_201805_01_r720P.mp4",
+            "checksum": "2ddadc6b182d13f57935a657d65620c9",
+            "filesize": 13021548,
+            "modifiedDatetime": "2019-03-15T18:20:06.000Z",
+            "bitRate": 1535.9308474499503,
+            "duration": 66.234,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/c1/jwbcov_E_201805_01.vtt",
+                "modifiedDatetime": "2019-03-15T18:20:01.000Z",
+                "checksum": "9856148ac2bc874c01dae242260a3bbe"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwbcov.201805-1.v",
+        "jwbcov.201805-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/c1/jwbcov_E_201805_01.vtt",
+    "Name": "pub-jwbcov_E_201805_1_VIDEO",
+    "Title": "Excerpts of the 2018 Regional Convention",
+    "UndatedReferenceTitle": "Excerpts of the 2018 Regional Convention",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "2018Convention"
+}

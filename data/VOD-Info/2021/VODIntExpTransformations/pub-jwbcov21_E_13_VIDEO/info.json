@@ -1,0 +1,102 @@
+{
+    "guid": "60ef4002b765b4a6fb5e1e5e",
+    "languageAgnosticNaturalKey": "pub-jwbcov21_13_VIDEO",
+    "naturalKey": "pub-jwbcov21_E_13_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpTransformations",
+    "description": "",
+    "firstPublished": "2021-09-13T16:10:30.262Z",
+    "duration": 143.894,
+    "durationFormattedHHMM": "2:23",
+    "durationFormattedMinSec": "2m 23s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/f2/jwbcov21_E_13_r240P.mp4",
+            "checksum": "c077ffba356aaee8ebf4b5f66fb8bcc2",
+            "filesize": 4760773,
+            "modifiedDatetime": "2021-09-11T04:28:24.000Z",
+            "bitRate": 258.4787347804634,
+            "duration": 143.894,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.669,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/5d/jwbcov21_E_13.vtt",
+                "modifiedDatetime": "2021-09-11T04:28:27.000Z",
+                "checksum": "667e2a0895ec8c74d075d14f736b8aef"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/ff/jwbcov21_E_13_r360P.mp4",
+            "checksum": "91e7ba59340fa46c7d17041066aa00e8",
+            "filesize": 7987749,
+            "modifiedDatetime": "2021-09-11T04:28:21.000Z",
+            "bitRate": 433.8059620758691,
+            "duration": 143.853,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/5d/jwbcov21_E_13.vtt",
+                "modifiedDatetime": "2021-09-11T04:28:27.000Z",
+                "checksum": "667e2a0895ec8c74d075d14f736b8aef"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/1c/jwbcov21_E_13_r480P.mp4",
+            "checksum": "4674f123f3cee7c59302fb69b6cc8650",
+            "filesize": 14244568,
+            "modifiedDatetime": "2021-09-11T04:28:18.000Z",
+            "bitRate": 773.6069981161324,
+            "duration": 143.853,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/5d/jwbcov21_E_13.vtt",
+                "modifiedDatetime": "2021-09-11T04:28:27.000Z",
+                "checksum": "667e2a0895ec8c74d075d14f736b8aef"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/d5/jwbcov21_E_13_r720P.mp4",
+            "checksum": "1c4801730f3a77665e37583f711526c9",
+            "filesize": 23099266,
+            "modifiedDatetime": "2021-09-11T04:28:16.000Z",
+            "bitRate": 1254.496017636059,
+            "duration": 143.853,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/5d/jwbcov21_E_13.vtt",
+                "modifiedDatetime": "2021-09-11T04:28:27.000Z",
+                "checksum": "667e2a0895ec8c74d075d14f736b8aef"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwbcov21-13.v",
+        "jwbcov21-13"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/5d/jwbcov21_E_13.vtt",
+    "Name": "pub-jwbcov21_E_13_VIDEO",
+    "Title": "Remember—Faithless People Can Acquire Faith!—Jesus’ Fleshly Brothers",
+    "UndatedReferenceTitle": "Remember—Faithless People Can Acquire Faith!—Jesus’ Fleshly Brothers",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODIntExpTransformations"
+}

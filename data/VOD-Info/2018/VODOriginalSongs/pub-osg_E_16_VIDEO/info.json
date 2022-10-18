@@ -1,0 +1,102 @@
+{
+    "guid": "59c2fb885434430be822fdce",
+    "languageAgnosticNaturalKey": "pub-osg_16_VIDEO",
+    "naturalKey": "pub-osg_E_16_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODOriginalSongs",
+    "description": "",
+    "firstPublished": "2018-08-14T15:12:52.152Z",
+    "duration": 217.622,
+    "durationFormattedHHMM": "3:37",
+    "durationFormattedMinSec": "3m 37s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/7a/osg_E_016_r240P.mp4",
+            "checksum": "4952d43c8f6c3682c44e229ee5a014d4",
+            "filesize": 9607328,
+            "modifiedDatetime": "2020-11-13T20:56:03.000Z",
+            "bitRate": 344.89734493755225,
+            "duration": 217.622,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.529,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/c0/osg_E_016.vtt",
+                "modifiedDatetime": "2020-11-13T20:55:56.000Z",
+                "checksum": "7b512c3907a7d3b0c0a957a963a0c75d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/a0/osg_E_016_r360P.mp4",
+            "checksum": "12f3467a2f0598814e509e08bffce66b",
+            "filesize": 17394704,
+            "modifiedDatetime": "2020-11-13T20:56:06.000Z",
+            "bitRate": 624.539854040093,
+            "duration": 217.594,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/c0/osg_E_016.vtt",
+                "modifiedDatetime": "2020-11-13T20:55:56.000Z",
+                "checksum": "7b512c3907a7d3b0c0a957a963a0c75d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/b0/osg_E_016_r480P.mp4",
+            "checksum": "bcf72e2765c5795ed6f2f5d0f9d8b8d5",
+            "filesize": 33374612,
+            "modifiedDatetime": "2020-11-13T20:56:10.000Z",
+            "bitRate": 1198.2828398301424,
+            "duration": 217.594,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/c0/osg_E_016.vtt",
+                "modifiedDatetime": "2020-11-13T20:55:56.000Z",
+                "checksum": "7b512c3907a7d3b0c0a957a963a0c75d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/f9/osg_E_016_r720P.mp4",
+            "checksum": "4dd424d5aee1248e8f3efbc48fa13c86",
+            "filesize": 56916262,
+            "modifiedDatetime": "2020-11-13T20:56:14.000Z",
+            "bitRate": 2043.5227849802845,
+            "duration": 217.594,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/c0/osg_E_016.vtt",
+                "modifiedDatetime": "2020-11-13T20:55:56.000Z",
+                "checksum": "7b512c3907a7d3b0c0a957a963a0c75d"
+            }
+        }
+    ],
+    "printReferences": [
+        "osg-16.v",
+        "osg-16"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/c0/osg_E_016.vtt",
+    "Name": "pub-osg_E_16_VIDEO",
+    "Title": "Imagine the Time",
+    "UndatedReferenceTitle": "Imagine the Time",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "VODOriginalSongs"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "5ee79c70af341cff13f20663",
+    "languageAgnosticNaturalKey": "pub-pkon_19_VIDEO",
+    "naturalKey": "pub-pkon_E_19_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBJFSongs",
+    "description": "",
+    "firstPublished": "2020-07-06T16:29:05.690Z",
+    "duration": 129.088,
+    "durationFormattedHHMM": "2:09",
+    "durationFormattedMinSec": "2m 9s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/6a/pkon_E_019_r240P.mp4",
+            "checksum": "beb11c600282414485b2c046e21fd81d",
+            "filesize": 3695073,
+            "modifiedDatetime": "2020-12-09T08:34:43.000Z",
+            "bitRate": 223.62851552816684,
+            "duration": 129.088,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.576,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/2f/pkon_E_019.vtt",
+                "modifiedDatetime": "2020-09-07T19:26:55.000Z",
+                "checksum": "d549d35464f7464d791154c055a3ef01"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/cd/pkon_E_019_r360P.mp4",
+            "checksum": "26456975003e20955cc850a9d44be330",
+            "filesize": 6500696,
+            "modifiedDatetime": "2020-09-07T19:27:08.000Z",
+            "bitRate": 393.55186482444384,
+            "duration": 129.047,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/2f/pkon_E_019.vtt",
+                "modifiedDatetime": "2020-09-07T19:26:55.000Z",
+                "checksum": "d549d35464f7464d791154c055a3ef01"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/8b/pkon_E_019_r480P.mp4",
+            "checksum": "22fde74c94d23cbbac10738c350cfe8e",
+            "filesize": 11693963,
+            "modifiedDatetime": "2020-09-07T19:27:16.000Z",
+            "bitRate": 707.9520324959124,
+            "duration": 129.047,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/2f/pkon_E_019.vtt",
+                "modifiedDatetime": "2020-09-07T19:26:55.000Z",
+                "checksum": "d549d35464f7464d791154c055a3ef01"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/f4/pkon_E_019_r720P.mp4",
+            "checksum": "79e4a5ab9c0cd3d53e2e96e4142e6423",
+            "filesize": 19614643,
+            "modifiedDatetime": "2020-09-07T19:27:22.000Z",
+            "bitRate": 1187.4696694808868,
+            "duration": 129.047,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/2f/pkon_E_019.vtt",
+                "modifiedDatetime": "2020-09-07T19:26:55.000Z",
+                "checksum": "d549d35464f7464d791154c055a3ef01"
+            }
+        }
+    ],
+    "printReferences": [
+        "pkon-19.v",
+        "pkon-19"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/2f/pkon_E_019.vtt",
+    "Name": "pub-pkon_E_19_VIDEO",
+    "Title": "Esther Had Courage",
+    "UndatedReferenceTitle": "Esther Had Courage",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "SeriesBJFSongs"
+}

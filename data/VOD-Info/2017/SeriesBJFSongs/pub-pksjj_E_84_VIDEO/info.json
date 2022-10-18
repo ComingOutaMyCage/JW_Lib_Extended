@@ -1,0 +1,102 @@
+{
+    "guid": "585000160023ee44860f94b2",
+    "languageAgnosticNaturalKey": "pub-pksjj_84_VIDEO",
+    "naturalKey": "pub-pksjj_E_84_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBJFSongs",
+    "description": "",
+    "firstPublished": "2017-01-02T18:08:40.818Z",
+    "duration": 165.654,
+    "durationFormattedHHMM": "2:45",
+    "durationFormattedMinSec": "2m 45s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/5f/pksjj_E_084_r240P.mp4",
+            "checksum": "c1300a79f5c2022c23632ef3cbdd9a1f",
+            "filesize": 2554562,
+            "modifiedDatetime": "2021-06-30T18:56:53.000Z",
+            "bitRate": 120.4771126866843,
+            "duration": 165.654,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.631,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/a0/pksjj_E_084.vtt",
+                "modifiedDatetime": "2021-06-30T18:56:42.000Z",
+                "checksum": "3cee49f9c089df0eb8613159f8b50657"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/dc/pksjj_E_084_r360P.mp4",
+            "checksum": "9a1e7f84c07f2ed965109ef588779697",
+            "filesize": 5146350,
+            "modifiedDatetime": "2021-06-30T18:56:56.000Z",
+            "bitRate": 242.75089282479803,
+            "duration": 165.626,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/a0/pksjj_E_084.vtt",
+                "modifiedDatetime": "2021-06-30T18:56:42.000Z",
+                "checksum": "3cee49f9c089df0eb8613159f8b50657"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/82/pksjj_E_084_r480P.mp4",
+            "checksum": "a63d2f243cc8275220036ef8fa7f0912",
+            "filesize": 9017269,
+            "modifiedDatetime": "2021-06-30T18:57:01.000Z",
+            "bitRate": 425.34030926605726,
+            "duration": 165.626,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/a0/pksjj_E_084.vtt",
+                "modifiedDatetime": "2021-06-30T18:56:42.000Z",
+                "checksum": "3cee49f9c089df0eb8613159f8b50657"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/32/pksjj_E_084_r720P.mp4",
+            "checksum": "5ebfea89ebb8a4f222434ac2e29c21a8",
+            "filesize": 13690149,
+            "modifiedDatetime": "2021-06-30T18:57:03.000Z",
+            "bitRate": 645.75784636772,
+            "duration": 165.626,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/a0/pksjj_E_084.vtt",
+                "modifiedDatetime": "2021-06-30T18:56:42.000Z",
+                "checksum": "3cee49f9c089df0eb8613159f8b50657"
+            }
+        }
+    ],
+    "printReferences": [
+        "pksjj-84.v",
+        "pksjj-84"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/a0/pksjj_E_084.vtt",
+    "Name": "pub-pksjj_E_84_VIDEO",
+    "Title": "Song 084 Reaching Out",
+    "UndatedReferenceTitle": "Song 084 Reaching Out",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2017,
+    "Symbol": "SeriesBJFSongs"
+}

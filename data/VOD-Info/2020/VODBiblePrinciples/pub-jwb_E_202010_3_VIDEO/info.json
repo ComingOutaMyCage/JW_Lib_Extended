@@ -1,0 +1,102 @@
+{
+    "guid": "5edf8e61af341cff13de9ec9",
+    "languageAgnosticNaturalKey": "pub-jwb_202010_3_VIDEO",
+    "naturalKey": "pub-jwb_E_202010_3_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODBiblePrinciples",
+    "description": "",
+    "firstPublished": "2020-10-22T13:42:31.853Z",
+    "duration": 408.576,
+    "durationFormattedHHMM": "6:48",
+    "durationFormattedMinSec": "6m 48s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/6a/jwb_E_202010_03_r240P.mp4",
+            "checksum": "0e5dd5ae005e5bf1ed15e434139b881d",
+            "filesize": 15728500,
+            "modifiedDatetime": "2020-10-19T12:43:52.000Z",
+            "bitRate": 300.7330095839921,
+            "duration": 408.598,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.692,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/4e/jwb_E_202010_03.vtt",
+                "modifiedDatetime": "2020-10-19T12:43:48.000Z",
+                "checksum": "e2c2bf9813c6cc724b6969710b851869"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/d1/jwb_E_202010_03_r360P.mp4",
+            "checksum": "3421dd4a660b81d7747f7089e689e058",
+            "filesize": 29487627,
+            "modifiedDatetime": "2020-10-19T12:43:53.000Z",
+            "bitRate": 563.8414540685209,
+            "duration": 408.576,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/4e/jwb_E_202010_03.vtt",
+                "modifiedDatetime": "2020-10-19T12:43:48.000Z",
+                "checksum": "e2c2bf9813c6cc724b6969710b851869"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/24/jwb_E_202010_03_r480P.mp4",
+            "checksum": "cddaaf399af9a8462874bd40ac7e53df",
+            "filesize": 56941868,
+            "modifiedDatetime": "2020-10-19T12:43:55.000Z",
+            "bitRate": 1088.8019456600484,
+            "duration": 408.576,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/4e/jwb_E_202010_03.vtt",
+                "modifiedDatetime": "2020-10-19T12:43:48.000Z",
+                "checksum": "e2c2bf9813c6cc724b6969710b851869"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/8a/jwb_E_202010_03_r720P.mp4",
+            "checksum": "ee81e51924ff05f4161075ee00db68b0",
+            "filesize": 96860862,
+            "modifiedDatetime": "2020-10-19T12:43:59.000Z",
+            "bitRate": 1852.1045885587992,
+            "duration": 408.576,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/4e/jwb_E_202010_03.vtt",
+                "modifiedDatetime": "2020-10-19T12:43:48.000Z",
+                "checksum": "e2c2bf9813c6cc724b6969710b851869"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202010-3.v",
+        "jwb.202010-3"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/4e/jwb_E_202010_03.vtt",
+    "Name": "pub-jwb_E_202010_3_VIDEO",
+    "Title": "Learn From Them—Peter",
+    "UndatedReferenceTitle": "Learn From Them—Peter",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODBiblePrinciples"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "62d9854c7738170e4e56ac79",
+    "languageAgnosticNaturalKey": "pub-jwbcov22_1_VIDEO",
+    "naturalKey": "pub-jwbcov22_E_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "2022Convention",
+    "description": "",
+    "firstPublished": "2022-09-13T00:45:18.739Z",
+    "duration": 76.011,
+    "durationFormattedHHMM": "1:16",
+    "durationFormattedMinSec": "1m 16s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/ab/jwbcov22_E_01_r240P.mp4",
+            "checksum": "8d63ca2d70d6e4e8850552d557936551",
+            "filesize": 2066421,
+            "modifiedDatetime": "2022-09-11T20:56:32.000Z",
+            "bitRate": 212.38918133559616,
+            "duration": 76.011,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/9e/jwbcov22_E_01.vtt",
+                "modifiedDatetime": "2022-09-11T20:56:38.000Z",
+                "checksum": "4085f5c490609789a710afaa8e7b5ac5"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/f0/jwbcov22_E_01_r360P.mp4",
+            "checksum": "8b3d8119150b49f0f53e5f28d1df3640",
+            "filesize": 3415972,
+            "modifiedDatetime": "2022-09-11T20:56:27.000Z",
+            "bitRate": 351.09762073910355,
+            "duration": 76.011,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/9e/jwbcov22_E_01.vtt",
+                "modifiedDatetime": "2022-09-11T20:56:38.000Z",
+                "checksum": "4085f5c490609789a710afaa8e7b5ac5"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/51/jwbcov22_E_01_r480P.mp4",
+            "checksum": "da99229ab5b7e1a156b279843510a3e5",
+            "filesize": 5586793,
+            "modifiedDatetime": "2022-09-11T20:56:25.000Z",
+            "bitRate": 574.2171568917657,
+            "duration": 76.011,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/9e/jwbcov22_E_01.vtt",
+                "modifiedDatetime": "2022-09-11T20:56:38.000Z",
+                "checksum": "4085f5c490609789a710afaa8e7b5ac5"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/c5/jwbcov22_E_01_r720P.mp4",
+            "checksum": "3c351f8af8003aa2bd27234e848b5b19",
+            "filesize": 8658746,
+            "modifiedDatetime": "2022-09-11T20:56:23.000Z",
+            "bitRate": 889.9561001039324,
+            "duration": 76.011,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/9e/jwbcov22_E_01.vtt",
+                "modifiedDatetime": "2022-09-11T20:56:38.000Z",
+                "checksum": "4085f5c490609789a710afaa8e7b5ac5"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwbcov22-1.v",
+        "jwbcov22-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/9e/jwbcov22_E_01.vtt",
+    "Name": "pub-jwbcov22_E_1_VIDEO",
+    "Title": "Excerpts of the 2022 Regional Convention",
+    "UndatedReferenceTitle": "Excerpts of the 2022 Regional Convention",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "2022Convention"
+}

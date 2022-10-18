@@ -1,0 +1,102 @@
+{
+    "guid": "57f7f0ef453f600819cf3258",
+    "languageAgnosticNaturalKey": "docid-502016982_1_VIDEO",
+    "naturalKey": "docid-502016982_E_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODMinistryMethods",
+    "description": "",
+    "firstPublished": "2016-10-10T13:02:18.568Z",
+    "duration": 59.142,
+    "durationFormattedHHMM": "0:59",
+    "durationFormattedMinSec": "0m 59s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/6b/502016982_E_cnt_1_r240P.mp4",
+            "checksum": "82e7bee310eb5aba7d4dcf9fd2fd25d8",
+            "filesize": 2918643,
+            "modifiedDatetime": "2020-10-31T23:17:42.000Z",
+            "bitRate": 385.54493316932127,
+            "duration": 59.142,
+            "frameHeight": 180,
+            "frameWidth": 320,
+            "label": "240p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/cc/502016982_E_cnt_1_r240P.vtt",
+                "modifiedDatetime": "2016-12-02T17:05:38.000Z",
+                "checksum": "7c49ccc2cd6ac8217cebf5e467a37a2e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/42/502016982_E_cnt_1_r360P.mp4",
+            "checksum": "837d9061556ba1ee6e40c1e1e1c18933",
+            "filesize": 6314632,
+            "modifiedDatetime": "2016-12-02T17:05:39.000Z",
+            "bitRate": 834.7387901861252,
+            "duration": 59.1,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/95/502016982_E_cnt_1_r360P.vtt",
+                "modifiedDatetime": "2016-12-02T17:05:42.000Z",
+                "checksum": "7c49ccc2cd6ac8217cebf5e467a37a2e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/b7/502016982_E_cnt_1_r480P.mp4",
+            "checksum": "48b661543ebddd2949c7048033f6660c",
+            "filesize": 8563925,
+            "modifiedDatetime": "2016-12-02T17:05:43.000Z",
+            "bitRate": 1132.0755340524533,
+            "duration": 59.1,
+            "frameHeight": 480,
+            "frameWidth": 854,
+            "label": "480p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/d2/502016982_E_cnt_1_r480P.vtt",
+                "modifiedDatetime": "2016-12-02T17:05:45.000Z",
+                "checksum": "7c49ccc2cd6ac8217cebf5e467a37a2e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/7d/502016982_E_cnt_1_r720P.mp4",
+            "checksum": "1e48e72ba626b901d77495df413ab44d",
+            "filesize": 12266365,
+            "modifiedDatetime": "2016-12-02T17:05:47.000Z",
+            "bitRate": 1621.5055255922166,
+            "duration": 59.1,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/23/502016982_E_cnt_1_r720P.vtt",
+                "modifiedDatetime": "2016-12-02T17:05:49.000Z",
+                "checksum": "7c49ccc2cd6ac8217cebf5e467a37a2e"
+            }
+        }
+    ],
+    "printReferences": [
+        "502016982-1.v",
+        "502016982-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/content_assets/cc/502016982_E_cnt_1_r240P.vtt",
+    "Name": "docid-502016982_E_1_VIDEO",
+    "Title": "Excerpt: Interview With Bollate Prison Official",
+    "UndatedReferenceTitle": "Excerpt: Interview With Bollate Prison Official",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2016,
+    "Symbol": "VODMinistryMethods"
+}

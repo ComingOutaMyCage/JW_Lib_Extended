@@ -1,0 +1,102 @@
+{
+    "guid": "5d3b1c7f48fd57354cf389a5",
+    "languageAgnosticNaturalKey": "pub-jwb_201909_11_VIDEO",
+    "naturalKey": "pub-jwb_E_201909_11_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODActivitiesTranslation",
+    "description": "",
+    "firstPublished": "2019-09-27T15:46:36.018Z",
+    "duration": 856.427,
+    "durationFormattedHHMM": "14:16",
+    "durationFormattedMinSec": "14m 16s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/d4/jwb_E_201909_11_r240P.mp4",
+            "checksum": "1504ac41415cde4f64f21eb14b60ea6e",
+            "filesize": 13647834,
+            "modifiedDatetime": "2020-11-21T06:37:30.000Z",
+            "bitRate": 124.49829714032836,
+            "duration": 856.427,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.674,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/bb/jwb_E_201909_11.vtt",
+                "modifiedDatetime": "2019-09-27T15:03:19.000Z",
+                "checksum": "716d590acf2c48f60f6827aba3477cb3"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/07/jwb_E_201909_11_r360P.mp4",
+            "checksum": "9ec80c2dea5732aaba07a2b1f7675902",
+            "filesize": 26601691,
+            "modifiedDatetime": "2019-09-27T15:03:25.000Z",
+            "bitRate": 242.67392995262722,
+            "duration": 856.399,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/bb/jwb_E_201909_11.vtt",
+                "modifiedDatetime": "2019-09-27T15:03:19.000Z",
+                "checksum": "716d590acf2c48f60f6827aba3477cb3"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/30/jwb_E_201909_11_r480P.mp4",
+            "checksum": "c69442eac2a7a124193e7522af00280b",
+            "filesize": 45629504,
+            "modifiedDatetime": "2019-09-27T15:03:29.000Z",
+            "bitRate": 416.2551567668809,
+            "duration": 856.399,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/bb/jwb_E_201909_11.vtt",
+                "modifiedDatetime": "2019-09-27T15:03:19.000Z",
+                "checksum": "716d590acf2c48f60f6827aba3477cb3"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/81/jwb_E_201909_11_r720P.mp4",
+            "checksum": "3f7d4f5080f84f2c0544cecb4539de81",
+            "filesize": 73267272,
+            "modifiedDatetime": "2019-09-27T15:03:34.000Z",
+            "bitRate": 668.3806993002094,
+            "duration": 856.399,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/bb/jwb_E_201909_11.vtt",
+                "modifiedDatetime": "2019-09-27T15:03:19.000Z",
+                "checksum": "716d590acf2c48f60f6827aba3477cb3"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201909-11.v",
+        "jwb.201909-11"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/bb/jwb_E_201909_11.vtt",
+    "Name": "pub-jwb_E_201909_11_VIDEO",
+    "Title": "Translation Issues and Solutions",
+    "UndatedReferenceTitle": "Translation Issues and Solutions",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODActivitiesTranslation"
+}

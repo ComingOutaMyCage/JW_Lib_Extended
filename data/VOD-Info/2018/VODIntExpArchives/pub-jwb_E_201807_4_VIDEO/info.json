@@ -1,0 +1,102 @@
+{
+    "guid": "5b27ba0e329d2b18632de445",
+    "languageAgnosticNaturalKey": "pub-jwb_201807_4_VIDEO",
+    "naturalKey": "pub-jwb_E_201807_4_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpArchives",
+    "description": "",
+    "firstPublished": "2018-07-16T23:55:48.582Z",
+    "duration": 418.859,
+    "durationFormattedHHMM": "6:58",
+    "durationFormattedMinSec": "6m 58s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/a5/jwb_E_201807_04_r240P.mp4",
+            "checksum": "97f3ca5b218a50bbf427eaa424181508",
+            "filesize": 13088514,
+            "modifiedDatetime": "2020-11-14T01:30:49.000Z",
+            "bitRate": 244.12514861803137,
+            "duration": 418.859,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.47,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/4e/jwb_E_201807_04_r240P.vtt",
+                "modifiedDatetime": "2018-07-16T23:43:43.000Z",
+                "checksum": "049e387398437cb8d6e52e6b079bc9a3"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/60/jwb_E_201807_04_r360P.mp4",
+            "checksum": "fc515258032214381e8c0a53860da0e5",
+            "filesize": 22032000,
+            "modifiedDatetime": "2018-07-16T23:43:44.000Z",
+            "bitRate": 410.9682256200636,
+            "duration": 418.828,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/2c/jwb_E_201807_04_r360P.vtt",
+                "modifiedDatetime": "2018-07-16T23:43:46.000Z",
+                "checksum": "049e387398437cb8d6e52e6b079bc9a3"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/7c/jwb_E_201807_04_r480P.mp4",
+            "checksum": "96c9d7b41cedc998c84356953e8cfaa5",
+            "filesize": 41729988,
+            "modifiedDatetime": "2018-07-16T23:43:46.000Z",
+            "bitRate": 778.3995607982275,
+            "duration": 418.828,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/53/jwb_E_201807_04_r480P.vtt",
+                "modifiedDatetime": "2018-07-16T23:43:49.000Z",
+                "checksum": "049e387398437cb8d6e52e6b079bc9a3"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/13/jwb_E_201807_04_r720P.mp4",
+            "checksum": "565056559d6fac4217c3522518ae52d8",
+            "filesize": 72169842,
+            "modifiedDatetime": "2018-07-16T23:43:50.000Z",
+            "bitRate": 1346.2015209704223,
+            "duration": 418.828,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/09/jwb_E_201807_04_r720P.vtt",
+                "modifiedDatetime": "2018-07-16T23:43:53.000Z",
+                "checksum": "049e387398437cb8d6e52e6b079bc9a3"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201807-4.v",
+        "jwb.201807-4"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/4e/jwb_E_201807_04_r240P.vtt",
+    "Name": "pub-jwb_E_201807_4_VIDEO",
+    "Title": "Allan Boyle: Deep Study for a Clearer Picture",
+    "UndatedReferenceTitle": "Allan Boyle: Deep Study for a Clearer Picture",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "VODIntExpArchives"
+}

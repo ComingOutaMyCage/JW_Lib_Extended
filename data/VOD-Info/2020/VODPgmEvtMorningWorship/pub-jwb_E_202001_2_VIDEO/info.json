@@ -1,0 +1,102 @@
+{
+    "guid": "5e065f58aff3a231483bc4dc",
+    "languageAgnosticNaturalKey": "pub-jwb_202001_2_VIDEO",
+    "naturalKey": "pub-jwb_E_202001_2_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2020-01-13T16:13:03.521Z",
+    "duration": 556.864,
+    "durationFormattedHHMM": "9:16",
+    "durationFormattedMinSec": "9m 16s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/c0/jwb_E_202001_02_r240P.mp4",
+            "checksum": "353da9eeb508388d92d51abd7146a606",
+            "filesize": 8376348,
+            "modifiedDatetime": "2020-10-18T02:57:44.000Z",
+            "bitRate": 117.51562095951614,
+            "duration": 556.864,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.47,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f0/jwb_E_202001_02.vtt",
+                "modifiedDatetime": "2020-01-13T14:41:09.000Z",
+                "checksum": "9671940b14c2c9ba1bd95e35226cdc94"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/47/jwb_E_202001_02_r360P.mp4",
+            "checksum": "7cb415dab258eeb886443c3e3162c88a",
+            "filesize": 16961935,
+            "modifiedDatetime": "2020-01-13T14:40:54.000Z",
+            "bitRate": 237.97999972612976,
+            "duration": 556.833,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f0/jwb_E_202001_02.vtt",
+                "modifiedDatetime": "2020-01-13T14:41:09.000Z",
+                "checksum": "9671940b14c2c9ba1bd95e35226cdc94"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/da/jwb_E_202001_02_r480P.mp4",
+            "checksum": "22bd47b11a9632e1c75fa9e761c3ad79",
+            "filesize": 29351258,
+            "modifiedDatetime": "2020-01-13T14:40:59.000Z",
+            "bitRate": 411.8051608381687,
+            "duration": 556.833,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f0/jwb_E_202001_02.vtt",
+                "modifiedDatetime": "2020-01-13T14:41:09.000Z",
+                "checksum": "9671940b14c2c9ba1bd95e35226cdc94"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/f1/jwb_E_202001_02_r720P.mp4",
+            "checksum": "85d5b20126c9e7c95dd747b46c548cc5",
+            "filesize": 54913616,
+            "modifiedDatetime": "2020-01-13T14:41:04.000Z",
+            "bitRate": 770.4511496265487,
+            "duration": 556.833,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f0/jwb_E_202001_02.vtt",
+                "modifiedDatetime": "2020-01-13T14:41:09.000Z",
+                "checksum": "9671940b14c2c9ba1bd95e35226cdc94"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202001-2.v",
+        "jwb.202001-2"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/f0/jwb_E_202001_02.vtt",
+    "Name": "pub-jwb_E_202001_2_VIDEO",
+    "Title": "David H. Splane: Hope in the Resurrection (Heb. 11:13)",
+    "UndatedReferenceTitle": "David H. Splane: Hope in the Resurrection (Heb. 11:13)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

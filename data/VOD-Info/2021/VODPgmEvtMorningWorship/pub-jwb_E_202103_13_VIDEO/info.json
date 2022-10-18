@@ -1,0 +1,102 @@
+{
+    "guid": "601c03dcaa8dbd024d1e2c90",
+    "languageAgnosticNaturalKey": "pub-jwb_202103_13_VIDEO",
+    "naturalKey": "pub-jwb_E_202103_13_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2021-03-19T14:09:55.277Z",
+    "duration": 1570.411,
+    "durationFormattedHHMM": "26:10",
+    "durationFormattedMinSec": "26m 10s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/b2/jwb_E_202103_13_r240P.mp4",
+            "checksum": "560f8de8078a249f852873d123766422",
+            "filesize": 27300766,
+            "modifiedDatetime": "2021-03-25T17:44:44.000Z",
+            "bitRate": 135.81618721150068,
+            "duration": 1570.411,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.354,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/e5/jwb_E_202103_13.vtt",
+                "modifiedDatetime": "2021-03-25T17:44:20.000Z",
+                "checksum": "fe28a146095ca085ce2ff99adea1c0bb"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/14/jwb_E_202103_13_r360P.mp4",
+            "checksum": "95a2042bccf1efac91db1c3598a57039",
+            "filesize": 58762716,
+            "modifiedDatetime": "2021-03-25T17:44:29.000Z",
+            "bitRate": 292.33944082925206,
+            "duration": 1570.379,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/e5/jwb_E_202103_13.vtt",
+                "modifiedDatetime": "2021-03-25T17:44:20.000Z",
+                "checksum": "fe28a146095ca085ce2ff99adea1c0bb"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/cb/jwb_E_202103_13_r480P.mp4",
+            "checksum": "b0c10040823fc29c31473846f9af3280",
+            "filesize": 106151171,
+            "modifiedDatetime": "2021-03-25T17:44:34.000Z",
+            "bitRate": 528.0929147915886,
+            "duration": 1570.379,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/e5/jwb_E_202103_13.vtt",
+                "modifiedDatetime": "2021-03-25T17:44:20.000Z",
+                "checksum": "fe28a146095ca085ce2ff99adea1c0bb"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/a0/jwb_E_202103_13_r720P.mp4",
+            "checksum": "e523436c8c0e5a6bc723bb623869866d",
+            "filesize": 178087984,
+            "modifiedDatetime": "2021-03-25T17:44:39.000Z",
+            "bitRate": 885.9723512604282,
+            "duration": 1570.379,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/e5/jwb_E_202103_13.vtt",
+                "modifiedDatetime": "2021-03-25T17:44:20.000Z",
+                "checksum": "fe28a146095ca085ce2ff99adea1c0bb"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202103-13.v",
+        "jwb.202103-13"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/e5/jwb_E_202103_13.vtt",
+    "Name": "pub-jwb_E_202103_13_VIDEO",
+    "Title": "Memorial Morning Worship—M. Stephen Lett: “The Spirit Itself Bears Witness With Our Spirit” (Rom. 8:16)",
+    "UndatedReferenceTitle": "Memorial Morning Worship—M. Stephen Lett: “The Spirit Itself Bears Witness With Our Spirit” (Rom. 8:16)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "617953d1e4dbeaf5fabdbd84",
+    "languageAgnosticNaturalKey": "pub-mwbv_202203_5_VIDEO",
+    "naturalKey": "pub-mwbv_E_202203_5_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODMinistryImproveSkills",
+    "description": "",
+    "firstPublished": "2022-03-07T15:38:33.144Z",
+    "duration": 141.888,
+    "durationFormattedHHMM": "2:21",
+    "durationFormattedMinSec": "2m 21s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/71/mwbv_E_202203_05_r240P.mp4",
+            "checksum": "5dfe341e5384075ed9908023ae8ff2a1",
+            "filesize": 3720454,
+            "modifiedDatetime": "2022-03-07T04:39:40.000Z",
+            "bitRate": 204.85204439417004,
+            "duration": 141.888,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.506,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/16/mwbv_E_202203_05.vtt",
+                "modifiedDatetime": "2022-03-07T04:39:32.000Z",
+                "checksum": "022e99b8f3a959acf7718dd0164d03a9"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/51/mwbv_E_202203_05_r360P.mp4",
+            "checksum": "d50c71cbcd6ffd3ea8e4f6cd8bb28caf",
+            "filesize": 6454633,
+            "modifiedDatetime": "2022-03-07T04:39:37.000Z",
+            "bitRate": 355.49146860085585,
+            "duration": 141.851,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/16/mwbv_E_202203_05.vtt",
+                "modifiedDatetime": "2022-03-07T04:39:32.000Z",
+                "checksum": "022e99b8f3a959acf7718dd0164d03a9"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/a1/mwbv_E_202203_05_r480P.mp4",
+            "checksum": "9ab8318ed31dbefbcad40ffd3d81fb19",
+            "filesize": 11512421,
+            "modifiedDatetime": "2022-03-07T04:39:35.000Z",
+            "bitRate": 634.0511456563577,
+            "duration": 141.851,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/16/mwbv_E_202203_05.vtt",
+                "modifiedDatetime": "2022-03-07T04:39:32.000Z",
+                "checksum": "022e99b8f3a959acf7718dd0164d03a9"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/8a/mwbv_E_202203_05_r720P.mp4",
+            "checksum": "6d1aaccb43c1be48cc9e46e1afb92a54",
+            "filesize": 18546834,
+            "modifiedDatetime": "2022-03-07T04:39:34.000Z",
+            "bitRate": 1021.4742273582845,
+            "duration": 141.851,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/16/mwbv_E_202203_05.vtt",
+                "modifiedDatetime": "2022-03-07T04:39:32.000Z",
+                "checksum": "022e99b8f3a959acf7718dd0164d03a9"
+            }
+        }
+    ],
+    "printReferences": [
+        "mwbv.202203-5.v",
+        "mwbv.202203-5"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/16/mwbv_E_202203_05.vtt",
+    "Name": "pub-mwbv_E_202203_5_VIDEO",
+    "Title": "Help Your Bible Students to Overcome Unclean Habits",
+    "UndatedReferenceTitle": "Help Your Bible Students to Overcome Unclean Habits",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODMinistryImproveSkills"
+}

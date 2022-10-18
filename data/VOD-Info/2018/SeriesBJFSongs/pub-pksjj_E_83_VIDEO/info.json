@@ -1,0 +1,102 @@
+{
+    "guid": "5a8ddf6b8e355ea6ca66c38b",
+    "languageAgnosticNaturalKey": "pub-pksjj_83_VIDEO",
+    "naturalKey": "pub-pksjj_E_83_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBJFSongs",
+    "description": "",
+    "firstPublished": "2018-03-05T17:38:35.298Z",
+    "duration": 129.451,
+    "durationFormattedHHMM": "2:09",
+    "durationFormattedMinSec": "2m 9s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/18/pksjj_E_083_r240P.mp4",
+            "checksum": "fbf80ea418dfba2b29088528819b4565",
+            "filesize": 2841552,
+            "modifiedDatetime": "2021-05-14T15:36:02.000Z",
+            "bitRate": 171.49056399718813,
+            "duration": 129.451,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/95/pksjj_E_083.vtt",
+                "modifiedDatetime": "2021-05-14T15:35:54.000Z",
+                "checksum": "6c13e3443e316845f1f796a8f3591861"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/73/pksjj_E_083_r360P.mp4",
+            "checksum": "c344bb7e57dec321f5a8de47f843481d",
+            "filesize": 5144240,
+            "modifiedDatetime": "2021-05-14T15:36:04.000Z",
+            "bitRate": 310.53929901559286,
+            "duration": 129.418,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/95/pksjj_E_083.vtt",
+                "modifiedDatetime": "2021-05-14T15:35:54.000Z",
+                "checksum": "6c13e3443e316845f1f796a8f3591861"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/47/pksjj_E_083_r480P.mp4",
+            "checksum": "66dd40062eed714e3574e530104441a7",
+            "filesize": 8803200,
+            "modifiedDatetime": "2021-05-14T15:36:06.000Z",
+            "bitRate": 531.4175771531008,
+            "duration": 129.418,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/95/pksjj_E_083.vtt",
+                "modifiedDatetime": "2021-05-14T15:35:54.000Z",
+                "checksum": "6c13e3443e316845f1f796a8f3591861"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/fc/pksjj_E_083_r720P.mp4",
+            "checksum": "3f8fc462e4539c152c5a02985eef8e63",
+            "filesize": 13838519,
+            "modifiedDatetime": "2021-05-14T15:36:11.000Z",
+            "bitRate": 835.381706466643,
+            "duration": 129.418,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/95/pksjj_E_083.vtt",
+                "modifiedDatetime": "2021-05-14T15:35:54.000Z",
+                "checksum": "6c13e3443e316845f1f796a8f3591861"
+            }
+        }
+    ],
+    "printReferences": [
+        "pksjj-83.v",
+        "pksjj-83"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/95/pksjj_E_083.vtt",
+    "Name": "pub-pksjj_E_83_VIDEO",
+    "Title": "Song 083 \"From House to House\"",
+    "UndatedReferenceTitle": "Song 083 \"From House to House\"",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "SeriesBJFSongs"
+}

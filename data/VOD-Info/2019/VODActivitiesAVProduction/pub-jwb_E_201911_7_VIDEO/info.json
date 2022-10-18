@@ -1,0 +1,102 @@
+{
+    "guid": "5d715a1dad989978fbbca3c1",
+    "languageAgnosticNaturalKey": "pub-jwb_201911_7_VIDEO",
+    "naturalKey": "pub-jwb_E_201911_7_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODActivitiesAVProduction",
+    "description": "",
+    "firstPublished": "2019-11-18T14:09:29.132Z",
+    "duration": 308.459,
+    "durationFormattedHHMM": "5:08",
+    "durationFormattedMinSec": "5m 8s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/20/jwb_E_201911_07_r240P.mp4",
+            "checksum": "60772423b863a66adb63d732aed5a4c3",
+            "filesize": 8882115,
+            "modifiedDatetime": "2020-11-04T21:07:01.000Z",
+            "bitRate": 224.96190235169018,
+            "duration": 308.459,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.622,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/55/jwb_E_201911_07.vtt",
+                "modifiedDatetime": "2019-11-18T13:10:10.000Z",
+                "checksum": "56ef6d402e52f120c6da5480cd0fe454"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/b2/jwb_E_201911_07_r360P.mp4",
+            "checksum": "a514c5ba7739924e88e07608665310e1",
+            "filesize": 16428973,
+            "modifiedDatetime": "2019-11-18T13:09:55.000Z",
+            "bitRate": 416.1374408303208,
+            "duration": 308.435,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/55/jwb_E_201911_07.vtt",
+                "modifiedDatetime": "2019-11-18T13:10:10.000Z",
+                "checksum": "56ef6d402e52f120c6da5480cd0fe454"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/8e/jwb_E_201911_07_r480P.mp4",
+            "checksum": "5be72b8ef4c97691da3c795a903d135f",
+            "filesize": 29533941,
+            "modifiedDatetime": "2019-11-18T13:10:02.000Z",
+            "bitRate": 748.0795437045082,
+            "duration": 308.435,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/55/jwb_E_201911_07.vtt",
+                "modifiedDatetime": "2019-11-18T13:10:10.000Z",
+                "checksum": "56ef6d402e52f120c6da5480cd0fe454"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/39/jwb_E_201911_07_r720P.mp4",
+            "checksum": "667408ac815b4baa4111ec8d8fe32a65",
+            "filesize": 47746027,
+            "modifiedDatetime": "2019-11-18T13:10:06.000Z",
+            "bitRate": 1209.3823202214405,
+            "duration": 308.435,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/55/jwb_E_201911_07.vtt",
+                "modifiedDatetime": "2019-11-18T13:10:10.000Z",
+                "checksum": "56ef6d402e52f120c6da5480cd0fe454"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201911-7.v",
+        "jwb.201911-7"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/55/jwb_E_201911_07.vtt",
+    "Name": "pub-jwb_E_201911_7_VIDEO",
+    "Title": "Video Production—Initial Concept to Final Product",
+    "UndatedReferenceTitle": "Video Production—Initial Concept to Final Product",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODActivitiesAVProduction"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "623dd160dedf1bc789ed7dd7",
+    "languageAgnosticNaturalKey": "pub-ebtv_103_VIDEO",
+    "naturalKey": "pub-ebtv_E_103_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBibleTeachings",
+    "description": "",
+    "firstPublished": "2022-08-15T14:34:43.931Z",
+    "duration": 215.659,
+    "durationFormattedHHMM": "3:35",
+    "durationFormattedMinSec": "3m 35s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/21/ebtv_E_103_r240P.mp4",
+            "checksum": "98f88f10e5f6698ded2f323062da7366",
+            "filesize": 6075782,
+            "modifiedDatetime": "2022-08-15T02:29:57.000Z",
+            "bitRate": 220.10232299602615,
+            "duration": 215.659,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/36/ebtv_E_103.vtt",
+                "modifiedDatetime": "2022-08-15T02:29:46.000Z",
+                "checksum": "1266f5ca42edb371ccddf74717d137ab"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/48/ebtv_E_103_r360P.mp4",
+            "checksum": "2e2d207b2cf6c22f9ec23b7dac9b983e",
+            "filesize": 11489189,
+            "modifiedDatetime": "2022-08-15T02:29:54.000Z",
+            "bitRate": 416.24986812389284,
+            "duration": 215.638,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/36/ebtv_E_103.vtt",
+                "modifiedDatetime": "2022-08-15T02:29:46.000Z",
+                "checksum": "1266f5ca42edb371ccddf74717d137ab"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/89/ebtv_E_103_r480P.mp4",
+            "checksum": "0f907fe9143ec7ff5eba08e4145bb11a",
+            "filesize": 22556096,
+            "modifiedDatetime": "2022-08-15T02:29:52.000Z",
+            "bitRate": 817.2005861675585,
+            "duration": 215.638,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/36/ebtv_E_103.vtt",
+                "modifiedDatetime": "2022-08-15T02:29:46.000Z",
+                "checksum": "1266f5ca42edb371ccddf74717d137ab"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/38/ebtv_E_103_r720P.mp4",
+            "checksum": "a587d0f7f33559836bc0d968e661dc19",
+            "filesize": 41917879,
+            "modifiedDatetime": "2022-08-15T02:29:48.000Z",
+            "bitRate": 1518.672171358944,
+            "duration": 215.638,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/36/ebtv_E_103.vtt",
+                "modifiedDatetime": "2022-08-15T02:29:46.000Z",
+                "checksum": "1266f5ca42edb371ccddf74717d137ab"
+            }
+        }
+    ],
+    "printReferences": [
+        "ebtv-103.v",
+        "ebtv-103"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/36/ebtv_E_103.vtt",
+    "Name": "pub-ebtv_E_103_VIDEO",
+    "Title": "Is Friendship With God Possible?",
+    "UndatedReferenceTitle": "Is Friendship With God Possible?",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "SeriesBibleTeachings"
+}

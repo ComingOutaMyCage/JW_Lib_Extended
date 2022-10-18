@@ -1,0 +1,102 @@
+{
+    "guid": "5fd8e375c0bf482e1bf286b5",
+    "languageAgnosticNaturalKey": "pub-jwb_202101_13_VIDEO",
+    "naturalKey": "pub-jwb_E_202101_13_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2021-01-25T15:55:43.507Z",
+    "duration": 541.952,
+    "durationFormattedHHMM": "9:01",
+    "durationFormattedMinSec": "9m 1s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/b8/jwb_E_202101_13_r240P.mp4",
+            "checksum": "f14a8cc9eedf63a72bd5b406047b37ad",
+            "filesize": 8165064,
+            "modifiedDatetime": "2021-01-25T09:18:54.000Z",
+            "bitRate": 117.70334365405054,
+            "duration": 541.952,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/01/jwb_E_202101_13.vtt",
+                "modifiedDatetime": "2021-01-25T09:18:38.000Z",
+                "checksum": "6ea969251a4ca0626d704955cc7acaf9"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/6c/jwb_E_202101_13_r360P.mp4",
+            "checksum": "06df07aeec9b79cd8ef9468538814c55",
+            "filesize": 16209929,
+            "modifiedDatetime": "2021-01-25T09:18:49.000Z",
+            "bitRate": 233.68862136430235,
+            "duration": 541.918,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/01/jwb_E_202101_13.vtt",
+                "modifiedDatetime": "2021-01-25T09:18:38.000Z",
+                "checksum": "6ea969251a4ca0626d704955cc7acaf9"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/ae/jwb_E_202101_13_r480P.mp4",
+            "checksum": "eca21125d2875a4beb3fd63d705372ab",
+            "filesize": 27485003,
+            "modifiedDatetime": "2021-01-25T09:18:45.000Z",
+            "bitRate": 396.23445971069424,
+            "duration": 541.918,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/01/jwb_E_202101_13.vtt",
+                "modifiedDatetime": "2021-01-25T09:18:38.000Z",
+                "checksum": "6ea969251a4ca0626d704955cc7acaf9"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/69/jwb_E_202101_13_r720P.mp4",
+            "checksum": "2544818a12c6f84fb3c12bc92e2b20a2",
+            "filesize": 45632954,
+            "modifiedDatetime": "2021-01-25T09:18:42.000Z",
+            "bitRate": 657.8623576352879,
+            "duration": 541.918,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/01/jwb_E_202101_13.vtt",
+                "modifiedDatetime": "2021-01-25T09:18:38.000Z",
+                "checksum": "6ea969251a4ca0626d704955cc7acaf9"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202101-13.v",
+        "jwb.202101-13"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/01/jwb_E_202101_13.vtt",
+    "Name": "pub-jwb_E_202101_13_VIDEO",
+    "Title": "James Mantz: “Do Not Be Quick to Take Offense” (Eccl. 7:9)",
+    "UndatedReferenceTitle": "James Mantz: “Do Not Be Quick to Take Offense” (Eccl. 7:9)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "5e29bb13faacdecc134b9032",
+    "languageAgnosticNaturalKey": "pub-jwb_202003_2_VIDEO",
+    "naturalKey": "pub-jwb_E_202003_2_VIDEO",
+    "type": "video",
+    "primaryCategory": "StudioTalks",
+    "description": "",
+    "firstPublished": "2020-03-16T21:37:33.418Z",
+    "duration": 1047.68,
+    "durationFormattedHHMM": "17:27",
+    "durationFormattedMinSec": "17m 27s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/6d/jwb_E_202003_02_r240P.mp4",
+            "checksum": "329cf824d8df8f680d83a1eb6c68d33f",
+            "filesize": 20355784,
+            "modifiedDatetime": "2020-10-18T03:00:06.000Z",
+            "bitRate": 151.79211448152105,
+            "duration": 1047.68,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.615,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/1b/jwb_E_202003_02.vtt",
+                "modifiedDatetime": "2020-03-16T20:07:19.000Z",
+                "checksum": "b667e6e6688e90beb08fffbf437d2714"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/20/jwb_E_202003_02_r360P.mp4",
+            "checksum": "e5ee6400847604bf9e8aa2bf00fbca19",
+            "filesize": 38591885,
+            "modifiedDatetime": "2020-03-16T20:07:06.000Z",
+            "bitRate": 287.78444600374553,
+            "duration": 1047.656,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/1b/jwb_E_202003_02.vtt",
+                "modifiedDatetime": "2020-03-16T20:07:19.000Z",
+                "checksum": "b667e6e6688e90beb08fffbf437d2714"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/32/jwb_E_202003_02_r480P.mp4",
+            "checksum": "58319e373d1f32ce818e76c9d6546003",
+            "filesize": 67257092,
+            "modifiedDatetime": "2020-03-16T20:07:10.000Z",
+            "bitRate": 501.5444298987454,
+            "duration": 1047.656,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/1b/jwb_E_202003_02.vtt",
+                "modifiedDatetime": "2020-03-16T20:07:19.000Z",
+                "checksum": "b667e6e6688e90beb08fffbf437d2714"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/68/jwb_E_202003_02_r720P.mp4",
+            "checksum": "c6d1fb2cd6bcdddadf2a651570e2b8ce",
+            "filesize": 107109327,
+            "modifiedDatetime": "2020-03-16T20:07:14.000Z",
+            "bitRate": 798.7274612921608,
+            "duration": 1047.656,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/1b/jwb_E_202003_02.vtt",
+                "modifiedDatetime": "2020-03-16T20:07:19.000Z",
+                "checksum": "b667e6e6688e90beb08fffbf437d2714"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202003-2.v",
+        "jwb.202003-2"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/1b/jwb_E_202003_02.vtt",
+    "Name": "pub-jwb_E_202003_2_VIDEO",
+    "Title": "Mark Sanderson: “Make Disciples . . . , Baptizing Them”",
+    "UndatedReferenceTitle": "Mark Sanderson: “Make Disciples . . . , Baptizing Them”",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "StudioTalks"
+}

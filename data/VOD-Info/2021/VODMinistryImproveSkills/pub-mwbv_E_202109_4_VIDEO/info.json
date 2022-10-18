@@ -1,0 +1,102 @@
+{
+    "guid": "60fb19bc23708c1b9831995e",
+    "languageAgnosticNaturalKey": "pub-mwbv_202109_4_VIDEO",
+    "naturalKey": "pub-mwbv_E_202109_4_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODMinistryImproveSkills",
+    "description": "",
+    "firstPublished": "2021-08-30T15:39:01.306Z",
+    "duration": 158.571,
+    "durationFormattedHHMM": "2:38",
+    "durationFormattedMinSec": "2m 38s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/c8/mwbv_E_202109_04_r240P.mp4",
+            "checksum": "4ad43e5231e2e35bff3812290140b592",
+            "filesize": 3537110,
+            "modifiedDatetime": "2021-08-30T06:13:02.000Z",
+            "bitRate": 174.2668702032528,
+            "duration": 158.571,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.692,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/a4/mwbv_E_202109_04.vtt",
+                "modifiedDatetime": "2021-08-30T06:12:49.000Z",
+                "checksum": "68a93fa90e8d2bc000e7a9fb1ffff80f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/0d/mwbv_E_202109_04_r360P.mp4",
+            "checksum": "40a7e3cb364a95d095a8cbfafb2ef45a",
+            "filesize": 6366888,
+            "modifiedDatetime": "2021-08-30T06:12:57.000Z",
+            "bitRate": 313.75603179108714,
+            "duration": 158.535,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/a4/mwbv_E_202109_04.vtt",
+                "modifiedDatetime": "2021-08-30T06:12:49.000Z",
+                "checksum": "68a93fa90e8d2bc000e7a9fb1ffff80f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/00/mwbv_E_202109_04_r480P.mp4",
+            "checksum": "6b9c29be5eb303f7f766a96559f8622f",
+            "filesize": 11132001,
+            "modifiedDatetime": "2021-08-30T06:12:54.000Z",
+            "bitRate": 548.577650439966,
+            "duration": 158.535,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/a4/mwbv_E_202109_04.vtt",
+                "modifiedDatetime": "2021-08-30T06:12:49.000Z",
+                "checksum": "68a93fa90e8d2bc000e7a9fb1ffff80f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/04/mwbv_E_202109_04_r720P.mp4",
+            "checksum": "2cca626afd0516e3f6ebfbc743f2d146",
+            "filesize": 17924864,
+            "modifiedDatetime": "2021-08-30T06:12:51.000Z",
+            "bitRate": 883.3254486391018,
+            "duration": 158.535,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/a4/mwbv_E_202109_04.vtt",
+                "modifiedDatetime": "2021-08-30T06:12:49.000Z",
+                "checksum": "68a93fa90e8d2bc000e7a9fb1ffff80f"
+            }
+        }
+    ],
+    "printReferences": [
+        "mwbv.202109-4.v",
+        "mwbv.202109-4"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/a4/mwbv_E_202109_04.vtt",
+    "Name": "pub-mwbv_E_202109_4_VIDEO",
+    "Title": "Experience the Joy of Disciple-Making—Accept Jehovah’s Help—Using Research Tools",
+    "UndatedReferenceTitle": "Experience the Joy of Disciple-Making—Accept Jehovah’s Help—Using Research Tools",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODMinistryImproveSkills"
+}

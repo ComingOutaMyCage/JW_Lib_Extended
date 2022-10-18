@@ -1,0 +1,102 @@
+{
+    "guid": "5eea7e21af341cff13f8504f",
+    "languageAgnosticNaturalKey": "pub-jwb_202010_12_VIDEO",
+    "naturalKey": "pub-jwb_E_202010_12_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2020-10-26T13:12:11.848Z",
+    "duration": 590.294,
+    "durationFormattedHHMM": "9:50",
+    "durationFormattedMinSec": "9m 50s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/55/jwb_E_202010_12_r240P.mp4",
+            "checksum": "43ef1940a43575f06f021f15ec32d30b",
+            "filesize": 8828347,
+            "modifiedDatetime": "2020-10-26T07:46:23.000Z",
+            "bitRate": 116.84255800922931,
+            "duration": 590.294,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.268,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/77/jwb_E_202010_12.vtt",
+                "modifiedDatetime": "2020-10-26T07:46:47.000Z",
+                "checksum": "79f593bae8d81aec6a74545ba6c69deb"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/e4/jwb_E_202010_12_r360P.mp4",
+            "checksum": "c7336613188affcb4726b4d9423f35d8",
+            "filesize": 18379213,
+            "modifiedDatetime": "2020-10-26T07:46:27.000Z",
+            "bitRate": 243.2591434412621,
+            "duration": 590.266,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/77/jwb_E_202010_12.vtt",
+                "modifiedDatetime": "2020-10-26T07:46:47.000Z",
+                "checksum": "79f593bae8d81aec6a74545ba6c69deb"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/3d/jwb_E_202010_12_r480P.mp4",
+            "checksum": "f591942398288a9587c420df6890f8bd",
+            "filesize": 32479654,
+            "modifiedDatetime": "2020-10-26T07:46:32.000Z",
+            "bitRate": 429.8863510264864,
+            "duration": 590.266,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/77/jwb_E_202010_12.vtt",
+                "modifiedDatetime": "2020-10-26T07:46:47.000Z",
+                "checksum": "79f593bae8d81aec6a74545ba6c69deb"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/7e/jwb_E_202010_12_r720P.mp4",
+            "checksum": "b12c4b33da1b686d0caaeb2a8e36659e",
+            "filesize": 59603324,
+            "modifiedDatetime": "2020-10-26T07:46:34.000Z",
+            "bitRate": 788.8832640707749,
+            "duration": 590.266,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/77/jwb_E_202010_12.vtt",
+                "modifiedDatetime": "2020-10-26T07:46:47.000Z",
+                "checksum": "79f593bae8d81aec6a74545ba6c69deb"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202010-12.v",
+        "jwb.202010-12"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/77/jwb_E_202010_12.vtt",
+    "Name": "pub-jwb_E_202010_12_VIDEO",
+    "Title": "Gene Smalley: Do I Forgive Others? (Luke 18:11)",
+    "UndatedReferenceTitle": "Gene Smalley: Do I Forgive Others? (Luke 18:11)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

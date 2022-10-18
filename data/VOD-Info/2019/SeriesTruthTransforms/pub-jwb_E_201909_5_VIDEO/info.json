@@ -1,0 +1,102 @@
+{
+    "guid": "5d1370e848fd57354cf34a54",
+    "languageAgnosticNaturalKey": "pub-jwb_201909_5_VIDEO",
+    "naturalKey": "pub-jwb_E_201909_5_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesTruthTransforms",
+    "description": "",
+    "firstPublished": "2019-09-02T12:56:09.651Z",
+    "duration": 345.792,
+    "durationFormattedHHMM": "5:45",
+    "durationFormattedMinSec": "5m 45s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/52/jwb_E_201909_05_r240P.mp4",
+            "checksum": "0987bc207752bc6fcedc25ca3dacdfb6",
+            "filesize": 13507699,
+            "modifiedDatetime": "2020-11-06T23:27:26.000Z",
+            "bitRate": 305.1802772692833,
+            "duration": 345.792,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.438,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/98/jwb_E_201909_05.vtt",
+                "modifiedDatetime": "2019-09-16T11:31:02.000Z",
+                "checksum": "b9553e9d1225316e1eb0c8430ff0fe51"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/0a/jwb_E_201909_05_r360P.mp4",
+            "checksum": "6e5bab5aa42a435e2c305364ed1e1a68",
+            "filesize": 25100383,
+            "modifiedDatetime": "2019-09-16T11:30:11.000Z",
+            "bitRate": 567.1404258034381,
+            "duration": 345.764,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/98/jwb_E_201909_05.vtt",
+                "modifiedDatetime": "2019-09-16T11:31:02.000Z",
+                "checksum": "b9553e9d1225316e1eb0c8430ff0fe51"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/76/jwb_E_201909_05_r480P.mp4",
+            "checksum": "e08c929f1a9d32b0e14c333a2eb5aac5",
+            "filesize": 48589289,
+            "modifiedDatetime": "2019-09-16T11:30:20.000Z",
+            "bitRate": 1097.8697039382353,
+            "duration": 345.764,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/98/jwb_E_201909_05.vtt",
+                "modifiedDatetime": "2019-09-16T11:31:02.000Z",
+                "checksum": "b9553e9d1225316e1eb0c8430ff0fe51"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/80/jwb_E_201909_05_r720P.mp4",
+            "checksum": "66c4932cef82748986c8fea4346c3bf2",
+            "filesize": 82177529,
+            "modifiedDatetime": "2019-09-16T11:30:57.000Z",
+            "bitRate": 1856.792336138233,
+            "duration": 345.764,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/98/jwb_E_201909_05.vtt",
+                "modifiedDatetime": "2019-09-16T11:31:02.000Z",
+                "checksum": "b9553e9d1225316e1eb0c8430ff0fe51"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201909-5.v",
+        "jwb.201909-5"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/98/jwb_E_201909_05.vtt",
+    "Name": "pub-jwb_E_201909_5_VIDEO",
+    "Title": "Andrey Nesmachniy: Soccer Was My Reason for Living",
+    "UndatedReferenceTitle": "Andrey Nesmachniy: Soccer Was My Reason for Living",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "SeriesTruthTransforms"
+}

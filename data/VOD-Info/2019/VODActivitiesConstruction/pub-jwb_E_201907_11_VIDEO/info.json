@@ -1,0 +1,102 @@
+{
+    "guid": "5cf6c92148fd57354cf327f1",
+    "languageAgnosticNaturalKey": "pub-jwb_201907_11_VIDEO",
+    "naturalKey": "pub-jwb_E_201907_11_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODActivitiesConstruction",
+    "description": "",
+    "firstPublished": "2019-07-22T13:57:43.733Z",
+    "duration": 307.414,
+    "durationFormattedHHMM": "5:07",
+    "durationFormattedMinSec": "5m 7s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/7d/jwb_E_201907_11_r240P.mp4",
+            "checksum": "27b4a48b319d387f3b8e13c8c48285cd",
+            "filesize": 10504078,
+            "modifiedDatetime": "2020-11-11T19:43:36.000Z",
+            "bitRate": 266.9465586310318,
+            "duration": 307.414,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.786,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/7b/jwb_E_201907_11.vtt",
+                "modifiedDatetime": "2019-07-22T05:56:10.000Z",
+                "checksum": "5f7cbac96761a17aecd3b3a303d3d037"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/6f/jwb_E_201907_11_r360P.mp4",
+            "checksum": "d6d857aaecac1a6a895b23b522989b0d",
+            "filesize": 19635888,
+            "modifiedDatetime": "2019-07-22T05:56:16.000Z",
+            "bitRate": 499.0545459868832,
+            "duration": 307.392,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/7b/jwb_E_201907_11.vtt",
+                "modifiedDatetime": "2019-07-22T05:56:10.000Z",
+                "checksum": "5f7cbac96761a17aecd3b3a303d3d037"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/59/jwb_E_201907_11_r480P.mp4",
+            "checksum": "54f999ee3badf02e7fbc10bc32418217",
+            "filesize": 36685468,
+            "modifiedDatetime": "2019-07-22T05:56:19.000Z",
+            "bitRate": 932.3769608512908,
+            "duration": 307.392,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/7b/jwb_E_201907_11.vtt",
+                "modifiedDatetime": "2019-07-22T05:56:10.000Z",
+                "checksum": "5f7cbac96761a17aecd3b3a303d3d037"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/74/jwb_E_201907_11_r720P.mp4",
+            "checksum": "d626bf364f7743f1940ed830011cc486",
+            "filesize": 62429779,
+            "modifiedDatetime": "2019-07-22T05:56:23.000Z",
+            "bitRate": 1586.679706815727,
+            "duration": 307.392,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/7b/jwb_E_201907_11.vtt",
+                "modifiedDatetime": "2019-07-22T05:56:10.000Z",
+                "checksum": "5f7cbac96761a17aecd3b3a303d3d037"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201907-11.v",
+        "jwb.201907-11"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/7b/jwb_E_201907_11.vtt",
+    "Name": "pub-jwb_E_201907_11_VIDEO",
+    "Title": "Exploring the Britain Branch Relocation Project",
+    "UndatedReferenceTitle": "Exploring the Britain Branch Relocation Project",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODActivitiesConstruction"
+}

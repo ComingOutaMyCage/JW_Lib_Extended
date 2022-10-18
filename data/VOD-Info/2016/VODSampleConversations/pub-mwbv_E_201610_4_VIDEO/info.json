@@ -1,0 +1,102 @@
+{
+    "guid": "57b5ba83fbf22850e2b371d7",
+    "languageAgnosticNaturalKey": "pub-mwbv_201610_4_VIDEO",
+    "naturalKey": "pub-mwbv_E_201610_4_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODSampleConversations",
+    "description": "",
+    "firstPublished": "2016-08-26T15:51:34.679Z",
+    "duration": 103.254,
+    "durationFormattedHHMM": "1:43",
+    "durationFormattedMinSec": "1m 43s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/75/mwbv_E_201610_04_r240P.mp4",
+            "checksum": "356a3f705aef2f859accd88556c71d95",
+            "filesize": 1185404,
+            "modifiedDatetime": "2020-11-10T21:28:04.000Z",
+            "bitRate": 89.69113787359328,
+            "duration": 103.254,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.881,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f2/mwbv_E_201610_04.vtt",
+                "modifiedDatetime": "2020-11-10T21:28:00.000Z",
+                "checksum": "83451a7261a3156bcb2225c153c4c222"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/5c/mwbv_E_201610_04_r360P.mp4",
+            "checksum": "5fc8f6238149d6e1ba23a201b37c4de3",
+            "filesize": 2387114,
+            "modifiedDatetime": "2020-11-10T21:28:07.000Z",
+            "bitRate": 180.6580269785915,
+            "duration": 103.23,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f2/mwbv_E_201610_04.vtt",
+                "modifiedDatetime": "2020-11-10T21:28:00.000Z",
+                "checksum": "83451a7261a3156bcb2225c153c4c222"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/20/mwbv_E_201610_04_r480P.mp4",
+            "checksum": "df2026236e68f739c3087f95385adbe2",
+            "filesize": 3695663,
+            "modifiedDatetime": "2020-11-10T21:28:09.000Z",
+            "bitRate": 279.6896947350576,
+            "duration": 103.23,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f2/mwbv_E_201610_04.vtt",
+                "modifiedDatetime": "2020-11-10T21:28:00.000Z",
+                "checksum": "83451a7261a3156bcb2225c153c4c222"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/72/mwbv_E_201610_04_r720P.mp4",
+            "checksum": "2cc48227cc10b6d8da175518b3a56831",
+            "filesize": 4934854,
+            "modifiedDatetime": "2020-11-10T21:28:13.000Z",
+            "bitRate": 373.4723130388453,
+            "duration": 103.23,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f2/mwbv_E_201610_04.vtt",
+                "modifiedDatetime": "2020-11-10T21:28:00.000Z",
+                "checksum": "83451a7261a3156bcb2225c153c4c222"
+            }
+        }
+    ],
+    "printReferences": [
+        "mwbv.201610-4.v",
+        "mwbv.201610-4"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/f2/mwbv_E_201610_04.vtt",
+    "Name": "pub-mwbv_E_201610_4_VIDEO",
+    "Title": "mwbv16.10—Sample jw.org Contact Card Presentation",
+    "UndatedReferenceTitle": "mwbv16.10—Sample jw.org Contact Card Presentation",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2016,
+    "Symbol": "VODSampleConversations"
+}

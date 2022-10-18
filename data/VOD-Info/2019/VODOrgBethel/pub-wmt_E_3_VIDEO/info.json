@@ -1,0 +1,102 @@
+{
+    "guid": "5d6533e4ad989978fbaa6eaa",
+    "languageAgnosticNaturalKey": "pub-wmt_3_VIDEO",
+    "naturalKey": "pub-wmt_E_3_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODOrgBethel",
+    "description": "",
+    "firstPublished": "2019-10-21T17:21:15.648Z",
+    "duration": 633.878,
+    "durationFormattedHHMM": "10:33",
+    "durationFormattedMinSec": "10m 33s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/6e/wmt_E_03_r240P.mp4",
+            "checksum": "88069899eb48cfc92a6c4ab086934662",
+            "filesize": 16989011,
+            "modifiedDatetime": "2020-12-09T21:09:40.000Z",
+            "bitRate": 209.3883183159851,
+            "duration": 633.878,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.669,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/3f/wmt_E_03.vtt",
+                "modifiedDatetime": "2019-10-21T14:34:55.000Z",
+                "checksum": "0735bc9b2cef7dba05197382da7b09ae"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/92/wmt_E_03_r360P.mp4",
+            "checksum": "ad7265904f1cfa5749ad16d348bd9e49",
+            "filesize": 33865933,
+            "modifiedDatetime": "2019-10-21T14:35:03.000Z",
+            "bitRate": 417.41819592943364,
+            "duration": 633.843,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/3f/wmt_E_03.vtt",
+                "modifiedDatetime": "2019-10-21T14:34:55.000Z",
+                "checksum": "0735bc9b2cef7dba05197382da7b09ae"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/17/wmt_E_03_r480P.mp4",
+            "checksum": "232967f88c0d5009cc9d27779d2cb374",
+            "filesize": 63355855,
+            "modifiedDatetime": "2019-10-21T14:35:09.000Z",
+            "bitRate": 780.8993980962163,
+            "duration": 633.843,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/3f/wmt_E_03.vtt",
+                "modifiedDatetime": "2019-10-21T14:34:55.000Z",
+                "checksum": "0735bc9b2cef7dba05197382da7b09ae"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/b7/wmt_E_03_r720P.mp4",
+            "checksum": "3e3c39f4147c2dd8fec861c6778a8009",
+            "filesize": 110535685,
+            "modifiedDatetime": "2019-10-21T14:35:16.000Z",
+            "bitRate": 1362.4194620158305,
+            "duration": 633.843,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/3f/wmt_E_03.vtt",
+                "modifiedDatetime": "2019-10-21T14:34:55.000Z",
+                "checksum": "0735bc9b2cef7dba05197382da7b09ae"
+            }
+        }
+    ],
+    "printReferences": [
+        "wmt-3.v",
+        "wmt-3"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/3f/wmt_E_03.vtt",
+    "Name": "pub-wmt_E_3_VIDEO",
+    "Title": "Warwick Museum Tours: “The Bible and the Divine Name”",
+    "UndatedReferenceTitle": "Warwick Museum Tours: “The Bible and the Divine Name”",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODOrgBethel"
+}

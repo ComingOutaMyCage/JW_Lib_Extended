@@ -1,0 +1,102 @@
+{
+    "guid": "61f2f05857c50ea1ebdf7399",
+    "languageAgnosticNaturalKey": "pub-jwb-089_10_VIDEO",
+    "naturalKey": "pub-jwb-089_E_10_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODMinistryTools",
+    "description": "",
+    "firstPublished": "2022-05-02T14:45:10.237Z",
+    "duration": 66.134,
+    "durationFormattedHHMM": "1:06",
+    "durationFormattedMinSec": "1m 6s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/eb/jwb-089_E_10_r240P.mp4",
+            "checksum": "db215e28da8c082a301544346c6ff3b1",
+            "filesize": 2747817,
+            "modifiedDatetime": "2022-05-02T04:20:02.000Z",
+            "bitRate": 324.6033857395591,
+            "duration": 66.134,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.645,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/40/jwb-089_E_10.vtt",
+                "modifiedDatetime": "2022-05-02T04:19:55.000Z",
+                "checksum": "e0accc3b04cf8ef0bcabac5d48c3db42"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/7c/jwb-089_E_10_r360P.mp4",
+            "checksum": "57b180e89aa884ada0a8bcc9bae9b8b7",
+            "filesize": 4489160,
+            "modifiedDatetime": "2022-05-02T04:20:00.000Z",
+            "bitRate": 530.5111633816879,
+            "duration": 66.109,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/40/jwb-089_E_10.vtt",
+                "modifiedDatetime": "2022-05-02T04:19:55.000Z",
+                "checksum": "e0accc3b04cf8ef0bcabac5d48c3db42"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/ff/jwb-089_E_10_r480P.mp4",
+            "checksum": "ebb85af67d246a2eb8f9410767585145",
+            "filesize": 8065374,
+            "modifiedDatetime": "2022-05-02T04:19:58.000Z",
+            "bitRate": 953.1339813792374,
+            "duration": 66.109,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/40/jwb-089_E_10.vtt",
+                "modifiedDatetime": "2022-05-02T04:19:55.000Z",
+                "checksum": "e0accc3b04cf8ef0bcabac5d48c3db42"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/1e/jwb-089_E_10_r720P.mp4",
+            "checksum": "0bb17218aed5dac987dfeeda6de04164",
+            "filesize": 13298671,
+            "modifiedDatetime": "2022-05-02T04:19:56.000Z",
+            "bitRate": 1571.5843105704216,
+            "duration": 66.109,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/40/jwb-089_E_10.vtt",
+                "modifiedDatetime": "2022-05-02T04:19:55.000Z",
+                "checksum": "e0accc3b04cf8ef0bcabac5d48c3db42"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-089-10.v",
+        "jwb-089-10"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/40/jwb-089_E_10.vtt",
+    "Name": "pub-jwb-089_E_10_VIDEO",
+    "Title": "2022 Convention of Jehovah’s Witnesses: “Pursue Peace”!",
+    "UndatedReferenceTitle": "2022 Convention of Jehovah’s Witnesses: “Pursue Peace”!",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODMinistryTools"
+}

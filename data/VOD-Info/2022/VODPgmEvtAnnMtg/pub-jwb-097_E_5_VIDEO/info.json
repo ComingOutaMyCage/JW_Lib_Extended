@@ -1,0 +1,102 @@
+{
+    "guid": "61d31ecac06f02f011b4902c",
+    "languageAgnosticNaturalKey": "pub-jwb-097_5_VIDEO",
+    "naturalKey": "pub-jwb-097_E_5_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtAnnMtg",
+    "description": "",
+    "firstPublished": "2022-02-08T18:13:32.850Z",
+    "duration": 1105.75,
+    "durationFormattedHHMM": "18:25",
+    "durationFormattedMinSec": "18m 25s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/51/jwb-097_E_05_r240P.mp4",
+            "checksum": "c91a13618644fc148e012c60b5fff170",
+            "filesize": 16268433,
+            "modifiedDatetime": "2022-02-08T15:21:13.000Z",
+            "bitRate": 114.94201475243048,
+            "duration": 1105.75,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.383,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/89/jwb-097_E_05.vtt",
+                "modifiedDatetime": "2022-02-08T15:20:57.000Z",
+                "checksum": "4065f54fd4dfdeb1b7372b3c0e492df7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/37/jwb-097_E_05_r360P.mp4",
+            "checksum": "cfee5083bc5124e30b9e0766aca7d12f",
+            "filesize": 33317148,
+            "modifiedDatetime": "2022-02-08T15:21:10.000Z",
+            "bitRate": 235.4046514288505,
+            "duration": 1105.714,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/89/jwb-097_E_05.vtt",
+                "modifiedDatetime": "2022-02-08T15:20:57.000Z",
+                "checksum": "4065f54fd4dfdeb1b7372b3c0e492df7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/19/jwb-097_E_05_r480P.mp4",
+            "checksum": "9addb55aa0ef8bb842612644dedf825d",
+            "filesize": 58374652,
+            "modifiedDatetime": "2022-02-08T15:21:08.000Z",
+            "bitRate": 412.4502075129735,
+            "duration": 1105.714,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/89/jwb-097_E_05.vtt",
+                "modifiedDatetime": "2022-02-08T15:20:57.000Z",
+                "checksum": "4065f54fd4dfdeb1b7372b3c0e492df7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/8e/jwb-097_E_05_r720P.mp4",
+            "checksum": "c9c3ff533ecd9deeda663e8eaaee66c9",
+            "filesize": 96443540,
+            "modifiedDatetime": "2022-02-08T15:21:01.000Z",
+            "bitRate": 681.4286119647577,
+            "duration": 1105.714,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/89/jwb-097_E_05.vtt",
+                "modifiedDatetime": "2022-02-08T15:20:57.000Z",
+                "checksum": "4065f54fd4dfdeb1b7372b3c0e492df7"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-097-5.v",
+        "jwb-097-5"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/89/jwb-097_E_05.vtt",
+    "Name": "pub-jwb-097_E_5_VIDEO",
+    "Title": "Gerrit Lösch: “No Resident Will Say: ‘I Am Sick’”",
+    "UndatedReferenceTitle": "Gerrit Lösch: “No Resident Will Say: ‘I Am Sick’”",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODPgmEvtAnnMtg"
+}

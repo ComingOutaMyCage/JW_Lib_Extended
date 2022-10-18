@@ -1,0 +1,102 @@
+{
+    "guid": "556bf94a79892656f9a36792",
+    "languageAgnosticNaturalKey": "pub-jwbvs_201505_1_VIDEO",
+    "naturalKey": "pub-jwbvs_E_201505_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesTruthTransforms",
+    "description": "",
+    "firstPublished": "2015-06-01T15:53:36.513Z",
+    "duration": 235.478,
+    "durationFormattedHHMM": "3:55",
+    "durationFormattedMinSec": "3m 55s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/3f/jwbvs_E_201505_01_r240P.mp4",
+            "checksum": "a56d3d37d24d37bad5dd5fc9d914971a",
+            "filesize": 5869621,
+            "modifiedDatetime": "2020-12-25T15:57:09.000Z",
+            "bitRate": 194.73757235283125,
+            "duration": 235.478,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.126,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/6e/jwbvs_E_201505_01.vtt",
+                "modifiedDatetime": "2020-12-25T15:57:06.000Z",
+                "checksum": "b8a72fc7e6d2eb9173e5530ade1a8d47"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/90/jwbvs_E_201505_01_r360P.mp4",
+            "checksum": "348f60d33b4938120eb8caa25d28d758",
+            "filesize": 10802981,
+            "modifiedDatetime": "2020-12-25T15:56:08.000Z",
+            "bitRate": 358.4628642039542,
+            "duration": 235.445,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/6e/jwbvs_E_201505_01.vtt",
+                "modifiedDatetime": "2020-12-25T15:57:06.000Z",
+                "checksum": "b8a72fc7e6d2eb9173e5530ade1a8d47"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/c6/jwbvs_E_201505_01_r480P.mp4",
+            "checksum": "ce3ce61f661574a37ae52ec853ceb235",
+            "filesize": 21322281,
+            "modifiedDatetime": "2020-12-25T15:57:15.000Z",
+            "bitRate": 707.5126688292382,
+            "duration": 235.445,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/6e/jwbvs_E_201505_01.vtt",
+                "modifiedDatetime": "2020-12-25T15:57:06.000Z",
+                "checksum": "b8a72fc7e6d2eb9173e5530ade1a8d47"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/35/jwbvs_E_201505_01_r720P.mp4",
+            "checksum": "69f269b0093799ec2f00c075d6465ad4",
+            "filesize": 44482802,
+            "modifiedDatetime": "2020-12-25T15:57:20.000Z",
+            "bitRate": 1476.0215363460682,
+            "duration": 235.445,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/6e/jwbvs_E_201505_01.vtt",
+                "modifiedDatetime": "2020-12-25T15:57:06.000Z",
+                "checksum": "b8a72fc7e6d2eb9173e5530ade1a8d47"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwbvs.201505-1.v",
+        "jwbvs.201505-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/6e/jwbvs_E_201505_01.vtt",
+    "Name": "pub-jwbvs_E_201505_1_VIDEO",
+    "Title": "John Lewis: Something Was Missing in My Life",
+    "UndatedReferenceTitle": "John Lewis: Something Was Missing in My Life",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2015,
+    "Symbol": "SeriesTruthTransforms"
+}

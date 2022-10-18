@@ -1,0 +1,102 @@
+{
+    "guid": "61eefdbc57c50ea1eb21327d",
+    "languageAgnosticNaturalKey": "pub-whcov_x_VIDEO",
+    "naturalKey": "pub-whcov_E_x_VIDEO",
+    "type": "video",
+    "primaryCategory": "MeetingsConventions",
+    "description": "",
+    "firstPublished": "2022-05-02T14:43:28.796Z",
+    "duration": 72.192,
+    "durationFormattedHHMM": "1:12",
+    "durationFormattedMinSec": "1m 12s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/6c/whcov_E_r240P.mp4",
+            "checksum": "ed30396de85d3b18989e8547f682bed0",
+            "filesize": 3952637,
+            "modifiedDatetime": "2022-05-02T04:16:57.000Z",
+            "bitRate": 427.7479022952682,
+            "duration": 72.192,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.483,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/63/whcov_E.vtt",
+                "modifiedDatetime": "2022-05-02T04:16:45.000Z",
+                "checksum": "220d7f1619bc296ec62e955cf54c9423"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/c5/whcov_E_r360P.mp4",
+            "checksum": "fc53d43db8eaf619efc5aee199d2be9a",
+            "filesize": 6522087,
+            "modifiedDatetime": "2022-05-02T04:16:52.000Z",
+            "bitRate": 706.1519282605984,
+            "duration": 72.157,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/63/whcov_E.vtt",
+                "modifiedDatetime": "2022-05-02T04:16:45.000Z",
+                "checksum": "220d7f1619bc296ec62e955cf54c9423"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/8c/whcov_E_r480P.mp4",
+            "checksum": "8dc42edfce35e6f76ef1d19394cfb413",
+            "filesize": 11898005,
+            "modifiedDatetime": "2022-05-02T04:16:49.000Z",
+            "bitRate": 1288.2071602547223,
+            "duration": 72.157,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/63/whcov_E.vtt",
+                "modifiedDatetime": "2022-05-02T04:16:45.000Z",
+                "checksum": "220d7f1619bc296ec62e955cf54c9423"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/33/whcov_E_r720P.mp4",
+            "checksum": "2e6838806f932772fdb203cd9fb48f90",
+            "filesize": 19774788,
+            "modifiedDatetime": "2022-05-02T04:16:47.000Z",
+            "bitRate": 2141.033181118949,
+            "duration": 72.157,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/63/whcov_E.vtt",
+                "modifiedDatetime": "2022-05-02T04:16:45.000Z",
+                "checksum": "220d7f1619bc296ec62e955cf54c9423"
+            }
+        }
+    ],
+    "printReferences": [
+        "whcov.v",
+        "whcov"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/63/whcov_E.vtt",
+    "Name": "pub-whcov_E_x_VIDEO",
+    "Title": "What Happens at Our Conventions?",
+    "UndatedReferenceTitle": "What Happens at Our Conventions?",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "MeetingsConventions"
+}

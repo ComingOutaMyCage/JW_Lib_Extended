@@ -1,0 +1,102 @@
+{
+    "guid": "621e7d2157c50ea1eba89839",
+    "languageAgnosticNaturalKey": "pub-jlp_x_VIDEO",
+    "naturalKey": "pub-jlp_E_x_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODBibleAccounts",
+    "description": "",
+    "firstPublished": "2022-07-04T15:01:53.888Z",
+    "duration": 1966.123,
+    "durationFormattedHHMM": "32:46",
+    "durationFormattedMinSec": "32m 46s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/0b/jlp_E_r240P.mp4",
+            "checksum": "8609e90dfa5abae303e5e53b918e60e8",
+            "filesize": 31724088,
+            "modifiedDatetime": "2022-06-26T22:05:28.000Z",
+            "bitRate": 126.05744274391785,
+            "duration": 1966.123,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.81,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/72/jlp_E.vtt",
+                "modifiedDatetime": "2022-06-26T22:05:08.000Z",
+                "checksum": "53c9e585dca07748b1b4f6f25ff02379"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/3b/jlp_E_r360P.mp4",
+            "checksum": "0643840692c7357cf04314f68bdefcc6",
+            "filesize": 71456627,
+            "modifiedDatetime": "2022-06-26T22:05:25.000Z",
+            "bitRate": 283.94153599070444,
+            "duration": 1966.091,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/72/jlp_E.vtt",
+                "modifiedDatetime": "2022-06-26T22:05:08.000Z",
+                "checksum": "53c9e585dca07748b1b4f6f25ff02379"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/3c/jlp_E_r480P.mp4",
+            "checksum": "d69b7e2823e773d89427cfa296ae52dc",
+            "filesize": 136602419,
+            "modifiedDatetime": "2022-06-26T22:05:21.000Z",
+            "bitRate": 542.8062070562859,
+            "duration": 1966.091,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/72/jlp_E.vtt",
+                "modifiedDatetime": "2022-06-26T22:05:08.000Z",
+                "checksum": "53c9e585dca07748b1b4f6f25ff02379"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/06/jlp_E_r720P.mp4",
+            "checksum": "84a8ae1c6762edc66aff277caa3f7993",
+            "filesize": 232356574,
+            "modifiedDatetime": "2022-06-26T22:05:12.000Z",
+            "bitRate": 923.2969045557912,
+            "duration": 1966.091,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/72/jlp_E.vtt",
+                "modifiedDatetime": "2022-06-26T22:05:08.000Z",
+                "checksum": "53c9e585dca07748b1b4f6f25ff02379"
+            }
+        }
+    ],
+    "printReferences": [
+        "jlp.v",
+        "jlp"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/72/jlp_E.vtt",
+    "Name": "pub-jlp_E_x_VIDEO",
+    "Title": "Jacob—A Man Who Loved Peace",
+    "UndatedReferenceTitle": "Jacob—A Man Who Loved Peace",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODBibleAccounts"
+}

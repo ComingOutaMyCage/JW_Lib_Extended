@@ -1,0 +1,102 @@
+{
+    "guid": "6192b992e4dbeaf5faa36389",
+    "languageAgnosticNaturalKey": "pub-jwb-097_4_VIDEO",
+    "naturalKey": "pub-jwb-097_E_4_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtAnnMtg",
+    "description": "",
+    "firstPublished": "2022-02-21T16:13:57.827Z",
+    "duration": 526.72,
+    "durationFormattedHHMM": "8:46",
+    "durationFormattedMinSec": "8m 46s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/40/jwb-097_E_04_r240P.mp4",
+            "checksum": "0f3f94375c6e984c65275e11046e37a2",
+            "filesize": 11384081,
+            "modifiedDatetime": "2022-02-21T16:03:11.000Z",
+            "bitRate": 168.8527734137682,
+            "duration": 526.72,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.762,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/68/jwb-097_E_04.vtt",
+                "modifiedDatetime": "2022-02-21T16:03:01.000Z",
+                "checksum": "130bc5f2a2463ba255572fab4c4b919d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/e8/jwb-097_E_04_r360P.mp4",
+            "checksum": "233d559f83097ee1ca2fbae8d8421ba5",
+            "filesize": 23324209,
+            "modifiedDatetime": "2022-02-21T16:03:09.000Z",
+            "bitRate": 345.97011322038986,
+            "duration": 526.694,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/68/jwb-097_E_04.vtt",
+                "modifiedDatetime": "2022-02-21T16:03:01.000Z",
+                "checksum": "130bc5f2a2463ba255572fab4c4b919d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/98/jwb-097_E_04_r480P.mp4",
+            "checksum": "d4409ab6919990a460e188b2dd61f471",
+            "filesize": 41719361,
+            "modifiedDatetime": "2022-02-21T16:03:06.000Z",
+            "bitRate": 618.827075707147,
+            "duration": 526.694,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/68/jwb-097_E_04.vtt",
+                "modifiedDatetime": "2022-02-21T16:03:01.000Z",
+                "checksum": "130bc5f2a2463ba255572fab4c4b919d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/62/jwb-097_E_04_r720P.mp4",
+            "checksum": "d49fb68e08c510642341e9b1e352ae0d",
+            "filesize": 68973736,
+            "modifiedDatetime": "2022-02-21T16:03:02.000Z",
+            "bitRate": 1023.0936986181731,
+            "duration": 526.694,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/68/jwb-097_E_04.vtt",
+                "modifiedDatetime": "2022-02-21T16:03:01.000Z",
+                "checksum": "130bc5f2a2463ba255572fab4c4b919d"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-097-4.v",
+        "jwb-097-4"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/68/jwb-097_E_04.vtt",
+    "Name": "pub-jwb-097_E_4_VIDEO",
+    "Title": "Serving Jehovah During Difficult Times",
+    "UndatedReferenceTitle": "Serving Jehovah During Difficult Times",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODPgmEvtAnnMtg"
+}

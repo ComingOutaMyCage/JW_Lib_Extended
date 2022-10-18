@@ -1,0 +1,102 @@
+{
+    "guid": "5b5a14f2c1963ea3306e05ae",
+    "languageAgnosticNaturalKey": "pub-jwb_201809_7_VIDEO",
+    "naturalKey": "pub-jwb_E_201809_7_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2018-09-17T13:06:16.559Z",
+    "duration": 554.731,
+    "durationFormattedHHMM": "9:14",
+    "durationFormattedMinSec": "9m 14s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/07/jwb_E_201809_07_r240P.mp4",
+            "checksum": "77221fa2ab963fdffd125a3adeaa7f3a",
+            "filesize": 8316502,
+            "modifiedDatetime": "2020-11-03T22:15:27.000Z",
+            "bitRate": 117.12464577425816,
+            "duration": 554.731,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.94,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/b7/jwb_E_201809_07_r240P.vtt",
+                "modifiedDatetime": "2018-09-17T12:39:34.000Z",
+                "checksum": "307193f9c20f5e8cefe485cb11538d4a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/12/jwb_E_201809_07_r360P.mp4",
+            "checksum": "05940a91396580f53ac32262d48515ef",
+            "filesize": 17725979,
+            "modifiedDatetime": "2018-09-17T12:39:35.000Z",
+            "bitRate": 249.65740023382133,
+            "duration": 554.697,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/a8/jwb_E_201809_07_r360P.vtt",
+                "modifiedDatetime": "2018-09-17T12:39:37.000Z",
+                "checksum": "307193f9c20f5e8cefe485cb11538d4a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/f3/jwb_E_201809_07_r480P.mp4",
+            "checksum": "55b8c2b6efb8cbcca072ec867aba5ff1",
+            "filesize": 31649800,
+            "modifiedDatetime": "2018-09-17T12:39:38.000Z",
+            "bitRate": 445.7641964892545,
+            "duration": 554.697,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/95/jwb_E_201809_07_r480P.vtt",
+                "modifiedDatetime": "2018-09-17T12:39:40.000Z",
+                "checksum": "307193f9c20f5e8cefe485cb11538d4a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/9c/jwb_E_201809_07_r720P.mp4",
+            "checksum": "f54348f635984f8f7de556eb0561f040",
+            "filesize": 62150836,
+            "modifiedDatetime": "2018-09-17T12:39:41.000Z",
+            "bitRate": 875.3488954330022,
+            "duration": 554.697,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/60/jwb_E_201809_07_r720P.vtt",
+                "modifiedDatetime": "2018-09-17T12:39:45.000Z",
+                "checksum": "307193f9c20f5e8cefe485cb11538d4a"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201809-7.v",
+        "jwb.201809-7"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/b7/jwb_E_201809_07_r240P.vtt",
+    "Name": "pub-jwb_E_201809_7_VIDEO",
+    "Title": "Anthony Morris III: A Proper View of Discipline Keeps Us Close to Jehovah (Jer. 30:11)",
+    "UndatedReferenceTitle": "Anthony Morris III: A Proper View of Discipline Keeps Us Close to Jehovah (Jer. 30:11)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "5e45572afaacdecc13948b3b",
+    "languageAgnosticNaturalKey": "pub-jwb_202005_3_VIDEO",
+    "naturalKey": "pub-jwb_E_202005_3_VIDEO",
+    "type": "video",
+    "primaryCategory": "FamilyChallenges",
+    "description": "",
+    "firstPublished": "2020-05-18T17:25:14.591Z",
+    "duration": 293.952,
+    "durationFormattedHHMM": "4:53",
+    "durationFormattedMinSec": "4m 53s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/78/jwb_E_202005_03_r240P.mp4",
+            "checksum": "9084e10822f367d8a26ea4bf88679c19",
+            "filesize": 9573840,
+            "modifiedDatetime": "2020-10-18T03:02:51.000Z",
+            "bitRate": 254.44843035597648,
+            "duration": 293.952,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.506,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/d4/jwb_E_202005_03.vtt",
+                "modifiedDatetime": "2020-05-18T15:14:19.000Z",
+                "checksum": "4f24979e25ccb0b4a08b516e9e84c17c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/3c/jwb_E_202005_03_r360P.mp4",
+            "checksum": "be8369a72367f90c58d9de6a8f233f27",
+            "filesize": 17709232,
+            "modifiedDatetime": "2020-05-18T15:13:53.000Z",
+            "bitRate": 470.7177973598258,
+            "duration": 293.92,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/d4/jwb_E_202005_03.vtt",
+                "modifiedDatetime": "2020-05-18T15:14:19.000Z",
+                "checksum": "4f24979e25ccb0b4a08b516e9e84c17c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/10/jwb_E_202005_03_r480P.mp4",
+            "checksum": "76ca868781cfd2a331f3a67015dd8002",
+            "filesize": 32818858,
+            "modifiedDatetime": "2020-05-18T15:14:02.000Z",
+            "bitRate": 872.3371261737888,
+            "duration": 293.92,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/d4/jwb_E_202005_03.vtt",
+                "modifiedDatetime": "2020-05-18T15:14:19.000Z",
+                "checksum": "4f24979e25ccb0b4a08b516e9e84c17c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/30/jwb_E_202005_03_r720P.mp4",
+            "checksum": "d96493b307ba1c7d11bd2d0c2f7d3d43",
+            "filesize": 54627727,
+            "modifiedDatetime": "2020-05-18T15:14:10.000Z",
+            "bitRate": 1452.0247590755987,
+            "duration": 293.92,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/d4/jwb_E_202005_03.vtt",
+                "modifiedDatetime": "2020-05-18T15:14:19.000Z",
+                "checksum": "4f24979e25ccb0b4a08b516e9e84c17c"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202005-3.v",
+        "jwb.202005-3"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/d4/jwb_E_202005_03.vtt",
+    "Name": "pub-jwb_E_202005_3_VIDEO",
+    "Title": "Learn From Them—Samuel",
+    "UndatedReferenceTitle": "Learn From Them—Samuel",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "FamilyChallenges"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "6082dd390524ac0a0a1d47fc",
+    "languageAgnosticNaturalKey": "pub-jwb-081_6_VIDEO",
+    "naturalKey": "pub-jwb-081_E_6_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtGilead",
+    "description": "",
+    "firstPublished": "2021-06-08T14:58:23.876Z",
+    "duration": 612.395,
+    "durationFormattedHHMM": "10:12",
+    "durationFormattedMinSec": "10m 12s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/ab/jwb-081_E_06_r240P.mp4",
+            "checksum": "50cfe183db362ee40352bf10a7f2f5eb",
+            "filesize": 9415566,
+            "modifiedDatetime": "2021-06-08T05:12:58.000Z",
+            "bitRate": 120.11709660431585,
+            "duration": 612.395,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.354,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/6f/jwb-081_E_06.vtt",
+                "modifiedDatetime": "2021-06-08T05:12:43.000Z",
+                "checksum": "6d346a2bda9863abd2374c5b046d53db"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/22/jwb-081_E_06_r360P.mp4",
+            "checksum": "4b28a1c246e61dc5842d2e05839f9b95",
+            "filesize": 19097155,
+            "modifiedDatetime": "2021-06-08T05:12:56.000Z",
+            "bitRate": 243.64383966408374,
+            "duration": 612.355,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/6f/jwb-081_E_06.vtt",
+                "modifiedDatetime": "2021-06-08T05:12:43.000Z",
+                "checksum": "6d346a2bda9863abd2374c5b046d53db"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/f6/jwb-081_E_06_r480P.mp4",
+            "checksum": "e6e5dd471cb56d2cb1263d35f33b2ede",
+            "filesize": 32645081,
+            "modifiedDatetime": "2021-06-08T05:12:51.000Z",
+            "bitRate": 416.4899369034302,
+            "duration": 612.355,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/6f/jwb-081_E_06.vtt",
+                "modifiedDatetime": "2021-06-08T05:12:43.000Z",
+                "checksum": "6d346a2bda9863abd2374c5b046d53db"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/22/jwb-081_E_06_r720P.mp4",
+            "checksum": "49d3cd599b90f8a526a43cd5afcd19e1",
+            "filesize": 51852010,
+            "modifiedDatetime": "2021-06-08T05:12:44.000Z",
+            "bitRate": 661.5342866882772,
+            "duration": 612.355,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/6f/jwb-081_E_06.vtt",
+                "modifiedDatetime": "2021-06-08T05:12:43.000Z",
+                "checksum": "6d346a2bda9863abd2374c5b046d53db"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-081-6.v",
+        "jwb-081-6"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/6f/jwb-081_E_06.vtt",
+    "Name": "pub-jwb-081_E_6_VIDEO",
+    "Title": "David H. Splane: Enjoy Your Bible Reading",
+    "UndatedReferenceTitle": "David H. Splane: Enjoy Your Bible Reading",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODPgmEvtGilead"
+}

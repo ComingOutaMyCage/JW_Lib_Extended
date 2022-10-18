@@ -1,0 +1,102 @@
+{
+    "guid": "5a8c3d9e8e355ea6ca66bec8",
+    "languageAgnosticNaturalKey": "pub-mwbv_201803_4_VIDEO",
+    "naturalKey": "pub-mwbv_E_201803_4_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesOrgAccomplishments",
+    "description": "",
+    "firstPublished": "2018-03-12T12:38:40.847Z",
+    "duration": 583.296,
+    "durationFormattedHHMM": "9:43",
+    "durationFormattedMinSec": "9m 43s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/ac/mwbv_E_201803_04_r240P.mp4",
+            "checksum": "6067c596fc0d8e8073abca628ba8492e",
+            "filesize": 17144909,
+            "modifiedDatetime": "2020-11-09T20:32:28.000Z",
+            "bitRate": 229.63401354115234,
+            "duration": 583.296,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.268,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/a7/mwbv_E_201803_04.vtt",
+                "modifiedDatetime": "2020-11-09T20:32:22.000Z",
+                "checksum": "bb5a22838c30b4f82ec13b5196e133c3"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/62/mwbv_E_201803_04_r360P.mp4",
+            "checksum": "6a1d4aa6d49f887890b3a60b6316b44f",
+            "filesize": 36635466,
+            "modifiedDatetime": "2020-11-09T20:32:32.000Z",
+            "bitRate": 490.7160937508037,
+            "duration": 583.259,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/a7/mwbv_E_201803_04.vtt",
+                "modifiedDatetime": "2020-11-09T20:32:22.000Z",
+                "checksum": "bb5a22838c30b4f82ec13b5196e133c3"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/35/mwbv_E_201803_04_r480P.mp4",
+            "checksum": "236338aea9bbbf16bf853580156dd798",
+            "filesize": 65842741,
+            "modifiedDatetime": "2020-11-09T20:32:35.000Z",
+            "bitRate": 881.9348077997939,
+            "duration": 583.259,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/a7/mwbv_E_201803_04.vtt",
+                "modifiedDatetime": "2020-11-09T20:32:22.000Z",
+                "checksum": "bb5a22838c30b4f82ec13b5196e133c3"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/b1/mwbv_E_201803_04_r720P.mp4",
+            "checksum": "6fbcd365ef17adbab02c601956a5cb4a",
+            "filesize": 106614950,
+            "modifiedDatetime": "2020-11-09T20:32:42.000Z",
+            "bitRate": 1428.0607703867406,
+            "duration": 583.259,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/a7/mwbv_E_201803_04.vtt",
+                "modifiedDatetime": "2020-11-09T20:32:22.000Z",
+                "checksum": "bb5a22838c30b4f82ec13b5196e133c3"
+            }
+        }
+    ],
+    "printReferences": [
+        "mwbv.201803-4.v",
+        "mwbv.201803-4"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/a7/mwbv_E_201803_04.vtt",
+    "Name": "pub-mwbv_E_201803_4_VIDEO",
+    "Title": "Organizational Accomplishments—The Results of Special Preaching Campaigns",
+    "UndatedReferenceTitle": "Organizational Accomplishments—The Results of Special Preaching Campaigns",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "SeriesOrgAccomplishments"
+}

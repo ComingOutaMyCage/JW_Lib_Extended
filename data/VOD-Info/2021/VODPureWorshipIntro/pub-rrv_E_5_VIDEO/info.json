@@ -1,0 +1,102 @@
+{
+    "guid": "5b802a59c1963ea3306e3cbe",
+    "languageAgnosticNaturalKey": "pub-rrv_5_VIDEO",
+    "naturalKey": "pub-rrv_E_5_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPureWorshipIntro",
+    "description": "",
+    "firstPublished": "2021-02-08T14:48:39.815Z",
+    "duration": 185.003,
+    "durationFormattedHHMM": "3:05",
+    "durationFormattedMinSec": "3m 5s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/97/rrv_E_005_r240P.mp4",
+            "checksum": "d5a95551cf1ac4822aab16385aa2de1e",
+            "filesize": 4192722,
+            "modifiedDatetime": "2020-12-12T20:10:01.000Z",
+            "bitRate": 177.05464573547457,
+            "duration": 185.003,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.739,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/c8/rrv_E_005.vtt",
+                "modifiedDatetime": "2019-01-08T13:35:52.000Z",
+                "checksum": "a940c90e9c971b3bee1e7a90d311c955"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/44/rrv_E_005_r360P.mp4",
+            "checksum": "5a1b669384eae36860aa4ed08ec82275",
+            "filesize": 8275134,
+            "modifiedDatetime": "2019-01-08T13:35:55.000Z",
+            "bitRate": 349.4982342494783,
+            "duration": 184.978,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/c8/rrv_E_005.vtt",
+                "modifiedDatetime": "2019-01-08T13:35:52.000Z",
+                "checksum": "a940c90e9c971b3bee1e7a90d311c955"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/35/rrv_E_005_r480P.mp4",
+            "checksum": "7835a57b719298a5d48f25a0f1dc7a86",
+            "filesize": 14788115,
+            "modifiedDatetime": "2019-01-08T13:36:31.000Z",
+            "bitRate": 624.5723731335618,
+            "duration": 184.978,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/c8/rrv_E_005.vtt",
+                "modifiedDatetime": "2019-01-08T13:35:52.000Z",
+                "checksum": "a940c90e9c971b3bee1e7a90d311c955"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/e2/rrv_E_005_r720P.mp4",
+            "checksum": "6883207ad0348a41e7d4ae5efeffafda",
+            "filesize": 24204404,
+            "modifiedDatetime": "2019-01-08T13:34:14.000Z",
+            "bitRate": 1022.2670060763983,
+            "duration": 184.978,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/c8/rrv_E_005.vtt",
+                "modifiedDatetime": "2019-01-08T13:35:52.000Z",
+                "checksum": "a940c90e9c971b3bee1e7a90d311c955"
+            }
+        }
+    ],
+    "printReferences": [
+        "rrv-5.v",
+        "rrv-5"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/c8/rrv_E_005.vtt",
+    "Name": "pub-rrv_E_5_VIDEO",
+    "Title": "Introduction to Chapter 5",
+    "UndatedReferenceTitle": "Introduction to Chapter 5",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODPureWorshipIntro"
+}

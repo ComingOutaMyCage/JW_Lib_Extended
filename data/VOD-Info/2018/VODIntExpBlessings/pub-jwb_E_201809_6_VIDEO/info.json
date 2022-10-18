@@ -1,0 +1,102 @@
+{
+    "guid": "5b76e564c1963ea3306e2f37",
+    "languageAgnosticNaturalKey": "pub-jwb_201809_6_VIDEO",
+    "naturalKey": "pub-jwb_E_201809_6_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpBlessings",
+    "description": "",
+    "firstPublished": "2018-09-17T13:02:22.318Z",
+    "duration": 304.086,
+    "durationFormattedHHMM": "5:04",
+    "durationFormattedMinSec": "5m 4s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/bb/jwb_E_201809_06_r240P.mp4",
+            "checksum": "16d4aba5ecca9d3b558ca49484c8526e",
+            "filesize": 10537494,
+            "modifiedDatetime": "2020-11-14T03:21:11.000Z",
+            "bitRate": 270.72660982419444,
+            "duration": 304.086,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/a6/jwb_E_201809_06.vtt",
+                "modifiedDatetime": "2018-09-17T12:39:31.000Z",
+                "checksum": "e2c8f8286f4d57e793ef80c429e7778e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/e0/jwb_E_201809_06_r360P.mp4",
+            "checksum": "29551049b46d5feb4d0cba48aa144603",
+            "filesize": 19933687,
+            "modifiedDatetime": "2018-09-17T12:39:19.000Z",
+            "bitRate": 512.1834197349164,
+            "duration": 304.055,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/a6/jwb_E_201809_06.vtt",
+                "modifiedDatetime": "2018-09-17T12:39:31.000Z",
+                "checksum": "e2c8f8286f4d57e793ef80c429e7778e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/18/jwb_E_201809_06_r480P.mp4",
+            "checksum": "4504d7d0e66bebc6e8d1837d5499a8e6",
+            "filesize": 37231193,
+            "modifiedDatetime": "2018-09-17T12:39:22.000Z",
+            "bitRate": 956.6318439509299,
+            "duration": 304.055,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/a6/jwb_E_201809_06.vtt",
+                "modifiedDatetime": "2018-09-17T12:39:31.000Z",
+                "checksum": "e2c8f8286f4d57e793ef80c429e7778e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/fb/jwb_E_201809_06_r720P.mp4",
+            "checksum": "d4441c6711d2d38943b88d567f351869",
+            "filesize": 62181785,
+            "modifiedDatetime": "2018-09-17T12:39:26.000Z",
+            "bitRate": 1597.721449449935,
+            "duration": 304.055,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/a6/jwb_E_201809_06.vtt",
+                "modifiedDatetime": "2018-09-17T12:39:31.000Z",
+                "checksum": "e2c8f8286f4d57e793ef80c429e7778e"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201809-6.v",
+        "jwb.201809-6"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/a6/jwb_E_201809_06.vtt",
+    "Name": "pub-jwb_E_201809_6_VIDEO",
+    "Title": "This Is My Assignment",
+    "UndatedReferenceTitle": "This Is My Assignment",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "VODIntExpBlessings"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "59af15045434430be822de6f",
+    "languageAgnosticNaturalKey": "pub-imv_5_VIDEO",
+    "naturalKey": "pub-imv_E_5_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODMinistryTools",
+    "description": "",
+    "firstPublished": "2017-10-05T15:37:06.357Z",
+    "duration": 84.451,
+    "durationFormattedHHMM": "1:24",
+    "durationFormattedMinSec": "1m 24s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/fb/imv_E_05_r240P.mp4",
+            "checksum": "1eee17903bfeef87b25515c5bcfa6723",
+            "filesize": 4278155,
+            "modifiedDatetime": "2020-12-16T23:27:29.000Z",
+            "bitRate": 395.76897772080855,
+            "duration": 84.451,
+            "frameHeight": 180,
+            "frameWidth": 320,
+            "label": "240p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/cd/imv_E_05_r240P.vtt",
+                "modifiedDatetime": "2019-03-02T21:26:27.000Z",
+                "checksum": "8de57b2a6af9ab118f33c9c0b5915b4d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/8c/imv_E_05_r360P.mp4",
+            "checksum": "2b2402fc1519526deda6255d587bc9e5",
+            "filesize": 9283635,
+            "modifiedDatetime": "2019-03-02T21:27:20.000Z",
+            "bitRate": 859.1545885076306,
+            "duration": 84.41833333333334,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/15/imv_E_05_r360P.vtt",
+                "modifiedDatetime": "2019-03-02T21:27:21.000Z",
+                "checksum": "8de57b2a6af9ab118f33c9c0b5915b4d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/9d/imv_E_05_r480P.mp4",
+            "checksum": "50dbcbef60d020563c0883e07a532828",
+            "filesize": 12480105,
+            "modifiedDatetime": "2019-03-02T21:27:25.000Z",
+            "bitRate": 1154.9721069179286,
+            "duration": 84.41833333333334,
+            "frameHeight": 480,
+            "frameWidth": 854,
+            "label": "480p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/d2/imv_E_05_r480P.vtt",
+                "modifiedDatetime": "2019-03-02T21:27:25.000Z",
+                "checksum": "8de57b2a6af9ab118f33c9c0b5915b4d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/8f/imv_E_05_r720P.mp4",
+            "checksum": "e69e7741adb179b5d8aa406440a9c3b5",
+            "filesize": 17791219,
+            "modifiedDatetime": "2019-03-02T21:27:32.000Z",
+            "bitRate": 1646.4894881147459,
+            "duration": 84.41833333333334,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/5d/imv_E_05_r720P.vtt",
+                "modifiedDatetime": "2019-03-02T21:27:32.000Z",
+                "checksum": "8de57b2a6af9ab118f33c9c0b5915b4d"
+            }
+        }
+    ],
+    "printReferences": [
+        "imv-5.v",
+        "imv-5"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/cd/imv_E_05_r240P.vtt",
+    "Name": "pub-imv_E_5_VIDEO",
+    "Title": "Jehovah’s Witnesses—Who Are We?",
+    "UndatedReferenceTitle": "Jehovah’s Witnesses—Who Are We?",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2017,
+    "Symbol": "VODMinistryTools"
+}

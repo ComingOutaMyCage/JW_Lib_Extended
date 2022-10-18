@@ -1,0 +1,102 @@
+{
+    "guid": "5d5af08aad989978fb9d82f9",
+    "languageAgnosticNaturalKey": "pub-jwb_201911_5_VIDEO",
+    "naturalKey": "pub-jwb_E_201911_5_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesTruthTransforms",
+    "description": "",
+    "firstPublished": "2019-11-18T14:09:48.888Z",
+    "duration": 313.771,
+    "durationFormattedHHMM": "5:13",
+    "durationFormattedMinSec": "5m 13s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/37/jwb_E_201911_05_r240P.mp4",
+            "checksum": "9efd5c1727118cdc2174f67da9a4e2a1",
+            "filesize": 7565823,
+            "modifiedDatetime": "2020-11-06T20:30:34.000Z",
+            "bitRate": 188.37939831118874,
+            "duration": 313.771,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.599,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/90/jwb_E_201911_05.vtt",
+                "modifiedDatetime": "2019-11-18T13:09:29.000Z",
+                "checksum": "5841ae322178dbaeeaffdfed59654954"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/ee/jwb_E_201911_05_r360P.mp4",
+            "checksum": "bb50a4229987fe9d879e356c87cc2eaa",
+            "filesize": 14061482,
+            "modifiedDatetime": "2019-11-18T13:09:12.000Z",
+            "bitRate": 350.15659264914,
+            "duration": 313.732,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/90/jwb_E_201911_05.vtt",
+                "modifiedDatetime": "2019-11-18T13:09:29.000Z",
+                "checksum": "5841ae322178dbaeeaffdfed59654954"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/78/jwb_E_201911_05_r480P.mp4",
+            "checksum": "a7f0e321723aee9a2a07af05b472e37e",
+            "filesize": 25442414,
+            "modifiedDatetime": "2019-11-18T13:09:19.000Z",
+            "bitRate": 633.5625928340112,
+            "duration": 313.732,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/90/jwb_E_201911_05.vtt",
+                "modifiedDatetime": "2019-11-18T13:09:29.000Z",
+                "checksum": "5841ae322178dbaeeaffdfed59654954"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/be/jwb_E_201911_05_r720P.mp4",
+            "checksum": "dda336576cfcaccb9bb5f0a01fb3219a",
+            "filesize": 42380201,
+            "modifiedDatetime": "2019-11-18T13:09:23.000Z",
+            "bitRate": 1055.3444350990653,
+            "duration": 313.732,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/90/jwb_E_201911_05.vtt",
+                "modifiedDatetime": "2019-11-18T13:09:29.000Z",
+                "checksum": "5841ae322178dbaeeaffdfed59654954"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201911-5.v",
+        "jwb.201911-5"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/90/jwb_E_201911_05.vtt",
+    "Name": "pub-jwb_E_201911_5_VIDEO",
+    "Title": "Adam and Nancy Solomon: Jehovah Took Us In",
+    "UndatedReferenceTitle": "Adam and Nancy Solomon: Jehovah Took Us In",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "SeriesTruthTransforms"
+}

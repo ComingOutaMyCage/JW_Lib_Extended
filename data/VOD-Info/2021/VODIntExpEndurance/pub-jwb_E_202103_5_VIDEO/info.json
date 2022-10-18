@@ -1,0 +1,102 @@
+{
+    "guid": "5f86f2fe0ca056895ecfd214",
+    "languageAgnosticNaturalKey": "pub-jwb_202103_5_VIDEO",
+    "naturalKey": "pub-jwb_E_202103_5_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpEndurance",
+    "description": "",
+    "firstPublished": "2021-03-15T14:09:40.787Z",
+    "duration": 319.318,
+    "durationFormattedHHMM": "5:19",
+    "durationFormattedMinSec": "5m 19s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/02/jwb_E_202103_05_r240P.mp4",
+            "checksum": "235165c26be61e6129329b8832743aa7",
+            "filesize": 9771542,
+            "modifiedDatetime": "2021-03-15T04:54:45.000Z",
+            "bitRate": 239.07256050394906,
+            "duration": 319.318,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.715,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/a1/jwb_E_202103_05.vtt",
+                "modifiedDatetime": "2021-03-15T04:53:54.000Z",
+                "checksum": "a8d4eb4058abe2a87920fcee37ecb8bf"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/6b/jwb_E_202103_05_r360P.mp4",
+            "checksum": "8ceef075d4391e11fd94cd669895efc9",
+            "filesize": 16946539,
+            "modifiedDatetime": "2021-03-15T04:54:31.000Z",
+            "bitRate": 414.6681615060809,
+            "duration": 319.279,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/a1/jwb_E_202103_05.vtt",
+                "modifiedDatetime": "2021-03-15T04:53:54.000Z",
+                "checksum": "a8d4eb4058abe2a87920fcee37ecb8bf"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/5c/jwb_E_202103_05_r480P.mp4",
+            "checksum": "498d804389d8b8e00959e944e90700c2",
+            "filesize": 35725744,
+            "modifiedDatetime": "2021-03-15T04:54:29.000Z",
+            "bitRate": 874.1801841023055,
+            "duration": 319.279,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/a1/jwb_E_202103_05.vtt",
+                "modifiedDatetime": "2021-03-15T04:53:54.000Z",
+                "checksum": "a8d4eb4058abe2a87920fcee37ecb8bf"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/6e/jwb_E_202103_05_r720P.mp4",
+            "checksum": "8cf392a17770470fb6bf0c4cb29615ce",
+            "filesize": 76115632,
+            "modifiedDatetime": "2021-03-15T04:53:56.000Z",
+            "bitRate": 1862.4882156358547,
+            "duration": 319.279,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/a1/jwb_E_202103_05.vtt",
+                "modifiedDatetime": "2021-03-15T04:53:54.000Z",
+                "checksum": "a8d4eb4058abe2a87920fcee37ecb8bf"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202103-5.v",
+        "jwb.202103-5"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/a1/jwb_E_202103_05.vtt",
+    "Name": "pub-jwb_E_202103_5_VIDEO",
+    "Title": "Claudius Johnson: I Am Devoted to Prayer",
+    "UndatedReferenceTitle": "Claudius Johnson: I Am Devoted to Prayer",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODIntExpEndurance"
+}

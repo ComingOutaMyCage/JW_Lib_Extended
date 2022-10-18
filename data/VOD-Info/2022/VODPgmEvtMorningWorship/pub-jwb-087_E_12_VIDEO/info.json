@@ -1,0 +1,102 @@
+{
+    "guid": "61f801ac57c50ea1eb9c5da7",
+    "languageAgnosticNaturalKey": "pub-jwb-087_12_VIDEO",
+    "naturalKey": "pub-jwb-087_E_12_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2022-03-25T13:40:06.353Z",
+    "duration": 608.342,
+    "durationFormattedHHMM": "10:08",
+    "durationFormattedMinSec": "10m 8s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/98/jwb-087_E_12_r240P.mp4",
+            "checksum": "192a47b4370325373b729a9e3d4e6ae4",
+            "filesize": 9603731,
+            "modifiedDatetime": "2022-03-25T13:28:42.000Z",
+            "bitRate": 123.3338293879101,
+            "duration": 608.342,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.91,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/89/jwb-087_E_12.vtt",
+                "modifiedDatetime": "2022-03-25T13:28:18.000Z",
+                "checksum": "118ec0f364d1323fe26a28a24843260d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/61/jwb-087_E_12_r360P.mp4",
+            "checksum": "ab9fd758ecd5886ec6cadd5e15753e05",
+            "filesize": 19327252,
+            "modifiedDatetime": "2022-03-25T13:28:34.000Z",
+            "bitRate": 248.2162363537432,
+            "duration": 608.317,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/89/jwb-087_E_12.vtt",
+                "modifiedDatetime": "2022-03-25T13:28:18.000Z",
+                "checksum": "118ec0f364d1323fe26a28a24843260d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/4d/jwb-087_E_12_r480P.mp4",
+            "checksum": "24db8712cf5030a1e08ffbbdc4e790c8",
+            "filesize": 34405866,
+            "modifiedDatetime": "2022-03-25T13:28:27.000Z",
+            "bitRate": 441.86801967559677,
+            "duration": 608.317,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/89/jwb-087_E_12.vtt",
+                "modifiedDatetime": "2022-03-25T13:28:18.000Z",
+                "checksum": "118ec0f364d1323fe26a28a24843260d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/0b/jwb-087_E_12_r720P.mp4",
+            "checksum": "b85b12b5ff65a843977cc358f4101121",
+            "filesize": 59764595,
+            "modifiedDatetime": "2022-03-25T13:28:20.000Z",
+            "bitRate": 767.5453726223334,
+            "duration": 608.317,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/89/jwb-087_E_12.vtt",
+                "modifiedDatetime": "2022-03-25T13:28:18.000Z",
+                "checksum": "118ec0f364d1323fe26a28a24843260d"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-087-12.v",
+        "jwb-087-12"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/89/jwb-087_E_12.vtt",
+    "Name": "pub-jwb-087_E_12_VIDEO",
+    "Title": "Patrick LaFranca: ‘Remember Your Grand Creator’ (Eccl. 12:1)",
+    "UndatedReferenceTitle": "Patrick LaFranca: ‘Remember Your Grand Creator’ (Eccl. 12:1)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

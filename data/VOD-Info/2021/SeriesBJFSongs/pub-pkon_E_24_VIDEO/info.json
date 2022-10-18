@@ -1,0 +1,102 @@
+{
+    "guid": "61439285a074a87de6a8dabf",
+    "languageAgnosticNaturalKey": "pub-pkon_24_VIDEO",
+    "naturalKey": "pub-pkon_E_24_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBJFSongs",
+    "description": "",
+    "firstPublished": "2021-11-08T14:17:47.804Z",
+    "duration": 155.179,
+    "durationFormattedHHMM": "2:35",
+    "durationFormattedMinSec": "2m 35s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/c3/pkon_E_024_r240P.mp4",
+            "checksum": "94eea92fae3bbc4080c3dad4d8e7ad50",
+            "filesize": 4401518,
+            "modifiedDatetime": "2021-11-08T04:35:14.000Z",
+            "bitRate": 221.5947993929591,
+            "duration": 155.179,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.483,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/e3/pkon_E_024.vtt",
+                "modifiedDatetime": "2021-11-08T04:34:57.000Z",
+                "checksum": "84c58789c672c34689fa77c92b81111f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/72/pkon_E_024_r360P.mp4",
+            "checksum": "68f0a57ea0602e4275f8c7bee852869c",
+            "filesize": 7490752,
+            "modifiedDatetime": "2021-11-08T04:35:09.000Z",
+            "bitRate": 377.17845265410295,
+            "duration": 155.156,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/e3/pkon_E_024.vtt",
+                "modifiedDatetime": "2021-11-08T04:34:57.000Z",
+                "checksum": "84c58789c672c34689fa77c92b81111f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/a6/pkon_E_024_r480P.mp4",
+            "checksum": "5eab87b5e19d67d244919e6486799714",
+            "filesize": 12573863,
+            "modifiedDatetime": "2021-11-08T04:35:07.000Z",
+            "bitRate": 633.1260453189049,
+            "duration": 155.156,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/e3/pkon_E_024.vtt",
+                "modifiedDatetime": "2021-11-08T04:34:57.000Z",
+                "checksum": "84c58789c672c34689fa77c92b81111f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/4a/pkon_E_024_r720P.mp4",
+            "checksum": "0a6b5a7bd36165b8387279300d2a57df",
+            "filesize": 18584372,
+            "modifiedDatetime": "2021-11-08T04:35:03.000Z",
+            "bitRate": 935.7704906674572,
+            "duration": 155.156,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/e3/pkon_E_024.vtt",
+                "modifiedDatetime": "2021-11-08T04:34:57.000Z",
+                "checksum": "84c58789c672c34689fa77c92b81111f"
+            }
+        }
+    ],
+    "printReferences": [
+        "pkon-24.v",
+        "pkon-24"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/e3/pkon_E_024.vtt",
+    "Name": "pub-pkon_E_24_VIDEO",
+    "Title": "David—An Example for Youths",
+    "UndatedReferenceTitle": "David—An Example for Youths",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "SeriesBJFSongs"
+}

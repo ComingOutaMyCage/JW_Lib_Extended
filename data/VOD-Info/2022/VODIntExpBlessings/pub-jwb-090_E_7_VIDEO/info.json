@@ -1,0 +1,102 @@
+{
+    "guid": "623dd1c5dedf1bc789ed7f4f",
+    "languageAgnosticNaturalKey": "pub-jwb-090_7_VIDEO",
+    "naturalKey": "pub-jwb-090_E_7_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpBlessings",
+    "description": "",
+    "firstPublished": "2022-09-19T13:45:07.215Z",
+    "duration": 363.776,
+    "durationFormattedHHMM": "6:03",
+    "durationFormattedMinSec": "6m 3s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/80/jwb-090_E_07_r240P.mp4",
+            "checksum": "45228446dec8e62e39f3765f944ac7fa",
+            "filesize": 8863082,
+            "modifiedDatetime": "2022-09-19T04:21:23.000Z",
+            "bitRate": 190.34468498471585,
+            "duration": 363.776,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/c2/jwb-090_E_07.vtt",
+                "modifiedDatetime": "2022-09-19T04:21:03.000Z",
+                "checksum": "f699a90bc7fea2dc02938aaeead437c5"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/e4/jwb-090_E_07_r360P.mp4",
+            "checksum": "2730e5c300692d6c5f0cf38283391124",
+            "filesize": 16076003,
+            "modifiedDatetime": "2022-09-19T04:21:18.000Z",
+            "bitRate": 345.2702325397589,
+            "duration": 363.755,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/c2/jwb-090_E_07.vtt",
+                "modifiedDatetime": "2022-09-19T04:21:03.000Z",
+                "checksum": "f699a90bc7fea2dc02938aaeead437c5"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/33/jwb-090_E_07_r480P.mp4",
+            "checksum": "5fd1a29df2aab0cecab1c4dd99485491",
+            "filesize": 30004154,
+            "modifiedDatetime": "2022-09-19T04:21:11.000Z",
+            "bitRate": 644.4102572473231,
+            "duration": 363.755,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/c2/jwb-090_E_07.vtt",
+                "modifiedDatetime": "2022-09-19T04:21:03.000Z",
+                "checksum": "f699a90bc7fea2dc02938aaeead437c5"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/31/jwb-090_E_07_r720P.mp4",
+            "checksum": "9f1a9039a80e2ff371922fe4051238c2",
+            "filesize": 53055969,
+            "modifiedDatetime": "2022-09-19T04:21:07.000Z",
+            "bitRate": 1139.502571270498,
+            "duration": 363.755,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/c2/jwb-090_E_07.vtt",
+                "modifiedDatetime": "2022-09-19T04:21:03.000Z",
+                "checksum": "f699a90bc7fea2dc02938aaeead437c5"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-090-7.v",
+        "jwb-090-7"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/c2/jwb-090_E_07.vtt",
+    "Name": "pub-jwb-090_E_7_VIDEO",
+    "Title": "Do Things Jehovah’s Way",
+    "UndatedReferenceTitle": "Do Things Jehovah’s Way",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODIntExpBlessings"
+}

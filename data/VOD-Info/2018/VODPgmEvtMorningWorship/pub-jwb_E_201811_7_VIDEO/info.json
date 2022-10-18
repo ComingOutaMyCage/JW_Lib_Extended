@@ -1,0 +1,102 @@
+{
+    "guid": "5bbb9a04a51af8eef456b64f",
+    "languageAgnosticNaturalKey": "pub-jwb_201811_7_VIDEO",
+    "naturalKey": "pub-jwb_E_201811_7_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2018-11-19T16:25:39.270Z",
+    "duration": 524.502,
+    "durationFormattedHHMM": "8:44",
+    "durationFormattedMinSec": "8m 44s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/43/jwb_E_201811_07_r240P.mp4",
+            "checksum": "16af6317c0e45bef1b2a02473fd4c213",
+            "filesize": 8859032,
+            "modifiedDatetime": "2020-11-06T23:26:49.000Z",
+            "bitRate": 131.95600302763384,
+            "duration": 524.502,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.441,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/fc/jwb_E_201811_07.vtt",
+                "modifiedDatetime": "2018-11-19T15:09:26.000Z",
+                "checksum": "4a11fa80bc4a11a7d8ef4d5a8efb0fef"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/fa/jwb_E_201811_07_r360P.mp4",
+            "checksum": "95920eeedefc3d49309245783e0a867a",
+            "filesize": 18799055,
+            "modifiedDatetime": "2018-11-19T15:09:32.000Z",
+            "bitRate": 280.0321415599075,
+            "duration": 524.467,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/fc/jwb_E_201811_07.vtt",
+                "modifiedDatetime": "2018-11-19T15:09:26.000Z",
+                "checksum": "4a11fa80bc4a11a7d8ef4d5a8efb0fef"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/9b/jwb_E_201811_07_r480P.mp4",
+            "checksum": "3037dadf0a9dae0d353928139beb32fc",
+            "filesize": 35731103,
+            "modifiedDatetime": "2018-11-19T15:09:36.000Z",
+            "bitRate": 532.2532059929414,
+            "duration": 524.467,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/fc/jwb_E_201811_07.vtt",
+                "modifiedDatetime": "2018-11-19T15:09:26.000Z",
+                "checksum": "4a11fa80bc4a11a7d8ef4d5a8efb0fef"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/81/jwb_E_201811_07_r720P.mp4",
+            "checksum": "f1342aa274e088fb5a245535ed9f1228",
+            "filesize": 60407114,
+            "modifiedDatetime": "2018-11-19T15:09:39.000Z",
+            "bitRate": 899.8289275111686,
+            "duration": 524.467,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/fc/jwb_E_201811_07.vtt",
+                "modifiedDatetime": "2018-11-19T15:09:26.000Z",
+                "checksum": "4a11fa80bc4a11a7d8ef4d5a8efb0fef"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201811-7.v",
+        "jwb.201811-7"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/fc/jwb_E_201811_07.vtt",
+    "Name": "pub-jwb_E_201811_7_VIDEO",
+    "Title": "Geoffrey W. Jackson: “Continue Putting Up With One Another” (Col. 3:13)",
+    "UndatedReferenceTitle": "Geoffrey W. Jackson: “Continue Putting Up With One Another” (Col. 3:13)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "5bbbaf0fa51af8eef456b672",
+    "languageAgnosticNaturalKey": "pub-jwb_201811_2_VIDEO",
+    "naturalKey": "pub-jwb_E_201811_2_VIDEO",
+    "type": "video",
+    "primaryCategory": "StudioTalks",
+    "description": "",
+    "firstPublished": "2018-11-19T16:25:21.318Z",
+    "duration": 1016.726,
+    "durationFormattedHHMM": "16:56",
+    "durationFormattedMinSec": "16m 56s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/40/jwb_E_201811_02_r240P.mp4",
+            "checksum": "d3f0634ad20924ad76850b70ca815415",
+            "filesize": 19726599,
+            "modifiedDatetime": "2020-11-06T23:26:42.000Z",
+            "bitRate": 151.5787485394295,
+            "duration": 1016.726,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.615,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/10/jwb_E_201811_02.vtt",
+                "modifiedDatetime": "2018-11-19T15:07:28.000Z",
+                "checksum": "df22ea6a1943bbaec8cf8ee014c0251a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/c1/jwb_E_201811_02_r360P.mp4",
+            "checksum": "5b9a2b64fd877eee133904b922a98a37",
+            "filesize": 39729944,
+            "modifiedDatetime": "2018-11-19T15:07:36.000Z",
+            "bitRate": 305.29421643919693,
+            "duration": 1016.692,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/10/jwb_E_201811_02.vtt",
+                "modifiedDatetime": "2018-11-19T15:07:28.000Z",
+                "checksum": "df22ea6a1943bbaec8cf8ee014c0251a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/38/jwb_E_201811_02_r480P.mp4",
+            "checksum": "27d58346da1041d4a1477395e265c3b8",
+            "filesize": 70451415,
+            "modifiedDatetime": "2018-11-19T15:07:40.000Z",
+            "bitRate": 541.3652115758755,
+            "duration": 1016.692,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/10/jwb_E_201811_02.vtt",
+                "modifiedDatetime": "2018-11-19T15:07:28.000Z",
+                "checksum": "df22ea6a1943bbaec8cf8ee014c0251a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/aa/jwb_E_201811_02_r720P.mp4",
+            "checksum": "a98233020fa62298b876ce58f801a3e5",
+            "filesize": 113789657,
+            "modifiedDatetime": "2018-11-19T15:07:54.000Z",
+            "bitRate": 874.3864369076377,
+            "duration": 1016.692,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/10/jwb_E_201811_02.vtt",
+                "modifiedDatetime": "2018-11-19T15:07:28.000Z",
+                "checksum": "df22ea6a1943bbaec8cf8ee014c0251a"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201811-2.v",
+        "jwb.201811-2"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/10/jwb_E_201811_02.vtt",
+    "Name": "pub-jwb_E_201811_2_VIDEO",
+    "Title": "William Malenfant: “Keep Conquering the Evil With the Good”",
+    "UndatedReferenceTitle": "William Malenfant: “Keep Conquering the Evil With the Good”",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "StudioTalks"
+}

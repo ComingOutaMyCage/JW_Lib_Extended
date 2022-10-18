@@ -1,0 +1,102 @@
+{
+    "guid": "6123e74f23708c1b98fd4e9d",
+    "languageAgnosticNaturalKey": "pub-osg_75_VIDEO",
+    "naturalKey": "pub-osg_E_75_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODOriginalSongs",
+    "description": "",
+    "firstPublished": "2021-08-23T18:43:05.131Z",
+    "duration": 267.691,
+    "durationFormattedHHMM": "4:27",
+    "durationFormattedMinSec": "4m 27s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/f7/osg_E_075_r240P.mp4",
+            "checksum": "5df83ddbba1796ec137dd90f12817afd",
+            "filesize": 7724650,
+            "modifiedDatetime": "2022-08-11T20:56:40.000Z",
+            "bitRate": 225.44212590262657,
+            "duration": 267.691,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/58/osg_E_075.vtt",
+                "modifiedDatetime": "2022-08-11T20:56:35.000Z",
+                "checksum": "50de4083193fdbbe64e932f6aa0ab50c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/8f/osg_E_075_r360P.mp4",
+            "checksum": "c8fb988938ba7a10d4f682dd0134c165",
+            "filesize": 13235263,
+            "modifiedDatetime": "2022-08-11T20:56:47.000Z",
+            "bitRate": 386.268093389393,
+            "duration": 267.691,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/58/osg_E_075.vtt",
+                "modifiedDatetime": "2022-08-11T20:56:35.000Z",
+                "checksum": "50de4083193fdbbe64e932f6aa0ab50c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/86/osg_E_075_r480P.mp4",
+            "checksum": "45f1bc65ce64526903cb8986f80cf868",
+            "filesize": 25808090,
+            "modifiedDatetime": "2022-08-11T20:56:50.000Z",
+            "bitRate": 753.2031451374907,
+            "duration": 267.691,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/58/osg_E_075.vtt",
+                "modifiedDatetime": "2022-08-11T20:56:35.000Z",
+                "checksum": "50de4083193fdbbe64e932f6aa0ab50c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/bc/osg_E_075_r720P.mp4",
+            "checksum": "e0dde4423a1b49efe0b26bcf80a49a56",
+            "filesize": 42740185,
+            "modifiedDatetime": "2022-08-11T20:56:53.000Z",
+            "bitRate": 1247.3624265010778,
+            "duration": 267.691,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/58/osg_E_075.vtt",
+                "modifiedDatetime": "2022-08-11T20:56:35.000Z",
+                "checksum": "50de4083193fdbbe64e932f6aa0ab50c"
+            }
+        }
+    ],
+    "printReferences": [
+        "osg-75.v",
+        "osg-75"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/58/osg_E_075.vtt",
+    "Name": "pub-osg_E_75_VIDEO",
+    "Title": "With Eyes of Faith",
+    "UndatedReferenceTitle": "With Eyes of Faith",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODOriginalSongs"
+}

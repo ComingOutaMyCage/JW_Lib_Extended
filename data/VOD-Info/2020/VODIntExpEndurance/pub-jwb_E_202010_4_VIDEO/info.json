@@ -1,0 +1,102 @@
+{
+    "guid": "5eb40c1f33192cea84c41de5",
+    "languageAgnosticNaturalKey": "pub-jwb_202010_4_VIDEO",
+    "naturalKey": "pub-jwb_E_202010_4_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpEndurance",
+    "description": "",
+    "firstPublished": "2020-10-19T12:47:46.210Z",
+    "duration": 306.85,
+    "durationFormattedHHMM": "5:06",
+    "durationFormattedMinSec": "5m 6s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/c2/jwb_E_202010_04_r240P.mp4",
+            "checksum": "ae5d2d42dbea06242d3fc0df1f85cd99",
+            "filesize": 6168893,
+            "modifiedDatetime": "2020-10-19T12:44:12.000Z",
+            "bitRate": 157.04665198937695,
+            "duration": 306.88,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.669,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/59/jwb_E_202010_04.vtt",
+                "modifiedDatetime": "2020-10-19T12:44:03.000Z",
+                "checksum": "91bede87ce5a06cf6b8d95bb756f5360"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/8b/jwb_E_202010_04_r360P.mp4",
+            "checksum": "416819616386a61217cede43412d61f3",
+            "filesize": 12225611,
+            "modifiedDatetime": "2020-10-19T12:44:15.000Z",
+            "bitRate": 311.26800044810165,
+            "duration": 306.85,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/59/jwb_E_202010_04.vtt",
+                "modifiedDatetime": "2020-10-19T12:44:03.000Z",
+                "checksum": "91bede87ce5a06cf6b8d95bb756f5360"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/f1/jwb_E_202010_04_r480P.mp4",
+            "checksum": "e5e5efae646566136aba1c792e731599",
+            "filesize": 21878601,
+            "modifiedDatetime": "2020-10-19T12:44:18.000Z",
+            "bitRate": 557.0362402232361,
+            "duration": 306.85,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/59/jwb_E_202010_04.vtt",
+                "modifiedDatetime": "2020-10-19T12:44:03.000Z",
+                "checksum": "91bede87ce5a06cf6b8d95bb756f5360"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/5a/jwb_E_202010_04_r720P.mp4",
+            "checksum": "a2682c23e25d78a646ec56ba72f8ef59",
+            "filesize": 35076214,
+            "modifiedDatetime": "2020-10-19T12:44:22.000Z",
+            "bitRate": 893.0517251914615,
+            "duration": 306.85,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/59/jwb_E_202010_04.vtt",
+                "modifiedDatetime": "2020-10-19T12:44:03.000Z",
+                "checksum": "91bede87ce5a06cf6b8d95bb756f5360"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202010-4.v",
+        "jwb.202010-4"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/59/jwb_E_202010_04.vtt",
+    "Name": "pub-jwb_E_202010_4_VIDEO",
+    "Title": "Takeshi Shimizu: Jehovah Is the “Hearer of Prayer”",
+    "UndatedReferenceTitle": "Takeshi Shimizu: Jehovah Is the “Hearer of Prayer”",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODIntExpEndurance"
+}

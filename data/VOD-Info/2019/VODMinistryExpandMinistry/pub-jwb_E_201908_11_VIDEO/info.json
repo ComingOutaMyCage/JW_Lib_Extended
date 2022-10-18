@@ -1,0 +1,102 @@
+{
+    "guid": "5d1a26be48fd57354cf355ba",
+    "languageAgnosticNaturalKey": "pub-jwb_201908_11_VIDEO",
+    "naturalKey": "pub-jwb_E_201908_11_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODMinistryExpandMinistry",
+    "description": "",
+    "firstPublished": "2019-08-26T11:59:53.577Z",
+    "duration": 284.864,
+    "durationFormattedHHMM": "4:44",
+    "durationFormattedMinSec": "4m 44s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/64/jwb_E_201908_11_r240P.mp4",
+            "checksum": "5140263b60f9bac8d4efbecdbe4b4a05",
+            "filesize": 10094364,
+            "modifiedDatetime": "2020-11-07T05:19:33.000Z",
+            "bitRate": 276.84164636458104,
+            "duration": 284.864,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.833,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/59/jwb_E_201908_11.vtt",
+                "modifiedDatetime": "2019-08-26T07:42:19.000Z",
+                "checksum": "b39c7d511df4f3f13afc95212dea3c55"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/e3/jwb_E_201908_11_r360P.mp4",
+            "checksum": "167084c47806c6e8d0b41a2402e2b38d",
+            "filesize": 19166306,
+            "modifiedDatetime": "2019-08-26T07:42:04.000Z",
+            "bitRate": 525.709430340416,
+            "duration": 284.828,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/59/jwb_E_201908_11.vtt",
+                "modifiedDatetime": "2019-08-26T07:42:19.000Z",
+                "checksum": "b39c7d511df4f3f13afc95212dea3c55"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/39/jwb_E_201908_11_r480P.mp4",
+            "checksum": "7ba9e2c97d8b170b1d5965e169cd2f95",
+            "filesize": 36862594,
+            "modifiedDatetime": "2019-08-26T07:42:09.000Z",
+            "bitRate": 1011.0979806233938,
+            "duration": 284.828,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/59/jwb_E_201908_11.vtt",
+                "modifiedDatetime": "2019-08-26T07:42:19.000Z",
+                "checksum": "b39c7d511df4f3f13afc95212dea3c55"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/b0/jwb_E_201908_11_r720P.mp4",
+            "checksum": "a5c00e321b9807adf63f6fa334c2e986",
+            "filesize": 63130902,
+            "modifiedDatetime": "2019-08-26T07:42:14.000Z",
+            "bitRate": 1731.6070466211188,
+            "duration": 284.828,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/59/jwb_E_201908_11.vtt",
+                "modifiedDatetime": "2019-08-26T07:42:19.000Z",
+                "checksum": "b39c7d511df4f3f13afc95212dea3c55"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201908-11.v",
+        "jwb.201908-11"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/59/jwb_E_201908_11.vtt",
+    "Name": "pub-jwb_E_201908_11_VIDEO",
+    "Title": "‘Stepping Over’ Into Bolivia",
+    "UndatedReferenceTitle": "‘Stepping Over’ Into Bolivia",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODMinistryExpandMinistry"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "5f36bd3412b86d2c3b52b8e8",
+    "languageAgnosticNaturalKey": "pub-jwb_202012_9_VIDEO",
+    "naturalKey": "pub-jwb_E_202012_9_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2020-12-14T13:24:50.820Z",
+    "duration": 657.707,
+    "durationFormattedHHMM": "10:57",
+    "durationFormattedMinSec": "10m 57s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/d4/jwb_E_202012_09_r240P.mp4",
+            "checksum": "7a8cf8c4061c19a3b0fcf0101ae08fce",
+            "filesize": 10430067,
+            "modifiedDatetime": "2020-12-14T07:58:19.000Z",
+            "bitRate": 123.89239956013849,
+            "duration": 657.707,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.615,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ed/jwb_E_202012_09.vtt",
+                "modifiedDatetime": "2020-12-14T07:58:37.000Z",
+                "checksum": "f1e2b27397ef0a686a02c94e3ff6d43b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/ab/jwb_E_202012_09_r360P.mp4",
+            "checksum": "67821f3ef061054f8bab8afa07a102b9",
+            "filesize": 21363758,
+            "modifiedDatetime": "2020-12-14T07:58:21.000Z",
+            "bitRate": 253.78247559175082,
+            "duration": 657.667,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ed/jwb_E_202012_09.vtt",
+                "modifiedDatetime": "2020-12-14T07:58:37.000Z",
+                "checksum": "f1e2b27397ef0a686a02c94e3ff6d43b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/0f/jwb_E_202012_09_r480P.mp4",
+            "checksum": "5b52ee1f65c4db9dcc54886446e0d381",
+            "filesize": 38686660,
+            "modifiedDatetime": "2020-12-14T07:58:24.000Z",
+            "bitRate": 459.56316988688803,
+            "duration": 657.667,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ed/jwb_E_202012_09.vtt",
+                "modifiedDatetime": "2020-12-14T07:58:37.000Z",
+                "checksum": "f1e2b27397ef0a686a02c94e3ff6d43b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/af/jwb_E_202012_09_r720P.mp4",
+            "checksum": "d42625a3087462cbe84df5f04c9e3f43",
+            "filesize": 70739264,
+            "modifiedDatetime": "2020-12-14T07:58:28.000Z",
+            "bitRate": 840.3196450483299,
+            "duration": 657.667,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ed/jwb_E_202012_09.vtt",
+                "modifiedDatetime": "2020-12-14T07:58:37.000Z",
+                "checksum": "f1e2b27397ef0a686a02c94e3ff6d43b"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202012-9.v",
+        "jwb.202012-9"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/ed/jwb_E_202012_09.vtt",
+    "Name": "pub-jwb_E_202012_9_VIDEO",
+    "Title": "Mark Noumair: Our Witnessing Conquers Satan (Rev. 12:9)",
+    "UndatedReferenceTitle": "Mark Noumair: Our Witnessing Conquers Satan (Rev. 12:9)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

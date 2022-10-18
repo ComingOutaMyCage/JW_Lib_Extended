@@ -1,0 +1,102 @@
+{
+    "guid": "600edf4543f4d7b024025b9b",
+    "languageAgnosticNaturalKey": "pub-jwb_202102_12_VIDEO",
+    "naturalKey": "pub-jwb_E_202102_12_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2021-02-22T14:11:40.347Z",
+    "duration": 720.384,
+    "durationFormattedHHMM": "12:00",
+    "durationFormattedMinSec": "12m 0s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/e5/jwb_E_202102_12_r240P.mp4",
+            "checksum": "833b73b63fdc4c5e3f626094f2dc0af4",
+            "filesize": 9383867,
+            "modifiedDatetime": "2021-02-22T05:50:09.000Z",
+            "bitRate": 101.76719768553993,
+            "duration": 720.384,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.354,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/e6/jwb_E_202102_12.vtt",
+                "modifiedDatetime": "2021-02-22T05:49:50.000Z",
+                "checksum": "eb505492c9eb580d4e3b5a6748451bcf"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/67/jwb_E_202102_12_r360P.mp4",
+            "checksum": "3b17ebbb9718b905b1586c3c43314544",
+            "filesize": 20403276,
+            "modifiedDatetime": "2021-02-22T05:50:04.000Z",
+            "bitRate": 221.2781524731281,
+            "duration": 720.363,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/e6/jwb_E_202102_12.vtt",
+                "modifiedDatetime": "2021-02-22T05:49:50.000Z",
+                "checksum": "eb505492c9eb580d4e3b5a6748451bcf"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/fe/jwb_E_202102_12_r480P.mp4",
+            "checksum": "a1591d7bf77a020e1ab0739c5fa8a91b",
+            "filesize": 35339744,
+            "modifiedDatetime": "2021-02-22T05:49:59.000Z",
+            "bitRate": 383.26753317424686,
+            "duration": 720.363,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/e6/jwb_E_202102_12.vtt",
+                "modifiedDatetime": "2021-02-22T05:49:50.000Z",
+                "checksum": "eb505492c9eb580d4e3b5a6748451bcf"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/07/jwb_E_202102_12_r720P.mp4",
+            "checksum": "8f64945b7c9375e45d0bc03264cd21bf",
+            "filesize": 59780964,
+            "modifiedDatetime": "2021-02-22T05:49:52.000Z",
+            "bitRate": 648.3381034978198,
+            "duration": 720.363,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/e6/jwb_E_202102_12.vtt",
+                "modifiedDatetime": "2021-02-22T05:49:50.000Z",
+                "checksum": "eb505492c9eb580d4e3b5a6748451bcf"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202102-12.v",
+        "jwb.202102-12"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/e6/jwb_E_202102_12.vtt",
+    "Name": "pub-jwb_E_202102_12_VIDEO",
+    "Title": "Mark Sanderson: Keep the Mental Attitude of Christ (Phil. 2:5, 7)",
+    "UndatedReferenceTitle": "Mark Sanderson: Keep the Mental Attitude of Christ (Phil. 2:5, 7)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

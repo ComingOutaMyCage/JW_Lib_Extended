@@ -1,0 +1,102 @@
+{
+    "guid": "5bedc383f49066e3df8b0428",
+    "languageAgnosticNaturalKey": "pub-jwb_201902_7_VIDEO",
+    "naturalKey": "pub-jwb_E_201902_7_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODMinistryMethods",
+    "description": "",
+    "firstPublished": "2019-02-19T03:30:37.278Z",
+    "duration": 295.318,
+    "durationFormattedHHMM": "4:55",
+    "durationFormattedMinSec": "4m 55s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/63/jwb_E_201902_07_r240P.mp4",
+            "checksum": "6c6aebf3ab354c24a86aa03d626fbe0c",
+            "filesize": 9511433,
+            "modifiedDatetime": "2020-11-07T04:17:23.000Z",
+            "bitRate": 251.62052537434224,
+            "duration": 295.318,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.715,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/60/jwb_E_201902_07.vtt",
+                "modifiedDatetime": "2019-02-19T03:26:35.000Z",
+                "checksum": "3ca2ddbdcebfe0208d6d13c2874c4b8c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/d7/jwb_E_201902_07_r360P.mp4",
+            "checksum": "8e9f7869f6dfb57d762c644f4718f0da",
+            "filesize": 18571950,
+            "modifiedDatetime": "2019-02-19T03:25:30.000Z",
+            "bitRate": 491.3488817152959,
+            "duration": 295.296,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/60/jwb_E_201902_07.vtt",
+                "modifiedDatetime": "2019-02-19T03:26:35.000Z",
+                "checksum": "3ca2ddbdcebfe0208d6d13c2874c4b8c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/cb/jwb_E_201902_07_r480P.mp4",
+            "checksum": "8fd18bfc16075eee993f0b93ef324739",
+            "filesize": 35073141,
+            "modifiedDatetime": "2019-02-19T03:25:36.000Z",
+            "bitRate": 927.9127182979113,
+            "duration": 295.296,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/60/jwb_E_201902_07.vtt",
+                "modifiedDatetime": "2019-02-19T03:26:35.000Z",
+                "checksum": "3ca2ddbdcebfe0208d6d13c2874c4b8c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/fe/jwb_E_201902_07_r720P.mp4",
+            "checksum": "2d2bd207607ed389a2b6571d8a092fc1",
+            "filesize": 59439752,
+            "modifiedDatetime": "2019-02-19T03:25:49.000Z",
+            "bitRate": 1572.5680757612702,
+            "duration": 295.296,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/60/jwb_E_201902_07.vtt",
+                "modifiedDatetime": "2019-02-19T03:26:35.000Z",
+                "checksum": "3ca2ddbdcebfe0208d6d13c2874c4b8c"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201902-7.v",
+        "jwb.201902-7"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/60/jwb_E_201902_07.vtt",
+    "Name": "pub-jwb_E_201902_7_VIDEO",
+    "Title": "Eclipse 2017–Finding Opportunities to Preach",
+    "UndatedReferenceTitle": "Eclipse 2017–Finding Opportunities to Preach",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODMinistryMethods"
+}

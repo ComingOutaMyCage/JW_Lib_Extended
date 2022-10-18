@@ -1,0 +1,102 @@
+{
+    "guid": "5f9064eba05028daa1bdb2e2",
+    "languageAgnosticNaturalKey": "pub-jwb_202010_16_VIDEO",
+    "naturalKey": "pub-jwb_E_202010_16_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2020-10-22T13:45:45.342Z",
+    "duration": 551.083,
+    "durationFormattedHHMM": "9:11",
+    "durationFormattedMinSec": "9m 11s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/05/jwb_E_202010_16_r240P.mp4",
+            "checksum": "809acde97320facf6cb45e7b3a9fb18b",
+            "filesize": 8618086,
+            "modifiedDatetime": "2020-10-22T05:36:37.000Z",
+            "bitRate": 122.17541980972014,
+            "duration": 551.083,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/35/jwb_E_202010_16.vtt",
+                "modifiedDatetime": "2020-10-22T05:36:47.000Z",
+                "checksum": "b8a5d5bbf8ee481b951c37e78717eea6"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/81/jwb_E_202010_16_r360P.mp4",
+            "checksum": "fc386fd4b9fc5f0232f800a8cbf46683",
+            "filesize": 17525377,
+            "modifiedDatetime": "2020-10-22T05:36:40.000Z",
+            "bitRate": 248.46116178365335,
+            "duration": 551.06,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/35/jwb_E_202010_16.vtt",
+                "modifiedDatetime": "2020-10-22T05:36:47.000Z",
+                "checksum": "b8a5d5bbf8ee481b951c37e78717eea6"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/a5/jwb_E_202010_16_r480P.mp4",
+            "checksum": "9f726d7c1299daeb36c739534dd66b96",
+            "filesize": 30143822,
+            "modifiedDatetime": "2020-10-22T05:36:42.000Z",
+            "bitRate": 427.35565886654814,
+            "duration": 551.06,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/35/jwb_E_202010_16.vtt",
+                "modifiedDatetime": "2020-10-22T05:36:47.000Z",
+                "checksum": "b8a5d5bbf8ee481b951c37e78717eea6"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/37/jwb_E_202010_16_r720P.mp4",
+            "checksum": "b3fbac2a541ba8e6bb2ac41b9e4b56b8",
+            "filesize": 50808646,
+            "modifiedDatetime": "2020-10-22T05:36:45.000Z",
+            "bitRate": 720.3254579809822,
+            "duration": 551.06,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/35/jwb_E_202010_16.vtt",
+                "modifiedDatetime": "2020-10-22T05:36:47.000Z",
+                "checksum": "b8a5d5bbf8ee481b951c37e78717eea6"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202010-16.v",
+        "jwb.202010-16"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/35/jwb_E_202010_16.vtt",
+    "Name": "pub-jwb_E_202010_16_VIDEO",
+    "Title": "Robert Luccioni: Another Convenient Time (Luke 4:6)",
+    "UndatedReferenceTitle": "Robert Luccioni: Another Convenient Time (Luke 4:6)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

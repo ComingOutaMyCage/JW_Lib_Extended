@@ -1,0 +1,102 @@
+{
+    "guid": "61e880bc57c50ea1eb3b2c8d",
+    "languageAgnosticNaturalKey": "docid-702022045_1_VIDEO",
+    "naturalKey": "docid-702022045_E_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpEndurance",
+    "description": "",
+    "firstPublished": "2022-01-21T14:24:44.265Z",
+    "duration": 245.483,
+    "durationFormattedHHMM": "4:05",
+    "durationFormattedMinSec": "4m 5s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/29/702022045_E_cnt_1_r240P.mp4",
+            "checksum": "3310a3c381bcc7d68010a42a6ef20b56",
+            "filesize": 5470429,
+            "modifiedDatetime": "2022-02-10T15:00:23.000Z",
+            "bitRate": 174.09648147733245,
+            "duration": 245.483,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.46,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/5b/702022045_E_cnt_1.vtt",
+                "modifiedDatetime": "2022-02-10T15:00:16.000Z",
+                "checksum": "8c29cf9856e8ad383bf1e0da93b32ad4"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/d4/702022045_E_cnt_1_r360P.mp4",
+            "checksum": "19a503c2776b482177643049743ba60c",
+            "filesize": 10446793,
+            "modifiedDatetime": "2022-02-10T15:00:26.000Z",
+            "bitRate": 332.5072632967346,
+            "duration": 245.455,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/5b/702022045_E_cnt_1.vtt",
+                "modifiedDatetime": "2022-02-10T15:00:16.000Z",
+                "checksum": "8c29cf9856e8ad383bf1e0da93b32ad4"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/2d/702022045_E_cnt_1_r480P.mp4",
+            "checksum": "3edaeff9575f6138def4054e292136cc",
+            "filesize": 18551964,
+            "modifiedDatetime": "2022-02-10T15:00:29.000Z",
+            "bitRate": 590.4838717891263,
+            "duration": 245.455,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/5b/702022045_E_cnt_1.vtt",
+                "modifiedDatetime": "2022-02-10T15:00:16.000Z",
+                "checksum": "8c29cf9856e8ad383bf1e0da93b32ad4"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/69/702022045_E_cnt_1_r720P.mp4",
+            "checksum": "a00b8f415debfc10f433092e7a6e8022",
+            "filesize": 30045003,
+            "modifiedDatetime": "2022-02-10T15:00:32.000Z",
+            "bitRate": 956.2917273532827,
+            "duration": 245.455,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/5b/702022045_E_cnt_1.vtt",
+                "modifiedDatetime": "2022-02-10T15:00:16.000Z",
+                "checksum": "8c29cf9856e8ad383bf1e0da93b32ad4"
+            }
+        }
+    ],
+    "printReferences": [
+        "702022045-1.v",
+        "702022045-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/content_assets/5b/702022045_E_cnt_1.vtt",
+    "Name": "docid-702022045_E_1_VIDEO",
+    "Title": "Jehovah’s Witnesses in Irkutsk Remain Faithful Despite Brutal Home Raids",
+    "UndatedReferenceTitle": "Jehovah’s Witnesses in Irkutsk Remain Faithful Despite Brutal Home Raids",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODIntExpEndurance"
+}

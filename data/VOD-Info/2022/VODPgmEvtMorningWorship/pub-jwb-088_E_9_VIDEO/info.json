@@ -1,0 +1,102 @@
+{
+    "guid": "62322bfededf1bc789d0a929",
+    "languageAgnosticNaturalKey": "pub-jwb-088_9_VIDEO",
+    "naturalKey": "pub-jwb-088_E_9_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2022-04-08T13:54:26.383Z",
+    "duration": 1015.168,
+    "durationFormattedHHMM": "16:55",
+    "durationFormattedMinSec": "16m 55s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/f3/jwb-088_E_09_r240P.mp4",
+            "checksum": "16d983a07160e9d549d2dc05383d6f85",
+            "filesize": 18320628,
+            "modifiedDatetime": "2022-04-08T13:42:16.000Z",
+            "bitRate": 140.99134946136994,
+            "duration": 1015.168,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/3c/jwb-088_E_09.vtt",
+                "modifiedDatetime": "2022-04-08T13:41:56.000Z",
+                "checksum": "4f02d8f4af264903ca95045e9a8c6675"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/59/jwb-088_E_09_r360P.mp4",
+            "checksum": "b16169759aeaa886fe823ebd53e19df6",
+            "filesize": 34162405,
+            "modifiedDatetime": "2022-04-08T13:42:11.000Z",
+            "bitRate": 262.91146904093694,
+            "duration": 1015.147,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/3c/jwb-088_E_09.vtt",
+                "modifiedDatetime": "2022-04-08T13:41:56.000Z",
+                "checksum": "4f02d8f4af264903ca95045e9a8c6675"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/1f/jwb-088_E_09_r480P.mp4",
+            "checksum": "2724e4f1d9bef32c3c38b6278d95d305",
+            "filesize": 58465587,
+            "modifiedDatetime": "2022-04-08T13:42:01.000Z",
+            "bitRate": 449.94705046411997,
+            "duration": 1015.147,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/3c/jwb-088_E_09.vtt",
+                "modifiedDatetime": "2022-04-08T13:41:56.000Z",
+                "checksum": "4f02d8f4af264903ca95045e9a8c6675"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/8c/jwb-088_E_09_r720P.mp4",
+            "checksum": "844f71ae3558e93ffd1be42aa8a3ea88",
+            "filesize": 92435880,
+            "modifiedDatetime": "2022-04-08T13:41:58.000Z",
+            "bitRate": 711.3800390485319,
+            "duration": 1015.147,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/3c/jwb-088_E_09.vtt",
+                "modifiedDatetime": "2022-04-08T13:41:56.000Z",
+                "checksum": "4f02d8f4af264903ca95045e9a8c6675"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-088-9.v",
+        "jwb-088-9"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/3c/jwb-088_E_09.vtt",
+    "Name": "pub-jwb-088_E_9_VIDEO",
+    "Title": "Memorial Morning Worship—Gerrit Lösch: Jehovah Restores His Original Purpose (Gen. 2:15-17)",
+    "UndatedReferenceTitle": "Memorial Morning Worship—Gerrit Lösch: Jehovah Restores His Original Purpose (Gen. 2:15-17)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

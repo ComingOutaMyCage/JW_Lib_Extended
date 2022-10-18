@@ -1,0 +1,102 @@
+{
+    "guid": "58d179daa25a39c2e32ae452",
+    "languageAgnosticNaturalKey": "pub-ojs_x_VIDEO",
+    "naturalKey": "pub-ojs_E_x_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODBibleAccounts",
+    "description": "",
+    "firstPublished": "2017-06-08T16:11:45.575Z",
+    "duration": 1513.595,
+    "durationFormattedHHMM": "25:13",
+    "durationFormattedMinSec": "25m 13s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/b7/ojs_E_r240P.mp4",
+            "checksum": "baf0e9343363c950606e4af7c8df82d1",
+            "filesize": 74607241,
+            "modifiedDatetime": "2020-12-12T13:31:31.000Z",
+            "bitRate": 385.0891885296265,
+            "duration": 1513.595,
+            "frameHeight": 180,
+            "frameWidth": 320,
+            "label": "240p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/8f/ojs_E_r240P.vtt",
+                "modifiedDatetime": "2019-01-17T16:19:52.000Z",
+                "checksum": "4b3f064f6ce1c306715d4f79566dabfa"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/13/ojs_E_r360P.mp4",
+            "checksum": "c41ff7021aaa3ab450fce7ec81b77a9a",
+            "filesize": 157189444,
+            "modifiedDatetime": "2019-01-17T16:20:07.000Z",
+            "bitRate": 811.3415618114489,
+            "duration": 1513.595,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/ff/ojs_E_r360P.vtt",
+                "modifiedDatetime": "2019-01-17T16:20:07.000Z",
+                "checksum": "4b3f064f6ce1c306715d4f79566dabfa"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/df/ojs_E_r480P.mp4",
+            "checksum": "72194c02604cbfa8515ba1095ceb6469",
+            "filesize": 213689185,
+            "modifiedDatetime": "2019-01-17T16:20:37.000Z",
+            "bitRate": 1102.967939120108,
+            "duration": 1513.595,
+            "frameHeight": 480,
+            "frameWidth": 854,
+            "label": "480p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/18/ojs_E_r480P.vtt",
+                "modifiedDatetime": "2019-01-17T16:20:37.000Z",
+                "checksum": "4b3f064f6ce1c306715d4f79566dabfa"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/b1/ojs_E_r720P.mp4",
+            "checksum": "ae8b862446200069f77f3139075c7a45",
+            "filesize": 308677731,
+            "modifiedDatetime": "2019-01-17T16:21:21.000Z",
+            "bitRate": 1593.2563026684813,
+            "duration": 1513.595,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/1a/ojs_E_r720P.vtt",
+                "modifiedDatetime": "2019-01-17T16:21:22.000Z",
+                "checksum": "4b3f064f6ce1c306715d4f79566dabfa"
+            }
+        }
+    ],
+    "printReferences": [
+        "ojs.v",
+        "ojs"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/8f/ojs_E_r240P.vtt",
+    "Name": "pub-ojs_E_x_VIDEO",
+    "Title": "\"Who Is on Jehovah's Side?\" (Exodus 20:1-7; 24:3-18; 32:1-35; 34:1-14)",
+    "UndatedReferenceTitle": "\"Who Is on Jehovah's Side?\" (Exodus 20:1-7; 24:3-18; 32:1-35; 34:1-14)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2017,
+    "Symbol": "VODBibleAccounts"
+}

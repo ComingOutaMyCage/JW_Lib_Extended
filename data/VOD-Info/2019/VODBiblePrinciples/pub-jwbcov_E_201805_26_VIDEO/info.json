@@ -1,0 +1,102 @@
+{
+    "guid": "5cc37ab6db0b288e409e1d96",
+    "languageAgnosticNaturalKey": "pub-jwbcov_201805_26_VIDEO",
+    "naturalKey": "pub-jwbcov_E_201805_26_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODBiblePrinciples",
+    "description": "",
+    "firstPublished": "2019-04-29T20:38:53.062Z",
+    "duration": 1279.723,
+    "durationFormattedHHMM": "21:19",
+    "durationFormattedMinSec": "21m 19s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/42/jwbcov_E_201805_26_r240P.mp4",
+            "checksum": "bcfd78b561502473b0f4277fabdd6d5a",
+            "filesize": 27682190,
+            "modifiedDatetime": "2020-11-07T12:29:51.000Z",
+            "bitRate": 168.9952508277182,
+            "duration": 1279.723,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.762,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/24/jwbcov_E_201805_26.vtt",
+                "modifiedDatetime": "2019-04-29T20:21:49.000Z",
+                "checksum": "c2a3539b490897d1139752b05f819600"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/67/jwbcov_E_201805_26_r360P.mp4",
+            "checksum": "cd3b0ae1d189c214712c19fb64907982",
+            "filesize": 52579123,
+            "modifiedDatetime": "2019-04-29T20:21:07.000Z",
+            "bitRate": 320.993483955577,
+            "duration": 1279.697,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/24/jwbcov_E_201805_26.vtt",
+                "modifiedDatetime": "2019-04-29T20:21:49.000Z",
+                "checksum": "c2a3539b490897d1139752b05f819600"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/7e/jwbcov_E_201805_26_r480P.mp4",
+            "checksum": "e6561c8db73ae96696e201c78d1a68fe",
+            "filesize": 93979238,
+            "modifiedDatetime": "2019-04-29T20:21:16.000Z",
+            "bitRate": 573.7395624706473,
+            "duration": 1279.697,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/24/jwbcov_E_201805_26.vtt",
+                "modifiedDatetime": "2019-04-29T20:21:49.000Z",
+                "checksum": "c2a3539b490897d1139752b05f819600"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/15/jwbcov_E_201805_26_r720P.mp4",
+            "checksum": "cb343e890acc8ca26bfd118e293b59c4",
+            "filesize": 150800654,
+            "modifiedDatetime": "2019-04-29T20:21:31.000Z",
+            "bitRate": 920.632078824128,
+            "duration": 1279.697,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/24/jwbcov_E_201805_26.vtt",
+                "modifiedDatetime": "2019-04-29T20:21:49.000Z",
+                "checksum": "c2a3539b490897d1139752b05f819600"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwbcov.201805-26.v",
+        "jwbcov.201805-26"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/24/jwbcov_E_201805_26.vtt",
+    "Name": "pub-jwbcov_E_201805_26_VIDEO",
+    "Title": "Future Events That Will Require Courage",
+    "UndatedReferenceTitle": "Future Events That Will Require Courage",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODBiblePrinciples"
+}

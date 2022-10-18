@@ -1,0 +1,102 @@
+{
+    "guid": "5e446882faacdecc1391aa51",
+    "languageAgnosticNaturalKey": "pub-jwb_202006_2_VIDEO",
+    "naturalKey": "pub-jwb_E_202006_2_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2020-06-08T10:18:13.736Z",
+    "duration": 557.718,
+    "durationFormattedHHMM": "9:17",
+    "durationFormattedMinSec": "9m 17s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/c5/jwb_E_202006_02_r240P.mp4",
+            "checksum": "312baf43213e14996c078889ef0799d3",
+            "filesize": 10103146,
+            "modifiedDatetime": "2020-10-18T03:04:14.000Z",
+            "bitRate": 141.52462019335937,
+            "duration": 557.718,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.762,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/cf/jwb_E_202006_02.vtt",
+                "modifiedDatetime": "2020-06-08T08:18:46.000Z",
+                "checksum": "1dd42875414011a5ad1a045f3d77bb1d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/85/jwb_E_202006_02_r360P.mp4",
+            "checksum": "2b47f90a7fa15da29e6321a2fa643831",
+            "filesize": 19959590,
+            "modifiedDatetime": "2020-06-08T08:18:51.000Z",
+            "bitRate": 279.6104906631713,
+            "duration": 557.684,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/cf/jwb_E_202006_02.vtt",
+                "modifiedDatetime": "2020-06-08T08:18:46.000Z",
+                "checksum": "1dd42875414011a5ad1a045f3d77bb1d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/66/jwb_E_202006_02_r480P.mp4",
+            "checksum": "1b94285136d3dc1c8e599df5ede4953f",
+            "filesize": 36244136,
+            "modifiedDatetime": "2020-06-08T08:18:54.000Z",
+            "bitRate": 507.73791699241866,
+            "duration": 557.684,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/cf/jwb_E_202006_02.vtt",
+                "modifiedDatetime": "2020-06-08T08:18:46.000Z",
+                "checksum": "1dd42875414011a5ad1a045f3d77bb1d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/c7/jwb_E_202006_02_r720P.mp4",
+            "checksum": "54848fac64b994c2453d8680bc7d5438",
+            "filesize": 69619677,
+            "modifiedDatetime": "2020-06-08T08:18:58.000Z",
+            "bitRate": 975.2901760898645,
+            "duration": 557.684,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/cf/jwb_E_202006_02.vtt",
+                "modifiedDatetime": "2020-06-08T08:18:46.000Z",
+                "checksum": "1dd42875414011a5ad1a045f3d77bb1d"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202006-2.v",
+        "jwb.202006-2"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/cf/jwb_E_202006_02.vtt",
+    "Name": "pub-jwb_E_202006_2_VIDEO",
+    "Title": "Alex Reinmueller: If Misjudged, Remain Loyal (1 Sam. 20:30)",
+    "UndatedReferenceTitle": "Alex Reinmueller: If Misjudged, Remain Loyal (1 Sam. 20:30)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

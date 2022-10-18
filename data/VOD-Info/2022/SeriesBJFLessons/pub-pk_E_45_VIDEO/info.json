@@ -1,0 +1,102 @@
+{
+    "guid": "6270a729b685ba344193caaf",
+    "languageAgnosticNaturalKey": "pub-pk_45_VIDEO",
+    "naturalKey": "pub-pk_E_45_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBJFLessons",
+    "description": "",
+    "firstPublished": "2022-07-04T15:19:49.884Z",
+    "duration": 157.163,
+    "durationFormattedHHMM": "2:37",
+    "durationFormattedMinSec": "2m 37s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/5b/pk_E_045_r240P.mp4",
+            "checksum": "574fbdbcccbb46f5fdd3eedf6a325948",
+            "filesize": 4383627,
+            "modifiedDatetime": "2022-07-03T22:18:14.000Z",
+            "bitRate": 217.90806956790084,
+            "duration": 157.163,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/a9/pk_E_045.vtt",
+                "modifiedDatetime": "2022-07-03T22:18:18.000Z",
+                "checksum": "ba9be7a6006988b5995d94bf5e815521"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/6f/pk_E_045_r360P.mp4",
+            "checksum": "5bed1199852a23c80554407f58438baa",
+            "filesize": 7342452,
+            "modifiedDatetime": "2022-07-03T22:18:12.000Z",
+            "bitRate": 365.03866725636686,
+            "duration": 157.142,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/a9/pk_E_045.vtt",
+                "modifiedDatetime": "2022-07-03T22:18:18.000Z",
+                "checksum": "ba9be7a6006988b5995d94bf5e815521"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/e9/pk_E_045_r480P.mp4",
+            "checksum": "70f3665dfe02f55c596e1b9e31c7e9e9",
+            "filesize": 12789535,
+            "modifiedDatetime": "2022-07-03T22:18:11.000Z",
+            "bitRate": 635.8468276304235,
+            "duration": 157.142,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/a9/pk_E_045.vtt",
+                "modifiedDatetime": "2022-07-03T22:18:18.000Z",
+                "checksum": "ba9be7a6006988b5995d94bf5e815521"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/83/pk_E_045_r720P.mp4",
+            "checksum": "f8af3c5103c8a1c535f99a91bbe73bb9",
+            "filesize": 19876693,
+            "modifiedDatetime": "2022-07-03T22:18:09.000Z",
+            "bitRate": 988.193252360922,
+            "duration": 157.142,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/a9/pk_E_045.vtt",
+                "modifiedDatetime": "2022-07-03T22:18:18.000Z",
+                "checksum": "ba9be7a6006988b5995d94bf5e815521"
+            }
+        }
+    ],
+    "printReferences": [
+        "pk-45.v",
+        "pk-45"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/a9/pk_E_045.vtt",
+    "Name": "pub-pk_E_45_VIDEO",
+    "Title": "Why Obey God if We Can’t See Him?",
+    "UndatedReferenceTitle": "Why Obey God if We Can’t See Him?",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "SeriesBJFLessons"
+}

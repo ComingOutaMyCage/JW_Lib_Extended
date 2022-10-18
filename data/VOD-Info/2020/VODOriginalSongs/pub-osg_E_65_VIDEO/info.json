@@ -1,0 +1,102 @@
+{
+    "guid": "5ee77c7daf341cff13f0f166",
+    "languageAgnosticNaturalKey": "pub-osg_65_VIDEO",
+    "naturalKey": "pub-osg_E_65_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODOriginalSongs",
+    "description": "",
+    "firstPublished": "2020-11-16T22:16:59.793Z",
+    "duration": 187.022,
+    "durationFormattedHHMM": "3:07",
+    "durationFormattedMinSec": "3m 7s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/1d/osg_E_065_r240P.mp4",
+            "checksum": "9a129429883247710c880165ff4190f6",
+            "filesize": 10488117,
+            "modifiedDatetime": "2020-11-16T21:53:12.000Z",
+            "bitRate": 438.1217934922095,
+            "duration": 187.022,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.576,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/4f/osg_E_065.vtt",
+                "modifiedDatetime": "2020-11-16T21:53:22.000Z",
+                "checksum": "5711d09e0f56f520211b60445f18bd0c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/38/osg_E_065_r360P.mp4",
+            "checksum": "c9347a2878539f7cfd9142fa68f08c06",
+            "filesize": 16286442,
+            "modifiedDatetime": "2020-11-16T21:53:13.000Z",
+            "bitRate": 680.3361536343318,
+            "duration": 187.022,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/4f/osg_E_065.vtt",
+                "modifiedDatetime": "2020-11-16T21:53:22.000Z",
+                "checksum": "5711d09e0f56f520211b60445f18bd0c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/16/osg_E_065_r480P.mp4",
+            "checksum": "b633210ad0018cb0aab54499092c03bd",
+            "filesize": 30555276,
+            "modifiedDatetime": "2020-11-16T21:53:16.000Z",
+            "bitRate": 1276.39044470704,
+            "duration": 187.022,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/4f/osg_E_065.vtt",
+                "modifiedDatetime": "2020-11-16T21:53:22.000Z",
+                "checksum": "5711d09e0f56f520211b60445f18bd0c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/60/osg_E_065_r720P.mp4",
+            "checksum": "67859f56846350ccfdc0974d5f54f887",
+            "filesize": 51171699,
+            "modifiedDatetime": "2020-11-16T21:53:18.000Z",
+            "bitRate": 2137.6035890831026,
+            "duration": 187.022,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/4f/osg_E_065.vtt",
+                "modifiedDatetime": "2020-11-16T21:53:22.000Z",
+                "checksum": "5711d09e0f56f520211b60445f18bd0c"
+            }
+        }
+    ],
+    "printReferences": [
+        "osg-65.v",
+        "osg-65"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/4f/osg_E_065.vtt",
+    "Name": "pub-osg_E_65_VIDEO",
+    "Title": "Run the Race",
+    "UndatedReferenceTitle": "Run the Race",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODOriginalSongs"
+}

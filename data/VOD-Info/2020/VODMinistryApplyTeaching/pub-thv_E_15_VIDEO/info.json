@@ -1,0 +1,102 @@
+{
+    "guid": "5d8ba68e944f8ae32ea813cf",
+    "languageAgnosticNaturalKey": "pub-thv_15_VIDEO",
+    "naturalKey": "pub-thv_E_15_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODMinistryApplyTeaching",
+    "description": "",
+    "firstPublished": "2020-02-10T16:00:03.035Z",
+    "duration": 306.262,
+    "durationFormattedHHMM": "5:06",
+    "durationFormattedMinSec": "5m 6s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/dd/thv_E_15_r240P.mp4",
+            "checksum": "9eff2b25c22e8d8c63c2ae28c98cfe3e",
+            "filesize": 4901519,
+            "modifiedDatetime": "2020-12-18T22:50:33.000Z",
+            "bitRate": 125.03385071442099,
+            "duration": 306.262,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.881,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/12/thv_E_15.vtt",
+                "modifiedDatetime": "2020-02-10T13:45:14.000Z",
+                "checksum": "4699e3273f53f5cbfe11db5b26278875"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/70/thv_E_15_r360P.mp4",
+            "checksum": "a538e74b604a02baea758c92b818b439",
+            "filesize": 9666976,
+            "modifiedDatetime": "2020-02-10T13:45:04.000Z",
+            "bitRate": 246.62746878102305,
+            "duration": 306.224,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/12/thv_E_15.vtt",
+                "modifiedDatetime": "2020-02-10T13:45:14.000Z",
+                "checksum": "4699e3273f53f5cbfe11db5b26278875"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/fe/thv_E_15_r480P.mp4",
+            "checksum": "fbdb515c87bc5450e295c21478022c7b",
+            "filesize": 18603179,
+            "modifiedDatetime": "2020-02-10T13:45:07.000Z",
+            "bitRate": 474.6111863782721,
+            "duration": 306.224,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/12/thv_E_15.vtt",
+                "modifiedDatetime": "2020-02-10T13:45:14.000Z",
+                "checksum": "4699e3273f53f5cbfe11db5b26278875"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/89/thv_E_15_r720P.mp4",
+            "checksum": "2a8d86dee505ee5be68106c7e9a35fb0",
+            "filesize": 31685510,
+            "modifiedDatetime": "2020-02-10T13:45:11.000Z",
+            "bitRate": 808.3724557023617,
+            "duration": 306.224,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/12/thv_E_15.vtt",
+                "modifiedDatetime": "2020-02-10T13:45:14.000Z",
+                "checksum": "4699e3273f53f5cbfe11db5b26278875"
+            }
+        }
+    ],
+    "printReferences": [
+        "thv-15.v",
+        "thv-15"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/12/thv_E_15.vtt",
+    "Name": "pub-thv_E_15_VIDEO",
+    "Title": "Study 15—Expressed With Conviction",
+    "UndatedReferenceTitle": "Study 15—Expressed With Conviction",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODMinistryApplyTeaching"
+}

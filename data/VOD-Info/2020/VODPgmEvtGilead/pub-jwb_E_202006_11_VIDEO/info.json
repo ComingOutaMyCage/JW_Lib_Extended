@@ -1,0 +1,102 @@
+{
+    "guid": "5eed05e7af341cff13ffb511",
+    "languageAgnosticNaturalKey": "pub-jwb_202006_11_VIDEO",
+    "naturalKey": "pub-jwb_E_202006_11_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtGilead",
+    "description": "",
+    "firstPublished": "2020-07-20T12:19:07.590Z",
+    "duration": 614.187,
+    "durationFormattedHHMM": "10:14",
+    "durationFormattedMinSec": "10m 14s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/7e/jwb_E_202006_11_r240P.mp4",
+            "checksum": "dd57f749a02ed1077368dc750f67d05e",
+            "filesize": 11459980,
+            "modifiedDatetime": "2020-10-18T03:04:57.000Z",
+            "bitRate": 145.77171732713327,
+            "duration": 614.187,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.183,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/96/jwb_E_202006_11.vtt",
+                "modifiedDatetime": "2020-07-20T07:52:59.000Z",
+                "checksum": "45798f7957ba76f9b3b8f4c8be4033fc"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/6f/jwb_E_202006_11_r360P.mp4",
+            "checksum": "f34ee0778087586fcd97055709f6d654",
+            "filesize": 22582263,
+            "modifiedDatetime": "2020-07-20T07:52:41.000Z",
+            "bitRate": 287.26193739955744,
+            "duration": 614.157,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/96/jwb_E_202006_11.vtt",
+                "modifiedDatetime": "2020-07-20T07:52:59.000Z",
+                "checksum": "45798f7957ba76f9b3b8f4c8be4033fc"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/3d/jwb_E_202006_11_r480P.mp4",
+            "checksum": "eac2dc36ebf0fe03ec22abddda125d8b",
+            "filesize": 41800265,
+            "modifiedDatetime": "2020-07-20T07:52:48.000Z",
+            "bitRate": 531.7281579669368,
+            "duration": 614.157,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/96/jwb_E_202006_11.vtt",
+                "modifiedDatetime": "2020-07-20T07:52:59.000Z",
+                "checksum": "45798f7957ba76f9b3b8f4c8be4033fc"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/57/jwb_E_202006_11_r720P.mp4",
+            "checksum": "074d9605b4714614b6b48d70bfdf67a3",
+            "filesize": 80203937,
+            "modifiedDatetime": "2020-07-20T07:52:53.000Z",
+            "bitRate": 1020.2493137951695,
+            "duration": 614.157,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/96/jwb_E_202006_11.vtt",
+                "modifiedDatetime": "2020-07-20T07:52:59.000Z",
+                "checksum": "45798f7957ba76f9b3b8f4c8be4033fc"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202006-11.v",
+        "jwb.202006-11"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/96/jwb_E_202006_11.vtt",
+    "Name": "pub-jwb_E_202006_11_VIDEO",
+    "Title": "James Cauthon: In the Shadows",
+    "UndatedReferenceTitle": "James Cauthon: In the Shadows",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODPgmEvtGilead"
+}

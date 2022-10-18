@@ -1,0 +1,102 @@
+{
+    "guid": "6022d9eeaa8dbd024d387bfc",
+    "languageAgnosticNaturalKey": "pub-jwb_202104_2_VIDEO",
+    "naturalKey": "pub-jwb_E_202104_2_VIDEO",
+    "type": "video",
+    "primaryCategory": "StudioTalks",
+    "description": "",
+    "firstPublished": "2021-04-19T14:13:09.955Z",
+    "duration": 713.92,
+    "durationFormattedHHMM": "11:53",
+    "durationFormattedMinSec": "11m 53s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/7f/jwb_E_202104_02_r240P.mp4",
+            "checksum": "1741c3c7ae652650a3ec939f23510007",
+            "filesize": 13611217,
+            "modifiedDatetime": "2021-04-19T05:53:17.000Z",
+            "bitRate": 148.948947798773,
+            "duration": 713.92,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ef/jwb_E_202104_02.vtt",
+                "modifiedDatetime": "2021-04-19T05:53:08.000Z",
+                "checksum": "b821226e97ab4be867ab0ad1590b4164"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/84/jwb_E_202104_02_r360P.mp4",
+            "checksum": "30af097175d0d3c82096969c836886df",
+            "filesize": 26411851,
+            "modifiedDatetime": "2021-04-19T05:53:14.000Z",
+            "bitRate": 289.03974833307655,
+            "duration": 713.89,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ef/jwb_E_202104_02.vtt",
+                "modifiedDatetime": "2021-04-19T05:53:08.000Z",
+                "checksum": "b821226e97ab4be867ab0ad1590b4164"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/33/jwb_E_202104_02_r480P.mp4",
+            "checksum": "3d280df96eb9f45a42b089787bc2ac53",
+            "filesize": 45592171,
+            "modifiedDatetime": "2021-04-19T05:53:12.000Z",
+            "bitRate": 498.94078350656264,
+            "duration": 713.89,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ef/jwb_E_202104_02.vtt",
+                "modifiedDatetime": "2021-04-19T05:53:08.000Z",
+                "checksum": "b821226e97ab4be867ab0ad1590b4164"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/a8/jwb_E_202104_02_r720P.mp4",
+            "checksum": "187d6131c559b158e0d8a8ad6dff2bc3",
+            "filesize": 71953689,
+            "modifiedDatetime": "2021-04-19T05:53:09.000Z",
+            "bitRate": 787.4297094965611,
+            "duration": 713.89,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ef/jwb_E_202104_02.vtt",
+                "modifiedDatetime": "2021-04-19T05:53:08.000Z",
+                "checksum": "b821226e97ab4be867ab0ad1590b4164"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202104-2.v",
+        "jwb.202104-2"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/ef/jwb_E_202104_02.vtt",
+    "Name": "pub-jwb_E_202104_2_VIDEO",
+    "Title": "Samuel F. Herd: Is Your Best Good Enough?",
+    "UndatedReferenceTitle": "Samuel F. Herd: Is Your Best Good Enough?",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "StudioTalks"
+}

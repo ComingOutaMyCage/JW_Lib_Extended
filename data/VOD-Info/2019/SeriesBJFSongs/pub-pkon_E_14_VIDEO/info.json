@@ -1,0 +1,102 @@
+{
+    "guid": "5c8fb58664430a5b2d4db49a",
+    "languageAgnosticNaturalKey": "pub-pkon_14_VIDEO",
+    "naturalKey": "pub-pkon_E_14_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBJFSongs",
+    "description": "",
+    "firstPublished": "2019-04-01T19:20:32.798Z",
+    "duration": 97.43,
+    "durationFormattedHHMM": "1:37",
+    "durationFormattedMinSec": "1m 37s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/96/pkon_E_014_r240P.mp4",
+            "checksum": "8061ab0320e9f3e99a3d59c650e7cbc8",
+            "filesize": 1884434,
+            "modifiedDatetime": "2020-10-30T12:51:28.000Z",
+            "bitRate": 151.1047995997126,
+            "duration": 97.43,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.786,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/e4/pkon_E_014.vtt",
+                "modifiedDatetime": "2020-10-30T12:51:20.000Z",
+                "checksum": "9361bd1c5ca371428f3a56f5107aa863"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/f8/pkon_E_014_r360P.mp4",
+            "checksum": "34e2117a9d8f249079b67df2f0fedd15",
+            "filesize": 3294566,
+            "modifiedDatetime": "2020-10-30T12:51:34.000Z",
+            "bitRate": 264.285828883869,
+            "duration": 97.39,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/e4/pkon_E_014.vtt",
+                "modifiedDatetime": "2020-10-30T12:51:20.000Z",
+                "checksum": "9361bd1c5ca371428f3a56f5107aa863"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/8f/pkon_E_014_r480P.mp4",
+            "checksum": "a8c04c9e9dc7366407a8924fb8e1606f",
+            "filesize": 5423113,
+            "modifiedDatetime": "2020-10-30T12:51:38.000Z",
+            "bitRate": 435.03511975048775,
+            "duration": 97.39,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/e4/pkon_E_014.vtt",
+                "modifiedDatetime": "2020-10-30T12:51:20.000Z",
+                "checksum": "9361bd1c5ca371428f3a56f5107aa863"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/ad/pkon_E_014_r720P.mp4",
+            "checksum": "39b3c50a7a974c9b93dff7d3ebb4dda9",
+            "filesize": 7591332,
+            "modifiedDatetime": "2020-10-30T12:51:42.000Z",
+            "bitRate": 608.9668472122395,
+            "duration": 97.39,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/e4/pkon_E_014.vtt",
+                "modifiedDatetime": "2020-10-30T12:51:20.000Z",
+                "checksum": "9361bd1c5ca371428f3a56f5107aa863"
+            }
+        }
+    ],
+    "printReferences": [
+        "pkon-14.v",
+        "pkon-14"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/e4/pkon_E_014.vtt",
+    "Name": "pub-pkon_E_14_VIDEO",
+    "Title": "We Love Family Worship",
+    "UndatedReferenceTitle": "We Love Family Worship",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "SeriesBJFSongs"
+}

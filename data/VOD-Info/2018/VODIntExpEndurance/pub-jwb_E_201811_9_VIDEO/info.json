@@ -1,0 +1,102 @@
+{
+    "guid": "5bcf76c1a51af8eef456cf0b",
+    "languageAgnosticNaturalKey": "pub-jwb_201811_9_VIDEO",
+    "naturalKey": "pub-jwb_E_201811_9_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpEndurance",
+    "description": "",
+    "firstPublished": "2018-11-12T12:35:02.005Z",
+    "duration": 311.062,
+    "durationFormattedHHMM": "5:11",
+    "durationFormattedMinSec": "5m 11s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/04/jwb_E_201811_09_r240P.mp4",
+            "checksum": "faeedccd15dae8da00a9d0e71f850a50",
+            "filesize": 5827564,
+            "modifiedDatetime": "2020-11-03T22:15:35.000Z",
+            "bitRate": 146.36260215005368,
+            "duration": 311.062,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.576,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/e4/jwb_E_201811_09.vtt",
+                "modifiedDatetime": "2018-11-12T10:28:33.000Z",
+                "checksum": "f390948d0c97f09450a3d2fd004af9fc"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/e3/jwb_E_201811_09_r360P.mp4",
+            "checksum": "f146d282e768bc4ce185451aef4a2dd8",
+            "filesize": 11603786,
+            "modifiedDatetime": "2018-11-12T10:28:22.000Z",
+            "bitRate": 291.47507595974537,
+            "duration": 311.02,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/e4/jwb_E_201811_09.vtt",
+                "modifiedDatetime": "2018-11-12T10:28:33.000Z",
+                "checksum": "f390948d0c97f09450a3d2fd004af9fc"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/61/jwb_E_201811_09_r480P.mp4",
+            "checksum": "fc26188fa16fd025451785917d6d1d86",
+            "filesize": 21108960,
+            "modifiedDatetime": "2018-11-12T10:28:25.000Z",
+            "bitRate": 530.2351938782073,
+            "duration": 311.02,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/e4/jwb_E_201811_09.vtt",
+                "modifiedDatetime": "2018-11-12T10:28:33.000Z",
+                "checksum": "f390948d0c97f09450a3d2fd004af9fc"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/b3/jwb_E_201811_09_r720P.mp4",
+            "checksum": "b1cbf83c684e2d711d358e864c4d03bb",
+            "filesize": 34923676,
+            "modifiedDatetime": "2018-11-12T10:28:29.000Z",
+            "bitRate": 877.2465396116006,
+            "duration": 311.02,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/e4/jwb_E_201811_09.vtt",
+                "modifiedDatetime": "2018-11-12T10:28:33.000Z",
+                "checksum": "f390948d0c97f09450a3d2fd004af9fc"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201811-9.v",
+        "jwb.201811-9"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/e4/jwb_E_201811_09.vtt",
+    "Name": "pub-jwb_E_201811_9_VIDEO",
+    "Title": "Surviving Trials in Venezuela",
+    "UndatedReferenceTitle": "Surviving Trials in Venezuela",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "VODIntExpEndurance"
+}

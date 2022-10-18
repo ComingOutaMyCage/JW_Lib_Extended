@@ -1,0 +1,102 @@
+{
+    "guid": "5e7243b6001474da27b91972",
+    "languageAgnosticNaturalKey": "pub-jwb_202104_7_VIDEO",
+    "naturalKey": "pub-jwb_E_202104_7_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2021-04-19T14:11:15.681Z",
+    "duration": 610.688,
+    "durationFormattedHHMM": "10:10",
+    "durationFormattedMinSec": "10m 10s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/d0/jwb_E_202104_07_r240P.mp4",
+            "checksum": "c641a76000c3d3925087134aaafe0e0a",
+            "filesize": 9447081,
+            "modifiedDatetime": "2021-04-19T05:51:56.000Z",
+            "bitRate": 120.85601864208893,
+            "duration": 610.688,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.297,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/31/jwb_E_202104_07.vtt",
+                "modifiedDatetime": "2021-04-19T05:51:36.000Z",
+                "checksum": "bc7a4cde06995d3d0db52e6d15e1d47f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/97/jwb_E_202104_07_r360P.mp4",
+            "checksum": "089d8cdd2a645c43c5c77e7e3452813b",
+            "filesize": 18831854,
+            "modifiedDatetime": "2021-04-19T05:51:52.000Z",
+            "bitRate": 240.92874246912731,
+            "duration": 610.653,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/31/jwb_E_202104_07.vtt",
+                "modifiedDatetime": "2021-04-19T05:51:36.000Z",
+                "checksum": "bc7a4cde06995d3d0db52e6d15e1d47f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/b6/jwb_E_202104_07_r480P.mp4",
+            "checksum": "1b70986787a5aea6d990a63aecb6f29b",
+            "filesize": 34048262,
+            "modifiedDatetime": "2021-04-19T05:51:47.000Z",
+            "bitRate": 435.6026202687942,
+            "duration": 610.653,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/31/jwb_E_202104_07.vtt",
+                "modifiedDatetime": "2021-04-19T05:51:36.000Z",
+                "checksum": "bc7a4cde06995d3d0db52e6d15e1d47f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/e9/jwb_E_202104_07_r720P.mp4",
+            "checksum": "483781caf69ec0b16205ff48cfb2ccfa",
+            "filesize": 70462873,
+            "modifiedDatetime": "2021-04-19T05:51:40.000Z",
+            "bitRate": 901.4795560039826,
+            "duration": 610.653,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/31/jwb_E_202104_07.vtt",
+                "modifiedDatetime": "2021-04-19T05:51:36.000Z",
+                "checksum": "bc7a4cde06995d3d0db52e6d15e1d47f"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202104-7.v",
+        "jwb.202104-7"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/31/jwb_E_202104_07.vtt",
+    "Name": "pub-jwb_E_202104_7_VIDEO",
+    "Title": "Gary Breaux: Let Jehovah Mold You (Isa. 64:8)",
+    "UndatedReferenceTitle": "Gary Breaux: Let Jehovah Mold You (Isa. 64:8)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

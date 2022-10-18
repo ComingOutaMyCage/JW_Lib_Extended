@@ -1,0 +1,102 @@
+{
+    "guid": "5e5ff619faacdecc13eba7ee",
+    "languageAgnosticNaturalKey": "pub-jwb_202004_2_VIDEO",
+    "naturalKey": "pub-jwb_E_202004_2_VIDEO",
+    "type": "video",
+    "primaryCategory": "StudioTalks",
+    "description": "",
+    "firstPublished": "2020-04-20T14:11:46.749Z",
+    "duration": 994.368,
+    "durationFormattedHHMM": "16:34",
+    "durationFormattedMinSec": "16m 34s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/2a/jwb_E_202004_02_r240P.mp4",
+            "checksum": "102fd66c8da8e39438cc715e2ba82360",
+            "filesize": 15919423,
+            "modifiedDatetime": "2020-10-18T03:01:32.000Z",
+            "bitRate": 125.07491410373221,
+            "duration": 994.368,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.91,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/d9/jwb_E_202004_02.vtt",
+                "modifiedDatetime": "2020-04-20T12:25:15.000Z",
+                "checksum": "0949def4487e04b37fc3263ca1a1d244"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/31/jwb_E_202004_02_r360P.mp4",
+            "checksum": "cfc7ac49e73524faa60243e5443e1db4",
+            "filesize": 31768874,
+            "modifiedDatetime": "2020-04-20T12:25:21.000Z",
+            "bitRate": 249.60810845126798,
+            "duration": 994.336,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/d9/jwb_E_202004_02.vtt",
+                "modifiedDatetime": "2020-04-20T12:25:15.000Z",
+                "checksum": "0949def4487e04b37fc3263ca1a1d244"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/5b/jwb_E_202004_02_r480P.mp4",
+            "checksum": "fea7c11339313242ec59dba30cfcb045",
+            "filesize": 53255346,
+            "modifiedDatetime": "2020-04-20T12:25:25.000Z",
+            "bitRate": 418.4273632102227,
+            "duration": 994.336,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/d9/jwb_E_202004_02.vtt",
+                "modifiedDatetime": "2020-04-20T12:25:15.000Z",
+                "checksum": "0949def4487e04b37fc3263ca1a1d244"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/6b/jwb_E_202004_02_r720P.mp4",
+            "checksum": "516cfeea175a149fe2c3853fecf539ab",
+            "filesize": 81551910,
+            "modifiedDatetime": "2020-04-20T12:25:29.000Z",
+            "bitRate": 640.753524839692,
+            "duration": 994.336,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/d9/jwb_E_202004_02.vtt",
+                "modifiedDatetime": "2020-04-20T12:25:15.000Z",
+                "checksum": "0949def4487e04b37fc3263ca1a1d244"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202004-2.v",
+        "jwb.202004-2"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/d9/jwb_E_202004_02.vtt",
+    "Name": "pub-jwb_E_202004_2_VIDEO",
+    "Title": "Leonard Myers: You Are Precious to Jehovah",
+    "UndatedReferenceTitle": "Leonard Myers: You Are Precious to Jehovah",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "StudioTalks"
+}

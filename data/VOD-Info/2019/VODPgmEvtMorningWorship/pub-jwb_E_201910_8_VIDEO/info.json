@@ -1,0 +1,102 @@
+{
+    "guid": "5d795524ad989978fb66a972",
+    "languageAgnosticNaturalKey": "pub-jwb_201910_8_VIDEO",
+    "naturalKey": "pub-jwb_E_201910_8_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2019-10-14T18:23:15.155Z",
+    "duration": 525.995,
+    "durationFormattedHHMM": "8:45",
+    "durationFormattedMinSec": "8m 45s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/6f/jwb_E_201910_08_r240P.mp4",
+            "checksum": "b73f5f8249548040f17ff3f4ff3e9c56",
+            "filesize": 7398857,
+            "modifiedDatetime": "2020-11-07T20:01:38.000Z",
+            "bitRate": 109.89376384281219,
+            "duration": 525.995,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.557,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/87/jwb_E_201910_08.vtt",
+                "modifiedDatetime": "2019-10-14T18:18:11.000Z",
+                "checksum": "f7a0dfef6a586d0f1edd4088cc923934"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/21/jwb_E_201910_08_r360P.mp4",
+            "checksum": "49bfd0ee849c4507d370893e9cc2d525",
+            "filesize": 15611239,
+            "modifiedDatetime": "2019-10-14T18:17:50.000Z",
+            "bitRate": 231.8821160325038,
+            "duration": 525.969,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/87/jwb_E_201910_08.vtt",
+                "modifiedDatetime": "2019-10-14T18:18:11.000Z",
+                "checksum": "f7a0dfef6a586d0f1edd4088cc923934"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/a0/jwb_E_201910_08_r480P.mp4",
+            "checksum": "4cebbccf9bf0bfc8ba7a6723e2d9c391",
+            "filesize": 29029191,
+            "modifiedDatetime": "2019-10-14T18:17:56.000Z",
+            "bitRate": 431.18616246870056,
+            "duration": 525.969,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/87/jwb_E_201910_08.vtt",
+                "modifiedDatetime": "2019-10-14T18:18:11.000Z",
+                "checksum": "f7a0dfef6a586d0f1edd4088cc923934"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/e1/jwb_E_201910_08_r720P.mp4",
+            "checksum": "30a3c27b76162a9ed1c98dd71f7d9900",
+            "filesize": 58137692,
+            "modifiedDatetime": "2019-10-14T18:18:02.000Z",
+            "bitRate": 863.5503589565163,
+            "duration": 525.969,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/87/jwb_E_201910_08.vtt",
+                "modifiedDatetime": "2019-10-14T18:18:11.000Z",
+                "checksum": "f7a0dfef6a586d0f1edd4088cc923934"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201910-8.v",
+        "jwb.201910-8"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/87/jwb_E_201910_08.vtt",
+    "Name": "pub-jwb_E_201910_8_VIDEO",
+    "Title": "Robert Ciranko: Discern Satan’s Lies (Gen. 3:15)",
+    "UndatedReferenceTitle": "Robert Ciranko: Discern Satan’s Lies (Gen. 3:15)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

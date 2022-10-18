@@ -1,0 +1,102 @@
+{
+    "guid": "618c3f86e4dbeaf5fa91c88b",
+    "languageAgnosticNaturalKey": "pub-jwb-087_7_VIDEO",
+    "naturalKey": "pub-jwb-087_E_7_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpEndurance",
+    "description": "",
+    "firstPublished": "2022-03-21T13:45:28.278Z",
+    "duration": 434.07,
+    "durationFormattedHHMM": "7:14",
+    "durationFormattedMinSec": "7m 14s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/db/jwb-087_E_07_r240P.mp4",
+            "checksum": "4e6b25c26379506464404c115a74be57",
+            "filesize": 7208774,
+            "modifiedDatetime": "2022-03-21T03:45:37.000Z",
+            "bitRate": 129.74531037620662,
+            "duration": 434.07,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/45/jwb-087_E_07.vtt",
+                "modifiedDatetime": "2022-03-21T03:45:14.000Z",
+                "checksum": "ba90405c3afe524aec77721fee3a81f1"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/27/jwb-087_E_07_r360P.mp4",
+            "checksum": "a0348e01ec0cf15edb2f007eecb938b9",
+            "filesize": 14698079,
+            "modifiedDatetime": "2022-03-21T03:45:30.000Z",
+            "bitRate": 264.55614348693564,
+            "duration": 434.043,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/45/jwb-087_E_07.vtt",
+                "modifiedDatetime": "2022-03-21T03:45:14.000Z",
+                "checksum": "ba90405c3afe524aec77721fee3a81f1"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/3a/jwb-087_E_07_r480P.mp4",
+            "checksum": "39ab729989e9254220144e03a22ce66a",
+            "filesize": 25506328,
+            "modifiedDatetime": "2022-03-21T03:45:24.000Z",
+            "bitRate": 459.09780252186994,
+            "duration": 434.043,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/45/jwb-087_E_07.vtt",
+                "modifiedDatetime": "2022-03-21T03:45:14.000Z",
+                "checksum": "ba90405c3afe524aec77721fee3a81f1"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/c7/jwb-087_E_07_r720P.mp4",
+            "checksum": "b74569dec2347b2f5ef9cfe957b6aa63",
+            "filesize": 40886617,
+            "modifiedDatetime": "2022-03-21T03:45:16.000Z",
+            "bitRate": 735.9332953474656,
+            "duration": 434.043,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/45/jwb-087_E_07.vtt",
+                "modifiedDatetime": "2022-03-21T03:45:14.000Z",
+                "checksum": "ba90405c3afe524aec77721fee3a81f1"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-087-7.v",
+        "jwb-087-7"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/45/jwb-087_E_07.vtt",
+    "Name": "pub-jwb-087_E_7_VIDEO",
+    "Title": "Gerald Grizzle and Sam Roberson: “Trust in God”",
+    "UndatedReferenceTitle": "Gerald Grizzle and Sam Roberson: “Trust in God”",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODIntExpEndurance"
+}

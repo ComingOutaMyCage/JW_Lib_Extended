@@ -1,0 +1,102 @@
+{
+    "guid": "5b855b4c887c963ad88ecf7f",
+    "languageAgnosticNaturalKey": "pub-pkon_12_VIDEO",
+    "naturalKey": "pub-pkon_E_12_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBJFSongs",
+    "description": "",
+    "firstPublished": "2018-11-05T21:09:49.118Z",
+    "duration": 74.07,
+    "durationFormattedHHMM": "1:14",
+    "durationFormattedMinSec": "1m 14s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/75/pkon_E_012_r240P.mp4",
+            "checksum": "28a8c4c367f5d0c0ab6c00a95d899b45",
+            "filesize": 2519236,
+            "modifiedDatetime": "2020-11-16T23:25:13.000Z",
+            "bitRate": 265.7152862157419,
+            "duration": 74.07,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.576,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/50/pkon_E_012.vtt",
+                "modifiedDatetime": "2020-11-16T23:25:08.000Z",
+                "checksum": "91a10dbc7245b18f3326861c13e8c10f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/15/pkon_E_012_r360P.mp4",
+            "checksum": "596dd983f4959a17fc413513726bb00f",
+            "filesize": 3925108,
+            "modifiedDatetime": "2020-11-16T23:25:16.000Z",
+            "bitRate": 414.20031674635976,
+            "duration": 74.034,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/50/pkon_E_012.vtt",
+                "modifiedDatetime": "2020-11-16T23:25:08.000Z",
+                "checksum": "91a10dbc7245b18f3326861c13e8c10f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/07/pkon_E_012_r480P.mp4",
+            "checksum": "8b9b212196f25a4e20661a9ec861e3a9",
+            "filesize": 6894104,
+            "modifiedDatetime": "2020-11-16T23:25:20.000Z",
+            "bitRate": 727.5061120566226,
+            "duration": 74.034,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/50/pkon_E_012.vtt",
+                "modifiedDatetime": "2020-11-16T23:25:08.000Z",
+                "checksum": "91a10dbc7245b18f3326861c13e8c10f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/ec/pkon_E_012_r720P.mp4",
+            "checksum": "99aaed394cf7b7d8d21f66750cfd8ca3",
+            "filesize": 11235143,
+            "modifiedDatetime": "2020-11-16T23:25:24.000Z",
+            "bitRate": 1185.597896743388,
+            "duration": 74.034,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/50/pkon_E_012.vtt",
+                "modifiedDatetime": "2020-11-16T23:25:08.000Z",
+                "checksum": "91a10dbc7245b18f3326861c13e8c10f"
+            }
+        }
+    ],
+    "printReferences": [
+        "pkon-12.v",
+        "pkon-12"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/50/pkon_E_012.vtt",
+    "Name": "pub-pkon_E_12_VIDEO",
+    "Title": "Jehovah Is My Best Friend",
+    "UndatedReferenceTitle": "Jehovah Is My Best Friend",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "SeriesBJFSongs"
+}

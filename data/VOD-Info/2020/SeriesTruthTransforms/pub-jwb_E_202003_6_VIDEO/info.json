@@ -1,0 +1,102 @@
+{
+    "guid": "5dc4287c7ae47e7b532042c7",
+    "languageAgnosticNaturalKey": "pub-jwb_202003_6_VIDEO",
+    "naturalKey": "pub-jwb_E_202003_6_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesTruthTransforms",
+    "description": "",
+    "firstPublished": "2020-03-16T21:37:44.519Z",
+    "duration": 253.035,
+    "durationFormattedHHMM": "4:13",
+    "durationFormattedMinSec": "4m 13s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/9e/jwb_E_202003_06_r240P.mp4",
+            "checksum": "bf2a755a9257b73ea8bb4cd7c2bb502c",
+            "filesize": 6244057,
+            "modifiedDatetime": "2020-10-18T03:00:20.000Z",
+            "bitRate": 192.78635490149586,
+            "duration": 253.035,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.739,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/0a/jwb_E_202003_06.vtt",
+                "modifiedDatetime": "2020-03-16T20:10:10.000Z",
+                "checksum": "1a4035ddaa83c0a93be34548ed7e3e84"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/3b/jwb_E_202003_06_r360P.mp4",
+            "checksum": "dcb753565746fd10f758091c4ea10c76",
+            "filesize": 11650061,
+            "modifiedDatetime": "2020-03-16T20:09:58.000Z",
+            "bitRate": 359.7417493893377,
+            "duration": 253.004,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/0a/jwb_E_202003_06.vtt",
+                "modifiedDatetime": "2020-03-16T20:10:10.000Z",
+                "checksum": "1a4035ddaa83c0a93be34548ed7e3e84"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/a8/jwb_E_202003_06_r480P.mp4",
+            "checksum": "13a611acb1dc6a9090a7d41643e9623e",
+            "filesize": 20977601,
+            "modifiedDatetime": "2020-03-16T20:10:02.000Z",
+            "bitRate": 647.7664693542395,
+            "duration": 253.004,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/0a/jwb_E_202003_06.vtt",
+                "modifiedDatetime": "2020-03-16T20:10:10.000Z",
+                "checksum": "1a4035ddaa83c0a93be34548ed7e3e84"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/67/jwb_E_202003_06_r720P.mp4",
+            "checksum": "d4ae6beca03220dc3554411a612564eb",
+            "filesize": 34120146,
+            "modifiedDatetime": "2020-03-16T20:10:06.000Z",
+            "bitRate": 1053.594570145136,
+            "duration": 253.004,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/0a/jwb_E_202003_06.vtt",
+                "modifiedDatetime": "2020-03-16T20:10:10.000Z",
+                "checksum": "1a4035ddaa83c0a93be34548ed7e3e84"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202003-6.v",
+        "jwb.202003-6"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/0a/jwb_E_202003_06.vtt",
+    "Name": "pub-jwb_E_202003_6_VIDEO",
+    "Title": "Andrew Hunter: Jehovah Has Rebuilt Me From the Ground Up",
+    "UndatedReferenceTitle": "Andrew Hunter: Jehovah Has Rebuilt Me From the Ground Up",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "SeriesTruthTransforms"
+}

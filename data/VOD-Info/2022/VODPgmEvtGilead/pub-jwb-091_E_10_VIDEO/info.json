@@ -1,0 +1,102 @@
+{
+    "guid": "626afcd0b685ba3441778374",
+    "languageAgnosticNaturalKey": "pub-jwb-091_10_VIDEO",
+    "naturalKey": "pub-jwb-091_E_10_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtGilead",
+    "description": "",
+    "firstPublished": "2022-06-07T13:50:21.841Z",
+    "duration": 558.528,
+    "durationFormattedHHMM": "9:18",
+    "durationFormattedMinSec": "9m 18s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/3f/jwb-091_E_10_r240P.mp4",
+            "checksum": "8db202c3689fcda06c6a8b4c32e8dff5",
+            "filesize": 10284454,
+            "modifiedDatetime": "2022-06-07T05:46:56.000Z",
+            "bitRate": 143.85545017438696,
+            "duration": 558.528,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/e1/jwb-091_E_10.vtt",
+                "modifiedDatetime": "2022-06-07T05:46:39.000Z",
+                "checksum": "d81fad428969156b6666f029c850b5b0"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/c5/jwb-091_E_10_r360P.mp4",
+            "checksum": "1c9876f942edd6a5cdb099b766325d63",
+            "filesize": 20107267,
+            "modifiedDatetime": "2022-06-07T05:46:55.000Z",
+            "bitRate": 281.2641980091566,
+            "duration": 558.507,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/e1/jwb-091_E_10.vtt",
+                "modifiedDatetime": "2022-06-07T05:46:39.000Z",
+                "checksum": "d81fad428969156b6666f029c850b5b0"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/35/jwb-091_E_10_r480P.mp4",
+            "checksum": "79e193ee7d48f54217ecbcbbe8cf665c",
+            "filesize": 35987701,
+            "modifiedDatetime": "2022-06-07T05:46:50.000Z",
+            "bitRate": 503.4026682969059,
+            "duration": 558.507,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/e1/jwb-091_E_10.vtt",
+                "modifiedDatetime": "2022-06-07T05:46:39.000Z",
+                "checksum": "d81fad428969156b6666f029c850b5b0"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/8c/jwb-091_E_10_r720P.mp4",
+            "checksum": "aa5bbe4c8ef3e63e68fb1e016ad7cbed",
+            "filesize": 58189809,
+            "modifiedDatetime": "2022-06-07T05:46:41.000Z",
+            "bitRate": 813.9698926110148,
+            "duration": 558.507,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/e1/jwb-091_E_10.vtt",
+                "modifiedDatetime": "2022-06-07T05:46:39.000Z",
+                "checksum": "d81fad428969156b6666f029c850b5b0"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-091-10.v",
+        "jwb-091-10"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/e1/jwb-091_E_10.vtt",
+    "Name": "pub-jwb-091_E_10_VIDEO",
+    "Title": "Richard Chilton: “Who Will Rise Up for Me?”",
+    "UndatedReferenceTitle": "Richard Chilton: “Who Will Rise Up for Me?”",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODPgmEvtGilead"
+}

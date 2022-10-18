@@ -1,0 +1,102 @@
+{
+    "guid": "5c4614f4351dc4182b662409",
+    "languageAgnosticNaturalKey": "pub-jwb_201902_12_VIDEO",
+    "naturalKey": "pub-jwb_E_201902_12_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2019-02-26T00:33:24.428Z",
+    "duration": 627.499,
+    "durationFormattedHHMM": "10:27",
+    "durationFormattedMinSec": "10m 27s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/e4/jwb_E_201902_12_r240P.mp4",
+            "checksum": "fc4eda64ac59c54dc46466d836a39bc7",
+            "filesize": 9994888,
+            "modifiedDatetime": "2020-11-21T07:43:02.000Z",
+            "bitRate": 124.43854492198393,
+            "duration": 627.499,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.762,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/78/jwb_E_201902_12.vtt",
+                "modifiedDatetime": "2019-02-26T00:22:54.000Z",
+                "checksum": "945ae54ed320f329e3e1e0ac5edf0dd9"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/45/jwb_E_201902_12_r360P.mp4",
+            "checksum": "9bca8a07b7475bc60e0a38d972e7426c",
+            "filesize": 19891658,
+            "modifiedDatetime": "2019-02-26T00:22:24.000Z",
+            "bitRate": 247.66694523244138,
+            "duration": 627.47,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/78/jwb_E_201902_12.vtt",
+                "modifiedDatetime": "2019-02-26T00:22:54.000Z",
+                "checksum": "945ae54ed320f329e3e1e0ac5edf0dd9"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/b3/jwb_E_201902_12_r480P.mp4",
+            "checksum": "161adbca41868318a08c6192335fe7c6",
+            "filesize": 34393909,
+            "modifiedDatetime": "2019-02-26T00:22:33.000Z",
+            "bitRate": 428.2314916450189,
+            "duration": 627.47,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/78/jwb_E_201902_12.vtt",
+                "modifiedDatetime": "2019-02-26T00:22:54.000Z",
+                "checksum": "945ae54ed320f329e3e1e0ac5edf0dd9"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/8a/jwb_E_201902_12_r720P.mp4",
+            "checksum": "be7caf3ebe3ee2da0902f4b09d68d975",
+            "filesize": 59204011,
+            "modifiedDatetime": "2019-02-26T00:22:44.000Z",
+            "bitRate": 737.1369721859212,
+            "duration": 627.47,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/78/jwb_E_201902_12.vtt",
+                "modifiedDatetime": "2019-02-26T00:22:54.000Z",
+                "checksum": "945ae54ed320f329e3e1e0ac5edf0dd9"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201902-12.v",
+        "jwb.201902-12"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/78/jwb_E_201902_12.vtt",
+    "Name": "pub-jwb_E_201902_12_VIDEO",
+    "Title": "M. Stephen Lett: Pride Is Before a Crash (Prov. 16:18)",
+    "UndatedReferenceTitle": "M. Stephen Lett: Pride Is Before a Crash (Prov. 16:18)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

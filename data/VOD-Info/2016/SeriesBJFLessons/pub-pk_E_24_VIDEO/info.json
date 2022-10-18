@@ -1,0 +1,102 @@
+{
+    "guid": "5797746cfbf22850e2b358c7",
+    "languageAgnosticNaturalKey": "pub-pk_24_VIDEO",
+    "naturalKey": "pub-pk_E_24_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBJFLessons",
+    "description": "",
+    "firstPublished": "2016-09-12T15:58:59.350Z",
+    "duration": 126.998,
+    "durationFormattedHHMM": "2:06",
+    "durationFormattedMinSec": "2m 6s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/03/pk_E_024_r240P.mp4",
+            "checksum": "c33d586c29dbd01b50af57646fdefc00",
+            "filesize": 5981293,
+            "modifiedDatetime": "2022-06-30T13:39:09.000Z",
+            "bitRate": 367.94950757098536,
+            "duration": 126.998,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/f0/pk_E_024.vtt",
+                "modifiedDatetime": "2022-06-30T13:39:02.000Z",
+                "checksum": "ed8ea9466d1b2bade1d07397b9714e7a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/17/pk_E_024_r360P.mp4",
+            "checksum": "84c80f22edf72fde47032a85be9e2383",
+            "filesize": 10025046,
+            "modifiedDatetime": "2022-06-30T13:39:17.000Z",
+            "bitRate": 616.8147671607232,
+            "duration": 126.976,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/f0/pk_E_024.vtt",
+                "modifiedDatetime": "2022-06-30T13:39:02.000Z",
+                "checksum": "ed8ea9466d1b2bade1d07397b9714e7a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/e5/pk_E_024_r480P.mp4",
+            "checksum": "2cf735ebe8830ba2658bdec4047dfe7a",
+            "filesize": 18904043,
+            "modifiedDatetime": "2022-06-30T13:39:23.000Z",
+            "bitRate": 1163.1161474412488,
+            "duration": 126.976,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/f0/pk_E_024.vtt",
+                "modifiedDatetime": "2022-06-30T13:39:02.000Z",
+                "checksum": "ed8ea9466d1b2bade1d07397b9714e7a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/a8/pk_E_024_r720P.mp4",
+            "checksum": "5e99c4749a70ca392ed8eac2f0430dfa",
+            "filesize": 32879026,
+            "modifiedDatetime": "2022-06-30T13:39:26.000Z",
+            "bitRate": 2022.960170622795,
+            "duration": 126.976,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/f0/pk_E_024.vtt",
+                "modifiedDatetime": "2022-06-30T13:39:02.000Z",
+                "checksum": "ed8ea9466d1b2bade1d07397b9714e7a"
+            }
+        }
+    ],
+    "printReferences": [
+        "pk-24.v",
+        "pk-24"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/f0/pk_E_024.vtt",
+    "Name": "pub-pk_E_24_VIDEO",
+    "Title": "Jehovah Designed All Things",
+    "UndatedReferenceTitle": "Jehovah Designed All Things",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2016,
+    "Symbol": "SeriesBJFLessons"
+}

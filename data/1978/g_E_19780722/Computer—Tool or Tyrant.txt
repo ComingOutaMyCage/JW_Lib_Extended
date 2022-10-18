@@ -1,0 +1,68 @@
+Computer​—Tool or Tyrant?
+THE computer anecdote that brings a chuckle to many and a shudder to others goes like this: Several great nations agree to link together their most advanced computers to assist them in resolving their complex problems. The vast reservoirs of information are tied in to the array of powerful processing units. To test the combination, the “ultimate question” is fed into the integrated system: “IS THERE A GOD?”
+Tape reels spin and indicator lights flash as the most sophisticated computer structure ever devised scans massive data banks, assimilating and analyzing facts as it brings all resources to bear on the question. After some minutes, all action ceases, except for a burst of activity on the typewriter, as it prints the final result of billions of logical decisions. Before the frightened eyes of the hushed audience is the succinct answer: “THERE IS NOW!”
+An individual’s reaction to this story​—as in the case of beauty—​is very dependent on what “is in the eye of the beholder.” Your personal experience with computers may leave you with unremitting admiration for their capabilities. Or, at the other end of the spectrum, you may react with disgust mingled with disquieting fear.
+To some, the computer is the mechanical genius that can instantly notify a person that reservations are confirmed for a 10,000-mile (16,090-kilometer) trip, assist a lawyer in finding pertinent data for a difficult case, and, in its relaxed moments, serve as a formidable opponent in chess or ticktacktoe. To others, the computer is the blind, error-prone machine that confuses their bank balance, keeps dunning them for a long-paid bill and stores within its “memory” defamatory information about them for the rest of the world to see at the push of a button.
+How do you view the computer? Would you like to take a closer look at this many-faceted electronic wonder?
+Why Was It Developed?
+Historically, man has tried to extend his own capabilities to speed up or eliminate repetitious work. For years, many physical tasks​—plowing, walking, manufacturing—​have been facilitated by mechanical laborsaving devices. But mental processes, however repetitious, were long thought to be beyond the realm of automation.
+Take, as an example, the manufacturer who requires the adding up of a column of figures to arrive at his current inventory. Originally, this tabulation was a completely mental process. Then, with the advent of the adding machine and modern calculators, the actual count was automated, although the entry of data remained manual. The physical movements of the operator became the slowest part of the process. Boredom and carelessness added their burdens to the procedure.
+Could a machine be designed to “read” the numbers, produce the effect of pressing the number keys, determine whether to add or subtract, and then print the total? It could! Data, entered by means of keypunched cards or magnetic tape, or even “scanned” directly from a source document by an optical character reader, could be fed directly into a computer. But how would a machine know what to do with it?
+The stored program concept was the answer. While the adding machine or the calculator could do only one or two operations for each key pressed, a computer with a stored program, or “memory,” could have a series of instructions to direct it on many independent paths, based on its analysis of the input data. As the capacity and the speed of the computer memory increased, the possibilities became breathtaking.
+Wider Application of Computer Power
+Can you imagine your thoughts as a manufacturer while pondering this potential? You might reason: ‘If the machine can add up our production and subtract what we sell, why can’t we let it keep track of our inventory and “tell” us when the count gets low? Better still, let it tell us when we get below 200 on our fast-moving items and below 20 on the slow movers? But wait! We have heavy seasons at certain times of the year. Give it last year’s sales history and let it tell us what to expect every week. We know what each branch of our company needed last year. With that information, this machine could schedule automatic shipments of the same amounts this year. Could it “read” an order, break it down to sub-components, and tell us when to start production for on-time delivery? Could it . . . ?’
+Of course, it could. And the computer is doing this and much more for many concerns today. The potential is limited only by the available time, power and equipment of the computer system and the imagination and versatility of the user.
+Fast and Getting Faster
+To illustrate the speed of modern computers, picture a clerk facing the problem of adding 100,000 seven-digit numbers. Typed single-spaced on normal-sized stationery with 10 columns per page, these numbers would fill about 150 pages. Using a calculator, entering seven digits and pressing the “Add” key once each second, our hardworking human would labor almost 28 hours. How discouraging if a computer were to begin the task simultaneously! Before the man pressed the “Add” key for his first set of digits, the computer would be printing out the answer!
+The speedy computer will work like any machine​—without tiring or getting bored, and with uncanny accuracy, if properly programmed. But what about costs? Well, while computer processing in the early 1950’s cost $1.26 for 100,000 calculations, the cost today is less than one cent for the same work. New “magnetic bubble” memories may offer a thousandfold reduction in the size of the computer memory banks, and technicians envision a complete computer memory facility on a quarter-inch metal chip!
+Does this frighten you? Do you feel as did one researcher, who concluded that in a few centuries our only hope is that computers will be willing to keep us as pets? Will computers become tyrants over us? In seeking an answer, it certainly is time to review their limitations.
+Limitations of Computers
+As awesome as its capabilities are, the computer is still a machine. Fittingly, the Encyclopædia Britannica states: “The computer cannot exercise judgment or common sense, and it must be meticulously instructed in the program as to how to handle every contingency.” Yes, the programmer must supply the imagination and reasoning ability as he develops the instructions to direct the processing. The computer, like any other machine, can do no more and no less than follow the designated path laid out for it by the programmer. It can determine (if designed to do so) whether a particular statement is wrong according to the rules of the computer language. But it cannot determine if the statement is logically right or wrong for achieving the desired result.
+A major part of a programmer’s work is termed “debugging,” that is, locating and eliminating “bugs” or logic flaws not perceptible to the computer. This is done by testing the program using specially prepared data and comparing the output with predetermined correct results. Likely, then, you can see that the total dependence of a computer system on the programmer is the result of the machine’s complete lack of judgment. This electronic marvel is, as one programming instructor aptly termed it, a “high-speed moron”!
+The computer will follow instructions blindly, with no conscience to be troubled by something wrong. Thus, a programmer could cause a computer to be “prejudiced” by varying its action based on certain combinations of letters in the first and/​or last names of the applicant. The door is also open for an unscrupulous programmer to direct the computer for his personal benefit. The New York Times of July 3, 1977, pointed out that computer-aided crime is now estimated at $300 million a year, with the average take being $500,000!
+Clearly, a computer cannot do more or better things than man; it can only do certain things faster. Interestingly, Natural History magazine had this to say in comparing man and computer: “Scaling today’s computers upward in size, a machine matching the human brain in memory capacity would consume electrical energy at the rate of one billion watts​—half the output of the Grand Coulee Dam—​and occupy most of the space in the Empire State Building. Its cost would be in the neighborhood of $10 billion. The machine would be a prodigious artificial intelligence, but it would be only a clumsy imitation of the human brain.” This journal also stated: “On almost every count, the world’s most powerful electronic brains are hopelessly inadequate in comparison with the one-tenth of a cubic foot of gray matter that resides in the human cranium.”
+Unlike man, the computer can allow for no departure, however slight, from what it is programmed to handle. Would you like to understand this better? Well, to clarify matters, a portion of a simple computer program might suffice.
+The Computer Program
+The program provides the computer with all the instructions regarding the nature of the data coming in, the processing rules, and in what format the output is to be produced. Returning to our example of the manufacturer, let us write a portion of a program to adjust his product inventory after a day of sales and production. The programming language is Common Business Oriented Language (COBOL). This is what the data looks like:
+TRANSACTIONS
+00012MADE0120
+00150MADE0032
+00201MADE0088
+00201SOLD0035
+00208MADE1134
+00301MADE0078
+00301SOLD0012
+00404MADE1234
+OLD MASTER FILE (YESTERDAY’S)
+00012RUBBER GASKET  00700150
+00150METAL HINGE    01201200
+00201BRASS DOOR KNOB00320030
+002081 IN WOOD SCREW00980500
+00301WINDOW MOLDING 04300090
+00404SIX PENNY NAIL 15600999
+The foregoing data could be defined within the program as follows (Note that each X and 9 represents one position of data):
+01 TRANSACTION-CARD.              01 MASTER-INVENTORY-RECORD.
+05 TRANS-STOCK-NUMBER PIC XXXXX.     05 STOCK-NUMBER  PIC XXXXX.
+05 SOLD-OR-MADE       PIC XXXX.      05 STOCK-NAME    PIC X(15).
+05 UNIT-COUNT         PIC 9999.      05 UNITS-ON-HAND PIC 99999.
+                                     05 MINIMUM-UNITS PIC 999.
+After matching each transaction to the corresponding master, the following COBOL statements will apply:
+IF SOLD-OR-MADE IS EQUAL TO ‘MADE’
+ ADD UNIT-COUNT TO UNITS-ON-HAND.
+IF SOLD-OR-MADE IS EQUAL TO ‘SOLD’
+ SUBTRACT UNIT-COUNT FROM UNITS-ON-HAND.
+The new master file after applying the transactions is:
+00012RUBBER GASKET  00820150
+00150METAL HINGE    01233200
+00201BRASS DOOR KNOB00373030
+002081 IN WOOD SCREW02114500
+00301WINDOW MOLDING 04366090
+00404SIX PENNY NAIL 16834999
+The computer cannot actually be directed by this almost-English program, but it will first convert it to a machine-readable language by means of a special program called a “compiler.” Now, a computer program may use the words “STOCK-NUMBER” and “UNIT-COUNT,” but these mean absolutely nothing to the machine. It uses them only to link its processing steps to specific data storage areas. The names “JOHN” and “MARY” could replace these words throughout the program and exactly the same machine-language code would result. The COBOL language is designed with the reader in mind.
+Potential Problems
+While the foregoing program will work, there are many sources of error not yet provided for. What would happen if a card had been punched with “SOLO” instead of “SOLD”? And what if the number had been one position to the right? Or, what if the number field held “12X4” instead of “1234”? Our precise friend, the computer, would be lost indeed. Additionally, what if, through error or in fact, the total inventory exceeded 99,999, or the figures were correct but three days late? Good output results cannot be obtained without good input. In the computer community, this concept has given rise to the self-explanatory expression “Garbage in​—Garbage out.”
+The programmer must combine the imagination to think of all possible errors with the perseverance to make provision for each one. The Mythical Man-Month describes it this way: “Designing grand concepts is fun; finding nitty little bugs is just work. With any creative activity come dreary hours of tedious, painstaking labor, and programming is no exception.” Even with the programmer’s best efforts, the output of any computer system must still be subject to human review and correction if necessary. Neither the computer nor the programmer should be considered infallible.
+Proper View of Computers
+The electronic computer, with its vast capabilities in speed and precision, is an excellent slave to do the bidding of man. Properly directed, it can relieve him of a great deal of the boredom and frustration associated with repetitious tasks. It can free him to challenge his mental powers. But the human qualities of empathy, compassion, initiative, insight and imagination cannot be programmed into a machine. Man, as master of the machine, must guide it, review its work, and readjust its actions as this becomes necessary.
+Machines such as the electronic computer may perform awesome technical tasks. However, they remain an extension of God’s handiwork, not an improvement on it. The computer is a machine, not to be feared or revered by man, but to be used to relieve certain burdens and provide him the freedom to experience more fully the joy of living.
+

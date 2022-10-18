@@ -1,0 +1,102 @@
+{
+    "guid": "581cb405453f600819cf512c",
+    "languageAgnosticNaturalKey": "pub-pksjj_141_VIDEO",
+    "naturalKey": "pub-pksjj_E_141_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBJFSongs",
+    "description": "",
+    "firstPublished": "2013-12-02T18:32:04.000Z",
+    "duration": 161.323,
+    "durationFormattedHHMM": "2:41",
+    "durationFormattedMinSec": "2m 41s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/db/pksjj_E_141_r240P.mp4",
+            "checksum": "f69f424a6c80936e0513dd198259176b",
+            "filesize": 5624822,
+            "modifiedDatetime": "2021-09-14T22:21:32.000Z",
+            "bitRate": 272.3971279668739,
+            "duration": 161.323,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/61/pksjj_E_141.vtt",
+                "modifiedDatetime": "2021-09-14T22:21:26.000Z",
+                "checksum": "793cf46e04b21fe32f3dd172bd866c21"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/03/pksjj_E_141_r360P.mp4",
+            "checksum": "ed3f55edc6bdb32b466543f9535e6874",
+            "filesize": 7685535,
+            "modifiedDatetime": "2021-09-14T22:21:35.000Z",
+            "bitRate": 372.2619220145945,
+            "duration": 161.293,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/61/pksjj_E_141.vtt",
+                "modifiedDatetime": "2021-09-14T22:21:26.000Z",
+                "checksum": "793cf46e04b21fe32f3dd172bd866c21"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/02/pksjj_E_141_r480P.mp4",
+            "checksum": "ddf5076ee15d220c825893bb9f25e61e",
+            "filesize": 14375596,
+            "modifiedDatetime": "2021-09-14T22:21:40.000Z",
+            "bitRate": 696.3063725642154,
+            "duration": 161.293,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/61/pksjj_E_141.vtt",
+                "modifiedDatetime": "2021-09-14T22:21:26.000Z",
+                "checksum": "793cf46e04b21fe32f3dd172bd866c21"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/89/pksjj_E_141_r720P.mp4",
+            "checksum": "1eb34878d8bfc67d061d75bc57a16cde",
+            "filesize": 29663564,
+            "modifiedDatetime": "2021-09-14T22:21:43.000Z",
+            "bitRate": 1436.8050302864972,
+            "duration": 161.293,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/61/pksjj_E_141.vtt",
+                "modifiedDatetime": "2021-09-14T22:21:26.000Z",
+                "checksum": "793cf46e04b21fe32f3dd172bd866c21"
+            }
+        }
+    ],
+    "printReferences": [
+        "pksjj-141.v",
+        "pksjj-141"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/61/pksjj_E_141.vtt",
+    "Name": "pub-pksjj_E_141_VIDEO",
+    "Title": "Song 141 The Miracle of Life",
+    "UndatedReferenceTitle": "Song 141 The Miracle of Life",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2013,
+    "Symbol": "SeriesBJFSongs"
+}

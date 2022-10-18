@@ -1,0 +1,102 @@
+{
+    "guid": "5798f6eafbf22850e2b35abc",
+    "languageAgnosticNaturalKey": "pub-whbs_x_VIDEO",
+    "naturalKey": "pub-whbs_E_x_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODMinistryTools",
+    "description": "",
+    "firstPublished": "2014-06-16T16:05:08.000Z",
+    "duration": 133.419,
+    "durationFormattedHHMM": "2:13",
+    "durationFormattedMinSec": "2m 13s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/fa/whbs_E_r240P.mp4",
+            "checksum": "6aed574feedcdb467e84a089aa16f0a9",
+            "filesize": 4940334,
+            "modifiedDatetime": "2021-10-26T20:29:29.000Z",
+            "bitRate": 289.28682852517255,
+            "duration": 133.419,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.622,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/ba/whbs_E.vtt",
+                "modifiedDatetime": "2021-10-26T20:29:20.000Z",
+                "checksum": "9e1b5b3faee5f34fa6e5a3bbbac2899f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/20/whbs_E_r360P.mp4",
+            "checksum": "0070ffb5b9260986f2f14ef7e7d2542f",
+            "filesize": 8489641,
+            "modifiedDatetime": "2021-10-26T20:29:33.000Z",
+            "bitRate": 497.2472190463696,
+            "duration": 133.385,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/ba/whbs_E.vtt",
+                "modifiedDatetime": "2021-10-26T20:29:20.000Z",
+                "checksum": "9e1b5b3faee5f34fa6e5a3bbbac2899f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/42/whbs_E_r480P.mp4",
+            "checksum": "749401bfd055f5ba75b6b825abaaef07",
+            "filesize": 15380198,
+            "modifiedDatetime": "2021-10-26T20:29:36.000Z",
+            "bitRate": 900.834403231248,
+            "duration": 133.385,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/ba/whbs_E.vtt",
+                "modifiedDatetime": "2021-10-26T20:29:20.000Z",
+                "checksum": "9e1b5b3faee5f34fa6e5a3bbbac2899f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/9b/whbs_E_r720P.mp4",
+            "checksum": "5047b66dc5ddb847736d47267ccded8a",
+            "filesize": 24975613,
+            "modifiedDatetime": "2021-10-26T20:29:41.000Z",
+            "bitRate": 1462.847970630131,
+            "duration": 133.385,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/ba/whbs_E.vtt",
+                "modifiedDatetime": "2021-10-26T20:29:20.000Z",
+                "checksum": "9e1b5b3faee5f34fa6e5a3bbbac2899f"
+            }
+        }
+    ],
+    "printReferences": [
+        "whbs.v",
+        "whbs"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/ba/whbs_E.vtt",
+    "Name": "pub-whbs_E_x_VIDEO",
+    "Title": "What Happens at a Bible Study?",
+    "UndatedReferenceTitle": "What Happens at a Bible Study?",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2014,
+    "Symbol": "VODMinistryTools"
+}

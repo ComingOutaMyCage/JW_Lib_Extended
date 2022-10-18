@@ -1,0 +1,102 @@
+{
+    "guid": "587634240023ee44860fc2cc",
+    "languageAgnosticNaturalKey": "pub-pk_26_VIDEO",
+    "naturalKey": "pub-pk_E_26_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBJFLessons",
+    "description": "",
+    "firstPublished": "2017-02-06T15:36:14.064Z",
+    "duration": 127.246,
+    "durationFormattedHHMM": "2:07",
+    "durationFormattedMinSec": "2m 7s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/11/pk_E_026_r240P.mp4",
+            "checksum": "5066c0af7425bd9029099a1ba2fce24c",
+            "filesize": 5892933,
+            "modifiedDatetime": "2020-11-28T09:00:36.000Z",
+            "bitRate": 361.8073578933719,
+            "duration": 127.246,
+            "frameHeight": 180,
+            "frameWidth": 320,
+            "label": "240p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/a4/pk_E_026_r240P.vtt",
+                "modifiedDatetime": "2019-02-24T16:02:03.000Z",
+                "checksum": "201da26e8c09f20f1ec2e70077bfe261"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/44/pk_E_026_r360P.mp4",
+            "checksum": "ab4e46b69cc4fc8c8e83b5caa501f148",
+            "filesize": 13553628,
+            "modifiedDatetime": "2019-02-24T16:28:00.000Z",
+            "bitRate": 832.3960858172289,
+            "duration": 127.20833333333333,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/19/pk_E_026_r360P.vtt",
+                "modifiedDatetime": "2019-02-24T16:28:01.000Z",
+                "checksum": "201da26e8c09f20f1ec2e70077bfe261"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/4f/pk_E_026_r480P.mp4",
+            "checksum": "cab8ae735fb5a1be3aa623d5ec9165a7",
+            "filesize": 18482753,
+            "modifiedDatetime": "2019-02-23T18:11:56.000Z",
+            "bitRate": 1135.1183057648216,
+            "duration": 127.20833333333333,
+            "frameHeight": 480,
+            "frameWidth": 854,
+            "label": "480p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/f6/pk_E_026_r480P.vtt",
+                "modifiedDatetime": "2019-02-23T18:11:57.000Z",
+                "checksum": "201da26e8c09f20f1ec2e70077bfe261"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/f7/pk_E_026_r720P.mp4",
+            "checksum": "d541285cf33e851c73a7e78d681671a6",
+            "filesize": 26444680,
+            "modifiedDatetime": "2019-02-24T16:23:27.000Z",
+            "bitRate": 1624.100065509335,
+            "duration": 127.20833333333333,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/12/pk_E_026_r720P.vtt",
+                "modifiedDatetime": "2019-02-24T16:23:27.000Z",
+                "checksum": "201da26e8c09f20f1ec2e70077bfe261"
+            }
+        }
+    ],
+    "printReferences": [
+        "pk-26.v",
+        "pk-26"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/a4/pk_E_026_r240P.vtt",
+    "Name": "pub-pk_E_26_VIDEO",
+    "Title": "The Ransom",
+    "UndatedReferenceTitle": "The Ransom",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2017,
+    "Symbol": "SeriesBJFLessons"
+}

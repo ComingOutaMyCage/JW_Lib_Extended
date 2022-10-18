@@ -1,0 +1,102 @@
+{
+    "guid": "582f93240023ee44860f77ac",
+    "languageAgnosticNaturalKey": "pub-ciw_x_VIDEO",
+    "naturalKey": "pub-ciw_E_x_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODBibleAccounts",
+    "description": "",
+    "firstPublished": "2017-01-12T17:08:38.388Z",
+    "duration": 1341.7983333333334,
+    "durationFormattedHHMM": "22:21",
+    "durationFormattedMinSec": "22m 21s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/7d/ciw_E_r240P.mp4",
+            "checksum": "b3466a08ea75ba12c27a44187fb7d952",
+            "filesize": 74738519,
+            "modifiedDatetime": "2020-12-10T19:05:01.000Z",
+            "bitRate": 435.1582985179094,
+            "duration": 1341.7983333333334,
+            "frameHeight": 180,
+            "frameWidth": 320,
+            "label": "240p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/5f/ciw_E_r240P.vtt",
+                "modifiedDatetime": "2019-01-17T16:10:24.000Z",
+                "checksum": "18cf69f55a3b9aa4091f5a287b79c2fa"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/83/ciw_E_r360P.mp4",
+            "checksum": "75e9d0a1f2f25f74cdc458aa7d5bcea8",
+            "filesize": 138101692,
+            "modifiedDatetime": "2019-01-17T16:10:36.000Z",
+            "bitRate": 804.0846690200789,
+            "duration": 1341.7983333333,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/7a/ciw_E_r360P.vtt",
+                "modifiedDatetime": "2019-01-17T16:10:37.000Z",
+                "checksum": "18cf69f55a3b9aa4091f5a287b79c2fa"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/8c/ciw_E_r480P.mp4",
+            "checksum": "fda0d3338e6b741a0c6eadc00e88bfd7",
+            "filesize": 189490075,
+            "modifiedDatetime": "2019-01-17T16:10:59.000Z",
+            "bitRate": 1103.2889027816177,
+            "duration": 1341.7983333333,
+            "frameHeight": 480,
+            "frameWidth": 854,
+            "label": "480p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/ee/ciw_E_r480P.vtt",
+                "modifiedDatetime": "2019-01-17T16:11:00.000Z",
+                "checksum": "18cf69f55a3b9aa4091f5a287b79c2fa"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/b6/ciw_E_r720P.mp4",
+            "checksum": "544d8e6be5ee7e92374191910758d895",
+            "filesize": 273720196,
+            "modifiedDatetime": "2019-01-17T16:11:33.000Z",
+            "bitRate": 1593.7111994599684,
+            "duration": 1341.7983333333,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/10/ciw_E_r720P.vtt",
+                "modifiedDatetime": "2019-01-17T16:11:33.000Z",
+                "checksum": "18cf69f55a3b9aa4091f5a287b79c2fa"
+            }
+        }
+    ],
+    "printReferences": [
+        "ciw.v",
+        "ciw"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/5f/ciw_E_r240P.vtt",
+    "Name": "pub-ciw_E_x_VIDEO",
+    "Title": "\"For This I Have Come Into the World\" (Matthew 21:23-46; 22:15-46)",
+    "UndatedReferenceTitle": "\"For This I Have Come Into the World\" (Matthew 21:23-46; 22:15-46)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2017,
+    "Symbol": "VODBibleAccounts"
+}

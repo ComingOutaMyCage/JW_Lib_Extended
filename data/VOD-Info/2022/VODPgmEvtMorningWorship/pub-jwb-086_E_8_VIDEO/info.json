@@ -1,0 +1,102 @@
+{
+    "guid": "61b7aacfd4a4e5a332462fc4",
+    "languageAgnosticNaturalKey": "pub-jwb-086_8_VIDEO",
+    "naturalKey": "pub-jwb-086_E_8_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2022-01-21T14:24:38.089Z",
+    "duration": 642.624,
+    "durationFormattedHHMM": "10:42",
+    "durationFormattedMinSec": "10m 42s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/fe/jwb-086_E_08_r240P.mp4",
+            "checksum": "ee4e6ffa9c179013a83ca539dd017856",
+            "filesize": 9970355,
+            "modifiedDatetime": "2022-01-21T14:13:05.000Z",
+            "bitRate": 121.21146803963126,
+            "duration": 642.624,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.297,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/dd/jwb-086_E_08.vtt",
+                "modifiedDatetime": "2022-01-21T14:12:46.000Z",
+                "checksum": "56300740f6bcb5ec2cc5bfb83fc18625"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/6f/jwb-086_E_08_r360P.mp4",
+            "checksum": "b2670e8099308390671819dddb34a768",
+            "filesize": 20112106,
+            "modifiedDatetime": "2022-01-21T14:13:01.000Z",
+            "bitRate": 244.52146894963312,
+            "duration": 642.585,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/dd/jwb-086_E_08.vtt",
+                "modifiedDatetime": "2022-01-21T14:12:46.000Z",
+                "checksum": "56300740f6bcb5ec2cc5bfb83fc18625"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/f1/jwb-086_E_08_r480P.mp4",
+            "checksum": "f3cb9f9a578baeb8c7ba970f80603ffd",
+            "filesize": 34589167,
+            "modifiedDatetime": "2022-01-21T14:12:50.000Z",
+            "bitRate": 420.5324854883011,
+            "duration": 642.585,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/dd/jwb-086_E_08.vtt",
+                "modifiedDatetime": "2022-01-21T14:12:46.000Z",
+                "checksum": "56300740f6bcb5ec2cc5bfb83fc18625"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/19/jwb-086_E_08_r720P.mp4",
+            "checksum": "536c54d2eef78734f6b4fe2d685319aa",
+            "filesize": 59489753,
+            "modifiedDatetime": "2022-01-21T14:12:47.000Z",
+            "bitRate": 723.2719333823541,
+            "duration": 642.585,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/dd/jwb-086_E_08.vtt",
+                "modifiedDatetime": "2022-01-21T14:12:46.000Z",
+                "checksum": "56300740f6bcb5ec2cc5bfb83fc18625"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-086-8.v",
+        "jwb-086-8"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/dd/jwb-086_E_08.vtt",
+    "Name": "pub-jwb-086_E_8_VIDEO",
+    "Title": "Ronald Curzan: Marriage Mates “Become One Flesh” (Gen. 2:24)",
+    "UndatedReferenceTitle": "Ronald Curzan: Marriage Mates “Become One Flesh” (Gen. 2:24)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

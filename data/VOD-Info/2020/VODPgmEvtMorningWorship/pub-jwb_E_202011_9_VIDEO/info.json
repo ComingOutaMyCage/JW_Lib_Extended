@@ -1,0 +1,102 @@
+{
+    "guid": "5efb7948af341cff1318c4bf",
+    "languageAgnosticNaturalKey": "pub-jwb_202011_9_VIDEO",
+    "naturalKey": "pub-jwb_E_202011_9_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2020-11-09T18:19:56.004Z",
+    "duration": 653.696,
+    "durationFormattedHHMM": "10:53",
+    "durationFormattedMinSec": "10m 53s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/32/jwb_E_202011_09_r240P.mp4",
+            "checksum": "02e9428d4d9b12bf4a2b7eb86d26b77c",
+            "filesize": 8975329,
+            "modifiedDatetime": "2020-11-09T06:59:37.000Z",
+            "bitRate": 107.26661599963897,
+            "duration": 653.696,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.615,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/8b/jwb_E_202011_09.vtt",
+                "modifiedDatetime": "2020-11-09T06:59:48.000Z",
+                "checksum": "11c554cbf4dae00dc988c885d7a778b6"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/ae/jwb_E_202011_09_r360P.mp4",
+            "checksum": "b1436a3e94feeaeeb9a413633e881f58",
+            "filesize": 18733722,
+            "modifiedDatetime": "2020-11-09T06:59:39.000Z",
+            "bitRate": 223.90314753167917,
+            "duration": 653.663,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/8b/jwb_E_202011_09.vtt",
+                "modifiedDatetime": "2020-11-09T06:59:48.000Z",
+                "checksum": "11c554cbf4dae00dc988c885d7a778b6"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/08/jwb_E_202011_09_r480P.mp4",
+            "checksum": "3fb3a354febb72469b832ed6e7685488",
+            "filesize": 33266429,
+            "modifiedDatetime": "2020-11-09T06:59:42.000Z",
+            "bitRate": 397.5962790650534,
+            "duration": 653.663,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/8b/jwb_E_202011_09.vtt",
+                "modifiedDatetime": "2020-11-09T06:59:48.000Z",
+                "checksum": "11c554cbf4dae00dc988c885d7a778b6"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/2a/jwb_E_202011_09_r720P.mp4",
+            "checksum": "45ad14805a681481a158c010358dd268",
+            "filesize": 65089387,
+            "modifiedDatetime": "2020-11-09T06:59:45.000Z",
+            "bitRate": 777.9403697891727,
+            "duration": 653.663,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/8b/jwb_E_202011_09.vtt",
+                "modifiedDatetime": "2020-11-09T06:59:48.000Z",
+                "checksum": "11c554cbf4dae00dc988c885d7a778b6"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202011-9.v",
+        "jwb.202011-9"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/8b/jwb_E_202011_09.vtt",
+    "Name": "pub-jwb_E_202011_9_VIDEO",
+    "Title": "Ronald Curzan: Our Hope of the Resurrection (Acts 24:15)",
+    "UndatedReferenceTitle": "Ronald Curzan: Our Hope of the Resurrection (Acts 24:15)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

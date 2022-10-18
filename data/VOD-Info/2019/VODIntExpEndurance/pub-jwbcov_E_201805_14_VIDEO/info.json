@@ -1,0 +1,102 @@
+{
+    "guid": "5c8ac21264430a5b2d4dae9c",
+    "languageAgnosticNaturalKey": "pub-jwbcov_201805_14_VIDEO",
+    "naturalKey": "pub-jwbcov_E_201805_14_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpEndurance",
+    "description": "",
+    "firstPublished": "2019-03-25T18:31:32.490Z",
+    "duration": 149.526,
+    "durationFormattedHHMM": "2:29",
+    "durationFormattedMinSec": "2m 29s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/18/jwbcov_E_201805_14_r240P.mp4",
+            "checksum": "9ac72dfc2b8debc632299c239adbe4ef",
+            "filesize": 3952925,
+            "modifiedDatetime": "2020-11-05T02:11:18.000Z",
+            "bitRate": 206.534158357075,
+            "duration": 149.526,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.46,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/93/jwbcov_E_201805_14.vtt",
+                "modifiedDatetime": "2019-03-25T14:33:05.000Z",
+                "checksum": "8ba8ca9eaf9b19148686345322989533"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/60/jwbcov_E_201805_14_r360P.mp4",
+            "checksum": "154d6ccf8b73222376afb0dbe0333c88",
+            "filesize": 7266043,
+            "modifiedDatetime": "2019-03-25T14:33:11.000Z",
+            "bitRate": 379.7460660505472,
+            "duration": 149.484,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/93/jwbcov_E_201805_14.vtt",
+                "modifiedDatetime": "2019-03-25T14:33:05.000Z",
+                "checksum": "8ba8ca9eaf9b19148686345322989533"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/90/jwbcov_E_201805_14_r480P.mp4",
+            "checksum": "bf7c2698a696cdd5d98fa2bafe358378",
+            "filesize": 12619444,
+            "modifiedDatetime": "2019-03-25T14:33:16.000Z",
+            "bitRate": 659.5314966819191,
+            "duration": 149.484,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/93/jwbcov_E_201805_14.vtt",
+                "modifiedDatetime": "2019-03-25T14:33:05.000Z",
+                "checksum": "8ba8ca9eaf9b19148686345322989533"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/04/jwbcov_E_201805_14_r720P.mp4",
+            "checksum": "ff6a1aabee57f3f198d2b9872423b089",
+            "filesize": 20415308,
+            "modifiedDatetime": "2019-03-25T14:33:21.000Z",
+            "bitRate": 1066.9676604185063,
+            "duration": 149.484,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/93/jwbcov_E_201805_14.vtt",
+                "modifiedDatetime": "2019-03-25T14:33:05.000Z",
+                "checksum": "8ba8ca9eaf9b19148686345322989533"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwbcov.201805-14.v",
+        "jwbcov.201805-14"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/93/jwbcov_E_201805_14.vtt",
+    "Name": "pub-jwbcov_E_201805_14_VIDEO",
+    "Title": "Be a Courageous . . . Parent",
+    "UndatedReferenceTitle": "Be a Courageous . . . Parent",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODIntExpEndurance"
+}

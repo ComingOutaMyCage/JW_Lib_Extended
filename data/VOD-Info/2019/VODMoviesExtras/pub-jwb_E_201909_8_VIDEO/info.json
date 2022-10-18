@@ -1,0 +1,102 @@
+{
+    "guid": "5d12164348fd57354cf34833",
+    "languageAgnosticNaturalKey": "pub-jwb_201909_8_VIDEO",
+    "naturalKey": "pub-jwb_E_201909_8_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODMoviesExtras",
+    "description": "",
+    "firstPublished": "2019-09-16T18:52:52.526Z",
+    "duration": 326.699,
+    "durationFormattedHHMM": "5:26",
+    "durationFormattedMinSec": "5m 26s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/d3/jwb_E_201909_08_r240P.mp4",
+            "checksum": "c020b1425a90769252ba2fe11643d459",
+            "filesize": 13141832,
+            "modifiedDatetime": "2020-11-21T06:37:23.000Z",
+            "bitRate": 314.2665343328262,
+            "duration": 326.699,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.928,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/a9/jwb_E_201909_08.vtt",
+                "modifiedDatetime": "2019-09-16T11:32:07.000Z",
+                "checksum": "3f220f72e30dd47ba045bd22dde5e761"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/f2/jwb_E_201909_08_r360P.mp4",
+            "checksum": "f4838bcc5b532ee9ec2c0c066eb64c42",
+            "filesize": 24703257,
+            "modifiedDatetime": "2019-09-16T11:31:54.000Z",
+            "bitRate": 590.8088058032639,
+            "duration": 326.661,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/a9/jwb_E_201909_08.vtt",
+                "modifiedDatetime": "2019-09-16T11:32:07.000Z",
+                "checksum": "3f220f72e30dd47ba045bd22dde5e761"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/c2/jwb_E_201909_08_r480P.mp4",
+            "checksum": "c4417964e980a4faea3639f7162cfc0b",
+            "filesize": 48122707,
+            "modifiedDatetime": "2019-09-16T11:31:57.000Z",
+            "bitRate": 1150.9137865784407,
+            "duration": 326.661,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/a9/jwb_E_201909_08.vtt",
+                "modifiedDatetime": "2019-09-16T11:32:07.000Z",
+                "checksum": "3f220f72e30dd47ba045bd22dde5e761"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/45/jwb_E_201909_08_r720P.mp4",
+            "checksum": "734bd1e391d6908763ada9bf980aac51",
+            "filesize": 83228814,
+            "modifiedDatetime": "2019-09-16T11:32:03.000Z",
+            "bitRate": 1990.5195581198857,
+            "duration": 326.661,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/a9/jwb_E_201909_08.vtt",
+                "modifiedDatetime": "2019-09-16T11:32:07.000Z",
+                "checksum": "3f220f72e30dd47ba045bd22dde5e761"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201909-8.v",
+        "jwb.201909-8"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/a9/jwb_E_201909_08.vtt",
+    "Name": "pub-jwb_E_201909_8_VIDEO",
+    "Title": "Behind the Scenes of The Story of Jonah—A Lesson in Courage and Mercy",
+    "UndatedReferenceTitle": "Behind the Scenes of The Story of Jonah—A Lesson in Courage and Mercy",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODMoviesExtras"
+}

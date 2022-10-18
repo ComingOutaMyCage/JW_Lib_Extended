@@ -1,0 +1,102 @@
+{
+    "guid": "5b58e01fc1963ea3306e03f9",
+    "languageAgnosticNaturalKey": "pub-jwb_201808_11_VIDEO",
+    "naturalKey": "pub-jwb_E_201808_11_VIDEO",
+    "type": "video",
+    "primaryCategory": "Reports",
+    "description": "",
+    "firstPublished": "2018-08-20T13:49:44.070Z",
+    "duration": 303.702,
+    "durationFormattedHHMM": "5:03",
+    "durationFormattedMinSec": "5m 3s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/2b/jwb_E_201808_11_r240P.mp4",
+            "checksum": "85cd94840d48ab4c7de1812fe0801790",
+            "filesize": 10526082,
+            "modifiedDatetime": "2020-11-05T21:09:09.000Z",
+            "bitRate": 270.7753509196515,
+            "duration": 303.702,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.928,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/de/jwb_E_201808_11.vtt",
+                "modifiedDatetime": "2018-08-20T13:36:58.000Z",
+                "checksum": "de7a6590903f812df2ffbf15cafa1433"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/c0/jwb_E_201808_11_r360P.mp4",
+            "checksum": "512e29d25f3e49a0f577528066a67db0",
+            "filesize": 20567511,
+            "modifiedDatetime": "2018-08-20T13:37:08.000Z",
+            "bitRate": 529.1217060310195,
+            "duration": 303.68,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/de/jwb_E_201808_11.vtt",
+                "modifiedDatetime": "2018-08-20T13:36:58.000Z",
+                "checksum": "de7a6590903f812df2ffbf15cafa1433"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/5d/jwb_E_201808_11_r480P.mp4",
+            "checksum": "9fd5ed4c4bd348c56666c3da006c33ff",
+            "filesize": 41493727,
+            "modifiedDatetime": "2018-08-20T13:37:15.000Z",
+            "bitRate": 1067.4714903434535,
+            "duration": 303.68,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/de/jwb_E_201808_11.vtt",
+                "modifiedDatetime": "2018-08-20T13:36:58.000Z",
+                "checksum": "de7a6590903f812df2ffbf15cafa1433"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/b2/jwb_E_201808_11_r720P.mp4",
+            "checksum": "1ba268196b933d5011a3bfe7a1b64141",
+            "filesize": 76274327,
+            "modifiedDatetime": "2018-08-20T13:37:23.000Z",
+            "bitRate": 1962.2404494451396,
+            "duration": 303.68,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/de/jwb_E_201808_11.vtt",
+                "modifiedDatetime": "2018-08-20T13:36:58.000Z",
+                "checksum": "de7a6590903f812df2ffbf15cafa1433"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201808-11.v",
+        "jwb.201808-11"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/de/jwb_E_201808_11.vtt",
+    "Name": "pub-jwb_E_201808_11_VIDEO",
+    "Title": "California Wildfires Update",
+    "UndatedReferenceTitle": "California Wildfires Update",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "Reports"
+}

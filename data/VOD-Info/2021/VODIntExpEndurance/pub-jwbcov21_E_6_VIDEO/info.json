@@ -1,0 +1,102 @@
+{
+    "guid": "60e4b4d5b765b4a6fbcd9faa",
+    "languageAgnosticNaturalKey": "pub-jwbcov21_6_VIDEO",
+    "naturalKey": "pub-jwbcov21_E_6_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpEndurance",
+    "description": "",
+    "firstPublished": "2021-09-13T16:21:19.481Z",
+    "duration": 188.224,
+    "durationFormattedHHMM": "3:08",
+    "durationFormattedMinSec": "3m 8s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/78/jwbcov21_E_06_r240P.mp4",
+            "checksum": "8afd4f8a91bfac352964cc39b7a0492c",
+            "filesize": 3816624,
+            "modifiedDatetime": "2021-09-11T04:33:33.000Z",
+            "bitRate": 158.4143095460728,
+            "duration": 188.224,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.483,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/e9/jwbcov21_E_06.vtt",
+                "modifiedDatetime": "2021-09-11T04:33:37.000Z",
+                "checksum": "35d560b686d6f33ac86b61b10ea65f82"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/6e/jwbcov21_E_06_r360P.mp4",
+            "checksum": "b9da79f64d69d4f3e773cd11257180ab",
+            "filesize": 7003827,
+            "modifiedDatetime": "2021-09-11T04:33:32.000Z",
+            "bitRate": 290.7576874179681,
+            "duration": 188.189,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/e9/jwbcov21_E_06.vtt",
+                "modifiedDatetime": "2021-09-11T04:33:37.000Z",
+                "checksum": "35d560b686d6f33ac86b61b10ea65f82"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/bd/jwbcov21_E_06_r480P.mp4",
+            "checksum": "8713ca374576e0538f1a966baad38e8c",
+            "filesize": 12234197,
+            "modifiedDatetime": "2021-09-11T04:33:27.000Z",
+            "bitRate": 507.8918749900366,
+            "duration": 188.189,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/e9/jwbcov21_E_06.vtt",
+                "modifiedDatetime": "2021-09-11T04:33:37.000Z",
+                "checksum": "35d560b686d6f33ac86b61b10ea65f82"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/48/jwbcov21_E_06_r720P.mp4",
+            "checksum": "a47dbbb23b5d9d8f678b350e806ad670",
+            "filesize": 19677071,
+            "modifiedDatetime": "2021-09-11T04:33:23.000Z",
+            "bitRate": 816.8762105516263,
+            "duration": 188.189,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/e9/jwbcov21_E_06.vtt",
+                "modifiedDatetime": "2021-09-11T04:33:37.000Z",
+                "checksum": "35d560b686d6f33ac86b61b10ea65f82"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwbcov21-6.v",
+        "jwbcov21-6"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/e9/jwbcov21_E_06.vtt",
+    "Name": "pub-jwbcov21_E_6_VIDEO",
+    "Title": "Why We Have Faith in . . . God’s Love",
+    "UndatedReferenceTitle": "Why We Have Faith in . . . God’s Love",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODIntExpEndurance"
+}

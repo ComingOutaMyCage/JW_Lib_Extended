@@ -1,0 +1,102 @@
+{
+    "guid": "5e84e2b8001474da27e9ba3b",
+    "languageAgnosticNaturalKey": "pub-pkon_18_VIDEO",
+    "naturalKey": "pub-pkon_E_18_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBJFSongs",
+    "description": "",
+    "firstPublished": "2020-05-04T12:08:12.014Z",
+    "duration": 142.208,
+    "durationFormattedHHMM": "2:22",
+    "durationFormattedMinSec": "2m 22s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/f8/pkon_E_018_r240P.mp4",
+            "checksum": "7a63d5e3d89983c4cd5667bb427f7166",
+            "filesize": 3507791,
+            "modifiedDatetime": "2020-10-29T14:39:20.000Z",
+            "bitRate": 192.7079853981492,
+            "duration": 142.208,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.483,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/86/pkon_E_018.vtt",
+                "modifiedDatetime": "2020-10-29T14:39:13.000Z",
+                "checksum": "2edeebdbb1324eae83eb09560715fafb"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/b7/pkon_E_018_r360P.mp4",
+            "checksum": "37937b428db14ddb91df2e5ae915bc66",
+            "filesize": 6074829,
+            "modifiedDatetime": "2020-10-29T14:39:24.000Z",
+            "bitRate": 333.7876819812216,
+            "duration": 142.185,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/86/pkon_E_018.vtt",
+                "modifiedDatetime": "2020-10-29T14:39:13.000Z",
+                "checksum": "2edeebdbb1324eae83eb09560715fafb"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/1f/pkon_E_018_r480P.mp4",
+            "checksum": "4e53efcb5fee2b5b2adbb7f9962bff12",
+            "filesize": 10194550,
+            "modifiedDatetime": "2020-10-29T14:39:26.000Z",
+            "bitRate": 560.1499586805921,
+            "duration": 142.185,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/86/pkon_E_018.vtt",
+                "modifiedDatetime": "2020-10-29T14:39:13.000Z",
+                "checksum": "2edeebdbb1324eae83eb09560715fafb"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/6b/pkon_E_018_r720P.mp4",
+            "checksum": "25ed103e144b91a4db4408a3b8367b5e",
+            "filesize": 15773996,
+            "modifiedDatetime": "2020-10-29T14:39:32.000Z",
+            "bitRate": 866.7183159264339,
+            "duration": 142.185,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/86/pkon_E_018.vtt",
+                "modifiedDatetime": "2020-10-29T14:39:13.000Z",
+                "checksum": "2edeebdbb1324eae83eb09560715fafb"
+            }
+        }
+    ],
+    "printReferences": [
+        "pkon-18.v",
+        "pkon-18"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/86/pkon_E_018.vtt",
+    "Name": "pub-pkon_E_18_VIDEO",
+    "Title": "Endure Like Noah",
+    "UndatedReferenceTitle": "Endure Like Noah",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "SeriesBJFSongs"
+}

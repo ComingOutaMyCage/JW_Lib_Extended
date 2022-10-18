@@ -1,0 +1,102 @@
+{
+    "guid": "5b6340d5c1963ea3306e123d",
+    "languageAgnosticNaturalKey": "docid-502018516_1_VIDEO",
+    "naturalKey": "docid-502018516_E_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODBibleTranslations",
+    "description": "",
+    "firstPublished": "2018-10-22T14:06:10.040Z",
+    "duration": 331.862,
+    "durationFormattedHHMM": "5:31",
+    "durationFormattedMinSec": "5m 31s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/d6/502018516_E_cnt_1_r240P.mp4",
+            "checksum": "90dfaeb93f1cc3523e1e2d9ca8299e85",
+            "filesize": 12539237,
+            "modifiedDatetime": "2020-11-01T12:47:36.000Z",
+            "bitRate": 295.1913417700731,
+            "duration": 331.862,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.833,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/b6/502018516_E_cnt_1_r240P.vtt",
+                "modifiedDatetime": "2018-10-22T13:51:44.000Z",
+                "checksum": "e9985468467344344fa6854cf409b12e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/df/502018516_E_cnt_1_r360P.mp4",
+            "checksum": "f8eb9b84f3903712c1e9a0439f628ebc",
+            "filesize": 24189626,
+            "modifiedDatetime": "2018-10-22T13:51:45.000Z",
+            "bitRate": 569.507713593886,
+            "duration": 331.833,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/2d/502018516_E_cnt_1_r360P.vtt",
+                "modifiedDatetime": "2018-10-22T13:51:47.000Z",
+                "checksum": "e9985468467344344fa6854cf409b12e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/ff/502018516_E_cnt_1_r480P.mp4",
+            "checksum": "c21c0770cd07fd2a83ecba2d11524fd8",
+            "filesize": 46717717,
+            "modifiedDatetime": "2018-10-22T13:51:48.000Z",
+            "bitRate": 1099.8971291658754,
+            "duration": 331.833,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/5b/502018516_E_cnt_1_r480P.vtt",
+                "modifiedDatetime": "2018-10-22T13:51:50.000Z",
+                "checksum": "e9985468467344344fa6854cf409b12e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/80/502018516_E_cnt_1_r720P.mp4",
+            "checksum": "68e1e1a302ae7c7d68d783a20ac01ab7",
+            "filesize": 81123524,
+            "modifiedDatetime": "2018-10-22T13:51:51.000Z",
+            "bitRate": 1909.9291850117377,
+            "duration": 331.833,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/68/502018516_E_cnt_1_r720P.vtt",
+                "modifiedDatetime": "2018-10-22T13:51:58.000Z",
+                "checksum": "e9985468467344344fa6854cf409b12e"
+            }
+        }
+    ],
+    "printReferences": [
+        "502018516-1.v",
+        "502018516-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/content_assets/b6/502018516_E_cnt_1_r240P.vtt",
+    "Name": "docid-502018516_E_1_VIDEO",
+    "Title": "Good News in the Andes",
+    "UndatedReferenceTitle": "Good News in the Andes",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "VODBibleTranslations"
+}

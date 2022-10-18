@@ -1,0 +1,102 @@
+{
+    "guid": "5e21d542aff3a23148822ac2",
+    "languageAgnosticNaturalKey": "pub-pk_38_VIDEO",
+    "naturalKey": "pub-pk_E_38_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBJFLessons",
+    "description": "",
+    "firstPublished": "2020-03-02T12:36:07.538Z",
+    "duration": 135.168,
+    "durationFormattedHHMM": "2:15",
+    "durationFormattedMinSec": "2m 15s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/80/pk_E_038_r240P.mp4",
+            "checksum": "d33786ac92f4d283ef602829c9821acf",
+            "filesize": 4236308,
+            "modifiedDatetime": "2020-12-11T06:47:20.000Z",
+            "bitRate": 244.85200824159563,
+            "duration": 135.168,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.631,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/70/pk_E_038.vtt",
+                "modifiedDatetime": "2020-03-05T14:16:49.000Z",
+                "checksum": "50ffc854513fe331841ec80abc9e5818"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/9c/pk_E_038_r360P.mp4",
+            "checksum": "24ee1f435cfd24eb87d7fe65eeb46369",
+            "filesize": 7198918,
+            "modifiedDatetime": "2020-03-05T14:25:56.000Z",
+            "bitRate": 416.21558304841403,
+            "duration": 135.126,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/70/pk_E_038.vtt",
+                "modifiedDatetime": "2020-03-05T14:16:49.000Z",
+                "checksum": "50ffc854513fe331841ec80abc9e5818"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/93/pk_E_038_r480P.mp4",
+            "checksum": "52bbd5a9a08f40054044e9a42744f686",
+            "filesize": 12699965,
+            "modifiedDatetime": "2020-03-05T14:34:38.000Z",
+            "bitRate": 734.2663629686366,
+            "duration": 135.126,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/70/pk_E_038.vtt",
+                "modifiedDatetime": "2020-03-05T14:16:49.000Z",
+                "checksum": "50ffc854513fe331841ec80abc9e5818"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/f1/pk_E_038_r720P.mp4",
+            "checksum": "7d3d35dc1fb3f82a37675f29abc775d3",
+            "filesize": 20066530,
+            "modifiedDatetime": "2020-03-05T14:25:54.000Z",
+            "bitRate": 1160.1746934342762,
+            "duration": 135.126,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/70/pk_E_038.vtt",
+                "modifiedDatetime": "2020-03-05T14:16:49.000Z",
+                "checksum": "50ffc854513fe331841ec80abc9e5818"
+            }
+        }
+    ],
+    "printReferences": [
+        "pk-38.v",
+        "pk-38"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/70/pk_E_038.vtt",
+    "Name": "pub-pk_E_38_VIDEO",
+    "Title": "Love Your Neighbor",
+    "UndatedReferenceTitle": "Love Your Neighbor",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "SeriesBJFLessons"
+}

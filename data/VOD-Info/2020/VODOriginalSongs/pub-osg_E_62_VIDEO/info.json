@@ -1,0 +1,102 @@
+{
+    "guid": "5e31edebfaacdecc135e197a",
+    "languageAgnosticNaturalKey": "pub-osg_62_VIDEO",
+    "naturalKey": "pub-osg_E_62_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODOriginalSongs",
+    "description": "",
+    "firstPublished": "2020-05-18T17:25:41.900Z",
+    "duration": 268.331,
+    "durationFormattedHHMM": "4:28",
+    "durationFormattedMinSec": "4m 28s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/5a/osg_E_062_r240P.mp4",
+            "checksum": "753c41fa0d81d05683783a5b212aed82",
+            "filesize": 12040073,
+            "modifiedDatetime": "2020-12-05T18:18:55.000Z",
+            "bitRate": 350.54865189821527,
+            "duration": 268.331,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/80/osg_E_062.vtt",
+                "modifiedDatetime": "2020-05-18T15:19:47.000Z",
+                "checksum": "c9662cb17c586bd1880aad631046039d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/a4/osg_E_062_r360P.mp4",
+            "checksum": "d7200afac09a2a9238973bfde54931fc",
+            "filesize": 21259277,
+            "modifiedDatetime": "2020-05-18T15:19:31.000Z",
+            "bitRate": 619.0549196680495,
+            "duration": 268.293,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/80/osg_E_062.vtt",
+                "modifiedDatetime": "2020-05-18T15:19:47.000Z",
+                "checksum": "c9662cb17c586bd1880aad631046039d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/9d/osg_E_062_r480P.mp4",
+            "checksum": "26c61398fe4a634f55567cb5ae6c48bc",
+            "filesize": 40210699,
+            "modifiedDatetime": "2020-05-18T15:19:35.000Z",
+            "bitRate": 1170.9067546954263,
+            "duration": 268.293,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/80/osg_E_062.vtt",
+                "modifiedDatetime": "2020-05-18T15:19:47.000Z",
+                "checksum": "c9662cb17c586bd1880aad631046039d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/9b/osg_E_062_r720P.mp4",
+            "checksum": "1d192a6cfa3f7245f3f6bb1ed21d6612",
+            "filesize": 67545492,
+            "modifiedDatetime": "2020-05-18T15:19:40.000Z",
+            "bitRate": 1966.876348805224,
+            "duration": 268.293,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/80/osg_E_062.vtt",
+                "modifiedDatetime": "2020-05-18T15:19:47.000Z",
+                "checksum": "c9662cb17c586bd1880aad631046039d"
+            }
+        }
+    ],
+    "printReferences": [
+        "osg-62.v",
+        "osg-62"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/80/osg_E_062.vtt",
+    "Name": "pub-osg_E_62_VIDEO",
+    "Title": "Just Like a Child",
+    "UndatedReferenceTitle": "Just Like a Child",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODOriginalSongs"
+}

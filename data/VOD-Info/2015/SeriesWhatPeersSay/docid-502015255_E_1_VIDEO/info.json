@@ -1,0 +1,102 @@
+{
+    "guid": "55954c7a79892656f9a37d3f",
+    "languageAgnosticNaturalKey": "docid-502015255_1_VIDEO",
+    "naturalKey": "docid-502015255_E_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesWhatPeersSay",
+    "description": "",
+    "firstPublished": "2015-08-31T13:38:16.607Z",
+    "duration": 163.286,
+    "durationFormattedHHMM": "2:43",
+    "durationFormattedMinSec": "2m 43s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/06/502015255_E_cnt_1_r240P.mp4",
+            "checksum": "08e94028ea4a01534a4b746d77af72b4",
+            "filesize": 4955910,
+            "modifiedDatetime": "2020-11-05T21:40:12.000Z",
+            "bitRate": 237.11798240510515,
+            "duration": 163.286,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.881,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/ff/502015255_E_cnt_1.vtt",
+                "modifiedDatetime": "2020-11-05T21:40:03.000Z",
+                "checksum": "28fa760d8ab4c0ca26e6b6afd0447c4b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/7f/502015255_E_cnt_1_r360P.mp4",
+            "checksum": "1082e9f27dedb596547b352d603a1153",
+            "filesize": 10130025,
+            "modifiedDatetime": "2020-11-05T21:40:16.000Z",
+            "bitRate": 484.78891203873866,
+            "duration": 163.248,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/ff/502015255_E_cnt_1.vtt",
+                "modifiedDatetime": "2020-11-05T21:40:03.000Z",
+                "checksum": "28fa760d8ab4c0ca26e6b6afd0447c4b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/4d/502015255_E_cnt_1_r480P.mp4",
+            "checksum": "a236db6f4c0851a01ea9cfbd6869dc2e",
+            "filesize": 19490873,
+            "modifiedDatetime": "2020-11-05T21:40:19.000Z",
+            "bitRate": 932.7676009047584,
+            "duration": 163.248,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/ff/502015255_E_cnt_1.vtt",
+                "modifiedDatetime": "2020-11-05T21:40:03.000Z",
+                "checksum": "28fa760d8ab4c0ca26e6b6afd0447c4b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/65/502015255_E_cnt_1_r720P.mp4",
+            "checksum": "a6979d301f85bd16544895ba25ef3d7c",
+            "filesize": 34412538,
+            "modifiedDatetime": "2020-11-05T21:40:23.000Z",
+            "bitRate": 1646.8682809284035,
+            "duration": 163.248,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/ff/502015255_E_cnt_1.vtt",
+                "modifiedDatetime": "2020-11-05T21:40:03.000Z",
+                "checksum": "28fa760d8ab4c0ca26e6b6afd0447c4b"
+            }
+        }
+    ],
+    "printReferences": [
+        "502015255-1.v",
+        "502015255-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/content_assets/ff/502015255_E_cnt_1.vtt",
+    "Name": "docid-502015255_E_1_VIDEO",
+    "Title": "What Your Peers Say—Belief in God",
+    "UndatedReferenceTitle": "What Your Peers Say—Belief in God",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2015,
+    "Symbol": "SeriesWhatPeersSay"
+}

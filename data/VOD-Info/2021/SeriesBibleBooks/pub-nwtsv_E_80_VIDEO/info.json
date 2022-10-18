@@ -1,0 +1,102 @@
+{
+    "guid": "61895370e4dbeaf5fa2d90b3",
+    "languageAgnosticNaturalKey": "pub-nwtsv_80_VIDEO",
+    "naturalKey": "pub-nwtsv_E_80_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBibleBooks",
+    "description": "",
+    "firstPublished": "2021-12-24T20:23:05.252Z",
+    "duration": 238.144,
+    "durationFormattedHHMM": "3:58",
+    "durationFormattedMinSec": "3m 58s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/bb/nwtsv_E_080_r240P.mp4",
+            "checksum": "7b16dab80481e5ebfed7d6daa10ec920",
+            "filesize": 5157087,
+            "modifiedDatetime": "2021-12-24T20:11:26.000Z",
+            "bitRate": 169.18226865887866,
+            "duration": 238.144,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.645,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/91/nwtsv_E_080.vtt",
+                "modifiedDatetime": "2021-12-24T20:11:15.000Z",
+                "checksum": "ee7a6deea7a02b70c35fe33fce808165"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/0d/nwtsv_E_080_r360P.mp4",
+            "checksum": "8242146dbe890abf92d7c983c9c55478",
+            "filesize": 10394772,
+            "modifiedDatetime": "2021-12-24T20:11:23.000Z",
+            "bitRate": 341.05158138538684,
+            "duration": 238.114,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/91/nwtsv_E_080.vtt",
+                "modifiedDatetime": "2021-12-24T20:11:15.000Z",
+                "checksum": "ee7a6deea7a02b70c35fe33fce808165"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/c5/nwtsv_E_080_r480P.mp4",
+            "checksum": "788fce61f5e30cdf832071b8194d3236",
+            "filesize": 21525024,
+            "modifiedDatetime": "2021-12-24T20:11:21.000Z",
+            "bitRate": 706.2341987451389,
+            "duration": 238.114,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/91/nwtsv_E_080.vtt",
+                "modifiedDatetime": "2021-12-24T20:11:15.000Z",
+                "checksum": "ee7a6deea7a02b70c35fe33fce808165"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/3a/nwtsv_E_080_r720P.mp4",
+            "checksum": "c9a0a2515c9f8fc2f0b1357c794c1291",
+            "filesize": 40131152,
+            "modifiedDatetime": "2021-12-24T20:11:19.000Z",
+            "bitRate": 1316.6996690660776,
+            "duration": 238.114,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/91/nwtsv_E_080.vtt",
+                "modifiedDatetime": "2021-12-24T20:11:15.000Z",
+                "checksum": "ee7a6deea7a02b70c35fe33fce808165"
+            }
+        }
+    ],
+    "printReferences": [
+        "nwtsv-80.v",
+        "nwtsv-80"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/91/nwtsv_E_080.vtt",
+    "Name": "pub-nwtsv_E_80_VIDEO",
+    "Title": "Introduction to Ruth",
+    "UndatedReferenceTitle": "Introduction to Ruth",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "SeriesBibleBooks"
+}

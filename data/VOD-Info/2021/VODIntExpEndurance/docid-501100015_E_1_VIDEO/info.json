@@ -1,0 +1,102 @@
+{
+    "guid": "602d8f19aa8dbd024d55b642",
+    "languageAgnosticNaturalKey": "docid-501100015_1_VIDEO",
+    "naturalKey": "docid-501100015_E_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpEndurance",
+    "description": "",
+    "firstPublished": "2021-03-30T13:39:34.680Z",
+    "duration": 306.39,
+    "durationFormattedHHMM": "5:06",
+    "durationFormattedMinSec": "5m 6s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/1c/501100015_E_cnt_1_r240P.mp4",
+            "checksum": "04b1a2c0e1df73c514d638ba7b7c0cbd",
+            "filesize": 7918688,
+            "modifiedDatetime": "2021-03-10T21:51:11.000Z",
+            "bitRate": 201.91504291915533,
+            "duration": 306.39,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.952,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/85/501100015_E_cnt_1.vtt",
+                "modifiedDatetime": "2021-03-10T21:51:00.000Z",
+                "checksum": "d843cd0e6e091132f6c89b0c59370368"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/b0/501100015_E_cnt_1_r360P.mp4",
+            "checksum": "5879f17c11561fdee0771068d77f88a5",
+            "filesize": 14790565,
+            "modifiedDatetime": "2021-03-10T21:51:13.000Z",
+            "bitRate": 377.18839970915525,
+            "duration": 306.349,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/85/501100015_E_cnt_1.vtt",
+                "modifiedDatetime": "2021-03-10T21:51:00.000Z",
+                "checksum": "d843cd0e6e091132f6c89b0c59370368"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/a3/501100015_E_cnt_1_r480P.mp4",
+            "checksum": "b12406850d841e89487bc568b2e0116d",
+            "filesize": 27709778,
+            "modifiedDatetime": "2021-03-10T21:51:16.000Z",
+            "bitRate": 706.6536552265553,
+            "duration": 306.349,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/85/501100015_E_cnt_1.vtt",
+                "modifiedDatetime": "2021-03-10T21:51:00.000Z",
+                "checksum": "d843cd0e6e091132f6c89b0c59370368"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/a3/501100015_E_cnt_1_r720P.mp4",
+            "checksum": "1e8bdbd65f2039c0ed89e7331e306298",
+            "filesize": 46644917,
+            "modifiedDatetime": "2021-03-10T21:51:22.000Z",
+            "bitRate": 1189.5368160578296,
+            "duration": 306.349,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/85/501100015_E_cnt_1.vtt",
+                "modifiedDatetime": "2021-03-10T21:51:00.000Z",
+                "checksum": "d843cd0e6e091132f6c89b0c59370368"
+            }
+        }
+    ],
+    "printReferences": [
+        "501100015-1.v",
+        "501100015-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/content_assets/85/501100015_E_cnt_1.vtt",
+    "Name": "docid-501100015_E_1_VIDEO",
+    "Title": "When a Loved One Dies",
+    "UndatedReferenceTitle": "When a Loved One Dies",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODIntExpEndurance"
+}

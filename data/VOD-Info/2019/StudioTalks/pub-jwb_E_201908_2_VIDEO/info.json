@@ -1,0 +1,102 @@
+{
+    "guid": "5d2f800248fd57354cf378b5",
+    "languageAgnosticNaturalKey": "pub-jwb_201908_2_VIDEO",
+    "naturalKey": "pub-jwb_E_201908_2_VIDEO",
+    "type": "video",
+    "primaryCategory": "StudioTalks",
+    "description": "",
+    "firstPublished": "2019-08-19T21:14:36.590Z",
+    "duration": 1506.304,
+    "durationFormattedHHMM": "25:06",
+    "durationFormattedMinSec": "25m 6s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/36/jwb_E_201908_02_r240P.mp4",
+            "checksum": "32621a06d8d7fe69bb179faa0252606a",
+            "filesize": 29571358,
+            "modifiedDatetime": "2020-11-06T20:30:24.000Z",
+            "bitRate": 153.37291434863081,
+            "duration": 1506.304,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.268,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/90/jwb_E_201908_02.vtt",
+                "modifiedDatetime": "2019-08-19T09:59:20.000Z",
+                "checksum": "030ec30ea372206167f6eaf6a6ab7b27"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/90/jwb_E_201908_02_r360P.mp4",
+            "checksum": "dbc2b42c9a5108591d8294b8c5b69ada",
+            "filesize": 57717735,
+            "modifiedDatetime": "2019-08-19T09:58:53.000Z",
+            "bitRate": 299.3596843401065,
+            "duration": 1506.281,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/90/jwb_E_201908_02.vtt",
+                "modifiedDatetime": "2019-08-19T09:59:20.000Z",
+                "checksum": "030ec30ea372206167f6eaf6a6ab7b27"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/3c/jwb_E_201908_02_r480P.mp4",
+            "checksum": "9bc43547043cf49a6f9d5be2ce53358f",
+            "filesize": 102547585,
+            "modifiedDatetime": "2019-08-19T09:58:59.000Z",
+            "bitRate": 531.8748678450436,
+            "duration": 1506.281,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/90/jwb_E_201908_02.vtt",
+                "modifiedDatetime": "2019-08-19T09:59:20.000Z",
+                "checksum": "030ec30ea372206167f6eaf6a6ab7b27"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/ae/jwb_E_201908_02_r720P.mp4",
+            "checksum": "8956a1ef868d2c6c437a5ec0e5ceea76",
+            "filesize": 168891881,
+            "modifiedDatetime": "2019-08-19T09:59:07.000Z",
+            "bitRate": 875.9772049919637,
+            "duration": 1506.281,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/90/jwb_E_201908_02.vtt",
+                "modifiedDatetime": "2019-08-19T09:59:20.000Z",
+                "checksum": "030ec30ea372206167f6eaf6a6ab7b27"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201908-2.v",
+        "jwb.201908-2"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/90/jwb_E_201908_02.vtt",
+    "Name": "pub-jwb_E_201908_2_VIDEO",
+    "Title": "Gary Breaux: Cherish Your Privilege of Prayer",
+    "UndatedReferenceTitle": "Gary Breaux: Cherish Your Privilege of Prayer",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "StudioTalks"
+}

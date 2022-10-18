@@ -1,0 +1,102 @@
+{
+    "guid": "6193f969d4a4e5a3329d4f64",
+    "languageAgnosticNaturalKey": "pub-jwb-085_14_VIDEO",
+    "naturalKey": "pub-jwb-085_E_14_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtGilead",
+    "description": "",
+    "firstPublished": "2021-12-21T15:41:19.711Z",
+    "duration": 1115.819,
+    "durationFormattedHHMM": "18:35",
+    "durationFormattedMinSec": "18m 35s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/29/jwb-085_E_14_r240P.mp4",
+            "checksum": "5fe52430bc47d37e2ce98488e2d96f00",
+            "filesize": 22204193,
+            "modifiedDatetime": "2021-12-21T15:00:39.000Z",
+            "bitRate": 155.4645133417696,
+            "duration": 1115.819,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.47,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/cb/jwb-085_E_14.vtt",
+                "modifiedDatetime": "2021-12-21T15:00:21.000Z",
+                "checksum": "e39ca1833b711ce08091b0e745e1fd94"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/27/jwb-085_E_14_r360P.mp4",
+            "checksum": "1f10a75a1c7c14bc46fc00024e2260f9",
+            "filesize": 43159847,
+            "modifiedDatetime": "2021-12-21T15:00:33.000Z",
+            "bitRate": 302.194859689225,
+            "duration": 1115.791,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/cb/jwb-085_E_14.vtt",
+                "modifiedDatetime": "2021-12-21T15:00:21.000Z",
+                "checksum": "e39ca1833b711ce08091b0e745e1fd94"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/93/jwb-085_E_14_r480P.mp4",
+            "checksum": "cf96a8b084d08014f5ac79bc54cfa17c",
+            "filesize": 83357355,
+            "modifiedDatetime": "2021-12-21T15:00:30.000Z",
+            "bitRate": 583.6481347649336,
+            "duration": 1115.791,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/cb/jwb-085_E_14.vtt",
+                "modifiedDatetime": "2021-12-21T15:00:21.000Z",
+                "checksum": "e39ca1833b711ce08091b0e745e1fd94"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/c1/jwb-085_E_14_r720P.mp4",
+            "checksum": "57f47e218798bf6e23b7b2c30c1756cf",
+            "filesize": 158348527,
+            "modifiedDatetime": "2021-12-21T15:00:22.000Z",
+            "bitRate": 1108.7182699873902,
+            "duration": 1115.791,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/cb/jwb-085_E_14.vtt",
+                "modifiedDatetime": "2021-12-21T15:00:21.000Z",
+                "checksum": "e39ca1833b711ce08091b0e745e1fd94"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-085-14.v",
+        "jwb-085-14"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/cb/jwb-085_E_14.vtt",
+    "Name": "pub-jwb-085_E_14_VIDEO",
+    "Title": "Geoffrey W. Jackson: Now Share What You Have Learned!",
+    "UndatedReferenceTitle": "Geoffrey W. Jackson: Now Share What You Have Learned!",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODPgmEvtGilead"
+}

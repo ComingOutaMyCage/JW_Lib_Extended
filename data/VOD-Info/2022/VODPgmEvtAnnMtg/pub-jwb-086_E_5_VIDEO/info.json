@@ -1,0 +1,102 @@
+{
+    "guid": "61a00376d4a4e5a332c232e7",
+    "languageAgnosticNaturalKey": "pub-jwb-086_5_VIDEO",
+    "naturalKey": "pub-jwb-086_E_5_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtAnnMtg",
+    "description": "",
+    "firstPublished": "2022-01-04T21:15:33.602Z",
+    "duration": 1432.774,
+    "durationFormattedHHMM": "23:52",
+    "durationFormattedMinSec": "23m 52s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/f4/jwb-086_E_05_r240P.mp4",
+            "checksum": "e5893ae77b26951755b10be2957e6af3",
+            "filesize": 20831080,
+            "modifiedDatetime": "2022-01-04T20:10:03.000Z",
+            "bitRate": 113.58288881087597,
+            "duration": 1432.811,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.155,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/8a/jwb-086_E_05.vtt",
+                "modifiedDatetime": "2022-01-04T20:09:43.000Z",
+                "checksum": "56976465d0a05332a6aab8cfc3d66140"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/59/jwb-086_E_05_r360P.mp4",
+            "checksum": "2116def85bf1a9c45f76606671cc0411",
+            "filesize": 41416422,
+            "modifiedDatetime": "2022-01-04T20:09:58.000Z",
+            "bitRate": 225.83170609949653,
+            "duration": 1432.774,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/8a/jwb-086_E_05.vtt",
+                "modifiedDatetime": "2022-01-04T20:09:43.000Z",
+                "checksum": "56976465d0a05332a6aab8cfc3d66140"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/0d/jwb-086_E_05_r480P.mp4",
+            "checksum": "d4d5bf36ae3c29c3baa0424ae917f9a6",
+            "filesize": 72142418,
+            "modifiedDatetime": "2022-01-04T20:09:52.000Z",
+            "bitRate": 393.3716277828883,
+            "duration": 1432.774,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/8a/jwb-086_E_05.vtt",
+                "modifiedDatetime": "2022-01-04T20:09:43.000Z",
+                "checksum": "56976465d0a05332a6aab8cfc3d66140"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/10/jwb-086_E_05_r720P.mp4",
+            "checksum": "c10963295472be2593feba071977ceac",
+            "filesize": 119130155,
+            "modifiedDatetime": "2022-01-04T20:09:47.000Z",
+            "bitRate": 649.5820945505014,
+            "duration": 1432.774,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/8a/jwb-086_E_05.vtt",
+                "modifiedDatetime": "2022-01-04T20:09:43.000Z",
+                "checksum": "56976465d0a05332a6aab8cfc3d66140"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-086-5.v",
+        "jwb-086-5"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/8a/jwb-086_E_05.vtt",
+    "Name": "pub-jwb-086_E_5_VIDEO",
+    "Title": "David H. Splane: “The Way of Holiness”",
+    "UndatedReferenceTitle": "David H. Splane: “The Way of Holiness”",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODPgmEvtAnnMtg"
+}

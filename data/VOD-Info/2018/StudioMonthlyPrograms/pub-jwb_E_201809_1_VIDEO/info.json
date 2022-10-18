@@ -1,0 +1,102 @@
+{
+    "guid": "5b759059c1963ea3306e2c25",
+    "languageAgnosticNaturalKey": "pub-jwb_201809_1_VIDEO",
+    "naturalKey": "pub-jwb_E_201809_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "StudioMonthlyPrograms",
+    "description": "",
+    "firstPublished": "2018-09-03T12:28:48.177Z",
+    "duration": 3456.47,
+    "durationFormattedHHMM": "57:36",
+    "durationFormattedMinSec": "57m 36s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/47/jwb_E_201809_01_r240P.mp4",
+            "checksum": "20cf95ba45c8e05b9126dd071bd4b03f",
+            "filesize": 64312803,
+            "modifiedDatetime": "2020-11-06T23:26:26.000Z",
+            "bitRate": 145.3632675641623,
+            "duration": 3456.47,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/23/jwb_E_201809_01.vtt",
+                "modifiedDatetime": "2018-09-03T10:59:58.000Z",
+                "checksum": "6768b564aaf13589bdddc68544caeb51"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/60/jwb_E_201809_01_r360P.mp4",
+            "checksum": "70550b87076a2167dbc050d6409db1be",
+            "filesize": 170809886,
+            "modifiedDatetime": "2018-09-03T11:00:03.000Z",
+            "bitRate": 386.0783005740896,
+            "duration": 3456.429,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/23/jwb_E_201809_01.vtt",
+                "modifiedDatetime": "2018-09-03T10:59:58.000Z",
+                "checksum": "6768b564aaf13589bdddc68544caeb51"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/7e/jwb_E_201809_01_r480P.mp4",
+            "checksum": "b8ce71168f0270e926676c2cc4d09f71",
+            "filesize": 322729182,
+            "modifiedDatetime": "2018-09-03T11:00:10.000Z",
+            "bitRate": 729.4585638458074,
+            "duration": 3456.429,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/23/jwb_E_201809_01.vtt",
+                "modifiedDatetime": "2018-09-03T10:59:58.000Z",
+                "checksum": "6768b564aaf13589bdddc68544caeb51"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/d8/jwb_E_201809_01_r720P.mp4",
+            "checksum": "43212b36e3c351e27efdc46691ae7948",
+            "filesize": 536995976,
+            "modifiedDatetime": "2018-09-03T13:04:56.000Z",
+            "bitRate": 1213.7616778762126,
+            "duration": 3456.429,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/23/jwb_E_201809_01.vtt",
+                "modifiedDatetime": "2018-09-03T10:59:58.000Z",
+                "checksum": "6768b564aaf13589bdddc68544caeb51"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201809-1.v",
+        "jwb.201809-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/23/jwb_E_201809_01.vtt",
+    "Name": "pub-jwb_E_201809_1_VIDEO",
+    "Title": "JW Broadcasting—September 2018",
+    "UndatedReferenceTitle": "JW Broadcasting—September 2018",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "StudioMonthlyPrograms"
+}

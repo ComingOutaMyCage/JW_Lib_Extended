@@ -1,0 +1,178 @@
+{
+    "guid": "553ea70471a673b272ac66da",
+    "languageAgnosticNaturalKey": "pub-jwban_201503_1_VIDEO",
+    "naturalKey": "pub-jwban_E_201503_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "StudioTalks",
+    "description": "",
+    "firstPublished": "2015-04-28T01:15:47.000Z",
+    "duration": 890.667,
+    "durationFormattedHHMM": "14:50",
+    "durationFormattedMinSec": "14m 50s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/f6/jwban_E_201503_01_r240P.mp4",
+            "checksum": "5fed1a32a9af00841fb3ea0237c0ebf6",
+            "filesize": 20791597,
+            "modifiedDatetime": "2020-11-24T00:54:45.000Z",
+            "bitRate": 182.37382945870903,
+            "duration": 890.667,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.297,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/25/jwban_E_201503_01.vtt",
+                "modifiedDatetime": "2020-09-23T20:53:28.000Z",
+                "checksum": "f7801b71160ea7ac8ef1640c8aa66c0b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/6e/jwban_s-Sub_E_201503_01_r240P.mp4",
+            "checksum": "633d5b7617e9d8299c39797996e8bb6a",
+            "filesize": 39973887,
+            "modifiedDatetime": "2020-11-07T23:53:29.000Z",
+            "bitRate": 350.6390764785864,
+            "duration": 890.648,
+            "frameHeight": 180,
+            "frameWidth": 320,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": true,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/25/jwban_E_201503_01.vtt",
+                "modifiedDatetime": "2020-09-23T20:53:28.000Z",
+                "checksum": "f7801b71160ea7ac8ef1640c8aa66c0b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/63/jwban_E_201503_01_r360P.mp4",
+            "checksum": "77665c8023d67c0f30eae239e6479fd5",
+            "filesize": 43553021,
+            "modifiedDatetime": "2020-09-23T20:53:55.000Z",
+            "bitRate": 382.0406121966062,
+            "duration": 890.633,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/25/jwban_E_201503_01.vtt",
+                "modifiedDatetime": "2020-09-23T20:53:28.000Z",
+                "checksum": "f7801b71160ea7ac8ef1640c8aa66c0b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/32/jwban_s-Sub_E_201503_01_r360P.mp4",
+            "checksum": "f2f82433beb04983a4dcd9b6ca9c30c1",
+            "filesize": 91969521,
+            "modifiedDatetime": "2019-02-09T17:55:31.000Z",
+            "bitRate": 806.7519354755465,
+            "duration": 890.6230666666667,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 44.056,
+            "mimetype": "video/mp4",
+            "subtitled": true,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/25/jwban_E_201503_01.vtt",
+                "modifiedDatetime": "2020-09-23T20:53:28.000Z",
+                "checksum": "f7801b71160ea7ac8ef1640c8aa66c0b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/e2/jwban_E_201503_01_r480P.mp4",
+            "checksum": "c2eb32953a58b56438d26ef92a85ebcb",
+            "filesize": 84157642,
+            "modifiedDatetime": "2020-09-23T20:54:06.000Z",
+            "bitRate": 738.2182988110703,
+            "duration": 890.633,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/25/jwban_E_201503_01.vtt",
+                "modifiedDatetime": "2020-09-23T20:53:28.000Z",
+                "checksum": "f7801b71160ea7ac8ef1640c8aa66c0b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/19/jwban_s-Sub_E_201503_01_r480P.mp4",
+            "checksum": "4a28c84a211a942431825bf8f519b403",
+            "filesize": 125872687,
+            "modifiedDatetime": "2019-02-09T19:36:11.000Z",
+            "bitRate": 1104.1487740352334,
+            "duration": 890.6230666666667,
+            "frameHeight": 480,
+            "frameWidth": 854,
+            "label": "480p",
+            "frameRate": 44.056,
+            "mimetype": "video/mp4",
+            "subtitled": true,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/25/jwban_E_201503_01.vtt",
+                "modifiedDatetime": "2020-09-23T20:53:28.000Z",
+                "checksum": "f7801b71160ea7ac8ef1640c8aa66c0b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/dd/jwban_E_201503_01_r720P.mp4",
+            "checksum": "c630c224b4d0ea453619dfa10fb97bd0",
+            "filesize": 156939461,
+            "modifiedDatetime": "2020-09-23T20:54:26.000Z",
+            "bitRate": 1376.649572902082,
+            "duration": 890.633,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/25/jwban_E_201503_01.vtt",
+                "modifiedDatetime": "2020-09-23T20:53:28.000Z",
+                "checksum": "f7801b71160ea7ac8ef1640c8aa66c0b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/d3/jwban_s-Sub_E_201503_01_r720P.mp4",
+            "checksum": "6e8b251cdacfe3956078bd27ac3227e5",
+            "filesize": 181452845,
+            "modifiedDatetime": "2019-02-10T16:32:43.000Z",
+            "bitRate": 1591.6950779953975,
+            "duration": 890.6230666666667,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 44.056,
+            "mimetype": "video/mp4",
+            "subtitled": true,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/25/jwban_E_201503_01.vtt",
+                "modifiedDatetime": "2020-09-23T20:53:28.000Z",
+                "checksum": "f7801b71160ea7ac8ef1640c8aa66c0b"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwban.201503-1.v",
+        "jwban.201503-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/25/jwban_E_201503_01.vtt",
+    "Name": "pub-jwban_E_201503_1_VIDEO",
+    "Title": "Gerrit Lösch: Fortified by \"the Prophetic Word\"",
+    "UndatedReferenceTitle": "Gerrit Lösch: Fortified by \"the Prophetic Word\"",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2015,
+    "Symbol": "StudioTalks"
+}

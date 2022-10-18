@@ -1,0 +1,102 @@
+{
+    "guid": "60f992af23708c1b9824742b",
+    "languageAgnosticNaturalKey": "pub-mwbv_202111_6_VIDEO",
+    "naturalKey": "pub-mwbv_E_202111_6_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODBiblePrinciples",
+    "description": "",
+    "firstPublished": "2021-10-25T14:33:13.828Z",
+    "duration": 270.313,
+    "durationFormattedHHMM": "4:30",
+    "durationFormattedMinSec": "4m 30s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/32/mwbv_E_202111_06_r240P.mp4",
+            "checksum": "6c93874f792b5b9da3e5c70bc556e23b",
+            "filesize": 6261194,
+            "modifiedDatetime": "2021-10-25T06:45:55.000Z",
+            "bitRate": 180.94363357081556,
+            "duration": 270.336,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.952,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/bc/mwbv_E_202111_06.vtt",
+                "modifiedDatetime": "2021-10-25T06:45:42.000Z",
+                "checksum": "3a7be59acfa6b12633c0530a1cd00f19"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/7e/mwbv_E_202111_06_r360P.mp4",
+            "checksum": "c6a3b685b2735852d0bdbe12a289f5e9",
+            "filesize": 11886313,
+            "modifiedDatetime": "2021-10-25T06:45:53.000Z",
+            "bitRate": 343.53442236407426,
+            "duration": 270.313,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/bc/mwbv_E_202111_06.vtt",
+                "modifiedDatetime": "2021-10-25T06:45:42.000Z",
+                "checksum": "3a7be59acfa6b12633c0530a1cd00f19"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/56/mwbv_E_202111_06_r480P.mp4",
+            "checksum": "3dc99b3e419f60d44264db40497d43c2",
+            "filesize": 21428380,
+            "modifiedDatetime": "2021-10-25T06:45:48.000Z",
+            "bitRate": 619.316195484494,
+            "duration": 270.313,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/bc/mwbv_E_202111_06.vtt",
+                "modifiedDatetime": "2021-10-25T06:45:42.000Z",
+                "checksum": "3a7be59acfa6b12633c0530a1cd00f19"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/3c/mwbv_E_202111_06_r720P.mp4",
+            "checksum": "5bd9f2771ebfe14afb89b4f659059b6d",
+            "filesize": 34618861,
+            "modifiedDatetime": "2021-10-25T06:45:44.000Z",
+            "bitRate": 1000.5432648910707,
+            "duration": 270.313,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/bc/mwbv_E_202111_06.vtt",
+                "modifiedDatetime": "2021-10-25T06:45:42.000Z",
+                "checksum": "3a7be59acfa6b12633c0530a1cd00f19"
+            }
+        }
+    ],
+    "printReferences": [
+        "mwbv.202111-6.v",
+        "mwbv.202111-6"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/bc/mwbv_E_202111_06.vtt",
+    "Name": "pub-mwbv_E_202111_6_VIDEO",
+    "Title": "Avoid What Erodes Loyalty—Bad Associations",
+    "UndatedReferenceTitle": "Avoid What Erodes Loyalty—Bad Associations",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODBiblePrinciples"
+}

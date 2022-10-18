@@ -1,0 +1,102 @@
+{
+    "guid": "5f10579c4bd99b3c372e5403",
+    "languageAgnosticNaturalKey": "pub-jwb_202012_3_VIDEO",
+    "naturalKey": "pub-jwb_E_202012_3_VIDEO",
+    "type": "video",
+    "primaryCategory": "FamilyChallenges",
+    "description": "",
+    "firstPublished": "2020-12-21T15:16:40.047Z",
+    "duration": 312.256,
+    "durationFormattedHHMM": "5:12",
+    "durationFormattedMinSec": "5m 12s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/58/jwb_E_202012_03_r240P.mp4",
+            "checksum": "ddcc2a947abeafe80cb6496078fca859",
+            "filesize": 8392061,
+            "modifiedDatetime": "2020-12-21T15:04:45.000Z",
+            "bitRate": 209.96546603588084,
+            "duration": 312.256,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.881,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/de/jwb_E_202012_03.vtt",
+                "modifiedDatetime": "2020-12-21T15:05:03.000Z",
+                "checksum": "db07f0b64ebccb6e4b4243e3bcd42369"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/5c/jwb_E_202012_03_r360P.mp4",
+            "checksum": "a33d0466fa78d575fd5d013564679ed7",
+            "filesize": 14665392,
+            "modifiedDatetime": "2020-12-21T15:04:48.000Z",
+            "bitRate": 366.9518463952855,
+            "duration": 312.23,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/de/jwb_E_202012_03.vtt",
+                "modifiedDatetime": "2020-12-21T15:05:03.000Z",
+                "checksum": "db07f0b64ebccb6e4b4243e3bcd42369"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/6d/jwb_E_202012_03_r480P.mp4",
+            "checksum": "7390ce5d18e37ed230bc38cb8fa567cc",
+            "filesize": 26738244,
+            "modifiedDatetime": "2020-12-21T15:04:52.000Z",
+            "bitRate": 669.0341455017134,
+            "duration": 312.23,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/de/jwb_E_202012_03.vtt",
+                "modifiedDatetime": "2020-12-21T15:05:03.000Z",
+                "checksum": "db07f0b64ebccb6e4b4243e3bcd42369"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/59/jwb_E_202012_03_r720P.mp4",
+            "checksum": "661fe7b3c19696006187556dc7f6264e",
+            "filesize": 43603149,
+            "modifiedDatetime": "2020-12-21T15:04:57.000Z",
+            "bitRate": 1091.0213674614868,
+            "duration": 312.23,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/de/jwb_E_202012_03.vtt",
+                "modifiedDatetime": "2020-12-21T15:05:03.000Z",
+                "checksum": "db07f0b64ebccb6e4b4243e3bcd42369"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202012-3.v",
+        "jwb.202012-3"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/de/jwb_E_202012_03.vtt",
+    "Name": "pub-jwb_E_202012_3_VIDEO",
+    "Title": "As Parents, Rely on Jehovah and His Strength",
+    "UndatedReferenceTitle": "As Parents, Rely on Jehovah and His Strength",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "FamilyChallenges"
+}

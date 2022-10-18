@@ -1,0 +1,102 @@
+{
+    "guid": "5b5a22b4c1963ea3306e05b1",
+    "languageAgnosticNaturalKey": "pub-osg_47_VIDEO",
+    "naturalKey": "pub-osg_E_47_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODOriginalSongs",
+    "description": "",
+    "firstPublished": "2018-11-19T16:25:43.540Z",
+    "duration": 257.175,
+    "durationFormattedHHMM": "4:17",
+    "durationFormattedMinSec": "4m 17s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/cc/osg_E_047_r240P.mp4",
+            "checksum": "873a83ea431d0af8ddf2aa530c54c30f",
+            "filesize": 9103314,
+            "modifiedDatetime": "2021-10-28T21:00:13.000Z",
+            "bitRate": 276.4977319645745,
+            "duration": 257.216,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.483,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/1c/osg_E_047.vtt",
+                "modifiedDatetime": "2021-10-28T21:00:10.000Z",
+                "checksum": "12cc32417f9dff78ec55a8f649f8abd7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/89/osg_E_047_r360P.mp4",
+            "checksum": "7a2785da6a6227df5abcedfdae228e33",
+            "filesize": 16706457,
+            "modifiedDatetime": "2021-10-28T21:00:15.000Z",
+            "bitRate": 507.51120953630794,
+            "duration": 257.175,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/1c/osg_E_047.vtt",
+                "modifiedDatetime": "2021-10-28T21:00:10.000Z",
+                "checksum": "12cc32417f9dff78ec55a8f649f8abd7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/e8/osg_E_047_r480P.mp4",
+            "checksum": "9d4d70996dd25210ff337a20ff40d3f3",
+            "filesize": 31255504,
+            "modifiedDatetime": "2021-10-28T21:00:17.000Z",
+            "bitRate": 949.4843005735394,
+            "duration": 257.175,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/1c/osg_E_047.vtt",
+                "modifiedDatetime": "2021-10-28T21:00:10.000Z",
+                "checksum": "12cc32417f9dff78ec55a8f649f8abd7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/67/osg_E_047_r720P.mp4",
+            "checksum": "b1396a76cceefbd29a923440f1c95ca0",
+            "filesize": 51937276,
+            "modifiedDatetime": "2021-10-28T21:00:20.000Z",
+            "bitRate": 1577.7582142509964,
+            "duration": 257.175,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/1c/osg_E_047.vtt",
+                "modifiedDatetime": "2021-10-28T21:00:10.000Z",
+                "checksum": "12cc32417f9dff78ec55a8f649f8abd7"
+            }
+        }
+    ],
+    "printReferences": [
+        "osg-47.v",
+        "osg-47"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/1c/osg_E_047.vtt",
+    "Name": "pub-osg_E_47_VIDEO",
+    "Title": "True Friends",
+    "UndatedReferenceTitle": "True Friends",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "VODOriginalSongs"
+}

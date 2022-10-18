@@ -1,0 +1,102 @@
+{
+    "guid": "5f8747210ca056895ed1760d",
+    "languageAgnosticNaturalKey": "pub-jwb_202012_11_VIDEO",
+    "naturalKey": "pub-jwb_E_202012_11_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2020-12-28T14:53:12.499Z",
+    "duration": 576.555,
+    "durationFormattedHHMM": "9:36",
+    "durationFormattedMinSec": "9m 36s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/72/jwb_E_202012_11_r240P.mp4",
+            "checksum": "c0ba753025535e3f1614cfab9935c634",
+            "filesize": 8608118,
+            "modifiedDatetime": "2020-12-28T07:18:57.000Z",
+            "bitRate": 116.64268261484162,
+            "duration": 576.555,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.211,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/3d/jwb_E_202012_11.vtt",
+                "modifiedDatetime": "2020-12-28T07:19:05.000Z",
+                "checksum": "5699ee3d22c6c99b2d457cc8471a362b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/7d/jwb_E_202012_11_r360P.mp4",
+            "checksum": "002c498119816b5654118658b5b0b148",
+            "filesize": 18001118,
+            "modifiedDatetime": "2020-12-28T07:18:59.000Z",
+            "bitRate": 243.93599235237693,
+            "duration": 576.519,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/3d/jwb_E_202012_11.vtt",
+                "modifiedDatetime": "2020-12-28T07:19:05.000Z",
+                "checksum": "5699ee3d22c6c99b2d457cc8471a362b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/ef/jwb_E_202012_11_r480P.mp4",
+            "checksum": "a7eb4bc6f1db0e714bc5258d3718fb44",
+            "filesize": 32275460,
+            "modifiedDatetime": "2020-12-28T07:19:00.000Z",
+            "bitRate": 437.3698546795509,
+            "duration": 576.519,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/3d/jwb_E_202012_11.vtt",
+                "modifiedDatetime": "2020-12-28T07:19:05.000Z",
+                "checksum": "5699ee3d22c6c99b2d457cc8471a362b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/30/jwb_E_202012_11_r720P.mp4",
+            "checksum": "819341728d83942f093977cccc3d2d5a",
+            "filesize": 55554668,
+            "modifiedDatetime": "2020-12-28T07:19:02.000Z",
+            "bitRate": 752.8300780199785,
+            "duration": 576.519,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/3d/jwb_E_202012_11.vtt",
+                "modifiedDatetime": "2020-12-28T07:19:05.000Z",
+                "checksum": "5699ee3d22c6c99b2d457cc8471a362b"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202012-11.v",
+        "jwb.202012-11"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/3d/jwb_E_202012_11.vtt",
+    "Name": "pub-jwb_E_202012_11_VIDEO",
+    "Title": "Leonard Myers: “Have . . . Concern for One Another” (1 Cor. 12:25)",
+    "UndatedReferenceTitle": "Leonard Myers: “Have . . . Concern for One Another” (1 Cor. 12:25)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

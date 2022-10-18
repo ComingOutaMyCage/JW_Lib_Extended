@@ -1,0 +1,102 @@
+{
+    "guid": "5b87ef3f887c963ad88ed60d",
+    "languageAgnosticNaturalKey": "pub-jwb_201811_3_VIDEO",
+    "naturalKey": "pub-jwb_E_201811_3_VIDEO",
+    "type": "video",
+    "primaryCategory": "FamilyDatingMarriage",
+    "description": "",
+    "firstPublished": "2018-11-19T16:25:28.734Z",
+    "duration": 270.976,
+    "durationFormattedHHMM": "4:30",
+    "durationFormattedMinSec": "4m 30s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/81/jwb_E_201811_03_r240P.mp4",
+            "checksum": "78359aa04b2cc457f04886c161d9ec96",
+            "filesize": 9666639,
+            "modifiedDatetime": "2020-11-11T21:49:03.000Z",
+            "bitRate": 278.69854595056387,
+            "duration": 270.976,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.904,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ad/jwb_E_201811_03.vtt",
+                "modifiedDatetime": "2018-11-19T15:08:03.000Z",
+                "checksum": "9989606b760ac48738f5a936b1944bf3"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/8b/jwb_E_201811_03_r360P.mp4",
+            "checksum": "74ea5102d1f54522cfdf307f5f33fa06",
+            "filesize": 16334600,
+            "modifiedDatetime": "2018-11-19T15:08:08.000Z",
+            "bitRate": 471.00661957119496,
+            "duration": 270.939,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ad/jwb_E_201811_03.vtt",
+                "modifiedDatetime": "2018-11-19T15:08:03.000Z",
+                "checksum": "9989606b760ac48738f5a936b1944bf3"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/88/jwb_E_201811_03_r480P.mp4",
+            "checksum": "b8d5712be2547baf0318786fa3de67fe",
+            "filesize": 30073702,
+            "modifiedDatetime": "2018-11-19T15:08:12.000Z",
+            "bitRate": 867.1723040056986,
+            "duration": 270.939,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ad/jwb_E_201811_03.vtt",
+                "modifiedDatetime": "2018-11-19T15:08:03.000Z",
+                "checksum": "9989606b760ac48738f5a936b1944bf3"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/dd/jwb_E_201811_03_r720P.mp4",
+            "checksum": "d070aef5cadfa287e0c571e6b79d02f7",
+            "filesize": 49102285,
+            "modifiedDatetime": "2018-11-19T15:08:20.000Z",
+            "bitRate": 1415.859664214085,
+            "duration": 270.939,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ad/jwb_E_201811_03.vtt",
+                "modifiedDatetime": "2018-11-19T15:08:03.000Z",
+                "checksum": "9989606b760ac48738f5a936b1944bf3"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201811-3.v",
+        "jwb.201811-3"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/ad/jwb_E_201811_03.vtt",
+    "Name": "pub-jwb_E_201811_3_VIDEO",
+    "Title": "Marriage—A Permanent Bond",
+    "UndatedReferenceTitle": "Marriage—A Permanent Bond",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "FamilyDatingMarriage"
+}

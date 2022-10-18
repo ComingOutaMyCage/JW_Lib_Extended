@@ -1,0 +1,102 @@
+{
+    "guid": "5fb69262e168b69a636a31fb",
+    "languageAgnosticNaturalKey": "pub-jwb_202101_6_VIDEO",
+    "naturalKey": "pub-jwb_E_202101_6_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtAnnMtg",
+    "description": "",
+    "firstPublished": "2021-01-04T15:49:15.573Z",
+    "duration": 426.219,
+    "durationFormattedHHMM": "7:06",
+    "durationFormattedMinSec": "7m 6s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/90/jwb_E_202101_06_r240P.mp4",
+            "checksum": "c0c3dc085902722ddc45792d2e2b9a65",
+            "filesize": 10338292,
+            "modifiedDatetime": "2021-01-04T15:19:26.000Z",
+            "bitRate": 189.49860576370364,
+            "duration": 426.219,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.483,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/45/jwb_E_202101_06.vtt",
+                "modifiedDatetime": "2021-01-04T15:16:46.000Z",
+                "checksum": "0c2a6141d2ce1bea5ee8d1c74d5cc081"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/38/jwb_E_202101_06_r360P.mp4",
+            "checksum": "86a95fad334058bde55fb649a9eaf122",
+            "filesize": 18815724,
+            "modifiedDatetime": "2021-01-04T15:17:14.000Z",
+            "bitRate": 344.92204823348044,
+            "duration": 426.177,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/45/jwb_E_202101_06.vtt",
+                "modifiedDatetime": "2021-01-04T15:16:46.000Z",
+                "checksum": "0c2a6141d2ce1bea5ee8d1c74d5cc081"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/9c/jwb_E_202101_06_r480P.mp4",
+            "checksum": "683f54488bd1619c0e7185ee62a6c467",
+            "filesize": 33481544,
+            "modifiedDatetime": "2021-01-04T15:17:42.000Z",
+            "bitRate": 613.7697775806765,
+            "duration": 426.177,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/45/jwb_E_202101_06.vtt",
+                "modifiedDatetime": "2021-01-04T15:16:46.000Z",
+                "checksum": "0c2a6141d2ce1bea5ee8d1c74d5cc081"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/f1/jwb_E_202101_06_r720P.mp4",
+            "checksum": "82026a6ca3024e7e9f48f2d103d9486f",
+            "filesize": 54007115,
+            "modifiedDatetime": "2021-01-04T15:18:19.000Z",
+            "bitRate": 990.0360318306713,
+            "duration": 426.177,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/45/jwb_E_202101_06.vtt",
+                "modifiedDatetime": "2021-01-04T15:16:46.000Z",
+                "checksum": "0c2a6141d2ce1bea5ee8d1c74d5cc081"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202101-6.v",
+        "jwb.202101-6"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/45/jwb_E_202101_06.vtt",
+    "Name": "pub-jwb_E_202101_6_VIDEO",
+    "Title": "“Go . . . Make Disciples”",
+    "UndatedReferenceTitle": "“Go . . . Make Disciples”",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODPgmEvtAnnMtg"
+}

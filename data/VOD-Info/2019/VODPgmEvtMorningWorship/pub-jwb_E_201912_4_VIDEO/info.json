@@ -1,0 +1,102 @@
+{
+    "guid": "5ddda0a71b4e58739350045e",
+    "languageAgnosticNaturalKey": "pub-jwb_201912_4_VIDEO",
+    "naturalKey": "pub-jwb_E_201912_4_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2019-12-23T14:17:27.032Z",
+    "duration": 572.651,
+    "durationFormattedHHMM": "9:32",
+    "durationFormattedMinSec": "9m 32s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/a0/jwb_E_201912_04_r240P.mp4",
+            "checksum": "32de395e8c0368c3f481637e5cb530cb",
+            "filesize": 7725000,
+            "modifiedDatetime": "2020-11-12T21:19:42.000Z",
+            "bitRate": 105.38977928965461,
+            "duration": 572.651,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.297,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/3e/jwb_E_201912_04.vtt",
+                "modifiedDatetime": "2019-12-23T14:08:14.000Z",
+                "checksum": "f8fa27a12aaf9eaf12c9cc192420f506"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/3b/jwb_E_201912_04_r360P.mp4",
+            "checksum": "4f3436024921d05264065a587dec12ba",
+            "filesize": 15328630,
+            "modifiedDatetime": "2019-12-23T14:08:19.000Z",
+            "bitRate": 209.1368928075583,
+            "duration": 572.615,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/3e/jwb_E_201912_04.vtt",
+                "modifiedDatetime": "2019-12-23T14:08:14.000Z",
+                "checksum": "f8fa27a12aaf9eaf12c9cc192420f506"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/41/jwb_E_201912_04_r480P.mp4",
+            "checksum": "5a2adbc1a4c87ebb0daa9f83e752bdac",
+            "filesize": 27108532,
+            "modifiedDatetime": "2019-12-23T14:08:22.000Z",
+            "bitRate": 369.85654628327933,
+            "duration": 572.615,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/3e/jwb_E_201912_04.vtt",
+                "modifiedDatetime": "2019-12-23T14:08:14.000Z",
+                "checksum": "f8fa27a12aaf9eaf12c9cc192420f506"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/50/jwb_E_201912_04_r720P.mp4",
+            "checksum": "b9e0773f7312aa34b2b60f5657504028",
+            "filesize": 44360574,
+            "modifiedDatetime": "2019-12-23T14:08:27.000Z",
+            "bitRate": 605.2356022371052,
+            "duration": 572.615,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/3e/jwb_E_201912_04.vtt",
+                "modifiedDatetime": "2019-12-23T14:08:14.000Z",
+                "checksum": "f8fa27a12aaf9eaf12c9cc192420f506"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201912-4.v",
+        "jwb.201912-4"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/3e/jwb_E_201912_04.vtt",
+    "Name": "pub-jwb_E_201912_4_VIDEO",
+    "Title": "Patrick LaFranca: ‘Remember Those Taking the Lead’ (Heb. 13:7)",
+    "UndatedReferenceTitle": "Patrick LaFranca: ‘Remember Those Taking the Lead’ (Heb. 13:7)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

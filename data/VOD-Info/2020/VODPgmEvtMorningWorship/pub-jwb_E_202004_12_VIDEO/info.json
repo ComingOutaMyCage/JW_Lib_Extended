@@ -1,0 +1,102 @@
+{
+    "guid": "5e29ace8faacdecc134b55bc",
+    "languageAgnosticNaturalKey": "pub-jwb_202004_12_VIDEO",
+    "naturalKey": "pub-jwb_E_202004_12_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2020-04-27T15:59:57.008Z",
+    "duration": 547.584,
+    "durationFormattedHHMM": "9:07",
+    "durationFormattedMinSec": "9m 7s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/8b/jwb_E_202004_12_r240P.mp4",
+            "checksum": "6cf5563f3c3a7db7f02a86f2c4734cab",
+            "filesize": 7648824,
+            "modifiedDatetime": "2020-10-18T03:02:14.000Z",
+            "bitRate": 109.12743524281207,
+            "duration": 547.584,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.528,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f5/jwb_E_202004_12.vtt",
+                "modifiedDatetime": "2020-04-27T14:15:30.000Z",
+                "checksum": "50ca894dee703e8fa27169ac227b6c69"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/f1/jwb_E_202004_12_r360P.mp4",
+            "checksum": "489e38a7d7921557da8038d8912da01b",
+            "filesize": 15657482,
+            "modifiedDatetime": "2020-04-27T14:15:37.000Z",
+            "bitRate": 223.39971569169967,
+            "duration": 547.557,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f5/jwb_E_202004_12.vtt",
+                "modifiedDatetime": "2020-04-27T14:15:30.000Z",
+                "checksum": "50ca894dee703e8fa27169ac227b6c69"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/ea/jwb_E_202004_12_r480P.mp4",
+            "checksum": "55625ecd2f23ac5980c9d70b9030a284",
+            "filesize": 27255663,
+            "modifiedDatetime": "2020-04-27T14:15:41.000Z",
+            "bitRate": 388.8816455410122,
+            "duration": 547.557,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f5/jwb_E_202004_12.vtt",
+                "modifiedDatetime": "2020-04-27T14:15:30.000Z",
+                "checksum": "50ca894dee703e8fa27169ac227b6c69"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/ad/jwb_E_202004_12_r720P.mp4",
+            "checksum": "ad04f21cfe8dd3740f1387cb185c767f",
+            "filesize": 50763426,
+            "modifiedDatetime": "2020-04-27T14:15:44.000Z",
+            "bitRate": 724.2885500961544,
+            "duration": 547.557,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f5/jwb_E_202004_12.vtt",
+                "modifiedDatetime": "2020-04-27T14:15:30.000Z",
+                "checksum": "50ca894dee703e8fa27169ac227b6c69"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202004-12.v",
+        "jwb.202004-12"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/f5/jwb_E_202004_12.vtt",
+    "Name": "pub-jwb_E_202004_12_VIDEO",
+    "Title": "Robert Ciranko: Avoid Flirting and Ego (1 Tim. 5:2)",
+    "UndatedReferenceTitle": "Robert Ciranko: Avoid Flirting and Ego (1 Tim. 5:2)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

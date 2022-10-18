@@ -1,0 +1,102 @@
+{
+    "guid": "5df00b351b4e58739379d43a",
+    "languageAgnosticNaturalKey": "pub-thv_17_VIDEO",
+    "naturalKey": "pub-thv_E_17_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODMinistryApplyTeaching",
+    "description": "",
+    "firstPublished": "2020-04-13T11:20:51.002Z",
+    "duration": 291.542,
+    "durationFormattedHHMM": "4:51",
+    "durationFormattedMinSec": "4m 51s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/67/thv_E_17_r240P.mp4",
+            "checksum": "dddbfa822fbd4b364a1c63f2a512b52f",
+            "filesize": 4776924,
+            "modifiedDatetime": "2020-12-09T19:51:47.000Z",
+            "bitRate": 128.0080357204108,
+            "duration": 291.542,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.46,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/87/thv_E_17.vtt",
+                "modifiedDatetime": "2020-04-13T10:10:15.000Z",
+                "checksum": "f99a8385e4f7ccc473953def57736978"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/4e/thv_E_17_r360P.mp4",
+            "checksum": "f12e4a7a13106cb548d304c584cecee9",
+            "filesize": 9683547,
+            "modifiedDatetime": "2020-04-13T10:09:58.000Z",
+            "bitRate": 259.5281351950765,
+            "duration": 291.501,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/87/thv_E_17.vtt",
+                "modifiedDatetime": "2020-04-13T10:10:15.000Z",
+                "checksum": "f99a8385e4f7ccc473953def57736978"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/e7/thv_E_17_r480P.mp4",
+            "checksum": "a872ac2d1525ebe31401a639f702772c",
+            "filesize": 18856983,
+            "modifiedDatetime": "2020-04-13T10:10:02.000Z",
+            "bitRate": 505.3848175049143,
+            "duration": 291.501,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/87/thv_E_17.vtt",
+                "modifiedDatetime": "2020-04-13T10:10:15.000Z",
+                "checksum": "f99a8385e4f7ccc473953def57736978"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/dc/thv_E_17_r720P.mp4",
+            "checksum": "725ee24b7c4e6c4f79b917a55e69bf35",
+            "filesize": 32107773,
+            "modifiedDatetime": "2020-04-13T10:10:09.000Z",
+            "bitRate": 860.5184083845339,
+            "duration": 291.501,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/87/thv_E_17.vtt",
+                "modifiedDatetime": "2020-04-13T10:10:15.000Z",
+                "checksum": "f99a8385e4f7ccc473953def57736978"
+            }
+        }
+    ],
+    "printReferences": [
+        "thv-17.v",
+        "thv-17"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/87/thv_E_17.vtt",
+    "Name": "pub-thv_E_17_VIDEO",
+    "Title": "Study 17—Understandable to Others",
+    "UndatedReferenceTitle": "Study 17—Understandable to Others",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODMinistryApplyTeaching"
+}

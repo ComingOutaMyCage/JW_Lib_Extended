@@ -1,0 +1,102 @@
+{
+    "guid": "5fb83a30c0bf482e1bd66134",
+    "languageAgnosticNaturalKey": "pub-jwb_202101_2_VIDEO",
+    "naturalKey": "pub-jwb_E_202101_2_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtAnnMtg",
+    "description": "",
+    "firstPublished": "2021-01-04T15:49:26.836Z",
+    "duration": 516.928,
+    "durationFormattedHHMM": "8:36",
+    "durationFormattedMinSec": "8m 36s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/13/jwb_E_202101_02_r240P.mp4",
+            "checksum": "8a07bb72e87429cb437fec1cc70daab3",
+            "filesize": 9734205,
+            "modifiedDatetime": "2021-01-04T15:16:56.000Z",
+            "bitRate": 147.1161874816222,
+            "duration": 516.928,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.506,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/a9/jwb_E_202101_02.vtt",
+                "modifiedDatetime": "2021-01-04T15:16:40.000Z",
+                "checksum": "5a17966dcdd7af4c6a624ab517832430"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/4f/jwb_E_202101_02_r360P.mp4",
+            "checksum": "ba707c0a99b3416b11961b0ac6170262",
+            "filesize": 19196811,
+            "modifiedDatetime": "2021-01-04T15:17:19.000Z",
+            "bitRate": 290.1472566614367,
+            "duration": 516.893,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/a9/jwb_E_202101_02.vtt",
+                "modifiedDatetime": "2021-01-04T15:16:40.000Z",
+                "checksum": "5a17966dcdd7af4c6a624ab517832430"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/44/jwb_E_202101_02_r480P.mp4",
+            "checksum": "4c780c2d134914ca9c61f47f8177c92f",
+            "filesize": 35281834,
+            "modifiedDatetime": "2021-01-04T15:17:45.000Z",
+            "bitRate": 533.26187068697,
+            "duration": 516.893,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/a9/jwb_E_202101_02.vtt",
+                "modifiedDatetime": "2021-01-04T15:16:40.000Z",
+                "checksum": "5a17966dcdd7af4c6a624ab517832430"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/7c/jwb_E_202101_02_r720P.mp4",
+            "checksum": "79af464c89f6cb9bbfa608ae568828c6",
+            "filesize": 61706965,
+            "modifiedDatetime": "2021-01-04T15:18:27.000Z",
+            "bitRate": 932.6604617638466,
+            "duration": 516.893,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/a9/jwb_E_202101_02.vtt",
+                "modifiedDatetime": "2021-01-04T15:16:40.000Z",
+                "checksum": "5a17966dcdd7af4c6a624ab517832430"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202101-2.v",
+        "jwb.202101-2"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/a9/jwb_E_202101_02.vtt",
+    "Name": "pub-jwb_E_202101_2_VIDEO",
+    "Title": "Anthony Morris: Annual Meeting Opening Remarks",
+    "UndatedReferenceTitle": "Anthony Morris: Annual Meeting Opening Remarks",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODPgmEvtAnnMtg"
+}

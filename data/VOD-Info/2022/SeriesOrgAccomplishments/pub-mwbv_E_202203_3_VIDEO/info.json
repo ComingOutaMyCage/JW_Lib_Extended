@@ -1,0 +1,102 @@
+{
+    "guid": "61a647add4a4e5a332cd662a",
+    "languageAgnosticNaturalKey": "pub-mwbv_202203_3_VIDEO",
+    "naturalKey": "pub-mwbv_E_202203_3_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesOrgAccomplishments",
+    "description": "",
+    "firstPublished": "2022-02-14T15:52:59.609Z",
+    "duration": 345.43,
+    "durationFormattedHHMM": "5:45",
+    "durationFormattedMinSec": "5m 45s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/ea/mwbv_E_202203_03_r240P.mp4",
+            "checksum": "128e7cb57aed8af2fa0ed9ac5426d8ba",
+            "filesize": 10183614,
+            "modifiedDatetime": "2022-02-14T15:40:18.000Z",
+            "bitRate": 230.3201354109371,
+            "duration": 345.43,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.622,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/22/mwbv_E_202203_03.vtt",
+                "modifiedDatetime": "2022-02-14T15:40:06.000Z",
+                "checksum": "a9971cfeef19ee64811e879fbcd12f26"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/80/mwbv_E_202203_03_r360P.mp4",
+            "checksum": "8add0f56d543e1a2d5be1c7d004c1a4b",
+            "filesize": 19546516,
+            "modifiedDatetime": "2022-02-14T15:40:15.000Z",
+            "bitRate": 442.13219987376516,
+            "duration": 345.388,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/22/mwbv_E_202203_03.vtt",
+                "modifiedDatetime": "2022-02-14T15:40:06.000Z",
+                "checksum": "a9971cfeef19ee64811e879fbcd12f26"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/2b/mwbv_E_202203_03_r480P.mp4",
+            "checksum": "304b208d52f6d374f1748b219a4d1d7c",
+            "filesize": 36735888,
+            "modifiedDatetime": "2022-02-14T15:40:11.000Z",
+            "bitRate": 830.9470074235353,
+            "duration": 345.388,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/22/mwbv_E_202203_03.vtt",
+                "modifiedDatetime": "2022-02-14T15:40:06.000Z",
+                "checksum": "a9971cfeef19ee64811e879fbcd12f26"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/7c/mwbv_E_202203_03_r720P.mp4",
+            "checksum": "94079b30a7373afe2048daf17f18d83a",
+            "filesize": 62369981,
+            "modifiedDatetime": "2022-02-14T15:40:08.000Z",
+            "bitRate": 1410.77708710928,
+            "duration": 345.388,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/22/mwbv_E_202203_03.vtt",
+                "modifiedDatetime": "2022-02-14T15:40:06.000Z",
+                "checksum": "a9971cfeef19ee64811e879fbcd12f26"
+            }
+        }
+    ],
+    "printReferences": [
+        "mwbv.202203-3.v",
+        "mwbv.202203-3"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/22/mwbv_E_202203_03.vtt",
+    "Name": "pub-mwbv_E_202203_3_VIDEO",
+    "Title": "Organizational Accomplishments—World Headquarters Broadcasting Department",
+    "UndatedReferenceTitle": "Organizational Accomplishments—World Headquarters Broadcasting Department",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "SeriesOrgAccomplishments"
+}

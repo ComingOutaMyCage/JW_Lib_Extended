@@ -1,0 +1,102 @@
+{
+    "guid": "61a8e567d4a4e5a332051326",
+    "languageAgnosticNaturalKey": "pub-jwb-085_16_VIDEO",
+    "naturalKey": "pub-jwb-085_E_16_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2021-12-27T15:37:39.995Z",
+    "duration": 659.542,
+    "durationFormattedHHMM": "10:59",
+    "durationFormattedMinSec": "10m 59s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/ce/jwb-085_E_16_r240P.mp4",
+            "checksum": "b7d1c1f536032134fd367e670564e335",
+            "filesize": 12262127,
+            "modifiedDatetime": "2021-12-27T05:19:54.000Z",
+            "bitRate": 145.24907767435585,
+            "duration": 659.542,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.211,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/3f/jwb-085_E_16.vtt",
+                "modifiedDatetime": "2021-12-27T05:19:41.000Z",
+                "checksum": "3e680bc9338f83290da6d9bf9a712d44"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/73/jwb-085_E_16_r360P.mp4",
+            "checksum": "1c69a3ab365a0b2135a7c39eed1da4b2",
+            "filesize": 23736275,
+            "modifiedDatetime": "2021-12-27T05:19:50.000Z",
+            "bitRate": 281.18132839248403,
+            "duration": 659.502,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/3f/jwb-085_E_16.vtt",
+                "modifiedDatetime": "2021-12-27T05:19:41.000Z",
+                "checksum": "3e680bc9338f83290da6d9bf9a712d44"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/01/jwb-085_E_16_r480P.mp4",
+            "checksum": "50c326437b734a399e66a6e08cd09b7b",
+            "filesize": 39840739,
+            "modifiedDatetime": "2021-12-27T05:19:47.000Z",
+            "bitRate": 471.95576880358215,
+            "duration": 659.502,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/3f/jwb-085_E_16.vtt",
+                "modifiedDatetime": "2021-12-27T05:19:41.000Z",
+                "checksum": "3e680bc9338f83290da6d9bf9a712d44"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/6b/jwb-085_E_16_r720P.mp4",
+            "checksum": "6400435b410d39b74252e682d0562521",
+            "filesize": 66007529,
+            "modifiedDatetime": "2021-12-27T05:19:44.000Z",
+            "bitRate": 781.9291227509545,
+            "duration": 659.502,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/3f/jwb-085_E_16.vtt",
+                "modifiedDatetime": "2021-12-27T05:19:41.000Z",
+                "checksum": "3e680bc9338f83290da6d9bf9a712d44"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-085-16.v",
+        "jwb-085-16"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/3f/jwb-085_E_16.vtt",
+    "Name": "pub-jwb-085_E_16_VIDEO",
+    "Title": "Robert Luccioni: “Pressing on Toward the Goal” (Phil. 3:14)",
+    "UndatedReferenceTitle": "Robert Luccioni: “Pressing on Toward the Goal” (Phil. 3:14)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

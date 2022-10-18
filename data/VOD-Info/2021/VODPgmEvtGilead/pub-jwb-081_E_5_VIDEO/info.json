@@ -1,0 +1,102 @@
+{
+    "guid": "6082cc4d0524ac0a0a1cabf3",
+    "languageAgnosticNaturalKey": "pub-jwb-081_5_VIDEO",
+    "naturalKey": "pub-jwb-081_E_5_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtGilead",
+    "description": "",
+    "firstPublished": "2021-06-08T14:58:29.678Z",
+    "duration": 606.144,
+    "durationFormattedHHMM": "10:06",
+    "durationFormattedMinSec": "10m 6s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/37/jwb-081_E_05_r240P.mp4",
+            "checksum": "1fad6debe86f7fde9b3a533dada24fe2",
+            "filesize": 9415248,
+            "modifiedDatetime": "2021-06-08T05:13:11.000Z",
+            "bitRate": 121.3517332515046,
+            "duration": 606.144,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.412,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/e9/jwb-081_E_05.vtt",
+                "modifiedDatetime": "2021-06-08T05:13:02.000Z",
+                "checksum": "728c79e2dc531116f9c72849096132c6"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/14/jwb-081_E_05_r360P.mp4",
+            "checksum": "2683f0de7dcf27fce8d209a00ab76ea3",
+            "filesize": 19362977,
+            "modifiedDatetime": "2021-06-08T05:13:10.000Z",
+            "bitRate": 249.57847572242892,
+            "duration": 606.115,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/e9/jwb-081_E_05.vtt",
+                "modifiedDatetime": "2021-06-08T05:13:02.000Z",
+                "checksum": "728c79e2dc531116f9c72849096132c6"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/f7/jwb-081_E_05_r480P.mp4",
+            "checksum": "892c5c7991f9cde3d42c8d996b9987eb",
+            "filesize": 34331076,
+            "modifiedDatetime": "2021-06-08T05:13:06.000Z",
+            "bitRate": 442.50931135180616,
+            "duration": 606.115,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/e9/jwb-081_E_05.vtt",
+                "modifiedDatetime": "2021-06-08T05:13:02.000Z",
+                "checksum": "728c79e2dc531116f9c72849096132c6"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/e4/jwb-081_E_05_r720P.mp4",
+            "checksum": "715913ae8238a132a4e18e09a812aeee",
+            "filesize": 59221861,
+            "modifiedDatetime": "2021-06-08T05:13:03.000Z",
+            "bitRate": 763.3382923413874,
+            "duration": 606.115,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/e9/jwb-081_E_05.vtt",
+                "modifiedDatetime": "2021-06-08T05:13:02.000Z",
+                "checksum": "728c79e2dc531116f9c72849096132c6"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-081-5.v",
+        "jwb-081-5"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/e9/jwb-081_E_05.vtt",
+    "Name": "pub-jwb-081_E_5_VIDEO",
+    "Title": "Samuel F. Herd: 149th Gilead Graduation—Part 1",
+    "UndatedReferenceTitle": "Samuel F. Herd: 149th Gilead Graduation—Part 1",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODPgmEvtGilead"
+}

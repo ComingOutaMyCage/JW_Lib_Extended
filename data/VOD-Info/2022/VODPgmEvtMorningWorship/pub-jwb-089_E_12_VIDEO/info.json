@@ -1,0 +1,102 @@
+{
+    "guid": "6213e73157c50ea1eb604da7",
+    "languageAgnosticNaturalKey": "pub-jwb-089_12_VIDEO",
+    "naturalKey": "pub-jwb-089_E_12_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2022-05-13T16:11:42.177Z",
+    "duration": 588.139,
+    "durationFormattedHHMM": "9:48",
+    "durationFormattedMinSec": "9m 48s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/48/jwb-089_E_12_r240P.mp4",
+            "checksum": "3a54fd1d8a4f352595c0281b3fff41ef",
+            "filesize": 10105664,
+            "modifiedDatetime": "2022-05-13T13:52:41.000Z",
+            "bitRate": 134.2378247319086,
+            "duration": 588.139,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.732,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/c5/jwb-089_E_12.vtt",
+                "modifiedDatetime": "2022-05-13T13:52:29.000Z",
+                "checksum": "0cae1463be8f3166e31e56d67a481c51"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/55/jwb-089_E_12_r360P.mp4",
+            "checksum": "8ea43530fdbc391d65a1c2e28ff4f266",
+            "filesize": 19210350,
+            "modifiedDatetime": "2022-05-13T13:52:39.000Z",
+            "bitRate": 255.19745785984287,
+            "duration": 588.097,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/c5/jwb-089_E_12.vtt",
+                "modifiedDatetime": "2022-05-13T13:52:29.000Z",
+                "checksum": "0cae1463be8f3166e31e56d67a481c51"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/53/jwb-089_E_12_r480P.mp4",
+            "checksum": "4dd9a741d6ab42ccc96a5f0a156548d8",
+            "filesize": 33155420,
+            "modifiedDatetime": "2022-05-13T13:52:35.000Z",
+            "bitRate": 440.4489714281828,
+            "duration": 588.097,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/c5/jwb-089_E_12.vtt",
+                "modifiedDatetime": "2022-05-13T13:52:29.000Z",
+                "checksum": "0cae1463be8f3166e31e56d67a481c51"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/14/jwb-089_E_12_r720P.mp4",
+            "checksum": "e1a22a96c5a54cfbca09910db1f71165",
+            "filesize": 58688263,
+            "modifiedDatetime": "2022-05-13T13:52:30.000Z",
+            "bitRate": 779.6367855770392,
+            "duration": 588.097,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/c5/jwb-089_E_12.vtt",
+                "modifiedDatetime": "2022-05-13T13:52:29.000Z",
+                "checksum": "0cae1463be8f3166e31e56d67a481c51"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-089-12.v",
+        "jwb-089-12"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/c5/jwb-089_E_12.vtt",
+    "Name": "pub-jwb-089_E_12_VIDEO",
+    "Title": "Gary Breaux: Storytelling Is an Effective Teaching Tool (1 John 5:19)",
+    "UndatedReferenceTitle": "Gary Breaux: Storytelling Is an Effective Teaching Tool (1 John 5:19)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

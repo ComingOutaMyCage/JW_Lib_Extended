@@ -1,0 +1,102 @@
+{
+    "guid": "61ef1ded57c50ea1eb381878",
+    "languageAgnosticNaturalKey": "pub-mwbv_202207_4_VIDEO",
+    "naturalKey": "pub-mwbv_E_202207_4_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODMinistryExpandMinistry",
+    "description": "",
+    "firstPublished": "2022-07-11T14:28:10.460Z",
+    "duration": 188.587,
+    "durationFormattedHHMM": "3:08",
+    "durationFormattedMinSec": "3m 8s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/b0/mwbv_E_202207_04_r240P.mp4",
+            "checksum": "8de123901bef9cb56b2dcc086d463a58",
+            "filesize": 5095327,
+            "modifiedDatetime": "2022-07-11T04:04:49.000Z",
+            "bitRate": 211.08158137888614,
+            "duration": 188.587,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.529,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ef/mwbv_E_202207_04.vtt",
+                "modifiedDatetime": "2022-07-11T04:04:40.000Z",
+                "checksum": "64dac9a5f69cd86cbd812c3eeae7da1c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/ea/mwbv_E_202207_04_r360P.mp4",
+            "checksum": "4088921224991796050633999a8671b1",
+            "filesize": 9041507,
+            "modifiedDatetime": "2022-07-11T04:04:47.000Z",
+            "bitRate": 374.60172056054944,
+            "duration": 188.565,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ef/mwbv_E_202207_04.vtt",
+                "modifiedDatetime": "2022-07-11T04:04:40.000Z",
+                "checksum": "64dac9a5f69cd86cbd812c3eeae7da1c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/c4/mwbv_E_202207_04_r480P.mp4",
+            "checksum": "77349487fff3df18c4c818d9c660eb00",
+            "filesize": 15924301,
+            "modifiedDatetime": "2022-07-11T04:04:43.000Z",
+            "bitRate": 659.7650760347891,
+            "duration": 188.565,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ef/mwbv_E_202207_04.vtt",
+                "modifiedDatetime": "2022-07-11T04:04:40.000Z",
+                "checksum": "64dac9a5f69cd86cbd812c3eeae7da1c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/c2/mwbv_E_202207_04_r720P.mp4",
+            "checksum": "b97c21460a40c033d1a9a1f11749860d",
+            "filesize": 25297488,
+            "modifiedDatetime": "2022-07-11T04:04:41.000Z",
+            "bitRate": 1048.108742343489,
+            "duration": 188.565,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ef/mwbv_E_202207_04.vtt",
+                "modifiedDatetime": "2022-07-11T04:04:40.000Z",
+                "checksum": "64dac9a5f69cd86cbd812c3eeae7da1c"
+            }
+        }
+    ],
+    "printReferences": [
+        "mwbv.202207-4.v",
+        "mwbv.202207-4"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/ef/mwbv_E_202207_04.vtt",
+    "Name": "pub-mwbv_E_202207_4_VIDEO",
+    "Title": "Enter the Door to Activity in Faith—Apply for the School for Kingdom Evangelizers",
+    "UndatedReferenceTitle": "Enter the Door to Activity in Faith—Apply for the School for Kingdom Evangelizers",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODMinistryExpandMinistry"
+}

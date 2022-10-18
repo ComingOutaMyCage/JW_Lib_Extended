@@ -1,0 +1,102 @@
+{
+    "guid": "617c575de4dbeaf5fad5ca8f",
+    "languageAgnosticNaturalKey": "pub-jwb-085_8_VIDEO",
+    "naturalKey": "pub-jwb-085_E_8_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtGilead",
+    "description": "",
+    "firstPublished": "2021-12-07T23:14:14.383Z",
+    "duration": 600.47,
+    "durationFormattedHHMM": "10:00",
+    "durationFormattedMinSec": "10m 0s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/8d/jwb-085_E_08_r240P.mp4",
+            "checksum": "8fe3782a534773447180a962a69ec7e4",
+            "filesize": 12281113,
+            "modifiedDatetime": "2021-12-07T21:31:52.000Z",
+            "bitRate": 159.78516047845852,
+            "duration": 600.47,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.441,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/06/jwb-085_E_08.vtt",
+                "modifiedDatetime": "2021-12-07T21:31:41.000Z",
+                "checksum": "00ebe8a3feb57cb9c0785ca2d8bde58b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/fc/jwb-085_E_08_r360P.mp4",
+            "checksum": "f2fdecb34da8c9e55eb3f9b44cae2870",
+            "filesize": 24160089,
+            "modifiedDatetime": "2021-12-07T21:31:49.000Z",
+            "bitRate": 314.35239533561054,
+            "duration": 600.443,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/06/jwb-085_E_08.vtt",
+                "modifiedDatetime": "2021-12-07T21:31:41.000Z",
+                "checksum": "00ebe8a3feb57cb9c0785ca2d8bde58b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/21/jwb-085_E_08_r480P.mp4",
+            "checksum": "c9ba7a0cce4d0d2897f8bcabf26a8c86",
+            "filesize": 45919066,
+            "modifiedDatetime": "2021-12-07T21:31:46.000Z",
+            "bitRate": 597.4633780808504,
+            "duration": 600.443,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/06/jwb-085_E_08.vtt",
+                "modifiedDatetime": "2021-12-07T21:31:41.000Z",
+                "checksum": "00ebe8a3feb57cb9c0785ca2d8bde58b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/85/jwb-085_E_08_r720P.mp4",
+            "checksum": "63a2c649c16bf983d2e9b3b2de3d9f5e",
+            "filesize": 81525070,
+            "modifiedDatetime": "2021-12-07T21:31:43.000Z",
+            "bitRate": 1060.741168395668,
+            "duration": 600.443,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/06/jwb-085_E_08.vtt",
+                "modifiedDatetime": "2021-12-07T21:31:41.000Z",
+                "checksum": "00ebe8a3feb57cb9c0785ca2d8bde58b"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-085-8.v",
+        "jwb-085-8"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/06/jwb-085_E_08.vtt",
+    "Name": "pub-jwb-085_E_8_VIDEO",
+    "Title": "William Malenfant: “Boast in Jehovah”!",
+    "UndatedReferenceTitle": "William Malenfant: “Boast in Jehovah”!",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODPgmEvtGilead"
+}

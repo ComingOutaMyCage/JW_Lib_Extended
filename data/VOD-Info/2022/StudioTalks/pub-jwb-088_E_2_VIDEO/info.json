@@ -1,0 +1,102 @@
+{
+    "guid": "61f960e857c50ea1eba003b3",
+    "languageAgnosticNaturalKey": "pub-jwb-088_2_VIDEO",
+    "naturalKey": "pub-jwb-088_E_2_VIDEO",
+    "type": "video",
+    "primaryCategory": "StudioTalks",
+    "description": "",
+    "firstPublished": "2022-04-18T18:12:14.330Z",
+    "duration": 864.299,
+    "durationFormattedHHMM": "14:24",
+    "durationFormattedMinSec": "14m 24s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/c3/jwb-088_E_02_r240P.mp4",
+            "checksum": "fccd3602c404febc8f383c1a2b076014",
+            "filesize": 16378652,
+            "modifiedDatetime": "2022-04-18T06:23:23.000Z",
+            "bitRate": 148.04855582385264,
+            "duration": 864.299,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.91,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/89/jwb-088_E_02.vtt",
+                "modifiedDatetime": "2022-04-18T06:23:12.000Z",
+                "checksum": "340fe81f18a1a3ecab6f4edfc1c8cad7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/03/jwb-088_E_02_r360P.mp4",
+            "checksum": "72ffc82399f1461766a517fc9201a4d3",
+            "filesize": 29812223,
+            "modifiedDatetime": "2022-04-18T06:23:21.000Z",
+            "bitRate": 269.48428585354395,
+            "duration": 864.273,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/89/jwb-088_E_02.vtt",
+                "modifiedDatetime": "2022-04-18T06:23:12.000Z",
+                "checksum": "340fe81f18a1a3ecab6f4edfc1c8cad7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/b8/jwb-088_E_02_r480P.mp4",
+            "checksum": "e22509bf63a792127db21cac68eb094a",
+            "filesize": 50870155,
+            "modifiedDatetime": "2022-04-18T06:23:18.000Z",
+            "bitRate": 459.83512841139316,
+            "duration": 864.273,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/89/jwb-088_E_02.vtt",
+                "modifiedDatetime": "2022-04-18T06:23:12.000Z",
+                "checksum": "340fe81f18a1a3ecab6f4edfc1c8cad7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/2d/jwb-088_E_02_r720P.mp4",
+            "checksum": "1a56f0bfe1a39a9e3c830e0e27bd01f8",
+            "filesize": 79104377,
+            "modifiedDatetime": "2022-04-18T06:23:13.000Z",
+            "bitRate": 715.05524910821,
+            "duration": 864.273,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/89/jwb-088_E_02.vtt",
+                "modifiedDatetime": "2022-04-18T06:23:12.000Z",
+                "checksum": "340fe81f18a1a3ecab6f4edfc1c8cad7"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-088-2.v",
+        "jwb-088-2"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/89/jwb-088_E_02.vtt",
+    "Name": "pub-jwb-088_E_2_VIDEO",
+    "Title": "Gerrit Lösch: Teaching Children and Reaching Their Hearts",
+    "UndatedReferenceTitle": "Gerrit Lösch: Teaching Children and Reaching Their Hearts",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "StudioTalks"
+}

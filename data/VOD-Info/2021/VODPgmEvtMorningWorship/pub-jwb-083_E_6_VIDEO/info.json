@@ -1,0 +1,102 @@
+{
+    "guid": "601c03e0aa8dbd024d1e2daa",
+    "languageAgnosticNaturalKey": "pub-jwb-083_6_VIDEO",
+    "naturalKey": "pub-jwb-083_E_6_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2021-10-18T14:57:34.339Z",
+    "duration": 597.696,
+    "durationFormattedHHMM": "9:57",
+    "durationFormattedMinSec": "9m 57s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/08/jwb-083_E_06_r240P.mp4",
+            "checksum": "66135fdcc2fb462dc6d15cdc0d06cda1",
+            "filesize": 9028301,
+            "modifiedDatetime": "2021-10-18T06:06:34.000Z",
+            "bitRate": 118.00915777000347,
+            "duration": 597.696,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.615,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/aa/jwb-083_E_06.vtt",
+                "modifiedDatetime": "2021-10-18T06:06:19.000Z",
+                "checksum": "d2cd6eb2a03869b8e52c2b3511582e40"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/fa/jwb-083_E_06_r360P.mp4",
+            "checksum": "49cca4a53957cb42b4305734c9d22170",
+            "filesize": 17855443,
+            "modifiedDatetime": "2021-10-18T06:06:31.000Z",
+            "bitRate": 233.39755190538656,
+            "duration": 597.674,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/aa/jwb-083_E_06.vtt",
+                "modifiedDatetime": "2021-10-18T06:06:19.000Z",
+                "checksum": "d2cd6eb2a03869b8e52c2b3511582e40"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/4c/jwb-083_E_06_r480P.mp4",
+            "checksum": "5ad5cc8f4d80b3dcd9948f0033b5c121",
+            "filesize": 31480695,
+            "modifiedDatetime": "2021-10-18T06:06:27.000Z",
+            "bitRate": 411.5001316562206,
+            "duration": 597.674,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/aa/jwb-083_E_06.vtt",
+                "modifiedDatetime": "2021-10-18T06:06:19.000Z",
+                "checksum": "d2cd6eb2a03869b8e52c2b3511582e40"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/5a/jwb-083_E_06_r720P.mp4",
+            "checksum": "297709d79366fd915ea30f5a02fbdd8e",
+            "filesize": 59479837,
+            "modifiedDatetime": "2021-10-18T06:06:22.000Z",
+            "bitRate": 777.4911181722813,
+            "duration": 597.674,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/aa/jwb-083_E_06.vtt",
+                "modifiedDatetime": "2021-10-18T06:06:19.000Z",
+                "checksum": "d2cd6eb2a03869b8e52c2b3511582e40"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-083-6.v",
+        "jwb-083-6"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/aa/jwb-083_E_06.vtt",
+    "Name": "pub-jwb-083_E_6_VIDEO",
+    "Title": "William Turner, Jr.: Comfort and Strengthen One Another (2 Thess. 2:16, 17)",
+    "UndatedReferenceTitle": "William Turner, Jr.: Comfort and Strengthen One Another (2 Thess. 2:16, 17)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

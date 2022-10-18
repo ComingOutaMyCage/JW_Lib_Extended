@@ -1,0 +1,102 @@
+{
+    "guid": "62d9f6a07738170e4e586ec5",
+    "languageAgnosticNaturalKey": "pub-pksjj_70_VIDEO",
+    "naturalKey": "pub-pksjj_E_70_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBJFSongs",
+    "description": "",
+    "firstPublished": "2022-08-08T13:59:23.277Z",
+    "duration": 145.707,
+    "durationFormattedHHMM": "2:25",
+    "durationFormattedMinSec": "2m 25s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/94/pksjj_E_070_r240P.mp4",
+            "checksum": "a8a45f4b2d5dc961c8f94622e86912a1",
+            "filesize": 2027357,
+            "modifiedDatetime": "2022-08-07T23:45:30.000Z",
+            "bitRate": 108.70257820489064,
+            "duration": 145.707,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/74/pksjj_E_070.vtt",
+                "modifiedDatetime": "2022-08-07T23:45:10.000Z",
+                "checksum": "97524e20cd15387dafb7e6320786fb4e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/a0/pksjj_E_070_r360P.mp4",
+            "checksum": "df66143939b983eb66d9003793601588",
+            "filesize": 7372434,
+            "modifiedDatetime": "2022-08-07T23:45:20.000Z",
+            "bitRate": 395.29425919825405,
+            "duration": 145.707,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/74/pksjj_E_070.vtt",
+                "modifiedDatetime": "2022-08-07T23:45:10.000Z",
+                "checksum": "97524e20cd15387dafb7e6320786fb4e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/2f/pksjj_E_070_r480P.mp4",
+            "checksum": "5ee273bb1274f632c3e936848472db79",
+            "filesize": 11942158,
+            "modifiedDatetime": "2022-08-07T23:45:17.000Z",
+            "bitRate": 640.3131584275293,
+            "duration": 145.707,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/74/pksjj_E_070.vtt",
+                "modifiedDatetime": "2022-08-07T23:45:10.000Z",
+                "checksum": "97524e20cd15387dafb7e6320786fb4e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/18/pksjj_E_070_r720P.mp4",
+            "checksum": "6050fb4388b777005cc1b799c068741f",
+            "filesize": 18034665,
+            "modifiedDatetime": "2022-08-07T23:45:13.000Z",
+            "bitRate": 966.9804492062839,
+            "duration": 145.707,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/74/pksjj_E_070.vtt",
+                "modifiedDatetime": "2022-08-07T23:45:10.000Z",
+                "checksum": "97524e20cd15387dafb7e6320786fb4e"
+            }
+        }
+    ],
+    "printReferences": [
+        "pksjj-70.v",
+        "pksjj-70"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/74/pksjj_E_070.vtt",
+    "Name": "pub-pksjj_E_70_VIDEO",
+    "Title": "70. Search Out Deserving Ones",
+    "UndatedReferenceTitle": "70. Search Out Deserving Ones",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "SeriesBJFSongs"
+}

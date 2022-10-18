@@ -1,0 +1,102 @@
+{
+    "guid": "5db856507ae47e7b5363a603",
+    "languageAgnosticNaturalKey": "pub-jwb_201912_2_VIDEO",
+    "naturalKey": "pub-jwb_E_201912_2_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODActivitiesConstruction",
+    "description": "",
+    "firstPublished": "2019-12-09T19:00:06.125Z",
+    "duration": 227.264,
+    "durationFormattedHHMM": "3:47",
+    "durationFormattedMinSec": "3m 47s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/05/jwb_E_201912_02_r240P.mp4",
+            "checksum": "62d1c0ffe7315c6c64461a77228d75c8",
+            "filesize": 8910459,
+            "modifiedDatetime": "2020-11-03T22:17:03.000Z",
+            "bitRate": 306.3087903825507,
+            "duration": 227.264,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.881,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/d5/jwb_E_201912_02.vtt",
+                "modifiedDatetime": "2019-12-09T07:44:16.000Z",
+                "checksum": "55e654a1cc3bc3a27e722d3bc4597d0b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/3b/jwb_E_201912_02_r360P.mp4",
+            "checksum": "306c8d2e2873faea224687bbdccf4989",
+            "filesize": 16333704,
+            "modifiedDatetime": "2019-12-09T07:44:28.000Z",
+            "bitRate": 561.5815942577499,
+            "duration": 227.228,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/d5/jwb_E_201912_02.vtt",
+                "modifiedDatetime": "2019-12-09T07:44:16.000Z",
+                "checksum": "55e654a1cc3bc3a27e722d3bc4597d0b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/f0/jwb_E_201912_02_r480P.mp4",
+            "checksum": "74b3d9375d04dea9383aaf0919b27958",
+            "filesize": 31010401,
+            "modifiedDatetime": "2019-12-09T07:44:36.000Z",
+            "bitRate": 1066.192361031651,
+            "duration": 227.228,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/d5/jwb_E_201912_02.vtt",
+                "modifiedDatetime": "2019-12-09T07:44:16.000Z",
+                "checksum": "55e654a1cc3bc3a27e722d3bc4597d0b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/63/jwb_E_201912_02_r720P.mp4",
+            "checksum": "98589ae9179b049690cf33201ce038bd",
+            "filesize": 52321819,
+            "modifiedDatetime": "2019-12-09T07:44:50.000Z",
+            "bitRate": 1798.916554903005,
+            "duration": 227.228,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/d5/jwb_E_201912_02.vtt",
+                "modifiedDatetime": "2019-12-09T07:44:16.000Z",
+                "checksum": "55e654a1cc3bc3a27e722d3bc4597d0b"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201912-2.v",
+        "jwb.201912-2"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/d5/jwb_E_201912_02.vtt",
+    "Name": "pub-jwb_E_201912_2_VIDEO",
+    "Title": "Theocratic Construction—“Taste and See”",
+    "UndatedReferenceTitle": "Theocratic Construction—“Taste and See”",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODActivitiesConstruction"
+}

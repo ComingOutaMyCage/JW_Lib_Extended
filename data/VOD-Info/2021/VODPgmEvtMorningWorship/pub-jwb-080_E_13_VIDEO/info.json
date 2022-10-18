@@ -1,0 +1,102 @@
+{
+    "guid": "6047890f251b665b39fa00be",
+    "languageAgnosticNaturalKey": "pub-jwb-080_13_VIDEO",
+    "naturalKey": "pub-jwb-080_E_13_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2021-05-17T15:27:31.321Z",
+    "duration": 625.408,
+    "durationFormattedHHMM": "10:25",
+    "durationFormattedMinSec": "10m 25s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/04/jwb-080_E_13_r240P.mp4",
+            "checksum": "dba91d3074d8a641ba0b347362e06d7f",
+            "filesize": 9799858,
+            "modifiedDatetime": "2021-05-17T06:52:30.000Z",
+            "bitRate": 122.41831032701852,
+            "duration": 625.408,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.354,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/bf/jwb-080_E_13.vtt",
+                "modifiedDatetime": "2021-05-17T06:52:19.000Z",
+                "checksum": "549e2a51e09e8eecf2e0e60b2cb20f28"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/42/jwb-080_E_13_r360P.mp4",
+            "checksum": "91b2c043913d43c08a4bda0558757a38",
+            "filesize": 19202281,
+            "modifiedDatetime": "2021-05-17T06:52:28.000Z",
+            "bitRate": 239.88726687726265,
+            "duration": 625.368,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/bf/jwb-080_E_13.vtt",
+                "modifiedDatetime": "2021-05-17T06:52:19.000Z",
+                "checksum": "549e2a51e09e8eecf2e0e60b2cb20f28"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/98/jwb-080_E_13_r480P.mp4",
+            "checksum": "7576d72cb790c0f0a67ab735e706ec33",
+            "filesize": 32916493,
+            "modifiedDatetime": "2021-05-17T06:52:25.000Z",
+            "bitRate": 411.21403967344025,
+            "duration": 625.368,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/bf/jwb-080_E_13.vtt",
+                "modifiedDatetime": "2021-05-17T06:52:19.000Z",
+                "checksum": "549e2a51e09e8eecf2e0e60b2cb20f28"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/05/jwb-080_E_13_r720P.mp4",
+            "checksum": "6ba38b0a1efb24183de8e6aa8ba78b66",
+            "filesize": 54782709,
+            "modifiedDatetime": "2021-05-17T06:52:23.000Z",
+            "bitRate": 684.3808990266531,
+            "duration": 625.368,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/bf/jwb-080_E_13.vtt",
+                "modifiedDatetime": "2021-05-17T06:52:19.000Z",
+                "checksum": "549e2a51e09e8eecf2e0e60b2cb20f28"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-080-13.v",
+        "jwb-080-13"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/bf/jwb-080_E_13.vtt",
+    "Name": "pub-jwb-080_E_13_VIDEO",
+    "Title": "Hermanus van Selm: “Take Courage!” (John 16:33)",
+    "UndatedReferenceTitle": "Hermanus van Selm: “Take Courage!” (John 16:33)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

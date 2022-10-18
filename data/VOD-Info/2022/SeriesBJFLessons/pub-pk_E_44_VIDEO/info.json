@@ -1,0 +1,102 @@
+{
+    "guid": "61f02a5757c50ea1eb002643",
+    "languageAgnosticNaturalKey": "pub-pk_44_VIDEO",
+    "naturalKey": "pub-pk_E_44_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBJFLessons",
+    "description": "",
+    "firstPublished": "2022-04-04T15:43:40.038Z",
+    "duration": 95.659,
+    "durationFormattedHHMM": "1:35",
+    "durationFormattedMinSec": "1m 35s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/14/pk_E_044_r240P.mp4",
+            "checksum": "8f2a93027627e7092d36e977f1594fb3",
+            "filesize": 2672632,
+            "modifiedDatetime": "2022-04-04T15:17:19.000Z",
+            "bitRate": 218.2746788070124,
+            "duration": 95.659,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/d0/pk_E_044.vtt",
+                "modifiedDatetime": "2022-04-04T15:17:08.000Z",
+                "checksum": "a83ad8409b03b91aefacd7e3147777fa"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/15/pk_E_044_r360P.mp4",
+            "checksum": "9dd33fcdbd5f5e6275f916d7c258d8e5",
+            "filesize": 4611837,
+            "modifiedDatetime": "2022-04-04T15:17:13.000Z",
+            "bitRate": 376.7801284431012,
+            "duration": 95.626,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/d0/pk_E_044.vtt",
+                "modifiedDatetime": "2022-04-04T15:17:08.000Z",
+                "checksum": "a83ad8409b03b91aefacd7e3147777fa"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/45/pk_E_044_r480P.mp4",
+            "checksum": "c0a8b675e5f23461c34c56ff62c9ea55",
+            "filesize": 7854623,
+            "modifiedDatetime": "2022-04-04T15:17:11.000Z",
+            "bitRate": 641.710854657729,
+            "duration": 95.626,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/d0/pk_E_044.vtt",
+                "modifiedDatetime": "2022-04-04T15:17:08.000Z",
+                "checksum": "a83ad8409b03b91aefacd7e3147777fa"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/e1/pk_E_044_r720P.mp4",
+            "checksum": "f9fb67fc58ed60528d32d9440efa807a",
+            "filesize": 11988972,
+            "modifiedDatetime": "2022-04-04T15:17:09.000Z",
+            "bitRate": 979.4809335327212,
+            "duration": 95.626,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/d0/pk_E_044.vtt",
+                "modifiedDatetime": "2022-04-04T15:17:08.000Z",
+                "checksum": "a83ad8409b03b91aefacd7e3147777fa"
+            }
+        }
+    ],
+    "printReferences": [
+        "pk-44.v",
+        "pk-44"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/d0/pk_E_044.vtt",
+    "Name": "pub-pk_E_44_VIDEO",
+    "Title": "Don't Give Up",
+    "UndatedReferenceTitle": "Don't Give Up",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "SeriesBJFLessons"
+}

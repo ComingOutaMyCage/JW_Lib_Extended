@@ -1,0 +1,102 @@
+{
+    "guid": "5cf57cd448fd57354cf32532",
+    "languageAgnosticNaturalKey": "pub-jwb_201906_7_VIDEO",
+    "naturalKey": "pub-jwb_E_201906_7_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtGilead",
+    "description": "",
+    "firstPublished": "2019-06-24T12:31:17.258Z",
+    "duration": 2291.072,
+    "durationFormattedHHMM": "38:11",
+    "durationFormattedMinSec": "38m 11s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/07/jwb_E_201906_07_r240P.mp4",
+            "checksum": "f5c7aa44ada26921cab07f1225306568",
+            "filesize": 35643744,
+            "modifiedDatetime": "2020-11-03T22:16:11.000Z",
+            "bitRate": 121.54430327811609,
+            "duration": 2291.072,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.644,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/7b/jwb_E_201906_07.vtt",
+                "modifiedDatetime": "2019-06-24T06:13:58.000Z",
+                "checksum": "b6bbd68f2d1c5cc797703782dc33ea65"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/67/jwb_E_201906_07_r360P.mp4",
+            "checksum": "31714a2afa9d828c1925c8cb00819ad3",
+            "filesize": 75600492,
+            "modifiedDatetime": "2019-06-24T06:13:07.000Z",
+            "bitRate": 257.8003466341806,
+            "duration": 2291.032,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/7b/jwb_E_201906_07.vtt",
+                "modifiedDatetime": "2019-06-24T06:13:58.000Z",
+                "checksum": "b6bbd68f2d1c5cc797703782dc33ea65"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/4c/jwb_E_201906_07_r480P.mp4",
+            "checksum": "309b61919741a4983a4f32e23b11bc75",
+            "filesize": 140956969,
+            "modifiedDatetime": "2019-06-24T06:13:19.000Z",
+            "bitRate": 480.668240475253,
+            "duration": 2291.032,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/7b/jwb_E_201906_07.vtt",
+                "modifiedDatetime": "2019-06-24T06:13:58.000Z",
+                "checksum": "b6bbd68f2d1c5cc797703782dc33ea65"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/fe/jwb_E_201906_07_r720P.mp4",
+            "checksum": "ab61284a6ab85d6f442dc52ce073a5bb",
+            "filesize": 264154001,
+            "modifiedDatetime": "2019-06-24T06:13:47.000Z",
+            "bitRate": 900.7744688037967,
+            "duration": 2291.032,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/7b/jwb_E_201906_07.vtt",
+                "modifiedDatetime": "2019-06-24T06:13:58.000Z",
+                "checksum": "b6bbd68f2d1c5cc797703782dc33ea65"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201906-7.v",
+        "jwb.201906-7"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/7b/jwb_E_201906_07.vtt",
+    "Name": "pub-jwb_E_201906_7_VIDEO",
+    "Title": "146th Gilead Graduation—Concluding Talk and Assignments",
+    "UndatedReferenceTitle": "146th Gilead Graduation—Concluding Talk and Assignments",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODPgmEvtGilead"
+}

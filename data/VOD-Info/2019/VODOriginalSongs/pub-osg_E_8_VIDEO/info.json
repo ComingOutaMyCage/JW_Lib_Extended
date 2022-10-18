@@ -1,0 +1,102 @@
+{
+    "guid": "59c2cf165434430be822fa32",
+    "languageAgnosticNaturalKey": "pub-osg_8_VIDEO",
+    "naturalKey": "pub-osg_E_8_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODOriginalSongs",
+    "description": "",
+    "firstPublished": "2019-04-11T18:53:37.494Z",
+    "duration": 142.422,
+    "durationFormattedHHMM": "2:22",
+    "durationFormattedMinSec": "2m 22s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/61/osg_E_008_r240P.mp4",
+            "checksum": "e6baa5c88bee52ed025292e3193c43c4",
+            "filesize": 5256118,
+            "modifiedDatetime": "2020-12-05T18:18:41.000Z",
+            "bitRate": 288.3221824928733,
+            "duration": 142.422,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.674,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/71/osg_E_008.vtt",
+                "modifiedDatetime": "2019-04-11T18:26:11.000Z",
+                "checksum": "8dc7cc3295875b3a37dc5dc24e80be6f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/5c/osg_E_008_r360P.mp4",
+            "checksum": "5d090410fdaca823cab93415a2b7f0b9",
+            "filesize": 9169340,
+            "modifiedDatetime": "2019-04-11T18:25:49.000Z",
+            "bitRate": 503.1110633142536,
+            "duration": 142.385,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/71/osg_E_008.vtt",
+                "modifiedDatetime": "2019-04-11T18:26:11.000Z",
+                "checksum": "8dc7cc3295875b3a37dc5dc24e80be6f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/cf/osg_E_008_r480P.mp4",
+            "checksum": "169d7bfab23b8fa57b69f54736227371",
+            "filesize": 16540541,
+            "modifiedDatetime": "2019-04-11T18:25:53.000Z",
+            "bitRate": 907.5603228043685,
+            "duration": 142.385,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/71/osg_E_008.vtt",
+                "modifiedDatetime": "2019-04-11T18:26:11.000Z",
+                "checksum": "8dc7cc3295875b3a37dc5dc24e80be6f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/7a/osg_E_008_r720P.mp4",
+            "checksum": "e48cff5c666be9ca93efe20b775a85da",
+            "filesize": 27467825,
+            "modifiedDatetime": "2019-04-11T18:25:59.000Z",
+            "bitRate": 1507.127736857815,
+            "duration": 142.385,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/71/osg_E_008.vtt",
+                "modifiedDatetime": "2019-04-11T18:26:11.000Z",
+                "checksum": "8dc7cc3295875b3a37dc5dc24e80be6f"
+            }
+        }
+    ],
+    "printReferences": [
+        "osg-8.v",
+        "osg-8"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/71/osg_E_008.vtt",
+    "Name": "pub-osg_E_8_VIDEO",
+    "Title": "Glad I Passed the Test",
+    "UndatedReferenceTitle": "Glad I Passed the Test",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODOriginalSongs"
+}

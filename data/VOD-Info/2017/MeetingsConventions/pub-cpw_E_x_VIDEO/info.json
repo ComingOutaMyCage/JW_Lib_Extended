@@ -1,0 +1,102 @@
+{
+    "guid": "58f7a5afa25a39c2e32b2547",
+    "languageAgnosticNaturalKey": "pub-cpw_x_VIDEO",
+    "naturalKey": "pub-cpw_E_x_VIDEO",
+    "type": "video",
+    "primaryCategory": "MeetingsConventions",
+    "description": "",
+    "firstPublished": "2017-05-15T17:37:26.445Z",
+    "duration": 211.371,
+    "durationFormattedHHMM": "3:31",
+    "durationFormattedMinSec": "3m 31s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/67/cpw_E_r240P.mp4",
+            "checksum": "19d4d2fc00fa75ce1ceaec21dd1edd88",
+            "filesize": 8068442,
+            "modifiedDatetime": "2020-12-15T18:05:04.000Z",
+            "bitRate": 298.2183134157477,
+            "duration": 211.371,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.553,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/4b/cpw_E.vtt",
+                "modifiedDatetime": "2020-12-15T18:04:52.000Z",
+                "checksum": "5216f3e08dcc9dc67f61e3c849ed6789"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/f5/cpw_E_r360P.mp4",
+            "checksum": "e61356c5a87f5e8bdef978c3f1859d7b",
+            "filesize": 14476446,
+            "modifiedDatetime": "2020-12-15T18:05:10.000Z",
+            "bitRate": 535.1485978621923,
+            "duration": 211.338,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/4b/cpw_E.vtt",
+                "modifiedDatetime": "2020-12-15T18:04:52.000Z",
+                "checksum": "5216f3e08dcc9dc67f61e3c849ed6789"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/a8/cpw_E_r480P.mp4",
+            "checksum": "7da7952b62e12c8c6d0fb5ef93c1aef4",
+            "filesize": 27248258,
+            "modifiedDatetime": "2020-12-15T18:05:13.000Z",
+            "bitRate": 1007.2822475134619,
+            "duration": 211.338,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/4b/cpw_E.vtt",
+                "modifiedDatetime": "2020-12-15T18:04:52.000Z",
+                "checksum": "5216f3e08dcc9dc67f61e3c849ed6789"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/b5/cpw_E_r720P.mp4",
+            "checksum": "b832caf04e14a428f43014d09cff11c1",
+            "filesize": 46317750,
+            "modifiedDatetime": "2020-12-15T18:05:16.000Z",
+            "bitRate": 1712.2212847429237,
+            "duration": 211.338,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/4b/cpw_E.vtt",
+                "modifiedDatetime": "2020-12-15T18:04:52.000Z",
+                "checksum": "5216f3e08dcc9dc67f61e3c849ed6789"
+            }
+        }
+    ],
+    "printReferences": [
+        "cpw.v",
+        "cpw"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/4b/cpw_E.vtt",
+    "Name": "pub-cpw_E_x_VIDEO",
+    "Title": "Caring for Our Places of Worship",
+    "UndatedReferenceTitle": "Caring for Our Places of Worship",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2017,
+    "Symbol": "MeetingsConventions"
+}

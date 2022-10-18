@@ -1,0 +1,102 @@
+{
+    "guid": "5ed93262af341cff13d1a26b",
+    "languageAgnosticNaturalKey": "docid-702020117_1_VIDEO",
+    "naturalKey": "docid-702020117_E_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODOrgBloodlessMedicine",
+    "description": "",
+    "firstPublished": "2020-07-03T12:29:10.000Z",
+    "duration": 164.523,
+    "durationFormattedHHMM": "2:44",
+    "durationFormattedMinSec": "2m 44s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/63/702020117_E_cnt_1_r240P.mp4",
+            "checksum": "4c2191028654a4bc40c20098127ecb42",
+            "filesize": 3489095,
+            "modifiedDatetime": "2020-11-01T16:44:33.000Z",
+            "bitRate": 165.68233430888083,
+            "duration": 164.523,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.46,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/fc/702020117_E_cnt_1.vtt",
+                "modifiedDatetime": "2020-07-03T18:44:56.000Z",
+                "checksum": "e7041cee4e3e44587d590317290ad536"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/ce/702020117_E_cnt_1_r360P.mp4",
+            "checksum": "0c128d30803114658dc92a84aaf118e6",
+            "filesize": 6118255,
+            "modifiedDatetime": "2020-07-03T18:45:01.000Z",
+            "bitRate": 290.57238759810093,
+            "duration": 164.499,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/fc/702020117_E_cnt_1.vtt",
+                "modifiedDatetime": "2020-07-03T18:44:56.000Z",
+                "checksum": "e7041cee4e3e44587d590317290ad536"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/4f/702020117_E_cnt_1_r480P.mp4",
+            "checksum": "b0a06fc0d805fb747f6539ddb5c60d3b",
+            "filesize": 10579562,
+            "modifiedDatetime": "2020-07-03T18:45:05.000Z",
+            "bitRate": 502.4518576100767,
+            "duration": 164.499,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/fc/702020117_E_cnt_1.vtt",
+                "modifiedDatetime": "2020-07-03T18:44:56.000Z",
+                "checksum": "e7041cee4e3e44587d590317290ad536"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/95/702020117_E_cnt_1_r720P.mp4",
+            "checksum": "1603e6b60dd7b0decef1aeb3ecbc88ba",
+            "filesize": 16942054,
+            "modifiedDatetime": "2020-07-03T18:45:07.000Z",
+            "bitRate": 804.6237173174305,
+            "duration": 164.499,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/fc/702020117_E_cnt_1.vtt",
+                "modifiedDatetime": "2020-07-03T18:44:56.000Z",
+                "checksum": "e7041cee4e3e44587d590317290ad536"
+            }
+        }
+    ],
+    "printReferences": [
+        "702020117-1.v",
+        "702020117-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/content_assets/fc/702020117_E_cnt_1.vtt",
+    "Name": "docid-702020117_E_1_VIDEO",
+    "Title": "Interview of Alfredo Guglielmi, M.D.",
+    "UndatedReferenceTitle": "Interview of Alfredo Guglielmi, M.D.",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODOrgBloodlessMedicine"
+}

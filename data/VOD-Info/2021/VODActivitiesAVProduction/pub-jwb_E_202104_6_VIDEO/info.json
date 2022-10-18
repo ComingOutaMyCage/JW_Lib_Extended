@@ -1,0 +1,102 @@
+{
+    "guid": "5fb677e9e168b69a63698a3d",
+    "languageAgnosticNaturalKey": "pub-jwb_202104_6_VIDEO",
+    "naturalKey": "pub-jwb_E_202104_6_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODActivitiesAVProduction",
+    "description": "",
+    "firstPublished": "2021-04-19T14:11:37.259Z",
+    "duration": 287.747,
+    "durationFormattedHHMM": "4:47",
+    "durationFormattedMinSec": "4m 47s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/12/jwb_E_202104_06_r240P.mp4",
+            "checksum": "749224ff4bbf0862131a51b7c120b3db",
+            "filesize": 10809277,
+            "modifiedDatetime": "2021-04-19T05:52:14.000Z",
+            "bitRate": 293.4374261606675,
+            "duration": 287.787,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.599,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/19/jwb_E_202104_06.vtt",
+                "modifiedDatetime": "2021-04-19T05:52:03.000Z",
+                "checksum": "4e8c666c24387cc22f54d41636b26c60"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/a2/jwb_E_202104_06_r360P.mp4",
+            "checksum": "e187856a82baac1d8501d341c0219c49",
+            "filesize": 19785770,
+            "modifiedDatetime": "2021-04-19T05:52:10.000Z",
+            "bitRate": 537.1952726700887,
+            "duration": 287.747,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/19/jwb_E_202104_06.vtt",
+                "modifiedDatetime": "2021-04-19T05:52:03.000Z",
+                "checksum": "4e8c666c24387cc22f54d41636b26c60"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/00/jwb_E_202104_06_r480P.mp4",
+            "checksum": "45c653d2325d0598ee510098f77b75e3",
+            "filesize": 37558756,
+            "modifiedDatetime": "2021-04-19T05:52:08.000Z",
+            "bitRate": 1019.7422779386058,
+            "duration": 287.747,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/19/jwb_E_202104_06.vtt",
+                "modifiedDatetime": "2021-04-19T05:52:03.000Z",
+                "checksum": "4e8c666c24387cc22f54d41636b26c60"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/73/jwb_E_202104_06_r720P.mp4",
+            "checksum": "162e118f6fd91e3872630a3963513262",
+            "filesize": 64085428,
+            "modifiedDatetime": "2021-04-19T05:52:04.000Z",
+            "bitRate": 1739.9569978140519,
+            "duration": 287.747,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/19/jwb_E_202104_06.vtt",
+                "modifiedDatetime": "2021-04-19T05:52:03.000Z",
+                "checksum": "4e8c666c24387cc22f54d41636b26c60"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202104-6.v",
+        "jwb.202104-6"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/19/jwb_E_202104_06.vtt",
+    "Name": "pub-jwb_E_202104_6_VIDEO",
+    "Title": "Behind the Scenes—Nehemiah: “The Joy of Jehovah Is Your Stronghold”",
+    "UndatedReferenceTitle": "Behind the Scenes—Nehemiah: “The Joy of Jehovah Is Your Stronghold”",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODActivitiesAVProduction"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "5c1d338d99077ca5aeb91b87",
+    "languageAgnosticNaturalKey": "pub-jwb_201901_2_VIDEO",
+    "naturalKey": "pub-jwb_E_201901_2_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2019-01-14T15:49:02.556Z",
+    "duration": 609.174,
+    "durationFormattedHHMM": "10:09",
+    "durationFormattedMinSec": "10m 9s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/2f/jwb_E_201901_02_r240P.mp4",
+            "checksum": "3cf725fec88e9e989d1523b4b0ecc8ab",
+            "filesize": 9643802,
+            "modifiedDatetime": "2020-11-05T21:09:23.000Z",
+            "bitRate": 123.67928231506926,
+            "duration": 609.174,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.732,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/6a/jwb_E_201901_02.vtt",
+                "modifiedDatetime": "2019-01-14T11:59:34.000Z",
+                "checksum": "f98e77f381c3908294965dcf76242c32"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/39/jwb_E_201901_02_r360P.mp4",
+            "checksum": "aa9b8e90790df89fe5fe7fe68a840338",
+            "filesize": 20332479,
+            "modifiedDatetime": "2019-01-14T11:59:16.000Z",
+            "bitRate": 260.7682354937684,
+            "duration": 609.152,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/6a/jwb_E_201901_02.vtt",
+                "modifiedDatetime": "2019-01-14T11:59:34.000Z",
+                "checksum": "f98e77f381c3908294965dcf76242c32"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/fa/jwb_E_201901_02_r480P.mp4",
+            "checksum": "e07c45b850ffca4d9aadd92bcf085500",
+            "filesize": 36307889,
+            "modifiedDatetime": "2019-01-14T11:59:19.000Z",
+            "bitRate": 465.65616268599626,
+            "duration": 609.152,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/6a/jwb_E_201901_02.vtt",
+                "modifiedDatetime": "2019-01-14T11:59:34.000Z",
+                "checksum": "f98e77f381c3908294965dcf76242c32"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/e3/jwb_E_201901_02_r720P.mp4",
+            "checksum": "31e470322136df2cf3b4f8c7de116973",
+            "filesize": 66567389,
+            "modifiedDatetime": "2019-01-14T11:59:30.000Z",
+            "bitRate": 853.740489340099,
+            "duration": 609.152,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/6a/jwb_E_201901_02.vtt",
+                "modifiedDatetime": "2019-01-14T11:59:34.000Z",
+                "checksum": "f98e77f381c3908294965dcf76242c32"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201901-2.v",
+        "jwb.201901-2"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/6a/jwb_E_201901_02.vtt",
+    "Name": "pub-jwb_E_201901_2_VIDEO",
+    "Title": "Mark Noumair: “This Is the Way” (Isa. 30:21)",
+    "UndatedReferenceTitle": "Mark Noumair: “This Is the Way” (Isa. 30:21)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

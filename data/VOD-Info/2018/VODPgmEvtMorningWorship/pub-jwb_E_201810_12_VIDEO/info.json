@@ -1,0 +1,102 @@
+{
+    "guid": "5bab8dafa51af8eef4569d0f",
+    "languageAgnosticNaturalKey": "pub-jwb_201810_12_VIDEO",
+    "naturalKey": "pub-jwb_E_201810_12_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2018-10-29T14:39:32.449Z",
+    "duration": 700.651,
+    "durationFormattedHHMM": "11:40",
+    "durationFormattedMinSec": "11m 40s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/1f/jwb_E_201810_12_r240P.mp4",
+            "checksum": "af342425bfde405f7cfaf4bc6da66802",
+            "filesize": 9620604,
+            "modifiedDatetime": "2020-11-04T21:06:36.000Z",
+            "bitRate": 107.27304856483471,
+            "duration": 700.651,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.851,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ec/jwb_E_201810_12.vtt",
+                "modifiedDatetime": "2018-10-29T14:19:02.000Z",
+                "checksum": "f03d904b18798ebd5391b6e6ae8ec90b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/7d/jwb_E_201810_12_r360P.mp4",
+            "checksum": "193dba70abdbab04c41ce90f037d8ba0",
+            "filesize": 20106277,
+            "modifiedDatetime": "2018-10-29T14:19:10.000Z",
+            "bitRate": 224.20503427370434,
+            "duration": 700.61,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ec/jwb_E_201810_12.vtt",
+                "modifiedDatetime": "2018-10-29T14:19:02.000Z",
+                "checksum": "f03d904b18798ebd5391b6e6ae8ec90b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/82/jwb_E_201810_12_r480P.mp4",
+            "checksum": "80bc5cdfa6ae1425b945fddf5792bf3d",
+            "filesize": 36221623,
+            "modifiedDatetime": "2018-10-29T14:19:15.000Z",
+            "bitRate": 403.90720898574097,
+            "duration": 700.61,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ec/jwb_E_201810_12.vtt",
+                "modifiedDatetime": "2018-10-29T14:19:02.000Z",
+                "checksum": "f03d904b18798ebd5391b6e6ae8ec90b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/ca/jwb_E_201810_12_r720P.mp4",
+            "checksum": "0e650f5bd5831ae9dc1bd5e660d43a7e",
+            "filesize": 75172838,
+            "modifiedDatetime": "2018-10-29T14:19:22.000Z",
+            "bitRate": 838.2520901428754,
+            "duration": 700.61,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ec/jwb_E_201810_12.vtt",
+                "modifiedDatetime": "2018-10-29T14:19:02.000Z",
+                "checksum": "f03d904b18798ebd5391b6e6ae8ec90b"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201810-12.v",
+        "jwb.201810-12"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/ec/jwb_E_201810_12.vtt",
+    "Name": "pub-jwb_E_201810_12_VIDEO",
+    "Title": "Kenneth Flodin: Neutral in the Ministry (Matt. 10:16)",
+    "UndatedReferenceTitle": "Kenneth Flodin: Neutral in the Ministry (Matt. 10:16)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

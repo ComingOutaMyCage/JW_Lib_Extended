@@ -1,0 +1,102 @@
+{
+    "guid": "5d16620848fd57354cf3525e",
+    "languageAgnosticNaturalKey": "pub-osg_56_VIDEO",
+    "naturalKey": "pub-osg_E_56_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODOriginalSongs",
+    "description": "",
+    "firstPublished": "2019-10-21T17:20:02.355Z",
+    "duration": 239.488,
+    "durationFormattedHHMM": "3:59",
+    "durationFormattedMinSec": "3m 59s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/b7/osg_E_056_r240P.mp4",
+            "checksum": "0d713ddcaf52a04ce99b11779b5aa4b3",
+            "filesize": 10223102,
+            "modifiedDatetime": "2020-12-12T14:04:27.000Z",
+            "bitRate": 333.4947236395978,
+            "duration": 239.488,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.622,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/ec/osg_E_056.vtt",
+                "modifiedDatetime": "2019-10-21T14:33:36.000Z",
+                "checksum": "30fb2fb8c903356dca4cf053d9f8e15c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/c2/osg_E_056_r360P.mp4",
+            "checksum": "c6b38b413a930894935a80c46174cfff",
+            "filesize": 17814772,
+            "modifiedDatetime": "2019-10-21T14:33:43.000Z",
+            "bitRate": 581.2423783352614,
+            "duration": 239.449,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/ec/osg_E_056.vtt",
+                "modifiedDatetime": "2019-10-21T14:33:36.000Z",
+                "checksum": "30fb2fb8c903356dca4cf053d9f8e15c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/fb/osg_E_056_r480P.mp4",
+            "checksum": "1935c09ae5403c0f56a26a4686a2f0d3",
+            "filesize": 33682363,
+            "modifiedDatetime": "2019-10-21T14:33:47.000Z",
+            "bitRate": 1098.954102700366,
+            "duration": 239.449,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/ec/osg_E_056.vtt",
+                "modifiedDatetime": "2019-10-21T14:33:36.000Z",
+                "checksum": "30fb2fb8c903356dca4cf053d9f8e15c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/c9/osg_E_056_r720P.mp4",
+            "checksum": "21ec441cc752c43b16dfa2016a7980cd",
+            "filesize": 58324623,
+            "modifiedDatetime": "2019-10-21T14:33:53.000Z",
+            "bitRate": 1902.9568600724997,
+            "duration": 239.449,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/ec/osg_E_056.vtt",
+                "modifiedDatetime": "2019-10-21T14:33:36.000Z",
+                "checksum": "30fb2fb8c903356dca4cf053d9f8e15c"
+            }
+        }
+    ],
+    "printReferences": [
+        "osg-56.v",
+        "osg-56"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/ec/osg_E_056.vtt",
+    "Name": "pub-osg_E_56_VIDEO",
+    "Title": "“Fight the Fine Fight of the Faith”",
+    "UndatedReferenceTitle": "“Fight the Fine Fight of the Faith”",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODOriginalSongs"
+}

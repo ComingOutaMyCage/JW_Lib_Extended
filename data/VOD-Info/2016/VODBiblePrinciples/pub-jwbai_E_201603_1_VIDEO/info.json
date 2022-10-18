@@ -1,0 +1,102 @@
+{
+    "guid": "569fdd0179892656f9a43d39",
+    "languageAgnosticNaturalKey": "pub-jwbai_201603_1_VIDEO",
+    "naturalKey": "pub-jwbai_E_201603_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODBiblePrinciples",
+    "description": "",
+    "firstPublished": "2016-03-21T15:15:42.874Z",
+    "duration": 416.832,
+    "durationFormattedHHMM": "6:56",
+    "durationFormattedMinSec": "6m 56s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/ac/jwbai_E_201603_01_r240P.mp4",
+            "checksum": "30da6fca2b58a2792b7f05c3e469f35b",
+            "filesize": 16488418,
+            "modifiedDatetime": "2021-02-18T15:37:25.000Z",
+            "bitRate": 309.03521232774835,
+            "duration": 416.832,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.155,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/36/jwbai_E_201603_01.vtt",
+                "modifiedDatetime": "2021-02-18T15:37:20.000Z",
+                "checksum": "a0b6b7ad20a7cf8b80acc948f1cc06cd"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/f2/jwbai_E_201603_01_r360P.mp4",
+            "checksum": "a30725f83e1e39a9c7680c81af26badb",
+            "filesize": 29501587,
+            "modifiedDatetime": "2021-02-18T15:37:29.000Z",
+            "bitRate": 552.987090564141,
+            "duration": 416.793,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/36/jwbai_E_201603_01.vtt",
+                "modifiedDatetime": "2021-02-18T15:37:20.000Z",
+                "checksum": "a0b6b7ad20a7cf8b80acc948f1cc06cd"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/21/jwbai_E_201603_01_r480P.mp4",
+            "checksum": "c7bb32202473d749868932253f96993c",
+            "filesize": 55067296,
+            "modifiedDatetime": "2021-02-18T15:37:35.000Z",
+            "bitRate": 1032.1988373125268,
+            "duration": 416.793,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/36/jwbai_E_201603_01.vtt",
+                "modifiedDatetime": "2021-02-18T15:37:20.000Z",
+                "checksum": "a0b6b7ad20a7cf8b80acc948f1cc06cd"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/43/jwbai_E_201603_01_r720P.mp4",
+            "checksum": "5cb9713da50ad2da696f8d7d5de3e998",
+            "filesize": 91384237,
+            "modifiedDatetime": "2021-02-18T15:37:40.000Z",
+            "bitRate": 1712.9350818331882,
+            "duration": 416.793,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/36/jwbai_E_201603_01.vtt",
+                "modifiedDatetime": "2021-02-18T15:37:20.000Z",
+                "checksum": "a0b6b7ad20a7cf8b80acc948f1cc06cd"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwbai.201603-1.v",
+        "jwbai.201603-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/36/jwbai_E_201603_01.vtt",
+    "Name": "pub-jwbai_E_201603_1_VIDEO",
+    "Title": "Remove the Rafter",
+    "UndatedReferenceTitle": "Remove the Rafter",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2016,
+    "Symbol": "VODBiblePrinciples"
+}

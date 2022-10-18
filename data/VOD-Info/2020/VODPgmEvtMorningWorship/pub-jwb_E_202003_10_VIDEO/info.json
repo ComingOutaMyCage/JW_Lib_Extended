@@ -1,0 +1,102 @@
+{
+    "guid": "5e345d8afaacdecc13655347",
+    "languageAgnosticNaturalKey": "pub-jwb_202003_10_VIDEO",
+    "naturalKey": "pub-jwb_E_202003_10_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2020-03-09T12:39:04.857Z",
+    "duration": 655.851,
+    "durationFormattedHHMM": "10:55",
+    "durationFormattedMinSec": "10m 55s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/34/jwb_E_202003_10_r240P.mp4",
+            "checksum": "b85cc662fccbc977569b48bd56c31159",
+            "filesize": 9145896,
+            "modifiedDatetime": "2020-10-18T03:00:43.000Z",
+            "bitRate": 108.94595342539692,
+            "duration": 655.851,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.833,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/02/jwb_E_202003_10.vtt",
+                "modifiedDatetime": "2020-03-09T06:03:39.000Z",
+                "checksum": "82e18dff11052c4fb18b007e9cbc5aa8"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/4b/jwb_E_202003_10_r360P.mp4",
+            "checksum": "a7b4ca748a733fd749395897329d4d6f",
+            "filesize": 19342451,
+            "modifiedDatetime": "2020-03-09T06:03:27.000Z",
+            "bitRate": 230.41719860007962,
+            "duration": 655.823,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/02/jwb_E_202003_10.vtt",
+                "modifiedDatetime": "2020-03-09T06:03:39.000Z",
+                "checksum": "82e18dff11052c4fb18b007e9cbc5aa8"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/b1/jwb_E_202003_10_r480P.mp4",
+            "checksum": "3a9d20b2b10cec31b65e7e7015d214ed",
+            "filesize": 36432476,
+            "modifiedDatetime": "2020-03-09T06:03:31.000Z",
+            "bitRate": 434.0023432389532,
+            "duration": 655.823,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/02/jwb_E_202003_10.vtt",
+                "modifiedDatetime": "2020-03-09T06:03:39.000Z",
+                "checksum": "82e18dff11052c4fb18b007e9cbc5aa8"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/20/jwb_E_202003_10_r720P.mp4",
+            "checksum": "311e7a6b012028447e93ea3350341d6a",
+            "filesize": 83112541,
+            "modifiedDatetime": "2020-03-09T06:03:34.000Z",
+            "bitRate": 990.0792234528219,
+            "duration": 655.823,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/02/jwb_E_202003_10.vtt",
+                "modifiedDatetime": "2020-03-09T06:03:39.000Z",
+                "checksum": "82e18dff11052c4fb18b007e9cbc5aa8"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202003-10.v",
+        "jwb.202003-10"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/02/jwb_E_202003_10.vtt",
+    "Name": "pub-jwb_E_202003_10_VIDEO",
+    "Title": "Anthony Morris III: Comprehending the Heavenly Calling (1 John 3:2)",
+    "UndatedReferenceTitle": "Anthony Morris III: Comprehending the Heavenly Calling (1 John 3:2)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

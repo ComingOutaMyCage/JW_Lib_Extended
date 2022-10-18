@@ -1,0 +1,102 @@
+{
+    "guid": "55364a637f0bc1fc2706bd14",
+    "languageAgnosticNaturalKey": "docid-502014231_1_VIDEO",
+    "naturalKey": "docid-502014231_E_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesWhatPeersSay",
+    "description": "",
+    "firstPublished": "2014-03-17T16:05:44.000Z",
+    "duration": 211.627,
+    "durationFormattedHHMM": "3:31",
+    "durationFormattedMinSec": "3m 31s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/56/502014231_E_cnt_1_r240P.mp4",
+            "checksum": "7592cedeacb17a3c2af6544a792876e2",
+            "filesize": 9966834,
+            "modifiedDatetime": "2020-11-11T19:27:59.000Z",
+            "bitRate": 367.93930181404073,
+            "duration": 211.627,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.692,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/80/502014231_E_cnt_1.vtt",
+                "modifiedDatetime": "2020-11-11T19:27:50.000Z",
+                "checksum": "3b3e1b154ab34b8ba077a4be5449ed5e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/8b/502014231_E_cnt_1_r360P.mp4",
+            "checksum": "38fbdb4a40da79faeb9af0e0a9a6dba5",
+            "filesize": 17861396,
+            "modifiedDatetime": "2020-11-11T19:28:03.000Z",
+            "bitRate": 659.4993867799686,
+            "duration": 211.588,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/80/502014231_E_cnt_1.vtt",
+                "modifiedDatetime": "2020-11-11T19:27:50.000Z",
+                "checksum": "3b3e1b154ab34b8ba077a4be5449ed5e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/72/502014231_E_cnt_1_r480P.mp4",
+            "checksum": "14fbce779001df40d3433ba7e6c4e1bd",
+            "filesize": 34241806,
+            "modifiedDatetime": "2020-11-11T19:28:10.000Z",
+            "bitRate": 1264.3160735722254,
+            "duration": 211.588,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/80/502014231_E_cnt_1.vtt",
+                "modifiedDatetime": "2020-11-11T19:27:50.000Z",
+                "checksum": "3b3e1b154ab34b8ba077a4be5449ed5e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/06/502014231_E_cnt_1_r720P.mp4",
+            "checksum": "8be5aae031451184ba173763f10a8125",
+            "filesize": 58230076,
+            "modifiedDatetime": "2020-11-11T19:28:16.000Z",
+            "bitRate": 2150.039079484659,
+            "duration": 211.588,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/80/502014231_E_cnt_1.vtt",
+                "modifiedDatetime": "2020-11-11T19:27:50.000Z",
+                "checksum": "3b3e1b154ab34b8ba077a4be5449ed5e"
+            }
+        }
+    ],
+    "printReferences": [
+        "502014231-1.v",
+        "502014231-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/content_assets/80/502014231_E_cnt_1.vtt",
+    "Name": "docid-502014231_E_1_VIDEO",
+    "Title": "What Your Peers Say—The Best Life Ever",
+    "UndatedReferenceTitle": "What Your Peers Say—The Best Life Ever",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2014,
+    "Symbol": "SeriesWhatPeersSay"
+}

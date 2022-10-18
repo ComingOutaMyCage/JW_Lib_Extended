@@ -1,0 +1,102 @@
+{
+    "guid": "5eea7421af341cff13f83870",
+    "languageAgnosticNaturalKey": "pub-jwb_202006_9_VIDEO",
+    "naturalKey": "pub-jwb_E_202006_9_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtGilead",
+    "description": "",
+    "firstPublished": "2020-07-20T12:18:42.482Z",
+    "duration": 617.43,
+    "durationFormattedHHMM": "10:17",
+    "durationFormattedMinSec": "10m 17s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/66/jwb_E_202006_09_r240P.mp4",
+            "checksum": "cb92e87f7860842a6b3ee4d8f275e677",
+            "filesize": 10638611,
+            "modifiedDatetime": "2020-10-18T03:04:49.000Z",
+            "bitRate": 134.6130710161476,
+            "duration": 617.43,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.674,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/05/jwb_E_202006_09.vtt",
+                "modifiedDatetime": "2020-07-20T07:53:43.000Z",
+                "checksum": "81fb82fe971a2ade4a3564934dba37c6"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/2e/jwb_E_202006_09_r360P.mp4",
+            "checksum": "7177f797c262260bd653b58b9c6ae1f2",
+            "filesize": 21812416,
+            "modifiedDatetime": "2020-07-20T07:53:36.000Z",
+            "bitRate": 276.0146292555957,
+            "duration": 617.393,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/05/jwb_E_202006_09.vtt",
+                "modifiedDatetime": "2020-07-20T07:53:43.000Z",
+                "checksum": "81fb82fe971a2ade4a3564934dba37c6"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/f2/jwb_E_202006_09_r480P.mp4",
+            "checksum": "edacc188ab43683f0ccad185d152791a",
+            "filesize": 41306414,
+            "modifiedDatetime": "2020-07-20T07:53:37.000Z",
+            "bitRate": 522.6919634252413,
+            "duration": 617.393,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/05/jwb_E_202006_09.vtt",
+                "modifiedDatetime": "2020-07-20T07:53:43.000Z",
+                "checksum": "81fb82fe971a2ade4a3564934dba37c6"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/1b/jwb_E_202006_09_r720P.mp4",
+            "checksum": "403b3c56750c5d976ec9b2c8153bfb2e",
+            "filesize": 79552526,
+            "modifiedDatetime": "2020-07-20T07:53:40.000Z",
+            "bitRate": 1006.6588208402103,
+            "duration": 617.393,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/05/jwb_E_202006_09.vtt",
+                "modifiedDatetime": "2020-07-20T07:53:43.000Z",
+                "checksum": "81fb82fe971a2ade4a3564934dba37c6"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202006-9.v",
+        "jwb.202006-9"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/05/jwb_E_202006_09.vtt",
+    "Name": "pub-jwb_E_202006_9_VIDEO",
+    "Title": "Geoffrey W. Jackson: Accept the Unexpected",
+    "UndatedReferenceTitle": "Geoffrey W. Jackson: Accept the Unexpected",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODPgmEvtGilead"
+}

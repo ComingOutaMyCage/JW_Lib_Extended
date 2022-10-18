@@ -1,0 +1,102 @@
+{
+    "guid": "5cccaab248fd57354cf2f35f",
+    "languageAgnosticNaturalKey": "pub-jwb_201905_7_VIDEO",
+    "naturalKey": "pub-jwb_E_201905_7_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpBlessings",
+    "description": "",
+    "firstPublished": "2019-05-20T20:49:44.081Z",
+    "duration": 344.982,
+    "durationFormattedHHMM": "5:44",
+    "durationFormattedMinSec": "5m 44s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/87/jwb_E_201905_07_r240P.mp4",
+            "checksum": "8f54fbb522e471034c1714e28d024b29",
+            "filesize": 7980023,
+            "modifiedDatetime": "2020-11-11T21:49:19.000Z",
+            "bitRate": 180.7164712579207,
+            "duration": 344.982,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.88,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/97/jwb_E_201905_07.vtt",
+                "modifiedDatetime": "2020-03-17T18:35:15.000Z",
+                "checksum": "ee1b9032af3f85006cc90134f35a05e2"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/3d/jwb_E_201905_07_r360P.mp4",
+            "checksum": "101f7225328403441198ad7069fef7b9",
+            "filesize": 15715153,
+            "modifiedDatetime": "2020-03-17T18:35:16.000Z",
+            "bitRate": 355.91595636664596,
+            "duration": 344.954,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/97/jwb_E_201905_07.vtt",
+                "modifiedDatetime": "2020-03-17T18:35:15.000Z",
+                "checksum": "ee1b9032af3f85006cc90134f35a05e2"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/e5/jwb_E_201905_07_r480P.mp4",
+            "checksum": "eff8a5c76e1f8863e33ad3a271fb8531",
+            "filesize": 28412950,
+            "modifiedDatetime": "2020-03-17T18:35:06.000Z",
+            "bitRate": 643.4949931730027,
+            "duration": 344.954,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/97/jwb_E_201905_07.vtt",
+                "modifiedDatetime": "2020-03-17T18:35:15.000Z",
+                "checksum": "ee1b9032af3f85006cc90134f35a05e2"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/24/jwb_E_201905_07_r720P.mp4",
+            "checksum": "8dff78fdcb9f4c95f6aa2e1205c2430a",
+            "filesize": 46452280,
+            "modifiedDatetime": "2020-03-17T18:35:02.000Z",
+            "bitRate": 1052.0487876644422,
+            "duration": 344.954,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/97/jwb_E_201905_07.vtt",
+                "modifiedDatetime": "2020-03-17T18:35:15.000Z",
+                "checksum": "ee1b9032af3f85006cc90134f35a05e2"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201905-7.v",
+        "jwb.201905-7"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/97/jwb_E_201905_07.vtt",
+    "Name": "pub-jwb_E_201905_7_VIDEO",
+    "Title": "Takako and Hisako: Pioneering Together for 60 Years—Only With Jehovah‘s Help",
+    "UndatedReferenceTitle": "Takako and Hisako: Pioneering Together for 60 Years—Only With Jehovah‘s Help",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODIntExpBlessings"
+}

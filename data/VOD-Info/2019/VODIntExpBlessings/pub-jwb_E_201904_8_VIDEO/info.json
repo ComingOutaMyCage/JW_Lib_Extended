@@ -1,0 +1,102 @@
+{
+    "guid": "5c87d95964430a5b2d4da8d9",
+    "languageAgnosticNaturalKey": "pub-jwb_201904_8_VIDEO",
+    "naturalKey": "pub-jwb_E_201904_8_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpBlessings",
+    "description": "",
+    "firstPublished": "2019-04-15T21:28:13.641Z",
+    "duration": 311.51,
+    "durationFormattedHHMM": "5:11",
+    "durationFormattedMinSec": "5m 11s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/87/jwb_E_201904_08_r240P.mp4",
+            "checksum": "bf329c295474a1c6ece67528557ddeb5",
+            "filesize": 10393246,
+            "modifiedDatetime": "2020-11-11T21:49:15.000Z",
+            "bitRate": 260.6569110943469,
+            "duration": 311.51,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.441,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/82/jwb_E_201904_08.vtt",
+                "modifiedDatetime": "2019-04-15T19:19:27.000Z",
+                "checksum": "379c2a8e3e6387bde3082f33c0f3ab4d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/0d/jwb_E_201904_08_r360P.mp4",
+            "checksum": "9879355705cb1a0d1be776b6525e1cb4",
+            "filesize": 20251846,
+            "modifiedDatetime": "2019-04-15T18:50:19.000Z",
+            "bitRate": 507.94106634926544,
+            "duration": 311.488,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/82/jwb_E_201904_08.vtt",
+                "modifiedDatetime": "2019-04-15T19:19:27.000Z",
+                "checksum": "379c2a8e3e6387bde3082f33c0f3ab4d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/d0/jwb_E_201904_08_r480P.mp4",
+            "checksum": "76367d7b332bd44a0b65cfd985bd53dd",
+            "filesize": 39438931,
+            "modifiedDatetime": "2019-04-15T18:57:17.000Z",
+            "bitRate": 989.1766245810433,
+            "duration": 311.488,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/82/jwb_E_201904_08.vtt",
+                "modifiedDatetime": "2019-04-15T19:19:27.000Z",
+                "checksum": "379c2a8e3e6387bde3082f33c0f3ab4d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/0f/jwb_E_201904_08_r720P.mp4",
+            "checksum": "4847716e0fd124aa31d237c7154abcb5",
+            "filesize": 69476675,
+            "modifiedDatetime": "2019-04-15T18:53:55.000Z",
+            "bitRate": 1742.559981243258,
+            "duration": 311.488,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/82/jwb_E_201904_08.vtt",
+                "modifiedDatetime": "2019-04-15T19:19:27.000Z",
+                "checksum": "379c2a8e3e6387bde3082f33c0f3ab4d"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201904-8.v",
+        "jwb.201904-8"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/82/jwb_E_201904_08.vtt",
+    "Name": "pub-jwb_E_201904_8_VIDEO",
+    "Title": "Lillian Barnes: Serving Jehovah at 106",
+    "UndatedReferenceTitle": "Lillian Barnes: Serving Jehovah at 106",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODIntExpBlessings"
+}

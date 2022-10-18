@@ -1,0 +1,102 @@
+{
+    "guid": "61d49d7bc06f02f011ccfbd5",
+    "languageAgnosticNaturalKey": "pub-jwb-086_10_VIDEO",
+    "naturalKey": "pub-jwb-086_E_10_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2022-01-28T11:14:37.125Z",
+    "duration": 566.016,
+    "durationFormattedHHMM": "9:26",
+    "durationFormattedMinSec": "9m 26s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/d2/jwb-086_E_10_r240P.mp4",
+            "checksum": "a8844e78fc104a1c184cf7ee25472566",
+            "filesize": 10071151,
+            "modifiedDatetime": "2022-01-28T06:46:59.000Z",
+            "bitRate": 139.00820327958928,
+            "duration": 566.016,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.326,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/11/jwb-086_E_10.vtt",
+                "modifiedDatetime": "2022-01-28T06:46:49.000Z",
+                "checksum": "bdff338033c017e2849bea4b5c7c07fb"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/60/jwb-086_E_10_r360P.mp4",
+            "checksum": "749a4c88fedfdccf220a975838fbc16b",
+            "filesize": 19511007,
+            "modifiedDatetime": "2022-01-28T06:46:56.000Z",
+            "bitRate": 269.322394429966,
+            "duration": 565.975,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/11/jwb-086_E_10.vtt",
+                "modifiedDatetime": "2022-01-28T06:46:49.000Z",
+                "checksum": "bdff338033c017e2849bea4b5c7c07fb"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/5a/jwb-086_E_10_r480P.mp4",
+            "checksum": "fe29330a7f216d433fceb9aec3602a2d",
+            "filesize": 33377666,
+            "modifiedDatetime": "2022-01-28T06:46:53.000Z",
+            "bitRate": 460.7323921109589,
+            "duration": 565.975,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/11/jwb-086_E_10.vtt",
+                "modifiedDatetime": "2022-01-28T06:46:49.000Z",
+                "checksum": "bdff338033c017e2849bea4b5c7c07fb"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/17/jwb-086_E_10_r720P.mp4",
+            "checksum": "75380ab238581529a5341b48146a57d4",
+            "filesize": 56383039,
+            "modifiedDatetime": "2022-01-28T06:46:50.000Z",
+            "bitRate": 778.2896633022659,
+            "duration": 565.975,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/11/jwb-086_E_10.vtt",
+                "modifiedDatetime": "2022-01-28T06:46:49.000Z",
+                "checksum": "bdff338033c017e2849bea4b5c7c07fb"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-086-10.v",
+        "jwb-086-10"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/11/jwb-086_E_10.vtt",
+    "Name": "pub-jwb-086_E_10_VIDEO",
+    "Title": "Izak Marais: Patiently Wait on Jehovah (Hab. 2:1)",
+    "UndatedReferenceTitle": "Izak Marais: Patiently Wait on Jehovah (Hab. 2:1)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

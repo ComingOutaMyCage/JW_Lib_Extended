@@ -1,0 +1,102 @@
+{
+    "guid": "61424bfba074a87de6752da7",
+    "languageAgnosticNaturalKey": "pub-nwtsv_70_VIDEO",
+    "naturalKey": "pub-nwtsv_E_70_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBibleBooks",
+    "description": "",
+    "firstPublished": "2021-10-22T14:35:38.354Z",
+    "duration": 306.475,
+    "durationFormattedHHMM": "5:06",
+    "durationFormattedMinSec": "5m 6s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/cf/nwtsv_E_070_r240P.mp4",
+            "checksum": "6e1fd76cd9ebfc19ed5dd44cb3de9df6",
+            "filesize": 5718539,
+            "modifiedDatetime": "2021-10-22T14:33:55.000Z",
+            "bitRate": 145.7739976751774,
+            "duration": 306.475,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.46,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/44/nwtsv_E_070.vtt",
+                "modifiedDatetime": "2021-10-22T14:33:41.000Z",
+                "checksum": "b3cd28b958980ad77568a30513d3cf63"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/ec/nwtsv_E_070_r360P.mp4",
+            "checksum": "eb2664812f34426bccd7a2646ee555f6",
+            "filesize": 12568111,
+            "modifiedDatetime": "2021-10-22T14:33:51.000Z",
+            "bitRate": 320.4236070772404,
+            "duration": 306.433,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/44/nwtsv_E_070.vtt",
+                "modifiedDatetime": "2021-10-22T14:33:41.000Z",
+                "checksum": "b3cd28b958980ad77568a30513d3cf63"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/23/nwtsv_E_070_r480P.mp4",
+            "checksum": "a1bb57d57266ad550798f0b58c7d9135",
+            "filesize": 26023900,
+            "modifiedDatetime": "2021-10-22T14:33:46.000Z",
+            "bitRate": 663.4785377227648,
+            "duration": 306.433,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/44/nwtsv_E_070.vtt",
+                "modifiedDatetime": "2021-10-22T14:33:41.000Z",
+                "checksum": "b3cd28b958980ad77568a30513d3cf63"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/7f/nwtsv_E_070_r720P.mp4",
+            "checksum": "df0c679a839bbd9cfd9511786b03683a",
+            "filesize": 48403783,
+            "modifiedDatetime": "2021-10-22T14:33:43.000Z",
+            "bitRate": 1234.0529730397836,
+            "duration": 306.433,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/44/nwtsv_E_070.vtt",
+                "modifiedDatetime": "2021-10-22T14:33:41.000Z",
+                "checksum": "b3cd28b958980ad77568a30513d3cf63"
+            }
+        }
+    ],
+    "printReferences": [
+        "nwtsv-70.v",
+        "nwtsv-70"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/44/nwtsv_E_070.vtt",
+    "Name": "pub-nwtsv_E_70_VIDEO",
+    "Title": "Introduction to Judges",
+    "UndatedReferenceTitle": "Introduction to Judges",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "SeriesBibleBooks"
+}

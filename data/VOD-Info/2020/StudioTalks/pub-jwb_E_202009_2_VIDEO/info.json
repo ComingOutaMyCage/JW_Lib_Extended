@@ -1,0 +1,102 @@
+{
+    "guid": "5f1043934bd99b3c372dfc64",
+    "languageAgnosticNaturalKey": "pub-jwb_202009_2_VIDEO",
+    "naturalKey": "pub-jwb_E_202009_2_VIDEO",
+    "type": "video",
+    "primaryCategory": "StudioTalks",
+    "description": "",
+    "firstPublished": "2020-09-21T18:24:09.634Z",
+    "duration": 1103.936,
+    "durationFormattedHHMM": "18:23",
+    "durationFormattedMinSec": "18m 23s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/f6/jwb_E_202009_02_r240P.mp4",
+            "checksum": "1f721d404a0fa75c066ed915c8bac008",
+            "filesize": 24147469,
+            "modifiedDatetime": "2020-10-18T03:06:08.000Z",
+            "bitRate": 170.89043346942216,
+            "duration": 1103.936,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/7a/jwb_E_202009_02.vtt",
+                "modifiedDatetime": "2020-09-21T14:06:59.000Z",
+                "checksum": "6e4c5bbff35d6bfbf842227e45eaab0b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/61/jwb_E_202009_02_r360P.mp4",
+            "checksum": "aac192e6927c179568ef4aae018782cc",
+            "filesize": 48471279,
+            "modifiedDatetime": "2020-09-21T14:06:49.000Z",
+            "bitRate": 343.0359703957649,
+            "duration": 1103.913,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/7a/jwb_E_202009_02.vtt",
+                "modifiedDatetime": "2020-09-21T14:06:59.000Z",
+                "checksum": "6e4c5bbff35d6bfbf842227e45eaab0b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/fc/jwb_E_202009_02_r480P.mp4",
+            "checksum": "0abf6d2ca358a6c5889c64c546ce62ff",
+            "filesize": 88185635,
+            "modifiedDatetime": "2020-09-21T14:06:52.000Z",
+            "bitRate": 624.0983423852242,
+            "duration": 1103.913,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/7a/jwb_E_202009_02.vtt",
+                "modifiedDatetime": "2020-09-21T14:06:59.000Z",
+                "checksum": "6e4c5bbff35d6bfbf842227e45eaab0b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/d6/jwb_E_202009_02_r720P.mp4",
+            "checksum": "77dc9cd07341184e6269eb4fb7cbea02",
+            "filesize": 147559755,
+            "modifiedDatetime": "2020-09-21T14:06:55.000Z",
+            "bitRate": 1044.2947822314802,
+            "duration": 1103.913,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/7a/jwb_E_202009_02.vtt",
+                "modifiedDatetime": "2020-09-21T14:06:59.000Z",
+                "checksum": "6e4c5bbff35d6bfbf842227e45eaab0b"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202009-2.v",
+        "jwb.202009-2"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/7a/jwb_E_202009_02.vtt",
+    "Name": "pub-jwb_E_202009_2_VIDEO",
+    "Title": "James Mantz: You Can Meet the Challenge of Bearing “Thorough Witness”",
+    "UndatedReferenceTitle": "James Mantz: You Can Meet the Challenge of Bearing “Thorough Witness”",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "StudioTalks"
+}

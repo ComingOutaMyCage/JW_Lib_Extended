@@ -1,0 +1,102 @@
+{
+    "guid": "62e0425d7738170e4e7d4927",
+    "languageAgnosticNaturalKey": "pub-jwbcov22_12_VIDEO",
+    "naturalKey": "pub-jwbcov22_E_12_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpBlessings",
+    "description": "",
+    "firstPublished": "2022-09-13T00:48:52.971Z",
+    "duration": 191.659,
+    "durationFormattedHHMM": "3:11",
+    "durationFormattedMinSec": "3m 11s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/32/jwbcov22_E_12_r240P.mp4",
+            "checksum": "84f9282ead581d8363f6232ef94edd51",
+            "filesize": 6300693,
+            "modifiedDatetime": "2022-09-11T20:55:00.000Z",
+            "bitRate": 256.8319988234312,
+            "duration": 191.659,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/bb/jwbcov22_E_12.vtt",
+                "modifiedDatetime": "2022-09-11T20:55:07.000Z",
+                "checksum": "68bbe5b6ab7011e68416d4e580e8a5c5"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/20/jwbcov22_E_12_r360P.mp4",
+            "checksum": "d0699a2981c919e8bd60bb20728073c3",
+            "filesize": 10744452,
+            "modifiedDatetime": "2022-09-11T20:54:58.000Z",
+            "bitRate": 437.9707253507532,
+            "duration": 191.659,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/bb/jwbcov22_E_12.vtt",
+                "modifiedDatetime": "2022-09-11T20:55:07.000Z",
+                "checksum": "68bbe5b6ab7011e68416d4e580e8a5c5"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/c0/jwbcov22_E_12_r480P.mp4",
+            "checksum": "f7624682f3b710e1cf0c97f844ddcbf9",
+            "filesize": 19240162,
+            "modifiedDatetime": "2022-09-11T20:54:55.000Z",
+            "bitRate": 784.2771047798434,
+            "duration": 191.659,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/bb/jwbcov22_E_12.vtt",
+                "modifiedDatetime": "2022-09-11T20:55:07.000Z",
+                "checksum": "68bbe5b6ab7011e68416d4e580e8a5c5"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/2c/jwbcov22_E_12_r720P.mp4",
+            "checksum": "61b899d9262d78a8cec7544f2f20861e",
+            "filesize": 31961884,
+            "modifiedDatetime": "2022-09-11T20:54:50.000Z",
+            "bitRate": 1302.8462986345542,
+            "duration": 191.659,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/bb/jwbcov22_E_12.vtt",
+                "modifiedDatetime": "2022-09-11T20:55:07.000Z",
+                "checksum": "68bbe5b6ab7011e68416d4e580e8a5c5"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwbcov22-12.v",
+        "jwbcov22-12"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/bb/jwbcov22_E_12.vtt",
+    "Name": "pub-jwbcov22_E_12_VIDEO",
+    "Title": "Young People—Choose a Path That Leads to Peace!",
+    "UndatedReferenceTitle": "Young People—Choose a Path That Leads to Peace!",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODIntExpBlessings"
+}

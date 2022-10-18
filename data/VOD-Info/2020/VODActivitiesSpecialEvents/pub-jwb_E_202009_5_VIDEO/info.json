@@ -1,0 +1,102 @@
+{
+    "guid": "5efb7a69af341cff1318c7cb",
+    "languageAgnosticNaturalKey": "pub-jwb_202009_5_VIDEO",
+    "naturalKey": "pub-jwb_E_202009_5_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODActivitiesSpecialEvents",
+    "description": "",
+    "firstPublished": "2020-09-21T18:24:37.988Z",
+    "duration": 630.656,
+    "durationFormattedHHMM": "10:30",
+    "durationFormattedMinSec": "10m 30s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/a3/jwb_E_202009_05_r240P.mp4",
+            "checksum": "57cd3a23eb203624a666e53d11e0821a",
+            "filesize": 30518672,
+            "modifiedDatetime": "2020-10-18T03:06:23.000Z",
+            "bitRate": 378.0620893165212,
+            "duration": 630.656,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.529,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/91/jwb_E_202009_05.vtt",
+                "modifiedDatetime": "2020-09-21T14:08:14.000Z",
+                "checksum": "cd16e8ab419e5559fd33caaf50af9b36"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/e3/jwb_E_202009_05_r360P.mp4",
+            "checksum": "35620ac35714f27ac734c501fe18b375",
+            "filesize": 56309711,
+            "modifiedDatetime": "2020-09-21T14:07:57.000Z",
+            "bitRate": 697.586412953851,
+            "duration": 630.631,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/91/jwb_E_202009_05.vtt",
+                "modifiedDatetime": "2020-09-21T14:08:14.000Z",
+                "checksum": "cd16e8ab419e5559fd33caaf50af9b36"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/5c/jwb_E_202009_05_r480P.mp4",
+            "checksum": "4282e6891dc4a3066dd85c410584e52a",
+            "filesize": 107773714,
+            "modifiedDatetime": "2020-09-21T14:08:02.000Z",
+            "bitRate": 1335.142326693423,
+            "duration": 630.631,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/91/jwb_E_202009_05.vtt",
+                "modifiedDatetime": "2020-09-21T14:08:14.000Z",
+                "checksum": "cd16e8ab419e5559fd33caaf50af9b36"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/33/jwb_E_202009_05_r720P.mp4",
+            "checksum": "35a9f4e42545a226f94efa26e35fe999",
+            "filesize": 185646509,
+            "modifiedDatetime": "2020-09-21T14:08:08.000Z",
+            "bitRate": 2299.8605389879344,
+            "duration": 630.631,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/91/jwb_E_202009_05.vtt",
+                "modifiedDatetime": "2020-09-21T14:08:14.000Z",
+                "checksum": "cd16e8ab419e5559fd33caaf50af9b36"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202009-5.v",
+        "jwb.202009-5"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/91/jwb_E_202009_05.vtt",
+    "Name": "pub-jwb_E_202009_5_VIDEO",
+    "Title": "“Love Never Fails”! International Conventions",
+    "UndatedReferenceTitle": "“Love Never Fails”! International Conventions",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODActivitiesSpecialEvents"
+}

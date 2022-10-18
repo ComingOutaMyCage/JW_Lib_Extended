@@ -1,0 +1,102 @@
+{
+    "guid": "5f1ed48e12b86d2c3bf710d5",
+    "languageAgnosticNaturalKey": "pub-jwb_202011_3_VIDEO",
+    "naturalKey": "pub-jwb_E_202011_3_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpEndurance",
+    "description": "",
+    "firstPublished": "2020-11-16T22:06:32.694Z",
+    "duration": 277.675,
+    "durationFormattedHHMM": "4:37",
+    "durationFormattedMinSec": "4m 37s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/d7/jwb_E_202011_03_r240P.mp4",
+            "checksum": "07bfefbc059ce95ce6b2786b945f3730",
+            "filesize": 9339999,
+            "modifiedDatetime": "2020-11-16T21:46:08.000Z",
+            "bitRate": 262.78470221481945,
+            "duration": 277.675,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.928,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/65/jwb_E_202011_03.vtt",
+                "modifiedDatetime": "2020-11-16T21:46:16.000Z",
+                "checksum": "e92b7d5f1e1803121a93f4e36a936987"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/5d/jwb_E_202011_03_r360P.mp4",
+            "checksum": "765f617bf5d6c506ab5d7f8674b9ad68",
+            "filesize": 18165573,
+            "modifiedDatetime": "2020-11-16T21:46:10.000Z",
+            "bitRate": 511.13450215916214,
+            "duration": 277.654,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/65/jwb_E_202011_03.vtt",
+                "modifiedDatetime": "2020-11-16T21:46:16.000Z",
+                "checksum": "e92b7d5f1e1803121a93f4e36a936987"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/5d/jwb_E_202011_03_r480P.mp4",
+            "checksum": "44ee286e645ca73515d07d4155ec99d6",
+            "filesize": 34849416,
+            "modifiedDatetime": "2020-11-16T21:46:12.000Z",
+            "bitRate": 980.5767700087159,
+            "duration": 277.654,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/65/jwb_E_202011_03.vtt",
+                "modifiedDatetime": "2020-11-16T21:46:16.000Z",
+                "checksum": "e92b7d5f1e1803121a93f4e36a936987"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/21/jwb_E_202011_03_r720P.mp4",
+            "checksum": "d38a69ac82f37575cb8503472d0a5f9d",
+            "filesize": 60154312,
+            "modifiedDatetime": "2020-11-16T21:46:14.000Z",
+            "bitRate": 1692.59424499557,
+            "duration": 277.654,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/65/jwb_E_202011_03.vtt",
+                "modifiedDatetime": "2020-11-16T21:46:16.000Z",
+                "checksum": "e92b7d5f1e1803121a93f4e36a936987"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202011-3.v",
+        "jwb.202011-3"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/65/jwb_E_202011_03.vtt",
+    "Name": "pub-jwb_E_202011_3_VIDEO",
+    "Title": "Shepherds Who Care for the Flock",
+    "UndatedReferenceTitle": "Shepherds Who Care for the Flock",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODIntExpEndurance"
+}

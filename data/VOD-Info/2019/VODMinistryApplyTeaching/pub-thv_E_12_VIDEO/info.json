@@ -1,0 +1,102 @@
+{
+    "guid": "5d93715a944f8ae32e217144",
+    "languageAgnosticNaturalKey": "pub-thv_12_VIDEO",
+    "naturalKey": "pub-thv_E_12_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODMinistryApplyTeaching",
+    "description": "",
+    "firstPublished": "2019-11-11T16:05:28.982Z",
+    "duration": 313.771,
+    "durationFormattedHHMM": "5:13",
+    "durationFormattedMinSec": "5m 13s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/b7/thv_E_12_r240P.mp4",
+            "checksum": "23238d4726eb5a4170173f00a66e3f83",
+            "filesize": 5176501,
+            "modifiedDatetime": "2020-12-13T10:42:37.000Z",
+            "bitRate": 128.8883104636821,
+            "duration": 313.771,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.599,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/48/thv_E_12.vtt",
+                "modifiedDatetime": "2019-11-11T09:31:58.000Z",
+                "checksum": "dbb9aeffe1cd4b1b3316b7ece10c82df"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/ef/thv_E_12_r360P.mp4",
+            "checksum": "faf7160c7b2152f6ca7cddee79ee388e",
+            "filesize": 10176958,
+            "modifiedDatetime": "2019-11-11T09:31:46.000Z",
+            "bitRate": 253.42484787971898,
+            "duration": 313.732,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/48/thv_E_12.vtt",
+                "modifiedDatetime": "2019-11-11T09:31:58.000Z",
+                "checksum": "dbb9aeffe1cd4b1b3316b7ece10c82df"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/94/thv_E_12_r480P.mp4",
+            "checksum": "3f56b303439be8b214f812764e207642",
+            "filesize": 19392392,
+            "modifiedDatetime": "2019-11-11T09:31:49.000Z",
+            "bitRate": 482.905991419428,
+            "duration": 313.732,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/48/thv_E_12.vtt",
+                "modifiedDatetime": "2019-11-11T09:31:58.000Z",
+                "checksum": "dbb9aeffe1cd4b1b3316b7ece10c82df"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/11/thv_E_12_r720P.mp4",
+            "checksum": "e87271c3a8c3a0200b4bc248c4e37ba5",
+            "filesize": 32873958,
+            "modifiedDatetime": "2019-11-11T09:31:53.000Z",
+            "bitRate": 818.6216161405275,
+            "duration": 313.732,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/48/thv_E_12.vtt",
+                "modifiedDatetime": "2019-11-11T09:31:58.000Z",
+                "checksum": "dbb9aeffe1cd4b1b3316b7ece10c82df"
+            }
+        }
+    ],
+    "printReferences": [
+        "thv-12.v",
+        "thv-12"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/48/thv_E_12.vtt",
+    "Name": "pub-thv_E_12_VIDEO",
+    "Title": "Study 12—Warmth and Empathy",
+    "UndatedReferenceTitle": "Study 12—Warmth and Empathy",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODMinistryApplyTeaching"
+}

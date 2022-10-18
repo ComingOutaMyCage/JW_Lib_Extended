@@ -1,0 +1,102 @@
+{
+    "guid": "6285434a2b229f0b1c3092b6",
+    "languageAgnosticNaturalKey": "pub-jwb-091_12_VIDEO",
+    "naturalKey": "pub-jwb-091_E_12_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtGilead",
+    "description": "",
+    "firstPublished": "2022-06-28T15:43:57.152Z",
+    "duration": 1445.76,
+    "durationFormattedHHMM": "24:05",
+    "durationFormattedMinSec": "24m 5s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/c5/jwb-091_E_12_r240P.mp4",
+            "checksum": "a0ac085ece354894a7b06b7cc5289b2a",
+            "filesize": 24971128,
+            "modifiedDatetime": "2022-06-28T15:19:57.000Z",
+            "bitRate": 134.93729076748562,
+            "duration": 1445.76,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/0b/jwb-091_E_12.vtt",
+                "modifiedDatetime": "2022-06-28T15:19:47.000Z",
+                "checksum": "c267c1ac3acff1dfad7551364678997e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/57/jwb-091_E_12_r360P.mp4",
+            "checksum": "c4f73b4fc6f90eb481190c140eeff768",
+            "filesize": 50016993,
+            "modifiedDatetime": "2022-06-28T15:19:55.000Z",
+            "bitRate": 270.2823661895404,
+            "duration": 1445.739,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/0b/jwb-091_E_12.vtt",
+                "modifiedDatetime": "2022-06-28T15:19:47.000Z",
+                "checksum": "c267c1ac3acff1dfad7551364678997e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/a3/jwb-091_E_12_r480P.mp4",
+            "checksum": "378878e4d2dc65439a9976d06270ab02",
+            "filesize": 90560985,
+            "modifiedDatetime": "2022-06-28T15:19:52.000Z",
+            "bitRate": 489.37442741220923,
+            "duration": 1445.739,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/0b/jwb-091_E_12.vtt",
+                "modifiedDatetime": "2022-06-28T15:19:47.000Z",
+                "checksum": "c267c1ac3acff1dfad7551364678997e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/64/jwb-091_E_12_r720P.mp4",
+            "checksum": "e06b97e2de856bdff30e8952f0216399",
+            "filesize": 159637984,
+            "modifiedDatetime": "2022-06-28T15:19:48.000Z",
+            "bitRate": 862.653459580187,
+            "duration": 1445.739,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/0b/jwb-091_E_12.vtt",
+                "modifiedDatetime": "2022-06-28T15:19:47.000Z",
+                "checksum": "c267c1ac3acff1dfad7551364678997e"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-091-12.v",
+        "jwb-091-12"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/0b/jwb-091_E_12.vtt",
+    "Name": "pub-jwb-091_E_12_VIDEO",
+    "Title": "David H. Splane: Follow the Course of Humility",
+    "UndatedReferenceTitle": "David H. Splane: Follow the Course of Humility",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODPgmEvtGilead"
+}

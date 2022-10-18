@@ -1,0 +1,102 @@
+{
+    "guid": "55364a287f0bc1fc2706bace",
+    "languageAgnosticNaturalKey": "docid-502013393_1_VIDEO",
+    "naturalKey": "docid-502013393_E_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesWhiteboard",
+    "description": "",
+    "firstPublished": "2013-09-27T17:38:15.000Z",
+    "duration": 254.912,
+    "durationFormattedHHMM": "4:14",
+    "durationFormattedMinSec": "4m 14s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/98/502013393_E_cnt_1_r240P.mp4",
+            "checksum": "a360fc69248a7bf81c2f010e42c801c9",
+            "filesize": 6055277,
+            "modifiedDatetime": "2020-12-07T15:30:35.000Z",
+            "bitRate": 185.58110862768328,
+            "duration": 254.912,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.669,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/46/502013393_E_cnt_1.vtt",
+                "modifiedDatetime": "2020-12-07T15:30:14.000Z",
+                "checksum": "85e1ffaece4fc808ddb803dce5836cd0"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/03/502013393_E_cnt_1_r360P.mp4",
+            "checksum": "dd20558bb3e9dc1f5efbd5ff2cae5713",
+            "filesize": 10644004,
+            "modifiedDatetime": "2020-12-07T15:30:40.000Z",
+            "bitRate": 326.2553162063865,
+            "duration": 254.881,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/46/502013393_E_cnt_1.vtt",
+                "modifiedDatetime": "2020-12-07T15:30:14.000Z",
+                "checksum": "85e1ffaece4fc808ddb803dce5836cd0"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/bf/502013393_E_cnt_1_r480P.mp4",
+            "checksum": "a4da64b3ac0b9fa9dc7f9bd8b65c329e",
+            "filesize": 17948885,
+            "modifiedDatetime": "2020-12-07T15:30:43.000Z",
+            "bitRate": 550.1613068941977,
+            "duration": 254.881,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/46/502013393_E_cnt_1.vtt",
+                "modifiedDatetime": "2020-12-07T15:30:14.000Z",
+                "checksum": "85e1ffaece4fc808ddb803dce5836cd0"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/9b/502013393_E_cnt_1_r720P.mp4",
+            "checksum": "38e3082b7f4536585ca4ad459159f571",
+            "filesize": 27548427,
+            "modifiedDatetime": "2020-12-07T15:30:49.000Z",
+            "bitRate": 844.4022345231697,
+            "duration": 254.881,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/46/502013393_E_cnt_1.vtt",
+                "modifiedDatetime": "2020-12-07T15:30:14.000Z",
+                "checksum": "85e1ffaece4fc808ddb803dce5836cd0"
+            }
+        }
+    ],
+    "printReferences": [
+        "502013393-1.v",
+        "502013393-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/content_assets/46/502013393_E_cnt_1.vtt",
+    "Name": "docid-502013393_E_1_VIDEO",
+    "Title": "What's a Real Friend?",
+    "UndatedReferenceTitle": "What's a Real Friend?",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2013,
+    "Symbol": "SeriesWhiteboard"
+}

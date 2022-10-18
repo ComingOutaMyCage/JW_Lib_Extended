@@ -1,0 +1,102 @@
+{
+    "guid": "61a12df7d4a4e5a332c5e72a",
+    "languageAgnosticNaturalKey": "pub-mwbv_202205_5_VIDEO",
+    "naturalKey": "pub-mwbv_E_202205_5_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODBiblePrinciples",
+    "description": "",
+    "firstPublished": "2022-04-25T13:40:59.826Z",
+    "duration": 96.214,
+    "durationFormattedHHMM": "1:36",
+    "durationFormattedMinSec": "1m 36s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/c6/mwbv_E_202205_05_r240P.mp4",
+            "checksum": "042947c49203c99e4d6a50438a80b898",
+            "filesize": 2152928,
+            "modifiedDatetime": "2022-04-25T04:25:47.000Z",
+            "bitRate": 174.81603508844867,
+            "duration": 96.214,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.483,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/eb/mwbv_E_202205_05.vtt",
+                "modifiedDatetime": "2022-04-25T04:25:40.000Z",
+                "checksum": "fadd27e24109f77b70b8cb031b37fde3"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/73/mwbv_E_202205_05_r360P.mp4",
+            "checksum": "64e9c1cd4e5c2d081b82bdbe7185960c",
+            "filesize": 3701102,
+            "modifiedDatetime": "2022-04-25T04:25:45.000Z",
+            "bitRate": 300.6296396897516,
+            "duration": 96.181,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/eb/mwbv_E_202205_05.vtt",
+                "modifiedDatetime": "2022-04-25T04:25:40.000Z",
+                "checksum": "fadd27e24109f77b70b8cb031b37fde3"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/9f/mwbv_E_202205_05_r480P.mp4",
+            "checksum": "2fa3f62d0dbf911cae52ceb6a352e86b",
+            "filesize": 6406255,
+            "modifiedDatetime": "2022-04-25T04:25:43.000Z",
+            "bitRate": 520.3612687277113,
+            "duration": 96.181,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/eb/mwbv_E_202205_05.vtt",
+                "modifiedDatetime": "2022-04-25T04:25:40.000Z",
+                "checksum": "fadd27e24109f77b70b8cb031b37fde3"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/8e/mwbv_E_202205_05_r720P.mp4",
+            "checksum": "621ec498cc5f42395d1fdb7aa8a7fee1",
+            "filesize": 9766184,
+            "modifiedDatetime": "2022-04-25T04:25:41.000Z",
+            "bitRate": 793.2784281718842,
+            "duration": 96.181,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/eb/mwbv_E_202205_05.vtt",
+                "modifiedDatetime": "2022-04-25T04:25:40.000Z",
+                "checksum": "fadd27e24109f77b70b8cb031b37fde3"
+            }
+        }
+    ],
+    "printReferences": [
+        "mwbv.202205-5.v",
+        "mwbv.202205-5"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/eb/mwbv_E_202205_05.vtt",
+    "Name": "pub-mwbv_E_202205_5_VIDEO",
+    "Title": "Remember How Love Behaves—Hopes All Things",
+    "UndatedReferenceTitle": "Remember How Love Behaves—Hopes All Things",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODBiblePrinciples"
+}

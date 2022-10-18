@@ -1,0 +1,102 @@
+{
+    "guid": "6272b94cb685ba3441fd2c13",
+    "languageAgnosticNaturalKey": "pub-wpc_1_VIDEO",
+    "naturalKey": "pub-wpc_E_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODMoviesBibleTimes",
+    "description": "",
+    "firstPublished": "2022-08-01T18:50:05.645Z",
+    "duration": 1838.315,
+    "durationFormattedHHMM": "30:38",
+    "durationFormattedMinSec": "30m 38s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/a4/wpc_E_01_r240P.mp4",
+            "checksum": "8814e93e8e9719d0ddb1d56cb61ff462",
+            "filesize": 42927987,
+            "modifiedDatetime": "2022-08-15T20:08:18.000Z",
+            "bitRate": 182.43603432355172,
+            "duration": 1838.315,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/d8/wpc_E_01.vtt",
+                "modifiedDatetime": "2022-08-15T20:08:06.000Z",
+                "checksum": "4fa38b0f0205201f8b4eadfac7509e9d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/8d/wpc_E_01_r360P.mp4",
+            "checksum": "3f97ecd98ddba22efd24ffeb23947a18",
+            "filesize": 79595152,
+            "modifiedDatetime": "2022-08-15T20:08:25.000Z",
+            "bitRate": 338.26472884135745,
+            "duration": 1838.315,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/d8/wpc_E_01.vtt",
+                "modifiedDatetime": "2022-08-15T20:08:06.000Z",
+                "checksum": "4fa38b0f0205201f8b4eadfac7509e9d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/fd/wpc_E_01_r480P.mp4",
+            "checksum": "8f135e366cdf3c28dedbb271ace6c91c",
+            "filesize": 150510453,
+            "modifiedDatetime": "2022-08-15T20:08:31.000Z",
+            "bitRate": 639.6416903863048,
+            "duration": 1838.315,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/d8/wpc_E_01.vtt",
+                "modifiedDatetime": "2022-08-15T20:08:06.000Z",
+                "checksum": "4fa38b0f0205201f8b4eadfac7509e9d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/ec/wpc_E_01_r720P.mp4",
+            "checksum": "6ce310295b1c95c72f46602d24029970",
+            "filesize": 252805913,
+            "modifiedDatetime": "2022-08-15T20:08:44.000Z",
+            "bitRate": 1074.3785451962804,
+            "duration": 1838.315,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/d8/wpc_E_01.vtt",
+                "modifiedDatetime": "2022-08-15T20:08:06.000Z",
+                "checksum": "4fa38b0f0205201f8b4eadfac7509e9d"
+            }
+        }
+    ],
+    "printReferences": [
+        "wpc-1.v",
+        "wpc-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/d8/wpc_E_01.vtt",
+    "Name": "pub-wpc_E_1_VIDEO",
+    "Title": "Jehovah Guides Us in the Way of Peace—Part 1",
+    "UndatedReferenceTitle": "Jehovah Guides Us in the Way of Peace—Part 1",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODMoviesBibleTimes"
+}

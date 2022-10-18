@@ -1,0 +1,102 @@
+{
+    "guid": "60a3bb79ca9c8caf4240b337",
+    "languageAgnosticNaturalKey": "pub-osg_71_VIDEO",
+    "naturalKey": "pub-osg_E_71_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODOriginalSongs",
+    "description": "",
+    "firstPublished": "2021-10-18T14:56:36.569Z",
+    "duration": 228.31,
+    "durationFormattedHHMM": "3:48",
+    "durationFormattedMinSec": "3m 48s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/ae/osg_E_071_r240P.mp4",
+            "checksum": "5fb2a5e35d594ddfabb92d49b371d188",
+            "filesize": 8631029,
+            "modifiedDatetime": "2021-10-18T06:01:37.000Z",
+            "bitRate": 295.34367334983136,
+            "duration": 228.31,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.553,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/a1/osg_E_071.vtt",
+                "modifiedDatetime": "2021-10-18T06:01:19.000Z",
+                "checksum": "7b91dc8c5e9f2028f672a58026209749"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/c4/osg_E_071_r360P.mp4",
+            "checksum": "19345214b939c1d2fab0d11854ed60a7",
+            "filesize": 15001146,
+            "modifiedDatetime": "2021-10-18T06:01:35.000Z",
+            "bitRate": 513.40929476368,
+            "duration": 228.271,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/a1/osg_E_071.vtt",
+                "modifiedDatetime": "2021-10-18T06:01:19.000Z",
+                "checksum": "7b91dc8c5e9f2028f672a58026209749"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/36/osg_E_071_r480P.mp4",
+            "checksum": "92c95d31a47e17cf02d1b7edd4815cc5",
+            "filesize": 27720028,
+            "modifiedDatetime": "2021-10-18T06:01:33.000Z",
+            "bitRate": 948.7088537308725,
+            "duration": 228.271,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/a1/osg_E_071.vtt",
+                "modifiedDatetime": "2021-10-18T06:01:19.000Z",
+                "checksum": "7b91dc8c5e9f2028f672a58026209749"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/41/osg_E_071_r720P.mp4",
+            "checksum": "8927c69c5ee0de45bd411a413f53233f",
+            "filesize": 45615937,
+            "modifiedDatetime": "2021-10-18T06:01:28.000Z",
+            "bitRate": 1561.1904613923803,
+            "duration": 228.271,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/a1/osg_E_071.vtt",
+                "modifiedDatetime": "2021-10-18T06:01:19.000Z",
+                "checksum": "7b91dc8c5e9f2028f672a58026209749"
+            }
+        }
+    ],
+    "printReferences": [
+        "osg-71.v",
+        "osg-71"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/a1/osg_E_071.vtt",
+    "Name": "pub-osg_E_71_VIDEO",
+    "Title": "Use Your Strength for Jehovah's Name",
+    "UndatedReferenceTitle": "Use Your Strength for Jehovah's Name",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODOriginalSongs"
+}

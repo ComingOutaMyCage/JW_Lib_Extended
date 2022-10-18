@@ -1,0 +1,102 @@
+{
+    "guid": "58b9a073a25a39c2e32abd70",
+    "languageAgnosticNaturalKey": "pub-apv_2_VIDEO",
+    "naturalKey": "pub-apv_E_2_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODBiblePrinciples",
+    "description": "",
+    "firstPublished": "2017-04-17T15:15:01.376Z",
+    "duration": 170.249,
+    "durationFormattedHHMM": "2:50",
+    "durationFormattedMinSec": "2m 50s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/9d/apv_E_02_r240P.mp4",
+            "checksum": "77964df2c3d16d6bf7fd44dd8b929990",
+            "filesize": 7897537,
+            "modifiedDatetime": "2020-12-11T15:34:19.000Z",
+            "bitRate": 362.4074609101963,
+            "duration": 170.249,
+            "frameHeight": 180,
+            "frameWidth": 320,
+            "label": "240p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/2a/apv_E_02_r240P.vtt",
+                "modifiedDatetime": "2019-03-02T21:30:13.000Z",
+                "checksum": "4f6a3500c0f073d0c7f17327817abf51"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/ca/apv_E_02_r360P.mp4",
+            "checksum": "c429e331baf348acdb4d90a975a019cd",
+            "filesize": 18154379,
+            "modifiedDatetime": "2019-03-02T21:30:20.000Z",
+            "bitRate": 833.2630113730943,
+            "duration": 170.21166666666667,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/5a/apv_E_02_r360P.vtt",
+                "modifiedDatetime": "2019-03-02T21:30:20.000Z",
+                "checksum": "4f6a3500c0f073d0c7f17327817abf51"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/1d/apv_E_02_r480P.mp4",
+            "checksum": "b085849eff8533299bdb4d8b93b33dca",
+            "filesize": 24511777,
+            "modifiedDatetime": "2019-03-02T21:30:24.000Z",
+            "bitRate": 1125.0595306579062,
+            "duration": 170.21166666666667,
+            "frameHeight": 480,
+            "frameWidth": 854,
+            "label": "480p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/b0/apv_E_02_r480P.vtt",
+                "modifiedDatetime": "2019-03-02T21:30:25.000Z",
+                "checksum": "4f6a3500c0f073d0c7f17327817abf51"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/c4/apv_E_02_r720P.mp4",
+            "checksum": "4a5eaaa79a01d2d6ddf3e7f818b50c8f",
+            "filesize": 35216999,
+            "modifiedDatetime": "2019-03-02T01:42:27.000Z",
+            "bitRate": 1616.4156668902444,
+            "duration": 170.21166666666667,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/e2/apv_E_02_r720P.vtt",
+                "modifiedDatetime": "2019-03-02T01:42:28.000Z",
+                "checksum": "4f6a3500c0f073d0c7f17327817abf51"
+            }
+        }
+    ],
+    "printReferences": [
+        "apv-2.v",
+        "apv-2"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/2a/apv_E_02_r240P.vtt",
+    "Name": "pub-apv_E_2_VIDEO",
+    "Title": "Jehovah God Will Help You",
+    "UndatedReferenceTitle": "Jehovah God Will Help You",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2017,
+    "Symbol": "VODBiblePrinciples"
+}

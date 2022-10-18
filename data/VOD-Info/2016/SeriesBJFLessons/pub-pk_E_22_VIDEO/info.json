@@ -1,0 +1,102 @@
+{
+    "guid": "5708173279892656f9a48677",
+    "languageAgnosticNaturalKey": "pub-pk_22_VIDEO",
+    "naturalKey": "pub-pk_E_22_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBJFLessons",
+    "description": "",
+    "firstPublished": "2016-05-02T17:14:53.732Z",
+    "duration": 142.699,
+    "durationFormattedHHMM": "2:22",
+    "durationFormattedMinSec": "2m 22s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/da/pk_E_022_r240P.mp4",
+            "checksum": "aedfc8558568e2bfee5e51b8a38625c4",
+            "filesize": 3720004,
+            "modifiedDatetime": "2020-12-18T02:18:37.000Z",
+            "bitRate": 203.663173883489,
+            "duration": 142.699,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/32/pk_E_022_r240P.vtt",
+                "modifiedDatetime": "2018-01-25T18:58:10.000Z",
+                "checksum": "18920b3fa0e07cd7487fd2f26e3fa96b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/74/pk_E_022_r360P.mp4",
+            "checksum": "9280970fd32505e009a201c00e0e3e9d",
+            "filesize": 6463858,
+            "modifiedDatetime": "2018-01-25T19:00:05.000Z",
+            "bitRate": 353.96087857823755,
+            "duration": 142.668,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/3d/pk_E_022_r360P.vtt",
+                "modifiedDatetime": "2018-01-25T19:00:06.000Z",
+                "checksum": "18920b3fa0e07cd7487fd2f26e3fa96b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/d7/pk_E_022_r480P.mp4",
+            "checksum": "cdf882b735fd20550cb9c5de9a467494",
+            "filesize": 11112152,
+            "modifiedDatetime": "2018-01-25T18:59:02.000Z",
+            "bitRate": 608.5014684442201,
+            "duration": 142.668,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/38/pk_E_022_r480P.vtt",
+                "modifiedDatetime": "2018-01-25T18:59:03.000Z",
+                "checksum": "18920b3fa0e07cd7487fd2f26e3fa96b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/e3/pk_E_022_r720P.mp4",
+            "checksum": "381cc0c475f73192f52d54deb7d66231",
+            "filesize": 18310462,
+            "modifiedDatetime": "2018-01-25T18:58:03.000Z",
+            "bitRate": 1002.6809401898113,
+            "duration": 142.668,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/b9/pk_E_022_r720P.vtt",
+                "modifiedDatetime": "2018-01-25T18:58:04.000Z",
+                "checksum": "18920b3fa0e07cd7487fd2f26e3fa96b"
+            }
+        }
+    ],
+    "printReferences": [
+        "pk-22.v",
+        "pk-22"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/32/pk_E_022_r240P.vtt",
+    "Name": "pub-pk_E_22_VIDEO",
+    "Title": "One Man, One Woman",
+    "UndatedReferenceTitle": "One Man, One Woman",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2016,
+    "Symbol": "SeriesBJFLessons"
+}

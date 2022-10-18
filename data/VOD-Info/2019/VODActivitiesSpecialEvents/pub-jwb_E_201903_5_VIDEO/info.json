@@ -1,0 +1,102 @@
+{
+    "guid": "5c40e97099077ca5aeb94eb3",
+    "languageAgnosticNaturalKey": "pub-jwb_201903_5_VIDEO",
+    "naturalKey": "pub-jwb_E_201903_5_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODActivitiesSpecialEvents",
+    "description": "",
+    "firstPublished": "2019-03-04T23:55:04.519Z",
+    "duration": 237.568,
+    "durationFormattedHHMM": "3:57",
+    "durationFormattedMinSec": "3m 57s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/01/jwb_E_201903_05_r240P.mp4",
+            "checksum": "55338aa1321fbdf006b7318a0e50245c",
+            "filesize": 7691363,
+            "modifiedDatetime": "2020-11-03T22:15:52.000Z",
+            "bitRate": 252.93294314680426,
+            "duration": 237.568,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.857,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/9f/jwb_E_201903_05.vtt",
+                "modifiedDatetime": "2019-03-04T23:57:47.000Z",
+                "checksum": "b2422eee87f160cbeb559eab87fa57fe"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/df/jwb_E_201903_05_r360P.mp4",
+            "checksum": "21210c56e1705f976de2445179210675",
+            "filesize": 14218264,
+            "modifiedDatetime": "2019-03-04T22:17:17.000Z",
+            "bitRate": 467.6469814339241,
+            "duration": 237.53,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/9f/jwb_E_201903_05.vtt",
+                "modifiedDatetime": "2019-03-04T23:57:47.000Z",
+                "checksum": "b2422eee87f160cbeb559eab87fa57fe"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/15/jwb_E_201903_05_r480P.mp4",
+            "checksum": "ecb491079a1e199741eea705a7ab1563",
+            "filesize": 26531028,
+            "modifiedDatetime": "2019-03-04T22:17:21.000Z",
+            "bitRate": 872.6209584052541,
+            "duration": 237.53,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/9f/jwb_E_201903_05.vtt",
+                "modifiedDatetime": "2019-03-04T23:57:47.000Z",
+                "checksum": "b2422eee87f160cbeb559eab87fa57fe"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/03/jwb_E_201903_05_r720P.mp4",
+            "checksum": "70bc2f21a85af4dd8cbe78b47510ff45",
+            "filesize": 44784043,
+            "modifiedDatetime": "2019-03-04T22:17:33.000Z",
+            "bitRate": 1472.9732494316506,
+            "duration": 237.53,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/9f/jwb_E_201903_05.vtt",
+                "modifiedDatetime": "2019-03-04T23:57:47.000Z",
+                "checksum": "b2422eee87f160cbeb559eab87fa57fe"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201903-5.v",
+        "jwb.201903-5"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/9f/jwb_E_201903_05.vtt",
+    "Name": "pub-jwb_E_201903_5_VIDEO",
+    "Title": "Armenia Branch Dedication—A Theocratic Milestone",
+    "UndatedReferenceTitle": "Armenia Branch Dedication—A Theocratic Milestone",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODActivitiesSpecialEvents"
+}

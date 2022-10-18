@@ -1,0 +1,102 @@
+{
+    "guid": "5b58e001c1963ea3306e03f8",
+    "languageAgnosticNaturalKey": "pub-jwb_201808_6_VIDEO",
+    "naturalKey": "pub-jwb_E_201808_6_VIDEO",
+    "type": "video",
+    "primaryCategory": "Reports",
+    "description": "",
+    "firstPublished": "2018-08-20T13:49:25.768Z",
+    "duration": 612.694,
+    "durationFormattedHHMM": "10:12",
+    "durationFormattedMinSec": "10m 12s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/a8/jwb_E_201808_06_r240P.mp4",
+            "checksum": "691c93f6190a3763c55ffe1db2d51ca4",
+            "filesize": 22122081,
+            "modifiedDatetime": "2020-11-14T01:30:54.000Z",
+            "bitRate": 282.08005597002744,
+            "duration": 612.694,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.928,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/6a/jwb_E_201808_06_r240P.vtt",
+                "modifiedDatetime": "2018-08-20T13:35:35.000Z",
+                "checksum": "10bd6f62258dd23ae454165d9063a743"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/6e/jwb_E_201808_06_r360P.mp4",
+            "checksum": "f11b82c027eb09ea938260675821d31e",
+            "filesize": 43699356,
+            "modifiedDatetime": "2018-08-20T13:35:38.000Z",
+            "bitRate": 557.2487268527965,
+            "duration": 612.655,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/57/jwb_E_201808_06_r360P.vtt",
+                "modifiedDatetime": "2018-08-20T13:35:45.000Z",
+                "checksum": "10bd6f62258dd23ae454165d9063a743"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/19/jwb_E_201808_06_r480P.mp4",
+            "checksum": "8ff3e0523e19539461aa493d92986ee5",
+            "filesize": 83808788,
+            "modifiedDatetime": "2018-08-20T13:35:48.000Z",
+            "bitRate": 1068.7191914699138,
+            "duration": 612.655,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/5b/jwb_E_201808_06_r480P.vtt",
+                "modifiedDatetime": "2018-08-20T13:35:54.000Z",
+                "checksum": "10bd6f62258dd23ae454165d9063a743"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/bd/jwb_E_201808_06_r720P.mp4",
+            "checksum": "2c086197b90d41dcd88c18acb97ee7d6",
+            "filesize": 145870611,
+            "modifiedDatetime": "2018-08-20T13:35:57.000Z",
+            "bitRate": 1860.1238028539717,
+            "duration": 612.655,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/6a/jwb_E_201808_06_r720P.vtt",
+                "modifiedDatetime": "2018-08-20T13:36:06.000Z",
+                "checksum": "10bd6f62258dd23ae454165d9063a743"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201808-6.v",
+        "jwb.201808-6"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/6a/jwb_E_201808_06_r240P.vtt",
+    "Name": "pub-jwb_E_201808_6_VIDEO",
+    "Title": "Branch Report: Haiti and the Dominican Republic",
+    "UndatedReferenceTitle": "Branch Report: Haiti and the Dominican Republic",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "Reports"
+}

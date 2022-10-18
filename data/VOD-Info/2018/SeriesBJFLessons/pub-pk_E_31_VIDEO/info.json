@@ -1,0 +1,102 @@
+{
+    "guid": "5ada3b0cd2aa9cc349cab155",
+    "languageAgnosticNaturalKey": "pub-pk_31_VIDEO",
+    "naturalKey": "pub-pk_E_31_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBJFLessons",
+    "description": "",
+    "firstPublished": "2018-05-07T12:39:48.133Z",
+    "duration": 75.115,
+    "durationFormattedHHMM": "1:15",
+    "durationFormattedMinSec": "1m 15s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/1c/pk_E_031_r240P.mp4",
+            "checksum": "514f866b658d3a46939cfdb50b6ab3dd",
+            "filesize": 2124282,
+            "modifiedDatetime": "2020-11-28T09:00:41.000Z",
+            "bitRate": 220.9405994142315,
+            "duration": 75.115,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.814,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/a1/pk_E_031_r240P.vtt",
+                "modifiedDatetime": "2019-02-23T21:22:02.000Z",
+                "checksum": "149f94f218abab598dddd3e82eb6b484"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/12/pk_E_031_r360P.mp4",
+            "checksum": "147c97d63c4c8d7e0d68d5c3f40536e0",
+            "filesize": 3695852,
+            "modifiedDatetime": "2019-02-24T16:02:31.000Z",
+            "bitRate": 384.54876140374245,
+            "duration": 75.085,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/67/pk_E_031_r360P.vtt",
+                "modifiedDatetime": "2019-02-24T16:02:31.000Z",
+                "checksum": "149f94f218abab598dddd3e82eb6b484"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/26/pk_E_031_r480P.mp4",
+            "checksum": "7518dbc58fd7f0ba3f7cbbc454d878d2",
+            "filesize": 6739206,
+            "modifiedDatetime": "2019-02-24T12:23:59.000Z",
+            "bitRate": 701.2059249517214,
+            "duration": 75.085,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/df/pk_E_031_r480P.vtt",
+                "modifiedDatetime": "2019-02-24T12:23:59.000Z",
+                "checksum": "149f94f218abab598dddd3e82eb6b484"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/a1/pk_E_031_r720P.mp4",
+            "checksum": "7efb663afb6f3f7af99dbd03ea3012d5",
+            "filesize": 11886983,
+            "modifiedDatetime": "2019-02-24T16:39:15.000Z",
+            "bitRate": 1236.825660085237,
+            "duration": 75.085,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/d5/pk_E_031_r720P.vtt",
+                "modifiedDatetime": "2019-02-24T16:39:15.000Z",
+                "checksum": "149f94f218abab598dddd3e82eb6b484"
+            }
+        }
+    ],
+    "printReferences": [
+        "pk-31.v",
+        "pk-31"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/a1/pk_E_031_r240P.vtt",
+    "Name": "pub-pk_E_31_VIDEO",
+    "Title": "Love Jehovah’s House",
+    "UndatedReferenceTitle": "Love Jehovah’s House",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "SeriesBJFLessons"
+}

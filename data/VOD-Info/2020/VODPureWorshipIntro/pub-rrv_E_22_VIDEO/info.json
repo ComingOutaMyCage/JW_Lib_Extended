@@ -1,0 +1,102 @@
+{
+    "guid": "5b802d05c1963ea3306e3ccf",
+    "languageAgnosticNaturalKey": "pub-rrv_22_VIDEO",
+    "naturalKey": "pub-rrv_E_22_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPureWorshipIntro",
+    "description": "",
+    "firstPublished": "2020-04-22T04:08:09.129Z",
+    "duration": 128.79,
+    "durationFormattedHHMM": "2:08",
+    "durationFormattedMinSec": "2m 8s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/47/rrv_E_022_r240P.mp4",
+            "checksum": "40ccacfd772074980659df8b008d10de",
+            "filesize": 2886013,
+            "modifiedDatetime": "2020-12-05T23:56:58.000Z",
+            "bitRate": 175.06775807516112,
+            "duration": 128.79,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.599,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/84/rrv_E_022.vtt",
+                "modifiedDatetime": "2019-01-08T13:39:01.000Z",
+                "checksum": "18a79c2d8a53d1d15fb7ca91cd2c6697"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/44/rrv_E_022_r360P.mp4",
+            "checksum": "eb4d594f6f9e923ddae84e0e0cfb562f",
+            "filesize": 5536916,
+            "modifiedDatetime": "2019-01-08T13:39:02.000Z",
+            "bitRate": 335.96486544211876,
+            "duration": 128.755,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/84/rrv_E_022.vtt",
+                "modifiedDatetime": "2019-01-08T13:39:01.000Z",
+                "checksum": "18a79c2d8a53d1d15fb7ca91cd2c6697"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/d1/rrv_E_022_r480P.mp4",
+            "checksum": "77d2bc51bc22f042dc477991a1ca4bb7",
+            "filesize": 9809928,
+            "modifiedDatetime": "2019-01-08T13:37:01.000Z",
+            "bitRate": 595.2395052619316,
+            "duration": 128.755,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/84/rrv_E_022.vtt",
+                "modifiedDatetime": "2019-01-08T13:39:01.000Z",
+                "checksum": "18a79c2d8a53d1d15fb7ca91cd2c6697"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/ec/rrv_E_022_r720P.mp4",
+            "checksum": "ee7786a201f40b9f6fad76ab5cd5c1ee",
+            "filesize": 15996938,
+            "modifiedDatetime": "2019-01-08T13:34:39.000Z",
+            "bitRate": 970.6502902799891,
+            "duration": 128.755,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/84/rrv_E_022.vtt",
+                "modifiedDatetime": "2019-01-08T13:39:01.000Z",
+                "checksum": "18a79c2d8a53d1d15fb7ca91cd2c6697"
+            }
+        }
+    ],
+    "printReferences": [
+        "rrv-22.v",
+        "rrv-22"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/84/rrv_E_022.vtt",
+    "Name": "pub-rrv_E_22_VIDEO",
+    "Title": "Introduction to Chapter 22",
+    "UndatedReferenceTitle": "Introduction to Chapter 22",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODPureWorshipIntro"
+}

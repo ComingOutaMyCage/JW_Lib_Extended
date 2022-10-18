@@ -1,0 +1,102 @@
+{
+    "guid": "5cc73715db0b288e409e1f84",
+    "languageAgnosticNaturalKey": "pub-jwb_201905_3_VIDEO",
+    "naturalKey": "pub-jwb_E_201905_3_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODOrgBethel",
+    "description": "",
+    "firstPublished": "2019-05-20T20:50:12.845Z",
+    "duration": 793.472,
+    "durationFormattedHHMM": "13:13",
+    "durationFormattedMinSec": "13m 13s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/f3/jwb_E_201905_03_r240P.mp4",
+            "checksum": "5f0a38834b5516688263218421801120",
+            "filesize": 19121233,
+            "modifiedDatetime": "2022-05-09T20:12:42.000Z",
+            "bitRate": 188.26705014480663,
+            "duration": 793.472,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/bf/jwb_E_201905_03.vtt",
+                "modifiedDatetime": "2022-05-09T20:12:15.000Z",
+                "checksum": "ef4bae742eb14cde55004c206bbd098b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/55/jwb_E_201905_03_r360P.mp4",
+            "checksum": "a95b80e4d956c55cb2550dad465767c2",
+            "filesize": 37037061,
+            "modifiedDatetime": "2022-05-09T20:12:58.000Z",
+            "bitRate": 364.67537259704756,
+            "duration": 793.451,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/bf/jwb_E_201905_03.vtt",
+                "modifiedDatetime": "2022-05-09T20:12:15.000Z",
+                "checksum": "ef4bae742eb14cde55004c206bbd098b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/e9/jwb_E_201905_03_r480P.mp4",
+            "checksum": "76a9a98435a4679bb0693f2594bd2397",
+            "filesize": 69577918,
+            "modifiedDatetime": "2022-05-09T20:13:23.000Z",
+            "bitRate": 685.0800923749545,
+            "duration": 793.451,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/bf/jwb_E_201905_03.vtt",
+                "modifiedDatetime": "2022-05-09T20:12:15.000Z",
+                "checksum": "ef4bae742eb14cde55004c206bbd098b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/af/jwb_E_201905_03_r720P.mp4",
+            "checksum": "107f6aa93c24177c273804cc12235289",
+            "filesize": 118088729,
+            "modifiedDatetime": "2022-05-09T20:14:09.000Z",
+            "bitRate": 1162.7286313994184,
+            "duration": 793.451,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/bf/jwb_E_201905_03.vtt",
+                "modifiedDatetime": "2022-05-09T20:12:15.000Z",
+                "checksum": "ef4bae742eb14cde55004c206bbd098b"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201905-3.v",
+        "jwb.201905-3"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/bf/jwb_E_201905_03.vtt",
+    "Name": "pub-jwb_E_201905_3_VIDEO",
+    "Title": "Making Yourself Available for Bethel Service",
+    "UndatedReferenceTitle": "Making Yourself Available for Bethel Service",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODOrgBethel"
+}

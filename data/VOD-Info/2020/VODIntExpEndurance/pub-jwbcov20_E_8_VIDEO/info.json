@@ -1,0 +1,102 @@
+{
+    "guid": "5f5a33960ca056895e249816",
+    "languageAgnosticNaturalKey": "pub-jwbcov20_8_VIDEO",
+    "naturalKey": "pub-jwbcov20_E_8_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpEndurance",
+    "description": "",
+    "firstPublished": "2020-09-28T13:12:28.720Z",
+    "duration": 184.256,
+    "durationFormattedHHMM": "3:04",
+    "durationFormattedMinSec": "3m 4s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/d4/jwbcov20_E_08_r240P.mp4",
+            "checksum": "3e23e5c0f97c8360601b951bbd3f7d5c",
+            "filesize": 6409227,
+            "modifiedDatetime": "2020-12-15T00:18:35.000Z",
+            "bitRate": 271.75281096680703,
+            "duration": 184.256,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.881,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/23/jwbcov20_E_08.vtt",
+                "modifiedDatetime": "2020-09-28T06:27:05.000Z",
+                "checksum": "8578be4593e1b021bae16cc2228ce4a5"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/90/jwbcov20_E_08_r360P.mp4",
+            "checksum": "cd5c4e44362a1fbacda044a45335c522",
+            "filesize": 10905780,
+            "modifiedDatetime": "2020-09-28T06:27:16.000Z",
+            "bitRate": 462.4805606670032,
+            "duration": 184.227,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/23/jwbcov20_E_08.vtt",
+                "modifiedDatetime": "2020-09-28T06:27:05.000Z",
+                "checksum": "8578be4593e1b021bae16cc2228ce4a5"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/e1/jwbcov20_E_08_r480P.mp4",
+            "checksum": "1392a83caf71e969447a282461ae9f61",
+            "filesize": 20159387,
+            "modifiedDatetime": "2020-09-28T06:27:18.000Z",
+            "bitRate": 854.8975499655317,
+            "duration": 184.227,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/23/jwbcov20_E_08.vtt",
+                "modifiedDatetime": "2020-09-28T06:27:05.000Z",
+                "checksum": "8578be4593e1b021bae16cc2228ce4a5"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/01/jwbcov20_E_08_r720P.mp4",
+            "checksum": "ecb8e4e0392628816ac8c2e39a8f7e14",
+            "filesize": 33581049,
+            "modifiedDatetime": "2020-09-28T06:27:23.000Z",
+            "bitRate": 1424.068922104252,
+            "duration": 184.227,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/23/jwbcov20_E_08.vtt",
+                "modifiedDatetime": "2020-09-28T06:27:05.000Z",
+                "checksum": "8578be4593e1b021bae16cc2228ce4a5"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwbcov20-8.v",
+        "jwbcov20-8"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/23/jwbcov20_E_08.vtt",
+    "Name": "pub-jwbcov20_E_8_VIDEO",
+    "Title": "“Those Who Promote Peace Have Joy”—Why?",
+    "UndatedReferenceTitle": "“Those Who Promote Peace Have Joy”—Why?",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODIntExpEndurance"
+}

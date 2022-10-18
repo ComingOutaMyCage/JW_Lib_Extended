@@ -1,0 +1,102 @@
+{
+    "guid": "61c64dbdc06f02f0119563b1",
+    "languageAgnosticNaturalKey": "pub-jwb-097_13_VIDEO",
+    "naturalKey": "pub-jwb-097_E_13_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2022-02-25T05:30:34.910Z",
+    "duration": 600.768,
+    "durationFormattedHHMM": "10:00",
+    "durationFormattedMinSec": "10m 0s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/dd/jwb-097_E_13_r240P.mp4",
+            "checksum": "534203ef94f9f5390004faca8a7d8a9d",
+            "filesize": 9061508,
+            "modifiedDatetime": "2022-02-25T05:28:37.000Z",
+            "bitRate": 117.83755334838074,
+            "duration": 600.768,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.703,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/07/jwb-097_E_13.vtt",
+                "modifiedDatetime": "2022-02-25T05:28:22.000Z",
+                "checksum": "69f7e404b335ce51ca85b042f4800bee"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/f5/jwb-097_E_13_r360P.mp4",
+            "checksum": "89d7c87eed444b0d032c67eb33516ea3",
+            "filesize": 18008856,
+            "modifiedDatetime": "2022-02-25T05:28:35.000Z",
+            "bitRate": 234.20029446868293,
+            "duration": 600.743,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/07/jwb-097_E_13.vtt",
+                "modifiedDatetime": "2022-02-25T05:28:22.000Z",
+                "checksum": "69f7e404b335ce51ca85b042f4800bee"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/eb/jwb-097_E_13_r480P.mp4",
+            "checksum": "d1949af632198cf2768242f90e337df1",
+            "filesize": 30748600,
+            "modifiedDatetime": "2022-02-25T05:28:30.000Z",
+            "bitRate": 399.8772145493164,
+            "duration": 600.743,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/07/jwb-097_E_13.vtt",
+                "modifiedDatetime": "2022-02-25T05:28:22.000Z",
+                "checksum": "69f7e404b335ce51ca85b042f4800bee"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/06/jwb-097_E_13_r720P.mp4",
+            "checksum": "602b361df5c428e690c0ca2d5ff176ae",
+            "filesize": 51993047,
+            "modifiedDatetime": "2022-02-25T05:28:24.000Z",
+            "bitRate": 676.155493592934,
+            "duration": 600.743,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/07/jwb-097_E_13.vtt",
+                "modifiedDatetime": "2022-02-25T05:28:22.000Z",
+                "checksum": "69f7e404b335ce51ca85b042f4800bee"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-097-13.v",
+        "jwb-097-13"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/07/jwb-097_E_13.vtt",
+    "Name": "pub-jwb-097_E_13_VIDEO",
+    "Title": "John Ekrann: Become Gentle to One Another (1 Thess. 2:7)",
+    "UndatedReferenceTitle": "John Ekrann: Become Gentle to One Another (1 Thess. 2:7)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

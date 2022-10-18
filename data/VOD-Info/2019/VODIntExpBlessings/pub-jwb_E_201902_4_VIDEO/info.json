@@ -1,0 +1,102 @@
+{
+    "guid": "5c36025799077ca5aeb940bf",
+    "languageAgnosticNaturalKey": "pub-jwb_201902_4_VIDEO",
+    "naturalKey": "pub-jwb_E_201902_4_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpBlessings",
+    "description": "",
+    "firstPublished": "2019-02-19T03:17:11.655Z",
+    "duration": 398.038,
+    "durationFormattedHHMM": "6:38",
+    "durationFormattedMinSec": "6m 38s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/54/jwb_E_201902_04_r240P.mp4",
+            "checksum": "b1794b2a2c10475f74a318c787792e07",
+            "filesize": 6849162,
+            "modifiedDatetime": "2020-11-06T23:27:13.000Z",
+            "bitRate": 134.4320846878941,
+            "duration": 398.038,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.326,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/e2/jwb_E_201902_04.vtt",
+                "modifiedDatetime": "2019-02-19T03:19:23.000Z",
+                "checksum": "db2b6e8f16f9a5d16a3ca48519f10f5a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/bc/jwb_E_201902_04_r360P.mp4",
+            "checksum": "0434b4d7e40080d1fb9f111c87a92db5",
+            "filesize": 14361605,
+            "modifiedDatetime": "2019-02-19T02:48:33.000Z",
+            "bitRate": 281.9046877630293,
+            "duration": 398.007,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/e2/jwb_E_201902_04.vtt",
+                "modifiedDatetime": "2019-02-19T03:19:23.000Z",
+                "checksum": "db2b6e8f16f9a5d16a3ca48519f10f5a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/80/jwb_E_201902_04_r480P.mp4",
+            "checksum": "072b567a1c56844cc79cda4bdfee67c4",
+            "filesize": 25718784,
+            "modifiedDatetime": "2019-02-19T02:48:38.000Z",
+            "bitRate": 504.83534209197325,
+            "duration": 398.007,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/e2/jwb_E_201902_04.vtt",
+                "modifiedDatetime": "2019-02-19T03:19:23.000Z",
+                "checksum": "db2b6e8f16f9a5d16a3ca48519f10f5a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/c1/jwb_E_201902_04_r720P.mp4",
+            "checksum": "973974e98080bb2738d4ce753ec3f882",
+            "filesize": 41992560,
+            "modifiedDatetime": "2019-02-19T02:49:15.000Z",
+            "bitRate": 824.2741333695136,
+            "duration": 398.007,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/e2/jwb_E_201902_04.vtt",
+                "modifiedDatetime": "2019-02-19T03:19:23.000Z",
+                "checksum": "db2b6e8f16f9a5d16a3ca48519f10f5a"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201902-4.v",
+        "jwb.201902-4"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/e2/jwb_E_201902_04.vtt",
+    "Name": "pub-jwb_E_201902_4_VIDEO",
+    "Title": "William and Angela Samuelson: Taking the Lead in Showing Honor",
+    "UndatedReferenceTitle": "William and Angela Samuelson: Taking the Lead in Showing Honor",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODIntExpBlessings"
+}

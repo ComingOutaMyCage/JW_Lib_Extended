@@ -1,0 +1,102 @@
+{
+    "guid": "5630d34179892656f9a3f6f8",
+    "languageAgnosticNaturalKey": "pub-jwbvs_201512_1_VIDEO",
+    "naturalKey": "pub-jwbvs_E_201512_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesTruthTransforms",
+    "description": "",
+    "firstPublished": "2015-12-21T18:12:16.940Z",
+    "duration": 423.574,
+    "durationFormattedHHMM": "7:03",
+    "durationFormattedMinSec": "7m 3s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/b8/jwbvs_E_201512_01_r240P.mp4",
+            "checksum": "7f8dda3cf143971f82f737c90d6bd0c1",
+            "filesize": 18615366,
+            "modifiedDatetime": "2020-12-21T21:25:21.000Z",
+            "bitRate": 343.34625561295076,
+            "duration": 423.574,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.211,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/dc/jwbvs_E_201512_01.vtt",
+                "modifiedDatetime": "2020-12-21T21:25:16.000Z",
+                "checksum": "e5ff4d1f881926b886d9b6bd0cecf698"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/41/jwbvs_E_201512_01_r360P.mp4",
+            "checksum": "0d793bf1a533d975eb4d0701523c9d6e",
+            "filesize": 36270993,
+            "modifiedDatetime": "2020-12-21T21:25:25.000Z",
+            "bitRate": 669.0556174194219,
+            "duration": 423.533,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/dc/jwbvs_E_201512_01.vtt",
+                "modifiedDatetime": "2020-12-21T21:25:16.000Z",
+                "checksum": "e5ff4d1f881926b886d9b6bd0cecf698"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/08/jwbvs_E_201512_01_r480P.mp4",
+            "checksum": "5f4783ca65f9d19de4474bc3a92224e2",
+            "filesize": 72066278,
+            "modifiedDatetime": "2020-12-21T21:25:32.000Z",
+            "bitRate": 1329.3363135222048,
+            "duration": 423.533,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/dc/jwbvs_E_201512_01.vtt",
+                "modifiedDatetime": "2020-12-21T21:25:16.000Z",
+                "checksum": "e5ff4d1f881926b886d9b6bd0cecf698"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/2c/jwbvs_E_201512_01_r720P.mp4",
+            "checksum": "f1b1fe473b9eb480536c755f2870647a",
+            "filesize": 133093291,
+            "modifiedDatetime": "2020-12-21T21:25:39.000Z",
+            "bitRate": 2455.042076857057,
+            "duration": 423.533,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/dc/jwbvs_E_201512_01.vtt",
+                "modifiedDatetime": "2020-12-21T21:25:16.000Z",
+                "checksum": "e5ff4d1f881926b886d9b6bd0cecf698"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwbvs.201512-1.v",
+        "jwbvs.201512-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/dc/jwbvs_E_201512_01.vtt",
+    "Name": "pub-jwbvs_E_201512_1_VIDEO",
+    "Title": "Boniface Kwamlah: Liberated by Truth",
+    "UndatedReferenceTitle": "Boniface Kwamlah: Liberated by Truth",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2015,
+    "Symbol": "SeriesTruthTransforms"
+}

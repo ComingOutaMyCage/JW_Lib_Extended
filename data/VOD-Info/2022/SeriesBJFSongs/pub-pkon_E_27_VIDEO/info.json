@@ -1,0 +1,102 @@
+{
+    "guid": "62ff975ae437cf04118fa5d0",
+    "languageAgnosticNaturalKey": "pub-pkon_27_VIDEO",
+    "naturalKey": "pub-pkon_E_27_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBJFSongs",
+    "description": "",
+    "firstPublished": "2022-09-19T13:43:08.618Z",
+    "duration": 161.707,
+    "durationFormattedHHMM": "2:41",
+    "durationFormattedMinSec": "2m 41s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/4a/pkon_E_027_r240P.mp4",
+            "checksum": "90d37cfc3309aed1ce50a81e9e009777",
+            "filesize": 5220701,
+            "modifiedDatetime": "2022-09-19T04:04:24.000Z",
+            "bitRate": 252.22610377101796,
+            "duration": 161.707,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/16/pkon_E_027.vtt",
+                "modifiedDatetime": "2022-09-19T04:04:11.000Z",
+                "checksum": "c0f31df629467da8ab5b735a09afecea"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/ae/pkon_E_027_r360P.mp4",
+            "checksum": "433db983210d3a827720e7e9cca17419",
+            "filesize": 7345996,
+            "modifiedDatetime": "2022-09-19T04:04:22.000Z",
+            "bitRate": 354.9048201376564,
+            "duration": 161.707,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/16/pkon_E_027.vtt",
+                "modifiedDatetime": "2022-09-19T04:04:11.000Z",
+                "checksum": "c0f31df629467da8ab5b735a09afecea"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/53/pkon_E_027_r480P.mp4",
+            "checksum": "2927d00191f4d733206c5c89583d3cad",
+            "filesize": 12435028,
+            "modifiedDatetime": "2022-09-19T04:04:20.000Z",
+            "bitRate": 600.7696404608336,
+            "duration": 161.707,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/16/pkon_E_027.vtt",
+                "modifiedDatetime": "2022-09-19T04:04:11.000Z",
+                "checksum": "c0f31df629467da8ab5b735a09afecea"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/f8/pkon_E_027_r720P.mp4",
+            "checksum": "a378537e382891e4f8de9de122c32491",
+            "filesize": 18070708,
+            "modifiedDatetime": "2022-09-19T04:04:18.000Z",
+            "bitRate": 873.0444956000669,
+            "duration": 161.707,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/16/pkon_E_027.vtt",
+                "modifiedDatetime": "2022-09-19T04:04:11.000Z",
+                "checksum": "c0f31df629467da8ab5b735a09afecea"
+            }
+        }
+    ],
+    "printReferences": [
+        "pkon-27.v",
+        "pkon-27"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/16/pkon_E_027.vtt",
+    "Name": "pub-pkon_E_27_VIDEO",
+    "Title": "Jehovah, My Mom, and Me",
+    "UndatedReferenceTitle": "Jehovah, My Mom, and Me",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "SeriesBJFSongs"
+}

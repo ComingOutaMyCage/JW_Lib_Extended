@@ -1,0 +1,102 @@
+{
+    "guid": "5f6b3ed30ca056895e550238",
+    "languageAgnosticNaturalKey": "pub-jwbcov20_14_VIDEO",
+    "naturalKey": "pub-jwbcov20_E_14_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODMinistryImproveSkills",
+    "description": "",
+    "firstPublished": "2020-09-28T13:11:51.792Z",
+    "duration": 684.096,
+    "durationFormattedHHMM": "11:24",
+    "durationFormattedMinSec": "11m 24s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/31/jwbcov20_E_14_r240P.mp4",
+            "checksum": "8bc072a2d47846273310929dc5c88887",
+            "filesize": 18862440,
+            "modifiedDatetime": "2020-12-03T06:29:00.000Z",
+            "bitRate": 215.4124750035083,
+            "duration": 684.096,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/6d/jwbcov20_E_14.vtt",
+                "modifiedDatetime": "2020-09-28T06:32:53.000Z",
+                "checksum": "e252864ecb2588eff819b9ec73a077d1"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/15/jwbcov20_E_14_r360P.mp4",
+            "checksum": "4d43e61abebb09a1317ce5b0ea00a26d",
+            "filesize": 34628462,
+            "modifiedDatetime": "2020-09-28T06:33:04.000Z",
+            "bitRate": 395.4841086673684,
+            "duration": 684.06,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/6d/jwbcov20_E_14.vtt",
+                "modifiedDatetime": "2020-09-28T06:32:53.000Z",
+                "checksum": "e252864ecb2588eff819b9ec73a077d1"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/62/jwbcov20_E_14_r480P.mp4",
+            "checksum": "dd128c3ae82962e7bf3ef06cd54e5d5c",
+            "filesize": 64738332,
+            "modifiedDatetime": "2020-09-28T06:33:10.000Z",
+            "bitRate": 739.3623640470134,
+            "duration": 684.06,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/6d/jwbcov20_E_14.vtt",
+                "modifiedDatetime": "2020-09-28T06:32:53.000Z",
+                "checksum": "e252864ecb2588eff819b9ec73a077d1"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/37/jwbcov20_E_14_r720P.mp4",
+            "checksum": "b2e046f323dc119b3249ff4d7b744345",
+            "filesize": 106752657,
+            "modifiedDatetime": "2020-09-28T06:33:13.000Z",
+            "bitRate": 1219.1988024625034,
+            "duration": 684.06,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/6d/jwbcov20_E_14.vtt",
+                "modifiedDatetime": "2020-09-28T06:32:53.000Z",
+                "checksum": "e252864ecb2588eff819b9ec73a077d1"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwbcov20-14.v",
+        "jwbcov20-14"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/6d/jwbcov20_E_14.vtt",
+    "Name": "pub-jwbcov20_E_14_VIDEO",
+    "Title": "Help Your Bible Students",
+    "UndatedReferenceTitle": "Help Your Bible Students",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODMinistryImproveSkills"
+}

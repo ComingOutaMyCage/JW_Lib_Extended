@@ -1,0 +1,102 @@
+{
+    "guid": "5537c6760b788d3cfee903f4",
+    "languageAgnosticNaturalKey": "pub-jwbrd_201501_7_VIDEO",
+    "naturalKey": "pub-jwbrd_E_201501_7_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtSpecial",
+    "description": "",
+    "firstPublished": "2015-01-22T01:38:24.000Z",
+    "duration": 2808.171,
+    "durationFormattedHHMM": "46:48",
+    "durationFormattedMinSec": "46m 48s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/7a/jwbrd_E_201501_07_r240P.mp4",
+            "checksum": "69465c246d2e396eddecc44cd7f2fc24",
+            "filesize": 64044735,
+            "modifiedDatetime": "2020-10-26T14:52:18.000Z",
+            "bitRate": 178.17629061317848,
+            "duration": 2808.171,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f9/jwbrd_E_201501_07.vtt",
+                "modifiedDatetime": "2020-10-26T14:47:41.000Z",
+                "checksum": "5518cd2ff35607768e0128dd77c7e3e3"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/40/jwbrd_E_201501_07_r360P.mp4",
+            "checksum": "44e0048d32e6bc24f874812c6c873488",
+            "filesize": 123231766,
+            "modifiedDatetime": "2020-10-26T14:48:00.000Z",
+            "bitRate": 342.84096560259644,
+            "duration": 2808.148,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f9/jwbrd_E_201501_07.vtt",
+                "modifiedDatetime": "2020-10-26T14:47:41.000Z",
+                "checksum": "5518cd2ff35607768e0128dd77c7e3e3"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/19/jwbrd_E_201501_07_r480P.mp4",
+            "checksum": "515a1f99d8129a42dabd4fd383b7d78c",
+            "filesize": 265350337,
+            "modifiedDatetime": "2020-10-26T14:48:12.000Z",
+            "bitRate": 738.2265848568167,
+            "duration": 2808.148,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f9/jwbrd_E_201501_07.vtt",
+                "modifiedDatetime": "2020-10-26T14:47:41.000Z",
+                "checksum": "5518cd2ff35607768e0128dd77c7e3e3"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/a7/jwbrd_E_201501_07_r720P.mp4",
+            "checksum": "925ffe77286451acd7142ce0f5399566",
+            "filesize": 516862875,
+            "modifiedDatetime": "2020-10-26T14:48:24.000Z",
+            "bitRate": 1437.9552683610336,
+            "duration": 2808.148,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f9/jwbrd_E_201501_07.vtt",
+                "modifiedDatetime": "2020-10-26T14:47:41.000Z",
+                "checksum": "5518cd2ff35607768e0128dd77c7e3e3"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwbrd.201501-7.v",
+        "jwbrd.201501-7"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/f9/jwbrd_E_201501_07.vtt",
+    "Name": "pub-jwbrd_E_201501_7_VIDEO",
+    "Title": "In Their Own Tongue and Style of Writing",
+    "UndatedReferenceTitle": "In Their Own Tongue and Style of Writing",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2015,
+    "Symbol": "VODPgmEvtSpecial"
+}

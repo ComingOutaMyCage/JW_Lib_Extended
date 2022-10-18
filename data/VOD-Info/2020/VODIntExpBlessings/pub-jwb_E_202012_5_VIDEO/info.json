@@ -1,0 +1,102 @@
+{
+    "guid": "5f3d6db912b86d2c3b672cac",
+    "languageAgnosticNaturalKey": "pub-jwb_202012_5_VIDEO",
+    "naturalKey": "pub-jwb_E_202012_5_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpBlessings",
+    "description": "",
+    "firstPublished": "2020-12-21T15:17:23.749Z",
+    "duration": 296.79,
+    "durationFormattedHHMM": "4:56",
+    "durationFormattedMinSec": "4m 56s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/85/jwb_E_202012_05_r240P.mp4",
+            "checksum": "9eb11361302d02f57f91c6278d3da489",
+            "filesize": 6431823,
+            "modifiedDatetime": "2020-12-24T22:09:59.000Z",
+            "bitRate": 169.30697526028504,
+            "duration": 296.79,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.599,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/48/jwb_E_202012_05.vtt",
+                "modifiedDatetime": "2020-12-24T22:09:02.000Z",
+                "checksum": "7b17f9a8e9832a36a27a3d8ef248cc06"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/84/jwb_E_202012_05_r360P.mp4",
+            "checksum": "2326c74b9b949f2e8651cfbaf660d30d",
+            "filesize": 12948991,
+            "modifiedDatetime": "2020-12-24T22:09:12.000Z",
+            "bitRate": 340.89956795313327,
+            "duration": 296.756,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/48/jwb_E_202012_05.vtt",
+                "modifiedDatetime": "2020-12-24T22:09:02.000Z",
+                "checksum": "7b17f9a8e9832a36a27a3d8ef248cc06"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/f2/jwb_E_202012_05_r480P.mp4",
+            "checksum": "9ed20d26ef6ddd1736db122584f792e8",
+            "filesize": 24128912,
+            "modifiedDatetime": "2020-12-24T22:09:16.000Z",
+            "bitRate": 635.2259937457036,
+            "duration": 296.756,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/48/jwb_E_202012_05.vtt",
+                "modifiedDatetime": "2020-12-24T22:09:02.000Z",
+                "checksum": "7b17f9a8e9832a36a27a3d8ef248cc06"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/b1/jwb_E_202012_05_r720P.mp4",
+            "checksum": "e1e0c69e8f5a82596992dad6485c346f",
+            "filesize": 42098105,
+            "modifiedDatetime": "2020-12-24T22:09:24.000Z",
+            "bitRate": 1108.2891173640971,
+            "duration": 296.756,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/48/jwb_E_202012_05.vtt",
+                "modifiedDatetime": "2020-12-24T22:09:02.000Z",
+                "checksum": "7b17f9a8e9832a36a27a3d8ef248cc06"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202012-5.v",
+        "jwb.202012-5"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/48/jwb_E_202012_05.vtt",
+    "Name": "pub-jwb_E_202012_5_VIDEO",
+    "Title": "Louise Blanton: With Jehovah, You Can’t Fail",
+    "UndatedReferenceTitle": "Louise Blanton: With Jehovah, You Can’t Fail",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODIntExpBlessings"
+}

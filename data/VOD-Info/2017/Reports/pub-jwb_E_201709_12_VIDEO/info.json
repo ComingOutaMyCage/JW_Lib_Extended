@@ -1,0 +1,178 @@
+{
+    "guid": "59d50909302e60099ea6848e",
+    "languageAgnosticNaturalKey": "pub-jwb_201709_12_VIDEO",
+    "naturalKey": "pub-jwb_E_201709_12_VIDEO",
+    "type": "video",
+    "primaryCategory": "Reports",
+    "description": "",
+    "firstPublished": "2017-10-13T12:35:00.133Z",
+    "duration": 324.174,
+    "durationFormattedHHMM": "5:24",
+    "durationFormattedMinSec": "5m 24s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/10/jwb_E_201709_12_r240P.mp4",
+            "checksum": "66ff68af02360b8db4acb99169acebc5",
+            "filesize": 15622769,
+            "modifiedDatetime": "2020-11-03T22:14:49.000Z",
+            "bitRate": 376.504231716609,
+            "duration": 324.174,
+            "frameHeight": 180,
+            "frameWidth": 320,
+            "label": "240p",
+            "frameRate": 60,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/3f/jwb_E_201709_12_r240P.vtt",
+                "modifiedDatetime": "2019-02-24T16:00:47.000Z",
+                "checksum": "6d8d3f71b8a6b123218249f8e65e467a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/de/jwb_s-Sub_E_201709_12_r240P.mp4",
+            "checksum": "95de63fca8e93b762dd2d69d2f3b6ae7",
+            "filesize": 14803481,
+            "modifiedDatetime": "2020-11-21T13:49:49.000Z",
+            "bitRate": 356.7849406989335,
+            "duration": 324.151,
+            "frameHeight": 180,
+            "frameWidth": 320,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": true,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/3f/jwb_E_201709_12_r240P.vtt",
+                "modifiedDatetime": "2019-02-24T16:00:47.000Z",
+                "checksum": "6d8d3f71b8a6b123218249f8e65e467a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/c9/jwb_E_201709_12_r360P.mp4",
+            "checksum": "ca2fd13cdbeaba2ae5897e4b2746a8b3",
+            "filesize": 34262243,
+            "modifiedDatetime": "2019-02-24T09:10:06.000Z",
+            "bitRate": 825.7967959446536,
+            "duration": 324.14,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 4410,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/0c/jwb_E_201709_12_r360P.vtt",
+                "modifiedDatetime": "2019-02-24T09:10:07.000Z",
+                "checksum": "6d8d3f71b8a6b123218249f8e65e467a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/6a/jwb_s-Sub_E_201709_12_r360P.mp4",
+            "checksum": "d113a8967e0656ef1183f77b6526d965",
+            "filesize": 34181814,
+            "modifiedDatetime": "2019-02-23T19:21:26.000Z",
+            "bitRate": 823.8994540820513,
+            "duration": 324.1238,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 44.056,
+            "mimetype": "video/mp4",
+            "subtitled": true,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/0c/jwb_E_201709_12_r360P.vtt",
+                "modifiedDatetime": "2019-02-24T09:10:07.000Z",
+                "checksum": "6d8d3f71b8a6b123218249f8e65e467a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/18/jwb_s-Sub_E_201709_12_r480P.mp4",
+            "checksum": "018d2330a38559fceeb5584fd60abdeb",
+            "filesize": 46275116,
+            "modifiedDatetime": "2019-02-24T16:19:00.000Z",
+            "bitRate": 1115.3896867493222,
+            "duration": 324.1238,
+            "frameHeight": 480,
+            "frameWidth": 854,
+            "label": "480p",
+            "frameRate": 44.056,
+            "mimetype": "video/mp4",
+            "subtitled": true,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ce/jwb_E_201709_12_r480P.vtt",
+                "modifiedDatetime": "2019-02-24T16:47:27.000Z",
+                "checksum": "6d8d3f71b8a6b123218249f8e65e467a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/49/jwb_E_201709_12_r480P.mp4",
+            "checksum": "14365f58cb128fd2201298c4a5489a39",
+            "filesize": 46475091,
+            "modifiedDatetime": "2019-02-24T16:47:26.000Z",
+            "bitRate": 1120.1537867510951,
+            "duration": 324.14,
+            "frameHeight": 480,
+            "frameWidth": 854,
+            "label": "480p",
+            "frameRate": 4410,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ce/jwb_E_201709_12_r480P.vtt",
+                "modifiedDatetime": "2019-02-24T16:47:27.000Z",
+                "checksum": "6d8d3f71b8a6b123218249f8e65e467a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/91/jwb_E_201709_12_r720P.mp4",
+            "checksum": "38720c2cc2e33b9e6b5e03c61b2d66de",
+            "filesize": 66866152,
+            "modifiedDatetime": "2019-02-24T16:35:04.000Z",
+            "bitRate": 1611.6240281976925,
+            "duration": 324.14,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 4410,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/2d/jwb_E_201709_12_r720P.vtt",
+                "modifiedDatetime": "2019-02-24T16:35:04.000Z",
+                "checksum": "6d8d3f71b8a6b123218249f8e65e467a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/8a/jwb_s-Sub_E_201709_12_r720P.mp4",
+            "checksum": "647a8814950c7be058f45d951dcb75e9",
+            "filesize": 66828457,
+            "modifiedDatetime": "2019-02-24T06:22:37.000Z",
+            "bitRate": 1610.7959992832984,
+            "duration": 324.1238,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 44.056,
+            "mimetype": "video/mp4",
+            "subtitled": true,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/2d/jwb_E_201709_12_r720P.vtt",
+                "modifiedDatetime": "2019-02-24T16:35:04.000Z",
+                "checksum": "6d8d3f71b8a6b123218249f8e65e467a"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201709-12.v",
+        "jwb.201709-12"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/3f/jwb_E_201709_12_r240P.vtt",
+    "Name": "pub-jwb_E_201709_12_VIDEO",
+    "Title": "Mark Sanderson: Russian Convention Travel Report",
+    "UndatedReferenceTitle": "Mark Sanderson: Russian Convention Travel Report",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2017,
+    "Symbol": "Reports"
+}

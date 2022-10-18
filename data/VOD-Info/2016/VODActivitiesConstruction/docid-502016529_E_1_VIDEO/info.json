@@ -1,0 +1,102 @@
+{
+    "guid": "576c32fb71f213d35ebb9571",
+    "languageAgnosticNaturalKey": "docid-502016529_1_VIDEO",
+    "naturalKey": "docid-502016529_E_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODActivitiesConstruction",
+    "description": "",
+    "firstPublished": "2016-07-18T23:48:11.765Z",
+    "duration": 297.704,
+    "durationFormattedHHMM": "4:57",
+    "durationFormattedMinSec": "4m 57s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/c0/502016529_E_cnt_1_r240P.mp4",
+            "checksum": "5eab37cea95d4473e83c542cf5d815fb",
+            "filesize": 13413060,
+            "modifiedDatetime": "2020-11-01T09:37:42.000Z",
+            "bitRate": 351.99235230295864,
+            "duration": 297.704,
+            "frameHeight": 180,
+            "frameWidth": 320,
+            "label": "240p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/79/502016529_E_cnt_1_r240P.vtt",
+                "modifiedDatetime": "2016-07-18T13:37:09.000Z",
+                "checksum": "f56a1d0d48d9313d98bb07a80d2c88eb"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/14/502016529_E_cnt_1_r360P.mp4",
+            "checksum": "ad49181f6515fc52fbc07db1134836d1",
+            "filesize": 31378226,
+            "modifiedDatetime": "2016-07-18T13:37:14.000Z",
+            "bitRate": 823.5328318953118,
+            "duration": 297.67166666667,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/7c/502016529_E_cnt_1_r360P.vtt",
+                "modifiedDatetime": "2016-07-18T13:37:20.000Z",
+                "checksum": "f56a1d0d48d9313d98bb07a80d2c88eb"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/22/502016529_E_cnt_1_r480P.mp4",
+            "checksum": "75511c48dc7132fa8ba7d845980526b1",
+            "filesize": 42775570,
+            "modifiedDatetime": "2016-07-18T13:37:21.000Z",
+            "bitRate": 1122.6602261720002,
+            "duration": 297.67166666667,
+            "frameHeight": 480,
+            "frameWidth": 854,
+            "label": "480p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/a6/502016529_E_cnt_1_r480P.vtt",
+                "modifiedDatetime": "2016-07-18T13:37:25.000Z",
+                "checksum": "f56a1d0d48d9313d98bb07a80d2c88eb"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/e2/502016529_E_cnt_1_r720P.mp4",
+            "checksum": "71c332f33ee608a4b90fe52f38567ba2",
+            "filesize": 61528969,
+            "modifiedDatetime": "2016-07-18T13:37:26.000Z",
+            "bitRate": 1614.8499307822196,
+            "duration": 297.67166666667,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/90/502016529_E_cnt_1_r720P.vtt",
+                "modifiedDatetime": "2016-07-18T13:37:35.000Z",
+                "checksum": "f56a1d0d48d9313d98bb07a80d2c88eb"
+            }
+        }
+    ],
+    "printReferences": [
+        "502016529-1.v",
+        "502016529-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/content_assets/79/502016529_E_cnt_1_r240P.vtt",
+    "Name": "docid-502016529_E_1_VIDEO",
+    "Title": "New Neighbors at Warwick",
+    "UndatedReferenceTitle": "New Neighbors at Warwick",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2016,
+    "Symbol": "VODActivitiesConstruction"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "5b686f26c1963ea3306e187b",
+    "languageAgnosticNaturalKey": "pub-jwb_201811_4_VIDEO",
+    "naturalKey": "pub-jwb_E_201811_4_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesTruthTransforms",
+    "description": "",
+    "firstPublished": "2018-11-19T16:25:31.135Z",
+    "duration": 347.926,
+    "durationFormattedHHMM": "5:47",
+    "durationFormattedMinSec": "5m 47s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/ec/jwb_E_201811_04_r240P.mp4",
+            "checksum": "a999745c7254ab55c21eabc8116ae953",
+            "filesize": 10985030,
+            "modifiedDatetime": "2020-11-23T20:21:45.000Z",
+            "bitRate": 246.66321825618093,
+            "duration": 347.926,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.506,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/26/jwb_E_201811_04.vtt",
+                "modifiedDatetime": "2018-11-19T15:08:25.000Z",
+                "checksum": "7d23f3bb041100e3def594168ccc9e9f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/3b/jwb_E_201811_04_r360P.mp4",
+            "checksum": "fce1f3246701055bbb8f73fc833a8df7",
+            "filesize": 20258361,
+            "modifiedDatetime": "2018-11-19T15:08:30.000Z",
+            "bitRate": 454.9368776786407,
+            "duration": 347.891,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/26/jwb_E_201811_04.vtt",
+                "modifiedDatetime": "2018-11-19T15:08:25.000Z",
+                "checksum": "7d23f3bb041100e3def594168ccc9e9f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/b0/jwb_E_201811_04_r480P.mp4",
+            "checksum": "b45ae46dfedc7dcbd122d59efa3d7728",
+            "filesize": 37578203,
+            "modifiedDatetime": "2018-11-19T15:08:34.000Z",
+            "bitRate": 843.8841790603954,
+            "duration": 347.891,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/26/jwb_E_201811_04.vtt",
+                "modifiedDatetime": "2018-11-19T15:08:25.000Z",
+                "checksum": "7d23f3bb041100e3def594168ccc9e9f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/51/jwb_E_201811_04_r720P.mp4",
+            "checksum": "ffc794033189ca2506cdb9d1f222ec38",
+            "filesize": 62807040,
+            "modifiedDatetime": "2018-11-19T15:08:38.000Z",
+            "bitRate": 1410.4417763034974,
+            "duration": 347.891,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/26/jwb_E_201811_04.vtt",
+                "modifiedDatetime": "2018-11-19T15:08:25.000Z",
+                "checksum": "7d23f3bb041100e3def594168ccc9e9f"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201811-4.v",
+        "jwb.201811-4"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/26/jwb_E_201811_04.vtt",
+    "Name": "pub-jwb_E_201811_4_VIDEO",
+    "Title": "Dimitris and Agis: Now We Are Brothers!",
+    "UndatedReferenceTitle": "Dimitris and Agis: Now We Are Brothers!",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "SeriesTruthTransforms"
+}

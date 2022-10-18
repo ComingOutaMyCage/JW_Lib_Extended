@@ -1,0 +1,102 @@
+{
+    "guid": "5eea73abaf341cff13f8360e",
+    "languageAgnosticNaturalKey": "pub-jwb_202010_10_VIDEO",
+    "naturalKey": "pub-jwb_E_202010_10_VIDEO",
+    "type": "video",
+    "primaryCategory": "Reports",
+    "description": "",
+    "firstPublished": "2020-10-19T12:47:59.070Z",
+    "duration": 271.68,
+    "durationFormattedHHMM": "4:31",
+    "durationFormattedMinSec": "4m 31s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/e2/jwb_E_202010_10_r240P.mp4",
+            "checksum": "71af29ea03a8cded60b616d004f92437",
+            "filesize": 11992148,
+            "modifiedDatetime": "2020-10-19T12:45:52.000Z",
+            "bitRate": 344.8492942064193,
+            "duration": 271.68,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.928,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/90/jwb_E_202010_10.vtt",
+                "modifiedDatetime": "2020-10-19T12:45:43.000Z",
+                "checksum": "66277101f9f2264775b12dbb9efac09b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/f4/jwb_E_202010_10_r360P.mp4",
+            "checksum": "6b1c66787e1e2862009d2105179ea27a",
+            "filesize": 22017050,
+            "modifiedDatetime": "2020-10-19T12:45:54.000Z",
+            "bitRate": 633.2025383032453,
+            "duration": 271.648,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/90/jwb_E_202010_10.vtt",
+                "modifiedDatetime": "2020-10-19T12:45:43.000Z",
+                "checksum": "66277101f9f2264775b12dbb9efac09b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/6d/jwb_E_202010_10_r480P.mp4",
+            "checksum": "d23bf20cbdda0700baa5d6f11f3dfb87",
+            "filesize": 41524473,
+            "modifiedDatetime": "2020-10-19T12:45:56.000Z",
+            "bitRate": 1194.2290954194398,
+            "duration": 271.648,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/90/jwb_E_202010_10.vtt",
+                "modifiedDatetime": "2020-10-19T12:45:43.000Z",
+                "checksum": "66277101f9f2264775b12dbb9efac09b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/df/jwb_E_202010_10_r720P.mp4",
+            "checksum": "2a642d618b47e35cb6297d9b53d8af97",
+            "filesize": 70255295,
+            "modifiedDatetime": "2020-10-19T12:46:00.000Z",
+            "bitRate": 2020.51733194244,
+            "duration": 271.648,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/90/jwb_E_202010_10.vtt",
+                "modifiedDatetime": "2020-10-19T12:45:43.000Z",
+                "checksum": "66277101f9f2264775b12dbb9efac09b"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202010-10.v",
+        "jwb.202010-10"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/90/jwb_E_202010_10.vtt",
+    "Name": "pub-jwb_E_202010_10_VIDEO",
+    "Title": "Branch Report: Indonesia",
+    "UndatedReferenceTitle": "Branch Report: Indonesia",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "Reports"
+}

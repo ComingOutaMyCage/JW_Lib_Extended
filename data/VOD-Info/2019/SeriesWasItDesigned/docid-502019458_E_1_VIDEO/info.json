@@ -1,0 +1,102 @@
+{
+    "guid": "5cd4859d48fd57354cf2fca4",
+    "languageAgnosticNaturalKey": "docid-502019458_1_VIDEO",
+    "naturalKey": "docid-502019458_E_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesWasItDesigned",
+    "description": "",
+    "firstPublished": "2019-10-28T16:54:46.762Z",
+    "duration": 102.336,
+    "durationFormattedHHMM": "1:42",
+    "durationFormattedMinSec": "1m 42s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/cd/502019458_E_cnt_1_r240P.mp4",
+            "checksum": "7ea1a6f915a48215b1842ba9a22ba6df",
+            "filesize": 3742304,
+            "modifiedDatetime": "2020-11-01T14:18:45.000Z",
+            "bitRate": 285.69369527829895,
+            "duration": 102.336,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.553,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/a0/502019458_E_cnt_1.vtt",
+                "modifiedDatetime": "2019-10-28T13:37:23.000Z",
+                "checksum": "35e4b95684280e09ca3156a69d88602d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/ec/502019458_E_cnt_1_r360P.mp4",
+            "checksum": "6b422b49f1235d6ddfdb75a84146a932",
+            "filesize": 7006108,
+            "modifiedDatetime": "2019-10-28T13:37:30.000Z",
+            "bitRate": 534.9833719407303,
+            "duration": 102.312,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/a0/502019458_E_cnt_1.vtt",
+                "modifiedDatetime": "2019-10-28T13:37:23.000Z",
+                "checksum": "35e4b95684280e09ca3156a69d88602d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/80/502019458_E_cnt_1_r480P.mp4",
+            "checksum": "e0c4402d78687602431782a50e70ac45",
+            "filesize": 13683164,
+            "modifiedDatetime": "2019-10-28T13:37:35.000Z",
+            "bitRate": 1044.840475701775,
+            "duration": 102.312,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/a0/502019458_E_cnt_1.vtt",
+                "modifiedDatetime": "2019-10-28T13:37:23.000Z",
+                "checksum": "35e4b95684280e09ca3156a69d88602d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/8a/502019458_E_cnt_1_r720P.mp4",
+            "checksum": "92bfb966d9413e3a5e69ae31adc239ba",
+            "filesize": 25339203,
+            "modifiedDatetime": "2019-10-28T13:37:39.000Z",
+            "bitRate": 1934.890564523223,
+            "duration": 102.312,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/a0/502019458_E_cnt_1.vtt",
+                "modifiedDatetime": "2019-10-28T13:37:23.000Z",
+                "checksum": "35e4b95684280e09ca3156a69d88602d"
+            }
+        }
+    ],
+    "printReferences": [
+        "502019458-1.v",
+        "502019458-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/content_assets/a0/502019458_E_cnt_1.vtt",
+    "Name": "docid-502019458_E_1_VIDEO",
+    "Title": "Was It Designed? Bird Colors That Never Fade",
+    "UndatedReferenceTitle": "Was It Designed? Bird Colors That Never Fade",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "SeriesWasItDesigned"
+}

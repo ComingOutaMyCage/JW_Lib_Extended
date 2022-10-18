@@ -1,0 +1,102 @@
+{
+    "guid": "5e4d48e1faacdecc13ad1664",
+    "languageAgnosticNaturalKey": "pub-jwb_202004_6_VIDEO",
+    "naturalKey": "pub-jwb_E_202004_6_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpTransformations",
+    "description": "",
+    "firstPublished": "2020-04-20T14:11:31.436Z",
+    "duration": 268.096,
+    "durationFormattedHHMM": "4:28",
+    "durationFormattedMinSec": "4m 28s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/b2/jwb_E_202004_06_r240P.mp4",
+            "checksum": "701719e3f7262ce6dd14e47696e1d44a",
+            "filesize": 8822039,
+            "modifiedDatetime": "2020-10-18T03:01:52.000Z",
+            "bitRate": 257.08022382840477,
+            "duration": 268.096,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/73/jwb_E_202004_06.vtt",
+                "modifiedDatetime": "2020-04-20T12:26:25.000Z",
+                "checksum": "fba3ad1b376a9e78ba444372544e277b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/2f/jwb_E_202004_06_r360P.mp4",
+            "checksum": "918db4fc48e742f0c33bc062cd171492",
+            "filesize": 16836413,
+            "modifiedDatetime": "2020-04-20T12:26:30.000Z",
+            "bitRate": 490.6885990968474,
+            "duration": 268.061,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/73/jwb_E_202004_06.vtt",
+                "modifiedDatetime": "2020-04-20T12:26:25.000Z",
+                "checksum": "fba3ad1b376a9e78ba444372544e277b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/23/jwb_E_202004_06_r480P.mp4",
+            "checksum": "570a39d55d068c14e531bc90b88ea09d",
+            "filesize": 31681907,
+            "modifiedDatetime": "2020-04-20T12:26:33.000Z",
+            "bitRate": 923.3528877289125,
+            "duration": 268.061,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/73/jwb_E_202004_06.vtt",
+                "modifiedDatetime": "2020-04-20T12:26:25.000Z",
+                "checksum": "fba3ad1b376a9e78ba444372544e277b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/fe/jwb_E_202004_06_r720P.mp4",
+            "checksum": "2e9183b8d8414b17fd9e84392842ee71",
+            "filesize": 54458461,
+            "modifiedDatetime": "2020-04-20T12:26:36.000Z",
+            "bitRate": 1587.1638416722315,
+            "duration": 268.061,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/73/jwb_E_202004_06.vtt",
+                "modifiedDatetime": "2020-04-20T12:26:25.000Z",
+                "checksum": "fba3ad1b376a9e78ba444372544e277b"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202004-6.v",
+        "jwb.202004-6"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/73/jwb_E_202004_06.vtt",
+    "Name": "pub-jwb_E_202004_6_VIDEO",
+    "Title": "Searching for the Precious Ones",
+    "UndatedReferenceTitle": "Searching for the Precious Ones",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODIntExpTransformations"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "6215093c57c50ea1eb64e412",
+    "languageAgnosticNaturalKey": "pub-jwb-088_13_VIDEO",
+    "naturalKey": "pub-jwb-088_E_13_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2022-04-22T11:45:34.568Z",
+    "duration": 643.392,
+    "durationFormattedHHMM": "10:43",
+    "durationFormattedMinSec": "10m 43s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/0a/jwb-088_E_13_r240P.mp4",
+            "checksum": "352fb7b6e20cc41b9fbd5d96dfd89fc0",
+            "filesize": 9959440,
+            "modifiedDatetime": "2022-04-22T11:43:12.000Z",
+            "bitRate": 120.93424382025265,
+            "duration": 643.392,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.674,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/79/jwb-088_E_13.vtt",
+                "modifiedDatetime": "2022-04-22T11:42:51.000Z",
+                "checksum": "5dd80f2b7b49f8d6f0df6c99e314f697"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/14/jwb-088_E_13_r360P.mp4",
+            "checksum": "5562cff280dbb71a5e071a221572fe64",
+            "filesize": 20516602,
+            "modifiedDatetime": "2022-04-22T11:43:10.000Z",
+            "bitRate": 249.14192094685336,
+            "duration": 643.352,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/79/jwb-088_E_13.vtt",
+                "modifiedDatetime": "2022-04-22T11:42:51.000Z",
+                "checksum": "5dd80f2b7b49f8d6f0df6c99e314f697"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/61/jwb-088_E_13_r480P.mp4",
+            "checksum": "f338f3299440cf989c28658ce1b50be9",
+            "filesize": 37808443,
+            "modifiedDatetime": "2022-04-22T11:42:59.000Z",
+            "bitRate": 459.12418230999515,
+            "duration": 643.352,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/79/jwb-088_E_13.vtt",
+                "modifiedDatetime": "2022-04-22T11:42:51.000Z",
+                "checksum": "5dd80f2b7b49f8d6f0df6c99e314f697"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/3d/jwb-088_E_13_r720P.mp4",
+            "checksum": "095eb72ff7af19932df90c7e59483624",
+            "filesize": 80304195,
+            "modifiedDatetime": "2022-04-22T11:42:53.000Z",
+            "bitRate": 975.16837351481,
+            "duration": 643.352,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/79/jwb-088_E_13.vtt",
+                "modifiedDatetime": "2022-04-22T11:42:51.000Z",
+                "checksum": "5dd80f2b7b49f8d6f0df6c99e314f697"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-088-13.v",
+        "jwb-088-13"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/79/jwb-088_E_13.vtt",
+    "Name": "pub-jwb-088_E_13_VIDEO",
+    "Title": "Joel Dellinger: Your Deliverance Is Getting Near (Rev. 6:15)",
+    "UndatedReferenceTitle": "Joel Dellinger: Your Deliverance Is Getting Near (Rev. 6:15)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

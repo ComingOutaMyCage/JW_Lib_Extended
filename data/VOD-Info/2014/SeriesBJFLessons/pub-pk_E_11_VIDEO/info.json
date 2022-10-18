@@ -1,0 +1,102 @@
+{
+    "guid": "553647237f0bc1fc27069bad",
+    "languageAgnosticNaturalKey": "pub-pk_11_VIDEO",
+    "naturalKey": "pub-pk_E_11_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBJFLessons",
+    "description": "",
+    "firstPublished": "2014-05-05T16:16:12.000Z",
+    "duration": 136,
+    "durationFormattedHHMM": "2:16",
+    "durationFormattedMinSec": "2m 16s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/77/pk_E_011_r240P.mp4",
+            "checksum": "8a5a955fbad15a2c6fdb918c6a1033c8",
+            "filesize": 3659975,
+            "modifiedDatetime": "2020-12-09T07:25:20.000Z",
+            "bitRate": 210.24672564338235,
+            "duration": 136,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.814,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/35/pk_E_011.vtt",
+                "modifiedDatetime": "2019-10-18T14:33:03.000Z",
+                "checksum": "f12d509e9a90a3e7b47be274f00b8f37"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/90/pk_E_011_r360P.mp4",
+            "checksum": "12b19565eea0e32d0a21d19582ba5bf7",
+            "filesize": 6262039,
+            "modifiedDatetime": "2019-10-18T14:33:04.000Z",
+            "bitRate": 359.8277411554869,
+            "duration": 135.96,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/35/pk_E_011.vtt",
+                "modifiedDatetime": "2019-10-18T14:33:03.000Z",
+                "checksum": "f12d509e9a90a3e7b47be274f00b8f37"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/b0/pk_E_011_r480P.mp4",
+            "checksum": "df6aae68579a25ff79323af6a81aa5a5",
+            "filesize": 10827737,
+            "modifiedDatetime": "2019-10-18T14:34:06.000Z",
+            "bitRate": 622.1807539901441,
+            "duration": 135.96,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/35/pk_E_011.vtt",
+                "modifiedDatetime": "2019-10-18T14:33:03.000Z",
+                "checksum": "f12d509e9a90a3e7b47be274f00b8f37"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/d7/pk_E_011_r720P.mp4",
+            "checksum": "1f2cb848700821b29c734ff6a87f8300",
+            "filesize": 17652839,
+            "modifiedDatetime": "2019-10-18T14:33:01.000Z",
+            "bitRate": 1014.3630824323329,
+            "duration": 135.96,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/35/pk_E_011.vtt",
+                "modifiedDatetime": "2019-10-18T14:33:03.000Z",
+                "checksum": "f12d509e9a90a3e7b47be274f00b8f37"
+            }
+        }
+    ],
+    "printReferences": [
+        "pk-11.v",
+        "pk-11"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/35/pk_E_011.vtt",
+    "Name": "pub-pk_E_11_VIDEO",
+    "Title": "Forgive Freely",
+    "UndatedReferenceTitle": "Forgive Freely",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2014,
+    "Symbol": "SeriesBJFLessons"
+}

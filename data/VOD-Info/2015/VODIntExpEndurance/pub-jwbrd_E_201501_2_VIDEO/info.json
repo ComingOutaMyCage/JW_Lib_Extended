@@ -1,0 +1,102 @@
+{
+    "guid": "5537c6760b788d3cfee903f2",
+    "languageAgnosticNaturalKey": "pub-jwbrd_201501_2_VIDEO",
+    "naturalKey": "pub-jwbrd_E_201501_2_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpEndurance",
+    "description": "",
+    "firstPublished": "2015-02-16T18:57:29.000Z",
+    "duration": 361.814,
+    "durationFormattedHHMM": "6:01",
+    "durationFormattedMinSec": "6m 1s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/54/jwbrd_E_201501_02_r240P.mp4",
+            "checksum": "a23e7a83ba4e5a4a7ba14c0d61e16893",
+            "filesize": 10330748,
+            "modifiedDatetime": "2020-11-18T20:21:17.000Z",
+            "bitRate": 223.0675671753995,
+            "duration": 361.814,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.438,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f0/jwbrd_E_201501_02.vtt",
+                "modifiedDatetime": "2020-11-18T20:20:45.000Z",
+                "checksum": "938caff4b8c1c64f68f955841ecdbb94"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/45/jwbrd_E_201501_02_r360P.mp4",
+            "checksum": "05f0a9f9b93ec8a5ba7cf7df82bad282",
+            "filesize": 18938053,
+            "modifiedDatetime": "2020-11-18T20:20:54.000Z",
+            "bitRate": 408.95997308447124,
+            "duration": 361.78,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f0/jwbrd_E_201501_02.vtt",
+                "modifiedDatetime": "2020-11-18T20:20:45.000Z",
+                "checksum": "938caff4b8c1c64f68f955841ecdbb94"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/b1/jwbrd_E_201501_02_r480P.mp4",
+            "checksum": "99d2398d12e705295fb15ddc2db0d34a",
+            "filesize": 34731291,
+            "modifiedDatetime": "2020-11-18T20:20:58.000Z",
+            "bitRate": 750.0088753869755,
+            "duration": 361.78,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f0/jwbrd_E_201501_02.vtt",
+                "modifiedDatetime": "2020-11-18T20:20:45.000Z",
+                "checksum": "938caff4b8c1c64f68f955841ecdbb94"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/a4/jwbrd_E_201501_02_r720P.mp4",
+            "checksum": "ffa1ba57d64d2b860c729cc6f154736c",
+            "filesize": 57701762,
+            "modifiedDatetime": "2020-11-18T20:21:03.000Z",
+            "bitRate": 1246.0473647658798,
+            "duration": 361.78,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f0/jwbrd_E_201501_02.vtt",
+                "modifiedDatetime": "2020-11-18T20:20:45.000Z",
+                "checksum": "938caff4b8c1c64f68f955841ecdbb94"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwbrd.201501-2.v",
+        "jwbrd.201501-2"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/f0/jwbrd_E_201501_02.vtt",
+    "Name": "pub-jwbrd_E_201501_2_VIDEO",
+    "Title": "Herman van Elburg: Surrendered His Life for Our Brothers",
+    "UndatedReferenceTitle": "Herman van Elburg: Surrendered His Life for Our Brothers",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2015,
+    "Symbol": "VODIntExpEndurance"
+}

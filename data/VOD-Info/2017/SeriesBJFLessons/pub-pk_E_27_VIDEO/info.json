@@ -1,0 +1,102 @@
+{
+    "guid": "599b28545434430be822c0be",
+    "languageAgnosticNaturalKey": "pub-pk_27_VIDEO",
+    "naturalKey": "pub-pk_E_27_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBJFLessons",
+    "description": "",
+    "firstPublished": "2017-09-11T12:33:42.353Z",
+    "duration": 110.365,
+    "durationFormattedHHMM": "1:50",
+    "durationFormattedMinSec": "1m 50s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/00/pk_E_027_r240P.mp4",
+            "checksum": "4f237d5ffd8d1508c01af3cfe06620f5",
+            "filesize": 5491649,
+            "modifiedDatetime": "2020-11-28T09:00:38.000Z",
+            "bitRate": 388.74197265890456,
+            "duration": 110.365,
+            "frameHeight": 180,
+            "frameWidth": 320,
+            "label": "240p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/c8/pk_E_027_r240P.vtt",
+                "modifiedDatetime": "2019-02-23T16:47:30.000Z",
+                "checksum": "0048d4975304610a446cbe5a048d23b7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/7c/pk_E_027_r360P.mp4",
+            "checksum": "b8b6f9ebe79e2ee55fcba62fa71ca618",
+            "filesize": 12106263,
+            "modifiedDatetime": "2019-02-24T16:27:16.000Z",
+            "bitRate": 857.2221723942598,
+            "duration": 110.33333333333333,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/33/pk_E_027_r360P.vtt",
+                "modifiedDatetime": "2019-02-24T16:27:17.000Z",
+                "checksum": "0048d4975304610a446cbe5a048d23b7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/54/pk_E_027_r480P.mp4",
+            "checksum": "96ad48df4a08e29edfd2f0ee52164db3",
+            "filesize": 16202079,
+            "modifiedDatetime": "2019-02-24T03:15:04.000Z",
+            "bitRate": 1147.2393551737161,
+            "duration": 110.33333333333333,
+            "frameHeight": 480,
+            "frameWidth": 854,
+            "label": "480p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/1a/pk_E_027_r480P.vtt",
+                "modifiedDatetime": "2019-02-24T03:15:05.000Z",
+                "checksum": "0048d4975304610a446cbe5a048d23b7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/91/pk_E_027_r720P.mp4",
+            "checksum": "f2db1541138406c306b97f5f4f971cdb",
+            "filesize": 23190589,
+            "modifiedDatetime": "2019-02-24T16:37:11.000Z",
+            "bitRate": 1642.0828691465258,
+            "duration": 110.33333333333333,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/dd/pk_E_027_r720P.vtt",
+                "modifiedDatetime": "2019-02-24T16:37:11.000Z",
+                "checksum": "0048d4975304610a446cbe5a048d23b7"
+            }
+        }
+    ],
+    "printReferences": [
+        "pk-27.v",
+        "pk-27"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/c8/pk_E_027_r240P.vtt",
+    "Name": "pub-pk_E_27_VIDEO",
+    "Title": "See Yourself in Paradise",
+    "UndatedReferenceTitle": "See Yourself in Paradise",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2017,
+    "Symbol": "SeriesBJFLessons"
+}

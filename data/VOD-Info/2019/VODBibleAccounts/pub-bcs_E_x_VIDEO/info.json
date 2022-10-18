@@ -1,0 +1,102 @@
+{
+    "guid": "5ac4e9e8598de921541f7b8d",
+    "languageAgnosticNaturalKey": "pub-bcs_x_VIDEO",
+    "naturalKey": "pub-bcs_E_x_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODBibleAccounts",
+    "description": "",
+    "firstPublished": "2019-02-11T12:37:12.057Z",
+    "duration": 1913.745,
+    "durationFormattedHHMM": "31:53",
+    "durationFormattedMinSec": "31m 53s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/5b/bcs_E_r240P.mp4",
+            "checksum": "a6a632c101dc837d1847312a9fa0c742",
+            "filesize": 93009293,
+            "modifiedDatetime": "2020-12-04T21:24:13.000Z",
+            "bitRate": 379.6927498504242,
+            "duration": 1913.745,
+            "frameHeight": 180,
+            "frameWidth": 320,
+            "label": "240p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/f5/bcs_E_r240P.vtt",
+                "modifiedDatetime": "2019-03-10T20:11:17.000Z",
+                "checksum": "4ea997c5aaec439d7e5ace017a408966"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/f9/bcs_E_r360P.mp4",
+            "checksum": "dd87bd5172ccd30de1e75f8c0009b57b",
+            "filesize": 198764455,
+            "modifiedDatetime": "2019-03-10T20:14:20.000Z",
+            "bitRate": 811.4180858408514,
+            "duration": 1913.745,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/a6/bcs_E_r360P.vtt",
+                "modifiedDatetime": "2019-03-10T20:14:20.000Z",
+                "checksum": "4ea997c5aaec439d7e5ace017a408966"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/58/bcs_E_r480P.mp4",
+            "checksum": "17e4bb6b1a9ef2ea140863d66260c260",
+            "filesize": 269713898,
+            "modifiedDatetime": "2019-03-02T01:28:59.000Z",
+            "bitRate": 1101.0556934831966,
+            "duration": 1913.745,
+            "frameHeight": 480,
+            "frameWidth": 854,
+            "label": "480p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/bb/bcs_E_r480P.vtt",
+                "modifiedDatetime": "2019-03-02T01:28:59.000Z",
+                "checksum": "4ea997c5aaec439d7e5ace017a408966"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/9b/bcs_E_r720P.mp4",
+            "checksum": "3a0ad1128a45224d53bb8b803557d13b",
+            "filesize": 389510672,
+            "modifiedDatetime": "2019-03-10T20:19:39.000Z",
+            "bitRate": 1590.1032399823384,
+            "duration": 1913.745,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/52/bcs_E_r720P.vtt",
+                "modifiedDatetime": "2019-03-10T20:19:39.000Z",
+                "checksum": "4ea997c5aaec439d7e5ace017a408966"
+            }
+        }
+    ],
+    "printReferences": [
+        "bcs.v",
+        "bcs"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/f5/bcs_E_r240P.vtt",
+    "Name": "pub-bcs_E_x_VIDEO",
+    "Title": "“Be Courageous and Strong and Go to Work”! (1 Chronicles 28:1-20; 1 Samuel 16:1-23; 17:1-51)",
+    "UndatedReferenceTitle": "“Be Courageous and Strong and Go to Work”! (1 Chronicles 28:1-20; 1 Samuel 16:1-23; 17:1-51)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODBibleAccounts"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "5d307d1c48fd57354cf37a27",
+    "languageAgnosticNaturalKey": "pub-jwb_201907_12_VIDEO",
+    "naturalKey": "pub-jwb_E_201907_12_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODMinistryExpandMinistry",
+    "description": "",
+    "firstPublished": "2019-07-29T11:14:23.539Z",
+    "duration": 236.48,
+    "durationFormattedHHMM": "3:56",
+    "durationFormattedMinSec": "3m 56s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/ea/jwb_E_201907_12_r240P.mp4",
+            "checksum": "922b515006c86e593cdf4ca62aa7f3fd",
+            "filesize": 8854992,
+            "modifiedDatetime": "2020-11-23T20:22:04.000Z",
+            "bitRate": 292.53900964140735,
+            "duration": 236.48,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.622,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/51/jwb_E_201907_12.vtt",
+                "modifiedDatetime": "2019-07-29T05:56:43.000Z",
+                "checksum": "2441fc709a6cdd664b0c14a90305e29c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/a4/jwb_E_201907_12_r360P.mp4",
+            "checksum": "f65edb2be09ae2397991f1df74897998",
+            "filesize": 16193863,
+            "modifiedDatetime": "2019-07-29T05:56:28.000Z",
+            "bitRate": 535.0674347948369,
+            "duration": 236.446,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/51/jwb_E_201907_12.vtt",
+                "modifiedDatetime": "2019-07-29T05:56:43.000Z",
+                "checksum": "2441fc709a6cdd664b0c14a90305e29c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/0a/jwb_E_201907_12_r480P.mp4",
+            "checksum": "9cb3039120bd2de3f7647064bdca330d",
+            "filesize": 30389692,
+            "modifiedDatetime": "2019-07-29T05:56:33.000Z",
+            "bitRate": 1004.1170869881495,
+            "duration": 236.446,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/51/jwb_E_201907_12.vtt",
+                "modifiedDatetime": "2019-07-29T05:56:43.000Z",
+                "checksum": "2441fc709a6cdd664b0c14a90305e29c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/a2/jwb_E_201907_12_r720P.mp4",
+            "checksum": "08c07992cef00ea6a4518f7335d53a56",
+            "filesize": 50749813,
+            "modifiedDatetime": "2019-07-29T05:56:37.000Z",
+            "bitRate": 1676.843397911151,
+            "duration": 236.446,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/51/jwb_E_201907_12.vtt",
+                "modifiedDatetime": "2019-07-29T05:56:43.000Z",
+                "checksum": "2441fc709a6cdd664b0c14a90305e29c"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201907-12.v",
+        "jwb.201907-12"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/51/jwb_E_201907_12.vtt",
+    "Name": "pub-jwb_E_201907_12_VIDEO",
+    "Title": "Serving Where the Need Is Greater—From Idea to Reality",
+    "UndatedReferenceTitle": "Serving Where the Need Is Greater—From Idea to Reality",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODMinistryExpandMinistry"
+}

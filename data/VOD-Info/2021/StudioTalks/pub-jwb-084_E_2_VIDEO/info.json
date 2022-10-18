@@ -1,0 +1,102 @@
+{
+    "guid": "6136696da074a87de6914c1a",
+    "languageAgnosticNaturalKey": "pub-jwb-084_2_VIDEO",
+    "naturalKey": "pub-jwb-084_E_2_VIDEO",
+    "type": "video",
+    "primaryCategory": "StudioTalks",
+    "description": "",
+    "firstPublished": "2021-11-15T13:17:39.736Z",
+    "duration": 1072.512,
+    "durationFormattedHHMM": "17:52",
+    "durationFormattedMinSec": "17m 52s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/2f/jwb-084_E_02_r240P.mp4",
+            "checksum": "c7f63f4c7d1c8491a36ea15d365e0982",
+            "filesize": 19147949,
+            "modifiedDatetime": "2021-11-15T05:32:49.000Z",
+            "bitRate": 139.47941986896186,
+            "duration": 1072.512,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.211,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/e1/jwb-084_E_02.vtt",
+                "modifiedDatetime": "2021-11-15T05:32:29.000Z",
+                "checksum": "9b825b460c4b4b5dd939490c3e33f983"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/27/jwb-084_E_02_r360P.mp4",
+            "checksum": "89aedd3ec68c7c4310d38347cb9c9a60",
+            "filesize": 38013508,
+            "modifiedDatetime": "2021-11-15T05:32:43.000Z",
+            "bitRate": 276.9098298711119,
+            "duration": 1072.481,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/e1/jwb-084_E_02.vtt",
+                "modifiedDatetime": "2021-11-15T05:32:29.000Z",
+                "checksum": "9b825b460c4b4b5dd939490c3e33f983"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/02/jwb-084_E_02_r480P.mp4",
+            "checksum": "0b03a38a644c4a95dd50553c71b0d625",
+            "filesize": 66588216,
+            "modifiedDatetime": "2021-11-15T05:32:35.000Z",
+            "bitRate": 485.0626141628616,
+            "duration": 1072.481,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/e1/jwb-084_E_02.vtt",
+                "modifiedDatetime": "2021-11-15T05:32:29.000Z",
+                "checksum": "9b825b460c4b4b5dd939490c3e33f983"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/c0/jwb-084_E_02_r720P.mp4",
+            "checksum": "ee8d85794786440a57a25244c8912a2f",
+            "filesize": 108898019,
+            "modifiedDatetime": "2021-11-15T05:32:31.000Z",
+            "bitRate": 793.2688536556825,
+            "duration": 1072.481,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/e1/jwb-084_E_02.vtt",
+                "modifiedDatetime": "2021-11-15T05:32:29.000Z",
+                "checksum": "9b825b460c4b4b5dd939490c3e33f983"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-084-2.v",
+        "jwb-084-2"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/e1/jwb-084_E_02.vtt",
+    "Name": "pub-jwb-084_E_2_VIDEO",
+    "Title": "David H. Splane: Do You Remember When . . . ?",
+    "UndatedReferenceTitle": "David H. Splane: Do You Remember When . . . ?",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "StudioTalks"
+}

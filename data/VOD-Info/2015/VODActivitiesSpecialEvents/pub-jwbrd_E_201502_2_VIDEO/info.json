@@ -1,0 +1,102 @@
+{
+    "guid": "553690747f0bc1fc27073547",
+    "languageAgnosticNaturalKey": "pub-jwbrd_201502_2_VIDEO",
+    "naturalKey": "pub-jwbrd_E_201502_2_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODActivitiesSpecialEvents",
+    "description": "",
+    "firstPublished": "2015-03-05T22:03:42.000Z",
+    "duration": 340.95,
+    "durationFormattedHHMM": "5:40",
+    "durationFormattedMinSec": "5m 40s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/22/jwbrd_E_201502_02_r240P.mp4",
+            "checksum": "1e6f4e813e9cf1739fae85d66a1e3f1a",
+            "filesize": 15587821,
+            "modifiedDatetime": "2020-11-19T13:22:58.000Z",
+            "bitRate": 357.1780365522804,
+            "duration": 340.95,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/6a/jwbrd_E_201502_02.vtt",
+                "modifiedDatetime": "2020-11-19T13:22:52.000Z",
+                "checksum": "180fe0f27835179828d69baf881bb91a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/f4/jwbrd_E_201502_02_r360P.mp4",
+            "checksum": "50a93999c33182d754e7a00ed066e599",
+            "filesize": 27810274,
+            "modifiedDatetime": "2020-11-19T13:23:04.000Z",
+            "bitRate": 637.3039937140126,
+            "duration": 340.917,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/6a/jwbrd_E_201502_02.vtt",
+                "modifiedDatetime": "2020-11-19T13:22:52.000Z",
+                "checksum": "180fe0f27835179828d69baf881bb91a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/15/jwbrd_E_201502_02_r480P.mp4",
+            "checksum": "e597991685a601e8fcd2ee23c461f931",
+            "filesize": 51911697,
+            "modifiedDatetime": "2020-11-19T13:23:11.000Z",
+            "bitRate": 1189.6154571713937,
+            "duration": 340.917,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/6a/jwbrd_E_201502_02.vtt",
+                "modifiedDatetime": "2020-11-19T13:22:52.000Z",
+                "checksum": "180fe0f27835179828d69baf881bb91a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/ca/jwbrd_E_201502_02_r720P.mp4",
+            "checksum": "3299228bbae78f7af8cc6d6b270cfc93",
+            "filesize": 85747304,
+            "modifiedDatetime": "2020-11-19T13:23:16.000Z",
+            "bitRate": 1964.99679540768,
+            "duration": 340.917,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/6a/jwbrd_E_201502_02.vtt",
+                "modifiedDatetime": "2020-11-19T13:22:52.000Z",
+                "checksum": "180fe0f27835179828d69baf881bb91a"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwbrd.201502-2.v",
+        "jwbrd.201502-2"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/6a/jwbrd_E_201502_02.vtt",
+    "Name": "pub-jwbrd_E_201502_2_VIDEO",
+    "Title": "Showing Hospitality at International Conventions",
+    "UndatedReferenceTitle": "Showing Hospitality at International Conventions",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2015,
+    "Symbol": "VODActivitiesSpecialEvents"
+}

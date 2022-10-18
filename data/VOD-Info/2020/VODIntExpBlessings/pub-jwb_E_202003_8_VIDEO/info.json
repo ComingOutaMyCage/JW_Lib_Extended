@@ -1,0 +1,102 @@
+{
+    "guid": "5e2775a8faacdecc13440585",
+    "languageAgnosticNaturalKey": "pub-jwb_202003_8_VIDEO",
+    "naturalKey": "pub-jwb_E_202003_8_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpBlessings",
+    "description": "",
+    "firstPublished": "2020-03-16T21:37:52.580Z",
+    "duration": 705.323,
+    "durationFormattedHHMM": "11:45",
+    "durationFormattedMinSec": "11m 45s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/e5/jwb_E_202003_08_r240P.mp4",
+            "checksum": "cce8bf365325792655d0d4ab9301eff0",
+            "filesize": 12872587,
+            "modifiedDatetime": "2020-10-18T03:00:33.000Z",
+            "bitRate": 142.58302357572347,
+            "duration": 705.323,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.268,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/16/jwb_E_202003_08.vtt",
+                "modifiedDatetime": "2020-03-16T20:11:50.000Z",
+                "checksum": "f5e8029439488ed00466315428ccfe7e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/d7/jwb_E_202003_08_r360P.mp4",
+            "checksum": "1f8c4f51c32b9362aa119fcb664a4b3c",
+            "filesize": 24864972,
+            "modifiedDatetime": "2020-03-16T20:11:37.000Z",
+            "bitRate": 275.4329036937051,
+            "duration": 705.281,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/16/jwb_E_202003_08.vtt",
+                "modifiedDatetime": "2020-03-16T20:11:50.000Z",
+                "checksum": "f5e8029439488ed00466315428ccfe7e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/4d/jwb_E_202003_08_r480P.mp4",
+            "checksum": "79fb5cd8971f86ef43f45c9e52a8aa9e",
+            "filesize": 43207397,
+            "modifiedDatetime": "2020-03-16T20:11:41.000Z",
+            "bitRate": 478.614607599666,
+            "duration": 705.281,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/16/jwb_E_202003_08.vtt",
+                "modifiedDatetime": "2020-03-16T20:11:50.000Z",
+                "checksum": "f5e8029439488ed00466315428ccfe7e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/24/jwb_E_202003_08_r720P.mp4",
+            "checksum": "a429b1a53a11d3384afa08292586aeee",
+            "filesize": 69034621,
+            "modifiedDatetime": "2020-03-16T20:11:46.000Z",
+            "bitRate": 764.7065163566011,
+            "duration": 705.281,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/16/jwb_E_202003_08.vtt",
+                "modifiedDatetime": "2020-03-16T20:11:50.000Z",
+                "checksum": "f5e8029439488ed00466315428ccfe7e"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202003-8.v",
+        "jwb.202003-8"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/16/jwb_E_202003_08.vtt",
+    "Name": "pub-jwb_E_202003_8_VIDEO",
+    "Title": "Robert P. Johnson: From Youth, a Life Dedicated to Jehovah",
+    "UndatedReferenceTitle": "Robert P. Johnson: From Youth, a Life Dedicated to Jehovah",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODIntExpBlessings"
+}

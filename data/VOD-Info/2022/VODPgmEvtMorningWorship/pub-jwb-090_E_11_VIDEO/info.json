@@ -1,0 +1,102 @@
+{
+    "guid": "62bb42855649d905f6a85a84",
+    "languageAgnosticNaturalKey": "pub-jwb-090_11_VIDEO",
+    "naturalKey": "pub-jwb-090_E_11_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2022-09-16T14:43:56.807Z",
+    "duration": 581.803,
+    "durationFormattedHHMM": "9:41",
+    "durationFormattedMinSec": "9m 41s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/b9/jwb-090_E_11_r240P.mp4",
+            "checksum": "c7ab4e9d5133f84bee0b3bff0eec14f6",
+            "filesize": 12075255,
+            "modifiedDatetime": "2022-09-16T14:33:49.000Z",
+            "bitRate": 162.1475476879631,
+            "duration": 581.803,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/2f/jwb-090_E_11.vtt",
+                "modifiedDatetime": "2022-09-16T14:33:36.000Z",
+                "checksum": "4167a68d8bc81c22b6064cd9eea47fdc"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/8a/jwb-090_E_11_r360P.mp4",
+            "checksum": "dd746c609739415dc332658fdbe0d278",
+            "filesize": 19922449,
+            "modifiedDatetime": "2022-09-16T14:33:46.000Z",
+            "bitRate": 267.5203338801966,
+            "duration": 581.803,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/2f/jwb-090_E_11.vtt",
+                "modifiedDatetime": "2022-09-16T14:33:36.000Z",
+                "checksum": "4167a68d8bc81c22b6064cd9eea47fdc"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/51/jwb-090_E_11_r480P.mp4",
+            "checksum": "dad67c4cb40dc74d93fe82381f6ce851",
+            "filesize": 35092915,
+            "modifiedDatetime": "2022-09-16T14:33:43.000Z",
+            "bitRate": 471.23063723889356,
+            "duration": 581.803,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/2f/jwb-090_E_11.vtt",
+                "modifiedDatetime": "2022-09-16T14:33:36.000Z",
+                "checksum": "4167a68d8bc81c22b6064cd9eea47fdc"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/30/jwb-090_E_11_r720P.mp4",
+            "checksum": "f0af577f598c8b58fe28f8f7c08e93fe",
+            "filesize": 60493082,
+            "modifiedDatetime": "2022-09-16T14:33:38.000Z",
+            "bitRate": 812.3062327368542,
+            "duration": 581.803,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/2f/jwb-090_E_11.vtt",
+                "modifiedDatetime": "2022-09-16T14:33:36.000Z",
+                "checksum": "4167a68d8bc81c22b6064cd9eea47fdc"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-090-11.v",
+        "jwb-090-11"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/2f/jwb-090_E_11.vtt",
+    "Name": "pub-jwb-090_E_11_VIDEO",
+    "Title": "Kenneth Cook, Jr.: “Hold Fast to What You Have Until I Come” (Rev. 2:25)",
+    "UndatedReferenceTitle": "Kenneth Cook, Jr.: “Hold Fast to What You Have Until I Come” (Rev. 2:25)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

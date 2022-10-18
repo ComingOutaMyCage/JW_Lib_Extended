@@ -1,0 +1,102 @@
+{
+    "guid": "62bc9c135649d905f6b0dd38",
+    "languageAgnosticNaturalKey": "docid-502200119_1_VIDEO",
+    "naturalKey": "docid-502200119_E_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesWasItDesigned",
+    "description": "",
+    "firstPublished": "2022-08-11T13:42:42.593Z",
+    "duration": 230.72,
+    "durationFormattedHHMM": "3:50",
+    "durationFormattedMinSec": "3m 50s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/1d/502200119_E_cnt_1_r240P.mp4",
+            "checksum": "fa267f8c65d5076c0e2542dd89762c52",
+            "filesize": 4774903,
+            "modifiedDatetime": "2022-08-11T13:17:06.000Z",
+            "bitRate": 161.68485474817962,
+            "duration": 230.72,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/3a/502200119_E_cnt_1.vtt",
+                "modifiedDatetime": "2022-08-11T13:16:50.000Z",
+                "checksum": "c9c37c435227ff969496a156f7da11ee"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/3f/502200119_E_cnt_1_r360P.mp4",
+            "checksum": "cdc033d355b6b1387c7faa16f7a12c93",
+            "filesize": 9294991,
+            "modifiedDatetime": "2022-08-11T13:16:58.000Z",
+            "bitRate": 314.76996947320964,
+            "duration": 230.699,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/3a/502200119_E_cnt_1.vtt",
+                "modifiedDatetime": "2022-08-11T13:16:50.000Z",
+                "checksum": "c9c37c435227ff969496a156f7da11ee"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/55/502200119_E_cnt_1_r480P.mp4",
+            "checksum": "f6b85873fc11829a29b424620493aa47",
+            "filesize": 17555018,
+            "modifiedDatetime": "2022-08-11T13:16:55.000Z",
+            "bitRate": 594.491428766488,
+            "duration": 230.699,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/3a/502200119_E_cnt_1.vtt",
+                "modifiedDatetime": "2022-08-11T13:16:50.000Z",
+                "checksum": "c9c37c435227ff969496a156f7da11ee"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/ca/502200119_E_cnt_1_r720P.mp4",
+            "checksum": "33a4452b0677c25afac3935fa4cb7502",
+            "filesize": 29712884,
+            "modifiedDatetime": "2022-08-11T13:16:53.000Z",
+            "bitRate": 1006.2111506768559,
+            "duration": 230.699,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/3a/502200119_E_cnt_1.vtt",
+                "modifiedDatetime": "2022-08-11T13:16:50.000Z",
+                "checksum": "c9c37c435227ff969496a156f7da11ee"
+            }
+        }
+    ],
+    "printReferences": [
+        "502200119-1.v",
+        "502200119-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/content_assets/3a/502200119_E_cnt_1.vtt",
+    "Name": "docid-502200119_E_1_VIDEO",
+    "Title": "Was It Designed? Light From Life",
+    "UndatedReferenceTitle": "Was It Designed? Light From Life",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "SeriesWasItDesigned"
+}

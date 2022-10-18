@@ -1,0 +1,102 @@
+{
+    "guid": "5d837c33ad989978fb7b5193",
+    "languageAgnosticNaturalKey": "pub-jwb_202002_5_VIDEO",
+    "naturalKey": "pub-jwb_E_202002_5_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpBlessings",
+    "description": "",
+    "firstPublished": "2020-02-17T13:35:04.447Z",
+    "duration": 253.91,
+    "durationFormattedHHMM": "4:13",
+    "durationFormattedMinSec": "4m 13s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/f1/jwb_E_202002_05_r240P.mp4",
+            "checksum": "5cdf13ee0cf83ea6de6cd63383bd7361",
+            "filesize": 6671542,
+            "modifiedDatetime": "2020-10-18T02:59:00.000Z",
+            "bitRate": 205.2751836280572,
+            "duration": 253.91,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.669,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/25/jwb_E_202002_05.vtt",
+                "modifiedDatetime": "2020-02-17T13:21:31.000Z",
+                "checksum": "d783427075f1a15a7d0b56951226e757"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/12/jwb_E_202002_05_r360P.mp4",
+            "checksum": "4f378432244276795ced1945de430eca",
+            "filesize": 13157182,
+            "modifiedDatetime": "2020-02-17T13:21:21.000Z",
+            "bitRate": 404.87822741058767,
+            "duration": 253.88,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/25/jwb_E_202002_05.vtt",
+                "modifiedDatetime": "2020-02-17T13:21:31.000Z",
+                "checksum": "d783427075f1a15a7d0b56951226e757"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/7b/jwb_E_202002_05_r480P.mp4",
+            "checksum": "e4261c20a04dae7bab1091dbcccecf86",
+            "filesize": 24866732,
+            "modifiedDatetime": "2020-02-17T13:21:24.000Z",
+            "bitRate": 765.2093262564991,
+            "duration": 253.88,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/25/jwb_E_202002_05.vtt",
+                "modifiedDatetime": "2020-02-17T13:21:31.000Z",
+                "checksum": "d783427075f1a15a7d0b56951226e757"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/4b/jwb_E_202002_05_r720P.mp4",
+            "checksum": "4769d9171c9e7c37a4d92ffd000418ce",
+            "filesize": 42092718,
+            "modifiedDatetime": "2020-02-17T13:21:27.000Z",
+            "bitRate": 1295.2944673664724,
+            "duration": 253.88,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/25/jwb_E_202002_05.vtt",
+                "modifiedDatetime": "2020-02-17T13:21:31.000Z",
+                "checksum": "d783427075f1a15a7d0b56951226e757"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202002-5.v",
+        "jwb.202002-5"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/25/jwb_E_202002_05.vtt",
+    "Name": "pub-jwb_E_202002_5_VIDEO",
+    "Title": "Dale and Nadja Bode: Jehovah Helped Us Raise Nine Children in Alaska",
+    "UndatedReferenceTitle": "Dale and Nadja Bode: Jehovah Helped Us Raise Nine Children in Alaska",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODIntExpBlessings"
+}

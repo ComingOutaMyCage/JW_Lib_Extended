@@ -1,0 +1,102 @@
+{
+    "guid": "6215095c57c50ea1eb64e581",
+    "languageAgnosticNaturalKey": "pub-jwb-088_14_VIDEO",
+    "naturalKey": "pub-jwb-088_E_14_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2022-04-22T11:43:10.381Z",
+    "duration": 631.638,
+    "durationFormattedHHMM": "10:31",
+    "durationFormattedMinSec": "10m 31s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/7e/jwb-088_E_14_r240P.mp4",
+            "checksum": "f77eb06d8f4352e14e492205b21c8288",
+            "filesize": 9372302,
+            "modifiedDatetime": "2022-04-22T11:42:48.000Z",
+            "bitRate": 115.92258441544048,
+            "duration": 631.638,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.297,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/f5/jwb-088_E_14.vtt",
+                "modifiedDatetime": "2022-04-22T11:42:35.000Z",
+                "checksum": "7ca1c0c5ebb4633adbe375c3983a7d2c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/71/jwb-088_E_14_r360P.mp4",
+            "checksum": "d1a7d5e6e8dd71628e1baacaea28c4f2",
+            "filesize": 18192911,
+            "modifiedDatetime": "2022-04-22T11:42:46.000Z",
+            "bitRate": 225.03252368561465,
+            "duration": 631.607,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/f5/jwb-088_E_14.vtt",
+                "modifiedDatetime": "2022-04-22T11:42:35.000Z",
+                "checksum": "7ca1c0c5ebb4633adbe375c3983a7d2c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/00/jwb-088_E_14_r480P.mp4",
+            "checksum": "817f79bbbb5eb3dccd9376e5a484a0b7",
+            "filesize": 30932819,
+            "modifiedDatetime": "2022-04-22T11:42:43.000Z",
+            "bitRate": 382.61553218615376,
+            "duration": 631.607,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/f5/jwb-088_E_14.vtt",
+                "modifiedDatetime": "2022-04-22T11:42:35.000Z",
+                "checksum": "7ca1c0c5ebb4633adbe375c3983a7d2c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/a7/jwb-088_E_14_r720P.mp4",
+            "checksum": "153d0652933dd7a43b88b84ba36e53fd",
+            "filesize": 54565923,
+            "modifiedDatetime": "2022-04-22T11:42:36.000Z",
+            "bitRate": 674.9391210634145,
+            "duration": 631.607,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/f5/jwb-088_E_14.vtt",
+                "modifiedDatetime": "2022-04-22T11:42:35.000Z",
+                "checksum": "7ca1c0c5ebb4633adbe375c3983a7d2c"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-088-14.v",
+        "jwb-088-14"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/f5/jwb-088_E_14.vtt",
+    "Name": "pub-jwb-088_E_14_VIDEO",
+    "Title": "Seth Hyatt: Choose “the Good Portion” (Luke 10:42)",
+    "UndatedReferenceTitle": "Seth Hyatt: Choose “the Good Portion” (Luke 10:42)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "5c461562351dc4182b66240a",
+    "languageAgnosticNaturalKey": "pub-jwb_201903_3_VIDEO",
+    "naturalKey": "pub-jwb_E_201903_3_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODBiblePrinciples",
+    "description": "",
+    "firstPublished": "2019-03-18T20:43:40.655Z",
+    "duration": 265.302,
+    "durationFormattedHHMM": "4:25",
+    "durationFormattedMinSec": "4m 25s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/9d/jwb_E_201903_03_r240P.mp4",
+            "checksum": "99ce3415ad544a5b88b8c83c34065dc1",
+            "filesize": 7680039,
+            "modifiedDatetime": "2020-11-12T21:19:19.000Z",
+            "bitRate": 226.1585087466359,
+            "duration": 265.302,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.715,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/5e/jwb_E_201903_03.vtt",
+                "modifiedDatetime": "2019-03-18T20:33:22.000Z",
+                "checksum": "cea34a4699596137fadfe98ad9cb174b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/b3/jwb_E_201903_03_r360P.mp4",
+            "checksum": "062ca08a84f3c2aff4653f1ac0c0b2cf",
+            "filesize": 13499726,
+            "modifiedDatetime": "2019-03-18T19:27:04.000Z",
+            "bitRate": 397.5881167394238,
+            "duration": 265.266,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/5e/jwb_E_201903_03.vtt",
+                "modifiedDatetime": "2019-03-18T20:33:22.000Z",
+                "checksum": "cea34a4699596137fadfe98ad9cb174b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/81/jwb_E_201903_03_r480P.mp4",
+            "checksum": "6bbee3566200970e0d9ef5dbe739a47f",
+            "filesize": 24149536,
+            "modifiedDatetime": "2019-03-18T19:27:14.000Z",
+            "bitRate": 711.2417347115725,
+            "duration": 265.266,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/5e/jwb_E_201903_03.vtt",
+                "modifiedDatetime": "2019-03-18T20:33:22.000Z",
+                "checksum": "cea34a4699596137fadfe98ad9cb174b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/93/jwb_E_201903_03_r720P.mp4",
+            "checksum": "6f0d1ba8e4e9171e2955e091961b6dcb",
+            "filesize": 38958076,
+            "modifiedDatetime": "2019-03-18T19:27:43.000Z",
+            "bitRate": 1147.3764777619444,
+            "duration": 265.266,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/5e/jwb_E_201903_03.vtt",
+                "modifiedDatetime": "2019-03-18T20:33:22.000Z",
+                "checksum": "cea34a4699596137fadfe98ad9cb174b"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201903-3.v",
+        "jwb.201903-3"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/5e/jwb_E_201903_03.vtt",
+    "Name": "pub-jwb_E_201903_3_VIDEO",
+    "Title": "Maintain Neutrality at Public Events",
+    "UndatedReferenceTitle": "Maintain Neutrality at Public Events",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODBiblePrinciples"
+}

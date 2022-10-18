@@ -1,0 +1,102 @@
+{
+    "guid": "5ef269ceaf341cff1308623f",
+    "languageAgnosticNaturalKey": "pub-jwb_202012_4_VIDEO",
+    "naturalKey": "pub-jwb_E_202012_4_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpBlessings",
+    "description": "",
+    "firstPublished": "2020-12-21T15:16:51.431Z",
+    "duration": 299.884,
+    "durationFormattedHHMM": "4:59",
+    "durationFormattedMinSec": "4m 59s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/ea/jwb_E_202012_04_r240P.mp4",
+            "checksum": "f7d44e16817380f2fb27ee7cc6c6ff0f",
+            "filesize": 7505674,
+            "modifiedDatetime": "2020-12-21T15:05:08.000Z",
+            "bitRate": 195.50848584317467,
+            "duration": 299.926,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.669,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/30/jwb_E_202012_04.vtt",
+                "modifiedDatetime": "2020-12-21T15:05:18.000Z",
+                "checksum": "0379499d4843d827e3c6d5153d3c6c0f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/03/jwb_E_202012_04_r360P.mp4",
+            "checksum": "c14b5295e4b669f3ef882fff62c48b6c",
+            "filesize": 14292465,
+            "modifiedDatetime": "2020-12-21T15:05:11.000Z",
+            "bitRate": 372.34358222679435,
+            "duration": 299.884,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/30/jwb_E_202012_04.vtt",
+                "modifiedDatetime": "2020-12-21T15:05:18.000Z",
+                "checksum": "0379499d4843d827e3c6d5153d3c6c0f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/4d/jwb_E_202012_04_r480P.mp4",
+            "checksum": "3b7888753b3aeed78a62f9b9db5b5c21",
+            "filesize": 25943912,
+            "modifiedDatetime": "2020-12-21T15:05:13.000Z",
+            "bitRate": 675.8840501660642,
+            "duration": 299.884,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/30/jwb_E_202012_04.vtt",
+                "modifiedDatetime": "2020-12-21T15:05:18.000Z",
+                "checksum": "0379499d4843d827e3c6d5153d3c6c0f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/2c/jwb_E_202012_04_r720P.mp4",
+            "checksum": "7191235476ae9d4aa46a4e554aad0ea8",
+            "filesize": 42285572,
+            "modifiedDatetime": "2020-12-21T15:05:15.000Z",
+            "bitRate": 1101.6127277547318,
+            "duration": 299.884,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/30/jwb_E_202012_04.vtt",
+                "modifiedDatetime": "2020-12-21T15:05:18.000Z",
+                "checksum": "0379499d4843d827e3c6d5153d3c6c0f"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202012-4.v",
+        "jwb.202012-4"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/30/jwb_E_202012_04.vtt",
+    "Name": "pub-jwb_E_202012_4_VIDEO",
+    "Title": "Cecilio and Schera Livingston: Build Bible Students That Will Last Forever",
+    "UndatedReferenceTitle": "Cecilio and Schera Livingston: Build Bible Students That Will Last Forever",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODIntExpBlessings"
+}

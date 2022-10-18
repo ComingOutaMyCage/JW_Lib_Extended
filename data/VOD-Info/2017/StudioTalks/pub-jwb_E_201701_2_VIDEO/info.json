@@ -1,0 +1,178 @@
+{
+    "guid": "585453bf0023ee44860f99ed",
+    "languageAgnosticNaturalKey": "pub-jwb_201701_2_VIDEO",
+    "naturalKey": "pub-jwb_E_201701_2_VIDEO",
+    "type": "video",
+    "primaryCategory": "StudioTalks",
+    "description": "",
+    "firstPublished": "2017-01-16T13:23:02.686Z",
+    "duration": 996.531,
+    "durationFormattedHHMM": "16:36",
+    "durationFormattedMinSec": "16m 36s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/17/jwb_E_201701_02_r240P.mp4",
+            "checksum": "25792786bb1dada6ae4d89d5d312d7ad",
+            "filesize": 58065520,
+            "modifiedDatetime": "2020-11-04T21:05:36.000Z",
+            "bitRate": 455.2324647890857,
+            "duration": 996.495,
+            "frameHeight": 180,
+            "frameWidth": 320,
+            "label": "240p",
+            "frameRate": 30,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/28/jwb_E_201701_02_r240P.vtt",
+                "modifiedDatetime": "2019-02-17T00:52:38.000Z",
+                "checksum": "4d61fae43fcc07785ce5d7e4535cb307"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/f5/jwb_s-Sub_E_201701_02_r240P.mp4",
+            "checksum": "947301c6c2da389da00bac1a0d65d942",
+            "filesize": 45073346,
+            "modifiedDatetime": "2020-11-24T00:09:09.000Z",
+            "bitRate": 353.3613260651199,
+            "duration": 996.531,
+            "frameHeight": 180,
+            "frameWidth": 320,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": true,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/28/jwb_E_201701_02_r240P.vtt",
+                "modifiedDatetime": "2019-02-17T00:52:38.000Z",
+                "checksum": "4d61fae43fcc07785ce5d7e4535cb307"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/16/jwb_E_201701_02_r360P.mp4",
+            "checksum": "1149e3b886dcc9bfcca4be2a0a7c372f",
+            "filesize": 101660121,
+            "modifiedDatetime": "2019-02-18T01:13:46.000Z",
+            "bitRate": 797.0132266719853,
+            "duration": 996.495,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 30,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/1c/jwb_E_201701_02_r360P.vtt",
+                "modifiedDatetime": "2019-02-18T01:13:46.000Z",
+                "checksum": "4d61fae43fcc07785ce5d7e4535cb307"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/8c/jwb_s-Sub_E_201701_02_r360P.mp4",
+            "checksum": "69e9093b6ef6908ed61f1e30e61f55d8",
+            "filesize": 101992069,
+            "modifiedDatetime": "2019-02-18T02:04:26.000Z",
+            "bitRate": 799.6152908492813,
+            "duration": 996.4955,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 44.056,
+            "mimetype": "video/mp4",
+            "subtitled": true,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/1c/jwb_E_201701_02_r360P.vtt",
+                "modifiedDatetime": "2019-02-18T01:13:46.000Z",
+                "checksum": "4d61fae43fcc07785ce5d7e4535cb307"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/a8/jwb_s-Sub_E_201701_02_r480P.mp4",
+            "checksum": "5f217c58fe20b48f5a21160ae686d820",
+            "filesize": 139913933,
+            "modifiedDatetime": "2019-02-18T02:04:45.000Z",
+            "bitRate": 1096.9217638840316,
+            "duration": 996.4955,
+            "frameHeight": 480,
+            "frameWidth": 854,
+            "label": "480p",
+            "frameRate": 44.056,
+            "mimetype": "video/mp4",
+            "subtitled": true,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/19/jwb_E_201701_02_r480P.vtt",
+                "modifiedDatetime": "2019-02-18T01:14:02.000Z",
+                "checksum": "4d61fae43fcc07785ce5d7e4535cb307"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/08/jwb_E_201701_02_r480P.mp4",
+            "checksum": "1a2a4177419525d9478339159a1f653b",
+            "filesize": 137521786,
+            "modifiedDatetime": "2019-02-18T01:14:02.000Z",
+            "bitRate": 1078.1679317256985,
+            "duration": 996.495,
+            "frameHeight": 480,
+            "frameWidth": 854,
+            "label": "480p",
+            "frameRate": 30,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/19/jwb_E_201701_02_r480P.vtt",
+                "modifiedDatetime": "2019-02-18T01:14:02.000Z",
+                "checksum": "4d61fae43fcc07785ce5d7e4535cb307"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/60/jwb_s-Sub_E_201701_02_r720P.mp4",
+            "checksum": "9eecc0c81c9383d7e63446cb5aa9707e",
+            "filesize": 202206413,
+            "modifiedDatetime": "2019-02-18T02:05:10.000Z",
+            "bitRate": 1585.2932617984727,
+            "duration": 996.4955,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 44.056,
+            "mimetype": "video/mp4",
+            "subtitled": true,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/5b/jwb_E_201701_02_r720P.vtt",
+                "modifiedDatetime": "2019-02-18T01:14:17.000Z",
+                "checksum": "4d61fae43fcc07785ce5d7e4535cb307"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/88/jwb_E_201701_02_r720P.mp4",
+            "checksum": "48041035cd5644e8d1c4b2598fbb9db4",
+            "filesize": 195593684,
+            "modifiedDatetime": "2019-02-18T01:14:17.000Z",
+            "bitRate": 1533.4503999016554,
+            "duration": 996.495,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 30,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/5b/jwb_E_201701_02_r720P.vtt",
+                "modifiedDatetime": "2019-02-18T01:14:17.000Z",
+                "checksum": "4d61fae43fcc07785ce5d7e4535cb307"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201701-2.v",
+        "jwb.201701-2"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/28/jwb_E_201701_02_r240P.vtt",
+    "Name": "pub-jwb_E_201701_2_VIDEO",
+    "Title": "Mark Sanderson: “The Word of Our God Endures Forever”",
+    "UndatedReferenceTitle": "Mark Sanderson: “The Word of Our God Endures Forever”",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2017,
+    "Symbol": "StudioTalks"
+}

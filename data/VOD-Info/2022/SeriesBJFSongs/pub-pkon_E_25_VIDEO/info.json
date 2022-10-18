@@ -1,0 +1,102 @@
+{
+    "guid": "620ba71957c50ea1eb20f3dd",
+    "languageAgnosticNaturalKey": "pub-pkon_25_VIDEO",
+    "naturalKey": "pub-pkon_E_25_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBJFSongs",
+    "description": "",
+    "firstPublished": "2022-03-14T14:55:59.013Z",
+    "duration": 143.424,
+    "durationFormattedHHMM": "2:23",
+    "durationFormattedMinSec": "2m 23s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/d6/pkon_E_025_r240P.mp4",
+            "checksum": "09c315d6d6267fc942916ef20888e2d7",
+            "filesize": 4143349,
+            "modifiedDatetime": "2022-03-14T02:55:57.000Z",
+            "bitRate": 225.69384525951025,
+            "duration": 143.424,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.622,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/00/pkon_E_025.vtt",
+                "modifiedDatetime": "2022-03-14T02:55:43.000Z",
+                "checksum": "368cc5108f4e806688274a4766fe28d3"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/58/pkon_E_025_r360P.mp4",
+            "checksum": "d9c29d7d58835a83e8d00b38d25a9527",
+            "filesize": 7119309,
+            "modifiedDatetime": "2022-03-14T02:55:54.000Z",
+            "bitRate": 387.87685458000624,
+            "duration": 143.395,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/00/pkon_E_025.vtt",
+                "modifiedDatetime": "2022-03-14T02:55:43.000Z",
+                "checksum": "368cc5108f4e806688274a4766fe28d3"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/c2/pkon_E_025_r480P.mp4",
+            "checksum": "70245f498dcadf8eb174e5ed3456c633",
+            "filesize": 11938407,
+            "modifiedDatetime": "2022-03-14T02:55:52.000Z",
+            "bitRate": 650.432753495589,
+            "duration": 143.395,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/00/pkon_E_025.vtt",
+                "modifiedDatetime": "2022-03-14T02:55:43.000Z",
+                "checksum": "368cc5108f4e806688274a4766fe28d3"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/2d/pkon_E_025_r720P.mp4",
+            "checksum": "1e0b04931b51948c7392785c4b69dbbc",
+            "filesize": 18305565,
+            "modifiedDatetime": "2022-03-14T02:55:46.000Z",
+            "bitRate": 997.3306360926113,
+            "duration": 143.395,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/00/pkon_E_025.vtt",
+                "modifiedDatetime": "2022-03-14T02:55:43.000Z",
+                "checksum": "368cc5108f4e806688274a4766fe28d3"
+            }
+        }
+    ],
+    "printReferences": [
+        "pkon-25.v",
+        "pkon-25"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/00/pkon_E_025.vtt",
+    "Name": "pub-pkon_E_25_VIDEO",
+    "Title": "Little One",
+    "UndatedReferenceTitle": "Little One",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "SeriesBJFSongs"
+}

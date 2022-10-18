@@ -1,0 +1,102 @@
+{
+    "guid": "623a0f00dedf1bc789e4319c",
+    "languageAgnosticNaturalKey": "pub-jwb-089_16_VIDEO",
+    "naturalKey": "pub-jwb-089_E_16_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODActivitiesAVProduction",
+    "description": "",
+    "firstPublished": "2022-05-30T19:21:45.069Z",
+    "duration": 335.616,
+    "durationFormattedHHMM": "5:35",
+    "durationFormattedMinSec": "5m 35s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/ff/jwb-089_E_16_r240P.mp4",
+            "checksum": "865f579f183bbf95843890da6f1bcca3",
+            "filesize": 7605842,
+            "modifiedDatetime": "2022-05-30T04:06:47.000Z",
+            "bitRate": 177.04948698810546,
+            "duration": 335.616,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/42/jwb-089_E_16.vtt",
+                "modifiedDatetime": "2022-05-30T04:06:29.000Z",
+                "checksum": "95dd675082d830e9ab8606a3353f9337"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/bc/jwb-089_E_16_r360P.mp4",
+            "checksum": "c6f72ff6a3a982f5f33e36fdd7c79328",
+            "filesize": 14563525,
+            "modifiedDatetime": "2022-05-30T04:06:42.000Z",
+            "bitRate": 339.032283146352,
+            "duration": 335.595,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/42/jwb-089_E_16.vtt",
+                "modifiedDatetime": "2022-05-30T04:06:29.000Z",
+                "checksum": "95dd675082d830e9ab8606a3353f9337"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/35/jwb-089_E_16_r480P.mp4",
+            "checksum": "331e24b752a51c3cd70c58326b34713f",
+            "filesize": 26077995,
+            "modifiedDatetime": "2022-05-30T04:06:37.000Z",
+            "bitRate": 607.0839432574978,
+            "duration": 335.595,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/42/jwb-089_E_16.vtt",
+                "modifiedDatetime": "2022-05-30T04:06:29.000Z",
+                "checksum": "95dd675082d830e9ab8606a3353f9337"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/4f/jwb-089_E_16_r720P.mp4",
+            "checksum": "f11b8df0da4387edcf7b2730e6dc297c",
+            "filesize": 43568406,
+            "modifiedDatetime": "2022-05-30T04:06:33.000Z",
+            "bitRate": 1014.2528103070665,
+            "duration": 335.595,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/42/jwb-089_E_16.vtt",
+                "modifiedDatetime": "2022-05-30T04:06:29.000Z",
+                "checksum": "95dd675082d830e9ab8606a3353f9337"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-089-16.v",
+        "jwb-089-16"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/42/jwb-089_E_16.vtt",
+    "Name": "pub-jwb-089_E_16_VIDEO",
+    "Title": "A Decade of Animated Bible Lessons",
+    "UndatedReferenceTitle": "A Decade of Animated Bible Lessons",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODActivitiesAVProduction"
+}

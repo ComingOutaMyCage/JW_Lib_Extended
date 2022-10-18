@@ -1,0 +1,102 @@
+{
+    "guid": "5f52ab5f20de59c21cd87d53",
+    "languageAgnosticNaturalKey": "pub-jwb_202010_2_VIDEO",
+    "naturalKey": "pub-jwb_E_202010_2_VIDEO",
+    "type": "video",
+    "primaryCategory": "StudioTalks",
+    "description": "",
+    "firstPublished": "2020-10-19T12:47:42.905Z",
+    "duration": 933.206,
+    "durationFormattedHHMM": "15:33",
+    "durationFormattedMinSec": "15m 33s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/07/jwb_E_202010_02_r240P.mp4",
+            "checksum": "f9d6767ca1e23757d6dc0c014be299a0",
+            "filesize": 17053142,
+            "modifiedDatetime": "2020-10-19T12:43:39.000Z",
+            "bitRate": 142.76341116002254,
+            "duration": 933.206,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.183,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/6f/jwb_E_202010_02.vtt",
+                "modifiedDatetime": "2020-10-19T12:43:35.000Z",
+                "checksum": "7151a40dccf91a26623dd845085dfd98"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/32/jwb_E_202010_02_r360P.mp4",
+            "checksum": "4a607971d7a03ce130d43bb7ef389d1d",
+            "filesize": 32873198,
+            "modifiedDatetime": "2020-10-19T12:43:40.000Z",
+            "bitRate": 275.21296581562945,
+            "duration": 933.175,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/6f/jwb_E_202010_02.vtt",
+                "modifiedDatetime": "2020-10-19T12:43:35.000Z",
+                "checksum": "7151a40dccf91a26623dd845085dfd98"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/66/jwb_E_202010_02_r480P.mp4",
+            "checksum": "3b666cee32736b57794462b9a0a50d31",
+            "filesize": 55712566,
+            "modifiedDatetime": "2020-10-19T12:43:43.000Z",
+            "bitRate": 466.42314879309885,
+            "duration": 933.175,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/6f/jwb_E_202010_02.vtt",
+                "modifiedDatetime": "2020-10-19T12:43:35.000Z",
+                "checksum": "7151a40dccf91a26623dd845085dfd98"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/f4/jwb_E_202010_02_r720P.mp4",
+            "checksum": "9bc5ac957b9230d1eda5fc8883f4aabb",
+            "filesize": 85538905,
+            "modifiedDatetime": "2020-10-19T12:43:45.000Z",
+            "bitRate": 716.1279452541056,
+            "duration": 933.175,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/6f/jwb_E_202010_02.vtt",
+                "modifiedDatetime": "2020-10-19T12:43:35.000Z",
+                "checksum": "7151a40dccf91a26623dd845085dfd98"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202010-2.v",
+        "jwb.202010-2"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/6f/jwb_E_202010_02.vtt",
+    "Name": "pub-jwb_E_202010_2_VIDEO",
+    "Title": "Geoffrey W. Jackson: \"Pray Continually, So That You May Not Enter Into Temptation\"",
+    "UndatedReferenceTitle": "Geoffrey W. Jackson: \"Pray Continually, So That You May Not Enter Into Temptation\"",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "StudioTalks"
+}

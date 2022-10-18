@@ -1,0 +1,102 @@
+{
+    "guid": "61b274a1d4a4e5a33234cdf4",
+    "languageAgnosticNaturalKey": "pub-jwb-086_1_VIDEO",
+    "naturalKey": "pub-jwb-086_E_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "StudioMonthlyPrograms",
+    "description": "",
+    "firstPublished": "2022-01-03T16:34:37.878Z",
+    "duration": 7103.764,
+    "durationFormattedHHMM": "1:58:23",
+    "durationFormattedMinSec": "1h 58m 23s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/87/jwb-086_E_01_r240P.mp4",
+            "checksum": "95741032f84548dd16da049fa6e05c52",
+            "filesize": 64933671,
+            "modifiedDatetime": "2022-01-03T04:46:45.000Z",
+            "bitRate": 71.41204362750508,
+            "duration": 7103.764,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/61/jwb-086_E_01.vtt",
+                "modifiedDatetime": "2022-01-03T04:45:55.000Z",
+                "checksum": "2a06f9ca06ef9b71c4eabb35dfcaabf1"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/20/jwb-086_E_01_r360P.mp4",
+            "checksum": "27a8a9cbad841d37c9642ad485c2f772",
+            "filesize": 275449323,
+            "modifiedDatetime": "2022-01-03T04:46:36.000Z",
+            "bitRate": 302.93320723069263,
+            "duration": 7103.704,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/61/jwb-086_E_01.vtt",
+                "modifiedDatetime": "2022-01-03T04:45:55.000Z",
+                "checksum": "2a06f9ca06ef9b71c4eabb35dfcaabf1"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/ad/jwb-086_E_01_r480P.mp4",
+            "checksum": "f5428f335eb98e3ad5352ca1a9ca5d66",
+            "filesize": 499625628,
+            "modifiedDatetime": "2022-01-03T04:46:18.000Z",
+            "bitRate": 549.4774583442667,
+            "duration": 7103.704,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/61/jwb-086_E_01.vtt",
+                "modifiedDatetime": "2022-01-03T04:45:55.000Z",
+                "checksum": "2a06f9ca06ef9b71c4eabb35dfcaabf1"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/50/jwb-086_E_01_r720P.mp4",
+            "checksum": "a2f0ad7c20ac6d9cbbc0351322480ec5",
+            "filesize": 841677278,
+            "modifiedDatetime": "2022-01-03T04:46:00.000Z",
+            "bitRate": 925.6584641441987,
+            "duration": 7103.704,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/61/jwb-086_E_01.vtt",
+                "modifiedDatetime": "2022-01-03T04:45:55.000Z",
+                "checksum": "2a06f9ca06ef9b71c4eabb35dfcaabf1"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-086-1.v",
+        "jwb-086-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/61/jwb-086_E_01.vtt",
+    "Name": "pub-jwb-086_E_1_VIDEO",
+    "Title": "JW Broadcasting—January 2022: Annual Meeting 2021, Part 1",
+    "UndatedReferenceTitle": "JW Broadcasting—January 2022: Annual Meeting 2021, Part 1",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "StudioMonthlyPrograms"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "628789232b229f0b1c4d7dfc",
+    "languageAgnosticNaturalKey": "pub-jwb-091_5_VIDEO",
+    "naturalKey": "pub-jwb-091_E_5_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2022-06-17T12:47:45.242Z",
+    "duration": 613.419,
+    "durationFormattedHHMM": "10:13",
+    "durationFormattedMinSec": "10m 13s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/6b/jwb-091_E_05_r240P.mp4",
+            "checksum": "574a9313c4e0131975e3fa34fd60dd1a",
+            "filesize": 10451134,
+            "modifiedDatetime": "2022-06-17T12:44:43.000Z",
+            "bitRate": 133.10556793154436,
+            "duration": 613.419,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/d8/jwb-091_E_05.vtt",
+                "modifiedDatetime": "2022-06-17T12:44:34.000Z",
+                "checksum": "6ad74fd4dd9d3f4fc2dc050427c577b9"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/49/jwb-091_E_05_r360P.mp4",
+            "checksum": "22c17e742f2d1729b539e5994f139059",
+            "filesize": 20546290,
+            "modifiedDatetime": "2022-06-17T12:44:41.000Z",
+            "bitRate": 261.686361261367,
+            "duration": 613.398,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/d8/jwb-091_E_05.vtt",
+                "modifiedDatetime": "2022-06-17T12:44:34.000Z",
+                "checksum": "6ad74fd4dd9d3f4fc2dc050427c577b9"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/00/jwb-091_E_05_r480P.mp4",
+            "checksum": "cb40e2b5622595438d73f1e0fccce7a1",
+            "filesize": 35397196,
+            "modifiedDatetime": "2022-06-17T12:44:38.000Z",
+            "bitRate": 450.8338692822604,
+            "duration": 613.398,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/d8/jwb-091_E_05.vtt",
+                "modifiedDatetime": "2022-06-17T12:44:34.000Z",
+                "checksum": "6ad74fd4dd9d3f4fc2dc050427c577b9"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/a1/jwb-091_E_05_r720P.mp4",
+            "checksum": "d0c38999d1bf5fd3d9e26a16de45f84b",
+            "filesize": 60488519,
+            "modifiedDatetime": "2022-06-17T12:44:36.000Z",
+            "bitRate": 770.4077200895666,
+            "duration": 613.398,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/d8/jwb-091_E_05.vtt",
+                "modifiedDatetime": "2022-06-17T12:44:34.000Z",
+                "checksum": "6ad74fd4dd9d3f4fc2dc050427c577b9"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-091-5.v",
+        "jwb-091-5"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/d8/jwb-091_E_05.vtt",
+    "Name": "pub-jwb-091_E_5_VIDEO",
+    "Title": "Geoffrey W. Jackson: Keep “the Belt of Truth” Tight (Eph. 6:14)",
+    "UndatedReferenceTitle": "Geoffrey W. Jackson: Keep “the Belt of Truth” Tight (Eph. 6:14)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

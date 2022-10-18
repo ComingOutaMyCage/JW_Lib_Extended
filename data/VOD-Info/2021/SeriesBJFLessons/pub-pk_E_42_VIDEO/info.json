@@ -1,0 +1,102 @@
+{
+    "guid": "617c401ee4dbeaf5fad5870b",
+    "languageAgnosticNaturalKey": "pub-pk_42_VIDEO",
+    "naturalKey": "pub-pk_E_42_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBJFLessons",
+    "description": "",
+    "firstPublished": "2021-12-06T15:09:19.423Z",
+    "duration": 75.499,
+    "durationFormattedHHMM": "1:15",
+    "durationFormattedMinSec": "1m 15s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/4e/pk_E_042_r240P.mp4",
+            "checksum": "d924c8a10d56523b8dadd74b3f44fccd",
+            "filesize": 2093962,
+            "modifiedDatetime": "2021-12-06T07:37:16.000Z",
+            "bitRate": 216.6794013827998,
+            "duration": 75.499,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.631,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/8a/pk_E_042.vtt",
+                "modifiedDatetime": "2021-12-06T07:37:07.000Z",
+                "checksum": "d8fa35fc67881ee7ce19033b6a72c5a8"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/54/pk_E_042_r360P.mp4",
+            "checksum": "0073343370c13bfc51ad16d5ce588d70",
+            "filesize": 2927484,
+            "modifiedDatetime": "2021-12-06T07:37:14.000Z",
+            "bitRate": 303.0873144712431,
+            "duration": 75.46,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/8a/pk_E_042.vtt",
+                "modifiedDatetime": "2021-12-06T07:37:07.000Z",
+                "checksum": "d8fa35fc67881ee7ce19033b6a72c5a8"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/6f/pk_E_042_r480P.mp4",
+            "checksum": "d3a44746256463d14989075ae95aff22",
+            "filesize": 4681479,
+            "modifiedDatetime": "2021-12-06T07:37:11.000Z",
+            "bitRate": 484.6813502186589,
+            "duration": 75.46,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/8a/pk_E_042.vtt",
+                "modifiedDatetime": "2021-12-06T07:37:07.000Z",
+                "checksum": "d8fa35fc67881ee7ce19033b6a72c5a8"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/47/pk_E_042_r720P.mp4",
+            "checksum": "e9fa8f239d8a5ce49d11cc66b98cba7a",
+            "filesize": 6739307,
+            "modifiedDatetime": "2021-12-06T07:37:08.000Z",
+            "bitRate": 697.7317245891863,
+            "duration": 75.46,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/8a/pk_E_042.vtt",
+                "modifiedDatetime": "2021-12-06T07:37:07.000Z",
+                "checksum": "d8fa35fc67881ee7ce19033b6a72c5a8"
+            }
+        }
+    ],
+    "printReferences": [
+        "pk-42.v",
+        "pk-42"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/8a/pk_E_042.vtt",
+    "Name": "pub-pk_E_42_VIDEO",
+    "Title": "Become Jehovah’s Friend Trailer: Does Jehovah Answer Prayers?",
+    "UndatedReferenceTitle": "Become Jehovah’s Friend Trailer: Does Jehovah Answer Prayers?",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "SeriesBJFLessons"
+}

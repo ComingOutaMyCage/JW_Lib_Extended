@@ -1,0 +1,102 @@
+{
+    "guid": "5d700081ad989978fb9f20da",
+    "languageAgnosticNaturalKey": "pub-osg_57_VIDEO",
+    "naturalKey": "pub-osg_E_57_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODOriginalSongs",
+    "description": "",
+    "firstPublished": "2019-11-18T14:10:34.958Z",
+    "duration": 263.638,
+    "durationFormattedHHMM": "4:23",
+    "durationFormattedMinSec": "4m 23s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/c8/osg_E_057_r240P.mp4",
+            "checksum": "e79f0835c8eca9832fd55d8374adfc92",
+            "filesize": 8063459,
+            "modifiedDatetime": "2020-12-15T08:35:59.000Z",
+            "bitRate": 238.94800232705455,
+            "duration": 263.638,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.529,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/8c/osg_E_057.vtt",
+                "modifiedDatetime": "2019-11-18T13:18:09.000Z",
+                "checksum": "02a231aa35d1829784785d706c5cccf1"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/a5/osg_E_057_r360P.mp4",
+            "checksum": "f013d2537b4a31fb29ea9aacb155b17b",
+            "filesize": 14921866,
+            "modifiedDatetime": "2019-11-18T13:17:49.000Z",
+            "bitRate": 442.25327250206755,
+            "duration": 263.598,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/8c/osg_E_057.vtt",
+                "modifiedDatetime": "2019-11-18T13:18:09.000Z",
+                "checksum": "02a231aa35d1829784785d706c5cccf1"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/d2/osg_E_057_r480P.mp4",
+            "checksum": "abfa009f529d7f24421f0d90dcea07a7",
+            "filesize": 27411964,
+            "modifiedDatetime": "2019-11-18T13:17:53.000Z",
+            "bitRate": 812.4339666841174,
+            "duration": 263.598,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/8c/osg_E_057.vtt",
+                "modifiedDatetime": "2019-11-18T13:18:09.000Z",
+                "checksum": "02a231aa35d1829784785d706c5cccf1"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/2e/osg_E_057_r720P.mp4",
+            "checksum": "fb5e743059a8cc0b44355901df6d66eb",
+            "filesize": 45137588,
+            "modifiedDatetime": "2019-11-18T13:18:00.000Z",
+            "bitRate": 1337.7848323963003,
+            "duration": 263.598,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/8c/osg_E_057.vtt",
+                "modifiedDatetime": "2019-11-18T13:18:09.000Z",
+                "checksum": "02a231aa35d1829784785d706c5cccf1"
+            }
+        }
+    ],
+    "printReferences": [
+        "osg-57.v",
+        "osg-57"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/8c/osg_E_057.vtt",
+    "Name": "pub-osg_E_57_VIDEO",
+    "Title": "Jehovah's Always by Our Side",
+    "UndatedReferenceTitle": "Jehovah's Always by Our Side",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODOriginalSongs"
+}

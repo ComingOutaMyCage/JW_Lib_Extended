@@ -1,0 +1,102 @@
+{
+    "guid": "5c4a1240351dc4182b662b2f",
+    "languageAgnosticNaturalKey": "pub-jwb_201903_6_VIDEO",
+    "naturalKey": "pub-jwb_E_201903_6_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesWTLessons",
+    "description": "",
+    "firstPublished": "2019-03-18T20:43:34.310Z",
+    "duration": 316.758,
+    "durationFormattedHHMM": "5:16",
+    "durationFormattedMinSec": "5m 16s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/ba/jwb_E_201903_06_r240P.mp4",
+            "checksum": "613b4d53a8b348fa53b946f6c74cd3fc",
+            "filesize": 9210283,
+            "modifiedDatetime": "2021-03-22T18:01:57.000Z",
+            "bitRate": 227.16185838242444,
+            "duration": 316.758,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.599,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/6e/jwb_E_201903_06.vtt",
+                "modifiedDatetime": "2021-03-22T18:01:46.000Z",
+                "checksum": "b135884bc7b4609ae4e9b13a2445bd34"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/26/jwb_E_201903_06_r360P.mp4",
+            "checksum": "41704196d1d85016110c409af53654ce",
+            "filesize": 16694628,
+            "modifiedDatetime": "2021-03-22T18:01:59.000Z",
+            "bitRate": 411.7851871438268,
+            "duration": 316.735,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/6e/jwb_E_201903_06.vtt",
+                "modifiedDatetime": "2021-03-22T18:01:46.000Z",
+                "checksum": "b135884bc7b4609ae4e9b13a2445bd34"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/a0/jwb_E_201903_06_r480P.mp4",
+            "checksum": "77b638f3969bc24d2870871fd068249f",
+            "filesize": 30416211,
+            "modifiedDatetime": "2021-03-22T18:02:05.000Z",
+            "bitRate": 750.2380489604874,
+            "duration": 316.735,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/6e/jwb_E_201903_06.vtt",
+                "modifiedDatetime": "2021-03-22T18:01:46.000Z",
+                "checksum": "b135884bc7b4609ae4e9b13a2445bd34"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/c8/jwb_E_201903_06_r720P.mp4",
+            "checksum": "acb32bf177924254878e0e38313e33cf",
+            "filesize": 50026904,
+            "modifiedDatetime": "2021-03-22T18:02:07.000Z",
+            "bitRate": 1233.9501081345604,
+            "duration": 316.735,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/6e/jwb_E_201903_06.vtt",
+                "modifiedDatetime": "2021-03-22T18:01:46.000Z",
+                "checksum": "b135884bc7b4609ae4e9b13a2445bd34"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201903-6.v",
+        "jwb.201903-6"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/6e/jwb_E_201903_06.vtt",
+    "Name": "pub-jwb_E_201903_6_VIDEO",
+    "Title": "Lessons From The Watchtower—Remain Neutral in a Divided World",
+    "UndatedReferenceTitle": "Lessons From The Watchtower—Remain Neutral in a Divided World",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "SeriesWTLessons"
+}

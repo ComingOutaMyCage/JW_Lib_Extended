@@ -1,0 +1,102 @@
+{
+    "guid": "5df00b291b4e58739379d41f",
+    "languageAgnosticNaturalKey": "pub-thv_16_VIDEO",
+    "naturalKey": "pub-thv_E_16_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODMinistryApplyTeaching",
+    "description": "",
+    "firstPublished": "2020-03-16T21:39:54.324Z",
+    "duration": 389.846,
+    "durationFormattedHHMM": "6:29",
+    "durationFormattedMinSec": "6m 29s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/71/thv_E_16_r240P.mp4",
+            "checksum": "8c7d357b93bfbb5ac147c1e53318b3f3",
+            "filesize": 6018778,
+            "modifiedDatetime": "2020-12-09T19:51:42.000Z",
+            "bitRate": 120.61609744617105,
+            "duration": 389.846,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.833,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/a9/thv_E_16.vtt",
+                "modifiedDatetime": "2020-03-16T20:19:30.000Z",
+                "checksum": "49ca3f493ce38ff35d7bda52e0dae7c0"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/2a/thv_E_16_r360P.mp4",
+            "checksum": "4d765af134a52ea84c61a1186a8e6cb3",
+            "filesize": 12132972,
+            "modifiedDatetime": "2020-03-16T20:19:19.000Z",
+            "bitRate": 243.16803079977836,
+            "duration": 389.808,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/a9/thv_E_16.vtt",
+                "modifiedDatetime": "2020-03-16T20:19:30.000Z",
+                "checksum": "49ca3f493ce38ff35d7bda52e0dae7c0"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/b3/thv_E_16_r480P.mp4",
+            "checksum": "f6fd7f8a783acd156e38ab5da46dbf73",
+            "filesize": 22628770,
+            "modifiedDatetime": "2020-03-16T20:19:22.000Z",
+            "bitRate": 453.52395442115096,
+            "duration": 389.808,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/a9/thv_E_16.vtt",
+                "modifiedDatetime": "2020-03-16T20:19:30.000Z",
+                "checksum": "49ca3f493ce38ff35d7bda52e0dae7c0"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/b7/thv_E_16_r720P.mp4",
+            "checksum": "339f08dffe66ab9f8212d53e95258b4f",
+            "filesize": 37654826,
+            "modifiedDatetime": "2020-03-16T20:19:26.000Z",
+            "bitRate": 754.6749377257522,
+            "duration": 389.808,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/a9/thv_E_16.vtt",
+                "modifiedDatetime": "2020-03-16T20:19:30.000Z",
+                "checksum": "49ca3f493ce38ff35d7bda52e0dae7c0"
+            }
+        }
+    ],
+    "printReferences": [
+        "thv-16.v",
+        "thv-16"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/a9/thv_E_16.vtt",
+    "Name": "pub-thv_E_16_VIDEO",
+    "Title": "Study 16—Upbuilding and Positive",
+    "UndatedReferenceTitle": "Study 16—Upbuilding and Positive",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODMinistryApplyTeaching"
+}

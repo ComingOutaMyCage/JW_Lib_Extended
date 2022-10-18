@@ -1,0 +1,102 @@
+{
+    "guid": "5be35705960f5b04ef4aa778",
+    "languageAgnosticNaturalKey": "docid-502018196_1_VIDEO",
+    "naturalKey": "docid-502018196_E_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesWasItDesigned",
+    "description": "",
+    "firstPublished": "2018-11-22T18:04:15.859Z",
+    "duration": 119.616,
+    "durationFormattedHHMM": "1:59",
+    "durationFormattedMinSec": "1m 59s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/67/502018196_E_cnt_1_r240P.mp4",
+            "checksum": "8969e5424b7ccfbe9d68da44a0c923d1",
+            "filesize": 3207934,
+            "modifiedDatetime": "2020-11-01T01:00:16.000Z",
+            "bitRate": 209.520334863229,
+            "duration": 119.616,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.692,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/1c/502018196_E_cnt_1.vtt",
+                "modifiedDatetime": "2018-11-22T17:25:38.000Z",
+                "checksum": "dbb34a6e422db6f1c4c26c74542e2217"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/57/502018196_E_cnt_1_r360P.mp4",
+            "checksum": "1befef3672fa27b33d29f902c7d12383",
+            "filesize": 5820266,
+            "modifiedDatetime": "2018-11-22T17:25:43.000Z",
+            "bitRate": 380.2576382558811,
+            "duration": 119.579,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/1c/502018196_E_cnt_1.vtt",
+                "modifiedDatetime": "2018-11-22T17:25:38.000Z",
+                "checksum": "dbb34a6e422db6f1c4c26c74542e2217"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/21/502018196_E_cnt_1_r480P.mp4",
+            "checksum": "c94a7472f9a56b0072791f34b59b3243",
+            "filesize": 10498810,
+            "modifiedDatetime": "2018-11-22T17:25:46.000Z",
+            "bitRate": 685.9227215899114,
+            "duration": 119.579,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/1c/502018196_E_cnt_1.vtt",
+                "modifiedDatetime": "2018-11-22T17:25:38.000Z",
+                "checksum": "dbb34a6e422db6f1c4c26c74542e2217"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/d5/502018196_E_cnt_1_r720P.mp4",
+            "checksum": "a6c6a643c9e94629abc30452ba8fce7c",
+            "filesize": 17272642,
+            "modifiedDatetime": "2018-11-22T17:25:49.000Z",
+            "bitRate": 1128.480047709046,
+            "duration": 119.579,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/1c/502018196_E_cnt_1.vtt",
+                "modifiedDatetime": "2018-11-22T17:25:38.000Z",
+                "checksum": "dbb34a6e422db6f1c4c26c74542e2217"
+            }
+        }
+    ],
+    "printReferences": [
+        "502018196-1.v",
+        "502018196-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/content_assets/1c/502018196_E_cnt_1.vtt",
+    "Name": "docid-502018196_E_1_VIDEO",
+    "Title": "Was It Designed? The Seahorse’s Tail",
+    "UndatedReferenceTitle": "Was It Designed? The Seahorse’s Tail",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "SeriesWasItDesigned"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "5776c67c71f213d35ebb9ecc",
+    "languageAgnosticNaturalKey": "pub-wsb_1_VIDEO",
+    "naturalKey": "pub-wsb_E_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODMinistryTools",
+    "description": "",
+    "firstPublished": "2018-02-12T15:42:37.713Z",
+    "duration": 214.878,
+    "durationFormattedHHMM": "3:34",
+    "durationFormattedMinSec": "3m 34s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/63/wsb_E_01_r240P.mp4",
+            "checksum": "56262ff31c43d7ec5b8b204cba1f1f3e",
+            "filesize": 9745372,
+            "modifiedDatetime": "2020-12-06T13:27:09.000Z",
+            "bitRate": 354.3206784780201,
+            "duration": 214.878,
+            "frameHeight": 180,
+            "frameWidth": 320,
+            "label": "240p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/18/wsb_E_01_r240P.vtt",
+                "modifiedDatetime": "2019-03-02T21:03:45.000Z",
+                "checksum": "7004113e3a548a00017899607a8dc8b6"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/4e/wsb_E_01_r360P.mp4",
+            "checksum": "7ceec47a9dfdde57486bdc3a0d7d7c1d",
+            "filesize": 22546910,
+            "modifiedDatetime": "2019-03-02T21:03:52.000Z",
+            "bitRate": 819.9019473794451,
+            "duration": 214.84,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/50/wsb_E_01_r360P.vtt",
+                "modifiedDatetime": "2019-03-02T21:03:52.000Z",
+                "checksum": "7004113e3a548a00017899607a8dc8b6"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/1c/wsb_E_01_r480P.mp4",
+            "checksum": "4c02c8e5cb9c2ed07ba716b71f99faca",
+            "filesize": 30569505,
+            "modifiedDatetime": "2019-03-02T21:03:59.000Z",
+            "bitRate": 1111.6377667682927,
+            "duration": 214.84,
+            "frameHeight": 480,
+            "frameWidth": 854,
+            "label": "480p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/b2/wsb_E_01_r480P.vtt",
+                "modifiedDatetime": "2019-03-02T21:03:59.000Z",
+                "checksum": "7004113e3a548a00017899607a8dc8b6"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/63/wsb_E_01_r720P.mp4",
+            "checksum": "6549ae83c9f1ca162bf0924b5077ca83",
+            "filesize": 43914128,
+            "modifiedDatetime": "2019-03-02T21:04:18.000Z",
+            "bitRate": 1596.905255073543,
+            "duration": 214.84,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/06/wsb_E_01_r720P.vtt",
+                "modifiedDatetime": "2019-03-02T21:04:19.000Z",
+                "checksum": "7004113e3a548a00017899607a8dc8b6"
+            }
+        }
+    ],
+    "printReferences": [
+        "wsb-1.v",
+        "wsb-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/18/wsb_E_01_r240P.vtt",
+    "Name": "pub-wsb_E_1_VIDEO",
+    "Title": "Why Study the Bible?—Full Length",
+    "UndatedReferenceTitle": "Why Study the Bible?—Full Length",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "VODMinistryTools"
+}

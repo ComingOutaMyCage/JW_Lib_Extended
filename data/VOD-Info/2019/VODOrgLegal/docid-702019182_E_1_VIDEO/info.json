@@ -1,0 +1,102 @@
+{
+    "guid": "5d43414348fd57354cf39536",
+    "languageAgnosticNaturalKey": "docid-702019182_1_VIDEO",
+    "naturalKey": "docid-702019182_E_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODOrgLegal",
+    "description": "",
+    "firstPublished": "2019-08-02T13:34:23.617Z",
+    "duration": 370.902,
+    "durationFormattedHHMM": "6:10",
+    "durationFormattedMinSec": "6m 10s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/0c/702019182_E_cnt_1_r240P.mp4",
+            "checksum": "c0ee547e6ac17567bb0310b76fdc00c1",
+            "filesize": 8950019,
+            "modifiedDatetime": "2020-11-01T16:18:59.000Z",
+            "bitRate": 188.5188633048622,
+            "duration": 370.902,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.669,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/60/702019182_E_cnt_1.vtt",
+                "modifiedDatetime": "2020-09-30T13:09:24.000Z",
+                "checksum": "8bb2f65697d73ce7304a7d42c4cace3c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/33/702019182_E_cnt_1_r360P.mp4",
+            "checksum": "0ccfb75116b760e11a7ad044e78705c7",
+            "filesize": 17218011,
+            "modifiedDatetime": "2020-09-30T13:09:46.000Z",
+            "bitRate": 362.70117705704394,
+            "duration": 370.872,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/60/702019182_E_cnt_1.vtt",
+                "modifiedDatetime": "2020-09-30T13:09:24.000Z",
+                "checksum": "8bb2f65697d73ce7304a7d42c4cace3c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/29/702019182_E_cnt_1_r480P.mp4",
+            "checksum": "df649a25d4c4d3d597709f4ddd966cb2",
+            "filesize": 31910039,
+            "modifiedDatetime": "2020-09-30T13:09:52.000Z",
+            "bitRate": 672.1919683543109,
+            "duration": 370.872,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/60/702019182_E_cnt_1.vtt",
+                "modifiedDatetime": "2020-09-30T13:09:24.000Z",
+                "checksum": "8bb2f65697d73ce7304a7d42c4cace3c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/af/702019182_E_cnt_1_r720P.mp4",
+            "checksum": "015a8058eed19814d80e57d2754763ba",
+            "filesize": 52470692,
+            "modifiedDatetime": "2020-09-30T13:10:05.000Z",
+            "bitRate": 1105.3066320725209,
+            "duration": 370.872,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/60/702019182_E_cnt_1.vtt",
+                "modifiedDatetime": "2020-09-30T13:09:24.000Z",
+                "checksum": "8bb2f65697d73ce7304a7d42c4cace3c"
+            }
+        }
+    ],
+    "printReferences": [
+        "702019182-1.v",
+        "702019182-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/content_assets/60/702019182_E_cnt_1.vtt",
+    "Name": "docid-702019182_E_1_VIDEO",
+    "Title": "Interview With Brother Dmitriy Mikhaylov",
+    "UndatedReferenceTitle": "Interview With Brother Dmitriy Mikhaylov",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODOrgLegal"
+}

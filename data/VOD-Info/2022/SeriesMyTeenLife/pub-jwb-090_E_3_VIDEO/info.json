@@ -1,0 +1,102 @@
+{
+    "guid": "61d83e85c06f02f011075774",
+    "languageAgnosticNaturalKey": "pub-jwb-090_3_VIDEO",
+    "naturalKey": "pub-jwb-090_E_3_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesMyTeenLife",
+    "description": "",
+    "firstPublished": "2022-09-19T13:44:56.499Z",
+    "duration": 295.211,
+    "durationFormattedHHMM": "4:55",
+    "durationFormattedMinSec": "4m 55s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/8a/jwb-090_E_03_r240P.mp4",
+            "checksum": "4aa224d36772cd6d770581e55de906ef",
+            "filesize": 5667150,
+            "modifiedDatetime": "2022-09-19T04:22:47.000Z",
+            "bitRate": 149.9761505330086,
+            "duration": 295.211,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.483,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/23/jwb-090_E_03.vtt",
+                "modifiedDatetime": "2022-09-19T04:22:38.000Z",
+                "checksum": "dcd096357930e4524f805e1ba151bff5"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/71/jwb-090_E_03_r360P.mp4",
+            "checksum": "9369b2e1db814fbe2c725ddcc160d776",
+            "filesize": 11452894,
+            "modifiedDatetime": "2022-09-19T04:22:44.000Z",
+            "bitRate": 303.1318604300558,
+            "duration": 295.171,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/23/jwb-090_E_03.vtt",
+                "modifiedDatetime": "2022-09-19T04:22:38.000Z",
+                "checksum": "dcd096357930e4524f805e1ba151bff5"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/ff/jwb-090_E_03_r480P.mp4",
+            "checksum": "fcff675104c9b13d9542306bfab498dd",
+            "filesize": 20840144,
+            "modifiedDatetime": "2022-09-19T04:22:42.000Z",
+            "bitRate": 551.590857502939,
+            "duration": 295.171,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/23/jwb-090_E_03.vtt",
+                "modifiedDatetime": "2022-09-19T04:22:38.000Z",
+                "checksum": "dcd096357930e4524f805e1ba151bff5"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/33/jwb-090_E_03_r720P.mp4",
+            "checksum": "32a665facc401afb616577aaf012df63",
+            "filesize": 34794751,
+            "modifiedDatetime": "2022-09-19T04:22:40.000Z",
+            "bitRate": 920.9373284892487,
+            "duration": 295.171,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/23/jwb-090_E_03.vtt",
+                "modifiedDatetime": "2022-09-19T04:22:38.000Z",
+                "checksum": "dcd096357930e4524f805e1ba151bff5"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-090-3.v",
+        "jwb-090-3"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/23/jwb-090_E_03.vtt",
+    "Name": "pub-jwb-090_E_3_VIDEO",
+    "Title": "My Teen Life—How Can I Cope With Bullying?",
+    "UndatedReferenceTitle": "My Teen Life—How Can I Cope With Bullying?",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "SeriesMyTeenLife"
+}

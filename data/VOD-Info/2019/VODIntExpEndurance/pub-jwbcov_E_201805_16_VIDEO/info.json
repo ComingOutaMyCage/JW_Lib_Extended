@@ -1,0 +1,102 @@
+{
+    "guid": "5c8ac0d464430a5b2d4dae9a",
+    "languageAgnosticNaturalKey": "pub-jwbcov_201805_16_VIDEO",
+    "naturalKey": "pub-jwbcov_E_201805_16_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpEndurance",
+    "description": "",
+    "firstPublished": "2019-03-25T18:30:29.239Z",
+    "duration": 125.824,
+    "durationFormattedHHMM": "2:05",
+    "durationFormattedMinSec": "2m 5s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/7e/jwbcov_E_201805_16_r240P.mp4",
+            "checksum": "5fc3a8210205d46469ce30d87e1b6912",
+            "filesize": 3506830,
+            "modifiedDatetime": "2020-11-11T20:47:32.000Z",
+            "bitRate": 217.74152288116736,
+            "duration": 125.824,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.438,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/2f/jwbcov_E_201805_16.vtt",
+                "modifiedDatetime": "2019-03-25T14:33:55.000Z",
+                "checksum": "78f9266649c80a3a42c12b496e196442"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/a0/jwbcov_E_201805_16_r360P.mp4",
+            "checksum": "2e843fce6acd9513767c7d55ab9a237c",
+            "filesize": 6203400,
+            "modifiedDatetime": "2019-03-25T14:34:23.000Z",
+            "bitRate": 385.26529484713103,
+            "duration": 125.794,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/2f/jwbcov_E_201805_16.vtt",
+                "modifiedDatetime": "2019-03-25T14:33:55.000Z",
+                "checksum": "78f9266649c80a3a42c12b496e196442"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/90/jwbcov_E_201805_16_r480P.mp4",
+            "checksum": "03f5b441ed1b90e9c7a3bafdd3cf4412",
+            "filesize": 10900763,
+            "modifiedDatetime": "2019-03-25T14:34:28.000Z",
+            "bitRate": 676.9974000151041,
+            "duration": 125.794,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/2f/jwbcov_E_201805_16.vtt",
+                "modifiedDatetime": "2019-03-25T14:33:55.000Z",
+                "checksum": "78f9266649c80a3a42c12b496e196442"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/25/jwbcov_E_201805_16_r720P.mp4",
+            "checksum": "7eae252d8f97d86fa6d15c8bd6ad3854",
+            "filesize": 17784592,
+            "modifiedDatetime": "2019-03-25T14:34:33.000Z",
+            "bitRate": 1104.521082086586,
+            "duration": 125.794,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/2f/jwbcov_E_201805_16.vtt",
+                "modifiedDatetime": "2019-03-25T14:33:55.000Z",
+                "checksum": "78f9266649c80a3a42c12b496e196442"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwbcov.201805-16.v",
+        "jwbcov.201805-16"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/2f/jwbcov_E_201805_16.vtt",
+    "Name": "pub-jwbcov_E_201805_16_VIDEO",
+    "Title": "Be a Courageous . . . Congregation Elder",
+    "UndatedReferenceTitle": "Be a Courageous . . . Congregation Elder",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODIntExpEndurance"
+}

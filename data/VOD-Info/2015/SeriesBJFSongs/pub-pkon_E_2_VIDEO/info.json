@@ -1,0 +1,102 @@
+{
+    "guid": "556c63ce79892656f9a36826",
+    "languageAgnosticNaturalKey": "pub-pkon_2_VIDEO",
+    "naturalKey": "pub-pkon_E_2_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBJFSongs",
+    "description": "",
+    "firstPublished": "2015-06-01T15:20:58.633Z",
+    "duration": 84.95,
+    "durationFormattedHHMM": "1:24",
+    "durationFormattedMinSec": "1m 24s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/d3/pkon_E_002_r240P.mp4",
+            "checksum": "1ee1ddf74e8a7a67ce3b996924910301",
+            "filesize": 1713914,
+            "modifiedDatetime": "2021-09-30T20:53:36.000Z",
+            "bitRate": 157.62157886992347,
+            "duration": 84.95,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/c7/pkon_E_002.vtt",
+                "modifiedDatetime": "2021-09-30T20:53:20.000Z",
+                "checksum": "bc7d067df45d809602e6260415263d21"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/4a/pkon_E_002_r360P.mp4",
+            "checksum": "d6bb5810123a66991a06c89b198c9b92",
+            "filesize": 2961114,
+            "modifiedDatetime": "2021-09-30T20:53:26.000Z",
+            "bitRate": 272.4240222920935,
+            "duration": 84.918,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/c7/pkon_E_002.vtt",
+                "modifiedDatetime": "2021-09-30T20:53:20.000Z",
+                "checksum": "bc7d067df45d809602e6260415263d21"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/bd/pkon_E_002_r480P.mp4",
+            "checksum": "0dbd682bb75b6ef6fac29eb486480afb",
+            "filesize": 4985926,
+            "modifiedDatetime": "2021-09-30T20:53:30.000Z",
+            "bitRate": 458.70777544219123,
+            "duration": 84.918,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/c7/pkon_E_002.vtt",
+                "modifiedDatetime": "2021-09-30T20:53:20.000Z",
+                "checksum": "bc7d067df45d809602e6260415263d21"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/3b/pkon_E_002_r720P.mp4",
+            "checksum": "8b7f762d0b117fe814c323ef04fbd4a9",
+            "filesize": 8573867,
+            "modifiedDatetime": "2021-09-30T20:53:34.000Z",
+            "bitRate": 788.8002065227631,
+            "duration": 84.918,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/c7/pkon_E_002.vtt",
+                "modifiedDatetime": "2021-09-30T20:53:20.000Z",
+                "checksum": "bc7d067df45d809602e6260415263d21"
+            }
+        }
+    ],
+    "printReferences": [
+        "pkon-2.v",
+        "pkon-2"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/c7/pkon_E_002.vtt",
+    "Name": "pub-pkon_E_2_VIDEO",
+    "Title": "Respect Older Ones",
+    "UndatedReferenceTitle": "Respect Older Ones",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2015,
+    "Symbol": "SeriesBJFSongs"
+}

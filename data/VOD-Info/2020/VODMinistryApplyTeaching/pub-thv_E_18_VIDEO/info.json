@@ -1,0 +1,102 @@
+{
+    "guid": "5df00c601b4e58739379d8de",
+    "languageAgnosticNaturalKey": "pub-thv_18_VIDEO",
+    "naturalKey": "pub-thv_E_18_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODMinistryApplyTeaching",
+    "description": "",
+    "firstPublished": "2020-05-11T15:02:45.733Z",
+    "duration": 374.699,
+    "durationFormattedHHMM": "6:14",
+    "durationFormattedMinSec": "6m 14s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/aa/thv_E_18_r240P.mp4",
+            "checksum": "0ebbcd415c8ad721d48e49eb6c80d40c",
+            "filesize": 5640215,
+            "modifiedDatetime": "2020-12-13T10:42:53.000Z",
+            "bitRate": 117.59887186114722,
+            "duration": 374.699,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.928,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/90/thv_E_18.vtt",
+                "modifiedDatetime": "2020-05-11T11:56:31.000Z",
+                "checksum": "020cc302d03a78dcfd9cbbeeb04656b9"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/a8/thv_E_18_r360P.mp4",
+            "checksum": "7891489abab563873a7d97b2cce21b17",
+            "filesize": 11954049,
+            "modifiedDatetime": "2020-05-11T11:56:20.000Z",
+            "bitRate": 249.2640339621584,
+            "duration": 374.667,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/90/thv_E_18.vtt",
+                "modifiedDatetime": "2020-05-11T11:56:31.000Z",
+                "checksum": "020cc302d03a78dcfd9cbbeeb04656b9"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/f4/thv_E_18_r480P.mp4",
+            "checksum": "d20ebb2b3c2d70836a3b640ef632d52e",
+            "filesize": 22985162,
+            "modifiedDatetime": "2020-05-11T11:56:23.000Z",
+            "bitRate": 479.2831450995151,
+            "duration": 374.667,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/90/thv_E_18.vtt",
+                "modifiedDatetime": "2020-05-11T11:56:31.000Z",
+                "checksum": "020cc302d03a78dcfd9cbbeeb04656b9"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/6f/thv_E_18_r720P.mp4",
+            "checksum": "306c186e28886e21541dabbf5fe641e9",
+            "filesize": 38395496,
+            "modifiedDatetime": "2020-05-11T11:56:27.000Z",
+            "bitRate": 800.6171146644888,
+            "duration": 374.667,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/90/thv_E_18.vtt",
+                "modifiedDatetime": "2020-05-11T11:56:31.000Z",
+                "checksum": "020cc302d03a78dcfd9cbbeeb04656b9"
+            }
+        }
+    ],
+    "printReferences": [
+        "thv-18.v",
+        "thv-18"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/90/thv_E_18.vtt",
+    "Name": "pub-thv_E_18_VIDEO",
+    "Title": "Study 18—Informative to Your Audience",
+    "UndatedReferenceTitle": "Study 18—Informative to Your Audience",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODMinistryApplyTeaching"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "5f9c0c2fa05028daa1f26b6e",
+    "languageAgnosticNaturalKey": "pub-jwb_202103_7_VIDEO",
+    "naturalKey": "pub-jwb_E_202103_7_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpBlessings",
+    "description": "",
+    "firstPublished": "2021-03-15T14:08:46.631Z",
+    "duration": 340.822,
+    "durationFormattedHHMM": "5:40",
+    "durationFormattedMinSec": "5m 40s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/ef/jwb_E_202103_07_r240P.mp4",
+            "checksum": "770ab07b6304bac27428fc6cbab1300e",
+            "filesize": 7913342,
+            "modifiedDatetime": "2021-03-15T04:53:31.000Z",
+            "bitRate": 181.39376089278275,
+            "duration": 340.822,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.438,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/65/jwb_E_202103_07.vtt",
+                "modifiedDatetime": "2021-03-15T04:53:19.000Z",
+                "checksum": "0ada5ac3a1a7fecddf84f03a62f66607"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/f7/jwb_E_202103_07_r360P.mp4",
+            "checksum": "966847bb560231cd86ac948e59854629",
+            "filesize": 14818680,
+            "modifiedDatetime": "2021-03-15T04:53:28.000Z",
+            "bitRate": 339.7034551056338,
+            "duration": 340.8,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/65/jwb_E_202103_07.vtt",
+                "modifiedDatetime": "2021-03-15T04:53:19.000Z",
+                "checksum": "0ada5ac3a1a7fecddf84f03a62f66607"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/83/jwb_E_202103_07_r480P.mp4",
+            "checksum": "c000709b05cd794783a3b2fcd4be77a2",
+            "filesize": 26893323,
+            "modifiedDatetime": "2021-03-15T04:53:26.000Z",
+            "bitRate": 616.5025995818662,
+            "duration": 340.8,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/65/jwb_E_202103_07.vtt",
+                "modifiedDatetime": "2021-03-15T04:53:19.000Z",
+                "checksum": "0ada5ac3a1a7fecddf84f03a62f66607"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/52/jwb_E_202103_07_r720P.mp4",
+            "checksum": "72e8e3a2fe2e25622875135005704a4a",
+            "filesize": 45052208,
+            "modifiedDatetime": "2021-03-15T04:53:20.000Z",
+            "bitRate": 1032.7769219483569,
+            "duration": 340.8,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/65/jwb_E_202103_07.vtt",
+                "modifiedDatetime": "2021-03-15T04:53:19.000Z",
+                "checksum": "0ada5ac3a1a7fecddf84f03a62f66607"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202103-7.v",
+        "jwb.202103-7"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/65/jwb_E_202103_07.vtt",
+    "Name": "pub-jwb_E_202103_7_VIDEO",
+    "Title": "The Arencibias: Three Brothers Married to Three Sisters Lean on Jehovah in Times of Distress",
+    "UndatedReferenceTitle": "The Arencibias: Three Brothers Married to Three Sisters Lean on Jehovah in Times of Distress",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODIntExpBlessings"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "5cac8babdb0b288e409dfe0d",
+    "languageAgnosticNaturalKey": "pub-jwbcov_201805_22_VIDEO",
+    "naturalKey": "pub-jwbcov_E_201805_22_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpEndurance",
+    "description": "",
+    "firstPublished": "2019-04-15T21:14:34.608Z",
+    "duration": 366.891,
+    "durationFormattedHHMM": "6:06",
+    "durationFormattedMinSec": "6m 6s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/f2/jwbcov_E_201805_22_r240P.mp4",
+            "checksum": "5f8aca3b187a494126270b30a1f0f3d3",
+            "filesize": 10661280,
+            "modifiedDatetime": "2020-11-24T01:52:02.000Z",
+            "bitRate": 227.0190601568313,
+            "duration": 366.891,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.669,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ce/jwbcov_E_201805_22.vtt",
+                "modifiedDatetime": "2019-04-15T18:53:59.000Z",
+                "checksum": "7b96008185ce1bd2609b3adc03829998"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/a7/jwbcov_E_201805_22_r360P.mp4",
+            "checksum": "29139b4f70f2bd8bd1922267d8a8c00b",
+            "filesize": 19405082,
+            "modifiedDatetime": "2019-04-15T19:05:51.000Z",
+            "bitRate": 413.23365113610345,
+            "duration": 366.868,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ce/jwbcov_E_201805_22.vtt",
+                "modifiedDatetime": "2019-04-15T18:53:59.000Z",
+                "checksum": "7b96008185ce1bd2609b3adc03829998"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/97/jwbcov_E_201805_22_r480P.mp4",
+            "checksum": "c94d1f28fc47baa1a08505d319aab017",
+            "filesize": 35521049,
+            "modifiedDatetime": "2019-04-15T18:43:15.000Z",
+            "bitRate": 756.4251864771526,
+            "duration": 366.868,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ce/jwbcov_E_201805_22.vtt",
+                "modifiedDatetime": "2019-04-15T18:53:59.000Z",
+                "checksum": "7b96008185ce1bd2609b3adc03829998"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/4e/jwbcov_E_201805_22_r720P.mp4",
+            "checksum": "a74982f6a982f4e150f3f2b084156c4d",
+            "filesize": 58437524,
+            "modifiedDatetime": "2019-04-15T19:12:47.000Z",
+            "bitRate": 1244.4343912524396,
+            "duration": 366.868,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ce/jwbcov_E_201805_22.vtt",
+                "modifiedDatetime": "2019-04-15T18:53:59.000Z",
+                "checksum": "7b96008185ce1bd2609b3adc03829998"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwbcov.201805-22.v",
+        "jwbcov.201805-22"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/ce/jwbcov_E_201805_22.vtt",
+    "Name": "pub-jwbcov_E_201805_22_VIDEO",
+    "Title": "How Our Brothers Are Showing Courage In . . . Europe",
+    "UndatedReferenceTitle": "How Our Brothers Are Showing Courage In . . . Europe",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODIntExpEndurance"
+}

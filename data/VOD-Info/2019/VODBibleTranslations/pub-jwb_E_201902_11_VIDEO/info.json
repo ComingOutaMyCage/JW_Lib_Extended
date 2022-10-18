@@ -1,0 +1,102 @@
+{
+    "guid": "5c50bc7f351dc4182b66325e",
+    "languageAgnosticNaturalKey": "pub-jwb_201902_11_VIDEO",
+    "naturalKey": "pub-jwb_E_201902_11_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODBibleTranslations",
+    "description": "",
+    "firstPublished": "2019-02-19T03:31:04.997Z",
+    "duration": 324.31,
+    "durationFormattedHHMM": "5:24",
+    "durationFormattedMinSec": "5m 24s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/d7/jwb_E_201902_11_r240P.mp4",
+            "checksum": "85d7beadb2df6f666974f46cf48d84e8",
+            "filesize": 9426999,
+            "modifiedDatetime": "2020-11-21T06:36:52.000Z",
+            "bitRate": 227.0926881301841,
+            "duration": 324.31,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.715,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f9/jwb_E_201902_11.vtt",
+                "modifiedDatetime": "2019-02-19T03:30:33.000Z",
+                "checksum": "f3b2682415702efe020d99e150bf0866"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/5c/jwb_E_201902_11_r360P.mp4",
+            "checksum": "ff9e1eef89b6a7170dba9d4b52503a5c",
+            "filesize": 17790952,
+            "modifiedDatetime": "2019-02-19T03:28:23.000Z",
+            "bitRate": 428.6113792231501,
+            "duration": 324.284,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f9/jwb_E_201902_11.vtt",
+                "modifiedDatetime": "2019-02-19T03:30:33.000Z",
+                "checksum": "f3b2682415702efe020d99e150bf0866"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/75/jwb_E_201902_11_r480P.mp4",
+            "checksum": "ce26b5eadae7ac4af3320e6a8ff12f38",
+            "filesize": 32504515,
+            "modifiedDatetime": "2019-02-19T03:28:34.000Z",
+            "bitRate": 783.0837273423913,
+            "duration": 324.284,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f9/jwb_E_201902_11.vtt",
+                "modifiedDatetime": "2019-02-19T03:30:33.000Z",
+                "checksum": "f3b2682415702efe020d99e150bf0866"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/ff/jwb_E_201902_11_r720P.mp4",
+            "checksum": "d8cda19ebcb46f42fe0599d12cd4ce78",
+            "filesize": 54591690,
+            "modifiedDatetime": "2019-02-19T03:29:07.000Z",
+            "bitRate": 1315.1977221355355,
+            "duration": 324.284,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f9/jwb_E_201902_11.vtt",
+                "modifiedDatetime": "2019-02-19T03:30:33.000Z",
+                "checksum": "f3b2682415702efe020d99e150bf0866"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201902-11.v",
+        "jwb.201902-11"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/f9/jwb_E_201902_11.vtt",
+    "Name": "pub-jwb_E_201902_11_VIDEO",
+    "Title": "The Divine Name Is Exalted in Scandinavia",
+    "UndatedReferenceTitle": "The Divine Name Is Exalted in Scandinavia",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODBibleTranslations"
+}

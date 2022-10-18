@@ -1,0 +1,178 @@
+{
+    "guid": "596676ddfd00d95af64eace5",
+    "languageAgnosticNaturalKey": "pub-osg_25_VIDEO",
+    "naturalKey": "pub-osg_E_25_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODOriginalSongs",
+    "description": "",
+    "firstPublished": "2017-11-09T14:51:45.932Z",
+    "duration": 199.019,
+    "durationFormattedHHMM": "3:19",
+    "durationFormattedMinSec": "3m 19s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/ef/osg_E_025_r240P.mp4",
+            "checksum": "f0d43b4136020d335e36d716c01e928c",
+            "filesize": 9057743,
+            "modifiedDatetime": "2020-12-17T23:12:42.000Z",
+            "bitRate": 355.5621181269125,
+            "duration": 199.019,
+            "frameHeight": 180,
+            "frameWidth": 320,
+            "label": "240p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/f8/osg_E_025_r240P.vtt",
+                "modifiedDatetime": "2019-01-13T05:15:41.000Z",
+                "checksum": "77c088547724a3c797cc7708e112c2be"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/43/osg_s-Sub_E_025_r240P.mp4",
+            "checksum": "12efab12a17bb5d0015104a977f7507d",
+            "filesize": 9069430,
+            "modifiedDatetime": "2020-12-05T19:49:30.000Z",
+            "bitRate": 356.0208918495219,
+            "duration": 199.019,
+            "frameHeight": 180,
+            "frameWidth": 320,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": true,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/f8/osg_E_025_r240P.vtt",
+                "modifiedDatetime": "2019-01-13T05:15:41.000Z",
+                "checksum": "77c088547724a3c797cc7708e112c2be"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/15/osg_E_025_r360P.mp4",
+            "checksum": "a14651da91f9ad9325ec58e686e62758",
+            "filesize": 21106191,
+            "modifiedDatetime": "2019-01-13T05:15:45.000Z",
+            "bitRate": 828.6452444218302,
+            "duration": 198.99,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/b4/osg_E_025_r360P.vtt",
+                "modifiedDatetime": "2019-01-13T05:15:47.000Z",
+                "checksum": "77c088547724a3c797cc7708e112c2be"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/59/osg_s-Sub_E_025_r360P.mp4",
+            "checksum": "2fa0c5b6353d6ae553e4ec28922f7848",
+            "filesize": 21131444,
+            "modifiedDatetime": "2019-01-13T05:16:09.000Z",
+            "bitRate": 829.6347856712699,
+            "duration": 198.99045833333,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 44.056,
+            "mimetype": "video/mp4",
+            "subtitled": true,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/b4/osg_E_025_r360P.vtt",
+                "modifiedDatetime": "2019-01-13T05:15:47.000Z",
+                "checksum": "77c088547724a3c797cc7708e112c2be"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/61/osg_s-Sub_E_025_r480P.mp4",
+            "checksum": "55389845ab6bccc73c0e905cf5cc5f3f",
+            "filesize": 28477441,
+            "modifiedDatetime": "2019-01-13T05:16:14.000Z",
+            "bitRate": 1118.0435970443493,
+            "duration": 198.99045833333,
+            "frameHeight": 480,
+            "frameWidth": 854,
+            "label": "480p",
+            "frameRate": 44.056,
+            "mimetype": "video/mp4",
+            "subtitled": true,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/7b/osg_E_025_r480P.vtt",
+                "modifiedDatetime": "2019-01-13T05:15:55.000Z",
+                "checksum": "77c088547724a3c797cc7708e112c2be"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/b3/osg_E_025_r480P.mp4",
+            "checksum": "09949c74be105b85f00e7142eae31365",
+            "filesize": 28654270,
+            "modifiedDatetime": "2019-01-13T05:15:54.000Z",
+            "bitRate": 1124.9886143776068,
+            "duration": 198.99,
+            "frameHeight": 480,
+            "frameWidth": 854,
+            "label": "480p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/7b/osg_E_025_r480P.vtt",
+                "modifiedDatetime": "2019-01-13T05:15:55.000Z",
+                "checksum": "77c088547724a3c797cc7708e112c2be"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/9b/osg_E_025_r720P.mp4",
+            "checksum": "c5241e52b4becb9167545c10979483bb",
+            "filesize": 41054598,
+            "modifiedDatetime": "2019-01-13T05:16:00.000Z",
+            "bitRate": 1611.83500113071,
+            "duration": 198.99,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/36/osg_E_025_r720P.vtt",
+                "modifiedDatetime": "2019-01-13T05:16:02.000Z",
+                "checksum": "77c088547724a3c797cc7708e112c2be"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/65/osg_s-Sub_E_025_r720P.mp4",
+            "checksum": "fdc0d3748cf1507f27a9af0ab3b68836",
+            "filesize": 41015278,
+            "modifiedDatetime": "2019-01-13T05:16:20.000Z",
+            "bitRate": 1610.2875588046682,
+            "duration": 198.99045833333,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 44.056,
+            "mimetype": "video/mp4",
+            "subtitled": true,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/36/osg_E_025_r720P.vtt",
+                "modifiedDatetime": "2019-01-13T05:16:02.000Z",
+                "checksum": "77c088547724a3c797cc7708e112c2be"
+            }
+        }
+    ],
+    "printReferences": [
+        "osg-25.v",
+        "osg-25"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/f8/osg_E_025_r240P.vtt",
+    "Name": "pub-osg_E_25_VIDEO",
+    "Title": "Just Around the Corner",
+    "UndatedReferenceTitle": "Just Around the Corner",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2017,
+    "Symbol": "VODOriginalSongs"
+}

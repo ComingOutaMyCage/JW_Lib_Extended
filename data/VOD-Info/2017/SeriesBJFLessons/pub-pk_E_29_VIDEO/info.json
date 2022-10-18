@@ -1,0 +1,102 @@
+{
+    "guid": "58dbdc10a25a39c2e32af99a",
+    "languageAgnosticNaturalKey": "pub-pk_29_VIDEO",
+    "naturalKey": "pub-pk_E_29_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBJFLessons",
+    "description": "",
+    "firstPublished": "2017-12-04T15:48:34.913Z",
+    "duration": 128.453,
+    "durationFormattedHHMM": "2:08",
+    "durationFormattedMinSec": "2m 8s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/8a/pk_E_029_r240P.mp4",
+            "checksum": "8e468437be6a9cafadb540f6dab834e9",
+            "filesize": 5898760,
+            "modifiedDatetime": "2020-12-11T06:47:16.000Z",
+            "bitRate": 358.7620569391139,
+            "duration": 128.453,
+            "frameHeight": 180,
+            "frameWidth": 320,
+            "label": "240p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/1f/pk_E_029_r240P.vtt",
+                "modifiedDatetime": "2019-02-24T06:55:31.000Z",
+                "checksum": "7cb3c11a3fc7164a5f523deb60fcac41"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/99/pk_E_029_r360P.mp4",
+            "checksum": "e50a854bd2da29749bcb7693ffa289d2",
+            "filesize": 13696861,
+            "modifiedDatetime": "2019-02-24T16:38:44.000Z",
+            "bitRate": 833.2775592147957,
+            "duration": 128.41666666666666,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/ab/pk_E_029_r360P.vtt",
+                "modifiedDatetime": "2019-02-24T16:38:44.000Z",
+                "checksum": "7cb3c11a3fc7164a5f523deb60fcac41"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/7f/pk_E_029_r480P.mp4",
+            "checksum": "3143b6a16d811b723a9d30ca537c0411",
+            "filesize": 18516638,
+            "modifiedDatetime": "2019-02-24T16:30:52.000Z",
+            "bitRate": 1126.4989049318624,
+            "duration": 128.41666666666666,
+            "frameHeight": 480,
+            "frameWidth": 854,
+            "label": "480p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/8b/pk_E_029_r480P.vtt",
+                "modifiedDatetime": "2019-02-24T16:30:53.000Z",
+                "checksum": "7cb3c11a3fc7164a5f523deb60fcac41"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/60/pk_E_029_r720P.mp4",
+            "checksum": "be72f37215dcc27f9d238807debc19d8",
+            "filesize": 26629057,
+            "modifiedDatetime": "2019-02-24T17:05:15.000Z",
+            "bitRate": 1620.0351030175211,
+            "duration": 128.41666666666666,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/d0/pk_E_029_r720P.vtt",
+                "modifiedDatetime": "2019-02-24T17:05:15.000Z",
+                "checksum": "7cb3c11a3fc7164a5f523deb60fcac41"
+            }
+        }
+    ],
+    "printReferences": [
+        "pk-29.v",
+        "pk-29"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/1f/pk_E_029_r240P.vtt",
+    "Name": "pub-pk_E_29_VIDEO",
+    "Title": "Be Humble",
+    "UndatedReferenceTitle": "Be Humble",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2017,
+    "Symbol": "SeriesBJFLessons"
+}

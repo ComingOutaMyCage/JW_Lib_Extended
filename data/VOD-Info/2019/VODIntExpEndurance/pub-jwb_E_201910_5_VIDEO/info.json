@@ -1,0 +1,102 @@
+{
+    "guid": "5d3b38c048fd57354cf389fd",
+    "languageAgnosticNaturalKey": "pub-jwb_201910_5_VIDEO",
+    "naturalKey": "pub-jwb_E_201910_5_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpEndurance",
+    "description": "",
+    "firstPublished": "2019-10-21T17:20:47.457Z",
+    "duration": 302.208,
+    "durationFormattedHHMM": "5:02",
+    "durationFormattedMinSec": "5m 2s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/a7/jwb_E_201910_05_r240P.mp4",
+            "checksum": "1c223363f6bcd8ee8bf80ec0bd9427ae",
+            "filesize": 7325961,
+            "modifiedDatetime": "2020-11-14T01:31:08.000Z",
+            "bitRate": 189.38635083287005,
+            "duration": 302.208,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.483,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/65/jwb_E_201910_05.vtt",
+                "modifiedDatetime": "2019-10-21T14:27:04.000Z",
+                "checksum": "3badaab8e42946019e654b3752b2a00b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/cd/jwb_E_201910_05_r360P.mp4",
+            "checksum": "97c4546867aa7512281404953749a2cc",
+            "filesize": 13282559,
+            "modifiedDatetime": "2019-10-21T14:26:51.000Z",
+            "bitRate": 343.4068402977715,
+            "duration": 302.178,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/65/jwb_E_201910_05.vtt",
+                "modifiedDatetime": "2019-10-21T14:27:04.000Z",
+                "checksum": "3badaab8e42946019e654b3752b2a00b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/db/jwb_E_201910_05_r480P.mp4",
+            "checksum": "08917a39fb0f6439b7f3f2a42f40258d",
+            "filesize": 24374019,
+            "modifiedDatetime": "2019-10-21T14:26:55.000Z",
+            "bitRate": 630.1650796467645,
+            "duration": 302.178,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/65/jwb_E_201910_05.vtt",
+                "modifiedDatetime": "2019-10-21T14:27:04.000Z",
+                "checksum": "3badaab8e42946019e654b3752b2a00b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/cc/jwb_E_201910_05_r720P.mp4",
+            "checksum": "e6f09aeb577fcae5595c024aed521398",
+            "filesize": 40677899,
+            "modifiedDatetime": "2019-10-21T14:26:59.000Z",
+            "bitRate": 1051.685052973744,
+            "duration": 302.178,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/65/jwb_E_201910_05.vtt",
+                "modifiedDatetime": "2019-10-21T14:27:04.000Z",
+                "checksum": "3badaab8e42946019e654b3752b2a00b"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201910-5.v",
+        "jwb.201910-5"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/65/jwb_E_201910_05.vtt",
+    "Name": "pub-jwb_E_201910_5_VIDEO",
+    "Title": "Petter Heinrichs: Never Doubt Jehovah’s Mercy",
+    "UndatedReferenceTitle": "Petter Heinrichs: Never Doubt Jehovah’s Mercy",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODIntExpEndurance"
+}

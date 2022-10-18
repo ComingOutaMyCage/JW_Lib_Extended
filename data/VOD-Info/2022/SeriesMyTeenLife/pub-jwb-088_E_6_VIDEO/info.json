@@ -1,0 +1,102 @@
+{
+    "guid": "610056aa23708c1b98dbfde9",
+    "languageAgnosticNaturalKey": "pub-jwb-088_6_VIDEO",
+    "naturalKey": "pub-jwb-088_E_6_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesMyTeenLife",
+    "description": "",
+    "firstPublished": "2022-04-18T18:04:25.533Z",
+    "duration": 349.056,
+    "durationFormattedHHMM": "5:49",
+    "durationFormattedMinSec": "5m 49s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/7e/jwb-088_E_06_r240P.mp4",
+            "checksum": "0342a039f0692072619a961fd78e4a76",
+            "filesize": 6762134,
+            "modifiedDatetime": "2022-04-18T06:22:29.000Z",
+            "bitRate": 151.34870013694078,
+            "duration": 349.056,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/bd/jwb-088_E_06.vtt",
+                "modifiedDatetime": "2022-04-18T06:22:15.000Z",
+                "checksum": "71e7f4a936ad08f5ed2f0c6eedf13cca"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/5b/jwb-088_E_06_r360P.mp4",
+            "checksum": "7a537c2bcd13fcb1d4d871dffc747640",
+            "filesize": 13309032,
+            "modifiedDatetime": "2022-04-18T06:22:27.000Z",
+            "bitRate": 297.9133179759152,
+            "duration": 349.017,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/bd/jwb-088_E_06.vtt",
+                "modifiedDatetime": "2022-04-18T06:22:15.000Z",
+                "checksum": "71e7f4a936ad08f5ed2f0c6eedf13cca"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/33/jwb-088_E_06_r480P.mp4",
+            "checksum": "45c4e8412969934ca0399d85b29cca8e",
+            "filesize": 23588055,
+            "modifiedDatetime": "2022-04-18T06:22:25.000Z",
+            "bitRate": 528.0020161983514,
+            "duration": 349.017,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/bd/jwb-088_E_06.vtt",
+                "modifiedDatetime": "2022-04-18T06:22:15.000Z",
+                "checksum": "71e7f4a936ad08f5ed2f0c6eedf13cca"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/b5/jwb-088_E_06_r720P.mp4",
+            "checksum": "0ef4ca5c532f12aaaa3809293c8f8046",
+            "filesize": 38246314,
+            "modifiedDatetime": "2022-04-18T06:22:19.000Z",
+            "bitRate": 856.1168313434589,
+            "duration": 349.017,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/bd/jwb-088_E_06.vtt",
+                "modifiedDatetime": "2022-04-18T06:22:15.000Z",
+                "checksum": "71e7f4a936ad08f5ed2f0c6eedf13cca"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-088-6.v",
+        "jwb-088-6"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/bd/jwb-088_E_06.vtt",
+    "Name": "pub-jwb-088_E_6_VIDEO",
+    "Title": "My Teen Life—Who Am I?",
+    "UndatedReferenceTitle": "My Teen Life—Who Am I?",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "SeriesMyTeenLife"
+}

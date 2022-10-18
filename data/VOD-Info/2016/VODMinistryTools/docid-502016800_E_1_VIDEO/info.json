@@ -1,0 +1,102 @@
+{
+    "guid": "562e958b79892656f9a3f4bb",
+    "languageAgnosticNaturalKey": "docid-502016800_1_VIDEO",
+    "naturalKey": "docid-502016800_E_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODMinistryTools",
+    "description": "",
+    "firstPublished": "2016-02-18T21:32:57.167Z",
+    "duration": 101.142,
+    "durationFormattedHHMM": "1:41",
+    "durationFormattedMinSec": "1m 41s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/d9/502016800_E_cnt_1_r240P.mp4",
+            "checksum": "969222b6fdf908467b01f4cae779fca6",
+            "filesize": 3966110,
+            "modifiedDatetime": "2020-11-01T09:43:56.000Z",
+            "bitRate": 306.3537835419509,
+            "duration": 101.142,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.81,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/d7/502016800_E_cnt_1.vtt",
+                "modifiedDatetime": "2019-02-05T12:40:26.000Z",
+                "checksum": "f8450212b2d876dbeaef16f17ac2d336"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/88/502016800_E_cnt_1_r360P.mp4",
+            "checksum": "336d3d7bd8f7a420f6234fca2ed9d76e",
+            "filesize": 6281049,
+            "modifiedDatetime": "2019-02-05T12:40:13.000Z",
+            "bitRate": 485.35830460821745,
+            "duration": 101.102,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/d7/502016800_E_cnt_1.vtt",
+                "modifiedDatetime": "2019-02-05T12:40:26.000Z",
+                "checksum": "f8450212b2d876dbeaef16f17ac2d336"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/66/502016800_E_cnt_1_r480P.mp4",
+            "checksum": "02c041051484912448b18228aa3ec41d",
+            "filesize": 11529578,
+            "modifiedDatetime": "2019-02-05T12:40:27.000Z",
+            "bitRate": 890.9302301141421,
+            "duration": 101.102,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/d7/502016800_E_cnt_1.vtt",
+                "modifiedDatetime": "2019-02-05T12:40:26.000Z",
+                "checksum": "f8450212b2d876dbeaef16f17ac2d336"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/58/502016800_E_cnt_1_r720P.mp4",
+            "checksum": "302ebe1943904f04416be4f8f25fbaca",
+            "filesize": 19101572,
+            "modifiedDatetime": "2019-02-05T12:40:24.000Z",
+            "bitRate": 1476.0443042669779,
+            "duration": 101.102,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/d7/502016800_E_cnt_1.vtt",
+                "modifiedDatetime": "2019-02-05T12:40:26.000Z",
+                "checksum": "f8450212b2d876dbeaef16f17ac2d336"
+            }
+        }
+    ],
+    "printReferences": [
+        "502016800-1.v",
+        "502016800-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/content_assets/d7/502016800_E_cnt_1.vtt",
+    "Name": "docid-502016800_E_1_VIDEO",
+    "Title": "Remember Jesus' Death",
+    "UndatedReferenceTitle": "Remember Jesus' Death",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2016,
+    "Symbol": "VODMinistryTools"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "5d72553ead989978fbd24bc3",
+    "languageAgnosticNaturalKey": "pub-thv_13_VIDEO",
+    "naturalKey": "pub-thv_E_13_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODMinistryApplyTeaching",
+    "description": "",
+    "firstPublished": "2019-12-16T13:15:06.647Z",
+    "duration": 367.808,
+    "durationFormattedHHMM": "6:07",
+    "durationFormattedMinSec": "6m 7s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/5b/thv_E_13_r240P.mp4",
+            "checksum": "4362c60b047a9b9fafd9fd00734a479d",
+            "filesize": 6104796,
+            "modifiedDatetime": "2020-12-06T11:08:02.000Z",
+            "bitRate": 129.6701505948756,
+            "duration": 367.808,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.438,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/58/thv_E_13.vtt",
+                "modifiedDatetime": "2019-12-16T09:15:23.000Z",
+                "checksum": "fac57b2969b919cbbb5451ccf6800b8b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/08/thv_E_13_r360P.mp4",
+            "checksum": "a385cf3ff4b4bd44de2ebb7616654253",
+            "filesize": 12872234,
+            "modifiedDatetime": "2019-12-16T09:15:07.000Z",
+            "bitRate": 273.43163721566344,
+            "duration": 367.786,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/58/thv_E_13.vtt",
+                "modifiedDatetime": "2019-12-16T09:15:23.000Z",
+                "checksum": "fac57b2969b919cbbb5451ccf6800b8b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/eb/thv_E_13_r480P.mp4",
+            "checksum": "eee19ab9272e78b520eb72b851f1da8f",
+            "filesize": 25211633,
+            "modifiedDatetime": "2019-12-16T09:15:10.000Z",
+            "bitRate": 535.5448081561017,
+            "duration": 367.786,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/58/thv_E_13.vtt",
+                "modifiedDatetime": "2019-12-16T09:15:23.000Z",
+                "checksum": "fac57b2969b919cbbb5451ccf6800b8b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/f3/thv_E_13_r720P.mp4",
+            "checksum": "a1dc0bc88224ca1d30b00032a7b5c906",
+            "filesize": 43628323,
+            "modifiedDatetime": "2019-12-16T09:15:18.000Z",
+            "bitRate": 926.7516257755868,
+            "duration": 367.786,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/58/thv_E_13.vtt",
+                "modifiedDatetime": "2019-12-16T09:15:23.000Z",
+                "checksum": "fac57b2969b919cbbb5451ccf6800b8b"
+            }
+        }
+    ],
+    "printReferences": [
+        "thv-13.v",
+        "thv-13"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/58/thv_E_13.vtt",
+    "Name": "pub-thv_E_13_VIDEO",
+    "Title": "Study 13—Practical Value Made Clear",
+    "UndatedReferenceTitle": "Study 13—Practical Value Made Clear",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODMinistryApplyTeaching"
+}

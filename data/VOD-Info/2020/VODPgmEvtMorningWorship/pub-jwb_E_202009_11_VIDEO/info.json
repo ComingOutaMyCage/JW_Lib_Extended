@@ -1,0 +1,102 @@
+{
+    "guid": "5edf8e4caf341cff13de9e7b",
+    "languageAgnosticNaturalKey": "pub-jwb_202009_11_VIDEO",
+    "naturalKey": "pub-jwb_E_202009_11_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2020-09-28T18:04:55.426Z",
+    "duration": 565.035,
+    "durationFormattedHHMM": "9:25",
+    "durationFormattedMinSec": "9m 25s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/f1/jwb_E_202009_11_r240P.mp4",
+            "checksum": "1b767ee93ca4d76863987dd5fb9f6af1",
+            "filesize": 8321748,
+            "modifiedDatetime": "2020-10-18T03:06:57.000Z",
+            "bitRate": 115.06129045103401,
+            "duration": 565.035,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.326,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/6c/jwb_E_202009_11.vtt",
+                "modifiedDatetime": "2020-09-28T06:19:31.000Z",
+                "checksum": "cf415107ee575cdbd8fe06a4abef3c61"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/b6/jwb_E_202009_11_r360P.mp4",
+            "checksum": "d318ce36e159372faffd3206c5ac8b50",
+            "filesize": 17719216,
+            "modifiedDatetime": "2020-09-28T06:19:38.000Z",
+            "bitRate": 245.00781404865063,
+            "duration": 565.008,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/6c/jwb_E_202009_11.vtt",
+                "modifiedDatetime": "2020-09-28T06:19:31.000Z",
+                "checksum": "cf415107ee575cdbd8fe06a4abef3c61"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/14/jwb_E_202009_11_r480P.mp4",
+            "checksum": "abe4d884afd63164b1aeb96ee1bda410",
+            "filesize": 30864773,
+            "modifiedDatetime": "2020-09-28T06:19:40.000Z",
+            "bitRate": 426.7745572850296,
+            "duration": 565.008,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/6c/jwb_E_202009_11.vtt",
+                "modifiedDatetime": "2020-09-28T06:19:31.000Z",
+                "checksum": "cf415107ee575cdbd8fe06a4abef3c61"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/0b/jwb_E_202009_11_r720P.mp4",
+            "checksum": "66e38cf4036bcbf3604831ce26528477",
+            "filesize": 53785189,
+            "modifiedDatetime": "2020-09-28T06:19:44.000Z",
+            "bitRate": 743.7006008100769,
+            "duration": 565.008,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/6c/jwb_E_202009_11.vtt",
+                "modifiedDatetime": "2020-09-28T06:19:31.000Z",
+                "checksum": "cf415107ee575cdbd8fe06a4abef3c61"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202009-11.v",
+        "jwb.202009-11"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/6c/jwb_E_202009_11.vtt",
+    "Name": "pub-jwb_E_202009_11_VIDEO",
+    "Title": "Anthony Morris III: Jehovah Will \"Carry It Out\" (Isa. 46:11)",
+    "UndatedReferenceTitle": "Anthony Morris III: Jehovah Will \"Carry It Out\" (Isa. 46:11)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "5e277599faacdecc13440527",
+    "languageAgnosticNaturalKey": "pub-jwb_202003_3_VIDEO",
+    "naturalKey": "pub-jwb_E_202003_3_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODActivitiesSpecialEvents",
+    "description": "",
+    "firstPublished": "2020-03-16T21:37:37.410Z",
+    "duration": 345.302,
+    "durationFormattedHHMM": "5:45",
+    "durationFormattedMinSec": "5m 45s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/f6/jwb_E_202003_03_r240P.mp4",
+            "checksum": "9ab8340a3f862ab92ea5863e0d59adb6",
+            "filesize": 18451552,
+            "modifiedDatetime": "2020-10-18T03:00:12.000Z",
+            "bitRate": 417.468621670306,
+            "duration": 345.302,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.881,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/3b/jwb_E_202003_03.vtt",
+                "modifiedDatetime": "2020-03-16T20:08:18.000Z",
+                "checksum": "b97e529849c17eeb651ec883926392e4"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/53/jwb_E_202003_03_r360P.mp4",
+            "checksum": "c9db9b7991704063158b36c188c95471",
+            "filesize": 33484975,
+            "modifiedDatetime": "2020-03-16T20:08:05.000Z",
+            "bitRate": 757.6872331744207,
+            "duration": 345.263,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/3b/jwb_E_202003_03.vtt",
+                "modifiedDatetime": "2020-03-16T20:08:18.000Z",
+                "checksum": "b97e529849c17eeb651ec883926392e4"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/67/jwb_E_202003_03_r480P.mp4",
+            "checksum": "db8dbe76d5b49a022344a5c9cf68241c",
+            "filesize": 63718939,
+            "modifiedDatetime": "2020-03-16T20:08:09.000Z",
+            "bitRate": 1441.8116361657635,
+            "duration": 345.263,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/3b/jwb_E_202003_03.vtt",
+                "modifiedDatetime": "2020-03-16T20:08:18.000Z",
+                "checksum": "b97e529849c17eeb651ec883926392e4"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/6c/jwb_E_202003_03_r720P.mp4",
+            "checksum": "d4feeb0b68429ce8860fda335011d0aa",
+            "filesize": 112159073,
+            "modifiedDatetime": "2020-03-16T20:08:13.000Z",
+            "bitRate": 2537.8993920938533,
+            "duration": 345.263,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/3b/jwb_E_202003_03.vtt",
+                "modifiedDatetime": "2020-03-16T20:08:18.000Z",
+                "checksum": "b97e529849c17eeb651ec883926392e4"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202003-3.v",
+        "jwb.202003-3"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/3b/jwb_E_202003_03.vtt",
+    "Name": "pub-jwb_E_202003_3_VIDEO",
+    "Title": "“Be Courageous”!—Mozambique Special Convention",
+    "UndatedReferenceTitle": "“Be Courageous”!—Mozambique Special Convention",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODActivitiesSpecialEvents"
+}

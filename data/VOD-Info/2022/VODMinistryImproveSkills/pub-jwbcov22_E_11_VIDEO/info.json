@@ -1,0 +1,102 @@
+{
+    "guid": "62f3ba1b7738170e4e826d34",
+    "languageAgnosticNaturalKey": "pub-jwbcov22_11_VIDEO",
+    "naturalKey": "pub-jwbcov22_E_11_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODMinistryImproveSkills",
+    "description": "",
+    "firstPublished": "2022-09-13T01:14:15.268Z",
+    "duration": 621.888,
+    "durationFormattedHHMM": "10:21",
+    "durationFormattedMinSec": "10m 21s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/1f/jwbcov22_E_11_r240P.mp4",
+            "checksum": "bc2a8fe6b60bbba9cefe19aab90c6733",
+            "filesize": 19800455,
+            "modifiedDatetime": "2022-09-13T01:13:31.000Z",
+            "bitRate": 248.7442347938857,
+            "duration": 621.888,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/d6/jwbcov22_E_11.vtt",
+                "modifiedDatetime": "2022-09-13T01:13:14.000Z",
+                "checksum": "52d8975e81088c907d3f11eb08583962"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/2c/jwbcov22_E_11_r360P.mp4",
+            "checksum": "eb0767fe91a2b10422911c99c9fd4ea1",
+            "filesize": 31618296,
+            "modifiedDatetime": "2022-09-13T01:13:24.000Z",
+            "bitRate": 397.20647045770295,
+            "duration": 621.888,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/d6/jwbcov22_E_11.vtt",
+                "modifiedDatetime": "2022-09-13T01:13:14.000Z",
+                "checksum": "52d8975e81088c907d3f11eb08583962"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/09/jwbcov22_E_11_r480P.mp4",
+            "checksum": "824dfa4c94bbac881c1df1d5b6ec4e2e",
+            "filesize": 58137998,
+            "modifiedDatetime": "2022-09-13T01:13:21.000Z",
+            "bitRate": 730.3615914360785,
+            "duration": 621.888,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/d6/jwbcov22_E_11.vtt",
+                "modifiedDatetime": "2022-09-13T01:13:14.000Z",
+                "checksum": "52d8975e81088c907d3f11eb08583962"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/db/jwbcov22_E_11_r720P.mp4",
+            "checksum": "f82dbf98425e8bea3a9f7f4a8eaccf7f",
+            "filesize": 93413915,
+            "modifiedDatetime": "2022-09-13T01:13:15.000Z",
+            "bitRate": 1173.5171139135985,
+            "duration": 621.888,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/d6/jwbcov22_E_11.vtt",
+                "modifiedDatetime": "2022-09-13T01:13:14.000Z",
+                "checksum": "52d8975e81088c907d3f11eb08583962"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwbcov22-11.v",
+        "jwbcov22-11"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/d6/jwbcov22_E_11.vtt",
+    "Name": "pub-jwbcov22_E_11_VIDEO",
+    "Title": "Be Ready to Share “the Good News of Peace”",
+    "UndatedReferenceTitle": "Be Ready to Share “the Good News of Peace”",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODMinistryImproveSkills"
+}

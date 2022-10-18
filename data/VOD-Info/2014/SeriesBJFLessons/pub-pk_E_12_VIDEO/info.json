@@ -1,0 +1,102 @@
+{
+    "guid": "553647237f0bc1fc27069bae",
+    "languageAgnosticNaturalKey": "pub-pk_12_VIDEO",
+    "naturalKey": "pub-pk_E_12_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBJFLessons",
+    "description": "",
+    "firstPublished": "2014-09-01T16:00:09.000Z",
+    "duration": 106.539,
+    "durationFormattedHHMM": "1:46",
+    "durationFormattedMinSec": "1m 46s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/1c/pk_E_012_r240P.mp4",
+            "checksum": "0f08488ad783bead1d572b98e11af9c7",
+            "filesize": 5056757,
+            "modifiedDatetime": "2021-10-11T22:30:04.000Z",
+            "bitRate": 370.8117596607815,
+            "duration": 106.539,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.631,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/15/pk_E_012.vtt",
+                "modifiedDatetime": "2021-10-11T22:29:53.000Z",
+                "checksum": "9c06c4a1602c750507f7b112764fd22d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/d7/pk_E_012_r360P.mp4",
+            "checksum": "0f713d5917103f911689b1e476685fbf",
+            "filesize": 8736866,
+            "modifiedDatetime": "2021-10-11T22:30:09.000Z",
+            "bitRate": 640.9025795532436,
+            "duration": 106.501,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/15/pk_E_012.vtt",
+                "modifiedDatetime": "2021-10-11T22:29:53.000Z",
+                "checksum": "9c06c4a1602c750507f7b112764fd22d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/14/pk_E_012_r480P.mp4",
+            "checksum": "755696fe2a114ed7c14f1b2e94f6d37f",
+            "filesize": 16560747,
+            "modifiedDatetime": "2021-10-11T22:30:12.000Z",
+            "bitRate": 1214.8321230551826,
+            "duration": 106.501,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/15/pk_E_012.vtt",
+                "modifiedDatetime": "2021-10-11T22:29:53.000Z",
+                "checksum": "9c06c4a1602c750507f7b112764fd22d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/ff/pk_E_012_r720P.mp4",
+            "checksum": "1e90eb551fde5196ef50ba4ca36eab20",
+            "filesize": 29920131,
+            "modifiedDatetime": "2021-10-11T22:30:18.000Z",
+            "bitRate": 2194.8246818104994,
+            "duration": 106.501,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/15/pk_E_012.vtt",
+                "modifiedDatetime": "2021-10-11T22:29:53.000Z",
+                "checksum": "9c06c4a1602c750507f7b112764fd22d"
+            }
+        }
+    ],
+    "printReferences": [
+        "pk-12.v",
+        "pk-12"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/15/pk_E_012.vtt",
+    "Name": "pub-pk_E_12_VIDEO",
+    "Title": "Caleb and Sophia Visit Bethel",
+    "UndatedReferenceTitle": "Caleb and Sophia Visit Bethel",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2014,
+    "Symbol": "SeriesBJFLessons"
+}

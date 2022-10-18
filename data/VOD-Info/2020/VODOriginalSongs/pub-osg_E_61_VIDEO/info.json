@@ -1,0 +1,102 @@
+{
+    "guid": "5e384524faacdecc136d3d31",
+    "languageAgnosticNaturalKey": "pub-osg_61_VIDEO",
+    "naturalKey": "pub-osg_E_61_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODOriginalSongs",
+    "description": "",
+    "firstPublished": "2020-04-24T18:21:09.955Z",
+    "duration": 235.862,
+    "durationFormattedHHMM": "3:55",
+    "durationFormattedMinSec": "3m 55s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/c2/osg_E_061_r240P.mp4",
+            "checksum": "39b632b66d7a3b7bb26a8b0be387e60c",
+            "filesize": 7223652,
+            "modifiedDatetime": "2020-12-15T08:36:01.000Z",
+            "bitRate": 239.27034134366707,
+            "duration": 235.862,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.833,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/52/osg_E_061.vtt",
+                "modifiedDatetime": "2020-04-20T12:32:19.000Z",
+                "checksum": "f2e2e4106eaf72faa69952211f8c0a5a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/a3/osg_E_061_r360P.mp4",
+            "checksum": "a88c969c5c40c9b5aa25f8541660b92c",
+            "filesize": 13400037,
+            "modifiedDatetime": "2020-04-20T12:32:04.000Z",
+            "bitRate": 443.93091791408705,
+            "duration": 235.82,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/52/osg_E_061.vtt",
+                "modifiedDatetime": "2020-04-20T12:32:19.000Z",
+                "checksum": "f2e2e4106eaf72faa69952211f8c0a5a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/91/osg_E_061_r480P.mp4",
+            "checksum": "07137ed1067b0a12ec728686a0911118",
+            "filesize": 24801150,
+            "modifiedDatetime": "2020-04-20T12:32:08.000Z",
+            "bitRate": 821.6393197141888,
+            "duration": 235.82,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/52/osg_E_061.vtt",
+                "modifiedDatetime": "2020-04-20T12:32:19.000Z",
+                "checksum": "f2e2e4106eaf72faa69952211f8c0a5a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/6b/osg_E_061_r720P.mp4",
+            "checksum": "bd8fff946469a1063bd30953370f1df5",
+            "filesize": 41369605,
+            "modifiedDatetime": "2020-04-20T12:32:11.000Z",
+            "bitRate": 1370.5370157853447,
+            "duration": 235.82,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/52/osg_E_061.vtt",
+                "modifiedDatetime": "2020-04-20T12:32:19.000Z",
+                "checksum": "f2e2e4106eaf72faa69952211f8c0a5a"
+            }
+        }
+    ],
+    "printReferences": [
+        "osg-61.v",
+        "osg-61"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/52/osg_E_061.vtt",
+    "Name": "pub-osg_E_61_VIDEO",
+    "Title": "Roll It on Him",
+    "UndatedReferenceTitle": "Roll It on Him",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODOriginalSongs"
+}

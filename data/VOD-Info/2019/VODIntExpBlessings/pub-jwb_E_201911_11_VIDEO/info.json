@@ -1,0 +1,102 @@
+{
+    "guid": "5d52c52bad989978fb240193",
+    "languageAgnosticNaturalKey": "pub-jwb_201911_11_VIDEO",
+    "naturalKey": "pub-jwb_E_201911_11_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpBlessings",
+    "description": "",
+    "firstPublished": "2019-11-18T14:09:56.044Z",
+    "duration": 266.176,
+    "durationFormattedHHMM": "4:26",
+    "durationFormattedMinSec": "4m 26s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/9b/jwb_E_201911_11_r240P.mp4",
+            "checksum": "f5f2445b6ed7d864adfd982070116095",
+            "filesize": 7516883,
+            "modifiedDatetime": "2020-11-12T21:19:40.000Z",
+            "bitRate": 220.62713557007393,
+            "duration": 266.176,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.483,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/cd/jwb_E_201911_11.vtt",
+                "modifiedDatetime": "2019-11-18T13:11:00.000Z",
+                "checksum": "af6cc967786b758e8451f9a9dad0b828"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/bd/jwb_E_201911_11_r360P.mp4",
+            "checksum": "35a0b415d001a90ba6b4654eebab913c",
+            "filesize": 13842050,
+            "modifiedDatetime": "2019-11-18T13:10:36.000Z",
+            "bitRate": 406.2962005425247,
+            "duration": 266.163,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/cd/jwb_E_201911_11.vtt",
+                "modifiedDatetime": "2019-11-18T13:11:00.000Z",
+                "checksum": "af6cc967786b758e8451f9a9dad0b828"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/fb/jwb_E_201911_11_r480P.mp4",
+            "checksum": "74b7c0e9ee27c60172da2e9ce1c68e1f",
+            "filesize": 25136146,
+            "modifiedDatetime": "2019-11-18T13:10:39.000Z",
+            "bitRate": 737.8040547521631,
+            "duration": 266.163,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/cd/jwb_E_201911_11.vtt",
+                "modifiedDatetime": "2019-11-18T13:11:00.000Z",
+                "checksum": "af6cc967786b758e8451f9a9dad0b828"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/6d/jwb_E_201911_11_r720P.mp4",
+            "checksum": "c64b07b9c555c7baa4170e4c6f79bef1",
+            "filesize": 41489051,
+            "modifiedDatetime": "2019-11-18T13:10:46.000Z",
+            "bitRate": 1217.7996601236835,
+            "duration": 266.163,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/cd/jwb_E_201911_11.vtt",
+                "modifiedDatetime": "2019-11-18T13:11:00.000Z",
+                "checksum": "af6cc967786b758e8451f9a9dad0b828"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201911-11.v",
+        "jwb.201911-11"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/cd/jwb_E_201911_11.vtt",
+    "Name": "pub-jwb_E_201911_11_VIDEO",
+    "Title": "Chang-Ryul Kim: A Satisfying Life in Serving Jehovah",
+    "UndatedReferenceTitle": "Chang-Ryul Kim: A Satisfying Life in Serving Jehovah",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODIntExpBlessings"
+}

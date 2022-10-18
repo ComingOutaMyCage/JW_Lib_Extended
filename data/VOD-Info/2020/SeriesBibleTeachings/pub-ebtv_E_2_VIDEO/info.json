@@ -1,0 +1,102 @@
+{
+    "guid": "5ed93534af341cff13d1acd8",
+    "languageAgnosticNaturalKey": "pub-ebtv_2_VIDEO",
+    "naturalKey": "pub-ebtv_E_2_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBibleTeachings",
+    "description": "",
+    "firstPublished": "2020-06-11T15:32:24.954Z",
+    "duration": 202.454,
+    "durationFormattedHHMM": "3:22",
+    "durationFormattedMinSec": "3m 22s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/44/ebtv_E_02_r240P.mp4",
+            "checksum": "7301019eb63a4d632abd6984322cbf63",
+            "filesize": 4224800,
+            "modifiedDatetime": "2020-12-04T22:09:56.000Z",
+            "bitRate": 163.03086133146294,
+            "duration": 202.454,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.786,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/a2/ebtv_E_02.vtt",
+                "modifiedDatetime": "2020-06-11T13:47:23.000Z",
+                "checksum": "1ee86bf1980f8d01c7bb95b37f7dedde"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/73/ebtv_E_02_r360P.mp4",
+            "checksum": "8f98ba717bc40c8459e23da2eef8d060",
+            "filesize": 8532236,
+            "modifiedDatetime": "2020-06-11T13:47:18.000Z",
+            "bitRate": 329.31888302076953,
+            "duration": 202.412,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/a2/ebtv_E_02.vtt",
+                "modifiedDatetime": "2020-06-11T13:47:23.000Z",
+                "checksum": "1ee86bf1980f8d01c7bb95b37f7dedde"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/f7/ebtv_E_02_r480P.mp4",
+            "checksum": "852787917cdfb7ef53c0fa47230958b2",
+            "filesize": 16395830,
+            "modifiedDatetime": "2020-06-11T13:47:20.000Z",
+            "bitRate": 632.8301774351323,
+            "duration": 202.412,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/a2/ebtv_E_02.vtt",
+                "modifiedDatetime": "2020-06-11T13:47:23.000Z",
+                "checksum": "1ee86bf1980f8d01c7bb95b37f7dedde"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/06/ebtv_E_02_r720P.mp4",
+            "checksum": "833f45cb858dc142534304182f711fd7",
+            "filesize": 29133409,
+            "modifiedDatetime": "2020-06-11T13:47:21.000Z",
+            "bitRate": 1124.4627680794617,
+            "duration": 202.412,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/a2/ebtv_E_02.vtt",
+                "modifiedDatetime": "2020-06-11T13:47:23.000Z",
+                "checksum": "1ee86bf1980f8d01c7bb95b37f7dedde"
+            }
+        }
+    ],
+    "printReferences": [
+        "ebtv-2.v",
+        "ebtv-2"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/a2/ebtv_E_02.vtt",
+    "Name": "pub-ebtv_E_2_VIDEO",
+    "Title": "Is Jesus Christ God?",
+    "UndatedReferenceTitle": "Is Jesus Christ God?",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "SeriesBibleTeachings"
+}

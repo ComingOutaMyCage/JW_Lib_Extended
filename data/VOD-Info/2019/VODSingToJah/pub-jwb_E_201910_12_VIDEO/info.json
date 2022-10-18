@@ -1,0 +1,102 @@
+{
+    "guid": "5d8513bead989978fbaa8bba",
+    "languageAgnosticNaturalKey": "pub-jwb_201910_12_VIDEO",
+    "naturalKey": "pub-jwb_E_201910_12_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODSingToJah",
+    "description": "",
+    "firstPublished": "2019-10-17T13:36:17.069Z",
+    "duration": 169.451,
+    "durationFormattedHHMM": "2:49",
+    "durationFormattedMinSec": "2m 49s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/d1/jwb_E_201910_12_r240P.mp4",
+            "checksum": "e324aec98197ec54406567929a4bf412",
+            "filesize": 7599364,
+            "modifiedDatetime": "2020-11-21T06:37:40.000Z",
+            "bitRate": 350.36695711444605,
+            "duration": 169.451,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.786,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/05/jwb_E_201910_12.vtt",
+                "modifiedDatetime": "2019-10-17T12:56:16.000Z",
+                "checksum": "3d99ccca4dbaa42d11b1a0533348a078"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/2c/jwb_E_201910_12_r360P.mp4",
+            "checksum": "b398989f8d134a49da973c213cf99717",
+            "filesize": 13263714,
+            "modifiedDatetime": "2019-10-17T12:56:02.000Z",
+            "bitRate": 611.6288159378117,
+            "duration": 169.421,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/05/jwb_E_201910_12.vtt",
+                "modifiedDatetime": "2019-10-17T12:56:16.000Z",
+                "checksum": "3d99ccca4dbaa42d11b1a0533348a078"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/4f/jwb_E_201910_12_r480P.mp4",
+            "checksum": "e7fe78e18389c1230234837d845217c8",
+            "filesize": 24577425,
+            "modifiedDatetime": "2019-10-17T12:56:06.000Z",
+            "bitRate": 1133.3372652298121,
+            "duration": 169.421,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/05/jwb_E_201910_12.vtt",
+                "modifiedDatetime": "2019-10-17T12:56:16.000Z",
+                "checksum": "3d99ccca4dbaa42d11b1a0533348a078"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/e6/jwb_E_201910_12_r720P.mp4",
+            "checksum": "cfe0c8f7f8736416ffb5e0017b6f1c38",
+            "filesize": 40781031,
+            "modifiedDatetime": "2019-10-17T12:56:11.000Z",
+            "bitRate": 1880.5331374947616,
+            "duration": 169.421,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/05/jwb_E_201910_12.vtt",
+                "modifiedDatetime": "2019-10-17T12:56:16.000Z",
+                "checksum": "3d99ccca4dbaa42d11b1a0533348a078"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201910-12.v",
+        "jwb.201910-12"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/05/jwb_E_201910_12.vtt",
+    "Name": "pub-jwb_E_201910_12_VIDEO",
+    "Title": "Britain Branch—Construction Volunteers Singing “The Joy of Jehovah”",
+    "UndatedReferenceTitle": "Britain Branch—Construction Volunteers Singing “The Joy of Jehovah”",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODSingToJah"
+}

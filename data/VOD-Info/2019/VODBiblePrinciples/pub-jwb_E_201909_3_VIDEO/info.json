@@ -1,0 +1,102 @@
+{
+    "guid": "5d10e17448fd57354cf345c7",
+    "languageAgnosticNaturalKey": "pub-jwb_201909_3_VIDEO",
+    "naturalKey": "pub-jwb_E_201909_3_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODBiblePrinciples",
+    "description": "",
+    "firstPublished": "2019-09-16T18:52:47.755Z",
+    "duration": 279.446,
+    "durationFormattedHHMM": "4:39",
+    "durationFormattedMinSec": "4m 39s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/ef/jwb_E_201909_03_r240P.mp4",
+            "checksum": "5de4e3676425c81cc78b9b664f34bc9a",
+            "filesize": 8653344,
+            "modifiedDatetime": "2020-11-23T20:22:08.000Z",
+            "bitRate": 241.92241076988037,
+            "duration": 279.446,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.786,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/57/jwb_E_201909_03.vtt",
+                "modifiedDatetime": "2019-09-16T11:31:48.000Z",
+                "checksum": "ae0fbf823552c146c4f442539f032762"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/4b/jwb_E_201909_03_r360P.mp4",
+            "checksum": "4ef2c4880e6b647a17b371f78b1fc0b6",
+            "filesize": 15011062,
+            "modifiedDatetime": "2019-09-16T11:31:35.000Z",
+            "bitRate": 419.72585368603393,
+            "duration": 279.406,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/57/jwb_E_201909_03.vtt",
+                "modifiedDatetime": "2019-09-16T11:31:48.000Z",
+                "checksum": "ae0fbf823552c146c4f442539f032762"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/c4/jwb_E_201909_03_r480P.mp4",
+            "checksum": "9eb926d5fe24bf3d6fc259a44a7d7f64",
+            "filesize": 27150195,
+            "modifiedDatetime": "2019-09-16T11:31:40.000Z",
+            "bitRate": 759.1494042271819,
+            "duration": 279.406,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/57/jwb_E_201909_03.vtt",
+                "modifiedDatetime": "2019-09-16T11:31:48.000Z",
+                "checksum": "ae0fbf823552c146c4f442539f032762"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/b3/jwb_E_201909_03_r720P.mp4",
+            "checksum": "9a8cc6d4f5652b31dc764309dfe2aad9",
+            "filesize": 43860454,
+            "modifiedDatetime": "2019-09-16T11:31:43.000Z",
+            "bitRate": 1226.3866805830942,
+            "duration": 279.406,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/57/jwb_E_201909_03.vtt",
+                "modifiedDatetime": "2019-09-16T11:31:48.000Z",
+                "checksum": "ae0fbf823552c146c4f442539f032762"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201909-3.v",
+        "jwb.201909-3"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/57/jwb_E_201909_03.vtt",
+    "Name": "pub-jwb_E_201909_3_VIDEO",
+    "Title": "Work Whole-Souled for Jehovah",
+    "UndatedReferenceTitle": "Work Whole-Souled for Jehovah",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODBiblePrinciples"
+}

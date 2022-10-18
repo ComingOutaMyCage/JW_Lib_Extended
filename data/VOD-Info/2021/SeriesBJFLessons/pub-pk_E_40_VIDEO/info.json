@@ -1,0 +1,102 @@
+{
+    "guid": "5f5fbaea0ca056895e336ea3",
+    "languageAgnosticNaturalKey": "pub-pk_40_VIDEO",
+    "naturalKey": "pub-pk_E_40_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBJFLessons",
+    "description": "",
+    "firstPublished": "2021-01-04T15:48:26.478Z",
+    "duration": 580.907,
+    "durationFormattedHHMM": "9:40",
+    "durationFormattedMinSec": "9m 40s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/4f/pk_E_040_r240P.mp4",
+            "checksum": "185b4e3ac39cc703af48249f2ec6636e",
+            "filesize": 14666700,
+            "modifiedDatetime": "2021-01-04T14:53:36.000Z",
+            "bitRate": 197.24946290886493,
+            "duration": 580.907,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.631,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/1f/pk_E_040.vtt",
+                "modifiedDatetime": "2021-01-04T14:53:23.000Z",
+                "checksum": "3fd343f87cfb63285fae08b93fce2c58"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/dc/pk_E_040_r360P.mp4",
+            "checksum": "d859ef7f69d4cd15e82b8229f408758a",
+            "filesize": 27136118,
+            "modifiedDatetime": "2021-01-04T14:53:48.000Z",
+            "bitRate": 364.96760388619947,
+            "duration": 580.876,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/1f/pk_E_040.vtt",
+                "modifiedDatetime": "2021-01-04T14:53:23.000Z",
+                "checksum": "3fd343f87cfb63285fae08b93fce2c58"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/46/pk_E_040_r480P.mp4",
+            "checksum": "93a211371236a593561cce7cdecb6647",
+            "filesize": 48823324,
+            "modifiedDatetime": "2021-01-04T14:53:59.000Z",
+            "bitRate": 656.6499885517735,
+            "duration": 580.876,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/1f/pk_E_040.vtt",
+                "modifiedDatetime": "2021-01-04T14:53:23.000Z",
+                "checksum": "3fd343f87cfb63285fae08b93fce2c58"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/06/pk_E_040_r720P.mp4",
+            "checksum": "c3272df7999ae488d94b2d3705d8c05d",
+            "filesize": 79096521,
+            "modifiedDatetime": "2021-01-04T14:54:06.000Z",
+            "bitRate": 1063.809780938617,
+            "duration": 580.876,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/1f/pk_E_040.vtt",
+                "modifiedDatetime": "2021-01-04T14:53:23.000Z",
+                "checksum": "3fd343f87cfb63285fae08b93fce2c58"
+            }
+        }
+    ],
+    "printReferences": [
+        "pk-40.v",
+        "pk-40"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/1f/pk_E_040.vtt",
+    "Name": "pub-pk_E_40_VIDEO",
+    "Title": "Jehovah Forgives",
+    "UndatedReferenceTitle": "Jehovah Forgives",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "SeriesBJFLessons"
+}

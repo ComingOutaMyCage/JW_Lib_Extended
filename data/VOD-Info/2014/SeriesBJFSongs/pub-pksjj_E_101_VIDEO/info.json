@@ -1,0 +1,102 @@
+{
+    "guid": "581cb406453f600819cf512d",
+    "languageAgnosticNaturalKey": "pub-pksjj_101_VIDEO",
+    "naturalKey": "pub-pksjj_E_101_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBJFSongs",
+    "description": "",
+    "firstPublished": "2014-08-04T16:32:05.000Z",
+    "duration": 124.736,
+    "durationFormattedHHMM": "2:04",
+    "durationFormattedMinSec": "2m 4s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/aa/pksjj_E_101_r240P.mp4",
+            "checksum": "f13be27bb68967d52c7b672bd1bb0236",
+            "filesize": 4193933,
+            "modifiedDatetime": "2021-09-15T18:49:05.000Z",
+            "bitRate": 262.6755833319972,
+            "duration": 124.736,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.599,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/03/pksjj_E_101.vtt",
+                "modifiedDatetime": "2021-09-15T18:49:01.000Z",
+                "checksum": "d3f4448893b2b30a2d60b3f1bc2518ea"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/37/pksjj_E_101_r360P.mp4",
+            "checksum": "916f8a75fbc62510f4f80b3ce02832b8",
+            "filesize": 6759511,
+            "modifiedDatetime": "2021-09-15T18:49:10.000Z",
+            "bitRate": 423.45524130175045,
+            "duration": 124.709,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/03/pksjj_E_101.vtt",
+                "modifiedDatetime": "2021-09-15T18:49:01.000Z",
+                "checksum": "d3f4448893b2b30a2d60b3f1bc2518ea"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/ec/pksjj_E_101_r480P.mp4",
+            "checksum": "76d1f26039b89f7c019f5c06cce5f048",
+            "filesize": 12386013,
+            "modifiedDatetime": "2021-09-15T18:49:13.000Z",
+            "bitRate": 775.932182621142,
+            "duration": 124.709,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/03/pksjj_E_101.vtt",
+                "modifiedDatetime": "2021-09-15T18:49:01.000Z",
+                "checksum": "d3f4448893b2b30a2d60b3f1bc2518ea"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/ff/pksjj_E_101_r720P.mp4",
+            "checksum": "98bfe1f0c43c3177aba67c9a99d8c3a8",
+            "filesize": 23675103,
+            "modifiedDatetime": "2021-09-15T18:49:18.000Z",
+            "bitRate": 1483.1467030246413,
+            "duration": 124.709,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/03/pksjj_E_101.vtt",
+                "modifiedDatetime": "2021-09-15T18:49:01.000Z",
+                "checksum": "d3f4448893b2b30a2d60b3f1bc2518ea"
+            }
+        }
+    ],
+    "printReferences": [
+        "pksjj-101.v",
+        "pksjj-101"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/03/pksjj_E_101.vtt",
+    "Name": "pub-pksjj_E_101_VIDEO",
+    "Title": "Song 101 Working Together in Unity",
+    "UndatedReferenceTitle": "Song 101 Working Together in Unity",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2014,
+    "Symbol": "SeriesBJFSongs"
+}

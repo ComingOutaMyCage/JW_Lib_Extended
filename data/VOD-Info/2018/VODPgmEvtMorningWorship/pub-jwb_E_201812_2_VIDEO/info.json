@@ -1,0 +1,102 @@
+{
+    "guid": "5be0a600960f5b04ef4aa222",
+    "languageAgnosticNaturalKey": "pub-jwb_201812_2_VIDEO",
+    "naturalKey": "pub-jwb_E_201812_2_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2018-12-10T18:44:12.961Z",
+    "duration": 576.15,
+    "durationFormattedHHMM": "9:36",
+    "durationFormattedMinSec": "9m 36s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/b3/jwb_E_201812_02_r240P.mp4",
+            "checksum": "e10878f5bad095c946114904aeaf4a3e",
+            "filesize": 7958177,
+            "modifiedDatetime": "2020-11-14T03:21:19.000Z",
+            "bitRate": 107.91158172784866,
+            "duration": 576.15,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.732,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/91/jwb_E_201812_02.vtt",
+                "modifiedDatetime": "2018-12-10T09:53:37.000Z",
+                "checksum": "171a65bce3932132085d5d957d616311"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/9f/jwb_E_201812_02_r360P.mp4",
+            "checksum": "38716b6cefb0387b9f7641404221b91c",
+            "filesize": 17187170,
+            "modifiedDatetime": "2018-12-10T09:53:40.000Z",
+            "bitRate": 233.06776139130977,
+            "duration": 576.119,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/91/jwb_E_201812_02.vtt",
+                "modifiedDatetime": "2018-12-10T09:53:37.000Z",
+                "checksum": "171a65bce3932132085d5d957d616311"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/d9/jwb_E_201812_02_r480P.mp4",
+            "checksum": "837caba62a8fe49b24326e2de2162a94",
+            "filesize": 30496782,
+            "modifiedDatetime": "2018-12-10T09:53:44.000Z",
+            "bitRate": 413.5536397428309,
+            "duration": 576.119,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/91/jwb_E_201812_02.vtt",
+                "modifiedDatetime": "2018-12-10T09:53:37.000Z",
+                "checksum": "171a65bce3932132085d5d957d616311"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/f3/jwb_E_201812_02_r720P.mp4",
+            "checksum": "d9ef0206750d3417cceb4fb4b8a4224e",
+            "filesize": 56184794,
+            "modifiedDatetime": "2018-12-10T09:53:47.000Z",
+            "bitRate": 761.8976342127233,
+            "duration": 576.119,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/91/jwb_E_201812_02.vtt",
+                "modifiedDatetime": "2018-12-10T09:53:37.000Z",
+                "checksum": "171a65bce3932132085d5d957d616311"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201812-2.v",
+        "jwb.201812-2"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/91/jwb_E_201812_02.vtt",
+    "Name": "pub-jwb_E_201812_2_VIDEO",
+    "Title": "Geoffrey W. Jackson: Testing Jehovah Out (Mal. 3:10)",
+    "UndatedReferenceTitle": "Geoffrey W. Jackson: Testing Jehovah Out (Mal. 3:10)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

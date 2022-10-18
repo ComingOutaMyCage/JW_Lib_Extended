@@ -1,0 +1,102 @@
+{
+    "guid": "5682bc6f79892656f9a429b3",
+    "languageAgnosticNaturalKey": "pub-pkon_4_VIDEO",
+    "naturalKey": "pub-pkon_E_4_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBJFSongs",
+    "description": "",
+    "firstPublished": "2016-01-04T13:35:40.323Z",
+    "duration": 119.616,
+    "durationFormattedHHMM": "1:59",
+    "durationFormattedMinSec": "1m 59s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/84/pkon_E_004_r240P.mp4",
+            "checksum": "803d5db515e666ad05d1e5b733cacc1d",
+            "filesize": 2371308,
+            "modifiedDatetime": "2021-09-17T19:25:46.000Z",
+            "bitRate": 154.8776396970305,
+            "duration": 119.616,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.814,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/43/pkon_E_004.vtt",
+                "modifiedDatetime": "2021-09-17T19:25:42.000Z",
+                "checksum": "4c86b368db0d2425bf6be04bdffa5209"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/42/pkon_E_004_r360P.mp4",
+            "checksum": "60ad8f4af7d226eb42e2bc6a0a4087a8",
+            "filesize": 4164184,
+            "modifiedDatetime": "2021-09-17T19:25:49.000Z",
+            "bitRate": 272.04655684241334,
+            "duration": 119.585,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/43/pkon_E_004.vtt",
+                "modifiedDatetime": "2021-09-17T19:25:42.000Z",
+                "checksum": "4c86b368db0d2425bf6be04bdffa5209"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/1e/pkon_E_004_r480P.mp4",
+            "checksum": "83a521203c4433905843f9ed977347b5",
+            "filesize": 7561593,
+            "modifiedDatetime": "2021-09-17T19:25:54.000Z",
+            "bitRate": 493.9996263118284,
+            "duration": 119.585,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/43/pkon_E_004.vtt",
+                "modifiedDatetime": "2021-09-17T19:25:42.000Z",
+                "checksum": "4c86b368db0d2425bf6be04bdffa5209"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/b2/pkon_E_004_r720P.mp4",
+            "checksum": "a2666978c914f24bd16a55371968ea24",
+            "filesize": 14653081,
+            "modifiedDatetime": "2021-09-17T19:26:01.000Z",
+            "bitRate": 957.2872459965715,
+            "duration": 119.585,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/43/pkon_E_004.vtt",
+                "modifiedDatetime": "2021-09-17T19:25:42.000Z",
+                "checksum": "4c86b368db0d2425bf6be04bdffa5209"
+            }
+        }
+    ],
+    "printReferences": [
+        "pkon-4.v",
+        "pkon-4"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/43/pkon_E_004.vtt",
+    "Name": "pub-pkon_E_4_VIDEO",
+    "Title": "Memorize Bible Books—Part 2",
+    "UndatedReferenceTitle": "Memorize Bible Books—Part 2",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2016,
+    "Symbol": "SeriesBJFSongs"
+}

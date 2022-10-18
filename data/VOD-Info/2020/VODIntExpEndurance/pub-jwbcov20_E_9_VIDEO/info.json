@@ -1,0 +1,102 @@
+{
+    "guid": "5f512e0d20de59c21cd2ed70",
+    "languageAgnosticNaturalKey": "pub-jwbcov20_9_VIDEO",
+    "naturalKey": "pub-jwbcov20_E_9_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpEndurance",
+    "description": "",
+    "firstPublished": "2020-09-28T13:12:22.707Z",
+    "duration": 146.795,
+    "durationFormattedHHMM": "2:26",
+    "durationFormattedMinSec": "2m 26s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/4a/jwbcov20_E_09_r240P.mp4",
+            "checksum": "4ffe347ad0fda9c783c8ca2fb5206fd2",
+            "filesize": 4189485,
+            "modifiedDatetime": "2020-12-05T03:11:31.000Z",
+            "bitRate": 222.96639233284515,
+            "duration": 146.795,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.438,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/78/jwbcov20_E_09.vtt",
+                "modifiedDatetime": "2020-09-28T06:28:07.000Z",
+                "checksum": "2a774ef1c1fa88c2362c514e5f7cb4d9"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/a5/jwbcov20_E_09_r360P.mp4",
+            "checksum": "2a6eee390a5b4e4a053b83198a8d73d9",
+            "filesize": 7822554,
+            "modifiedDatetime": "2020-09-28T06:28:15.000Z",
+            "bitRate": 416.3824622035388,
+            "duration": 146.773,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/78/jwbcov20_E_09.vtt",
+                "modifiedDatetime": "2020-09-28T06:28:07.000Z",
+                "checksum": "2a774ef1c1fa88c2362c514e5f7cb4d9"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/9b/jwbcov20_E_09_r480P.mp4",
+            "checksum": "4865b573ccd6355a6031e3f6931fa7d3",
+            "filesize": 14231169,
+            "modifiedDatetime": "2020-09-28T06:28:17.000Z",
+            "bitRate": 757.5031362205583,
+            "duration": 146.773,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/78/jwbcov20_E_09.vtt",
+                "modifiedDatetime": "2020-09-28T06:28:07.000Z",
+                "checksum": "2a774ef1c1fa88c2362c514e5f7cb4d9"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/70/jwbcov20_E_09_r720P.mp4",
+            "checksum": "13051bc8a98dd01ab696e35cdabd7603",
+            "filesize": 23657935,
+            "modifiedDatetime": "2020-09-28T06:28:19.000Z",
+            "bitRate": 1259.275324395495,
+            "duration": 146.773,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/78/jwbcov20_E_09.vtt",
+                "modifiedDatetime": "2020-09-28T06:28:07.000Z",
+                "checksum": "2a774ef1c1fa88c2362c514e5f7cb4d9"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwbcov20-9.v",
+        "jwbcov20-9"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/78/jwbcov20_E_09.vtt",
+    "Name": "pub-jwbcov20_E_9_VIDEO",
+    "Title": "Close Friendship With Jehovah Brings the Greatest Joy!—Crystal Spaeth",
+    "UndatedReferenceTitle": "Close Friendship With Jehovah Brings the Greatest Joy!—Crystal Spaeth",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODIntExpEndurance"
+}

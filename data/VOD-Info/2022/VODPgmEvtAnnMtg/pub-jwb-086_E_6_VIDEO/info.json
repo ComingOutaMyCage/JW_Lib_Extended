@@ -1,0 +1,102 @@
+{
+    "guid": "61a62133d4a4e5a332ccd35e",
+    "languageAgnosticNaturalKey": "pub-jwb-086_6_VIDEO",
+    "naturalKey": "pub-jwb-086_E_6_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtAnnMtg",
+    "description": "",
+    "firstPublished": "2022-01-04T21:15:30.834Z",
+    "duration": 1242.24,
+    "durationFormattedHHMM": "20:42",
+    "durationFormattedMinSec": "20m 42s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/a3/jwb-086_E_06_r240P.mp4",
+            "checksum": "c1cee5ca0f1a3202e7c3b8f6d1a70e27",
+            "filesize": 25171415,
+            "modifiedDatetime": "2022-01-04T20:09:33.000Z",
+            "bitRate": 158.30409557533164,
+            "duration": 1242.24,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.268,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/89/jwb-086_E_06.vtt",
+                "modifiedDatetime": "2022-01-04T20:09:18.000Z",
+                "checksum": "04244ef88e2117b2e07b70a200946108"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/b5/jwb-086_E_06_r360P.mp4",
+            "checksum": "1e246891042fe068c9d63d905f277c6e",
+            "filesize": 46762488,
+            "modifiedDatetime": "2022-01-04T20:09:30.000Z",
+            "bitRate": 294.09671377867147,
+            "duration": 1242.217,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/89/jwb-086_E_06.vtt",
+                "modifiedDatetime": "2022-01-04T20:09:18.000Z",
+                "checksum": "04244ef88e2117b2e07b70a200946108"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/d8/jwb-086_E_06_r480P.mp4",
+            "checksum": "283beba90025416447367be5e6a44641",
+            "filesize": 83602131,
+            "modifiedDatetime": "2022-01-04T20:09:27.000Z",
+            "bitRate": 525.7870794213088,
+            "duration": 1242.217,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/89/jwb-086_E_06.vtt",
+                "modifiedDatetime": "2022-01-04T20:09:18.000Z",
+                "checksum": "04244ef88e2117b2e07b70a200946108"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/48/jwb-086_E_06_r720P.mp4",
+            "checksum": "b47c13bf79725066e7283eecb6d03475",
+            "filesize": 136980564,
+            "modifiedDatetime": "2022-01-04T20:09:20.000Z",
+            "bitRate": 861.4925220392249,
+            "duration": 1242.217,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/89/jwb-086_E_06.vtt",
+                "modifiedDatetime": "2022-01-04T20:09:18.000Z",
+                "checksum": "04244ef88e2117b2e07b70a200946108"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-086-6.v",
+        "jwb-086-6"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/89/jwb-086_E_06.vtt",
+    "Name": "pub-jwb-086_E_6_VIDEO",
+    "Title": "Geoffrey W. Jackson: Are You There?",
+    "UndatedReferenceTitle": "Geoffrey W. Jackson: Are You There?",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODPgmEvtAnnMtg"
+}

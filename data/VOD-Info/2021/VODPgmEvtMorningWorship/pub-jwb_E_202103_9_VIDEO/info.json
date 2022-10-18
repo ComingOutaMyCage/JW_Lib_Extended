@@ -1,0 +1,102 @@
+{
+    "guid": "5f722bed0ca056895e7f9bb6",
+    "languageAgnosticNaturalKey": "pub-jwb_202103_9_VIDEO",
+    "naturalKey": "pub-jwb_E_202103_9_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2021-03-08T14:08:34.497Z",
+    "duration": 597.106,
+    "durationFormattedHHMM": "9:57",
+    "durationFormattedMinSec": "9m 57s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/0b/jwb_E_202103_09_r240P.mp4",
+            "checksum": "0f69989fdafacc6fb8b498f6f076505f",
+            "filesize": 9949863,
+            "modifiedDatetime": "2021-03-08T08:34:28.000Z",
+            "bitRate": 130.1755774798959,
+            "duration": 597.142,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.412,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/3f/jwb_E_202103_09.vtt",
+                "modifiedDatetime": "2021-03-08T08:34:17.000Z",
+                "checksum": "5f00fea8fde9bc21cf6c56fd0c8e6dfb"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/9e/jwb_E_202103_09_r360P.mp4",
+            "checksum": "e01e2a3b93c9279e9e0f26829dab373a",
+            "filesize": 19097642,
+            "modifiedDatetime": "2021-03-08T08:34:26.000Z",
+            "bitRate": 249.872431569939,
+            "duration": 597.106,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/3f/jwb_E_202103_09.vtt",
+                "modifiedDatetime": "2021-03-08T08:34:17.000Z",
+                "checksum": "5f00fea8fde9bc21cf6c56fd0c8e6dfb"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/6c/jwb_E_202103_09_r480P.mp4",
+            "checksum": "707c0e9db3dbe53b023d49474b7be08b",
+            "filesize": 33333867,
+            "modifiedDatetime": "2021-03-08T08:34:21.000Z",
+            "bitRate": 436.13836728738283,
+            "duration": 597.106,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/3f/jwb_E_202103_09.vtt",
+                "modifiedDatetime": "2021-03-08T08:34:17.000Z",
+                "checksum": "5f00fea8fde9bc21cf6c56fd0c8e6dfb"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/c7/jwb_E_202103_09_r720P.mp4",
+            "checksum": "b69ce660e5f998da245c0af7ba2e85d4",
+            "filesize": 56061225,
+            "modifiedDatetime": "2021-03-08T08:34:18.000Z",
+            "bitRate": 733.5017908252471,
+            "duration": 597.106,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/3f/jwb_E_202103_09.vtt",
+                "modifiedDatetime": "2021-03-08T08:34:17.000Z",
+                "checksum": "5f00fea8fde9bc21cf6c56fd0c8e6dfb"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202103-9.v",
+        "jwb.202103-9"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/3f/jwb_E_202103_09.vtt",
+    "Name": "pub-jwb_E_202103_9_VIDEO",
+    "Title": "Geoffrey W. Jackson: Continue to \"Be Transformed\" (Rom. 12:2)",
+    "UndatedReferenceTitle": "Geoffrey W. Jackson: Continue to \"Be Transformed\" (Rom. 12:2)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

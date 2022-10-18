@@ -1,0 +1,102 @@
+{
+    "guid": "5eb40cb333192cea84c42071",
+    "languageAgnosticNaturalKey": "pub-jwb_202010_11_VIDEO",
+    "naturalKey": "pub-jwb_E_202010_11_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpBlessings",
+    "description": "",
+    "firstPublished": "2020-10-26T13:12:08.293Z",
+    "duration": 369.078,
+    "durationFormattedHHMM": "6:09",
+    "durationFormattedMinSec": "6m 9s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/e6/jwb_E_202010_11_r240P.mp4",
+            "checksum": "58ebc9ce670acdb6d39a83766b835300",
+            "filesize": 10654263,
+            "modifiedDatetime": "2020-10-26T07:45:46.000Z",
+            "bitRate": 225.50575624475087,
+            "duration": 369.11,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/fd/jwb_E_202010_11.vtt",
+                "modifiedDatetime": "2020-10-26T07:46:00.000Z",
+                "checksum": "d7a96fd4f4b4533bc16f4072c0c3317c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/1b/jwb_E_202010_11_r360P.mp4",
+            "checksum": "1cade31e16ffb8559b710d78d7408d36",
+            "filesize": 19895376,
+            "modifiedDatetime": "2020-10-26T07:45:50.000Z",
+            "bitRate": 421.13760505909323,
+            "duration": 369.078,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/fd/jwb_E_202010_11.vtt",
+                "modifiedDatetime": "2020-10-26T07:46:00.000Z",
+                "checksum": "d7a96fd4f4b4533bc16f4072c0c3317c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/48/jwb_E_202010_11_r480P.mp4",
+            "checksum": "9a9e0f754dba133c1ffa9512973486c8",
+            "filesize": 36574061,
+            "modifiedDatetime": "2020-10-26T07:45:53.000Z",
+            "bitRate": 774.1855422498768,
+            "duration": 369.078,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/fd/jwb_E_202010_11.vtt",
+                "modifiedDatetime": "2020-10-26T07:46:00.000Z",
+                "checksum": "d7a96fd4f4b4533bc16f4072c0c3317c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/d7/jwb_E_202010_11_r720P.mp4",
+            "checksum": "39f6cfe32d6aee8d38ea1b3701673dd3",
+            "filesize": 60465054,
+            "modifiedDatetime": "2020-10-26T07:45:56.000Z",
+            "bitRate": 1279.9008187293744,
+            "duration": 369.078,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/fd/jwb_E_202010_11.vtt",
+                "modifiedDatetime": "2020-10-26T07:46:00.000Z",
+                "checksum": "d7a96fd4f4b4533bc16f4072c0c3317c"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202010-11.v",
+        "jwb.202010-11"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/fd/jwb_E_202010_11.vtt",
+    "Name": "pub-jwb_E_202010_11_VIDEO",
+    "Title": "David Hibshman: Jehovah Remembers",
+    "UndatedReferenceTitle": "David Hibshman: Jehovah Remembers",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODIntExpBlessings"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "5e7e7b0a001474da27d8caed",
+    "languageAgnosticNaturalKey": "pub-jjs_1_VIDEO",
+    "naturalKey": "pub-jjs_E_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODMoviesBibleTimes",
+    "description": "",
+    "firstPublished": "2020-09-28T13:18:24.372Z",
+    "duration": 2065.963,
+    "durationFormattedHHMM": "34:25",
+    "durationFormattedMinSec": "34m 25s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/2d/jjs_E_01_r240P.mp4",
+            "checksum": "257a613950f5796fec35e87551919253",
+            "filesize": 46815804,
+            "modifiedDatetime": "2020-12-03T06:09:45.000Z",
+            "bitRate": 177.03534320314543,
+            "duration": 2065.963,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.904,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/31/jjs_E_01.vtt",
+                "modifiedDatetime": "2020-07-29T19:59:38.000Z",
+                "checksum": "982f95d974f53d10ac066fdfbeebd26d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/7f/jjs_E_01_r360P.mp4",
+            "checksum": "e84617ef291884c1ce409a8f8efaba79",
+            "filesize": 88574251,
+            "modifiedDatetime": "2020-07-29T19:59:10.000Z",
+            "bitRate": 334.9498707307569,
+            "duration": 2065.94,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/31/jjs_E_01.vtt",
+                "modifiedDatetime": "2020-07-29T19:59:38.000Z",
+                "checksum": "982f95d974f53d10ac066fdfbeebd26d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/55/jjs_E_01_r480P.mp4",
+            "checksum": "c47c0729c64722309f978c254d364a1d",
+            "filesize": 164460710,
+            "modifiedDatetime": "2020-07-29T19:59:18.000Z",
+            "bitRate": 621.9199477598575,
+            "duration": 2065.94,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/31/jjs_E_01.vtt",
+                "modifiedDatetime": "2020-07-29T19:59:38.000Z",
+                "checksum": "982f95d974f53d10ac066fdfbeebd26d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/96/jjs_E_01_r720P.mp4",
+            "checksum": "a55f31c3045a8819f4c07ecd97299155",
+            "filesize": 270970914,
+            "modifiedDatetime": "2020-07-29T19:59:28.000Z",
+            "bitRate": 1024.695908702576,
+            "duration": 2065.94,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/31/jjs_E_01.vtt",
+                "modifiedDatetime": "2020-07-29T19:59:38.000Z",
+                "checksum": "982f95d974f53d10ac066fdfbeebd26d"
+            }
+        }
+    ],
+    "printReferences": [
+        "jjs-1.v",
+        "jjs-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/31/jjs_E_01.vtt",
+    "Name": "pub-jjs_E_1_VIDEO",
+    "Title": "Nehemiah: “The Joy of Jehovah Is Your Stronghold”—Part I",
+    "UndatedReferenceTitle": "Nehemiah: “The Joy of Jehovah Is Your Stronghold”—Part I",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODMoviesBibleTimes"
+}

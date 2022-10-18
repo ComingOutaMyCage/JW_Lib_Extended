@@ -1,0 +1,102 @@
+{
+    "guid": "5b86ee89887c963ad88ed34f",
+    "languageAgnosticNaturalKey": "pub-jwb_201809_11_VIDEO",
+    "naturalKey": "pub-jwb_E_201809_11_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2018-09-24T14:18:04.624Z",
+    "duration": 571.99,
+    "durationFormattedHHMM": "9:31",
+    "durationFormattedMinSec": "9m 31s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/91/jwb_E_201809_11_r240P.mp4",
+            "checksum": "4992236417f8d88af58b3922ff990f8e",
+            "filesize": 8605615,
+            "modifiedDatetime": "2020-11-12T19:35:05.000Z",
+            "bitRate": 117.5394101076942,
+            "duration": 571.99,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.557,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/a5/jwb_E_201809_11.vtt",
+                "modifiedDatetime": "2018-09-24T14:05:06.000Z",
+                "checksum": "33ecfefc5f12ebff2a7352336d4be570"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/3d/jwb_E_201809_11_r360P.mp4",
+            "checksum": "b0882376d5f50742854ba9d6611b8859",
+            "filesize": 17783655,
+            "modifiedDatetime": "2018-09-24T14:04:58.000Z",
+            "bitRate": 242.91509837869876,
+            "duration": 571.948,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/a5/jwb_E_201809_11.vtt",
+                "modifiedDatetime": "2018-09-24T14:05:06.000Z",
+                "checksum": "33ecfefc5f12ebff2a7352336d4be570"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/ef/jwb_E_201809_11_r480P.mp4",
+            "checksum": "6ab3ce39efb50fe0e3d538f082033442",
+            "filesize": 31137684,
+            "modifiedDatetime": "2018-09-24T14:05:01.000Z",
+            "bitRate": 425.3239040087561,
+            "duration": 571.948,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/a5/jwb_E_201809_11.vtt",
+                "modifiedDatetime": "2018-09-24T14:05:06.000Z",
+                "checksum": "33ecfefc5f12ebff2a7352336d4be570"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/6d/jwb_E_201809_11_r720P.mp4",
+            "checksum": "b860f7d06831d4d39f08301eb865ff3b",
+            "filesize": 55699824,
+            "modifiedDatetime": "2018-09-24T14:05:03.000Z",
+            "bitRate": 760.829437291502,
+            "duration": 571.948,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/a5/jwb_E_201809_11.vtt",
+                "modifiedDatetime": "2018-09-24T14:05:06.000Z",
+                "checksum": "33ecfefc5f12ebff2a7352336d4be570"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201809-11.v",
+        "jwb.201809-11"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/a5/jwb_E_201809_11.vtt",
+    "Name": "pub-jwb_E_201809_11_VIDEO",
+    "Title": "Seth Hyatt: Lacking Good Sense (Prov. 5:8)",
+    "UndatedReferenceTitle": "Seth Hyatt: Lacking Good Sense (Prov. 5:8)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

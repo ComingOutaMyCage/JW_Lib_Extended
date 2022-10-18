@@ -1,0 +1,102 @@
+{
+    "guid": "5fc7f9e1c0bf482e1b88f712",
+    "languageAgnosticNaturalKey": "pub-jwb_202101_7_VIDEO",
+    "naturalKey": "pub-jwb_E_202101_7_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtAnnMtg",
+    "description": "",
+    "firstPublished": "2021-01-04T15:49:06.407Z",
+    "duration": 1147.222,
+    "durationFormattedHHMM": "19:07",
+    "durationFormattedMinSec": "19m 7s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/46/jwb_E_202101_07_r240P.mp4",
+            "checksum": "bef324507a26dd351496b93893b1b33f",
+            "filesize": 25266805,
+            "modifiedDatetime": "2021-01-06T14:39:27.000Z",
+            "bitRate": 172.0651400186712,
+            "duration": 1147.222,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.483,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/af/jwb_E_202101_07.vtt",
+                "modifiedDatetime": "2021-01-06T14:39:17.000Z",
+                "checksum": "ff62c53840487b0cf5a5b1555ec47e60"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/ec/jwb_E_202101_07_r360P.mp4",
+            "checksum": "dc0cea04201e70a9cdd81e532c261d35",
+            "filesize": 50011045,
+            "modifiedDatetime": "2021-01-06T14:39:32.000Z",
+            "bitRate": 340.581446529299,
+            "duration": 1147.189,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/af/jwb_E_202101_07.vtt",
+                "modifiedDatetime": "2021-01-06T14:39:17.000Z",
+                "checksum": "ff62c53840487b0cf5a5b1555ec47e60"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/2d/jwb_E_202101_07_r480P.mp4",
+            "checksum": "dac46e0b9c27e6e5f6ecac19266ae5ac",
+            "filesize": 95626660,
+            "modifiedDatetime": "2021-01-06T14:39:40.000Z",
+            "bitRate": 651.2294672020041,
+            "duration": 1147.189,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/af/jwb_E_202101_07.vtt",
+                "modifiedDatetime": "2021-01-06T14:39:17.000Z",
+                "checksum": "ff62c53840487b0cf5a5b1555ec47e60"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/d1/jwb_E_202101_07_r720P.mp4",
+            "checksum": "5957ffca405e66edb001013431216817",
+            "filesize": 167300378,
+            "modifiedDatetime": "2021-01-06T14:39:46.000Z",
+            "bitRate": 1139.3364154685933,
+            "duration": 1147.189,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/af/jwb_E_202101_07.vtt",
+                "modifiedDatetime": "2021-01-06T14:39:17.000Z",
+                "checksum": "ff62c53840487b0cf5a5b1555ec47e60"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202101-7.v",
+        "jwb.202101-7"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/af/jwb_E_202101_07.vtt",
+    "Name": "pub-jwb_E_202101_7_VIDEO",
+    "Title": "2020 Landmark Memorial and Convention",
+    "UndatedReferenceTitle": "2020 Landmark Memorial and Convention",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODPgmEvtAnnMtg"
+}

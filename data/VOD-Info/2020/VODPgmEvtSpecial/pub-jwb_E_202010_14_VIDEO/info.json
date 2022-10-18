@@ -1,0 +1,102 @@
+{
+    "guid": "5f7238ea0ca056895e7fddfa",
+    "languageAgnosticNaturalKey": "pub-jwb_202010_14_VIDEO",
+    "naturalKey": "pub-jwb_E_202010_14_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtSpecial",
+    "description": "",
+    "firstPublished": "2020-10-19T12:47:39.737Z",
+    "duration": 1138.219,
+    "durationFormattedHHMM": "18:58",
+    "durationFormattedMinSec": "18m 58s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/95/jwb_E_202010_14_r240P.mp4",
+            "checksum": "80b88169b1e9d295177ecca9e93683c8",
+            "filesize": 18957040,
+            "modifiedDatetime": "2020-10-19T12:46:09.000Z",
+            "bitRate": 130.117205036992,
+            "duration": 1138.219,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.483,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/6c/jwb_E_202010_14.vtt",
+                "modifiedDatetime": "2020-10-19T12:46:03.000Z",
+                "checksum": "4822a7532a45bc3a8b47941af9333eb2"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/54/jwb_E_202010_14_r360P.mp4",
+            "checksum": "b855c65e1ff14fd68df047c01b07586a",
+            "filesize": 37147425,
+            "modifiedDatetime": "2020-10-19T12:46:11.000Z",
+            "bitRate": 254.98098526814738,
+            "duration": 1138.18,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/6c/jwb_E_202010_14.vtt",
+                "modifiedDatetime": "2020-10-19T12:46:03.000Z",
+                "checksum": "4822a7532a45bc3a8b47941af9333eb2"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/e7/jwb_E_202010_14_r480P.mp4",
+            "checksum": "07f01ddf5cf0496195602ada09d7bd56",
+            "filesize": 65928443,
+            "modifiedDatetime": "2020-10-19T12:46:14.000Z",
+            "bitRate": 452.5347141379219,
+            "duration": 1138.18,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/6c/jwb_E_202010_14.vtt",
+                "modifiedDatetime": "2020-10-19T12:46:03.000Z",
+                "checksum": "4822a7532a45bc3a8b47941af9333eb2"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/57/jwb_E_202010_14_r720P.mp4",
+            "checksum": "39dd1a4c61050430a683e786942d3e60",
+            "filesize": 108301144,
+            "modifiedDatetime": "2020-10-19T12:46:22.000Z",
+            "bitRate": 743.3821429826564,
+            "duration": 1138.18,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/6c/jwb_E_202010_14.vtt",
+                "modifiedDatetime": "2020-10-19T12:46:03.000Z",
+                "checksum": "4822a7532a45bc3a8b47941af9333eb2"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202010-14.v",
+        "jwb.202010-14"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/6c/jwb_E_202010_14.vtt",
+    "Name": "pub-jwb_E_202010_14_VIDEO",
+    "Title": "Samuel F. Herd: Strive for Calm When Facing Anxious Times",
+    "UndatedReferenceTitle": "Samuel F. Herd: Strive for Calm When Facing Anxious Times",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODPgmEvtSpecial"
+}

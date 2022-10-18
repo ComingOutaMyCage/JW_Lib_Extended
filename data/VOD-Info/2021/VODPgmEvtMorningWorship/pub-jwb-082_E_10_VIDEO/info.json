@@ -1,0 +1,102 @@
+{
+    "guid": "60f18c36b765b4a6fb9e7942",
+    "languageAgnosticNaturalKey": "pub-jwb-082_10_VIDEO",
+    "naturalKey": "pub-jwb-082_E_10_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2021-09-20T16:03:27.210Z",
+    "duration": 624.333,
+    "durationFormattedHHMM": "10:24",
+    "durationFormattedMinSec": "10m 24s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/2b/jwb-082_E_10_r240P.mp4",
+            "checksum": "6a713b646c069c01b5550b7717f161e1",
+            "filesize": 10662158,
+            "modifiedDatetime": "2021-09-20T05:54:00.000Z",
+            "bitRate": 133.4129494781081,
+            "duration": 624.363,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.354,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/30/jwb-082_E_10.vtt",
+                "modifiedDatetime": "2021-09-20T05:53:51.000Z",
+                "checksum": "d913922a89d2047411f732f6ba096020"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/1b/jwb-082_E_10_r360P.mp4",
+            "checksum": "cb2f7357365dd78f14d052bd48d7f164",
+            "filesize": 20355871,
+            "modifiedDatetime": "2021-09-20T05:53:59.000Z",
+            "bitRate": 254.72022492403894,
+            "duration": 624.333,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/30/jwb-082_E_10.vtt",
+                "modifiedDatetime": "2021-09-20T05:53:51.000Z",
+                "checksum": "d913922a89d2047411f732f6ba096020"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/b6/jwb-082_E_10_r480P.mp4",
+            "checksum": "6af43250daeb4744974c400b16d41403",
+            "filesize": 35256614,
+            "modifiedDatetime": "2021-09-20T05:53:56.000Z",
+            "bitRate": 441.1785006959427,
+            "duration": 624.333,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/30/jwb-082_E_10.vtt",
+                "modifiedDatetime": "2021-09-20T05:53:51.000Z",
+                "checksum": "d913922a89d2047411f732f6ba096020"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/20/jwb-082_E_10_r720P.mp4",
+            "checksum": "829c725fa7d0d0aa5236ab9749f0ec9b",
+            "filesize": 63314848,
+            "modifiedDatetime": "2021-09-20T05:53:52.000Z",
+            "bitRate": 792.2811224138401,
+            "duration": 624.333,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/30/jwb-082_E_10.vtt",
+                "modifiedDatetime": "2021-09-20T05:53:51.000Z",
+                "checksum": "d913922a89d2047411f732f6ba096020"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-082-10.v",
+        "jwb-082-10"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/30/jwb-082_E_10.vtt",
+    "Name": "pub-jwb-082_E_10_VIDEO",
+    "Title": "Geoffrey W. Jackson: Faithful With Material Things (Luke 16:9)",
+    "UndatedReferenceTitle": "Geoffrey W. Jackson: Faithful With Material Things (Luke 16:9)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

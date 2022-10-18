@@ -1,0 +1,102 @@
+{
+    "guid": "5d6988ffad989978fb0f8a63",
+    "languageAgnosticNaturalKey": "pub-jwb_201911_6_VIDEO",
+    "naturalKey": "pub-jwb_E_201911_6_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODMinistryExpandMinistry",
+    "description": "",
+    "firstPublished": "2019-11-18T14:09:34.737Z",
+    "duration": 278.934,
+    "durationFormattedHHMM": "4:38",
+    "durationFormattedMinSec": "4m 38s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/00/jwb_E_201911_06_r240P.mp4",
+            "checksum": "0b392c123065f1db6acbc5b6d3f2c3ca",
+            "filesize": 12797867,
+            "modifiedDatetime": "2020-11-03T22:16:55.000Z",
+            "bitRate": 358.4480053973341,
+            "duration": 278.934,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.506,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/43/jwb_E_201911_06.vtt",
+                "modifiedDatetime": "2019-11-18T13:09:50.000Z",
+                "checksum": "0abc8900a6204f8b3ba8cf42ca307584"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/68/jwb_E_201911_06_r360P.mp4",
+            "checksum": "30b010626d311ef6a01bebd9e5aa86d0",
+            "filesize": 23862724,
+            "modifiedDatetime": "2019-11-18T13:09:34.000Z",
+            "bitRate": 668.4266372062173,
+            "duration": 278.905,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/43/jwb_E_201911_06.vtt",
+                "modifiedDatetime": "2019-11-18T13:09:50.000Z",
+                "checksum": "0abc8900a6204f8b3ba8cf42ca307584"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/00/jwb_E_201911_06_r480P.mp4",
+            "checksum": "83355a06f0879c70352df35ed2c6890c",
+            "filesize": 45358763,
+            "modifiedDatetime": "2019-11-18T13:09:38.000Z",
+            "bitRate": 1270.5592798175007,
+            "duration": 278.905,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/43/jwb_E_201911_06.vtt",
+                "modifiedDatetime": "2019-11-18T13:09:50.000Z",
+                "checksum": "0abc8900a6204f8b3ba8cf42ca307584"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/2d/jwb_E_201911_06_r720P.mp4",
+            "checksum": "2db869bdbead05020b96b5dbdba21948",
+            "filesize": 76846143,
+            "modifiedDatetime": "2019-11-18T13:09:44.000Z",
+            "bitRate": 2152.562672549793,
+            "duration": 278.905,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/43/jwb_E_201911_06.vtt",
+                "modifiedDatetime": "2019-11-18T13:09:50.000Z",
+                "checksum": "0abc8900a6204f8b3ba8cf42ca307584"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201911-6.v",
+        "jwb.201911-6"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/43/jwb_E_201911_06.vtt",
+    "Name": "pub-jwb_E_201911_6_VIDEO",
+    "Title": "Special Preaching Campaign in Central Europe",
+    "UndatedReferenceTitle": "Special Preaching Campaign in Central Europe",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODMinistryExpandMinistry"
+}

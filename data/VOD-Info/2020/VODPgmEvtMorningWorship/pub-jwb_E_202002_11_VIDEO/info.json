@@ -1,0 +1,102 @@
+{
+    "guid": "5db855947ae47e7b53639e46",
+    "languageAgnosticNaturalKey": "pub-jwb_202002_11_VIDEO",
+    "naturalKey": "pub-jwb_E_202002_11_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2020-02-24T13:34:14.491Z",
+    "duration": 611.755,
+    "durationFormattedHHMM": "10:11",
+    "durationFormattedMinSec": "10m 11s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/b3/jwb_E_202002_11_r240P.mp4",
+            "checksum": "7b135283beece2521eecf6ead8b81d46",
+            "filesize": 9355220,
+            "modifiedDatetime": "2020-10-18T02:59:32.000Z",
+            "bitRate": 119.47210280259254,
+            "duration": 611.755,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.94,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/8a/jwb_E_202002_11.vtt",
+                "modifiedDatetime": "2020-02-24T10:52:17.000Z",
+                "checksum": "eb6eb6ee447e4d6d65c8febb7a1ef3a8"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/89/jwb_E_202002_11_r360P.mp4",
+            "checksum": "671c400dfa43799f7ae435e4011c0c5f",
+            "filesize": 18501219,
+            "modifiedDatetime": "2020-02-24T10:52:03.000Z",
+            "bitRate": 236.28545274316232,
+            "duration": 611.721,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/8a/jwb_E_202002_11.vtt",
+                "modifiedDatetime": "2020-02-24T10:52:17.000Z",
+                "checksum": "eb6eb6ee447e4d6d65c8febb7a1ef3a8"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/97/jwb_E_202002_11_r480P.mp4",
+            "checksum": "fa50b0b72c7d1ec58373624ecf0bc454",
+            "filesize": 31850928,
+            "modifiedDatetime": "2020-02-24T10:52:09.000Z",
+            "bitRate": 406.7791934558402,
+            "duration": 611.721,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/8a/jwb_E_202002_11.vtt",
+                "modifiedDatetime": "2020-02-24T10:52:17.000Z",
+                "checksum": "eb6eb6ee447e4d6d65c8febb7a1ef3a8"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/16/jwb_E_202002_11_r720P.mp4",
+            "checksum": "8ef35816ac7b8e53a5dc46dd815d4d90",
+            "filesize": 53900522,
+            "modifiedDatetime": "2020-02-24T10:52:13.000Z",
+            "bitRate": 688.3821678918985,
+            "duration": 611.721,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/8a/jwb_E_202002_11.vtt",
+                "modifiedDatetime": "2020-02-24T10:52:17.000Z",
+                "checksum": "eb6eb6ee447e4d6d65c8febb7a1ef3a8"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202002-11.v",
+        "jwb.202002-11"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/8a/jwb_E_202002_11.vtt",
+    "Name": "pub-jwb_E_202002_11_VIDEO",
+    "Title": "Hermanus van Selm: Be Faithful Like Noah (Gen. 6:13)",
+    "UndatedReferenceTitle": "Hermanus van Selm: Be Faithful Like Noah (Gen. 6:13)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

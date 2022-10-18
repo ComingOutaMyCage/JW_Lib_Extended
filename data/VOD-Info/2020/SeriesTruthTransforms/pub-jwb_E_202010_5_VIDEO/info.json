@@ -1,0 +1,102 @@
+{
+    "guid": "5ec5694633192cea84f4ccbd",
+    "languageAgnosticNaturalKey": "pub-jwb_202010_5_VIDEO",
+    "naturalKey": "pub-jwb_E_202010_5_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesTruthTransforms",
+    "description": "",
+    "firstPublished": "2020-10-19T12:47:49.599Z",
+    "duration": 313.565,
+    "durationFormattedHHMM": "5:13",
+    "durationFormattedMinSec": "5m 13s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/db/jwb_E_202010_05_r240P.mp4",
+            "checksum": "0600aae0233285469f653b2540425fc9",
+            "filesize": 9096617,
+            "modifiedDatetime": "2020-10-19T12:44:36.000Z",
+            "bitRate": 226.61773058832907,
+            "duration": 313.6,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.692,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/0c/jwb_E_202010_05.vtt",
+                "modifiedDatetime": "2020-10-19T12:44:28.000Z",
+                "checksum": "23798c6765897cfaddd6cdac22958fa7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/cf/jwb_E_202010_05_r360P.mp4",
+            "checksum": "b3d80aca91233acff6b2cd23922c2486",
+            "filesize": 16905190,
+            "modifiedDatetime": "2020-10-19T12:44:42.000Z",
+            "bitRate": 421.1943197582638,
+            "duration": 313.565,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/0c/jwb_E_202010_05.vtt",
+                "modifiedDatetime": "2020-10-19T12:44:28.000Z",
+                "checksum": "23798c6765897cfaddd6cdac22958fa7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/15/jwb_E_202010_05_r480P.mp4",
+            "checksum": "cfc3f29eb2e5a06eb424383143a834c9",
+            "filesize": 31542761,
+            "modifiedDatetime": "2020-10-19T12:44:48.000Z",
+            "bitRate": 785.890709462153,
+            "duration": 313.565,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/0c/jwb_E_202010_05.vtt",
+                "modifiedDatetime": "2020-10-19T12:44:28.000Z",
+                "checksum": "23798c6765897cfaddd6cdac22958fa7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/64/jwb_E_202010_05_r720P.mp4",
+            "checksum": "cce5a05d5eecd35c08c339fc69d47760",
+            "filesize": 53391146,
+            "modifiedDatetime": "2020-10-19T12:44:52.000Z",
+            "bitRate": 1330.2451744454897,
+            "duration": 313.565,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/0c/jwb_E_202010_05.vtt",
+                "modifiedDatetime": "2020-10-19T12:44:28.000Z",
+                "checksum": "23798c6765897cfaddd6cdac22958fa7"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202010-5.v",
+        "jwb.202010-5"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/0c/jwb_E_202010_05.vtt",
+    "Name": "pub-jwb_E_202010_5_VIDEO",
+    "Title": "Narciso Garcia: True Strength Comes From Jehovah",
+    "UndatedReferenceTitle": "Narciso Garcia: True Strength Comes From Jehovah",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "SeriesTruthTransforms"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "5f7f39210ca056895eb970af",
+    "languageAgnosticNaturalKey": "pub-mwbv_202103_1_VIDEO",
+    "naturalKey": "pub-mwbv_E_202103_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODSampleConversations",
+    "description": "",
+    "firstPublished": "2021-02-08T14:45:58.324Z",
+    "duration": 86.678,
+    "durationFormattedHHMM": "1:26",
+    "durationFormattedMinSec": "1m 26s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/26/mwbv_E_202103_01_r240P.mp4",
+            "checksum": "edaaf9e167752e66fb2e19ea993fa21b",
+            "filesize": 1291832,
+            "modifiedDatetime": "2022-09-01T15:25:59.000Z",
+            "bitRate": 116.43597568010337,
+            "duration": 86.678,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/9b/mwbv_E_202103_01.vtt",
+                "modifiedDatetime": "2022-09-01T15:25:51.000Z",
+                "checksum": "e69ef00718972b80598d25c6dcbda18d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/4b/mwbv_E_202103_01_r360P.mp4",
+            "checksum": "8cadff745dea170e0f6f22dcfa35c5a5",
+            "filesize": 1818038,
+            "modifiedDatetime": "2022-09-01T15:26:03.000Z",
+            "bitRate": 163.86420862271856,
+            "duration": 86.678,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/9b/mwbv_E_202103_01.vtt",
+                "modifiedDatetime": "2022-09-01T15:25:51.000Z",
+                "checksum": "e69ef00718972b80598d25c6dcbda18d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/f1/mwbv_E_202103_01_r480P.mp4",
+            "checksum": "572519365335e920baa5af32f00c9219",
+            "filesize": 2740345,
+            "modifiedDatetime": "2022-09-01T15:26:06.000Z",
+            "bitRate": 246.9939928528577,
+            "duration": 86.678,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/9b/mwbv_E_202103_01.vtt",
+                "modifiedDatetime": "2022-09-01T15:25:51.000Z",
+                "checksum": "e69ef00718972b80598d25c6dcbda18d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/30/mwbv_E_202103_01_r720P.mp4",
+            "checksum": "085eaee65d2252b3b93b8c3fedf78e2e",
+            "filesize": 3469200,
+            "modifiedDatetime": "2022-09-01T15:26:09.000Z",
+            "bitRate": 312.68747548397516,
+            "duration": 86.678,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/9b/mwbv_E_202103_01.vtt",
+                "modifiedDatetime": "2022-09-01T15:25:51.000Z",
+                "checksum": "e69ef00718972b80598d25c6dcbda18d"
+            }
+        }
+    ],
+    "printReferences": [
+        "mwbv.202103-1.v",
+        "mwbv.202103-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/9b/mwbv_E_202103_01.vtt",
+    "Name": "pub-mwbv_E_202103_1_VIDEO",
+    "Title": "Initial Call: Jesus—Mt 16:16",
+    "UndatedReferenceTitle": "Initial Call: Jesus—Mt 16:16",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODSampleConversations"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "5cb4df35db0b288e409e0aee",
+    "languageAgnosticNaturalKey": "pub-jlj_2_VIDEO",
+    "naturalKey": "pub-jlj_E_2_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODMoviesBibleTimes",
+    "description": "",
+    "firstPublished": "2020-02-20T14:13:36.658Z",
+    "duration": 1876.651,
+    "durationFormattedHHMM": "31:16",
+    "durationFormattedMinSec": "31m 16s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/cc/jlj_E_02_r240P.mp4",
+            "checksum": "64ffefacaa00f802ab6f5165adf8238c",
+            "filesize": 44643659,
+            "modifiedDatetime": "2020-12-14T23:54:49.000Z",
+            "bitRate": 185.8515973068514,
+            "duration": 1876.651,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.529,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/d0/jlj_E_02.vtt",
+                "modifiedDatetime": "2019-05-15T15:21:16.000Z",
+                "checksum": "4893721a8d7c5b506860b00d26fb3a6a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/05/jlj_E_02_r360P.mp4",
+            "checksum": "947e82c6603e2d8b2167e5e3f3b5591c",
+            "filesize": 85019768,
+            "modifiedDatetime": "2019-05-15T15:32:59.000Z",
+            "bitRate": 353.9420947487672,
+            "duration": 1876.626,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/d0/jlj_E_02.vtt",
+                "modifiedDatetime": "2019-05-15T15:21:16.000Z",
+                "checksum": "4893721a8d7c5b506860b00d26fb3a6a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/64/jlj_E_02_r480P.mp4",
+            "checksum": "70b8c925eaa825a4db1f8bf1b5fbc209",
+            "filesize": 156660050,
+            "modifiedDatetime": "2019-05-15T15:20:31.000Z",
+            "bitRate": 652.1846338188856,
+            "duration": 1876.626,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/d0/jlj_E_02.vtt",
+                "modifiedDatetime": "2019-05-15T15:21:16.000Z",
+                "checksum": "4893721a8d7c5b506860b00d26fb3a6a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/a8/jlj_E_02_r720P.mp4",
+            "checksum": "532f7b9c1f685e2ab72270a6bd033c5f",
+            "filesize": 249343919,
+            "modifiedDatetime": "2019-05-15T15:20:48.000Z",
+            "bitRate": 1038.0328137772258,
+            "duration": 1876.626,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/d0/jlj_E_02.vtt",
+                "modifiedDatetime": "2019-05-15T15:21:16.000Z",
+                "checksum": "4893721a8d7c5b506860b00d26fb3a6a"
+            }
+        }
+    ],
+    "printReferences": [
+        "jlj-2.v",
+        "jlj-2"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/d0/jlj_E_02.vtt",
+    "Name": "pub-jlj_E_2_VIDEO",
+    "Title": "The Story of Josiah: Love Jehovah; Hate What Is Bad—Part II",
+    "UndatedReferenceTitle": "The Story of Josiah: Love Jehovah; Hate What Is Bad—Part II",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODMoviesBibleTimes"
+}

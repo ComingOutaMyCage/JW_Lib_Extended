@@ -1,0 +1,102 @@
+{
+    "guid": "5d712aa9ad989978fbb81b05",
+    "languageAgnosticNaturalKey": "pub-pkon_16_VIDEO",
+    "naturalKey": "pub-pkon_E_16_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBJFSongs",
+    "description": "",
+    "firstPublished": "2019-11-04T14:03:56.216Z",
+    "duration": 141.718,
+    "durationFormattedHHMM": "2:21",
+    "durationFormattedMinSec": "2m 21s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/3e/pkon_E_016_r240P.mp4",
+            "checksum": "6fb8b49f0e6e28b2d90be528662462dd",
+            "filesize": 3584192,
+            "modifiedDatetime": "2020-10-30T12:52:15.000Z",
+            "bitRate": 197.5860511720459,
+            "duration": 141.718,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.425,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/4a/pkon_E_016.vtt",
+                "modifiedDatetime": "2020-10-30T12:52:11.000Z",
+                "checksum": "37ede15cee23ecb93b4f9535ae319ec0"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/db/pkon_E_016_r360P.mp4",
+            "checksum": "ae6fadf4de2eef0b6fcbae5dc1483ce8",
+            "filesize": 6887324,
+            "modifiedDatetime": "2020-10-30T12:52:18.000Z",
+            "bitRate": 379.7906402637003,
+            "duration": 141.676,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 30,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/4a/pkon_E_016.vtt",
+                "modifiedDatetime": "2020-10-30T12:52:11.000Z",
+                "checksum": "37ede15cee23ecb93b4f9535ae319ec0"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/70/pkon_E_016_r480P.mp4",
+            "checksum": "fbce12e3bd50dd4c0bc4317a45416b5b",
+            "filesize": 12824672,
+            "modifiedDatetime": "2020-10-30T12:52:21.000Z",
+            "bitRate": 707.1963494169796,
+            "duration": 141.676,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 30,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/4a/pkon_E_016.vtt",
+                "modifiedDatetime": "2020-10-30T12:52:11.000Z",
+                "checksum": "37ede15cee23ecb93b4f9535ae319ec0"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/46/pkon_E_016_r720P.mp4",
+            "checksum": "f10c06acebf26e9d8d1466bc5679c98a",
+            "filesize": 21540118,
+            "modifiedDatetime": "2020-10-30T12:52:25.000Z",
+            "bitRate": 1187.7958996230839,
+            "duration": 141.676,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 30,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/4a/pkon_E_016.vtt",
+                "modifiedDatetime": "2020-10-30T12:52:11.000Z",
+                "checksum": "37ede15cee23ecb93b4f9535ae319ec0"
+            }
+        }
+    ],
+    "printReferences": [
+        "pkon-16.v",
+        "pkon-16"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/4a/pkon_E_016.vtt",
+    "Name": "pub-pkon_E_16_VIDEO",
+    "Title": "Thank You for You",
+    "UndatedReferenceTitle": "Thank You for You",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "SeriesBJFSongs"
+}

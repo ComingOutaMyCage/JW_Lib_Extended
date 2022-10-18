@@ -1,0 +1,102 @@
+{
+    "guid": "581cb12c453f600819cf5124",
+    "languageAgnosticNaturalKey": "pub-pksjj_2_VIDEO",
+    "naturalKey": "pub-pksjj_E_2_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBJFSongs",
+    "description": "",
+    "firstPublished": "2016-08-01T19:57:25.392Z",
+    "duration": 177.835,
+    "durationFormattedHHMM": "2:57",
+    "durationFormattedMinSec": "2m 57s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/53/pksjj_E_002_r240P.mp4",
+            "checksum": "38ab16092a94f2083089ab7c8d1aeec4",
+            "filesize": 3142746,
+            "modifiedDatetime": "2021-10-15T15:13:16.000Z",
+            "bitRate": 138.06451556217843,
+            "duration": 177.835,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.631,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/34/pksjj_E_002.vtt",
+                "modifiedDatetime": "2021-10-15T15:13:09.000Z",
+                "checksum": "c8cebb6b7cf185d018b6620fce5eed6c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/81/pksjj_E_002_r360P.mp4",
+            "checksum": "d670397d20e13c22a5c2bca831bf498b",
+            "filesize": 5796358,
+            "modifiedDatetime": "2021-10-15T15:13:19.000Z",
+            "bitRate": 254.70095490261144,
+            "duration": 177.793,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/34/pksjj_E_002.vtt",
+                "modifiedDatetime": "2021-10-15T15:13:09.000Z",
+                "checksum": "c8cebb6b7cf185d018b6620fce5eed6c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/51/pksjj_E_002_r480P.mp4",
+            "checksum": "df12c26953fbee83ef017ef9cd7ef046",
+            "filesize": 9471235,
+            "modifiedDatetime": "2021-10-15T15:13:22.000Z",
+            "bitRate": 416.1807463595305,
+            "duration": 177.793,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/34/pksjj_E_002.vtt",
+                "modifiedDatetime": "2021-10-15T15:13:09.000Z",
+                "checksum": "c8cebb6b7cf185d018b6620fce5eed6c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/69/pksjj_E_002_r720P.mp4",
+            "checksum": "5ca74a96a028f3a4131d2a3d887255e0",
+            "filesize": 14074288,
+            "modifiedDatetime": "2021-10-15T15:13:27.000Z",
+            "bitRate": 618.4460299336869,
+            "duration": 177.793,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/34/pksjj_E_002.vtt",
+                "modifiedDatetime": "2021-10-15T15:13:09.000Z",
+                "checksum": "c8cebb6b7cf185d018b6620fce5eed6c"
+            }
+        }
+    ],
+    "printReferences": [
+        "pksjj-2.v",
+        "pksjj-2"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/34/pksjj_E_002.vtt",
+    "Name": "pub-pksjj_E_2_VIDEO",
+    "Title": "Song 002 Jehovah Is Your Name",
+    "UndatedReferenceTitle": "Song 002 Jehovah Is Your Name",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2016,
+    "Symbol": "SeriesBJFSongs"
+}

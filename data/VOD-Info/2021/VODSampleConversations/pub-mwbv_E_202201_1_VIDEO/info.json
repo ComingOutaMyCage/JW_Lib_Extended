@@ -1,0 +1,102 @@
+{
+    "guid": "615c8de76c6199f6a051284a",
+    "languageAgnosticNaturalKey": "pub-mwbv_202201_1_VIDEO",
+    "naturalKey": "pub-mwbv_E_202201_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODSampleConversations",
+    "description": "",
+    "firstPublished": "2021-12-13T15:14:52.570Z",
+    "duration": 122.944,
+    "durationFormattedHHMM": "2:02",
+    "durationFormattedMinSec": "2m 2s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/5b/mwbv_E_202201_01_r240P.mp4",
+            "checksum": "3c39286400f8365f5421e1924710e791",
+            "filesize": 1553446,
+            "modifiedDatetime": "2021-12-13T06:02:11.000Z",
+            "bitRate": 98.71402325448985,
+            "duration": 122.944,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.904,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ff/mwbv_E_202201_01.vtt",
+                "modifiedDatetime": "2021-12-13T06:01:58.000Z",
+                "checksum": "65e37f26ac93f02c08cf1dc50a7fb298"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/da/mwbv_E_202201_01_r360P.mp4",
+            "checksum": "80aa6a332a539e2c570e0190a6f34c7a",
+            "filesize": 2808839,
+            "modifiedDatetime": "2021-12-13T06:02:09.000Z",
+            "bitRate": 178.5288708345537,
+            "duration": 122.916,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ff/mwbv_E_202201_01.vtt",
+                "modifiedDatetime": "2021-12-13T06:01:58.000Z",
+                "checksum": "65e37f26ac93f02c08cf1dc50a7fb298"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/52/mwbv_E_202201_01_r480P.mp4",
+            "checksum": "79a3d4c0ecd1c934b0e1e28fb52a6cf1",
+            "filesize": 4198545,
+            "modifiedDatetime": "2021-12-13T06:02:05.000Z",
+            "bitRate": 266.8581210948941,
+            "duration": 122.916,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ff/mwbv_E_202201_01.vtt",
+                "modifiedDatetime": "2021-12-13T06:01:58.000Z",
+                "checksum": "65e37f26ac93f02c08cf1dc50a7fb298"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/37/mwbv_E_202201_01_r720P.mp4",
+            "checksum": "cfc413ba71331cbd13382067ece5f3a0",
+            "filesize": 5520587,
+            "modifiedDatetime": "2021-12-13T06:02:00.000Z",
+            "bitRate": 350.88667006329524,
+            "duration": 122.916,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ff/mwbv_E_202201_01.vtt",
+                "modifiedDatetime": "2021-12-13T06:01:58.000Z",
+                "checksum": "65e37f26ac93f02c08cf1dc50a7fb298"
+            }
+        }
+    ],
+    "printReferences": [
+        "mwbv.202201-1.v",
+        "mwbv.202201-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/ff/mwbv_E_202201_01.vtt",
+    "Name": "pub-mwbv_E_202201_1_VIDEO",
+    "Title": "Initial Call: God Cares—Mt 10:29-31",
+    "UndatedReferenceTitle": "Initial Call: God Cares—Mt 10:29-31",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODSampleConversations"
+}

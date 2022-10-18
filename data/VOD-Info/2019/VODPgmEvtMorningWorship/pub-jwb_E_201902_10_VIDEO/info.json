@@ -1,0 +1,102 @@
+{
+    "guid": "5c389f4199077ca5aeb9457c",
+    "languageAgnosticNaturalKey": "pub-jwb_201902_10_VIDEO",
+    "naturalKey": "pub-jwb_E_201902_10_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2019-02-11T12:34:43.981Z",
+    "duration": 622.123,
+    "durationFormattedHHMM": "10:22",
+    "durationFormattedMinSec": "10m 22s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/b1/jwb_E_201902_10_r240P.mp4",
+            "checksum": "a545d8bcc54541be59bd14e18b96e50e",
+            "filesize": 9074078,
+            "modifiedDatetime": "2020-11-14T03:21:25.000Z",
+            "bitRate": 113.95051199682376,
+            "duration": 622.123,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.412,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/9e/jwb_E_201902_10.vtt",
+                "modifiedDatetime": "2019-02-11T12:00:41.000Z",
+                "checksum": "032ef2236840df163214d7566eaaa720"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/55/jwb_E_201902_10_r360P.mp4",
+            "checksum": "ab4bc2b46e722b9804b8748805f9b076",
+            "filesize": 18630090,
+            "modifiedDatetime": "2019-02-11T12:00:20.000Z",
+            "bitRate": 233.96245949191285,
+            "duration": 622.098,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/9e/jwb_E_201902_10.vtt",
+                "modifiedDatetime": "2019-02-11T12:00:41.000Z",
+                "checksum": "032ef2236840df163214d7566eaaa720"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/40/jwb_E_201902_10_r480P.mp4",
+            "checksum": "8221305f4dd92a1a12bf7d1e40cf66b6",
+            "filesize": 35062044,
+            "modifiedDatetime": "2019-02-11T12:00:31.000Z",
+            "bitRate": 440.32004402843285,
+            "duration": 622.098,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/9e/jwb_E_201902_10.vtt",
+                "modifiedDatetime": "2019-02-11T12:00:41.000Z",
+                "checksum": "032ef2236840df163214d7566eaaa720"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/fe/jwb_E_201902_10_r720P.mp4",
+            "checksum": "ad4432822f66cc5b04cfaaf36fc80d6c",
+            "filesize": 86903521,
+            "modifiedDatetime": "2019-02-11T12:00:35.000Z",
+            "bitRate": 1091.3614218539524,
+            "duration": 622.098,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/9e/jwb_E_201902_10.vtt",
+                "modifiedDatetime": "2019-02-11T12:00:41.000Z",
+                "checksum": "032ef2236840df163214d7566eaaa720"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201902-10.v",
+        "jwb.201902-10"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/9e/jwb_E_201902_10.vtt",
+    "Name": "pub-jwb_E_201902_10_VIDEO",
+    "Title": "Harold Corkern: Imitate Jesus (John 2:25)",
+    "UndatedReferenceTitle": "Harold Corkern: Imitate Jesus (John 2:25)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

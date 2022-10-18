@@ -1,0 +1,102 @@
+{
+    "guid": "55365e9c7f0bc1fc27072600",
+    "languageAgnosticNaturalKey": "pub-pk_0_VIDEO",
+    "naturalKey": "pub-pk_E_0_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBJFLessons",
+    "description": "",
+    "firstPublished": "2013-01-23T03:36:27.000Z",
+    "duration": 131.2,
+    "durationFormattedHHMM": "2:11",
+    "durationFormattedMinSec": "2m 11s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/cc/pk_E_000_r240P.mp4",
+            "checksum": "af3a817d5ce2a2f9384771394a08f37f",
+            "filesize": 2815590,
+            "modifiedDatetime": "2020-12-15T12:27:41.000Z",
+            "bitRate": 167.6585127667683,
+            "duration": 131.2,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.645,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/3d/pk_E_000.vtt",
+                "modifiedDatetime": "2019-10-18T17:49:24.000Z",
+                "checksum": "217e8289bfad03db5c61ec80ae9018d2"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/66/pk_E_000_r360P.mp4",
+            "checksum": "76c081703351903b228f456d8eb9a530",
+            "filesize": 5039504,
+            "modifiedDatetime": "2019-10-18T17:49:34.000Z",
+            "bitRate": 300.1442740177169,
+            "duration": 131.174,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/3d/pk_E_000.vtt",
+                "modifiedDatetime": "2019-10-18T17:49:24.000Z",
+                "checksum": "217e8289bfad03db5c61ec80ae9018d2"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/c4/pk_E_000_r480P.mp4",
+            "checksum": "d6b187027085fa8960201adc3716c67b",
+            "filesize": 8557032,
+            "modifiedDatetime": "2019-10-18T17:49:15.000Z",
+            "bitRate": 509.6422499885648,
+            "duration": 131.174,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/3d/pk_E_000.vtt",
+                "modifiedDatetime": "2019-10-18T17:49:24.000Z",
+                "checksum": "217e8289bfad03db5c61ec80ae9018d2"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/6f/pk_E_000_r720P.mp4",
+            "checksum": "7d080cddca8073f27f1be7a0a5d95f84",
+            "filesize": 13657403,
+            "modifiedDatetime": "2019-10-18T17:49:35.000Z",
+            "bitRate": 813.4116588462653,
+            "duration": 131.174,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/3d/pk_E_000.vtt",
+                "modifiedDatetime": "2019-10-18T17:49:24.000Z",
+                "checksum": "217e8289bfad03db5c61ec80ae9018d2"
+            }
+        }
+    ],
+    "printReferences": [
+        "pk.v",
+        "pk"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/3d/pk_E_000.vtt",
+    "Name": "pub-pk_E_0_VIDEO",
+    "Title": "A Message to Your Family",
+    "UndatedReferenceTitle": "A Message to Your Family",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2013,
+    "Symbol": "SeriesBJFLessons"
+}

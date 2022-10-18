@@ -1,0 +1,102 @@
+{
+    "guid": "6064be1d0524ac0a0ac6119c",
+    "languageAgnosticNaturalKey": "pub-dlf_1_VIDEO",
+    "naturalKey": "pub-dlf_E_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODMoviesBibleTimes",
+    "description": "",
+    "firstPublished": "2021-08-23T14:52:35.378Z",
+    "duration": 3688.086,
+    "durationFormattedHHMM": "1:01:28",
+    "durationFormattedMinSec": "1h 1m 28s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/75/dlf_E_01_r240P.mp4",
+            "checksum": "da898c97ddfe895a58befa48afa04850",
+            "filesize": 64137520,
+            "modifiedDatetime": "2021-08-16T05:04:12.000Z",
+            "bitRate": 135.86298557029312,
+            "duration": 3688.086,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/e8/dlf_E_01.vtt",
+                "modifiedDatetime": "2021-08-16T05:03:50.000Z",
+                "checksum": "99b87a114c0d531760e9b4af8bed946c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/3a/dlf_E_01_r360P.mp4",
+            "checksum": "2daa1aeaec5938be5735ae2c5dbd00a7",
+            "filesize": 121441894,
+            "modifiedDatetime": "2021-08-16T05:04:09.000Z",
+            "bitRate": 257.25301096565374,
+            "duration": 3688.061,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/e8/dlf_E_01.vtt",
+                "modifiedDatetime": "2021-08-16T05:03:50.000Z",
+                "checksum": "99b87a114c0d531760e9b4af8bed946c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/70/dlf_E_01_r480P.mp4",
+            "checksum": "10fd88f3b08616e508142f134d72c518",
+            "filesize": 223979544,
+            "modifiedDatetime": "2021-08-16T05:04:04.000Z",
+            "bitRate": 474.4607498357538,
+            "duration": 3688.061,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/e8/dlf_E_01.vtt",
+                "modifiedDatetime": "2021-08-16T05:03:50.000Z",
+                "checksum": "99b87a114c0d531760e9b4af8bed946c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/1e/dlf_E_01_r720P.mp4",
+            "checksum": "db955165ad88b892aafac7afb2acd453",
+            "filesize": 363562659,
+            "modifiedDatetime": "2021-08-16T05:03:55.000Z",
+            "bitRate": 770.1427046454763,
+            "duration": 3688.061,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/e8/dlf_E_01.vtt",
+                "modifiedDatetime": "2021-08-16T05:03:50.000Z",
+                "checksum": "99b87a114c0d531760e9b4af8bed946c"
+            }
+        }
+    ],
+    "printReferences": [
+        "dlf-1.v",
+        "dlf-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/e8/dlf_E_01.vtt",
+    "Name": "pub-dlf_E_1_VIDEO",
+    "Title": "Daniel: A Lifetime of Faith—Part I",
+    "UndatedReferenceTitle": "Daniel: A Lifetime of Faith—Part I",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODMoviesBibleTimes"
+}

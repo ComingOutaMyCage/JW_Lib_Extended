@@ -1,0 +1,102 @@
+{
+    "guid": "5c9e396fdb0b288e409deb09",
+    "languageAgnosticNaturalKey": "pub-jwb_201905_6_VIDEO",
+    "naturalKey": "pub-jwb_E_201905_6_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpEndurance",
+    "description": "",
+    "firstPublished": "2019-05-20T20:49:54.741Z",
+    "duration": 251.947,
+    "durationFormattedHHMM": "4:11",
+    "durationFormattedMinSec": "4m 11s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/dd/jwb_E_201905_06_r240P.mp4",
+            "checksum": "c037f1584d6ab96f7d06f800c7a14830",
+            "filesize": 7005843,
+            "modifiedDatetime": "2020-11-21T07:43:10.000Z",
+            "bitRate": 217.2407229992816,
+            "duration": 251.947,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 25,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/31/jwb_E_201905_06.vtt",
+                "modifiedDatetime": "2019-05-20T13:48:35.000Z",
+                "checksum": "1818f67dfef6f3e0c896916cbfb3d854"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/52/jwb_E_201905_06_r360P.mp4",
+            "checksum": "8d3cc7809fddffe20800f095185d33f4",
+            "filesize": 13263091,
+            "modifiedDatetime": "2019-05-20T13:48:42.000Z",
+            "bitRate": 411.3078140443707,
+            "duration": 251.923,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 25,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/31/jwb_E_201905_06.vtt",
+                "modifiedDatetime": "2019-05-20T13:48:35.000Z",
+                "checksum": "1818f67dfef6f3e0c896916cbfb3d854"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/be/jwb_E_201905_06_r480P.mp4",
+            "checksum": "7e023eec3f90658dcd5f5b0eba6ed7dd",
+            "filesize": 24589920,
+            "modifiedDatetime": "2019-05-20T13:48:48.000Z",
+            "bitRate": 762.5693168150585,
+            "duration": 251.923,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 25,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/31/jwb_E_201905_06.vtt",
+                "modifiedDatetime": "2019-05-20T13:48:35.000Z",
+                "checksum": "1818f67dfef6f3e0c896916cbfb3d854"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/60/jwb_E_201905_06_r720P.mp4",
+            "checksum": "eacce9d5724ca835e4bf2487e3f1b4b7",
+            "filesize": 40830151,
+            "modifiedDatetime": "2019-05-20T13:48:57.000Z",
+            "bitRate": 1266.2025884397217,
+            "duration": 251.923,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 25,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/31/jwb_E_201905_06.vtt",
+                "modifiedDatetime": "2019-05-20T13:48:35.000Z",
+                "checksum": "1818f67dfef6f3e0c896916cbfb3d854"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201905-6.v",
+        "jwb.201905-6"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/31/jwb_E_201905_06.vtt",
+    "Name": "pub-jwb_E_201905_6_VIDEO",
+    "Title": "Steing Dott: Jehovah Cared for Me",
+    "UndatedReferenceTitle": "Steing Dott: Jehovah Cared for Me",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODIntExpEndurance"
+}

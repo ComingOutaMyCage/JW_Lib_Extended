@@ -1,0 +1,102 @@
+{
+    "guid": "5aeb9b7bd2aa9cc349cac7c0",
+    "languageAgnosticNaturalKey": "pub-jwb_201805_8_VIDEO",
+    "naturalKey": "pub-jwb_E_201805_8_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpBlessings",
+    "description": "",
+    "firstPublished": "2018-06-04T13:09:46.376Z",
+    "duration": 392.875,
+    "durationFormattedHHMM": "6:32",
+    "durationFormattedMinSec": "6m 32s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/82/jwb_E_201805_08_r240P.mp4",
+            "checksum": "8e0c59d98d5ba462183488ba9be3e2c1",
+            "filesize": 9281420,
+            "modifiedDatetime": "2020-11-11T21:48:57.000Z",
+            "bitRate": 184.565303849825,
+            "duration": 392.875,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.47,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/39/jwb_E_201805_08_r240P.vtt",
+                "modifiedDatetime": "2018-05-21T13:23:21.000Z",
+                "checksum": "b4bd3a18483f03d1ee34639a2f9c825b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/af/jwb_E_201805_08_r360P.mp4",
+            "checksum": "022471e6ab511dbe7b5713a2cb724b6c",
+            "filesize": 18237024,
+            "modifiedDatetime": "2018-05-21T13:23:22.000Z",
+            "bitRate": 362.6876100968343,
+            "duration": 392.836,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ef/jwb_E_201805_08_r360P.vtt",
+                "modifiedDatetime": "2018-05-21T13:23:24.000Z",
+                "checksum": "b4bd3a18483f03d1ee34639a2f9c825b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/3f/jwb_E_201805_08_r480P.mp4",
+            "checksum": "78c3da9636df9db0b1162e923498917b",
+            "filesize": 33214134,
+            "modifiedDatetime": "2018-05-21T13:23:25.000Z",
+            "bitRate": 660.5438958623955,
+            "duration": 392.836,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/33/jwb_E_201805_08_r480P.vtt",
+                "modifiedDatetime": "2018-05-21T13:23:29.000Z",
+                "checksum": "b4bd3a18483f03d1ee34639a2f9c825b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/fd/jwb_E_201805_08_r720P.mp4",
+            "checksum": "12588b4eb769ce354ca00174f925a681",
+            "filesize": 54391117,
+            "modifiedDatetime": "2018-05-21T13:23:30.000Z",
+            "bitRate": 1081.6997463636224,
+            "duration": 392.836,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/9c/jwb_E_201805_08_r720P.vtt",
+                "modifiedDatetime": "2018-05-21T13:23:33.000Z",
+                "checksum": "b4bd3a18483f03d1ee34639a2f9c825b"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201805-8.v",
+        "jwb.201805-8"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/39/jwb_E_201805_08_r240P.vtt",
+    "Name": "pub-jwb_E_201805_8_VIDEO",
+    "Title": "Making Adjustments “for the Sake of the Good News\"",
+    "UndatedReferenceTitle": "Making Adjustments “for the Sake of the Good News\"",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "VODIntExpBlessings"
+}

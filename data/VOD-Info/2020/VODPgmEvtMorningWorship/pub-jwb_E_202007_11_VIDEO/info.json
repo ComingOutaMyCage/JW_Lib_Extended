@@ -1,0 +1,102 @@
+{
+    "guid": "5f108cc94bd99b3c372f2344",
+    "languageAgnosticNaturalKey": "pub-jwb_202007_11_VIDEO",
+    "naturalKey": "pub-jwb_E_202007_11_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2020-07-30T12:36:29.853Z",
+    "duration": 575.019,
+    "durationFormattedHHMM": "9:35",
+    "durationFormattedMinSec": "9m 35s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/8c/jwb_E_202007_11_r240P.mp4",
+            "checksum": "3c8c351e2ea2e0b12ce6358b531ce7f8",
+            "filesize": 7382230,
+            "modifiedDatetime": "2020-10-18T03:05:35.000Z",
+            "bitRate": 100.29872382477797,
+            "duration": 575.019,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.326,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/96/jwb_E_202007_11.vtt",
+                "modifiedDatetime": "2020-09-23T12:23:39.000Z",
+                "checksum": "a35059711ae073e10713586dc448bf50"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/cd/jwb_E_202007_11_r360P.mp4",
+            "checksum": "d5b1d5af3322e4e6aa7719355b0c0eed",
+            "filesize": 15505581,
+            "modifiedDatetime": "2020-09-23T12:23:58.000Z",
+            "bitRate": 210.67951727787207,
+            "duration": 574.984,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/96/jwb_E_202007_11.vtt",
+                "modifiedDatetime": "2020-09-23T12:23:39.000Z",
+                "checksum": "a35059711ae073e10713586dc448bf50"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/ca/jwb_E_202007_11_r480P.mp4",
+            "checksum": "1f31e421b98e29e521bfa4afb023aaec",
+            "filesize": 25534021,
+            "modifiedDatetime": "2020-09-23T12:24:06.000Z",
+            "bitRate": 346.9392871149458,
+            "duration": 574.984,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/96/jwb_E_202007_11.vtt",
+                "modifiedDatetime": "2020-09-23T12:23:39.000Z",
+                "checksum": "a35059711ae073e10713586dc448bf50"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/0f/jwb_E_202007_11_r720P.mp4",
+            "checksum": "e6652ef3a76d93d126d0a40a60af8deb",
+            "filesize": 38864796,
+            "modifiedDatetime": "2020-09-23T12:24:16.000Z",
+            "bitRate": 528.0689875718281,
+            "duration": 574.984,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/96/jwb_E_202007_11.vtt",
+                "modifiedDatetime": "2020-09-23T12:23:39.000Z",
+                "checksum": "a35059711ae073e10713586dc448bf50"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202007-11.v",
+        "jwb.202007-11"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/96/jwb_E_202007_11.vtt",
+    "Name": "pub-jwb_E_202007_11_VIDEO",
+    "Title": "Ralph Walls: “Ponder Over These Things” (1 Tim. 4:15)",
+    "UndatedReferenceTitle": "Ralph Walls: “Ponder Over These Things” (1 Tim. 4:15)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

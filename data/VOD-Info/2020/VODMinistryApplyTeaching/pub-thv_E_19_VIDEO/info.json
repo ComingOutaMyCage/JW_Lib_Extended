@@ -1,0 +1,102 @@
+{
+    "guid": "5df00c7e1b4e58739379d93b",
+    "languageAgnosticNaturalKey": "pub-thv_19_VIDEO",
+    "naturalKey": "pub-thv_E_19_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODMinistryApplyTeaching",
+    "description": "",
+    "firstPublished": "2020-06-15T15:47:08.977Z",
+    "duration": 345.259,
+    "durationFormattedHHMM": "5:45",
+    "durationFormattedMinSec": "5m 45s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/3b/thv_E_19_r240P.mp4",
+            "checksum": "5c181d1cb35ea03889261227695c9db7",
+            "filesize": 5651481,
+            "modifiedDatetime": "2020-12-06T11:08:10.000Z",
+            "bitRate": 127.88137401921456,
+            "duration": 345.259,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.881,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/58/thv_E_19.vtt",
+                "modifiedDatetime": "2020-06-15T14:53:00.000Z",
+                "checksum": "7081902e3115c9db77aa55ec6d17886b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/d2/thv_E_19_r360P.mp4",
+            "checksum": "5098455a93df2e532f8da0f919ae7d63",
+            "filesize": 11344808,
+            "modifiedDatetime": "2020-06-15T14:53:08.000Z",
+            "bitRate": 256.7378939867505,
+            "duration": 345.221,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/58/thv_E_19.vtt",
+                "modifiedDatetime": "2020-06-15T14:53:00.000Z",
+                "checksum": "7081902e3115c9db77aa55ec6d17886b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/fb/thv_E_19_r480P.mp4",
+            "checksum": "8ea432f8fcb44120b42c7f40b8aaf6ec",
+            "filesize": 21512267,
+            "modifiedDatetime": "2020-06-15T14:53:11.000Z",
+            "bitRate": 486.8318727351465,
+            "duration": 345.221,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/58/thv_E_19.vtt",
+                "modifiedDatetime": "2020-06-15T14:53:00.000Z",
+                "checksum": "7081902e3115c9db77aa55ec6d17886b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/0b/thv_E_19_r720P.mp4",
+            "checksum": "808eabdfffa3e3ad4bf8c027f438e335",
+            "filesize": 36441239,
+            "modifiedDatetime": "2020-06-15T14:53:14.000Z",
+            "bitRate": 824.6809426063304,
+            "duration": 345.221,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/58/thv_E_19.vtt",
+                "modifiedDatetime": "2020-06-15T14:53:00.000Z",
+                "checksum": "7081902e3115c9db77aa55ec6d17886b"
+            }
+        }
+    ],
+    "printReferences": [
+        "thv-19.v",
+        "thv-19"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/58/thv_E_19.vtt",
+    "Name": "pub-thv_E_19_VIDEO",
+    "Title": "Study 19—Effort to Reach the Heart",
+    "UndatedReferenceTitle": "Study 19—Effort to Reach the Heart",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODMinistryApplyTeaching"
+}

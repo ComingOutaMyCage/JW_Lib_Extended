@@ -1,0 +1,102 @@
+{
+    "guid": "5d0107cb48fd57354cf33486",
+    "languageAgnosticNaturalKey": "pub-jwb_201907_4_VIDEO",
+    "naturalKey": "pub-jwb_E_201907_4_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesTruthTransforms",
+    "description": "",
+    "firstPublished": "2019-07-15T18:51:03.465Z",
+    "duration": 340.182,
+    "durationFormattedHHMM": "5:40",
+    "durationFormattedMinSec": "5m 40s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/24/jwb_E_201907_04_r240P.mp4",
+            "checksum": "a050cd69ca454c5360216bad4bb16a93",
+            "filesize": 10803431,
+            "modifiedDatetime": "2020-11-05T21:09:35.000Z",
+            "bitRate": 248.10779138079027,
+            "duration": 340.182,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.732,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/52/jwb_E_201907_04.vtt",
+                "modifiedDatetime": "2019-07-15T12:46:44.000Z",
+                "checksum": "f8361532e7f842a410c3859d2017dd70"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/bc/jwb_E_201907_04_r360P.mp4",
+            "checksum": "2dd8e61cec2d98ac6f449815a5df1191",
+            "filesize": 20420438,
+            "modifiedDatetime": "2019-07-15T12:46:49.000Z",
+            "bitRate": 469.01270579156255,
+            "duration": 340.15,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/52/jwb_E_201907_04.vtt",
+                "modifiedDatetime": "2019-07-15T12:46:44.000Z",
+                "checksum": "f8361532e7f842a410c3859d2017dd70"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/0f/jwb_E_201907_04_r480P.mp4",
+            "checksum": "afbed648ea43b1fba36d104d008e0f99",
+            "filesize": 38458750,
+            "modifiedDatetime": "2019-07-15T12:46:53.000Z",
+            "bitRate": 883.313198221373,
+            "duration": 340.15,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/52/jwb_E_201907_04.vtt",
+                "modifiedDatetime": "2019-07-15T12:46:44.000Z",
+                "checksum": "f8361532e7f842a410c3859d2017dd70"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/fe/jwb_E_201907_04_r720P.mp4",
+            "checksum": "77e7ea44ddb1a047480c06dbb5e0bee7",
+            "filesize": 64862770,
+            "modifiedDatetime": "2019-07-15T12:46:59.000Z",
+            "bitRate": 1489.7556684550934,
+            "duration": 340.15,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/52/jwb_E_201907_04.vtt",
+                "modifiedDatetime": "2019-07-15T12:46:44.000Z",
+                "checksum": "f8361532e7f842a410c3859d2017dd70"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201907-4.v",
+        "jwb.201907-4"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/52/jwb_E_201907_04.vtt",
+    "Name": "pub-jwb_E_201907_4_VIDEO",
+    "Title": "Juan Cayul: Jehovah Sees Our Worth",
+    "UndatedReferenceTitle": "Juan Cayul: Jehovah Sees Our Worth",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "SeriesTruthTransforms"
+}

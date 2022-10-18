@@ -1,0 +1,102 @@
+{
+    "guid": "553647237f0bc1fc27069bb0",
+    "languageAgnosticNaturalKey": "pub-pk_16_VIDEO",
+    "naturalKey": "pub-pk_E_16_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBJFLessons",
+    "description": "",
+    "firstPublished": "2015-03-02T20:11:19.000Z",
+    "duration": 98.731,
+    "durationFormattedHHMM": "1:38",
+    "durationFormattedMinSec": "1m 38s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/d6/pk_E_016_r240P.mp4",
+            "checksum": "384587dc7ef88e0af626eb55d21481a1",
+            "filesize": 2842409,
+            "modifiedDatetime": "2021-11-18T21:28:23.000Z",
+            "bitRate": 224.91740499437867,
+            "duration": 98.731,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.814,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/17/pk_E_016.vtt",
+                "modifiedDatetime": "2021-11-18T21:28:10.000Z",
+                "checksum": "bdbbd12d2fc058bd8db89afb106e0d3f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/f7/pk_E_016_r360P.mp4",
+            "checksum": "0a027a8c65dfc119568fa88066c678d1",
+            "filesize": 4764881,
+            "modifiedDatetime": "2021-11-18T21:28:18.000Z",
+            "bitRate": 377.1211914952893,
+            "duration": 98.71,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/17/pk_E_016.vtt",
+                "modifiedDatetime": "2021-11-18T21:28:10.000Z",
+                "checksum": "bdbbd12d2fc058bd8db89afb106e0d3f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/1e/pk_E_016_r480P.mp4",
+            "checksum": "635882bc0ababa131cb6aabfbfeed51f",
+            "filesize": 8215076,
+            "modifiedDatetime": "2021-11-18T21:28:26.000Z",
+            "bitRate": 650.1902669435722,
+            "duration": 98.71,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/17/pk_E_016.vtt",
+                "modifiedDatetime": "2021-11-18T21:28:10.000Z",
+                "checksum": "bdbbd12d2fc058bd8db89afb106e0d3f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/7d/pk_E_016_r720P.mp4",
+            "checksum": "607d6d710bb7ba26a123936636ffefcc",
+            "filesize": 13500829,
+            "modifiedDatetime": "2021-11-18T21:28:21.000Z",
+            "bitRate": 1068.536384991389,
+            "duration": 98.71,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/17/pk_E_016.vtt",
+                "modifiedDatetime": "2021-11-18T21:28:10.000Z",
+                "checksum": "bdbbd12d2fc058bd8db89afb106e0d3f"
+            }
+        }
+    ],
+    "printReferences": [
+        "pk-16.v",
+        "pk-16"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/17/pk_E_016.vtt",
+    "Name": "pub-pk_E_16_VIDEO",
+    "Title": "Preach in a Foreign Language",
+    "UndatedReferenceTitle": "Preach in a Foreign Language",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2015,
+    "Symbol": "SeriesBJFLessons"
+}

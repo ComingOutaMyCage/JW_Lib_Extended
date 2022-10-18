@@ -1,0 +1,102 @@
+{
+    "guid": "60f9c5ca23708c1b98255aee",
+    "languageAgnosticNaturalKey": "pub-jwb-084_5_VIDEO",
+    "naturalKey": "pub-jwb-084_E_5_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesWhereAreTheyNow",
+    "description": "",
+    "firstPublished": "2021-11-15T13:17:13.635Z",
+    "duration": 243.52,
+    "durationFormattedHHMM": "4:03",
+    "durationFormattedMinSec": "4m 3s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/65/jwb-084_E_05_r240P.mp4",
+            "checksum": "bd7f4c674f89830c029efea1bc0a847d",
+            "filesize": 5099081,
+            "modifiedDatetime": "2021-11-15T05:32:02.000Z",
+            "bitRate": 163.58644182202693,
+            "duration": 243.52,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.857,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/c4/jwb-084_E_05.vtt",
+                "modifiedDatetime": "2021-11-15T05:31:45.000Z",
+                "checksum": "1b211d7d00cc863d314c017bd26cf459"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/01/jwb-084_E_05_r360P.mp4",
+            "checksum": "3a3ae4d57ad3c9aa08f84ba1612ab784",
+            "filesize": 9577412,
+            "modifiedDatetime": "2021-11-15T05:32:00.000Z",
+            "bitRate": 307.28980574549786,
+            "duration": 243.495,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/c4/jwb-084_E_05.vtt",
+                "modifiedDatetime": "2021-11-15T05:31:45.000Z",
+                "checksum": "1b211d7d00cc863d314c017bd26cf459"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/89/jwb-084_E_05_r480P.mp4",
+            "checksum": "6a977762b68a6968afc5310424811021",
+            "filesize": 16877691,
+            "modifiedDatetime": "2021-11-15T05:31:56.000Z",
+            "bitRate": 541.5181459064868,
+            "duration": 243.495,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/c4/jwb-084_E_05.vtt",
+                "modifiedDatetime": "2021-11-15T05:31:45.000Z",
+                "checksum": "1b211d7d00cc863d314c017bd26cf459"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/16/jwb-084_E_05_r720P.mp4",
+            "checksum": "cd7b92edf68dee5b734ce75d9952da1f",
+            "filesize": 27163582,
+            "modifiedDatetime": "2021-11-15T05:31:49.000Z",
+            "bitRate": 871.539392492659,
+            "duration": 243.495,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/c4/jwb-084_E_05.vtt",
+                "modifiedDatetime": "2021-11-15T05:31:45.000Z",
+                "checksum": "1b211d7d00cc863d314c017bd26cf459"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-084-5.v",
+        "jwb-084-5"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/c4/jwb-084_E_05.vtt",
+    "Name": "pub-jwb-084_E_5_VIDEO",
+    "Title": "Where Are They Now? Elizabeth Balnave: My Ballet Career",
+    "UndatedReferenceTitle": "Where Are They Now? Elizabeth Balnave: My Ballet Career",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "SeriesWhereAreTheyNow"
+}

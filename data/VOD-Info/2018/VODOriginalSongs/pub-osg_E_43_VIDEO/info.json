@@ -1,0 +1,102 @@
+{
+    "guid": "5b184585329d2b18632dd569",
+    "languageAgnosticNaturalKey": "pub-osg_43_VIDEO",
+    "naturalKey": "pub-osg_E_43_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODOriginalSongs",
+    "description": "",
+    "firstPublished": "2018-07-16T23:55:17.216Z",
+    "duration": 260.459,
+    "durationFormattedHHMM": "4:20",
+    "durationFormattedMinSec": "4m 20s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/1f/osg_E_043_r240P.mp4",
+            "checksum": "277c475aaec4683abfc295eb0ec0cf70",
+            "filesize": 8643278,
+            "modifiedDatetime": "2020-11-28T07:00:29.000Z",
+            "bitRate": 259.25619531288993,
+            "duration": 260.459,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.786,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/49/osg_E_043_r240P.vtt",
+                "modifiedDatetime": "2019-01-13T05:26:30.000Z",
+                "checksum": "e855ca3e6bab1b160446bb8c844a8316"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/cb/osg_E_043_r360P.mp4",
+            "checksum": "257725f440877affdad3ac16b5a83483",
+            "filesize": 15189041,
+            "modifiedDatetime": "2019-01-13T05:26:34.000Z",
+            "bitRate": 455.6514000510698,
+            "duration": 260.428,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/55/osg_E_043_r360P.vtt",
+                "modifiedDatetime": "2019-01-13T05:26:36.000Z",
+                "checksum": "e855ca3e6bab1b160446bb8c844a8316"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/f5/osg_E_043_r480P.mp4",
+            "checksum": "14553ec3bba3c5ad030debc3c0bdc232",
+            "filesize": 28232905,
+            "modifiedDatetime": "2019-01-13T05:26:41.000Z",
+            "bitRate": 846.9502907233477,
+            "duration": 260.428,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/8d/osg_E_043_r480P.vtt",
+                "modifiedDatetime": "2019-01-13T05:26:43.000Z",
+                "checksum": "e855ca3e6bab1b160446bb8c844a8316"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/30/osg_E_043_r720P.mp4",
+            "checksum": "541d153f005fa0c1f0c94c6e0f6ba7d9",
+            "filesize": 46474058,
+            "modifiedDatetime": "2019-01-13T05:26:49.000Z",
+            "bitRate": 1394.161066110403,
+            "duration": 260.428,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/55/osg_E_043_r720P.vtt",
+                "modifiedDatetime": "2019-01-13T05:26:51.000Z",
+                "checksum": "e855ca3e6bab1b160446bb8c844a8316"
+            }
+        }
+    ],
+    "printReferences": [
+        "osg-43.v",
+        "osg-43"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/49/osg_E_043_r240P.vtt",
+    "Name": "pub-osg_E_43_VIDEO",
+    "Title": "Never Alone",
+    "UndatedReferenceTitle": "Never Alone",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "VODOriginalSongs"
+}

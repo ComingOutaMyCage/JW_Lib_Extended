@@ -1,0 +1,102 @@
+{
+    "guid": "61b8b9f2d4a4e5a332f35a2c",
+    "languageAgnosticNaturalKey": "pub-jwb-089_4_VIDEO",
+    "naturalKey": "pub-jwb-089_E_4_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpEndurance",
+    "description": "",
+    "firstPublished": "2022-05-16T14:32:07.613Z",
+    "duration": 303.552,
+    "durationFormattedHHMM": "5:03",
+    "durationFormattedMinSec": "5m 3s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/76/jwb-089_E_04_r240P.mp4",
+            "checksum": "24dfff0fbfe8eb66c6c707eb08e7deed",
+            "filesize": 7415950,
+            "modifiedDatetime": "2022-05-16T04:42:34.000Z",
+            "bitRate": 190.86386969942546,
+            "duration": 303.552,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.692,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/75/jwb-089_E_04.vtt",
+                "modifiedDatetime": "2022-05-16T04:42:23.000Z",
+                "checksum": "54194eae63a0199e3ad113b706e4d172"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/48/jwb-089_E_04_r360P.mp4",
+            "checksum": "5ef2a55d122956de123a5ea54013be3c",
+            "filesize": 13768571,
+            "modifiedDatetime": "2022-05-16T04:42:32.000Z",
+            "bitRate": 354.4064370801251,
+            "duration": 303.513,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/75/jwb-089_E_04.vtt",
+                "modifiedDatetime": "2022-05-16T04:42:23.000Z",
+                "checksum": "54194eae63a0199e3ad113b706e4d172"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/e9/jwb-089_E_04_r480P.mp4",
+            "checksum": "0b1563ada9068654afb015f95376ebe3",
+            "filesize": 25622415,
+            "modifiedDatetime": "2022-05-16T04:42:29.000Z",
+            "bitRate": 659.5273256417353,
+            "duration": 303.513,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/75/jwb-089_E_04.vtt",
+                "modifiedDatetime": "2022-05-16T04:42:23.000Z",
+                "checksum": "54194eae63a0199e3ad113b706e4d172"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/72/jwb-089_E_04_r720P.mp4",
+            "checksum": "355ed3408bd6264e0cd672e297370334",
+            "filesize": 44577347,
+            "modifiedDatetime": "2022-05-16T04:42:27.000Z",
+            "bitRate": 1147.431982938128,
+            "duration": 303.513,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/75/jwb-089_E_04.vtt",
+                "modifiedDatetime": "2022-05-16T04:42:23.000Z",
+                "checksum": "54194eae63a0199e3ad113b706e4d172"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-089-4.v",
+        "jwb-089-4"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/75/jwb-089_E_04.vtt",
+    "Name": "pub-jwb-089_E_4_VIDEO",
+    "Title": "Isolated but United",
+    "UndatedReferenceTitle": "Isolated but United",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODIntExpEndurance"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "5c38a61f99077ca5aeb94585",
+    "languageAgnosticNaturalKey": "pub-osg_49_VIDEO",
+    "naturalKey": "pub-osg_E_49_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODOriginalSongs",
+    "description": "",
+    "firstPublished": "2019-03-18T20:44:49.337Z",
+    "duration": 227.926,
+    "durationFormattedHHMM": "3:47",
+    "durationFormattedMinSec": "3m 47s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/46/osg_E_049_r240P.mp4",
+            "checksum": "2a9260c37dbe052323cb00844db94ed1",
+            "filesize": 12672653,
+            "modifiedDatetime": "2020-12-05T18:18:45.000Z",
+            "bitRate": 434.37388258689225,
+            "duration": 227.926,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.506,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/75/osg_E_049.vtt",
+                "modifiedDatetime": "2019-03-18T20:33:20.000Z",
+                "checksum": "0969559a3614fbde39123da2395e2e62"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/0f/osg_E_049_r360P.mp4",
+            "checksum": "695c10cfc9849f3a7a8a7abf91fd694b",
+            "filesize": 22426211,
+            "modifiedDatetime": "2019-03-18T19:26:24.000Z",
+            "bitRate": 768.7926661174396,
+            "duration": 227.896,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/75/osg_E_049.vtt",
+                "modifiedDatetime": "2019-03-18T20:33:20.000Z",
+                "checksum": "0969559a3614fbde39123da2395e2e62"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/b2/osg_E_049_r480P.mp4",
+            "checksum": "b513fdcdbc7dd04df51cb7b50fe6fd41",
+            "filesize": 42120954,
+            "modifiedDatetime": "2019-03-18T19:26:02.000Z",
+            "bitRate": 1443.9479109988768,
+            "duration": 227.896,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/75/osg_E_049.vtt",
+                "modifiedDatetime": "2019-03-18T20:33:20.000Z",
+                "checksum": "0969559a3614fbde39123da2395e2e62"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/6a/osg_E_049_r720P.mp4",
+            "checksum": "be822685ee1908b80cc32b7b4d76ef35",
+            "filesize": 70654395,
+            "modifiedDatetime": "2019-03-18T19:26:54.000Z",
+            "bitRate": 2422.1024543541794,
+            "duration": 227.896,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/75/osg_E_049.vtt",
+                "modifiedDatetime": "2019-03-18T20:33:20.000Z",
+                "checksum": "0969559a3614fbde39123da2395e2e62"
+            }
+        }
+    ],
+    "printReferences": [
+        "osg-49.v",
+        "osg-49"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/75/osg_E_049.vtt",
+    "Name": "pub-osg_E_49_VIDEO",
+    "Title": "With Jehovah, We Are One",
+    "UndatedReferenceTitle": "With Jehovah, We Are One",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODOriginalSongs"
+}

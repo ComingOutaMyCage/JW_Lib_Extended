@@ -1,0 +1,102 @@
+{
+    "guid": "57ae35e6fbf22850e2b36cc6",
+    "languageAgnosticNaturalKey": "pub-pcr_1_VIDEO",
+    "naturalKey": "pub-pcr_E_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesOriginsLife",
+    "description": "",
+    "firstPublished": "2016-09-05T13:08:10.542Z",
+    "duration": 135.257,
+    "durationFormattedHHMM": "2:15",
+    "durationFormattedMinSec": "2m 15s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/ec/pcr_E_01_r240P.mp4",
+            "checksum": "9476bdbb99ecb743121dceabfce61542",
+            "filesize": 6489768,
+            "modifiedDatetime": "2020-12-18T01:03:56.000Z",
+            "bitRate": 374.8516712628551,
+            "duration": 135.257,
+            "frameHeight": 180,
+            "frameWidth": 320,
+            "label": "240p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/d4/pcr_E_01_r240P.vtt",
+                "modifiedDatetime": "2019-03-10T06:52:21.000Z",
+                "checksum": "8c64b1f1fa774097ab9fa59db032132f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/72/pcr_E_01_r360P.mp4",
+            "checksum": "9d650e1a0eddb2aadb29382b4bcf5bcc",
+            "filesize": 14713517,
+            "modifiedDatetime": "2019-03-10T06:52:26.000Z",
+            "bitRate": 850.1018222072944,
+            "duration": 135.21833333333333,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/71/pcr_E_01_r360P.vtt",
+                "modifiedDatetime": "2019-03-10T06:52:26.000Z",
+                "checksum": "8c64b1f1fa774097ab9fa59db032132f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/71/pcr_E_01_r480P.mp4",
+            "checksum": "1ba099f7c5f43db64f4fe9f334eb0fc6",
+            "filesize": 19815309,
+            "modifiedDatetime": "2019-03-10T06:52:30.000Z",
+            "bitRate": 1144.8676946851388,
+            "duration": 135.21833333333333,
+            "frameHeight": 480,
+            "frameWidth": 854,
+            "label": "480p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/d8/pcr_E_01_r480P.vtt",
+                "modifiedDatetime": "2019-03-10T06:52:30.000Z",
+                "checksum": "8c64b1f1fa774097ab9fa59db032132f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/97/pcr_E_01_r720P.mp4",
+            "checksum": "20b3cf6c93455cee541b866353decc3f",
+            "filesize": 28295449,
+            "modifiedDatetime": "2019-03-10T06:52:34.000Z",
+            "bitRate": 1634.8241385845115,
+            "duration": 135.21833333333333,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/f9/pcr_E_01_r720P.vtt",
+                "modifiedDatetime": "2019-03-10T06:52:35.000Z",
+                "checksum": "8c64b1f1fa774097ab9fa59db032132f"
+            }
+        }
+    ],
+    "printReferences": [
+        "pcr-1.v",
+        "pcr-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/d4/pcr_E_01_r240P.vtt",
+    "Name": "pub-pcr_E_1_VIDEO",
+    "Title": "Monica Richardson: A Physician Explains Her Faith",
+    "UndatedReferenceTitle": "Monica Richardson: A Physician Explains Her Faith",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2016,
+    "Symbol": "SeriesOriginsLife"
+}

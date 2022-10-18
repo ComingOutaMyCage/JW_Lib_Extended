@@ -1,0 +1,102 @@
+{
+    "guid": "6036cda8251b665b39c70166",
+    "languageAgnosticNaturalKey": "pub-jwb-080_10_VIDEO",
+    "naturalKey": "pub-jwb-080_E_10_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODBibleAccounts",
+    "description": "",
+    "firstPublished": "2021-09-13T16:57:29.958Z",
+    "duration": 282.07,
+    "durationFormattedHHMM": "4:42",
+    "durationFormattedMinSec": "4m 42s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/0a/jwb-080_E_10_r240P.mp4",
+            "checksum": "0c1dd47864420d25edf5f7086845a633",
+            "filesize": 9825048,
+            "modifiedDatetime": "2021-09-11T05:04:54.000Z",
+            "bitRate": 272.124605594356,
+            "duration": 282.07,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.576,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/6c/jwb-080_E_10.vtt",
+                "modifiedDatetime": "2021-09-11T05:04:59.000Z",
+                "checksum": "7872a9169b98a402d819561aee0610ee"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/9a/jwb-080_E_10_r360P.mp4",
+            "checksum": "e2cf35b0f92020348cea505280b7315c",
+            "filesize": 17758631,
+            "modifiedDatetime": "2021-09-11T05:04:52.000Z",
+            "bitRate": 491.9257841724195,
+            "duration": 282.033,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/6c/jwb-080_E_10.vtt",
+                "modifiedDatetime": "2021-09-11T05:04:59.000Z",
+                "checksum": "7872a9169b98a402d819561aee0610ee"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/0b/jwb-080_E_10_r480P.mp4",
+            "checksum": "437104dbe5a28cb12de21d99231b5ea5",
+            "filesize": 36961668,
+            "modifiedDatetime": "2021-09-11T05:04:50.000Z",
+            "bitRate": 1023.862566614545,
+            "duration": 282.033,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/6c/jwb-080_E_10.vtt",
+                "modifiedDatetime": "2021-09-11T05:04:59.000Z",
+                "checksum": "7872a9169b98a402d819561aee0610ee"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/3a/jwb-080_E_10_r720P.mp4",
+            "checksum": "d0602ecaf967c5c368186fa93837a81a",
+            "filesize": 66687645,
+            "modifiedDatetime": "2021-09-11T05:04:45.000Z",
+            "bitRate": 1847.2917231760111,
+            "duration": 282.033,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/6c/jwb-080_E_10.vtt",
+                "modifiedDatetime": "2021-09-11T05:04:59.000Z",
+                "checksum": "7872a9169b98a402d819561aee0610ee"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-080-10.v",
+        "jwb-080-10"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/6c/jwb-080_E_10.vtt",
+    "Name": "pub-jwb-080_E_10_VIDEO",
+    "Title": "Fulfilled Prophecy—Daniel Chapter 11",
+    "UndatedReferenceTitle": "Fulfilled Prophecy—Daniel Chapter 11",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODBibleAccounts"
+}

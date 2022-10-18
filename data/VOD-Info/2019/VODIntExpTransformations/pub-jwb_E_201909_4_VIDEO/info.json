@@ -1,0 +1,102 @@
+{
+    "guid": "5d125fb248fd57354cf348cc",
+    "languageAgnosticNaturalKey": "pub-jwb_201909_4_VIDEO",
+    "naturalKey": "pub-jwb_E_201909_4_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpTransformations",
+    "description": "",
+    "firstPublished": "2019-09-02T12:56:02.340Z",
+    "duration": 316.971,
+    "durationFormattedHHMM": "5:16",
+    "durationFormattedMinSec": "5m 16s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/08/jwb_E_201909_04_r240P.mp4",
+            "checksum": "ffd799ccce2db909d26244ae8e2f9ff1",
+            "filesize": 6996075,
+            "modifiedDatetime": "2020-11-03T22:16:28.000Z",
+            "bitRate": 172.43481560615956,
+            "duration": 316.971,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.904,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/7a/jwb_E_201909_04.vtt",
+                "modifiedDatetime": "2019-09-16T11:29:59.000Z",
+                "checksum": "d1b48373074e2d6865296ac6e0676335"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/ad/jwb_E_201909_04_r360P.mp4",
+            "checksum": "d5f188bc1aa0f7ac8f6a9e228792c231",
+            "filesize": 13163882,
+            "modifiedDatetime": "2019-09-16T11:29:48.000Z",
+            "bitRate": 324.4836709597625,
+            "duration": 316.943,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/7a/jwb_E_201909_04.vtt",
+                "modifiedDatetime": "2019-09-16T11:29:59.000Z",
+                "checksum": "d1b48373074e2d6865296ac6e0676335"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/10/jwb_E_201909_04_r480P.mp4",
+            "checksum": "728675a46e2f1053829ef219b5a8361f",
+            "filesize": 23255293,
+            "modifiedDatetime": "2019-09-16T11:29:51.000Z",
+            "bitRate": 573.2323369265137,
+            "duration": 316.943,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/7a/jwb_E_201909_04.vtt",
+                "modifiedDatetime": "2019-09-16T11:29:59.000Z",
+                "checksum": "d1b48373074e2d6865296ac6e0676335"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/f1/jwb_E_201909_04_r720P.mp4",
+            "checksum": "3fb7ae5e243e11c219b23f0040d72f6c",
+            "filesize": 39556775,
+            "modifiedDatetime": "2019-09-16T11:29:55.000Z",
+            "bitRate": 975.0564129433369,
+            "duration": 316.943,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/7a/jwb_E_201909_04.vtt",
+                "modifiedDatetime": "2019-09-16T11:29:59.000Z",
+                "checksum": "d1b48373074e2d6865296ac6e0676335"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201909-4.v",
+        "jwb.201909-4"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/7a/jwb_E_201909_04.vtt",
+    "Name": "pub-jwb_E_201909_4_VIDEO",
+    "Title": "How Hundreds Found Bible Truth",
+    "UndatedReferenceTitle": "How Hundreds Found Bible Truth",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODIntExpTransformations"
+}

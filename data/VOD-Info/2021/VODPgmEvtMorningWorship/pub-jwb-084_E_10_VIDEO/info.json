@@ -1,0 +1,102 @@
+{
+    "guid": "61420fc7a074a87de673247c",
+    "languageAgnosticNaturalKey": "pub-jwb-084_10_VIDEO",
+    "naturalKey": "pub-jwb-084_E_10_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2021-11-22T15:01:20.509Z",
+    "duration": 597.099,
+    "durationFormattedHHMM": "9:57",
+    "durationFormattedMinSec": "9m 57s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/87/jwb-084_E_10_r240P.mp4",
+            "checksum": "7b86d19a536b9fafb4316fb9147f6ec2",
+            "filesize": 9538181,
+            "modifiedDatetime": "2021-11-22T12:51:18.000Z",
+            "bitRate": 124.7984656857573,
+            "duration": 597.099,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.412,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/7b/jwb-084_E_10.vtt",
+                "modifiedDatetime": "2021-11-22T12:50:42.000Z",
+                "checksum": "ffd832be6f612554b5bc3b68f2ac72a7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/ad/jwb-084_E_10_r360P.mp4",
+            "checksum": "129e78b18dbc21408349d5be6c364bcc",
+            "filesize": 18786253,
+            "modifiedDatetime": "2021-11-22T12:51:16.000Z",
+            "bitRate": 245.81182127227325,
+            "duration": 597.073,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/7b/jwb-084_E_10.vtt",
+                "modifiedDatetime": "2021-11-22T12:50:42.000Z",
+                "checksum": "ffd832be6f612554b5bc3b68f2ac72a7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/2f/jwb-084_E_10_r480P.mp4",
+            "checksum": "78cb712caad2574328b08cfc80f0249a",
+            "filesize": 32671909,
+            "modifiedDatetime": "2021-11-22T12:51:11.000Z",
+            "bitRate": 427.5009740224395,
+            "duration": 597.073,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/7b/jwb-084_E_10.vtt",
+                "modifiedDatetime": "2021-11-22T12:50:42.000Z",
+                "checksum": "ffd832be6f612554b5bc3b68f2ac72a7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/84/jwb-084_E_10_r720P.mp4",
+            "checksum": "5742081d1cfa5086123edde3d6b26b94",
+            "filesize": 56752253,
+            "modifiedDatetime": "2021-11-22T12:50:43.000Z",
+            "bitRate": 742.5842008640485,
+            "duration": 597.073,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/7b/jwb-084_E_10.vtt",
+                "modifiedDatetime": "2021-11-22T12:50:42.000Z",
+                "checksum": "ffd832be6f612554b5bc3b68f2ac72a7"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-084-10.v",
+        "jwb-084-10"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/7b/jwb-084_E_10.vtt",
+    "Name": "pub-jwb-084_E_10_VIDEO",
+    "Title": "Mark Noumair: Keep Spinning on the Potter’s Wheel (Josh. 1:1, 2)",
+    "UndatedReferenceTitle": "Mark Noumair: Keep Spinning on the Potter’s Wheel (Josh. 1:1, 2)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "5d3b38b248fd57354cf389fc",
+    "languageAgnosticNaturalKey": "pub-jwb_201909_2_VIDEO",
+    "naturalKey": "pub-jwb_E_201909_2_VIDEO",
+    "type": "video",
+    "primaryCategory": "StudioTalks",
+    "description": "",
+    "firstPublished": "2019-09-16T18:52:42.672Z",
+    "duration": 524.864,
+    "durationFormattedHHMM": "8:44",
+    "durationFormattedMinSec": "8m 44s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/2b/jwb_E_201909_02_r240P.mp4",
+            "checksum": "9da184741020b847811c1055338b1144",
+            "filesize": 7898896,
+            "modifiedDatetime": "2020-11-05T21:09:41.000Z",
+            "bitRate": 117.57355238690403,
+            "duration": 524.864,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.155,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/db/jwb_E_201909_02.vtt",
+                "modifiedDatetime": "2019-09-16T11:31:27.000Z",
+                "checksum": "a658c135ddc30b18cfcdc702820cfd47"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/22/jwb_E_201909_02_r360P.mp4",
+            "checksum": "73a65dea3d98ccabceb4d14b525a3b99",
+            "filesize": 15386927,
+            "modifiedDatetime": "2019-11-17T22:36:31.000Z",
+            "bitRate": 229.0445496814231,
+            "duration": 524.834,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/db/jwb_E_201909_02.vtt",
+                "modifiedDatetime": "2019-09-16T11:31:27.000Z",
+                "checksum": "a658c135ddc30b18cfcdc702820cfd47"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/57/jwb_E_201909_02_r480P.mp4",
+            "checksum": "5cbb08515cb73ecbfd7e20104cb9cf29",
+            "filesize": 25530634,
+            "modifiedDatetime": "2019-11-17T23:45:29.000Z",
+            "bitRate": 380.04031393735926,
+            "duration": 524.834,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/db/jwb_E_201909_02.vtt",
+                "modifiedDatetime": "2019-09-16T11:31:27.000Z",
+                "checksum": "a658c135ddc30b18cfcdc702820cfd47"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/3c/jwb_E_201909_02_r720P.mp4",
+            "checksum": "d0c478fdbd152b256ef0f822abf22fad",
+            "filesize": 39604097,
+            "modifiedDatetime": "2019-11-18T00:10:10.000Z",
+            "bitRate": 589.5330862949047,
+            "duration": 524.834,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/db/jwb_E_201909_02.vtt",
+                "modifiedDatetime": "2019-09-16T11:31:27.000Z",
+                "checksum": "a658c135ddc30b18cfcdc702820cfd47"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201909-2.v",
+        "jwb.201909-2"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/db/jwb_E_201909_02.vtt",
+    "Name": "pub-jwb_E_201909_2_VIDEO",
+    "Title": "David H. Splane: Do the Math",
+    "UndatedReferenceTitle": "David H. Splane: Do the Math",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "StudioTalks"
+}

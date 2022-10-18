@@ -1,0 +1,102 @@
+{
+    "guid": "626afa9cb685ba3441777e77",
+    "languageAgnosticNaturalKey": "pub-jwb-091_2_VIDEO",
+    "naturalKey": "pub-jwb-091_E_2_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtGilead",
+    "description": "",
+    "firstPublished": "2022-06-07T13:50:37.390Z",
+    "duration": 553.302,
+    "durationFormattedHHMM": "9:13",
+    "durationFormattedMinSec": "9m 13s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/78/jwb-091_E_02_r240P.mp4",
+            "checksum": "dde35f3200bd77a1e0a68f0af5689e2b",
+            "filesize": 9302827,
+            "modifiedDatetime": "2022-06-07T05:47:57.000Z",
+            "bitRate": 131.35382835684672,
+            "duration": 553.302,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/90/jwb-091_E_02.vtt",
+                "modifiedDatetime": "2022-06-07T05:47:50.000Z",
+                "checksum": "4c0d9e1cbf7d52246ea739aad47c02cc"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/21/jwb-091_E_02_r360P.mp4",
+            "checksum": "117285b153b74da0c0ab23fa994f8301",
+            "filesize": 18613777,
+            "modifiedDatetime": "2022-06-07T05:47:56.000Z",
+            "bitRate": 262.83280222039474,
+            "duration": 553.28,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/90/jwb-091_E_02.vtt",
+                "modifiedDatetime": "2022-06-07T05:47:50.000Z",
+                "checksum": "4c0d9e1cbf7d52246ea739aad47c02cc"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/f7/jwb-091_E_02_r480P.mp4",
+            "checksum": "f86571850bb00a125b90a526accc5671",
+            "filesize": 32497547,
+            "modifiedDatetime": "2022-06-07T05:47:53.000Z",
+            "bitRate": 458.87631206170477,
+            "duration": 553.28,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/90/jwb-091_E_02.vtt",
+                "modifiedDatetime": "2022-06-07T05:47:50.000Z",
+                "checksum": "4c0d9e1cbf7d52246ea739aad47c02cc"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/e6/jwb-091_E_02_r720P.mp4",
+            "checksum": "6655a5bc5858661e8b28263f97da4431",
+            "filesize": 53137910,
+            "modifiedDatetime": "2022-06-07T05:47:51.000Z",
+            "bitRate": 750.3251913588057,
+            "duration": 553.28,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/90/jwb-091_E_02.vtt",
+                "modifiedDatetime": "2022-06-07T05:47:50.000Z",
+                "checksum": "4c0d9e1cbf7d52246ea739aad47c02cc"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-091-2.v",
+        "jwb-091-2"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/90/jwb-091_E_02.vtt",
+    "Name": "pub-jwb-091_E_2_VIDEO",
+    "Title": "Kenneth Cook, Jr.: You Are Ready to Face the Things Ahead",
+    "UndatedReferenceTitle": "Kenneth Cook, Jr.: You Are Ready to Face the Things Ahead",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODPgmEvtGilead"
+}

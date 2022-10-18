@@ -1,0 +1,102 @@
+{
+    "guid": "5ee9183baf341cff13f50dac",
+    "languageAgnosticNaturalKey": "pub-jwb_202011_7_VIDEO",
+    "naturalKey": "pub-jwb_E_202011_7_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2020-11-16T22:08:24.032Z",
+    "duration": 636.971,
+    "durationFormattedHHMM": "10:36",
+    "durationFormattedMinSec": "10m 36s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/4d/jwb_E_202011_07_r240P.mp4",
+            "checksum": "e260c51f45ea473fca24243762a452b2",
+            "filesize": 9866827,
+            "modifiedDatetime": "2020-11-16T21:47:03.000Z",
+            "bitRate": 121.01741827728421,
+            "duration": 636.971,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.557,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/85/jwb_E_202011_07.vtt",
+                "modifiedDatetime": "2020-11-16T21:47:11.000Z",
+                "checksum": "5c89d04182941490531fa119b46fa14d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/6d/jwb_E_202011_07_r360P.mp4",
+            "checksum": "53117d1f14e92cd0014ca11c987ff60b",
+            "filesize": 20632721,
+            "modifiedDatetime": "2020-11-16T21:47:05.000Z",
+            "bitRate": 253.07189748032013,
+            "duration": 636.946,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/85/jwb_E_202011_07.vtt",
+                "modifiedDatetime": "2020-11-16T21:47:11.000Z",
+                "checksum": "5c89d04182941490531fa119b46fa14d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/be/jwb_E_202011_07_r480P.mp4",
+            "checksum": "98454db6626f30323f58c8d687c80140",
+            "filesize": 36837019,
+            "modifiedDatetime": "2020-11-16T21:47:06.000Z",
+            "bitRate": 451.8267026364872,
+            "duration": 636.946,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/85/jwb_E_202011_07.vtt",
+                "modifiedDatetime": "2020-11-16T21:47:11.000Z",
+                "checksum": "5c89d04182941490531fa119b46fa14d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/32/jwb_E_202011_07_r720P.mp4",
+            "checksum": "cf843e34b2dc42e996f1bd70c1bfe065",
+            "filesize": 67613924,
+            "modifiedDatetime": "2020-11-16T21:47:08.000Z",
+            "bitRate": 829.3227074979668,
+            "duration": 636.946,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/85/jwb_E_202011_07.vtt",
+                "modifiedDatetime": "2020-11-16T21:47:11.000Z",
+                "checksum": "5c89d04182941490531fa119b46fa14d"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202011-7.v",
+        "jwb.202011-7"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/85/jwb_E_202011_07.vtt",
+    "Name": "pub-jwb_E_202011_7_VIDEO",
+    "Title": "Joel Dellinger: Be a Discerning Student (Prov. 3:13)",
+    "UndatedReferenceTitle": "Joel Dellinger: Be a Discerning Student (Prov. 3:13)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

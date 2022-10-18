@@ -1,0 +1,102 @@
+{
+    "guid": "61200fd423708c1b98f6ad61",
+    "languageAgnosticNaturalKey": "pub-jwb-084_11_VIDEO",
+    "naturalKey": "pub-jwb-084_E_11_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesOurHistory",
+    "description": "",
+    "firstPublished": "2021-11-08T14:17:52.807Z",
+    "duration": 381.824,
+    "durationFormattedHHMM": "6:21",
+    "durationFormattedMinSec": "6m 21s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/2e/jwb-084_E_11_r240P.mp4",
+            "checksum": "7ec82c61449f8501a740cf724d351a13",
+            "filesize": 8527743,
+            "modifiedDatetime": "2021-11-08T04:36:02.000Z",
+            "bitRate": 174.48613022622988,
+            "duration": 381.824,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.833,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/fd/jwb-084_E_11.vtt",
+                "modifiedDatetime": "2021-11-08T04:35:51.000Z",
+                "checksum": "ffecd5be15d92081483b6a1fd1f63028"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/4d/jwb-084_E_11_r360P.mp4",
+            "checksum": "c7f0f5d04bb82432a3ea1e8f03838dc9",
+            "filesize": 17666803,
+            "modifiedDatetime": "2021-11-08T04:36:00.000Z",
+            "bitRate": 361.50313891435303,
+            "duration": 381.8,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/fd/jwb-084_E_11.vtt",
+                "modifiedDatetime": "2021-11-08T04:35:51.000Z",
+                "checksum": "ffecd5be15d92081483b6a1fd1f63028"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/93/jwb-084_E_11_r480P.mp4",
+            "checksum": "f398feaa4f8d410df34dc652e075f308",
+            "filesize": 34279681,
+            "modifiedDatetime": "2021-11-08T04:35:56.000Z",
+            "bitRate": 701.4405652501309,
+            "duration": 381.8,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/fd/jwb-084_E_11.vtt",
+                "modifiedDatetime": "2021-11-08T04:35:51.000Z",
+                "checksum": "ffecd5be15d92081483b6a1fd1f63028"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/3f/jwb-084_E_11_r720P.mp4",
+            "checksum": "0d263c3222b5ee2ca668676bc6d4765b",
+            "filesize": 60452675,
+            "modifiedDatetime": "2021-11-08T04:35:52.000Z",
+            "bitRate": 1236.9997994696175,
+            "duration": 381.8,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/fd/jwb-084_E_11.vtt",
+                "modifiedDatetime": "2021-11-08T04:35:51.000Z",
+                "checksum": "ffecd5be15d92081483b6a1fd1f63028"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-084-11.v",
+        "jwb-084-11"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/fd/jwb-084_E_11.vtt",
+    "Name": "pub-jwb-084_E_11_VIDEO",
+    "Title": "Our History in Motion—The Gift of Song, Part 2",
+    "UndatedReferenceTitle": "Our History in Motion—The Gift of Song, Part 2",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "SeriesOurHistory"
+}

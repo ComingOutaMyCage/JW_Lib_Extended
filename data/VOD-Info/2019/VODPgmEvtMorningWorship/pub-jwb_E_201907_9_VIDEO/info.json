@@ -1,0 +1,102 @@
+{
+    "guid": "5d02557f48fd57354cf33610",
+    "languageAgnosticNaturalKey": "pub-jwb_201907_9_VIDEO",
+    "naturalKey": "pub-jwb_E_201907_9_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2019-07-08T13:37:37.845Z",
+    "duration": 635.414,
+    "durationFormattedHHMM": "10:35",
+    "durationFormattedMinSec": "10m 35s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/88/jwb_E_201907_09_r240P.mp4",
+            "checksum": "67d65473ce084c3b8b396b7970ee1d7d",
+            "filesize": 13127124,
+            "modifiedDatetime": "2020-11-11T21:49:22.000Z",
+            "bitRate": 161.3997429235113,
+            "duration": 635.414,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.354,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/fc/jwb_E_201907_09.vtt",
+                "modifiedDatetime": "2019-07-08T13:31:24.000Z",
+                "checksum": "8d906bf11de07572cf731e3cb139213b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/6f/jwb_E_201907_09_r360P.mp4",
+            "checksum": "a5f276316b7dbeedb61d6847a581955e",
+            "filesize": 26981708,
+            "modifiedDatetime": "2019-07-08T13:31:31.000Z",
+            "bitRate": 331.76250003934666,
+            "duration": 635.378,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/fc/jwb_E_201907_09.vtt",
+                "modifiedDatetime": "2019-07-08T13:31:24.000Z",
+                "checksum": "8d906bf11de07572cf731e3cb139213b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/98/jwb_E_201907_09_r480P.mp4",
+            "checksum": "7dfa025d7281e6ec9a498a13e73dbe0b",
+            "filesize": 52142766,
+            "modifiedDatetime": "2019-07-08T13:31:38.000Z",
+            "bitRate": 641.1385968274003,
+            "duration": 635.378,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/fc/jwb_E_201907_09.vtt",
+                "modifiedDatetime": "2019-07-08T13:31:24.000Z",
+                "checksum": "8d906bf11de07572cf731e3cb139213b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/5e/jwb_E_201907_09_r720P.mp4",
+            "checksum": "2a49eebc2942dc3e6b928a8ab086794e",
+            "filesize": 101147632,
+            "modifiedDatetime": "2019-07-08T13:31:47.000Z",
+            "bitRate": 1243.6941080742486,
+            "duration": 635.378,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/fc/jwb_E_201907_09.vtt",
+                "modifiedDatetime": "2019-07-08T13:31:24.000Z",
+                "checksum": "8d906bf11de07572cf731e3cb139213b"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201907-9.v",
+        "jwb.201907-9"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/fc/jwb_E_201907_09.vtt",
+    "Name": "pub-jwb_E_201907_9_VIDEO",
+    "Title": "Alex Reinmueller: A Balanced View of Guilt (2 Sam. 12:13)",
+    "UndatedReferenceTitle": "Alex Reinmueller: A Balanced View of Guilt (2 Sam. 12:13)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

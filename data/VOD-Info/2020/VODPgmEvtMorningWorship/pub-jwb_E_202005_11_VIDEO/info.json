@@ -1,0 +1,102 @@
+{
+    "guid": "5e90aad4001474da27225f5e",
+    "languageAgnosticNaturalKey": "pub-jwb_202005_11_VIDEO",
+    "naturalKey": "pub-jwb_E_202005_11_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2020-05-25T12:54:11.621Z",
+    "duration": 546.219,
+    "durationFormattedHHMM": "9:06",
+    "durationFormattedMinSec": "9m 6s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/c9/jwb_E_202005_11_r240P.mp4",
+            "checksum": "19c595dcf3d465c918ae8904a00e6b75",
+            "filesize": 8258934,
+            "modifiedDatetime": "2020-10-18T03:03:26.000Z",
+            "bitRate": 118.1264691909289,
+            "duration": 546.219,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.499,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/b4/jwb_E_202005_11.vtt",
+                "modifiedDatetime": "2020-05-25T06:12:58.000Z",
+                "checksum": "2d0b922a67c7fe5ddbec298a1fa9c842"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/17/jwb_E_202005_11_r360P.mp4",
+            "checksum": "60a0b99064e80970e753a56e70393ecc",
+            "filesize": 16426940,
+            "modifiedDatetime": "2020-05-25T06:12:43.000Z",
+            "bitRate": 234.96531191583867,
+            "duration": 546.189,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/b4/jwb_E_202005_11.vtt",
+                "modifiedDatetime": "2020-05-25T06:12:58.000Z",
+                "checksum": "2d0b922a67c7fe5ddbec298a1fa9c842"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/e7/jwb_E_202005_11_r480P.mp4",
+            "checksum": "401d2258f4ca0c1aa1b3a166de1aca35",
+            "filesize": 28660592,
+            "modifiedDatetime": "2020-05-25T06:12:47.000Z",
+            "bitRate": 409.95127144633085,
+            "duration": 546.189,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/b4/jwb_E_202005_11.vtt",
+                "modifiedDatetime": "2020-05-25T06:12:58.000Z",
+                "checksum": "2d0b922a67c7fe5ddbec298a1fa9c842"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/c1/jwb_E_202005_11_r720P.mp4",
+            "checksum": "7a78c1fe524e97b78428654eaa817903",
+            "filesize": 54836835,
+            "modifiedDatetime": "2020-05-25T06:12:53.000Z",
+            "bitRate": 784.3672674431378,
+            "duration": 546.189,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/b4/jwb_E_202005_11.vtt",
+                "modifiedDatetime": "2020-05-25T06:12:58.000Z",
+                "checksum": "2d0b922a67c7fe5ddbec298a1fa9c842"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202005-11.v",
+        "jwb.202005-11"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/b4/jwb_E_202005_11.vtt",
+    "Name": "pub-jwb_E_202005_11_VIDEO",
+    "Title": "David Schafer: Learn to Be Content (Heb. 13:5)",
+    "UndatedReferenceTitle": "David Schafer: Learn to Be Content (Heb. 13:5)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

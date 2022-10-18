@@ -1,0 +1,102 @@
+{
+    "guid": "553649417f0bc1fc2706afb1",
+    "languageAgnosticNaturalKey": "docid-502013228_1_VIDEO",
+    "naturalKey": "docid-502013228_E_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesWhatPeersSay",
+    "description": "",
+    "firstPublished": "2013-01-31T02:00:00.000Z",
+    "duration": 106.155,
+    "durationFormattedHHMM": "1:46",
+    "durationFormattedMinSec": "1m 46s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/21/502013228_E_cnt_1_r240P.mp4",
+            "checksum": "cf58b6bcb011b6a46ac94260284fd07e",
+            "filesize": 3208317,
+            "modifiedDatetime": "2022-08-24T19:38:16.000Z",
+            "bitRate": 236.11677794263105,
+            "duration": 106.155,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/83/502013228_E_cnt_1.vtt",
+                "modifiedDatetime": "2022-08-24T19:38:06.000Z",
+                "checksum": "0786a4dabac2d596086f492401d6d429"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/ab/502013228_E_cnt_1_r360P.mp4",
+            "checksum": "cd24a283d1dd700438475af2db9215b6",
+            "filesize": 4748263,
+            "modifiedDatetime": "2022-08-24T19:38:19.000Z",
+            "bitRate": 349.44943419999055,
+            "duration": 106.155,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/83/502013228_E_cnt_1.vtt",
+                "modifiedDatetime": "2022-08-24T19:38:06.000Z",
+                "checksum": "0786a4dabac2d596086f492401d6d429"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/7f/502013228_E_cnt_1_r480P.mp4",
+            "checksum": "4cbf47ff2f676badfa4e41f65465f8ea",
+            "filesize": 8001252,
+            "modifiedDatetime": "2022-08-24T19:38:21.000Z",
+            "bitRate": 588.8538575667656,
+            "duration": 106.155,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/83/502013228_E_cnt_1.vtt",
+                "modifiedDatetime": "2022-08-24T19:38:06.000Z",
+                "checksum": "0786a4dabac2d596086f492401d6d429"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/98/502013228_E_cnt_1_r720P.mp4",
+            "checksum": "16f52a59c95eb188cdababa29e8a34a6",
+            "filesize": 12321732,
+            "modifiedDatetime": "2022-08-24T19:38:25.000Z",
+            "bitRate": 906.820510103151,
+            "duration": 106.155,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/83/502013228_E_cnt_1.vtt",
+                "modifiedDatetime": "2022-08-24T19:38:06.000Z",
+                "checksum": "0786a4dabac2d596086f492401d6d429"
+            }
+        }
+    ],
+    "printReferences": [
+        "502013228-1.v",
+        "502013228-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/content_assets/83/502013228_E_cnt_1.vtt",
+    "Name": "docid-502013228_E_1_VIDEO",
+    "Title": "What Your Peers Say—Procrastination",
+    "UndatedReferenceTitle": "What Your Peers Say—Procrastination",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2013,
+    "Symbol": "SeriesWhatPeersSay"
+}

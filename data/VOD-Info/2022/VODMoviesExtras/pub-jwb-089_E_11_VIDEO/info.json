@@ -1,0 +1,102 @@
+{
+    "guid": "61fd7fbf57c50ea1ebf7a722",
+    "languageAgnosticNaturalKey": "pub-jwb-089_11_VIDEO",
+    "naturalKey": "pub-jwb-089_E_11_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODMoviesExtras",
+    "description": "",
+    "firstPublished": "2022-05-02T14:45:05.875Z",
+    "duration": 95.296,
+    "durationFormattedHHMM": "1:35",
+    "durationFormattedMinSec": "1m 35s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/f7/jwb-089_E_11_r240P.mp4",
+            "checksum": "53e554621507fb865d1b6038db75c905",
+            "filesize": 2625766,
+            "modifiedDatetime": "2022-05-02T04:19:46.000Z",
+            "bitRate": 215.26398668359636,
+            "duration": 95.296,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.553,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/ee/jwb-089_E_11.vtt",
+                "modifiedDatetime": "2022-05-02T04:19:38.000Z",
+                "checksum": "fb3dad4c9dc0bd8ddfbd4783f7c27e0f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/51/jwb-089_E_11_r360P.mp4",
+            "checksum": "e9947ec1341a0bcd5f9eeaae5c5237ff",
+            "filesize": 4325525,
+            "modifiedDatetime": "2022-05-02T04:19:43.000Z",
+            "bitRate": 354.73545933363425,
+            "duration": 95.263,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/ee/jwb-089_E_11.vtt",
+                "modifiedDatetime": "2022-05-02T04:19:38.000Z",
+                "checksum": "fb3dad4c9dc0bd8ddfbd4783f7c27e0f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/cf/jwb-089_E_11_r480P.mp4",
+            "checksum": "092d5f8720bfa3cdaf5649a745eefe09",
+            "filesize": 7598905,
+            "modifiedDatetime": "2022-05-02T04:19:41.000Z",
+            "bitRate": 623.184712978806,
+            "duration": 95.263,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/ee/jwb-089_E_11.vtt",
+                "modifiedDatetime": "2022-05-02T04:19:38.000Z",
+                "checksum": "fb3dad4c9dc0bd8ddfbd4783f7c27e0f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/f1/jwb-089_E_11_r720P.mp4",
+            "checksum": "16f4035304452df4a9607ecf9b410a0d",
+            "filesize": 12221543,
+            "modifiedDatetime": "2022-05-02T04:19:39.000Z",
+            "bitRate": 1002.2863513378751,
+            "duration": 95.263,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/ee/jwb-089_E_11.vtt",
+                "modifiedDatetime": "2022-05-02T04:19:38.000Z",
+                "checksum": "fb3dad4c9dc0bd8ddfbd4783f7c27e0f"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-089-11.v",
+        "jwb-089-11"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/ee/jwb-089_E_11.vtt",
+    "Name": "pub-jwb-089_E_11_VIDEO",
+    "Title": "Feature Bible Drama Trailer: Jehovah Guides Us in the Way of Peace",
+    "UndatedReferenceTitle": "Feature Bible Drama Trailer: Jehovah Guides Us in the Way of Peace",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODMoviesExtras"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "5d3b3a6248fd57354cf38a00",
+    "languageAgnosticNaturalKey": "pub-jwb_201910_3_VIDEO",
+    "naturalKey": "pub-jwb_E_201910_3_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODBiblePrinciples",
+    "description": "",
+    "firstPublished": "2019-10-21T17:20:59.921Z",
+    "duration": 247.446,
+    "durationFormattedHHMM": "4:07",
+    "durationFormattedMinSec": "4m 7s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/e7/jwb_E_201910_03_r240P.mp4",
+            "checksum": "3a6d4c5287638467c34b0e6793d81208",
+            "filesize": 6625189,
+            "modifiedDatetime": "2020-11-21T07:43:21.000Z",
+            "bitRate": 209.17407863735926,
+            "duration": 247.446,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.786,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/b3/jwb_E_201910_03.vtt",
+                "modifiedDatetime": "2019-10-21T14:26:25.000Z",
+                "checksum": "972322c938107662c10013e9e1ad4987"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/28/jwb_E_201910_03_r360P.mp4",
+            "checksum": "c010166fa8ec161d44c9f9007fd32812",
+            "filesize": 11629777,
+            "modifiedDatetime": "2019-10-21T14:26:11.000Z",
+            "bitRate": 367.2276653092982,
+            "duration": 247.415,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/b3/jwb_E_201910_03.vtt",
+                "modifiedDatetime": "2019-10-21T14:26:25.000Z",
+                "checksum": "972322c938107662c10013e9e1ad4987"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/b5/jwb_E_201910_03_r480P.mp4",
+            "checksum": "997c96c12f11e7b8e53aea651a7aca4c",
+            "filesize": 20935203,
+            "modifiedDatetime": "2019-10-21T14:26:15.000Z",
+            "bitRate": 661.0604588949741,
+            "duration": 247.415,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/b3/jwb_E_201910_03.vtt",
+                "modifiedDatetime": "2019-10-21T14:26:25.000Z",
+                "checksum": "972322c938107662c10013e9e1ad4987"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/35/jwb_E_201910_03_r720P.mp4",
+            "checksum": "223b7eb69221e50f067d7182c558bd6a",
+            "filesize": 33803778,
+            "modifiedDatetime": "2019-10-21T14:26:21.000Z",
+            "bitRate": 1067.4050305155306,
+            "duration": 247.415,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/b3/jwb_E_201910_03.vtt",
+                "modifiedDatetime": "2019-10-21T14:26:25.000Z",
+                "checksum": "972322c938107662c10013e9e1ad4987"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201910-3.v",
+        "jwb.201910-3"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/b3/jwb_E_201910_03.vtt",
+    "Name": "pub-jwb_E_201910_3_VIDEO",
+    "Title": "Speak “What Is Good for Building Up” Others",
+    "UndatedReferenceTitle": "Speak “What Is Good for Building Up” Others",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODBiblePrinciples"
+}

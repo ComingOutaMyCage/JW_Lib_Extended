@@ -1,0 +1,102 @@
+{
+    "guid": "5fe22033e668ffe089e8736c",
+    "languageAgnosticNaturalKey": "pub-osg_68_VIDEO",
+    "naturalKey": "pub-osg_E_68_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODOriginalSongs",
+    "description": "",
+    "firstPublished": "2021-04-19T14:10:35.035Z",
+    "duration": 227.222,
+    "durationFormattedHHMM": "3:47",
+    "durationFormattedMinSec": "3m 47s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/c5/osg_E_068_r240P.mp4",
+            "checksum": "1073539838e3639005ac3f0a43e42351",
+            "filesize": 5613548,
+            "modifiedDatetime": "2021-04-19T05:47:50.000Z",
+            "bitRate": 193.00879206238832,
+            "duration": 227.222,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.483,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/36/osg_E_068.vtt",
+                "modifiedDatetime": "2021-04-19T05:47:37.000Z",
+                "checksum": "087f02998724b071e05a8819b5ace703"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/79/osg_E_068_r360P.mp4",
+            "checksum": "1c97e12e8de1c8dc77c85dd881c8e756",
+            "filesize": 11246704,
+            "modifiedDatetime": "2021-04-19T05:47:48.000Z",
+            "bitRate": 386.7513326026577,
+            "duration": 227.187,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/36/osg_E_068.vtt",
+                "modifiedDatetime": "2021-04-19T05:47:37.000Z",
+                "checksum": "087f02998724b071e05a8819b5ace703"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/4c/osg_E_068_r480P.mp4",
+            "checksum": "dd13ea8ec98ad6b00a34e04864e1c7d1",
+            "filesize": 20422180,
+            "modifiedDatetime": "2021-04-19T05:47:45.000Z",
+            "bitRate": 702.277336511332,
+            "duration": 227.187,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/36/osg_E_068.vtt",
+                "modifiedDatetime": "2021-04-19T05:47:37.000Z",
+                "checksum": "087f02998724b071e05a8819b5ace703"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/ff/osg_E_068_r720P.mp4",
+            "checksum": "cd759c5c2d2b938adc28f3182c5dd220",
+            "filesize": 34988416,
+            "modifiedDatetime": "2021-04-19T05:47:41.000Z",
+            "bitRate": 1203.1806397373089,
+            "duration": 227.187,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/36/osg_E_068.vtt",
+                "modifiedDatetime": "2021-04-19T05:47:37.000Z",
+                "checksum": "087f02998724b071e05a8819b5ace703"
+            }
+        }
+    ],
+    "printReferences": [
+        "osg-68.v",
+        "osg-68"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/36/osg_E_068.vtt",
+    "Name": "pub-osg_E_68_VIDEO",
+    "Title": "Safeguard Your Mind",
+    "UndatedReferenceTitle": "Safeguard Your Mind",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODOriginalSongs"
+}

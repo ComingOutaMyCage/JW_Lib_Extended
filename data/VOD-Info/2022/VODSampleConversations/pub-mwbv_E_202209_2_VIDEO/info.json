@@ -1,0 +1,102 @@
+{
+    "guid": "62a0be642b229f0b1c889d3d",
+    "languageAgnosticNaturalKey": "pub-mwbv_202209_2_VIDEO",
+    "naturalKey": "pub-mwbv_E_202209_2_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODSampleConversations",
+    "description": "",
+    "firstPublished": "2022-09-19T13:42:48.883Z",
+    "duration": 182.507,
+    "durationFormattedHHMM": "3:02",
+    "durationFormattedMinSec": "3m 2s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/42/mwbv_E_202209_02_r240P.mp4",
+            "checksum": "6e80245337215e3098f3b1148306d6ca",
+            "filesize": 2697849,
+            "modifiedDatetime": "2022-09-19T04:23:52.000Z",
+            "bitRate": 115.4856817135781,
+            "duration": 182.507,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/df/mwbv_E_202209_02.vtt",
+                "modifiedDatetime": "2022-09-19T04:23:40.000Z",
+                "checksum": "899e7038375aa8c98408c380f08df9aa"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/3a/mwbv_E_202209_02_r360P.mp4",
+            "checksum": "658244cf161c1c60fda55c3b8bebed01",
+            "filesize": 5162623,
+            "modifiedDatetime": "2022-09-19T04:23:48.000Z",
+            "bitRate": 221.01965185000495,
+            "duration": 182.486,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/df/mwbv_E_202209_02.vtt",
+                "modifiedDatetime": "2022-09-19T04:23:40.000Z",
+                "checksum": "899e7038375aa8c98408c380f08df9aa"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/71/mwbv_E_202209_02_r480P.mp4",
+            "checksum": "cc143e18e9ff99d6ba21ad877ca57fcc",
+            "filesize": 8769571,
+            "modifiedDatetime": "2022-09-19T04:23:46.000Z",
+            "bitRate": 375.43851822879566,
+            "duration": 182.486,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/df/mwbv_E_202209_02.vtt",
+                "modifiedDatetime": "2022-09-19T04:23:40.000Z",
+                "checksum": "899e7038375aa8c98408c380f08df9aa"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/e5/mwbv_E_202209_02_r720P.mp4",
+            "checksum": "d97a648b042c65612714e2551e9c3fbc",
+            "filesize": 13579389,
+            "modifiedDatetime": "2022-09-19T04:23:44.000Z",
+            "bitRate": 581.3540576400381,
+            "duration": 182.486,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/df/mwbv_E_202209_02.vtt",
+                "modifiedDatetime": "2022-09-19T04:23:40.000Z",
+                "checksum": "899e7038375aa8c98408c380f08df9aa"
+            }
+        }
+    ],
+    "printReferences": [
+        "mwbv.202209-2.v",
+        "mwbv.202209-2"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/df/mwbv_E_202209_02.vtt",
+    "Name": "pub-mwbv_E_202209_2_VIDEO",
+    "Title": "Return Visit: The Bible—Job 26:7",
+    "UndatedReferenceTitle": "Return Visit: The Bible—Job 26:7",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODSampleConversations"
+}

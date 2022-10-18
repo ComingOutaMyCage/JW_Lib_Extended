@@ -1,0 +1,102 @@
+{
+    "guid": "5b5b5ecfc1963ea3306e07a3",
+    "languageAgnosticNaturalKey": "docid-502018464_1_VIDEO",
+    "naturalKey": "docid-502018464_E_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODBibleTranslations",
+    "description": "",
+    "firstPublished": "2018-10-15T21:48:44.824Z",
+    "duration": 291.499,
+    "durationFormattedHHMM": "4:51",
+    "durationFormattedMinSec": "4m 51s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/c9/502018464_E_cnt_1_r240P.mp4",
+            "checksum": "935d266d43fe7cb083260da30482bc92",
+            "filesize": 5539650,
+            "modifiedDatetime": "2022-02-09T20:50:52.000Z",
+            "bitRate": 148.46883051056778,
+            "duration": 291.499,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.622,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/26/502018464_E_cnt_1.vtt",
+                "modifiedDatetime": "2022-02-09T20:50:45.000Z",
+                "checksum": "ead3b836adc172edc3aa3fcf0f7cd4f7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/d4/502018464_E_cnt_1_r360P.mp4",
+            "checksum": "20abd0074e153eba798a681b23c3991b",
+            "filesize": 10768507,
+            "modifiedDatetime": "2022-02-09T20:50:58.000Z",
+            "bitRate": 288.6476689259896,
+            "duration": 291.459,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/26/502018464_E_cnt_1.vtt",
+                "modifiedDatetime": "2022-02-09T20:50:45.000Z",
+                "checksum": "ead3b836adc172edc3aa3fcf0f7cd4f7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/71/502018464_E_cnt_1_r480P.mp4",
+            "checksum": "899e41585490dc4a23fcb6a21def40cb",
+            "filesize": 18832676,
+            "modifiedDatetime": "2022-02-09T20:51:01.000Z",
+            "bitRate": 504.80610051499525,
+            "duration": 291.459,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/26/502018464_E_cnt_1.vtt",
+                "modifiedDatetime": "2022-02-09T20:50:45.000Z",
+                "checksum": "ead3b836adc172edc3aa3fcf0f7cd4f7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/e2/502018464_E_cnt_1_r720P.mp4",
+            "checksum": "6cdba086cdbfcf24ed5ec26d064333d9",
+            "filesize": 30751006,
+            "modifiedDatetime": "2022-02-09T20:51:05.000Z",
+            "bitRate": 824.2745441897488,
+            "duration": 291.459,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/26/502018464_E_cnt_1.vtt",
+                "modifiedDatetime": "2022-02-09T20:50:45.000Z",
+                "checksum": "ead3b836adc172edc3aa3fcf0f7cd4f7"
+            }
+        }
+    ],
+    "printReferences": [
+        "502018464-1.v",
+        "502018464-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/content_assets/26/502018464_E_cnt_1.vtt",
+    "Name": "docid-502018464_E_1_VIDEO",
+    "Title": "An Ancient Manuscript Supports God’s Name",
+    "UndatedReferenceTitle": "An Ancient Manuscript Supports God’s Name",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "VODBibleTranslations"
+}

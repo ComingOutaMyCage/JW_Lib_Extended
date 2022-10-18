@@ -1,0 +1,102 @@
+{
+    "guid": "5c81847b64430a5b2d4d9f44",
+    "languageAgnosticNaturalKey": "pub-jwb_201904_4_VIDEO",
+    "naturalKey": "pub-jwb_E_201904_4_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODActivitiesConstruction",
+    "description": "",
+    "firstPublished": "2019-04-15T21:27:40.032Z",
+    "duration": 310.059,
+    "durationFormattedHHMM": "5:10",
+    "durationFormattedMinSec": "5m 10s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/b5/jwb_E_201904_04_r240P.mp4",
+            "checksum": "9c0be9d2e145c7fd08309f967a37f244",
+            "filesize": 10170457,
+            "modifiedDatetime": "2020-11-14T03:21:30.000Z",
+            "bitRate": 256.26314769930883,
+            "duration": 310.059,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.576,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/b9/jwb_E_201904_04.vtt",
+                "modifiedDatetime": "2019-04-15T19:30:47.000Z",
+                "checksum": "86505ba8f5b482694105cd73a5c32773"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/fb/jwb_E_201904_04_r360P.mp4",
+            "checksum": "8a50a6bd77b41300c7fa56bf17660584",
+            "filesize": 19539742,
+            "modifiedDatetime": "2019-04-15T18:50:42.000Z",
+            "bitRate": 492.4028345843319,
+            "duration": 310.019,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/b9/jwb_E_201904_04.vtt",
+                "modifiedDatetime": "2019-04-15T19:30:47.000Z",
+                "checksum": "86505ba8f5b482694105cd73a5c32773"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/06/jwb_E_201904_04_r480P.mp4",
+            "checksum": "29e9a04b6130de0d440aa083c964848c",
+            "filesize": 37354105,
+            "modifiedDatetime": "2019-04-15T18:41:20.000Z",
+            "bitRate": 941.3260003822346,
+            "duration": 310.019,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/b9/jwb_E_201904_04.vtt",
+                "modifiedDatetime": "2019-04-15T19:30:47.000Z",
+                "checksum": "86505ba8f5b482694105cd73a5c32773"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/a6/jwb_E_201904_04_r720P.mp4",
+            "checksum": "2865e442bc0eb55721e60280fcf8ff8e",
+            "filesize": 65166462,
+            "modifiedDatetime": "2019-04-15T19:05:28.000Z",
+            "bitRate": 1642.1992986720168,
+            "duration": 310.019,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/b9/jwb_E_201904_04.vtt",
+                "modifiedDatetime": "2019-04-15T19:30:47.000Z",
+                "checksum": "86505ba8f5b482694105cd73a5c32773"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201904-4.v",
+        "jwb.201904-4"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/b9/jwb_E_201904_04.vtt",
+    "Name": "pub-jwb_E_201904_4_VIDEO",
+    "Title": "Building in Unity Brings Blessings",
+    "UndatedReferenceTitle": "Building in Unity Brings Blessings",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODActivitiesConstruction"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "601c05ceaa8dbd024d1f18cf",
+    "languageAgnosticNaturalKey": "pub-lffv_1_VIDEO",
+    "naturalKey": "pub-lffv_E_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODMinistryTools",
+    "description": "",
+    "firstPublished": "2021-03-01T23:57:49.318Z",
+    "duration": 165.483,
+    "durationFormattedHHMM": "2:45",
+    "durationFormattedMinSec": "2m 45s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/01/lffv_E_001_r240P.mp4",
+            "checksum": "6c601159a7ef79a29493d7ae8d7ffdc4",
+            "filesize": 3899336,
+            "modifiedDatetime": "2021-03-09T13:38:04.000Z",
+            "bitRate": 184.0887734691781,
+            "duration": 165.483,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.622,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/72/lffv_E_001.vtt",
+                "modifiedDatetime": "2021-03-09T13:37:51.000Z",
+                "checksum": "4faf7a2237bcd3d3844e3e5add9d262b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/34/lffv_E_001_r360P.mp4",
+            "checksum": "52dfdd6f047aaf8c99f4dd40325a48f6",
+            "filesize": 6670874,
+            "modifiedDatetime": "2021-03-09T13:37:53.000Z",
+            "bitRate": 314.9814643293162,
+            "duration": 165.458,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/72/lffv_E_001.vtt",
+                "modifiedDatetime": "2021-03-09T13:37:51.000Z",
+                "checksum": "4faf7a2237bcd3d3844e3e5add9d262b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/e2/lffv_E_001_r480P.mp4",
+            "checksum": "ba5d0b506cb2dc54c2f8e0fef0cd877d",
+            "filesize": 11355138,
+            "modifiedDatetime": "2021-03-09T13:37:56.000Z",
+            "bitRate": 536.1603284519334,
+            "duration": 165.458,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/72/lffv_E_001.vtt",
+                "modifiedDatetime": "2021-03-09T13:37:51.000Z",
+                "checksum": "4faf7a2237bcd3d3844e3e5add9d262b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/38/lffv_E_001_r720P.mp4",
+            "checksum": "94dea9aebb7b7aaa080466dea6c65510",
+            "filesize": 17545559,
+            "modifiedDatetime": "2021-03-09T13:38:06.000Z",
+            "bitRate": 828.4560413367743,
+            "duration": 165.458,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/72/lffv_E_001.vtt",
+                "modifiedDatetime": "2021-03-09T13:37:51.000Z",
+                "checksum": "4faf7a2237bcd3d3844e3e5add9d262b"
+            }
+        }
+    ],
+    "printReferences": [
+        "lffv-1.v",
+        "lffv-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/72/lffv_E_001.vtt",
+    "Name": "pub-lffv_E_1_VIDEO",
+    "Title": "Welcome to Your Bible Study",
+    "UndatedReferenceTitle": "Welcome to Your Bible Study",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODMinistryTools"
+}

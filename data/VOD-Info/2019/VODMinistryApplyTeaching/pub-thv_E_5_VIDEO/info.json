@@ -1,0 +1,102 @@
+{
+    "guid": "5c94ebd3db0b288e409dd9dd",
+    "languageAgnosticNaturalKey": "pub-thv_5_VIDEO",
+    "naturalKey": "pub-thv_E_5_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODMinistryApplyTeaching",
+    "description": "",
+    "firstPublished": "2019-04-15T21:16:11.387Z",
+    "duration": 270.635,
+    "durationFormattedHHMM": "4:30",
+    "durationFormattedMinSec": "4m 30s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/a8/thv_E_05_r240P.mp4",
+            "checksum": "59c0f27cb6dc3b35f9c60ac4c3ab9df2",
+            "filesize": 4169202,
+            "modifiedDatetime": "2020-12-13T10:42:23.000Z",
+            "bitRate": 120.35357815877474,
+            "duration": 270.635,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.529,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/11/thv_E_05.vtt",
+                "modifiedDatetime": "2019-04-15T19:06:03.000Z",
+                "checksum": "a9e7632b4a5031ee180ee02f97b4e60c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/28/thv_E_05_r360P.mp4",
+            "checksum": "8aee80544d3e9bdbd03543cc5992a145",
+            "filesize": 8288006,
+            "modifiedDatetime": "2019-04-15T19:19:54.000Z",
+            "bitRate": 239.27882661074258,
+            "duration": 270.605,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/11/thv_E_05.vtt",
+                "modifiedDatetime": "2019-04-15T19:06:03.000Z",
+                "checksum": "a9e7632b4a5031ee180ee02f97b4e60c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/af/thv_E_05_r480P.mp4",
+            "checksum": "c4b55aad830d67b0fa35d6697d3a35e7",
+            "filesize": 15287753,
+            "modifiedDatetime": "2019-04-15T19:13:43.000Z",
+            "bitRate": 441.3649796289795,
+            "duration": 270.605,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/11/thv_E_05.vtt",
+                "modifiedDatetime": "2019-04-15T19:06:03.000Z",
+                "checksum": "a9e7632b4a5031ee180ee02f97b4e60c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/90/thv_E_05_r720P.mp4",
+            "checksum": "4d5ab0d55f5bdb6c873c452e69c840a9",
+            "filesize": 25184639,
+            "modifiedDatetime": "2019-04-15T18:58:07.000Z",
+            "bitRate": 727.0929664547957,
+            "duration": 270.605,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/11/thv_E_05.vtt",
+                "modifiedDatetime": "2019-04-15T19:06:03.000Z",
+                "checksum": "a9e7632b4a5031ee180ee02f97b4e60c"
+            }
+        }
+    ],
+    "printReferences": [
+        "thv-5.v",
+        "thv-5"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/11/thv_E_05.vtt",
+    "Name": "pub-thv_E_5_VIDEO",
+    "Title": "Study 5—Accurate Reading",
+    "UndatedReferenceTitle": "Study 5—Accurate Reading",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODMinistryApplyTeaching"
+}

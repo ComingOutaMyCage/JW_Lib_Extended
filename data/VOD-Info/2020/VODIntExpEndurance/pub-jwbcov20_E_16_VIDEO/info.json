@@ -1,0 +1,102 @@
+{
+    "guid": "5f52abab20de59c21cd87e4b",
+    "languageAgnosticNaturalKey": "pub-jwbcov20_16_VIDEO",
+    "naturalKey": "pub-jwbcov20_E_16_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpEndurance",
+    "description": "",
+    "firstPublished": "2020-09-28T13:11:38.916Z",
+    "duration": 196.438,
+    "durationFormattedHHMM": "3:16",
+    "durationFormattedMinSec": "3m 16s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/ea/jwbcov20_E_16_r240P.mp4",
+            "checksum": "1b07f7b11eabbd87dc6d5d446488b54f",
+            "filesize": 5328229,
+            "modifiedDatetime": "2020-12-17T03:14:07.000Z",
+            "bitRate": 211.908027278327,
+            "duration": 196.438,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.786,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/c5/jwbcov20_E_16.vtt",
+                "modifiedDatetime": "2020-09-28T06:34:43.000Z",
+                "checksum": "ed0d1382e5d2fd4a661ac1a1d6b4e709"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/c2/jwbcov20_E_16_r360P.mp4",
+            "checksum": "5895e305debb799c2398192cda3d1ec6",
+            "filesize": 9531013,
+            "modifiedDatetime": "2020-09-28T06:34:50.000Z",
+            "bitRate": 379.11794478020016,
+            "duration": 196.406,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/c5/jwbcov20_E_16.vtt",
+                "modifiedDatetime": "2020-09-28T06:34:43.000Z",
+                "checksum": "ed0d1382e5d2fd4a661ac1a1d6b4e709"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/f4/jwbcov20_E_16_r480P.mp4",
+            "checksum": "06ab614e08a3bd758b0e40d3216af573",
+            "filesize": 17111949,
+            "modifiedDatetime": "2020-09-28T06:34:52.000Z",
+            "bitRate": 680.667095518976,
+            "duration": 196.406,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/c5/jwbcov20_E_16.vtt",
+                "modifiedDatetime": "2020-09-28T06:34:43.000Z",
+                "checksum": "ed0d1382e5d2fd4a661ac1a1d6b4e709"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/22/jwbcov20_E_16_r720P.mp4",
+            "checksum": "df5126bb7cc828ce7184cedfcaf2b729",
+            "filesize": 27856089,
+            "modifiedDatetime": "2020-09-28T06:34:55.000Z",
+            "bitRate": 1108.039954545686,
+            "duration": 196.406,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/c5/jwbcov20_E_16.vtt",
+                "modifiedDatetime": "2020-09-28T06:34:43.000Z",
+                "checksum": "ed0d1382e5d2fd4a661ac1a1d6b4e709"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwbcov20-16.v",
+        "jwbcov20-16"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/c5/jwbcov20_E_16.vtt",
+    "Name": "pub-jwbcov20_E_16_VIDEO",
+    "Title": "We Can Rejoice Despite . . . Distress",
+    "UndatedReferenceTitle": "We Can Rejoice Despite . . . Distress",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODIntExpEndurance"
+}

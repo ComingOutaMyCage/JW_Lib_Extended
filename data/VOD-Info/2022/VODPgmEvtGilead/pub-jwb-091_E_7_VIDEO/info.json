@@ -1,0 +1,102 @@
+{
+    "guid": "6274131fb685ba3441569a29",
+    "languageAgnosticNaturalKey": "pub-jwb-091_7_VIDEO",
+    "naturalKey": "pub-jwb-091_E_7_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtGilead",
+    "description": "",
+    "firstPublished": "2022-06-07T13:50:33.912Z",
+    "duration": 753.686,
+    "durationFormattedHHMM": "12:33",
+    "durationFormattedMinSec": "12m 33s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/95/jwb-091_E_07_r240P.mp4",
+            "checksum": "216c9db577258e8fcde37ea54d9c8601",
+            "filesize": 13874167,
+            "modifiedDatetime": "2022-06-07T05:47:46.000Z",
+            "bitRate": 143.81576636357846,
+            "duration": 753.686,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/8a/jwb-091_E_07.vtt",
+                "modifiedDatetime": "2022-06-07T05:47:34.000Z",
+                "checksum": "36c87fc172db05da694f5a3381e8ef7f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/69/jwb-091_E_07_r360P.mp4",
+            "checksum": "a7b051cfd35ef440724f1466685a6603",
+            "filesize": 26736966,
+            "modifiedDatetime": "2022-06-07T05:47:40.000Z",
+            "bitRate": 277.1560627481212,
+            "duration": 753.664,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/8a/jwb-091_E_07.vtt",
+                "modifiedDatetime": "2022-06-07T05:47:34.000Z",
+                "checksum": "36c87fc172db05da694f5a3381e8ef7f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/00/jwb-091_E_07_r480P.mp4",
+            "checksum": "412c9e40123b9717718edbe5de853131",
+            "filesize": 49705595,
+            "modifiedDatetime": "2022-06-07T05:47:38.000Z",
+            "bitRate": 515.2494492738143,
+            "duration": 753.664,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/8a/jwb-091_E_07.vtt",
+                "modifiedDatetime": "2022-06-07T05:47:34.000Z",
+                "checksum": "36c87fc172db05da694f5a3381e8ef7f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/11/jwb-091_E_07_r720P.mp4",
+            "checksum": "3c77128fddb9eb1cfa1a50ee0b2a4d03",
+            "filesize": 88854792,
+            "modifiedDatetime": "2022-06-07T05:47:35.000Z",
+            "bitRate": 921.0710110871688,
+            "duration": 753.664,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/8a/jwb-091_E_07.vtt",
+                "modifiedDatetime": "2022-06-07T05:47:34.000Z",
+                "checksum": "36c87fc172db05da694f5a3381e8ef7f"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-091-7.v",
+        "jwb-091-7"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/8a/jwb-091_E_07.vtt",
+    "Name": "pub-jwb-091_E_7_VIDEO",
+    "Title": "Gerrit Lösch: Cultivate Love That Never Fails",
+    "UndatedReferenceTitle": "Gerrit Lösch: Cultivate Love That Never Fails",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODPgmEvtGilead"
+}

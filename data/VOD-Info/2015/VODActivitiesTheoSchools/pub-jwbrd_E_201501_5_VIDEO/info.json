@@ -1,0 +1,102 @@
+{
+    "guid": "5537c6580b788d3cfee903ef",
+    "languageAgnosticNaturalKey": "pub-jwbrd_201501_5_VIDEO",
+    "naturalKey": "pub-jwbrd_E_201501_5_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODActivitiesTheoSchools",
+    "description": "",
+    "firstPublished": "2015-01-13T02:39:40.000Z",
+    "duration": 372.886,
+    "durationFormattedHHMM": "6:12",
+    "durationFormattedMinSec": "6m 12s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/2b/jwbrd_E_201501_05_r240P.mp4",
+            "checksum": "4efe9acc27fa793c58f482fe04427730",
+            "filesize": 11529594,
+            "modifiedDatetime": "2020-11-06T06:05:14.000Z",
+            "bitRate": 241.56163847663896,
+            "duration": 372.886,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.791,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/fe/jwbrd_E_201501_05.vtt",
+                "modifiedDatetime": "2020-11-06T06:05:10.000Z",
+                "checksum": "31581bfeafb8beb580e53b7b1f0a161b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/0f/jwbrd_E_201501_05_r360P.mp4",
+            "checksum": "0e029e777df0aa6ed1bba58d81e9f3c0",
+            "filesize": 20397448,
+            "modifiedDatetime": "2020-11-06T06:05:18.000Z",
+            "bitRate": 427.3983905012485,
+            "duration": 372.849,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/fe/jwbrd_E_201501_05.vtt",
+                "modifiedDatetime": "2020-11-06T06:05:10.000Z",
+                "checksum": "31581bfeafb8beb580e53b7b1f0a161b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/a4/jwbrd_E_201501_05_r480P.mp4",
+            "checksum": "1d698d58b2115ef52d0e5c320a49688a",
+            "filesize": 38702038,
+            "modifiedDatetime": "2020-11-06T06:05:22.000Z",
+            "bitRate": 810.9440333083903,
+            "duration": 372.849,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/fe/jwbrd_E_201501_05.vtt",
+                "modifiedDatetime": "2020-11-06T06:05:10.000Z",
+                "checksum": "31581bfeafb8beb580e53b7b1f0a161b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/c0/jwbrd_E_201501_05_r720P.mp4",
+            "checksum": "c5bde392a4f5cb4582a33145501ff0a9",
+            "filesize": 69291984,
+            "modifiedDatetime": "2020-11-06T06:05:27.000Z",
+            "bitRate": 1451.9111624276852,
+            "duration": 372.849,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/fe/jwbrd_E_201501_05.vtt",
+                "modifiedDatetime": "2020-11-06T06:05:10.000Z",
+                "checksum": "31581bfeafb8beb580e53b7b1f0a161b"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwbrd.201501-5.v",
+        "jwbrd.201501-5"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/fe/jwbrd_E_201501_05.vtt",
+    "Name": "pub-jwbrd_E_201501_5_VIDEO",
+    "Title": "SKE First Graduation",
+    "UndatedReferenceTitle": "SKE First Graduation",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2015,
+    "Symbol": "VODActivitiesTheoSchools"
+}

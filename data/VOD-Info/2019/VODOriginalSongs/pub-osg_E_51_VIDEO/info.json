@@ -1,0 +1,102 @@
+{
+    "guid": "5c783ca764430a5b2d4d8e0d",
+    "languageAgnosticNaturalKey": "pub-osg_51_VIDEO",
+    "naturalKey": "pub-osg_E_51_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODOriginalSongs",
+    "description": "",
+    "firstPublished": "2019-04-15T21:16:16.695Z",
+    "duration": 264.96,
+    "durationFormattedHHMM": "4:24",
+    "durationFormattedMinSec": "4m 24s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/83/osg_E_051_r240P.mp4",
+            "checksum": "8740ad0c283210d559e5c10a41efc7e2",
+            "filesize": 13595969,
+            "modifiedDatetime": "2020-12-11T05:31:27.000Z",
+            "bitRate": 400.8850687367905,
+            "duration": 264.96,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.904,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/ee/osg_E_051.vtt",
+                "modifiedDatetime": "2019-04-15T19:39:36.000Z",
+                "checksum": "0d7b1c4e6f014da36d2ad00039220a43"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/2f/osg_E_051_r360P.mp4",
+            "checksum": "d907dec367fd5d88843b4fab0b1ca3ea",
+            "filesize": 25029434,
+            "modifiedDatetime": "2019-04-15T19:23:44.000Z",
+            "bitRate": 738.0826591062646,
+            "duration": 264.933,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/ee/osg_E_051.vtt",
+                "modifiedDatetime": "2019-04-15T19:39:36.000Z",
+                "checksum": "0d7b1c4e6f014da36d2ad00039220a43"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/29/osg_E_051_r480P.mp4",
+            "checksum": "6c97cbf9485b2ca6e42f749d590e4d10",
+            "filesize": 48517243,
+            "modifiedDatetime": "2019-04-15T19:20:32.000Z",
+            "bitRate": 1430.7049742293334,
+            "duration": 264.933,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/ee/osg_E_051.vtt",
+                "modifiedDatetime": "2019-04-15T19:39:36.000Z",
+                "checksum": "0d7b1c4e6f014da36d2ad00039220a43"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/61/osg_E_051_r720P.mp4",
+            "checksum": "354c216d0bd230141313709031645859",
+            "filesize": 82183128,
+            "modifiedDatetime": "2019-04-15T18:34:07.000Z",
+            "bitRate": 2423.4643758988122,
+            "duration": 264.933,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/ee/osg_E_051.vtt",
+                "modifiedDatetime": "2019-04-15T19:39:36.000Z",
+                "checksum": "0d7b1c4e6f014da36d2ad00039220a43"
+            }
+        }
+    ],
+    "printReferences": [
+        "osg-51.v",
+        "osg-51"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/ee/osg_E_051.vtt",
+    "Name": "pub-osg_E_51_VIDEO",
+    "Title": "All I Can Give",
+    "UndatedReferenceTitle": "All I Can Give",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODOriginalSongs"
+}

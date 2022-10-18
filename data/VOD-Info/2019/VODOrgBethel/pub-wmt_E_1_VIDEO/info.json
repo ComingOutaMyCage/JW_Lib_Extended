@@ -1,0 +1,102 @@
+{
+    "guid": "5d0256ce48fd57354cf33612",
+    "languageAgnosticNaturalKey": "pub-wmt_1_VIDEO",
+    "naturalKey": "pub-wmt_E_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODOrgBethel",
+    "description": "",
+    "firstPublished": "2019-07-15T18:48:55.507Z",
+    "duration": 600.683,
+    "durationFormattedHHMM": "10:00",
+    "durationFormattedMinSec": "10m 0s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/31/wmt_E_01_r240P.mp4",
+            "checksum": "280e43993e5c41ca8ff293a282b8a51c",
+            "filesize": 15113097,
+            "modifiedDatetime": "2020-12-04T06:30:55.000Z",
+            "bitRate": 196.56136483386413,
+            "duration": 600.683,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.928,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/8c/wmt_E_01.vtt",
+                "modifiedDatetime": "2019-07-15T18:12:15.000Z",
+                "checksum": "c2c286054e3a7b234426b0a762592c23"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/d3/wmt_E_01_r360P.mp4",
+            "checksum": "440043b1dc695740fa5b9407f324087f",
+            "filesize": 27325681,
+            "modifiedDatetime": "2019-07-15T18:11:55.000Z",
+            "bitRate": 355.42224384950794,
+            "duration": 600.643,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/8c/wmt_E_01.vtt",
+                "modifiedDatetime": "2019-07-15T18:12:15.000Z",
+                "checksum": "c2c286054e3a7b234426b0a762592c23"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/64/wmt_E_01_r480P.mp4",
+            "checksum": "56fc4141b53b52b9ede1d338540d4fe8",
+            "filesize": 48821207,
+            "modifiedDatetime": "2019-07-15T18:12:00.000Z",
+            "bitRate": 635.0122779879229,
+            "duration": 600.643,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/8c/wmt_E_01.vtt",
+                "modifiedDatetime": "2019-07-15T18:12:15.000Z",
+                "checksum": "c2c286054e3a7b234426b0a762592c23"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/5e/wmt_E_01_r720P.mp4",
+            "checksum": "4fb84174bfe07742304180d18c39d91e",
+            "filesize": 77406122,
+            "modifiedDatetime": "2019-07-15T18:12:05.000Z",
+            "bitRate": 1006.8132453470697,
+            "duration": 600.643,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/8c/wmt_E_01.vtt",
+                "modifiedDatetime": "2019-07-15T18:12:15.000Z",
+                "checksum": "c2c286054e3a7b234426b0a762592c23"
+            }
+        }
+    ],
+    "printReferences": [
+        "wmt-1.v",
+        "wmt-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/8c/wmt_E_01.vtt",
+    "Name": "pub-wmt_E_1_VIDEO",
+    "Title": "Warwick Museum Tours: “World Headquarters—Faith in Action”",
+    "UndatedReferenceTitle": "Warwick Museum Tours: “World Headquarters—Faith in Action”",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODOrgBethel"
+}

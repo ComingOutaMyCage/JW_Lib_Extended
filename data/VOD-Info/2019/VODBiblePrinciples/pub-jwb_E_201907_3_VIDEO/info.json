@@ -1,0 +1,102 @@
+{
+    "guid": "5cdd8a3048fd57354cf307e0",
+    "languageAgnosticNaturalKey": "pub-jwb_201907_3_VIDEO",
+    "naturalKey": "pub-jwb_E_201907_3_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODBiblePrinciples",
+    "description": "",
+    "firstPublished": "2019-07-15T18:51:09.308Z",
+    "duration": 306.304,
+    "durationFormattedHHMM": "5:06",
+    "durationFormattedMinSec": "5m 6s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/17/jwb_E_201907_03_r240P.mp4",
+            "checksum": "a4cf80ccc6b69dde04792071ce69726b",
+            "filesize": 8824261,
+            "modifiedDatetime": "2020-11-04T21:06:53.000Z",
+            "bitRate": 225.06901334132107,
+            "duration": 306.304,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.715,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/6a/jwb_E_201907_03.vtt",
+                "modifiedDatetime": "2019-07-15T12:45:18.000Z",
+                "checksum": "b093d4c5e7331dc8e41a2a42fe7288f1"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/f4/jwb_E_201907_03_r360P.mp4",
+            "checksum": "89893f024efdda0615fa0d362cee5c1c",
+            "filesize": 16086896,
+            "modifiedDatetime": "2019-07-15T12:45:28.000Z",
+            "bitRate": 410.3585608588612,
+            "duration": 306.266,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/6a/jwb_E_201907_03.vtt",
+                "modifiedDatetime": "2019-07-15T12:45:18.000Z",
+                "checksum": "b093d4c5e7331dc8e41a2a42fe7288f1"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/fe/jwb_E_201907_03_r480P.mp4",
+            "checksum": "d2a0952c61fcc71fae5debff211ba1b1",
+            "filesize": 29488785,
+            "modifiedDatetime": "2019-07-15T12:45:33.000Z",
+            "bitRate": 752.2256235184446,
+            "duration": 306.266,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/6a/jwb_E_201907_03.vtt",
+                "modifiedDatetime": "2019-07-15T12:45:18.000Z",
+                "checksum": "b093d4c5e7331dc8e41a2a42fe7288f1"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/50/jwb_E_201907_03_r720P.mp4",
+            "checksum": "0e9c423e5572f6c4bbfd11b3605c95d6",
+            "filesize": 49864488,
+            "modifiedDatetime": "2019-07-15T12:45:38.000Z",
+            "bitRate": 1271.9868104850032,
+            "duration": 306.266,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/6a/jwb_E_201907_03.vtt",
+                "modifiedDatetime": "2019-07-15T12:45:18.000Z",
+                "checksum": "b093d4c5e7331dc8e41a2a42fe7288f1"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201907-3.v",
+        "jwb.201907-3"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/6a/jwb_E_201907_03.vtt",
+    "Name": "pub-jwb_E_201907_3_VIDEO",
+    "Title": "Flee From Immorality",
+    "UndatedReferenceTitle": "Flee From Immorality",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODBiblePrinciples"
+}

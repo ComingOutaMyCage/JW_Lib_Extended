@@ -1,0 +1,102 @@
+{
+    "guid": "6109f1b523708c1b983a087c",
+    "languageAgnosticNaturalKey": "pub-jwbcov21_22_VIDEO",
+    "naturalKey": "pub-jwbcov21_E_22_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpEndurance",
+    "description": "",
+    "firstPublished": "2021-09-13T16:02:50.635Z",
+    "duration": 252.651,
+    "durationFormattedHHMM": "4:12",
+    "durationFormattedMinSec": "4m 12s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/a0/jwbcov21_E_22_r240P.mp4",
+            "checksum": "2701adbbbc4e842c1bde745409e1b7ab",
+            "filesize": 5546772,
+            "modifiedDatetime": "2021-09-11T04:19:37.000Z",
+            "bitRate": 171.51784972155264,
+            "duration": 252.651,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.529,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/74/jwbcov21_E_22.vtt",
+                "modifiedDatetime": "2021-09-11T04:19:43.000Z",
+                "checksum": "b306becb2f656d39a0349cabc6b0fef8"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/a0/jwbcov21_E_22_r360P.mp4",
+            "checksum": "53266753dae70cc5e2d65b533c8bfbf5",
+            "filesize": 10562036,
+            "modifiedDatetime": "2021-09-11T04:19:35.000Z",
+            "bitRate": 326.62879657521506,
+            "duration": 252.629,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/74/jwbcov21_E_22.vtt",
+                "modifiedDatetime": "2021-09-11T04:19:43.000Z",
+                "checksum": "b306becb2f656d39a0349cabc6b0fef8"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/79/jwbcov21_E_22_r480P.mp4",
+            "checksum": "034e14bcb9d92f4f5388bdc3384e9066",
+            "filesize": 19194241,
+            "modifiedDatetime": "2021-09-11T04:19:32.000Z",
+            "bitRate": 593.577965366209,
+            "duration": 252.629,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/74/jwbcov21_E_22.vtt",
+                "modifiedDatetime": "2021-09-11T04:19:43.000Z",
+                "checksum": "b306becb2f656d39a0349cabc6b0fef8"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/cf/jwbcov21_E_22_r720P.mp4",
+            "checksum": "9a948dc1d9005b51918a73e98c87cba2",
+            "filesize": 32044473,
+            "modifiedDatetime": "2021-09-11T04:19:31.000Z",
+            "bitRate": 990.9687538346745,
+            "duration": 252.629,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/74/jwbcov21_E_22.vtt",
+                "modifiedDatetime": "2021-09-11T04:19:43.000Z",
+                "checksum": "b306becb2f656d39a0349cabc6b0fef8"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwbcov21-22.v",
+        "jwbcov21-22"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/74/jwbcov21_E_22.vtt",
+    "Name": "pub-jwbcov21_E_22_VIDEO",
+    "Title": "“Put Up a Hard Fight for the Faith”!",
+    "UndatedReferenceTitle": "“Put Up a Hard Fight for the Faith”!",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODIntExpEndurance"
+}

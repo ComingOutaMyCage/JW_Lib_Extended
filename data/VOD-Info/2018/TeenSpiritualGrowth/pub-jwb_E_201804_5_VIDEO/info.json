@@ -1,0 +1,178 @@
+{
+    "guid": "5a996c248e355ea6ca66dc8c",
+    "languageAgnosticNaturalKey": "pub-jwb_201804_5_VIDEO",
+    "naturalKey": "pub-jwb_E_201804_5_VIDEO",
+    "type": "video",
+    "primaryCategory": "TeenSpiritualGrowth",
+    "description": "",
+    "firstPublished": "2018-04-16T14:55:39.172Z",
+    "duration": 333.485,
+    "durationFormattedHHMM": "5:33",
+    "durationFormattedMinSec": "5m 33s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/9d/jwb_E_201804_05_r240P.mp4",
+            "checksum": "60e7df94cd6ed8c6d92e2591a0767b94",
+            "filesize": 14838184,
+            "modifiedDatetime": "2020-11-12T21:18:59.000Z",
+            "bitRate": 347.611774142765,
+            "duration": 333.485,
+            "frameHeight": 180,
+            "frameWidth": 320,
+            "label": "240p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/d8/jwb_E_201804_05_r240P.vtt",
+                "modifiedDatetime": "2019-02-24T16:36:22.000Z",
+                "checksum": "f596a7a53b9f989da63c05658a5122a7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/fb/jwb_s-Sub_E_201804_05_r240P.mp4",
+            "checksum": "00cf7101027ccead187b8c95a928d186",
+            "filesize": 14688860,
+            "modifiedDatetime": "2020-11-26T21:40:41.000Z",
+            "bitRate": 344.1135845690211,
+            "duration": 333.485,
+            "frameHeight": 180,
+            "frameWidth": 320,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": true,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/d8/jwb_E_201804_05_r240P.vtt",
+                "modifiedDatetime": "2019-02-24T16:36:22.000Z",
+                "checksum": "f596a7a53b9f989da63c05658a5122a7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/cf/jwb_E_201804_05_r360P.mp4",
+            "checksum": "17ce6b485faf886002b8cade40a51213",
+            "filesize": 35119670,
+            "modifiedDatetime": "2019-02-24T14:45:57.000Z",
+            "bitRate": 822.8087123578658,
+            "duration": 333.4583333333333,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/6f/jwb_E_201804_05_r360P.vtt",
+                "modifiedDatetime": "2019-02-24T14:45:57.000Z",
+                "checksum": "f596a7a53b9f989da63c05658a5122a7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/11/jwb_s-Sub_E_201804_05_r360P.mp4",
+            "checksum": "44720178420b89d8fb6d19fa48c0db27",
+            "filesize": 35161147,
+            "modifiedDatetime": "2019-02-24T16:01:31.000Z",
+            "bitRate": 823.7809798081843,
+            "duration": 333.458125,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 44.056,
+            "mimetype": "video/mp4",
+            "subtitled": true,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/6f/jwb_E_201804_05_r360P.vtt",
+                "modifiedDatetime": "2019-02-24T14:45:57.000Z",
+                "checksum": "f596a7a53b9f989da63c05658a5122a7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/1e/jwb_E_201804_05_r480P.mp4",
+            "checksum": "5236df16ba78b30bb4aa69d8e5bb789d",
+            "filesize": 47469442,
+            "modifiedDatetime": "2019-02-23T23:40:45.000Z",
+            "bitRate": 1112.1479913782332,
+            "duration": 333.4583333333333,
+            "frameHeight": 480,
+            "frameWidth": 854,
+            "label": "480p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/b6/jwb_E_201804_05_r480P.vtt",
+                "modifiedDatetime": "2019-02-23T23:40:46.000Z",
+                "checksum": "f596a7a53b9f989da63c05658a5122a7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/95/jwb_s-Sub_E_201804_05_r480P.mp4",
+            "checksum": "2ab98bb4bbcf1c023dd196f59d37c055",
+            "filesize": 47536268,
+            "modifiedDatetime": "2019-02-24T16:39:18.000Z",
+            "bitRate": 1113.7143344460417,
+            "duration": 333.458125,
+            "frameHeight": 480,
+            "frameWidth": 854,
+            "label": "480p",
+            "frameRate": 44.056,
+            "mimetype": "video/mp4",
+            "subtitled": true,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/b6/jwb_E_201804_05_r480P.vtt",
+                "modifiedDatetime": "2019-02-23T23:40:46.000Z",
+                "checksum": "f596a7a53b9f989da63c05658a5122a7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/d2/jwb_E_201804_05_r720P.mp4",
+            "checksum": "32f76cadf00ea6a095f4e8bc3d9e0eeb",
+            "filesize": 68457603,
+            "modifiedDatetime": "2019-02-24T16:17:40.000Z",
+            "bitRate": 1603.8736177058604,
+            "duration": 333.4583333333333,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/04/jwb_E_201804_05_r720P.vtt",
+                "modifiedDatetime": "2019-02-24T16:17:40.000Z",
+                "checksum": "f596a7a53b9f989da63c05658a5122a7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/1c/jwb_s-Sub_E_201804_05_r720P.mp4",
+            "checksum": "0aab39b9980841d22b694a8b4d410837",
+            "filesize": 68418499,
+            "modifiedDatetime": "2019-02-23T20:21:34.000Z",
+            "bitRate": 1602.9584627380125,
+            "duration": 333.458125,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 44.056,
+            "mimetype": "video/mp4",
+            "subtitled": true,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/04/jwb_E_201804_05_r720P.vtt",
+                "modifiedDatetime": "2019-02-24T16:17:40.000Z",
+                "checksum": "f596a7a53b9f989da63c05658a5122a7"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201804-5.v",
+        "jwb.201804-5"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/d8/jwb_E_201804_05_r240P.vtt",
+    "Name": "pub-jwb_E_201804_5_VIDEO",
+    "Title": "Youths Learning to Love God’s Word",
+    "UndatedReferenceTitle": "Youths Learning to Love God’s Word",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "TeenSpiritualGrowth"
+}

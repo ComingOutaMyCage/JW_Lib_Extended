@@ -1,0 +1,102 @@
+{
+    "guid": "60e86f96b765b4a6fb38caf2",
+    "languageAgnosticNaturalKey": "pub-jwb-087_5_VIDEO",
+    "naturalKey": "pub-jwb-087_E_5_VIDEO",
+    "type": "video",
+    "primaryCategory": "Reports",
+    "description": "",
+    "firstPublished": "2022-03-21T13:45:59.855Z",
+    "duration": 304.256,
+    "durationFormattedHHMM": "5:04",
+    "durationFormattedMinSec": "5m 4s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/bf/jwb-087_E_05_r240P.mp4",
+            "checksum": "dee10ba650227bd1d7074db698dc3055",
+            "filesize": 10437258,
+            "modifiedDatetime": "2022-03-21T03:46:15.000Z",
+            "bitRate": 268.00154516262626,
+            "duration": 304.256,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.715,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/44/jwb-087_E_05.vtt",
+                "modifiedDatetime": "2022-03-21T03:46:06.000Z",
+                "checksum": "4bcfb6677b0c05454d98b415aa7c526f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/99/jwb-087_E_05_r360P.mp4",
+            "checksum": "07b3abfb815f9166c376820d717d574f",
+            "filesize": 19871471,
+            "modifiedDatetime": "2022-03-21T03:46:13.000Z",
+            "bitRate": 510.30453809224844,
+            "duration": 304.222,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/44/jwb-087_E_05.vtt",
+                "modifiedDatetime": "2022-03-21T03:46:06.000Z",
+                "checksum": "4bcfb6677b0c05454d98b415aa7c526f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/50/jwb-087_E_05_r480P.mp4",
+            "checksum": "114f1330ebb031b582dea23ddc0fe409",
+            "filesize": 38566091,
+            "modifiedDatetime": "2022-03-21T03:46:10.000Z",
+            "bitRate": 990.3872367465207,
+            "duration": 304.222,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/44/jwb-087_E_05.vtt",
+                "modifiedDatetime": "2022-03-21T03:46:06.000Z",
+                "checksum": "4bcfb6677b0c05454d98b415aa7c526f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/8c/jwb-087_E_05_r720P.mp4",
+            "checksum": "6dc380b06046baf003183121722ae428",
+            "filesize": 67564697,
+            "modifiedDatetime": "2022-03-21T03:46:07.000Z",
+            "bitRate": 1735.078972962179,
+            "duration": 304.222,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/44/jwb-087_E_05.vtt",
+                "modifiedDatetime": "2022-03-21T03:46:06.000Z",
+                "checksum": "4bcfb6677b0c05454d98b415aa7c526f"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-087-5.v",
+        "jwb-087-5"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/44/jwb-087_E_05.vtt",
+    "Name": "pub-jwb-087_E_5_VIDEO",
+    "Title": "From the Same Family, but Not the Same Tribe",
+    "UndatedReferenceTitle": "From the Same Family, but Not the Same Tribe",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "Reports"
+}

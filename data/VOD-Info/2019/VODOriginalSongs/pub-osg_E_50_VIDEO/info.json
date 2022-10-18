@@ -1,0 +1,102 @@
+{
+    "guid": "5d8bbcdc944f8ae32ea96ec8",
+    "languageAgnosticNaturalKey": "pub-osg_50_VIDEO",
+    "naturalKey": "pub-osg_E_50_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODOriginalSongs",
+    "description": "",
+    "firstPublished": "2019-10-29T18:07:03.715Z",
+    "duration": 263.872,
+    "durationFormattedHHMM": "4:23",
+    "durationFormattedMinSec": "4m 23s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/84/osg_E_050_r240P.mp4",
+            "checksum": "50a13563a6d558f887f3142b66fea8f1",
+            "filesize": 6709108,
+            "modifiedDatetime": "2020-12-11T05:31:25.000Z",
+            "bitRate": 198.6376207024618,
+            "duration": 263.872,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.669,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/44/osg_E_050.vtt",
+                "modifiedDatetime": "2019-09-26T20:25:54.000Z",
+                "checksum": "9d4adf305147b91bfb4e9394416a7837"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/d6/osg_E_050_r360P.mp4",
+            "checksum": "44906d3e215aa5dac67f3568f68a9501",
+            "filesize": 12164920,
+            "modifiedDatetime": "2019-09-26T20:26:14.000Z",
+            "bitRate": 360.2014701646402,
+            "duration": 263.848,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/44/osg_E_050.vtt",
+                "modifiedDatetime": "2019-09-26T20:25:54.000Z",
+                "checksum": "9d4adf305147b91bfb4e9394416a7837"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/08/osg_E_050_r480P.mp4",
+            "checksum": "a074966068b3c355efbc3648b1a82e8e",
+            "filesize": 21890162,
+            "modifiedDatetime": "2019-09-26T20:26:21.000Z",
+            "bitRate": 648.1644379529123,
+            "duration": 263.848,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/44/osg_E_050.vtt",
+                "modifiedDatetime": "2019-09-26T20:25:54.000Z",
+                "checksum": "9d4adf305147b91bfb4e9394416a7837"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/21/osg_E_050_r720P.mp4",
+            "checksum": "993bbc361e02ffe0969cdcea54a7c59d",
+            "filesize": 35410200,
+            "modifiedDatetime": "2019-09-26T20:26:32.000Z",
+            "bitRate": 1048.4907503562656,
+            "duration": 263.848,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/44/osg_E_050.vtt",
+                "modifiedDatetime": "2019-09-26T20:25:54.000Z",
+                "checksum": "9d4adf305147b91bfb4e9394416a7837"
+            }
+        }
+    ],
+    "printReferences": [
+        "osg-50.v",
+        "osg-50"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/44/osg_E_050.vtt",
+    "Name": "pub-osg_E_50_VIDEO",
+    "Title": "Give Me Courage",
+    "UndatedReferenceTitle": "Give Me Courage",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODOriginalSongs"
+}

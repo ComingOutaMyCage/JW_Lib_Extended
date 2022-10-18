@@ -1,0 +1,102 @@
+{
+    "guid": "6179a09ce4dbeaf5fabeca29",
+    "languageAgnosticNaturalKey": "pub-jwb-085_5_VIDEO",
+    "naturalKey": "pub-jwb-085_E_5_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtGilead",
+    "description": "",
+    "firstPublished": "2021-12-07T23:14:39.904Z",
+    "duration": 572.523,
+    "durationFormattedHHMM": "9:32",
+    "durationFormattedMinSec": "9m 32s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/52/jwb-085_E_05_r240P.mp4",
+            "checksum": "267b1b47934696684ba0b1b96da06532",
+            "filesize": 9153514,
+            "modifiedDatetime": "2021-12-07T15:37:32.000Z",
+            "bitRate": 124.90647209806417,
+            "duration": 572.523,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.211,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/2e/jwb-085_E_05.vtt",
+                "modifiedDatetime": "2021-12-07T15:37:06.000Z",
+                "checksum": "183d21555812cea5c8af045c759c9a45"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/53/jwb-085_E_05_r360P.mp4",
+            "checksum": "1d01eda66aed8aab976f68abcada8d0e",
+            "filesize": 18625056,
+            "modifiedDatetime": "2021-12-07T15:37:26.000Z",
+            "bitRate": 254.1708734947125,
+            "duration": 572.482,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/2e/jwb-085_E_05.vtt",
+                "modifiedDatetime": "2021-12-07T15:37:06.000Z",
+                "checksum": "183d21555812cea5c8af045c759c9a45"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/c0/jwb-085_E_05_r480P.mp4",
+            "checksum": "0c8ac0c43eb19954746101d3f771675f",
+            "filesize": 34654070,
+            "modifiedDatetime": "2021-12-07T15:37:22.000Z",
+            "bitRate": 472.91429577698517,
+            "duration": 572.482,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/2e/jwb-085_E_05.vtt",
+                "modifiedDatetime": "2021-12-07T15:37:06.000Z",
+                "checksum": "183d21555812cea5c8af045c759c9a45"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/00/jwb-085_E_05_r720P.mp4",
+            "checksum": "18c1cb5774153112b37d063769391eda",
+            "filesize": 61707729,
+            "modifiedDatetime": "2021-12-07T15:37:13.000Z",
+            "bitRate": 842.1079314502465,
+            "duration": 572.482,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/2e/jwb-085_E_05.vtt",
+                "modifiedDatetime": "2021-12-07T15:37:06.000Z",
+                "checksum": "183d21555812cea5c8af045c759c9a45"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-085-5.v",
+        "jwb-085-5"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/2e/jwb-085_E_05.vtt",
+    "Name": "pub-jwb-085_E_5_VIDEO",
+    "Title": "Mark Sanderson: What Will They Be Like?",
+    "UndatedReferenceTitle": "Mark Sanderson: What Will They Be Like?",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODPgmEvtGilead"
+}

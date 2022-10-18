@@ -1,0 +1,102 @@
+{
+    "guid": "5ccb473c48fd57354cf2f0ac",
+    "languageAgnosticNaturalKey": "pub-jwb_201905_10_VIDEO",
+    "naturalKey": "pub-jwb_E_201905_10_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpBlessings",
+    "description": "",
+    "firstPublished": "2019-05-20T20:49:33.988Z",
+    "duration": 291.691,
+    "durationFormattedHHMM": "4:51",
+    "durationFormattedMinSec": "4m 51s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/0a/jwb_E_201905_10_r240P.mp4",
+            "checksum": "f67a8e986801447b4545616d8f1e95ca",
+            "filesize": 11466845,
+            "modifiedDatetime": "2020-11-03T22:16:07.000Z",
+            "bitRate": 307.1220111779246,
+            "duration": 291.691,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/32/jwb_E_201905_10.vtt",
+                "modifiedDatetime": "2019-05-20T13:50:25.000Z",
+                "checksum": "82b7e3d5e2380acc0d57265a67b77c7e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/17/jwb_E_201905_10_r360P.mp4",
+            "checksum": "dcfcbebbf1a46c83969e6b4a75885b47",
+            "filesize": 21305181,
+            "modifiedDatetime": "2019-05-20T13:50:37.000Z",
+            "bitRate": 570.671882285681,
+            "duration": 291.668,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/32/jwb_E_201905_10.vtt",
+                "modifiedDatetime": "2019-05-20T13:50:25.000Z",
+                "checksum": "82b7e3d5e2380acc0d57265a67b77c7e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/78/jwb_E_201905_10_r480P.mp4",
+            "checksum": "210bd42617b3c90e09e8293ee37c3281",
+            "filesize": 40718835,
+            "modifiedDatetime": "2019-05-20T13:50:43.000Z",
+            "bitRate": 1090.6780944001398,
+            "duration": 291.668,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/32/jwb_E_201905_10.vtt",
+                "modifiedDatetime": "2019-05-20T13:50:25.000Z",
+                "checksum": "82b7e3d5e2380acc0d57265a67b77c7e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/5e/jwb_E_201905_10_r720P.mp4",
+            "checksum": "08000db56942fdfc498b34363394a0ac",
+            "filesize": 69280020,
+            "modifiedDatetime": "2019-05-20T13:50:52.000Z",
+            "bitRate": 1855.7063381995968,
+            "duration": 291.668,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/32/jwb_E_201905_10.vtt",
+                "modifiedDatetime": "2019-05-20T13:50:25.000Z",
+                "checksum": "82b7e3d5e2380acc0d57265a67b77c7e"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201905-10.v",
+        "jwb.201905-10"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/32/jwb_E_201905_10.vtt",
+    "Name": "pub-jwb_E_201905_10_VIDEO",
+    "Title": "The Life of a Rural Circuit Overseer",
+    "UndatedReferenceTitle": "The Life of a Rural Circuit Overseer",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODIntExpBlessings"
+}

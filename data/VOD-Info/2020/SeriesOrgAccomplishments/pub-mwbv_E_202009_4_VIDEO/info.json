@@ -1,0 +1,102 @@
+{
+    "guid": "5f1ed55e12b86d2c3bf7144e",
+    "languageAgnosticNaturalKey": "pub-mwbv_202009_4_VIDEO",
+    "naturalKey": "pub-mwbv_E_202009_4_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesOrgAccomplishments",
+    "description": "",
+    "firstPublished": "2020-09-21T17:28:20.512Z",
+    "duration": 335.83,
+    "durationFormattedHHMM": "5:35",
+    "durationFormattedMinSec": "5m 35s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/a1/mwbv_E_202009_04_r240P.mp4",
+            "checksum": "9c1c1604026372eb7f74d86721c4f0f8",
+            "filesize": 10663605,
+            "modifiedDatetime": "2020-11-14T22:23:02.000Z",
+            "bitRate": 248.07019641634162,
+            "duration": 335.83,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.438,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/52/mwbv_E_202009_04.vtt",
+                "modifiedDatetime": "2020-08-17T08:04:12.000Z",
+                "checksum": "13f53b5ee8fab50f71d4e418eaf0dcf5"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/6a/mwbv_E_202009_04_r360P.mp4",
+            "checksum": "37e3007f363edd5c1878fcbd1b4604c2",
+            "filesize": 19602849,
+            "modifiedDatetime": "2020-08-17T08:04:18.000Z",
+            "bitRate": 456.07366938906176,
+            "duration": 335.795,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/52/mwbv_E_202009_04.vtt",
+                "modifiedDatetime": "2020-08-17T08:04:12.000Z",
+                "checksum": "13f53b5ee8fab50f71d4e418eaf0dcf5"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/1b/mwbv_E_202009_04_r480P.mp4",
+            "checksum": "fe0384174ff19e4de8ab44dcff7735ed",
+            "filesize": 36378275,
+            "modifiedDatetime": "2020-08-17T08:04:20.000Z",
+            "bitRate": 846.3654117467502,
+            "duration": 335.795,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/52/mwbv_E_202009_04.vtt",
+                "modifiedDatetime": "2020-08-17T08:04:12.000Z",
+                "checksum": "13f53b5ee8fab50f71d4e418eaf0dcf5"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/eb/mwbv_E_202009_04_r720P.mp4",
+            "checksum": "d217816fa715d1e14dc5244205ee99fa",
+            "filesize": 60824380,
+            "modifiedDatetime": "2020-08-17T08:04:25.000Z",
+            "bitRate": 1415.1207395881415,
+            "duration": 335.795,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/52/mwbv_E_202009_04.vtt",
+                "modifiedDatetime": "2020-08-17T08:04:12.000Z",
+                "checksum": "13f53b5ee8fab50f71d4e418eaf0dcf5"
+            }
+        }
+    ],
+    "printReferences": [
+        "mwbv.202009-4.v",
+        "mwbv.202009-4"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/52/mwbv_E_202009_04.vtt",
+    "Name": "pub-mwbv_E_202009_4_VIDEO",
+    "Title": "Organizational Accomplishments—Making Spiritual Food More Accessible in Africa",
+    "UndatedReferenceTitle": "Organizational Accomplishments—Making Spiritual Food More Accessible in Africa",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "SeriesOrgAccomplishments"
+}

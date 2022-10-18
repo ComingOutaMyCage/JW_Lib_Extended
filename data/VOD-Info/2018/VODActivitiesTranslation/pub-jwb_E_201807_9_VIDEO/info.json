@@ -1,0 +1,102 @@
+{
+    "guid": "5b310376329d2b18632def51",
+    "languageAgnosticNaturalKey": "pub-jwb_201807_9_VIDEO",
+    "naturalKey": "pub-jwb_E_201807_9_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODActivitiesTranslation",
+    "description": "",
+    "firstPublished": "2018-07-17T00:29:34.789Z",
+    "duration": 307.755,
+    "durationFormattedHHMM": "5:07",
+    "durationFormattedMinSec": "5m 7s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/07/jwb_E_201807_09_r240P.mp4",
+            "checksum": "c47e779ac3198acbe166aca71bdb0cd7",
+            "filesize": 14275636,
+            "modifiedDatetime": "2020-11-03T22:15:20.000Z",
+            "bitRate": 362.393482640412,
+            "duration": 307.755,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.599,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/b2/jwb_E_201807_09_r240P.vtt",
+                "modifiedDatetime": "2018-07-16T23:42:25.000Z",
+                "checksum": "b2986f6a612edbedd62706e1ccb7478c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/aa/jwb_E_201807_09_r360P.mp4",
+            "checksum": "d9fc47f3eb3ad43d6ba50c9315389d1c",
+            "filesize": 26654570,
+            "modifiedDatetime": "2018-07-16T23:42:26.000Z",
+            "bitRate": 676.7020925271183,
+            "duration": 307.726,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/0a/jwb_E_201807_09_r360P.vtt",
+                "modifiedDatetime": "2018-07-16T23:42:29.000Z",
+                "checksum": "b2986f6a612edbedd62706e1ccb7478c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/28/jwb_E_201807_09_r480P.mp4",
+            "checksum": "de22809231e19c4f3841cbe356a58f0d",
+            "filesize": 51887518,
+            "modifiedDatetime": "2018-07-16T23:42:30.000Z",
+            "bitRate": 1317.3122660256201,
+            "duration": 307.726,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/81/jwb_E_201807_09_r480P.vtt",
+                "modifiedDatetime": "2018-07-16T23:42:33.000Z",
+                "checksum": "b2986f6a612edbedd62706e1ccb7478c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/59/jwb_E_201807_09_r720P.mp4",
+            "checksum": "ce718ce6f6439ba1a342746606ed2351",
+            "filesize": 91637124,
+            "modifiedDatetime": "2018-07-16T23:42:34.000Z",
+            "bitRate": 2326.4691031957,
+            "duration": 307.726,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/43/jwb_E_201807_09_r720P.vtt",
+                "modifiedDatetime": "2018-07-16T23:42:39.000Z",
+                "checksum": "b2986f6a612edbedd62706e1ccb7478c"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201807-9.v",
+        "jwb.201807-9"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/b2/jwb_E_201807_09_r240P.vtt",
+    "Name": "pub-jwb_E_201807_9_VIDEO",
+    "Title": "Translation in the Andes",
+    "UndatedReferenceTitle": "Translation in the Andes",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "VODActivitiesTranslation"
+}

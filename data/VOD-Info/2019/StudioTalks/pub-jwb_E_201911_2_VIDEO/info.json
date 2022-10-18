@@ -1,0 +1,102 @@
+{
+    "guid": "5da9cdea944f8ae32e919756",
+    "languageAgnosticNaturalKey": "pub-jwb_201911_2_VIDEO",
+    "naturalKey": "pub-jwb_E_201911_2_VIDEO",
+    "type": "video",
+    "primaryCategory": "StudioTalks",
+    "description": "",
+    "firstPublished": "2019-11-18T14:09:03.361Z",
+    "duration": 1058.475,
+    "durationFormattedHHMM": "17:38",
+    "durationFormattedMinSec": "17m 38s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/4b/jwb_E_201911_02_r240P.mp4",
+            "checksum": "79902c21b62902baa3404e49fe9198a7",
+            "filesize": 20914081,
+            "modifiedDatetime": "2020-11-06T23:27:29.000Z",
+            "bitRate": 154.36477745104986,
+            "duration": 1058.475,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.126,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ef/jwb_E_201911_02.vtt",
+                "modifiedDatetime": "2019-11-18T13:08:28.000Z",
+                "checksum": "036d367ae03eda3801a692e1c91b8b49"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/fa/jwb_E_201911_02_r360P.mp4",
+            "checksum": "a4509373c500d76dc0833226066a891a",
+            "filesize": 40413885,
+            "modifiedDatetime": "2019-11-18T13:08:10.000Z",
+            "bitRate": 298.30247002883505,
+            "duration": 1058.434,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ef/jwb_E_201911_02.vtt",
+                "modifiedDatetime": "2019-11-18T13:08:28.000Z",
+                "checksum": "036d367ae03eda3801a692e1c91b8b49"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/28/jwb_E_201911_02_r480P.mp4",
+            "checksum": "ed09494914356da7d52e7c7e23666045",
+            "filesize": 70034842,
+            "modifiedDatetime": "2019-11-18T13:08:15.000Z",
+            "bitRate": 516.9403128820503,
+            "duration": 1058.434,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ef/jwb_E_201911_02.vtt",
+                "modifiedDatetime": "2019-11-18T13:08:28.000Z",
+                "checksum": "036d367ae03eda3801a692e1c91b8b49"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/6d/jwb_E_201911_02_r720P.mp4",
+            "checksum": "8855d053a56e75e06fdb9d782922bea9",
+            "filesize": 111012656,
+            "modifiedDatetime": "2019-11-18T13:08:21.000Z",
+            "bitRate": 819.4052486976042,
+            "duration": 1058.434,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ef/jwb_E_201911_02.vtt",
+                "modifiedDatetime": "2019-11-18T13:08:28.000Z",
+                "checksum": "036d367ae03eda3801a692e1c91b8b49"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201911-2.v",
+        "jwb.201911-2"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/ef/jwb_E_201911_02.vtt",
+    "Name": "pub-jwb_E_201911_2_VIDEO",
+    "Title": "Gerrit Lösch: “I Am With You”",
+    "UndatedReferenceTitle": "Gerrit Lösch: “I Am With You”",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "StudioTalks"
+}

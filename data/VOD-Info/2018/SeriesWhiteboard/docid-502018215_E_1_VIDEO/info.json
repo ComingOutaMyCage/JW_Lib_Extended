@@ -1,0 +1,102 @@
+{
+    "guid": "5ab91db9598de921541f65be",
+    "languageAgnosticNaturalKey": "docid-502018215_1_VIDEO",
+    "naturalKey": "docid-502018215_E_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesWhiteboard",
+    "description": "",
+    "firstPublished": "2018-05-14T14:05:48.739Z",
+    "duration": 146.751,
+    "durationFormattedHHMM": "2:26",
+    "durationFormattedMinSec": "2m 26s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/7a/502018215_E_cnt_1_r240P.mp4",
+            "checksum": "953bfa7c83c32cbceede8b289b52986f",
+            "filesize": 6647206,
+            "modifiedDatetime": "2020-11-01T01:05:23.000Z",
+            "bitRate": 353.87354685828376,
+            "duration": 146.751,
+            "frameHeight": 180,
+            "frameWidth": 320,
+            "label": "240p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/26/502018215_E_cnt_1_r240P.vtt",
+                "modifiedDatetime": "2018-05-14T12:45:33.000Z",
+                "checksum": "00423d98053fc32aeae8f1cc425d476f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/be/502018215_E_cnt_1_r360P.mp4",
+            "checksum": "8971c10f826d9a8855d34c9f4f5df31d",
+            "filesize": 15225359,
+            "modifiedDatetime": "2018-05-14T12:45:34.000Z",
+            "bitRate": 810.7795548139918,
+            "duration": 146.70833333333,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/38/502018215_E_cnt_1_r360P.vtt",
+                "modifiedDatetime": "2018-05-14T12:45:36.000Z",
+                "checksum": "00423d98053fc32aeae8f1cc425d476f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/df/502018215_E_cnt_1_r480P.mp4",
+            "checksum": "f5c611d9beffa5fa4b136ca7f161b2f0",
+            "filesize": 20818694,
+            "modifiedDatetime": "2018-05-14T12:45:37.000Z",
+            "bitRate": 1108.6353663732148,
+            "duration": 146.70833333333,
+            "frameHeight": 480,
+            "frameWidth": 854,
+            "label": "480p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/81/502018215_E_cnt_1_r480P.vtt",
+                "modifiedDatetime": "2018-05-14T12:45:39.000Z",
+                "checksum": "00423d98053fc32aeae8f1cc425d476f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/6d/502018215_E_cnt_1_r720P.mp4",
+            "checksum": "3793b4f73c8236436742b25736d4cdd4",
+            "filesize": 29857991,
+            "modifiedDatetime": "2018-05-14T12:45:40.000Z",
+            "bitRate": 1589.9952605794172,
+            "duration": 146.70833333333,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/e2/502018215_E_cnt_1_r720P.vtt",
+                "modifiedDatetime": "2018-05-14T12:45:43.000Z",
+                "checksum": "00423d98053fc32aeae8f1cc425d476f"
+            }
+        }
+    ],
+    "printReferences": [
+        "502018215-1.v",
+        "502018215-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/content_assets/26/502018215_E_cnt_1_r240P.vtt",
+    "Name": "docid-502018215_E_1_VIDEO",
+    "Title": "What You Should Know About Sports",
+    "UndatedReferenceTitle": "What You Should Know About Sports",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "SeriesWhiteboard"
+}

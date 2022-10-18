@@ -1,0 +1,102 @@
+{
+    "guid": "6002059ee668ffe08964317a",
+    "languageAgnosticNaturalKey": "pub-jwb_202103_2_VIDEO",
+    "naturalKey": "pub-jwb_E_202103_2_VIDEO",
+    "type": "video",
+    "primaryCategory": "StudioTalks",
+    "description": "",
+    "firstPublished": "2021-03-15T14:06:55.163Z",
+    "duration": 888.896,
+    "durationFormattedHHMM": "14:48",
+    "durationFormattedMinSec": "14m 48s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/f3/jwb_E_202103_02_r240P.mp4",
+            "checksum": "b691cd95e180e68310f96dae63f12c5a",
+            "filesize": 17857729,
+            "modifiedDatetime": "2021-03-15T04:55:24.000Z",
+            "bitRate": 156.95144067753708,
+            "duration": 888.896,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.791,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/39/jwb_E_202103_02.vtt",
+                "modifiedDatetime": "2021-03-15T04:55:06.000Z",
+                "checksum": "32bb17feaa02fb9a751a381aaafb62bd"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/c7/jwb_E_202103_02_r360P.mp4",
+            "checksum": "d835cd5b932bab8e50ce5f7321f7d077",
+            "filesize": 35309454,
+            "modifiedDatetime": "2021-03-15T04:55:21.000Z",
+            "bitRate": 310.3456877261313,
+            "duration": 888.864,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/39/jwb_E_202103_02.vtt",
+                "modifiedDatetime": "2021-03-15T04:55:06.000Z",
+                "checksum": "32bb17feaa02fb9a751a381aaafb62bd"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/fb/jwb_E_202103_02_r480P.mp4",
+            "checksum": "17a6de244739827555d54537333a3df0",
+            "filesize": 63100883,
+            "modifiedDatetime": "2021-03-15T04:55:13.000Z",
+            "bitRate": 554.61313365993,
+            "duration": 888.864,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/39/jwb_E_202103_02.vtt",
+                "modifiedDatetime": "2021-03-15T04:55:06.000Z",
+                "checksum": "32bb17feaa02fb9a751a381aaafb62bd"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/29/jwb_E_202103_02_r720P.mp4",
+            "checksum": "cb3f4741ae7d11585aa665fc0530b7fa",
+            "filesize": 105446238,
+            "modifiedDatetime": "2021-03-15T04:55:08.000Z",
+            "bitRate": 926.7995265586186,
+            "duration": 888.864,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/39/jwb_E_202103_02.vtt",
+                "modifiedDatetime": "2021-03-15T04:55:06.000Z",
+                "checksum": "32bb17feaa02fb9a751a381aaafb62bd"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202103-2.v",
+        "jwb.202103-2"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/39/jwb_E_202103_02.vtt",
+    "Name": "pub-jwb_E_202103_2_VIDEO",
+    "Title": "John Ekrann: Show Love and Respect in Your Marriage",
+    "UndatedReferenceTitle": "John Ekrann: Show Love and Respect in Your Marriage",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "StudioTalks"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "5c0ad4e299077ca5aeb9023a",
+    "languageAgnosticNaturalKey": "pub-jwb_201902_6_VIDEO",
+    "naturalKey": "pub-jwb_E_201902_6_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpBlessings",
+    "description": "",
+    "firstPublished": "2019-02-19T03:30:29.142Z",
+    "duration": 129.664,
+    "durationFormattedHHMM": "2:09",
+    "durationFormattedMinSec": "2m 9s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/ed/jwb_E_201902_06_r240P.mp4",
+            "checksum": "5a25dd73dbdaffc15b02b0bd1286e7c7",
+            "filesize": 5033524,
+            "modifiedDatetime": "2020-11-23T20:21:50.000Z",
+            "bitRate": 303.27929301887957,
+            "duration": 129.664,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.529,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/29/jwb_E_201902_06.vtt",
+                "modifiedDatetime": "2019-02-19T03:24:11.000Z",
+                "checksum": "375fb9c071e885c8f0bcb2866aa3c341"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/ff/jwb_E_201902_06_r360P.mp4",
+            "checksum": "58dcb8c5a9b08e2777f0293cbe6f83a3",
+            "filesize": 9034494,
+            "modifiedDatetime": "2019-02-19T03:23:55.000Z",
+            "bitRate": 544.4838377780006,
+            "duration": 129.631,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/29/jwb_E_201902_06.vtt",
+                "modifiedDatetime": "2019-02-19T03:24:11.000Z",
+                "checksum": "375fb9c071e885c8f0bcb2866aa3c341"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/29/jwb_E_201902_06_r480P.mp4",
+            "checksum": "1185344756f31a7ab35e562249c6173b",
+            "filesize": 16761701,
+            "modifiedDatetime": "2019-02-19T03:23:59.000Z",
+            "bitRate": 1010.1811222817073,
+            "duration": 129.631,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/29/jwb_E_201902_06.vtt",
+                "modifiedDatetime": "2019-02-19T03:24:11.000Z",
+                "checksum": "375fb9c071e885c8f0bcb2866aa3c341"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/a5/jwb_E_201902_06_r720P.mp4",
+            "checksum": "9a3508916d91d2dff48fb14580f9dad9",
+            "filesize": 27715358,
+            "modifiedDatetime": "2019-02-19T03:24:04.000Z",
+            "bitRate": 1670.3275788584522,
+            "duration": 129.631,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/29/jwb_E_201902_06.vtt",
+                "modifiedDatetime": "2019-02-19T03:24:11.000Z",
+                "checksum": "375fb9c071e885c8f0bcb2866aa3c341"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201902-6.v",
+        "jwb.201902-6"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/29/jwb_E_201902_06.vtt",
+    "Name": "pub-jwb_E_201902_6_VIDEO",
+    "Title": "Another International Construction Worker",
+    "UndatedReferenceTitle": "Another International Construction Worker",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODIntExpBlessings"
+}

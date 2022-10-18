@@ -1,0 +1,102 @@
+{
+    "guid": "5b363de3928a076623efbb3c",
+    "languageAgnosticNaturalKey": "pub-jwb_201808_3_VIDEO",
+    "naturalKey": "pub-jwb_E_201808_3_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpBlessings",
+    "description": "",
+    "firstPublished": "2018-08-20T13:48:58.909Z",
+    "duration": 366.23,
+    "durationFormattedHHMM": "6:06",
+    "durationFormattedMinSec": "6m 6s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/3a/jwb_E_201808_03_r240P.mp4",
+            "checksum": "52404d6a89380cda1206bed54501a94e",
+            "filesize": 11094364,
+            "modifiedDatetime": "2020-11-06T23:26:15.000Z",
+            "bitRate": 236.66744600387733,
+            "duration": 366.23,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.483,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/57/jwb_E_201808_03_r240P.vtt",
+                "modifiedDatetime": "2018-08-20T13:34:29.000Z",
+                "checksum": "a3cc97f7aa5eb41b4294fd73fa8fd1c0"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/aa/jwb_E_201808_03_r360P.mp4",
+            "checksum": "f4d7f25d9c242d7962a5dcb732879ce8",
+            "filesize": 19223032,
+            "modifiedDatetime": "2018-08-20T13:34:31.000Z",
+            "bitRate": 410.1024778741729,
+            "duration": 366.201,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/91/jwb_E_201808_03_r360P.vtt",
+                "modifiedDatetime": "2018-08-20T13:34:35.000Z",
+                "checksum": "a3cc97f7aa5eb41b4294fd73fa8fd1c0"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/c6/jwb_E_201808_03_r480P.mp4",
+            "checksum": "4dec95d564a34e0f75f2ec92299c4b2d",
+            "filesize": 34705331,
+            "modifiedDatetime": "2018-08-20T13:34:38.000Z",
+            "bitRate": 740.4004861742594,
+            "duration": 366.201,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/0b/jwb_E_201808_03_r480P.vtt",
+                "modifiedDatetime": "2018-08-20T13:34:42.000Z",
+                "checksum": "a3cc97f7aa5eb41b4294fd73fa8fd1c0"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/ec/jwb_E_201808_03_r720P.mp4",
+            "checksum": "020005409fa277daced269778b58419d",
+            "filesize": 58144759,
+            "modifiedDatetime": "2018-08-20T13:34:44.000Z",
+            "bitRate": 1240.4551863252693,
+            "duration": 366.201,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/14/jwb_E_201808_03_r720P.vtt",
+                "modifiedDatetime": "2018-08-20T13:34:49.000Z",
+                "checksum": "a3cc97f7aa5eb41b4294fd73fa8fd1c0"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201808-3.v",
+        "jwb.201808-3"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/57/jwb_E_201808_03_r240P.vtt",
+    "Name": "pub-jwb_E_201808_3_VIDEO",
+    "Title": "Richard and Peggy Kelsey: Loyally Serving Jehovah With Joy",
+    "UndatedReferenceTitle": "Richard and Peggy Kelsey: Loyally Serving Jehovah With Joy",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "VODIntExpBlessings"
+}

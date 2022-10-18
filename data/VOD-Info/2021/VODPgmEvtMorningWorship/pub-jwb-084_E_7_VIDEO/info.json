@@ -1,0 +1,102 @@
+{
+    "guid": "60648f2f0524ac0a0ac57116",
+    "languageAgnosticNaturalKey": "pub-jwb-084_7_VIDEO",
+    "naturalKey": "pub-jwb-084_E_7_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2021-11-15T13:16:46.753Z",
+    "duration": 561.536,
+    "durationFormattedHHMM": "9:21",
+    "durationFormattedMinSec": "9m 21s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/b3/jwb-084_E_07_r240P.mp4",
+            "checksum": "b15bb614adbac410319a1f07316bfa46",
+            "filesize": 9029775,
+            "modifiedDatetime": "2021-11-15T05:30:54.000Z",
+            "bitRate": 125.62884158362066,
+            "duration": 561.536,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.762,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/85/jwb-084_E_07.vtt",
+                "modifiedDatetime": "2021-11-15T05:30:34.000Z",
+                "checksum": "8e63f265eb7767c25e475d988b46141a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/4b/jwb-084_E_07_r360P.mp4",
+            "checksum": "ed49bbb4a94b6f6764ce78ff5c4d82ae",
+            "filesize": 18668170,
+            "modifiedDatetime": "2021-11-15T05:30:51.000Z",
+            "bitRate": 259.74005194085885,
+            "duration": 561.504,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/85/jwb-084_E_07.vtt",
+                "modifiedDatetime": "2021-11-15T05:30:34.000Z",
+                "checksum": "8e63f265eb7767c25e475d988b46141a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/f8/jwb-084_E_07_r480P.mp4",
+            "checksum": "0c06571af7b9c129266407ad8c71e66e",
+            "filesize": 34156591,
+            "modifiedDatetime": "2021-11-15T05:30:41.000Z",
+            "bitRate": 475.23858634577846,
+            "duration": 561.504,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/85/jwb-084_E_07.vtt",
+                "modifiedDatetime": "2021-11-15T05:30:34.000Z",
+                "checksum": "8e63f265eb7767c25e475d988b46141a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/7a/jwb-084_E_07_r720P.mp4",
+            "checksum": "f4b9d3d938e5c40299baedd4cd2ef9e9",
+            "filesize": 66131595,
+            "modifiedDatetime": "2021-11-15T05:30:38.000Z",
+            "bitRate": 920.123607200483,
+            "duration": 561.504,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/85/jwb-084_E_07.vtt",
+                "modifiedDatetime": "2021-11-15T05:30:34.000Z",
+                "checksum": "8e63f265eb7767c25e475d988b46141a"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-084-7.v",
+        "jwb-084-7"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/85/jwb-084_E_07.vtt",
+    "Name": "pub-jwb-084_E_7_VIDEO",
+    "Title": "Gajus Glockentin: How to Be Resilient (Luke 10:39)",
+    "UndatedReferenceTitle": "Gajus Glockentin: How to Be Resilient (Luke 10:39)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

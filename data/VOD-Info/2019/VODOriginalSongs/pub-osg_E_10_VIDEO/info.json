@@ -1,0 +1,102 @@
+{
+    "guid": "59c2d9e65434430be822fb05",
+    "languageAgnosticNaturalKey": "pub-osg_10_VIDEO",
+    "naturalKey": "pub-osg_E_10_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODOriginalSongs",
+    "description": "",
+    "firstPublished": "2019-02-14T14:33:52.017Z",
+    "duration": 224.363,
+    "durationFormattedHHMM": "3:44",
+    "durationFormattedMinSec": "3m 44s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/1b/osg_E_010_r240P.mp4",
+            "checksum": "2d5f637888f23522ed21b18dbe40b3eb",
+            "filesize": 9154921,
+            "modifiedDatetime": "2020-11-28T07:00:11.000Z",
+            "bitRate": 318.7817078239282,
+            "duration": 224.363,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.91,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/8e/osg_E_010.vtt",
+                "modifiedDatetime": "2019-02-14T14:10:09.000Z",
+                "checksum": "a53476dc485ab8d4fdd7fbd18ef394b5"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/b5/osg_E_010_r360P.mp4",
+            "checksum": "013cff3650e23526eb5f3503b43884f4",
+            "filesize": 16108233,
+            "modifiedDatetime": "2019-02-14T14:09:49.000Z",
+            "bitRate": 560.9741292559308,
+            "duration": 224.334,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/8e/osg_E_010.vtt",
+                "modifiedDatetime": "2019-02-14T14:10:09.000Z",
+                "checksum": "a53476dc485ab8d4fdd7fbd18ef394b5"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/6a/osg_E_010_r480P.mp4",
+            "checksum": "6b6247bbd9b12c758f07e924f98e61de",
+            "filesize": 29688431,
+            "modifiedDatetime": "2019-02-14T14:09:53.000Z",
+            "bitRate": 1033.908668269188,
+            "duration": 224.334,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/8e/osg_E_010.vtt",
+                "modifiedDatetime": "2019-02-14T14:10:09.000Z",
+                "checksum": "a53476dc485ab8d4fdd7fbd18ef394b5"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/99/osg_E_010_r720P.mp4",
+            "checksum": "bb237b37bad05d773c1cf8fc8a1f06d3",
+            "filesize": 48651745,
+            "modifiedDatetime": "2019-02-14T14:09:58.000Z",
+            "bitRate": 1694.311864507832,
+            "duration": 224.334,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/8e/osg_E_010.vtt",
+                "modifiedDatetime": "2019-02-14T14:10:09.000Z",
+                "checksum": "a53476dc485ab8d4fdd7fbd18ef394b5"
+            }
+        }
+    ],
+    "printReferences": [
+        "osg-10.v",
+        "osg-10"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/8e/osg_E_010.vtt",
+    "Name": "pub-osg_E_10_VIDEO",
+    "Title": "Just a Smile",
+    "UndatedReferenceTitle": "Just a Smile",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODOriginalSongs"
+}

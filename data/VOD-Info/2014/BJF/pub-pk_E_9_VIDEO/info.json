@@ -1,0 +1,102 @@
+{
+    "guid": "553647237f0bc1fc27069bac",
+    "languageAgnosticNaturalKey": "pub-pk_9_VIDEO",
+    "naturalKey": "pub-pk_E_9_VIDEO",
+    "type": "video",
+    "primaryCategory": "BJF",
+    "description": "",
+    "firstPublished": "2014-01-06T18:16:15.000Z",
+    "duration": 157.035,
+    "durationFormattedHHMM": "2:37",
+    "durationFormattedMinSec": "2m 37s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/d6/pk_E_009_r240P.mp4",
+            "checksum": "1c23c1da25399ca0ffa9266c5eb2f36d",
+            "filesize": 5194247,
+            "modifiedDatetime": "2020-12-18T02:18:20.000Z",
+            "bitRate": 258.414077673767,
+            "duration": 157.035,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.631,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/4f/pk_E_009.vtt",
+                "modifiedDatetime": "2019-10-18T14:31:59.000Z",
+                "checksum": "70514d21ce36c2941e42a46ee78e6d5e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/27/pk_E_009_r360P.mp4",
+            "checksum": "08c11893025225b0f8499a5ad5638a97",
+            "filesize": 8641240,
+            "modifiedDatetime": "2019-10-18T14:31:58.000Z",
+            "bitRate": 429.99527073075967,
+            "duration": 157.001,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/4f/pk_E_009.vtt",
+                "modifiedDatetime": "2019-10-18T14:31:59.000Z",
+                "checksum": "70514d21ce36c2941e42a46ee78e6d5e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/67/pk_E_009_r480P.mp4",
+            "checksum": "8370442a6839401e3731925faca0f62c",
+            "filesize": 15762714,
+            "modifiedDatetime": "2019-10-18T14:34:02.000Z",
+            "bitRate": 784.3657245813721,
+            "duration": 157.001,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/4f/pk_E_009.vtt",
+                "modifiedDatetime": "2019-10-18T14:31:59.000Z",
+                "checksum": "70514d21ce36c2941e42a46ee78e6d5e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/5c/pk_E_009_r720P.mp4",
+            "checksum": "49a32559db81579e91d64567cd1b9327",
+            "filesize": 26442906,
+            "modifiedDatetime": "2019-10-18T14:32:37.000Z",
+            "bitRate": 1315.8209382424316,
+            "duration": 157.001,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/4f/pk_E_009.vtt",
+                "modifiedDatetime": "2019-10-18T14:31:59.000Z",
+                "checksum": "70514d21ce36c2941e42a46ee78e6d5e"
+            }
+        }
+    ],
+    "printReferences": [
+        "pk-9.v",
+        "pk-9"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/4f/pk_E_009.vtt",
+    "Name": "pub-pk_E_9_VIDEO",
+    "Title": "“Jehovah . . . Created All Things”",
+    "UndatedReferenceTitle": "“Jehovah . . . Created All Things”",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2014,
+    "Symbol": "BJF"
+}

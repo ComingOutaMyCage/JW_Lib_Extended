@@ -1,0 +1,102 @@
+{
+    "guid": "5f36921912b86d2c3b520874",
+    "languageAgnosticNaturalKey": "pub-mwbv_202012_4_VIDEO",
+    "naturalKey": "pub-mwbv_E_202012_4_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesOrgAccomplishments",
+    "description": "",
+    "firstPublished": "2020-11-16T22:11:37.333Z",
+    "duration": 342.343,
+    "durationFormattedHHMM": "5:42",
+    "durationFormattedMinSec": "5m 42s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/34/mwbv_E_202012_04_r240P.mp4",
+            "checksum": "9c9a0ede996921e5647c149fae5fcd17",
+            "filesize": 9570134,
+            "modifiedDatetime": "2020-11-16T21:51:33.000Z",
+            "bitRate": 218.39696408280582,
+            "duration": 342.343,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.952,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/6d/mwbv_E_202012_04.vtt",
+                "modifiedDatetime": "2020-11-16T21:51:41.000Z",
+                "checksum": "a603ba0a9690073eac8a324fbaa31df2"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/6f/mwbv_E_202012_04_r360P.mp4",
+            "checksum": "dd73d81d3335b3ee3314ec61a64b2882",
+            "filesize": 13086279,
+            "modifiedDatetime": "2020-11-16T21:51:35.000Z",
+            "bitRate": 298.6377834145871,
+            "duration": 342.343,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/6d/mwbv_E_202012_04.vtt",
+                "modifiedDatetime": "2020-11-16T21:51:41.000Z",
+                "checksum": "a603ba0a9690073eac8a324fbaa31df2"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/43/mwbv_E_202012_04_r480P.mp4",
+            "checksum": "71d05ae8a1eb32774eb4d2f83c5545be",
+            "filesize": 23461904,
+            "modifiedDatetime": "2020-11-16T21:51:37.000Z",
+            "bitRate": 535.4165997260058,
+            "duration": 342.343,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/6d/mwbv_E_202012_04.vtt",
+                "modifiedDatetime": "2020-11-16T21:51:41.000Z",
+                "checksum": "a603ba0a9690073eac8a324fbaa31df2"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/bc/mwbv_E_202012_04_r720P.mp4",
+            "checksum": "5dd6c01964af5ebb84ba142fe4ea08e7",
+            "filesize": 38953253,
+            "modifiedDatetime": "2020-11-16T21:51:39.000Z",
+            "bitRate": 888.9397156141647,
+            "duration": 342.343,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/6d/mwbv_E_202012_04.vtt",
+                "modifiedDatetime": "2020-11-16T21:51:41.000Z",
+                "checksum": "a603ba0a9690073eac8a324fbaa31df2"
+            }
+        }
+    ],
+    "printReferences": [
+        "mwbv.202012-4.v",
+        "mwbv.202012-4"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/6d/mwbv_E_202012_04.vtt",
+    "Name": "pub-mwbv_E_202012_4_VIDEO",
+    "Title": "Organizational Accomplishments—The Dynamic Nature of Divine Education",
+    "UndatedReferenceTitle": "Organizational Accomplishments—The Dynamic Nature of Divine Education",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "SeriesOrgAccomplishments"
+}

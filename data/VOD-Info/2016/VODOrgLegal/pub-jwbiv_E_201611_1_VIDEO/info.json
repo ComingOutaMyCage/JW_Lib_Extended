@@ -1,0 +1,178 @@
+{
+    "guid": "57c84e6981a37aa6ed65fd75",
+    "languageAgnosticNaturalKey": "pub-jwbiv_201611_1_VIDEO",
+    "naturalKey": "pub-jwbiv_E_201611_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODOrgLegal",
+    "description": "",
+    "firstPublished": "2016-11-21T15:35:33.099Z",
+    "duration": 361.579,
+    "durationFormattedHHMM": "6:01",
+    "durationFormattedMinSec": "6m 1s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/81/jwbiv_s-Sub_E_201611_01_r240P.mp4",
+            "checksum": "55f8303761afa6e570ae2c9a3b48db36",
+            "filesize": 16002017,
+            "modifiedDatetime": "2020-11-12T04:04:28.000Z",
+            "bitRate": 345.79157706031225,
+            "duration": 361.535,
+            "frameHeight": 180,
+            "frameWidth": 320,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": true,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/21/jwbiv_E_201611_01.vtt",
+                "modifiedDatetime": "2018-11-07T15:10:02.000Z",
+                "checksum": "d7b224949829550d3a9b9a3a25209765"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/67/jwbiv_E_201611_01_r240P.mp4",
+            "checksum": "e44f4f8111e179d3b768ecaf91bf45fb",
+            "filesize": 7717835,
+            "modifiedDatetime": "2020-11-08T03:17:04.000Z",
+            "bitRate": 166.75632693685196,
+            "duration": 361.579,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.211,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/21/jwbiv_E_201611_01.vtt",
+                "modifiedDatetime": "2018-11-07T15:10:02.000Z",
+                "checksum": "d7b224949829550d3a9b9a3a25209765"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/bc/jwbiv_E_201611_01_r360P.mp4",
+            "checksum": "9d0564bdaccf097526462e53033f1d0c",
+            "filesize": 15739249,
+            "modifiedDatetime": "2018-11-07T15:11:08.000Z",
+            "bitRate": 340.11053557993904,
+            "duration": 361.538,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/21/jwbiv_E_201611_01.vtt",
+                "modifiedDatetime": "2018-11-07T15:10:02.000Z",
+                "checksum": "d7b224949829550d3a9b9a3a25209765"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/58/jwbiv_s-Sub_E_201611_01_r360P.mp4",
+            "checksum": "2459538506a248fd07e0cc506fe5d91d",
+            "filesize": 37670312,
+            "modifiedDatetime": "2019-02-10T09:17:04.000Z",
+            "bitRate": 814.1184433989492,
+            "duration": 361.49446666666665,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 44.056,
+            "mimetype": "video/mp4",
+            "subtitled": true,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/21/jwbiv_E_201611_01.vtt",
+                "modifiedDatetime": "2018-11-07T15:10:02.000Z",
+                "checksum": "d7b224949829550d3a9b9a3a25209765"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/7b/jwbiv_s-Sub_E_201611_01_r480P.mp4",
+            "checksum": "a23ec3d72cc3ce3f6c1c2805da4d9d7a",
+            "filesize": 51411254,
+            "modifiedDatetime": "2019-02-10T13:39:56.000Z",
+            "bitRate": 1111.0831808260043,
+            "duration": 361.49446666666665,
+            "frameHeight": 480,
+            "frameWidth": 854,
+            "label": "480p",
+            "frameRate": 44.056,
+            "mimetype": "video/mp4",
+            "subtitled": true,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/21/jwbiv_E_201611_01.vtt",
+                "modifiedDatetime": "2018-11-07T15:10:02.000Z",
+                "checksum": "d7b224949829550d3a9b9a3a25209765"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/fc/jwbiv_E_201611_01_r480P.mp4",
+            "checksum": "a71af8a3072fc6134314e71b24567da3",
+            "filesize": 27074250,
+            "modifiedDatetime": "2018-11-07T15:08:05.000Z",
+            "bitRate": 585.0493672172773,
+            "duration": 361.538,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/21/jwbiv_E_201611_01.vtt",
+                "modifiedDatetime": "2018-11-07T15:10:02.000Z",
+                "checksum": "d7b224949829550d3a9b9a3a25209765"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/13/jwbiv_s-Sub_E_201611_01_r720P.mp4",
+            "checksum": "280876ecf6bf0b3275280048a94ee03b",
+            "filesize": 74235437,
+            "modifiedDatetime": "2019-02-13T01:34:46.000Z",
+            "bitRate": 1604.3519473765114,
+            "duration": 361.49446666666665,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 44.056,
+            "mimetype": "video/mp4",
+            "subtitled": true,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/21/jwbiv_E_201611_01.vtt",
+                "modifiedDatetime": "2018-11-07T15:10:02.000Z",
+                "checksum": "d7b224949829550d3a9b9a3a25209765"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/d1/jwbiv_E_201611_01_r720P.mp4",
+            "checksum": "e7d586afca1249b5920c65c69a93ecb8",
+            "filesize": 42431995,
+            "modifiedDatetime": "2018-11-07T15:11:03.000Z",
+            "bitRate": 916.9159561028163,
+            "duration": 361.538,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/21/jwbiv_E_201611_01.vtt",
+                "modifiedDatetime": "2018-11-07T15:10:02.000Z",
+                "checksum": "d7b224949829550d3a9b9a3a25209765"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwbiv.201611-1.v",
+        "jwbiv.201611-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/21/jwbiv_E_201611_01.vtt",
+    "Name": "pub-jwbiv_E_201611_1_VIDEO",
+    "Title": "The Legalization of the Work in Quebec",
+    "UndatedReferenceTitle": "The Legalization of the Work in Quebec",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2016,
+    "Symbol": "VODOrgLegal"
+}

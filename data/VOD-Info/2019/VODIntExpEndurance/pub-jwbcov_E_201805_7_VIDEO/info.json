@@ -1,0 +1,102 @@
+{
+    "guid": "5c6ecd73351dc4182b6663a1",
+    "languageAgnosticNaturalKey": "pub-jwbcov_201805_7_VIDEO",
+    "naturalKey": "pub-jwbcov_E_201805_7_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpEndurance",
+    "description": "",
+    "firstPublished": "2019-02-26T00:34:14.393Z",
+    "duration": 220.886,
+    "durationFormattedHHMM": "3:40",
+    "durationFormattedMinSec": "3m 40s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/fd/jwbcov_E_201805_07_r240P.mp4",
+            "checksum": "bbb773b263000f3555fb53ed2e9a50d6",
+            "filesize": 6398484,
+            "modifiedDatetime": "2020-11-26T22:42:42.000Z",
+            "bitRate": 226.3074900627473,
+            "duration": 220.886,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.669,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/54/jwbcov_E_201805_07.vtt",
+                "modifiedDatetime": "2019-02-26T00:25:48.000Z",
+                "checksum": "6705002b68853c6383fdec938643b136"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/e9/jwbcov_E_201805_07_r360P.mp4",
+            "checksum": "9416a81adc4934a91478d08f14d507c8",
+            "filesize": 11503497,
+            "modifiedDatetime": "2019-02-26T00:24:41.000Z",
+            "bitRate": 406.9381531671247,
+            "duration": 220.847,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/54/jwbcov_E_201805_07.vtt",
+                "modifiedDatetime": "2019-02-26T00:25:48.000Z",
+                "checksum": "6705002b68853c6383fdec938643b136"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/21/jwbcov_E_201805_07_r480P.mp4",
+            "checksum": "63e2445bd1d8fa3f5aec2e2c264389d7",
+            "filesize": 21760003,
+            "modifiedDatetime": "2019-02-26T00:24:47.000Z",
+            "bitRate": 769.763788674965,
+            "duration": 220.847,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/54/jwbcov_E_201805_07.vtt",
+                "modifiedDatetime": "2019-02-26T00:25:48.000Z",
+                "checksum": "6705002b68853c6383fdec938643b136"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/4b/jwbcov_E_201805_07_r720P.mp4",
+            "checksum": "545c1767a502018d77dfd6e271d02eb7",
+            "filesize": 38909309,
+            "modifiedDatetime": "2019-02-26T00:24:54.000Z",
+            "bitRate": 1376.4233906845009,
+            "duration": 220.847,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/54/jwbcov_E_201805_07.vtt",
+                "modifiedDatetime": "2019-02-26T00:25:48.000Z",
+                "checksum": "6705002b68853c6383fdec938643b136"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwbcov.201805-7.v",
+        "jwbcov.201805-7"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/54/jwbcov_E_201805_07.vtt",
+    "Name": "pub-jwbcov_E_201805_7_VIDEO",
+    "Title": "“No Weapon Formed Against You Will Have Any Success”—Interviews",
+    "UndatedReferenceTitle": "“No Weapon Formed Against You Will Have Any Success”—Interviews",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODIntExpEndurance"
+}

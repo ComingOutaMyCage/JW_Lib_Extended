@@ -1,0 +1,102 @@
+{
+    "guid": "5f31874a12b86d2c3b3f2513",
+    "languageAgnosticNaturalKey": "docid-502200111_1_VIDEO",
+    "naturalKey": "docid-502200111_E_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesWasItDesigned",
+    "description": "",
+    "firstPublished": "2020-09-28T18:04:34.265Z",
+    "duration": 149.014,
+    "durationFormattedHHMM": "2:29",
+    "durationFormattedMinSec": "2m 29s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/ee/502200111_E_cnt_1_r240P.mp4",
+            "checksum": "c0afab2b9b6882eb066cb82283b22600",
+            "filesize": 5229134,
+            "modifiedDatetime": "2020-11-01T14:37:45.000Z",
+            "bitRate": 274.1528270833613,
+            "duration": 149.014,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.739,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/16/502200111_E_cnt_1.vtt",
+                "modifiedDatetime": "2020-09-28T06:18:46.000Z",
+                "checksum": "8deb20083b4a99a38e31f76df5b3d50b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/4f/502200111_E_cnt_1_r360P.mp4",
+            "checksum": "bdaeb4da5f29aa282e493c0503216756",
+            "filesize": 9428617,
+            "modifiedDatetime": "2020-09-28T06:18:53.000Z",
+            "bitRate": 494.42269178233903,
+            "duration": 148.984,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/16/502200111_E_cnt_1.vtt",
+                "modifiedDatetime": "2020-09-28T06:18:46.000Z",
+                "checksum": "8deb20083b4a99a38e31f76df5b3d50b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/ca/502200111_E_cnt_1_r480P.mp4",
+            "checksum": "f386fe7d8dd064ee2cef9fe5fddc2b13",
+            "filesize": 18162984,
+            "modifiedDatetime": "2020-09-28T06:18:55.000Z",
+            "bitRate": 952.4399432153788,
+            "duration": 148.984,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/16/502200111_E_cnt_1.vtt",
+                "modifiedDatetime": "2020-09-28T06:18:46.000Z",
+                "checksum": "8deb20083b4a99a38e31f76df5b3d50b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/81/502200111_E_cnt_1_r720P.mp4",
+            "checksum": "008fb8151335adb9a84713291cf6dd4c",
+            "filesize": 32021110,
+            "modifiedDatetime": "2020-09-28T06:18:57.000Z",
+            "bitRate": 1679.1395174985232,
+            "duration": 148.984,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/16/502200111_E_cnt_1.vtt",
+                "modifiedDatetime": "2020-09-28T06:18:46.000Z",
+                "checksum": "8deb20083b4a99a38e31f76df5b3d50b"
+            }
+        }
+    ],
+    "printReferences": [
+        "502200111-1.v",
+        "502200111-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/content_assets/16/502200111_E_cnt_1.vtt",
+    "Name": "docid-502200111_E_1_VIDEO",
+    "Title": "Was It Designed? The Shark’s Skin",
+    "UndatedReferenceTitle": "Was It Designed? The Shark’s Skin",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "SeriesWasItDesigned"
+}

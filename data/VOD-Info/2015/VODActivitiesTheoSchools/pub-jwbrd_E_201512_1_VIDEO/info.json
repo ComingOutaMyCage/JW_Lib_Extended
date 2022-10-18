@@ -1,0 +1,102 @@
+{
+    "guid": "562fe7f079892656f9a3f671",
+    "languageAgnosticNaturalKey": "pub-jwbrd_201512_1_VIDEO",
+    "naturalKey": "pub-jwbrd_E_201512_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODActivitiesTheoSchools",
+    "description": "",
+    "firstPublished": "2015-12-21T18:12:27.118Z",
+    "duration": 454.955,
+    "durationFormattedHHMM": "7:34",
+    "durationFormattedMinSec": "7m 34s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/a8/jwbrd_E_201512_01_r240P.mp4",
+            "checksum": "f42be78f007e20af434afd57235df035",
+            "filesize": 15762201,
+            "modifiedDatetime": "2020-12-02T14:22:06.000Z",
+            "bitRate": 270.6689569572815,
+            "duration": 454.955,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.557,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/16/jwbrd_E_201512_01.vtt",
+                "modifiedDatetime": "2020-12-02T14:21:56.000Z",
+                "checksum": "8dcf5adddd4a2e2d144055a73b7f7ac9"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/a9/jwbrd_E_201512_01_r360P.mp4",
+            "checksum": "4e7d7b4f50d1275c7140dc882e647aeb",
+            "filesize": 29260710,
+            "modifiedDatetime": "2020-12-02T14:22:12.000Z",
+            "bitRate": 502.492239207704,
+            "duration": 454.931,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/16/jwbrd_E_201512_01.vtt",
+                "modifiedDatetime": "2020-12-02T14:21:56.000Z",
+                "checksum": "8dcf5adddd4a2e2d144055a73b7f7ac9"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/23/jwbrd_E_201512_01_r480P.mp4",
+            "checksum": "64216260ea4eeb7cda55f46a8fe0ffe7",
+            "filesize": 54445013,
+            "modifiedDatetime": "2020-12-02T14:22:18.000Z",
+            "bitRate": 934.9806103837725,
+            "duration": 454.931,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/16/jwbrd_E_201512_01.vtt",
+                "modifiedDatetime": "2020-12-02T14:21:56.000Z",
+                "checksum": "8dcf5adddd4a2e2d144055a73b7f7ac9"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/18/jwbrd_E_201512_01_r720P.mp4",
+            "checksum": "6bfcd2bfe5e97eebc6ae333521765145",
+            "filesize": 91636010,
+            "modifiedDatetime": "2020-12-02T14:22:24.000Z",
+            "bitRate": 1573.659144188899,
+            "duration": 454.931,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/16/jwbrd_E_201512_01.vtt",
+                "modifiedDatetime": "2020-12-02T14:21:56.000Z",
+                "checksum": "8dcf5adddd4a2e2d144055a73b7f7ac9"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwbrd.201512-1.v",
+        "jwbrd.201512-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/16/jwbrd_E_201512_01.vtt",
+    "Name": "pub-jwbrd_E_201512_1_VIDEO",
+    "Title": "Theocratic Schools in the Heart of Africa",
+    "UndatedReferenceTitle": "Theocratic Schools in the Heart of Africa",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2015,
+    "Symbol": "VODActivitiesTheoSchools"
+}

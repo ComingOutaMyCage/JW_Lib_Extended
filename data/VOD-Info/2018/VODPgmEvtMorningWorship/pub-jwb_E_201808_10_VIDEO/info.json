@@ -1,0 +1,102 @@
+{
+    "guid": "5b5635d6928a076623efe1af",
+    "languageAgnosticNaturalKey": "pub-jwb_201808_10_VIDEO",
+    "naturalKey": "pub-jwb_E_201808_10_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2018-08-13T17:43:13.061Z",
+    "duration": 519.126,
+    "durationFormattedHHMM": "8:39",
+    "durationFormattedMinSec": "8m 39s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/f1/jwb_E_201808_10_r240P.mp4",
+            "checksum": "d29c0e1524884a5f9cf1d29dd7b4821e",
+            "filesize": 8084559,
+            "modifiedDatetime": "2020-11-23T21:57:04.000Z",
+            "bitRate": 121.66721988014471,
+            "duration": 519.126,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.412,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/36/jwb_E_201808_10_r240P.vtt",
+                "modifiedDatetime": "2018-08-13T14:30:58.000Z",
+                "checksum": "ee0805e93a11ac6560cd1f7dddadf4ac"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/b6/jwb_E_201808_10_r360P.mp4",
+            "checksum": "b3479885e8f97e456d87bab293c864ad",
+            "filesize": 16431289,
+            "modifiedDatetime": "2018-08-13T14:30:59.000Z",
+            "bitRate": 247.29470581011182,
+            "duration": 519.095,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/27/jwb_E_201808_10_r360P.vtt",
+                "modifiedDatetime": "2018-08-13T14:31:01.000Z",
+                "checksum": "ee0805e93a11ac6560cd1f7dddadf4ac"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/8a/jwb_E_201808_10_r480P.mp4",
+            "checksum": "af9b6075aa55b7c37a81a4b7aee1dde0",
+            "filesize": 29381477,
+            "modifiedDatetime": "2018-08-13T14:31:02.000Z",
+            "bitRate": 442.19803516215717,
+            "duration": 519.095,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ac/jwb_E_201808_10_r480P.vtt",
+                "modifiedDatetime": "2018-08-13T14:31:05.000Z",
+                "checksum": "ee0805e93a11ac6560cd1f7dddadf4ac"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/12/jwb_E_201808_10_r720P.mp4",
+            "checksum": "4e3589564ddd7cb1c195c331e21e0056",
+            "filesize": 56721717,
+            "modifiedDatetime": "2018-08-13T14:31:06.000Z",
+            "bitRate": 853.6749806153016,
+            "duration": 519.095,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/82/jwb_E_201808_10_r720P.vtt",
+                "modifiedDatetime": "2018-08-13T14:31:09.000Z",
+                "checksum": "ee0805e93a11ac6560cd1f7dddadf4ac"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201808-10.v",
+        "jwb.201808-10"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/36/jwb_E_201808_10_r240P.vtt",
+    "Name": "pub-jwb_E_201808_10_VIDEO",
+    "Title": "Mark Sanderson: Be Prepared (Jas. 4:14)",
+    "UndatedReferenceTitle": "Mark Sanderson: Be Prepared (Jas. 4:14)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

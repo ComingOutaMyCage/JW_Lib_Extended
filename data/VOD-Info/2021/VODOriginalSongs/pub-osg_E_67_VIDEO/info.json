@@ -1,0 +1,102 @@
+{
+    "guid": "5fe11c87c0bf482e1b1d5cbe",
+    "languageAgnosticNaturalKey": "pub-osg_67_VIDEO",
+    "naturalKey": "pub-osg_E_67_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODOriginalSongs",
+    "description": "",
+    "firstPublished": "2021-03-15T14:10:36.011Z",
+    "duration": 254.912,
+    "durationFormattedHHMM": "4:14",
+    "durationFormattedMinSec": "4m 14s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/f2/osg_E_067_r240P.mp4",
+            "checksum": "992e0fb0cca93807a458f09fbce5973f",
+            "filesize": 8132758,
+            "modifiedDatetime": "2021-03-15T04:48:44.000Z",
+            "bitRate": 249.2513960700163,
+            "duration": 254.912,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.669,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/90/osg_E_067.vtt",
+                "modifiedDatetime": "2021-03-15T04:48:31.000Z",
+                "checksum": "1c9c0a1c43073dcc88700edaa5e12f77"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/b9/osg_E_067_r360P.mp4",
+            "checksum": "2c6ea6a31c7340d86d1f11df2dca760c",
+            "filesize": 14139551,
+            "modifiedDatetime": "2021-03-15T04:48:42.000Z",
+            "bitRate": 433.39928118416043,
+            "duration": 254.881,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/90/osg_E_067.vtt",
+                "modifiedDatetime": "2021-03-15T04:48:31.000Z",
+                "checksum": "1c9c0a1c43073dcc88700edaa5e12f77"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/75/osg_E_067_r480P.mp4",
+            "checksum": "b6d8bcd29eae2385c0b2d057776f1dd9",
+            "filesize": 25913679,
+            "modifiedDatetime": "2021-03-15T04:48:40.000Z",
+            "bitRate": 794.2946598118338,
+            "duration": 254.881,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/90/osg_E_067.vtt",
+                "modifiedDatetime": "2021-03-15T04:48:31.000Z",
+                "checksum": "1c9c0a1c43073dcc88700edaa5e12f77"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/cd/osg_E_067_r720P.mp4",
+            "checksum": "ab0be58ae4c35c8311dfdd7693aea188",
+            "filesize": 42800272,
+            "modifiedDatetime": "2021-03-15T04:48:35.000Z",
+            "bitRate": 1311.89506083231,
+            "duration": 254.881,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/90/osg_E_067.vtt",
+                "modifiedDatetime": "2021-03-15T04:48:31.000Z",
+                "checksum": "1c9c0a1c43073dcc88700edaa5e12f77"
+            }
+        }
+    ],
+    "printReferences": [
+        "osg-67.v",
+        "osg-67"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/90/osg_E_067.vtt",
+    "Name": "pub-osg_E_67_VIDEO",
+    "Title": "My Only One",
+    "UndatedReferenceTitle": "My Only One",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODOriginalSongs"
+}

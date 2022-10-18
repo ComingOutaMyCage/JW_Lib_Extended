@@ -1,0 +1,102 @@
+{
+    "guid": "5e270d63faacdecc13427d3f",
+    "languageAgnosticNaturalKey": "pub-ebtv_1_VIDEO",
+    "naturalKey": "pub-ebtv_E_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBibleTeachings",
+    "description": "",
+    "firstPublished": "2020-03-19T18:34:45.968Z",
+    "duration": 261.291,
+    "durationFormattedHHMM": "4:21",
+    "durationFormattedMinSec": "4m 21s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/f4/ebtv_E_01_r240P.mp4",
+            "checksum": "408f37282558fe20751802f82756023e",
+            "filesize": 6210651,
+            "modifiedDatetime": "2020-12-16T23:00:03.000Z",
+            "bitRate": 185.69606659816068,
+            "duration": 261.291,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.881,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/35/ebtv_E_01.vtt",
+                "modifiedDatetime": "2020-04-13T15:27:56.000Z",
+                "checksum": "ef3a36dcc02bd76343fa06b7901f8bc7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/62/ebtv_E_01_r360P.mp4",
+            "checksum": "a7b9dabc9bc8e8dcc810801593d85d7b",
+            "filesize": 11594338,
+            "modifiedDatetime": "2020-04-13T15:27:34.000Z",
+            "bitRate": 346.7047087789269,
+            "duration": 261.262,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/35/ebtv_E_01.vtt",
+                "modifiedDatetime": "2020-04-13T15:27:56.000Z",
+                "checksum": "ef3a36dcc02bd76343fa06b7901f8bc7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/b0/ebtv_E_01_r480P.mp4",
+            "checksum": "731f9d4bf940f0cf702cfcf3166da36a",
+            "filesize": 22033360,
+            "modifiedDatetime": "2020-04-13T15:27:12.000Z",
+            "bitRate": 658.8620809761849,
+            "duration": 261.262,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/35/ebtv_E_01.vtt",
+                "modifiedDatetime": "2020-04-13T15:27:56.000Z",
+                "checksum": "ef3a36dcc02bd76343fa06b7901f8bc7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/a8/ebtv_E_01_r720P.mp4",
+            "checksum": "451859f9f5fb3072834de36d155dedcb",
+            "filesize": 38401322,
+            "modifiedDatetime": "2020-04-13T15:27:31.000Z",
+            "bitRate": 1148.3121469061707,
+            "duration": 261.262,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/35/ebtv_E_01.vtt",
+                "modifiedDatetime": "2020-04-13T15:27:56.000Z",
+                "checksum": "ef3a36dcc02bd76343fa06b7901f8bc7"
+            }
+        }
+    ],
+    "printReferences": [
+        "ebtv-1.v",
+        "ebtv-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/35/ebtv_E_01.vtt",
+    "Name": "pub-ebtv_E_1_VIDEO",
+    "Title": "Was the Universe Created?",
+    "UndatedReferenceTitle": "Was the Universe Created?",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "SeriesBibleTeachings"
+}

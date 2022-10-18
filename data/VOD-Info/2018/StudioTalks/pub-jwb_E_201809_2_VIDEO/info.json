@@ -1,0 +1,102 @@
+{
+    "guid": "5b75907cc1963ea3306e2c26",
+    "languageAgnosticNaturalKey": "pub-jwb_201809_2_VIDEO",
+    "naturalKey": "pub-jwb_E_201809_2_VIDEO",
+    "type": "video",
+    "primaryCategory": "StudioTalks",
+    "description": "",
+    "firstPublished": "2018-09-17T13:02:48.045Z",
+    "duration": 898.006,
+    "durationFormattedHHMM": "14:58",
+    "durationFormattedMinSec": "14m 58s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/95/jwb_E_201809_02_r240P.mp4",
+            "checksum": "b14e85a144c456ad9d11aa86a8ff7aaa",
+            "filesize": 17886217,
+            "modifiedDatetime": "2020-11-12T21:19:11.000Z",
+            "bitRate": 155.60705642556954,
+            "duration": 898.006,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.557,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ce/jwb_E_201809_02.vtt",
+                "modifiedDatetime": "2018-09-17T12:38:28.000Z",
+                "checksum": "f890aeb39adc47fc48d31f4d24de497c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/51/jwb_E_201809_02_r360P.mp4",
+            "checksum": "803f1ee46207f37f3eb94f2f7b86b587",
+            "filesize": 35414619,
+            "modifiedDatetime": "2018-09-17T12:38:15.000Z",
+            "bitRate": 308.1121624206269,
+            "duration": 897.974,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ce/jwb_E_201809_02.vtt",
+                "modifiedDatetime": "2018-09-17T12:38:28.000Z",
+                "checksum": "f890aeb39adc47fc48d31f4d24de497c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/d9/jwb_E_201809_02_r480P.mp4",
+            "checksum": "0e7e8e7f7a3d3ada2f50f9dcc4b5242a",
+            "filesize": 62931850,
+            "modifiedDatetime": "2018-09-17T12:38:20.000Z",
+            "bitRate": 547.515939353478,
+            "duration": 897.974,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ce/jwb_E_201809_02.vtt",
+                "modifiedDatetime": "2018-09-17T12:38:28.000Z",
+                "checksum": "f890aeb39adc47fc48d31f4d24de497c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/de/jwb_E_201809_02_r720P.mp4",
+            "checksum": "37c62af34b05d33a020bd6b0e9c9b83e",
+            "filesize": 102629033,
+            "modifiedDatetime": "2018-09-17T12:38:24.000Z",
+            "bitRate": 892.8870104396118,
+            "duration": 897.974,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ce/jwb_E_201809_02.vtt",
+                "modifiedDatetime": "2018-09-17T12:38:28.000Z",
+                "checksum": "f890aeb39adc47fc48d31f4d24de497c"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201809-2.v",
+        "jwb.201809-2"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/ce/jwb_E_201809_02.vtt",
+    "Name": "pub-jwb_E_201809_2_VIDEO",
+    "Title": "Kenneth Flodin: “Stop Being Molded by This System of Things”",
+    "UndatedReferenceTitle": "Kenneth Flodin: “Stop Being Molded by This System of Things”",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "StudioTalks"
+}

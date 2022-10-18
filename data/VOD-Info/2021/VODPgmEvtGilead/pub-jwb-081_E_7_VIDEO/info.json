@@ -1,0 +1,102 @@
+{
+    "guid": "6082cc600524ac0a0a1caca9",
+    "languageAgnosticNaturalKey": "pub-jwb-081_7_VIDEO",
+    "naturalKey": "pub-jwb-081_E_7_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtGilead",
+    "description": "",
+    "firstPublished": "2021-06-08T14:58:18.579Z",
+    "duration": 567.936,
+    "durationFormattedHHMM": "9:27",
+    "durationFormattedMinSec": "9m 27s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/2f/jwb-081_E_07_r240P.mp4",
+            "checksum": "1815b059ec2b2c4b17bd82b33fdd14bf",
+            "filesize": 8699018,
+            "modifiedDatetime": "2021-06-08T05:12:37.000Z",
+            "bitRate": 119.66326861653425,
+            "duration": 567.936,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/cf/jwb-081_E_07.vtt",
+                "modifiedDatetime": "2021-06-08T05:12:24.000Z",
+                "checksum": "ab18ad53047c989df5bb19f40ede8f63"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/e7/jwb-081_E_07_r360P.mp4",
+            "checksum": "179d1ce590e36568451e90ecceea6d08",
+            "filesize": 17709469,
+            "modifiedDatetime": "2021-06-08T05:12:33.000Z",
+            "bitRate": 243.62174739395329,
+            "duration": 567.91,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/cf/jwb-081_E_07.vtt",
+                "modifiedDatetime": "2021-06-08T05:12:24.000Z",
+                "checksum": "ab18ad53047c989df5bb19f40ede8f63"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/ef/jwb-081_E_07_r480P.mp4",
+            "checksum": "171d3b5fb816545ea27d0dadc50e9d8f",
+            "filesize": 30404661,
+            "modifiedDatetime": "2021-06-08T05:12:29.000Z",
+            "bitRate": 418.26418633674353,
+            "duration": 567.91,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/cf/jwb-081_E_07.vtt",
+                "modifiedDatetime": "2021-06-08T05:12:24.000Z",
+                "checksum": "ab18ad53047c989df5bb19f40ede8f63"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/ca/jwb-081_E_07_r720P.mp4",
+            "checksum": "118f2b621cb1148b0965f3719db6ac09",
+            "filesize": 48551333,
+            "modifiedDatetime": "2021-06-08T05:12:25.000Z",
+            "bitRate": 667.9003522785301,
+            "duration": 567.91,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/cf/jwb-081_E_07.vtt",
+                "modifiedDatetime": "2021-06-08T05:12:24.000Z",
+                "checksum": "ab18ad53047c989df5bb19f40ede8f63"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-081-7.v",
+        "jwb-081-7"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/cf/jwb-081_E_07.vtt",
+    "Name": "pub-jwb-081_E_7_VIDEO",
+    "Title": "Seth Hyatt: “What Do You Want Me to Do for You?”",
+    "UndatedReferenceTitle": "Seth Hyatt: “What Do You Want Me to Do for You?”",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODPgmEvtGilead"
+}

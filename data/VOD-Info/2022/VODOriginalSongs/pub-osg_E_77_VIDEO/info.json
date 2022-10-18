@@ -1,0 +1,102 @@
+{
+    "guid": "617c400ae4dbeaf5fad586c7",
+    "languageAgnosticNaturalKey": "pub-osg_77_VIDEO",
+    "naturalKey": "pub-osg_E_77_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODOriginalSongs",
+    "description": "",
+    "firstPublished": "2022-05-16T14:30:44.371Z",
+    "duration": 256.534,
+    "durationFormattedHHMM": "4:16",
+    "durationFormattedMinSec": "4m 16s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/70/osg_E_077_r240P.mp4",
+            "checksum": "7d3089868bbe50accee6056e3ef25a1f",
+            "filesize": 11963357,
+            "modifiedDatetime": "2022-05-16T04:37:21.000Z",
+            "bitRate": 364.3327066295306,
+            "duration": 256.534,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.857,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/ec/osg_E_077.vtt",
+                "modifiedDatetime": "2022-05-16T04:37:04.000Z",
+                "checksum": "f4192c7390227a80fa467d79b0cc82fa"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/6f/osg_E_077_r360P.mp4",
+            "checksum": "1dd9c8477b01cd5a94962ef03e6c29ab",
+            "filesize": 22546027,
+            "modifiedDatetime": "2022-05-16T04:37:19.000Z",
+            "bitRate": 686.6874948832005,
+            "duration": 256.508,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/ec/osg_E_077.vtt",
+                "modifiedDatetime": "2022-05-16T04:37:04.000Z",
+                "checksum": "f4192c7390227a80fa467d79b0cc82fa"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/ff/osg_E_077_r480P.mp4",
+            "checksum": "7de8d978549bdf58fa15cfb7e1edc04e",
+            "filesize": 43558629,
+            "modifiedDatetime": "2022-05-16T04:37:17.000Z",
+            "bitRate": 1326.67125026315,
+            "duration": 256.508,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/ec/osg_E_077.vtt",
+                "modifiedDatetime": "2022-05-16T04:37:04.000Z",
+                "checksum": "f4192c7390227a80fa467d79b0cc82fa"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/51/osg_E_077_r720P.mp4",
+            "checksum": "acc07ef729ff4a0b2ded5194490496ec",
+            "filesize": 75109648,
+            "modifiedDatetime": "2022-05-16T04:37:14.000Z",
+            "bitRate": 2287.6250448329097,
+            "duration": 256.508,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/ec/osg_E_077.vtt",
+                "modifiedDatetime": "2022-05-16T04:37:04.000Z",
+                "checksum": "f4192c7390227a80fa467d79b0cc82fa"
+            }
+        }
+    ],
+    "printReferences": [
+        "osg-77.v",
+        "osg-77"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/ec/osg_E_077.vtt",
+    "Name": "pub-osg_E_77_VIDEO",
+    "Title": "Together We Are Strong",
+    "UndatedReferenceTitle": "Together We Are Strong",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODOriginalSongs"
+}

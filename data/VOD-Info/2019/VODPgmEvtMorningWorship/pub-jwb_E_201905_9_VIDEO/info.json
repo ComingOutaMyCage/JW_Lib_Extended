@@ -1,0 +1,102 @@
+{
+    "guid": "5cccaaca48fd57354cf2f360",
+    "languageAgnosticNaturalKey": "pub-jwb_201905_9_VIDEO",
+    "naturalKey": "pub-jwb_E_201905_9_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2019-05-13T16:11:57.869Z",
+    "duration": 550.528,
+    "durationFormattedHHMM": "9:10",
+    "durationFormattedMinSec": "9m 10s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/4d/jwb_E_201905_09_r240P.mp4",
+            "checksum": "6ba986cd4ef110df7e49fe80be1dda79",
+            "filesize": 8728814,
+            "modifiedDatetime": "2020-11-06T23:27:22.000Z",
+            "bitRate": 123.8699201039729,
+            "duration": 550.528,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.762,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/8e/jwb_E_201905_09.vtt",
+                "modifiedDatetime": "2019-05-13T14:01:27.000Z",
+                "checksum": "7b6943bbb3fe93d4d33d18e436cc863a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/2f/jwb_E_201905_09_r360P.mp4",
+            "checksum": "6f4d6d8abbcd9874dff2f50c6d035d21",
+            "filesize": 17669764,
+            "modifiedDatetime": "2019-05-13T14:01:35.000Z",
+            "bitRate": 250.76618821674387,
+            "duration": 550.493,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/8e/jwb_E_201905_09.vtt",
+                "modifiedDatetime": "2019-05-13T14:01:27.000Z",
+                "checksum": "7b6943bbb3fe93d4d33d18e436cc863a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/b8/jwb_E_201905_09_r480P.mp4",
+            "checksum": "ca8112e3907907b5493d75b0a406ae63",
+            "filesize": 31983887,
+            "modifiedDatetime": "2019-05-13T14:01:44.000Z",
+            "bitRate": 453.90970854761093,
+            "duration": 550.493,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/8e/jwb_E_201905_09.vtt",
+                "modifiedDatetime": "2019-05-13T14:01:27.000Z",
+                "checksum": "7b6943bbb3fe93d4d33d18e436cc863a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/f8/jwb_E_201905_09_r720P.mp4",
+            "checksum": "3261765f9e6fd44cd2a01f0f9cedb175",
+            "filesize": 64894349,
+            "modifiedDatetime": "2019-05-13T14:01:50.000Z",
+            "bitRate": 920.9692068064443,
+            "duration": 550.493,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/8e/jwb_E_201905_09.vtt",
+                "modifiedDatetime": "2019-05-13T14:01:27.000Z",
+                "checksum": "7b6943bbb3fe93d4d33d18e436cc863a"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201905-9.v",
+        "jwb.201905-9"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/8e/jwb_E_201905_09.vtt",
+    "Name": "pub-jwb_E_201905_9_VIDEO",
+    "Title": "William Turner, Jr.: Finding True Happiness (Matt. 5:8)",
+    "UndatedReferenceTitle": "William Turner, Jr.: Finding True Happiness (Matt. 5:8)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "5d306d5848fd57354cf379e0",
+    "languageAgnosticNaturalKey": "pub-jwb_201908_9_VIDEO",
+    "naturalKey": "pub-jwb_E_201908_9_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2019-08-12T22:30:37.777Z",
+    "duration": 606.912,
+    "durationFormattedHHMM": "10:06",
+    "durationFormattedMinSec": "10m 6s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/17/jwb_E_201908_09_r240P.mp4",
+            "checksum": "6ce08477f1778a4415d410c9a1bd3d4e",
+            "filesize": 7782253,
+            "modifiedDatetime": "2020-11-04T21:06:58.000Z",
+            "bitRate": 100.17737590046004,
+            "duration": 606.912,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.791,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/40/jwb_E_201908_09.vtt",
+                "modifiedDatetime": "2019-08-12T10:15:10.000Z",
+                "checksum": "1dd54c0efccd1230db9fe3a0c1f891bc"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/a2/jwb_E_201908_09_r360P.mp4",
+            "checksum": "b5eb091ce39cce24b2565c22dc2d6dea",
+            "filesize": 16082135,
+            "modifiedDatetime": "2019-08-12T10:14:51.000Z",
+            "bitRate": 207.02784505003433,
+            "duration": 606.883,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/40/jwb_E_201908_09.vtt",
+                "modifiedDatetime": "2019-08-12T10:15:10.000Z",
+                "checksum": "1dd54c0efccd1230db9fe3a0c1f891bc"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/a1/jwb_E_201908_09_r480P.mp4",
+            "checksum": "75841f89aec9ffc35446389a318cb461",
+            "filesize": 27537572,
+            "modifiedDatetime": "2019-08-12T10:14:55.000Z",
+            "bitRate": 354.4954814189885,
+            "duration": 606.883,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/40/jwb_E_201908_09.vtt",
+                "modifiedDatetime": "2019-08-12T10:15:10.000Z",
+                "checksum": "1dd54c0efccd1230db9fe3a0c1f891bc"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/16/jwb_E_201908_09_r720P.mp4",
+            "checksum": "82f934f7e84505f6e50bf96ec40d6c9a",
+            "filesize": 47958798,
+            "modifiedDatetime": "2019-08-12T10:15:00.000Z",
+            "bitRate": 617.3811251509763,
+            "duration": 606.883,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/40/jwb_E_201908_09.vtt",
+                "modifiedDatetime": "2019-08-12T10:15:10.000Z",
+                "checksum": "1dd54c0efccd1230db9fe3a0c1f891bc"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201908-9.v",
+        "jwb.201908-9"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/40/jwb_E_201908_09.vtt",
+    "Name": "pub-jwb_E_201908_9_VIDEO",
+    "Title": "David Schafer: Every Word From Jehovah (Matt. 4:4)",
+    "UndatedReferenceTitle": "David Schafer: Every Word From Jehovah (Matt. 4:4)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "5ffe0766e668ffe0894a6d8a",
+    "languageAgnosticNaturalKey": "pub-jwb_202104_5_VIDEO",
+    "naturalKey": "pub-jwb_E_202104_5_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpBlessings",
+    "description": "",
+    "firstPublished": "2021-04-19T14:12:11.867Z",
+    "duration": 305.707,
+    "durationFormattedHHMM": "5:05",
+    "durationFormattedMinSec": "5m 5s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/92/jwb_E_202104_05_r240P.mp4",
+            "checksum": "b9b32b106a4386898643fad5b9d183da",
+            "filesize": 9714953,
+            "modifiedDatetime": "2021-04-19T05:52:27.000Z",
+            "bitRate": 248.27063270549905,
+            "duration": 305.707,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.762,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/60/jwb_E_202104_05.vtt",
+                "modifiedDatetime": "2021-04-19T05:52:17.000Z",
+                "checksum": "b13563d1ca9959faa141bc91175bd0d2"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/ec/jwb_E_202104_05_r360P.mp4",
+            "checksum": "f23d1b8a3343a6196e093fd850cb6d95",
+            "filesize": 18181704,
+            "modifiedDatetime": "2021-04-19T05:52:24.000Z",
+            "bitRate": 464.6808202641961,
+            "duration": 305.682,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/60/jwb_E_202104_05.vtt",
+                "modifiedDatetime": "2021-04-19T05:52:17.000Z",
+                "checksum": "b13563d1ca9959faa141bc91175bd0d2"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/0c/jwb_E_202104_05_r480P.mp4",
+            "checksum": "f760c5a2a6c335992b2891c6649ecda8",
+            "filesize": 33921909,
+            "modifiedDatetime": "2021-04-19T05:52:21.000Z",
+            "bitRate": 866.9627719738158,
+            "duration": 305.682,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/60/jwb_E_202104_05.vtt",
+                "modifiedDatetime": "2021-04-19T05:52:17.000Z",
+                "checksum": "b13563d1ca9959faa141bc91175bd0d2"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/ab/jwb_E_202104_05_r720P.mp4",
+            "checksum": "7d586614e7c9492b21cbe375404ec9e4",
+            "filesize": 55794515,
+            "modifiedDatetime": "2021-04-19T05:52:18.000Z",
+            "bitRate": 1425.974209922403,
+            "duration": 305.682,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/60/jwb_E_202104_05.vtt",
+                "modifiedDatetime": "2021-04-19T05:52:17.000Z",
+                "checksum": "b13563d1ca9959faa141bc91175bd0d2"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202104-5.v",
+        "jwb.202104-5"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/60/jwb_E_202104_05.vtt",
+    "Name": "pub-jwb_E_202104_5_VIDEO",
+    "Title": "Jehovah Is the Best Teacher",
+    "UndatedReferenceTitle": "Jehovah Is the Best Teacher",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODIntExpBlessings"
+}

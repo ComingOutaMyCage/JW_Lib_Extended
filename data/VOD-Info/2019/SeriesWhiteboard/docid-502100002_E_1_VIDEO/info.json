@@ -1,0 +1,102 @@
+{
+    "guid": "5e0375faaff3a23148318b7c",
+    "languageAgnosticNaturalKey": "docid-502100002_1_VIDEO",
+    "naturalKey": "docid-502100002_E_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesWhiteboard",
+    "description": "",
+    "firstPublished": "2019-12-30T15:28:10.444Z",
+    "duration": 200.32,
+    "durationFormattedHHMM": "3:20",
+    "durationFormattedMinSec": "3m 20s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/db/502100002_E_cnt_1_r240P.mp4",
+            "checksum": "1f668bfb5b991abf3203b17fa6ea6784",
+            "filesize": 4949212,
+            "modifiedDatetime": "2020-11-01T14:30:26.000Z",
+            "bitRate": 193.01976213059106,
+            "duration": 200.32,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/b3/502100002_E_cnt_1.vtt",
+                "modifiedDatetime": "2019-12-30T14:38:02.000Z",
+                "checksum": "05da95fb56ef34c8f673804ca443a8c8"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/ee/502100002_E_cnt_1_r360P.mp4",
+            "checksum": "eea7c142c83fb5f0d6d3efd10812bbc0",
+            "filesize": 7848140,
+            "modifiedDatetime": "2019-12-30T14:38:08.000Z",
+            "bitRate": 306.119503677113,
+            "duration": 200.293,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/b3/502100002_E_cnt_1.vtt",
+                "modifiedDatetime": "2019-12-30T14:38:02.000Z",
+                "checksum": "05da95fb56ef34c8f673804ca443a8c8"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/1a/502100002_E_cnt_1_r480P.mp4",
+            "checksum": "958b840a673a6c728c4cae880eed194e",
+            "filesize": 12709568,
+            "modifiedDatetime": "2019-12-30T14:38:11.000Z",
+            "bitRate": 495.7412390847408,
+            "duration": 200.293,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/b3/502100002_E_cnt_1.vtt",
+                "modifiedDatetime": "2019-12-30T14:38:02.000Z",
+                "checksum": "05da95fb56ef34c8f673804ca443a8c8"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/1b/502100002_E_cnt_1_r720P.mp4",
+            "checksum": "f8c41edfdfc98a77b27f97808a35b6a8",
+            "filesize": 16732487,
+            "modifiedDatetime": "2019-12-30T14:38:14.000Z",
+            "bitRate": 652.656631472393,
+            "duration": 200.293,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/b3/502100002_E_cnt_1.vtt",
+                "modifiedDatetime": "2019-12-30T14:38:02.000Z",
+                "checksum": "05da95fb56ef34c8f673804ca443a8c8"
+            }
+        }
+    ],
+    "printReferences": [
+        "502100002-1.v",
+        "502100002-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/content_assets/b3/502100002_E_cnt_1.vtt",
+    "Name": "docid-502100002_E_1_VIDEO",
+    "Title": "Video Games: Are You Really Winning?",
+    "UndatedReferenceTitle": "Video Games: Are You Really Winning?",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "SeriesWhiteboard"
+}

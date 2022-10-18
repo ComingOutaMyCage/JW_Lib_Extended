@@ -1,0 +1,102 @@
+{
+    "guid": "6104189223708c1b98020a04",
+    "languageAgnosticNaturalKey": "pub-mwbv_202111_3_VIDEO",
+    "naturalKey": "pub-mwbv_E_202111_3_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesOrgAccomplishments",
+    "description": "",
+    "firstPublished": "2021-11-15T13:18:06.737Z",
+    "duration": 326.4,
+    "durationFormattedHHMM": "5:26",
+    "durationFormattedMinSec": "5m 26s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/76/mwbv_E_202111_03_r240P.mp4",
+            "checksum": "c7fb400f994114523bc53e97717c138a",
+            "filesize": 6812338,
+            "modifiedDatetime": "2021-11-15T05:33:30.000Z",
+            "bitRate": 163.0557310814951,
+            "duration": 326.4,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.786,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/3a/mwbv_E_202111_03.vtt",
+                "modifiedDatetime": "2021-11-15T05:33:18.000Z",
+                "checksum": "0b111f3fdbc04eb130e590a2bad31748"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/62/mwbv_E_202111_03_r360P.mp4",
+            "checksum": "2a0bd6dc35e84977f361cf7a2d49081d",
+            "filesize": 12791325,
+            "modifiedDatetime": "2021-11-15T05:33:25.000Z",
+            "bitRate": 306.1939907359461,
+            "duration": 326.369,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/3a/mwbv_E_202111_03.vtt",
+                "modifiedDatetime": "2021-11-15T05:33:18.000Z",
+                "checksum": "0b111f3fdbc04eb130e590a2bad31748"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/50/mwbv_E_202111_03_r480P.mp4",
+            "checksum": "e978d736e6929d88b2e17e14815ad197",
+            "filesize": 22262313,
+            "modifiedDatetime": "2021-11-15T05:33:22.000Z",
+            "bitRate": 532.9069866087159,
+            "duration": 326.369,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/3a/mwbv_E_202111_03.vtt",
+                "modifiedDatetime": "2021-11-15T05:33:18.000Z",
+                "checksum": "0b111f3fdbc04eb130e590a2bad31748"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/e2/mwbv_E_202111_03_r720P.mp4",
+            "checksum": "3125b58d346900eab97d544eeeffa7a1",
+            "filesize": 35218005,
+            "modifiedDatetime": "2021-11-15T05:33:19.000Z",
+            "bitRate": 843.0355335908127,
+            "duration": 326.369,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/3a/mwbv_E_202111_03.vtt",
+                "modifiedDatetime": "2021-11-15T05:33:18.000Z",
+                "checksum": "0b111f3fdbc04eb130e590a2bad31748"
+            }
+        }
+    ],
+    "printReferences": [
+        "mwbv.202111-3.v",
+        "mwbv.202111-3"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/3a/mwbv_E_202111_03.vtt",
+    "Name": "pub-mwbv_E_202111_3_VIDEO",
+    "Title": "Organizational Accomplishments—Preparing a Newsroom Report",
+    "UndatedReferenceTitle": "Organizational Accomplishments—Preparing a Newsroom Report",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "SeriesOrgAccomplishments"
+}

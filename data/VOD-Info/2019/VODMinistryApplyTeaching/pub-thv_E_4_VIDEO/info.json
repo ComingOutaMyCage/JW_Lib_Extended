@@ -1,0 +1,102 @@
+{
+    "guid": "5c658643351dc4182b665388",
+    "languageAgnosticNaturalKey": "pub-thv_4_VIDEO",
+    "naturalKey": "pub-thv_E_4_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODMinistryApplyTeaching",
+    "description": "",
+    "firstPublished": "2019-03-11T13:59:29.952Z",
+    "duration": 305.707,
+    "durationFormattedHHMM": "5:05",
+    "durationFormattedMinSec": "5m 5s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/3c/thv_E_04_r240P.mp4",
+            "checksum": "a41cafa00aeea7174c7bc868cf0d0198",
+            "filesize": 5161455,
+            "modifiedDatetime": "2020-12-06T11:07:47.000Z",
+            "bitRate": 131.9036436440775,
+            "duration": 305.707,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.762,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/b8/thv_E_04.vtt",
+                "modifiedDatetime": "2019-03-11T13:14:03.000Z",
+                "checksum": "ecf5a624b4e023cacc2d519f3239acad"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/09/thv_E_04_r360P.mp4",
+            "checksum": "c217bea06ac5cc7bcdb303851af5ea75",
+            "filesize": 9620003,
+            "modifiedDatetime": "2019-03-11T13:13:47.000Z",
+            "bitRate": 245.86424270156567,
+            "duration": 305.682,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/b8/thv_E_04.vtt",
+                "modifiedDatetime": "2019-03-11T13:14:03.000Z",
+                "checksum": "ecf5a624b4e023cacc2d519f3239acad"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/46/thv_E_04_r480P.mp4",
+            "checksum": "ded3f10d3d39cfd78c44412ab08c15cd",
+            "filesize": 17870791,
+            "modifiedDatetime": "2019-03-11T13:13:51.000Z",
+            "bitRate": 456.73462842921725,
+            "duration": 305.682,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/b8/thv_E_04.vtt",
+                "modifiedDatetime": "2019-03-11T13:14:03.000Z",
+                "checksum": "ecf5a624b4e023cacc2d519f3239acad"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/aa/thv_E_04_r720P.mp4",
+            "checksum": "b96e83286b625143e0c235548c3c42e0",
+            "filesize": 29408992,
+            "modifiedDatetime": "2019-03-11T13:13:56.000Z",
+            "bitRate": 751.6234191087469,
+            "duration": 305.682,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/b8/thv_E_04.vtt",
+                "modifiedDatetime": "2019-03-11T13:14:03.000Z",
+                "checksum": "ecf5a624b4e023cacc2d519f3239acad"
+            }
+        }
+    ],
+    "printReferences": [
+        "thv-4.v",
+        "thv-4"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/b8/thv_E_04.vtt",
+    "Name": "pub-thv_E_4_VIDEO",
+    "Title": "Study 4—Scriptures Properly Introduced",
+    "UndatedReferenceTitle": "Study 4—Scriptures Properly Introduced",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODMinistryApplyTeaching"
+}

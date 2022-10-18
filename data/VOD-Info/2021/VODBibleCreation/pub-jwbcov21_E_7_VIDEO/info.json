@@ -1,0 +1,102 @@
+{
+    "guid": "610c46a823708c1b9845ad2d",
+    "languageAgnosticNaturalKey": "pub-jwbcov21_7_VIDEO",
+    "naturalKey": "pub-jwbcov21_E_7_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODBibleCreation",
+    "description": "",
+    "firstPublished": "2021-09-13T16:20:55.747Z",
+    "duration": 730.838,
+    "durationFormattedHHMM": "12:10",
+    "durationFormattedMinSec": "12m 10s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/4a/jwbcov21_E_07_r240P.mp4",
+            "checksum": "f2fa0466690a7e65e23199fb10c3084b",
+            "filesize": 32142837,
+            "modifiedDatetime": "2021-11-10T13:53:34.000Z",
+            "bitRate": 343.5999688884541,
+            "duration": 730.838,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.833,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/e8/jwbcov21_E_07.vtt",
+                "modifiedDatetime": "2021-09-11T04:18:28.000Z",
+                "checksum": "6d0020482535e58c228f21c384e562c1"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/23/jwbcov21_E_07_r360P.mp4",
+            "checksum": "5609022163d7dcfe4837924cecba12c0",
+            "filesize": 65863221,
+            "modifiedDatetime": "2021-11-10T13:53:41.000Z",
+            "bitRate": 704.0857317686418,
+            "duration": 730.815,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/e8/jwbcov21_E_07.vtt",
+                "modifiedDatetime": "2021-09-11T04:18:28.000Z",
+                "checksum": "6d0020482535e58c228f21c384e562c1"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/26/jwbcov21_E_07_r480P.mp4",
+            "checksum": "a1d8099b6bf44d7cb7ecc295e874c322",
+            "filesize": 138959086,
+            "modifiedDatetime": "2021-11-10T13:53:49.000Z",
+            "bitRate": 1485.4892953415022,
+            "duration": 730.815,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/e8/jwbcov21_E_07.vtt",
+                "modifiedDatetime": "2021-09-11T04:18:28.000Z",
+                "checksum": "6d0020482535e58c228f21c384e562c1"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/b2/jwbcov21_E_07_r720P.mp4",
+            "checksum": "55ff4748c4844c5697f15d242c9002ee",
+            "filesize": 265228372,
+            "modifiedDatetime": "2021-11-10T13:53:59.000Z",
+            "bitRate": 2835.323106736999,
+            "duration": 730.815,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/e8/jwbcov21_E_07.vtt",
+                "modifiedDatetime": "2021-09-11T04:18:28.000Z",
+                "checksum": "6d0020482535e58c228f21c384e562c1"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwbcov21-7.v",
+        "jwbcov21-7"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/e8/jwbcov21_E_07.vtt",
+    "Name": "pub-jwbcov21_E_7_VIDEO",
+    "Title": "Use Creation to Build Your Faith",
+    "UndatedReferenceTitle": "Use Creation to Build Your Faith",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODBibleCreation"
+}

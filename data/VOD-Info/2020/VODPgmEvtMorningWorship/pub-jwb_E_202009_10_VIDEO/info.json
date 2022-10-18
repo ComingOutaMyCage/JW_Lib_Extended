@@ -1,0 +1,102 @@
+{
+    "guid": "5ee77cbdaf341cff13f0f4df",
+    "languageAgnosticNaturalKey": "pub-jwb_202009_10_VIDEO",
+    "naturalKey": "pub-jwb_E_202009_10_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2020-09-21T19:12:10.492Z",
+    "duration": 633.11,
+    "durationFormattedHHMM": "10:33",
+    "durationFormattedMinSec": "10m 33s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/ca/jwb_E_202009_10_r240P.mp4",
+            "checksum": "acc61df939512d974444f96e6dcdbd73",
+            "filesize": 8294573,
+            "modifiedDatetime": "2020-10-18T03:06:49.000Z",
+            "bitRate": 102.35401677828497,
+            "duration": 633.11,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/23/jwb_E_202009_10.vtt",
+                "modifiedDatetime": "2020-09-21T14:09:19.000Z",
+                "checksum": "3a61b7ae348c899c25fc260d7c0febab"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/4b/jwb_E_202009_10_r360P.mp4",
+            "checksum": "9edf4a72a934582a747bef86aeac8a7b",
+            "filesize": 17764776,
+            "modifiedDatetime": "2020-09-21T14:09:09.000Z",
+            "bitRate": 219.22693720817088,
+            "duration": 633.076,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/23/jwb_E_202009_10.vtt",
+                "modifiedDatetime": "2020-09-21T14:09:19.000Z",
+                "checksum": "3a61b7ae348c899c25fc260d7c0febab"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/12/jwb_E_202009_10_r480P.mp4",
+            "checksum": "cbc5aa7293fa9ee71c3827046b86c88f",
+            "filesize": 31685852,
+            "modifiedDatetime": "2020-09-21T14:09:12.000Z",
+            "bitRate": 391.020539003216,
+            "duration": 633.076,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/23/jwb_E_202009_10.vtt",
+                "modifiedDatetime": "2020-09-21T14:09:19.000Z",
+                "checksum": "3a61b7ae348c899c25fc260d7c0febab"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/d4/jwb_E_202009_10_r720P.mp4",
+            "checksum": "df9e92c1b0320fa6a4a7e31a0f0a26e5",
+            "filesize": 63157678,
+            "modifiedDatetime": "2020-09-21T14:09:14.000Z",
+            "bitRate": 779.3998814913217,
+            "duration": 633.076,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/23/jwb_E_202009_10.vtt",
+                "modifiedDatetime": "2020-09-21T14:09:19.000Z",
+                "checksum": "3a61b7ae348c899c25fc260d7c0febab"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202009-10.v",
+        "jwb.202009-10"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/23/jwb_E_202009_10.vtt",
+    "Name": "pub-jwb_E_202009_10_VIDEO",
+    "Title": "Mark Sanderson: “Wisdom Is With the Modest Ones” (Prov. 11:2)",
+    "UndatedReferenceTitle": "Mark Sanderson: “Wisdom Is With the Modest Ones” (Prov. 11:2)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

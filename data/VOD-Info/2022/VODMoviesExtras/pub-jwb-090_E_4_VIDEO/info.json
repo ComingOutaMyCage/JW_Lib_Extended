@@ -1,0 +1,102 @@
+{
+    "guid": "61eb1b9357c50ea1eb093cf2",
+    "languageAgnosticNaturalKey": "pub-jwb-090_4_VIDEO",
+    "naturalKey": "pub-jwb-090_E_4_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODMoviesExtras",
+    "description": "",
+    "firstPublished": "2022-09-19T13:45:00.336Z",
+    "duration": 329.366,
+    "durationFormattedHHMM": "5:29",
+    "durationFormattedMinSec": "5m 29s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/99/jwb-090_E_04_r240P.mp4",
+            "checksum": "22656696b6bfffd083a96d14f36a2406",
+            "filesize": 8950182,
+            "modifiedDatetime": "2022-09-19T04:22:35.000Z",
+            "bitRate": 212.2966452973288,
+            "duration": 329.366,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.952,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/b3/jwb-090_E_04.vtt",
+                "modifiedDatetime": "2022-09-19T04:22:24.000Z",
+                "checksum": "a1507615aa1cda297aacfa24bfcdc845"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/e4/jwb-090_E_04_r360P.mp4",
+            "checksum": "6aece663a8c94ec8347d4bb4be1beb8c",
+            "filesize": 16607126,
+            "modifiedDatetime": "2022-09-19T04:22:33.000Z",
+            "bitRate": 393.9609870798288,
+            "duration": 329.33,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/b3/jwb-090_E_04.vtt",
+                "modifiedDatetime": "2022-09-19T04:22:24.000Z",
+                "checksum": "a1507615aa1cda297aacfa24bfcdc845"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/72/jwb-090_E_04_r480P.mp4",
+            "checksum": "25993b9ac823d9dd0a85b45836ac7839",
+            "filesize": 31098791,
+            "modifiedDatetime": "2022-09-19T04:22:27.000Z",
+            "bitRate": 737.7381492348101,
+            "duration": 329.33,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/b3/jwb-090_E_04.vtt",
+                "modifiedDatetime": "2022-09-19T04:22:24.000Z",
+                "checksum": "a1507615aa1cda297aacfa24bfcdc845"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/52/jwb-090_E_04_r720P.mp4",
+            "checksum": "3ed5685fe659deb409a8ce3848bb1c67",
+            "filesize": 51744504,
+            "modifiedDatetime": "2022-09-19T04:22:25.000Z",
+            "bitRate": 1227.5041371876234,
+            "duration": 329.33,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/b3/jwb-090_E_04.vtt",
+                "modifiedDatetime": "2022-09-19T04:22:24.000Z",
+                "checksum": "a1507615aa1cda297aacfa24bfcdc845"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-090-4.v",
+        "jwb-090-4"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/b3/jwb-090_E_04.vtt",
+    "Name": "pub-jwb-090_E_4_VIDEO",
+    "Title": "Behind the Scenes of Daniel: A Lifetime of Faith",
+    "UndatedReferenceTitle": "Behind the Scenes of Daniel: A Lifetime of Faith",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODMoviesExtras"
+}

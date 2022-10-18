@@ -1,0 +1,102 @@
+{
+    "guid": "5c59af80351dc4182b663f40",
+    "languageAgnosticNaturalKey": "docid-702019100_1_VIDEO",
+    "naturalKey": "docid-702019100_E_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODOrgBloodlessMedicine",
+    "description": "",
+    "firstPublished": "2019-02-08T14:59:13.554Z",
+    "duration": 278.848,
+    "durationFormattedHHMM": "4:38",
+    "durationFormattedMinSec": "4m 38s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/81/702019100_E_cnt_1_r240P.mp4",
+            "checksum": "c6f0103c9556ab134d2eb34107fed418",
+            "filesize": 5231354,
+            "modifiedDatetime": "2020-11-01T16:04:20.000Z",
+            "bitRate": 146.56713738309043,
+            "duration": 278.848,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.833,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/dc/702019100_E_cnt_1.vtt",
+                "modifiedDatetime": "2019-02-13T14:46:28.000Z",
+                "checksum": "90dc282612c09a9241a0bb30d94467ed"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/78/702019100_E_cnt_1_r360P.mp4",
+            "checksum": "0323ea65ed03402510d65097fa4a431f",
+            "filesize": 9917435,
+            "modifiedDatetime": "2019-02-13T14:46:23.000Z",
+            "bitRate": 277.88324069657347,
+            "duration": 278.822,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/dc/702019100_E_cnt_1.vtt",
+                "modifiedDatetime": "2019-02-13T14:46:28.000Z",
+                "checksum": "90dc282612c09a9241a0bb30d94467ed"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/72/702019100_E_cnt_1_r480P.mp4",
+            "checksum": "e6f4647dbf8b6134a559a8a336ea36a3",
+            "filesize": 17434785,
+            "modifiedDatetime": "2019-02-13T14:46:34.000Z",
+            "bitRate": 488.5168954117681,
+            "duration": 278.822,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/dc/702019100_E_cnt_1.vtt",
+                "modifiedDatetime": "2019-02-13T14:46:28.000Z",
+                "checksum": "90dc282612c09a9241a0bb30d94467ed"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/a0/702019100_E_cnt_1_r720P.mp4",
+            "checksum": "17350618fd0418282a7dc47dd2ccc617",
+            "filesize": 28509956,
+            "modifiedDatetime": "2019-02-13T14:46:26.000Z",
+            "bitRate": 798.8395149952299,
+            "duration": 278.822,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/dc/702019100_E_cnt_1.vtt",
+                "modifiedDatetime": "2019-02-13T14:46:28.000Z",
+                "checksum": "90dc282612c09a9241a0bb30d94467ed"
+            }
+        }
+    ],
+    "printReferences": [
+        "702019100-1.v",
+        "702019100-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/content_assets/dc/702019100_E_cnt_1.vtt",
+    "Name": "docid-702019100_E_1_VIDEO",
+    "Title": "Five Canadian Teaching Physicians Comment on Advances in Non-Blood Medical Treatment",
+    "UndatedReferenceTitle": "Five Canadian Teaching Physicians Comment on Advances in Non-Blood Medical Treatment",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODOrgBloodlessMedicine"
+}

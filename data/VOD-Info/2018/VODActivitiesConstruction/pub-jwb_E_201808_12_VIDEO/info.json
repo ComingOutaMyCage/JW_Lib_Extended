@@ -1,0 +1,102 @@
+{
+    "guid": "5b58e02dc1963ea3306e03fa",
+    "languageAgnosticNaturalKey": "pub-jwb_201808_12_VIDEO",
+    "naturalKey": "pub-jwb_E_201808_12_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODActivitiesConstruction",
+    "description": "",
+    "firstPublished": "2018-08-27T14:12:24.656Z",
+    "duration": 296.619,
+    "durationFormattedHHMM": "4:56",
+    "durationFormattedMinSec": "4m 56s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/ee/jwb_E_201808_12_r240P.mp4",
+            "checksum": "7ef91f0bf19c1c06c29fea684baef659",
+            "filesize": 10908203,
+            "modifiedDatetime": "2020-11-23T20:21:41.000Z",
+            "bitRate": 287.3057219446495,
+            "duration": 296.619,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.692,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f7/jwb_E_201808_12.vtt",
+                "modifiedDatetime": "2018-08-27T13:57:25.000Z",
+                "checksum": "84e78479e454a2f69fdc80006ff79036"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/56/jwb_E_201808_12_r360P.mp4",
+            "checksum": "784c1bae2e6f0af40dc938cf6900879f",
+            "filesize": 20453474,
+            "modifiedDatetime": "2018-08-27T13:57:28.000Z",
+            "bitRate": 538.7683482023946,
+            "duration": 296.589,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f7/jwb_E_201808_12.vtt",
+                "modifiedDatetime": "2018-08-27T13:57:25.000Z",
+                "checksum": "84e78479e454a2f69fdc80006ff79036"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/72/jwb_E_201808_12_r480P.mp4",
+            "checksum": "3f52bb528ac438f049d68520617364c2",
+            "filesize": 38771482,
+            "modifiedDatetime": "2018-08-27T13:57:30.000Z",
+            "bitRate": 1021.286032607413,
+            "duration": 296.589,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f7/jwb_E_201808_12.vtt",
+                "modifiedDatetime": "2018-08-27T13:57:25.000Z",
+                "checksum": "84e78479e454a2f69fdc80006ff79036"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/5e/jwb_E_201808_12_r720P.mp4",
+            "checksum": "b5c807088bf51dda8ec8a501359e5832",
+            "filesize": 66996860,
+            "modifiedDatetime": "2018-08-27T13:57:33.000Z",
+            "bitRate": 1764.7753920408377,
+            "duration": 296.589,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f7/jwb_E_201808_12.vtt",
+                "modifiedDatetime": "2018-08-27T13:57:25.000Z",
+                "checksum": "84e78479e454a2f69fdc80006ff79036"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201808-12.v",
+        "jwb.201808-12"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/f7/jwb_E_201808_12.vtt",
+    "Name": "pub-jwb_E_201808_12_VIDEO",
+    "Title": "Working With Jehovah",
+    "UndatedReferenceTitle": "Working With Jehovah",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "VODActivitiesConstruction"
+}

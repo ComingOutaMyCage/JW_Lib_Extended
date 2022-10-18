@@ -1,0 +1,102 @@
+{
+    "guid": "5b3a8910928a076623efbe8d",
+    "languageAgnosticNaturalKey": "docid-502018517_1_VIDEO",
+    "naturalKey": "docid-502018517_E_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpEndurance",
+    "description": "",
+    "firstPublished": "2018-08-20T14:51:51.706Z",
+    "duration": 363.435,
+    "durationFormattedHHMM": "6:03",
+    "durationFormattedMinSec": "6m 3s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/7f/502018517_E_cnt_01_r240P.mp4",
+            "checksum": "d796c607c40087359979736b55264993",
+            "filesize": 11422035,
+            "modifiedDatetime": "2020-11-01T12:54:00.000Z",
+            "bitRate": 245.53124613066987,
+            "duration": 363.435,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.786,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/6f/502018517_E_cnt_01_r240P.vtt",
+                "modifiedDatetime": "2018-08-20T14:49:52.000Z",
+                "checksum": "27558ba5f72e8ac61a40ae85023468d0"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/9c/502018517_E_cnt_01_r360P.mp4",
+            "checksum": "36fd0d6d34fb19e94708775139febe99",
+            "filesize": 20075430,
+            "modifiedDatetime": "2018-08-20T14:49:53.000Z",
+            "bitRate": 431.5814732695663,
+            "duration": 363.406,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/b9/502018517_E_cnt_01_r360P.vtt",
+                "modifiedDatetime": "2018-08-20T14:49:56.000Z",
+                "checksum": "27558ba5f72e8ac61a40ae85023468d0"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/d2/502018517_E_cnt_01_r480P.mp4",
+            "checksum": "7c98de68bfb47cd0cd21a42ca8d3dff4",
+            "filesize": 39385869,
+            "modifiedDatetime": "2018-08-20T14:49:57.000Z",
+            "bitRate": 846.7171746270012,
+            "duration": 363.406,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/0c/502018517_E_cnt_01_r480P.vtt",
+                "modifiedDatetime": "2018-08-20T14:50:00.000Z",
+                "checksum": "27558ba5f72e8ac61a40ae85023468d0"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/10/502018517_E_cnt_01_r720P.mp4",
+            "checksum": "2a0230de87448652aab784556cc4357d",
+            "filesize": 71307588,
+            "modifiedDatetime": "2018-08-20T14:50:01.000Z",
+            "bitRate": 1532.9700974942625,
+            "duration": 363.406,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/52/502018517_E_cnt_01_r720P.vtt",
+                "modifiedDatetime": "2018-08-20T14:50:04.000Z",
+                "checksum": "27558ba5f72e8ac61a40ae85023468d0"
+            }
+        }
+    ],
+    "printReferences": [
+        "502018517-1.v",
+        "502018517-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/content_assets/6f/502018517_E_cnt_01_r240P.vtt",
+    "Name": "docid-502018517_E_1_VIDEO",
+    "Title": "A Castle Where Faith Was Tested",
+    "UndatedReferenceTitle": "A Castle Where Faith Was Tested",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "VODIntExpEndurance"
+}

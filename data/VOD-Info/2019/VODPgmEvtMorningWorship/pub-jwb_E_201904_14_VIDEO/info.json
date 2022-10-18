@@ -1,0 +1,102 @@
+{
+    "guid": "5ca3aa66db0b288e409df107",
+    "languageAgnosticNaturalKey": "pub-jwb_201904_14_VIDEO",
+    "naturalKey": "pub-jwb_E_201904_14_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2019-04-15T21:29:37.087Z",
+    "duration": 1241.643,
+    "durationFormattedHHMM": "20:41",
+    "durationFormattedMinSec": "20m 41s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/b5/jwb_E_201904_14_r240P.mp4",
+            "checksum": "a382fc6ab54dfd890bb36368ebe48754",
+            "filesize": 21097139,
+            "modifiedDatetime": "2020-11-14T03:21:33.000Z",
+            "bitRate": 132.74459602115905,
+            "duration": 1241.643,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.529,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ce/jwb_E_201904_14.vtt",
+                "modifiedDatetime": "2019-04-15T18:55:23.000Z",
+                "checksum": "0eb7b89bee5417ba19231a4eb85b3e30"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/0a/jwb_E_201904_14_r360P.mp4",
+            "checksum": "627a36895b9a0ca773c0ac6702d14004",
+            "filesize": 45754169,
+            "modifiedDatetime": "2019-04-15T18:47:57.000Z",
+            "bitRate": 287.89429051994296,
+            "duration": 1241.617,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ce/jwb_E_201904_14.vtt",
+                "modifiedDatetime": "2019-04-15T18:55:23.000Z",
+                "checksum": "0eb7b89bee5417ba19231a4eb85b3e30"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/00/jwb_E_201904_14_r480P.mp4",
+            "checksum": "b2be75aab4cfcba9603d696df82b7f43",
+            "filesize": 83366840,
+            "modifiedDatetime": "2019-04-15T18:31:28.000Z",
+            "bitRate": 524.5606636345991,
+            "duration": 1241.617,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ce/jwb_E_201904_14.vtt",
+                "modifiedDatetime": "2019-04-15T18:55:23.000Z",
+                "checksum": "0eb7b89bee5417ba19231a4eb85b3e30"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/d9/jwb_E_201904_14_r720P.mp4",
+            "checksum": "41a377dfef04c9baeb23fbe0982deb25",
+            "filesize": 147608972,
+            "modifiedDatetime": "2019-04-15T19:12:51.000Z",
+            "bitRate": 928.7848779051833,
+            "duration": 1241.617,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ce/jwb_E_201904_14.vtt",
+                "modifiedDatetime": "2019-04-15T18:55:23.000Z",
+                "checksum": "0eb7b89bee5417ba19231a4eb85b3e30"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201904-14.v",
+        "jwb.201904-14"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/ce/jwb_E_201904_14.vtt",
+    "Name": "pub-jwb_E_201904_14_VIDEO",
+    "Title": "David H. Splane: Inviting All to the Memorial (Ps. 118:22)",
+    "UndatedReferenceTitle": "David H. Splane: Inviting All to the Memorial (Ps. 118:22)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

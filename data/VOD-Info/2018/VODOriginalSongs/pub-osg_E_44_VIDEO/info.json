@@ -1,0 +1,102 @@
+{
+    "guid": "5b351fe5928a076623efb90c",
+    "languageAgnosticNaturalKey": "pub-osg_44_VIDEO",
+    "naturalKey": "pub-osg_E_44_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODOriginalSongs",
+    "description": "",
+    "firstPublished": "2018-08-20T13:48:19.530Z",
+    "duration": 223.126,
+    "durationFormattedHHMM": "3:43",
+    "durationFormattedMinSec": "3m 43s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/25/osg_E_044_r240P.mp4",
+            "checksum": "f8a35bb4d9e0aa5f50948b76ef169474",
+            "filesize": 10836340,
+            "modifiedDatetime": "2020-12-03T18:38:01.000Z",
+            "bitRate": 379.42196897716985,
+            "duration": 223.126,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.412,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/b8/osg_E_044_r240P.vtt",
+                "modifiedDatetime": "2019-01-13T05:26:58.000Z",
+                "checksum": "cd54d9e7b789c4ccdacc9a6fcfc10bb5"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/7b/osg_E_044_r360P.mp4",
+            "checksum": "da002efb952951ebc897aa994e79cdab",
+            "filesize": 20058716,
+            "modifiedDatetime": "2019-01-13T05:27:01.000Z",
+            "bitRate": 702.417844768466,
+            "duration": 223.099,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/4e/osg_E_044_r360P.vtt",
+                "modifiedDatetime": "2019-01-13T05:27:03.000Z",
+                "checksum": "cd54d9e7b789c4ccdacc9a6fcfc10bb5"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/6e/osg_E_044_r480P.mp4",
+            "checksum": "b93266fb1f57209d849d0eb731daf560",
+            "filesize": 38444008,
+            "modifiedDatetime": "2019-01-13T05:27:13.000Z",
+            "bitRate": 1346.2355837542975,
+            "duration": 223.099,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/3d/osg_E_044_r480P.vtt",
+                "modifiedDatetime": "2019-01-13T05:27:14.000Z",
+                "checksum": "cd54d9e7b789c4ccdacc9a6fcfc10bb5"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/b9/osg_E_044_r720P.mp4",
+            "checksum": "f29d4554fb2b9fda0e33cbf62f4a979b",
+            "filesize": 65546926,
+            "modifiedDatetime": "2019-01-13T05:27:24.000Z",
+            "bitRate": 2295.327900954285,
+            "duration": 223.099,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/cf/osg_E_044_r720P.vtt",
+                "modifiedDatetime": "2019-01-13T05:27:27.000Z",
+                "checksum": "cd54d9e7b789c4ccdacc9a6fcfc10bb5"
+            }
+        }
+    ],
+    "printReferences": [
+        "osg-44.v",
+        "osg-44"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/b8/osg_E_044_r240P.vtt",
+    "Name": "pub-osg_E_44_VIDEO",
+    "Title": "Brotherly Love",
+    "UndatedReferenceTitle": "Brotherly Love",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "VODOriginalSongs"
+}

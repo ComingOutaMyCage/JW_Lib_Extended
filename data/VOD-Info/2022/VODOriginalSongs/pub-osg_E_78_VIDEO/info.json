@@ -1,0 +1,102 @@
+{
+    "guid": "620d47fb57c50ea1eb377d94",
+    "languageAgnosticNaturalKey": "pub-osg_78_VIDEO",
+    "naturalKey": "pub-osg_E_78_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODOriginalSongs",
+    "description": "",
+    "firstPublished": "2022-09-19T13:45:20.600Z",
+    "duration": 273.856,
+    "durationFormattedHHMM": "4:33",
+    "durationFormattedMinSec": "4m 33s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/76/osg_E_078_r240P.mp4",
+            "checksum": "716a66044e3868ac410b890c5f59e7e1",
+            "filesize": 6855247,
+            "modifiedDatetime": "2022-09-19T04:06:26.000Z",
+            "bitRate": 195.56488514949464,
+            "duration": 273.856,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.669,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/80/osg_E_078.vtt",
+                "modifiedDatetime": "2022-09-19T04:05:35.000Z",
+                "checksum": "d3b07ea20a69843d2c9afdd728e92b8d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/e9/osg_E_078_r360P.mp4",
+            "checksum": "df0b965ba1ea72e8e91049d2c5e437e5",
+            "filesize": 12222884,
+            "modifiedDatetime": "2022-09-19T04:06:24.000Z",
+            "bitRate": 348.74124415211617,
+            "duration": 273.817,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/80/osg_E_078.vtt",
+                "modifiedDatetime": "2022-09-19T04:05:35.000Z",
+                "checksum": "d3b07ea20a69843d2c9afdd728e92b8d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/76/osg_E_078_r480P.mp4",
+            "checksum": "546287fc741e355a8293359c8bb0dd0b",
+            "filesize": 21709924,
+            "modifiedDatetime": "2022-09-19T04:06:17.000Z",
+            "bitRate": 619.4238533400045,
+            "duration": 273.817,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/80/osg_E_078.vtt",
+                "modifiedDatetime": "2022-09-19T04:05:35.000Z",
+                "checksum": "d3b07ea20a69843d2c9afdd728e92b8d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/03/osg_E_078_r720P.mp4",
+            "checksum": "b902bc07c211d7a209188823deb05217",
+            "filesize": 35061143,
+            "modifiedDatetime": "2022-09-19T04:06:10.000Z",
+            "bitRate": 1000.3585595032448,
+            "duration": 273.817,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/80/osg_E_078.vtt",
+                "modifiedDatetime": "2022-09-19T04:05:35.000Z",
+                "checksum": "d3b07ea20a69843d2c9afdd728e92b8d"
+            }
+        }
+    ],
+    "printReferences": [
+        "osg-78.v",
+        "osg-78"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/80/osg_E_078.vtt",
+    "Name": "pub-osg_E_78_VIDEO",
+    "Title": "To Whom Could I Go Away?",
+    "UndatedReferenceTitle": "To Whom Could I Go Away?",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODOriginalSongs"
+}

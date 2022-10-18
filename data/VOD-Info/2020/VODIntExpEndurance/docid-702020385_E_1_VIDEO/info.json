@@ -1,0 +1,102 @@
+{
+    "guid": "5f6282430ca056895e3b57ae",
+    "languageAgnosticNaturalKey": "docid-702020385_1_VIDEO",
+    "naturalKey": "docid-702020385_E_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpEndurance",
+    "description": "",
+    "firstPublished": "2020-09-18T13:51:24.347Z",
+    "duration": 264.171,
+    "durationFormattedHHMM": "4:24",
+    "durationFormattedMinSec": "4m 24s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/e3/702020385_E_cnt_1_r240P.mp4",
+            "checksum": "c774f30db8d7fed415e561f19971144b",
+            "filesize": 8263355,
+            "modifiedDatetime": "2020-11-01T19:44:39.000Z",
+            "bitRate": 244.37754688251172,
+            "duration": 264.171,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.645,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/00/702020385_E_cnt_1.vtt",
+                "modifiedDatetime": "2020-10-08T16:02:08.000Z",
+                "checksum": "ce67e7a60a274e29b9c232b78ba959aa"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/33/702020385_E_cnt_1_r360P.mp4",
+            "checksum": "bb6002f1298d2ec9c479d4ac43f2123f",
+            "filesize": 15535042,
+            "modifiedDatetime": "2020-10-08T16:02:21.000Z",
+            "bitRate": 459.4817733966836,
+            "duration": 264.14,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/00/702020385_E_cnt_1.vtt",
+                "modifiedDatetime": "2020-10-08T16:02:08.000Z",
+                "checksum": "ce67e7a60a274e29b9c232b78ba959aa"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/4c/702020385_E_cnt_1_r480P.mp4",
+            "checksum": "9a7da74deea906a556c2ab85db3a0670",
+            "filesize": 28968919,
+            "modifiedDatetime": "2020-10-08T16:02:27.000Z",
+            "bitRate": 856.8171412413872,
+            "duration": 264.14,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/00/702020385_E_cnt_1.vtt",
+                "modifiedDatetime": "2020-10-08T16:02:08.000Z",
+                "checksum": "ce67e7a60a274e29b9c232b78ba959aa"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/a5/702020385_E_cnt_1_r720P.mp4",
+            "checksum": "23f021817c4f9e2825a47db681128820",
+            "filesize": 47917065,
+            "modifiedDatetime": "2020-10-08T16:02:36.000Z",
+            "bitRate": 1417.2486950575453,
+            "duration": 264.14,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/00/702020385_E_cnt_1.vtt",
+                "modifiedDatetime": "2020-10-08T16:02:08.000Z",
+                "checksum": "ce67e7a60a274e29b9c232b78ba959aa"
+            }
+        }
+    ],
+    "printReferences": [
+        "702020385-1.v",
+        "702020385-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/content_assets/00/702020385_E_cnt_1.vtt",
+    "Name": "docid-702020385_E_1_VIDEO",
+    "Title": "Interview With Brother Andrey Stupnikov",
+    "UndatedReferenceTitle": "Interview With Brother Andrey Stupnikov",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODIntExpEndurance"
+}

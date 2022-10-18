@@ -1,0 +1,102 @@
+{
+    "guid": "60f83e6e23708c1b981e54cb",
+    "languageAgnosticNaturalKey": "pub-mwbv_202109_3_VIDEO",
+    "naturalKey": "pub-mwbv_E_202109_3_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesOrgAccomplishments",
+    "description": "",
+    "firstPublished": "2021-09-01T18:19:52.215Z",
+    "duration": 331.606,
+    "durationFormattedHHMM": "5:31",
+    "durationFormattedMinSec": "5m 31s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/6c/mwbv_E_202109_03_r240P.mp4",
+            "checksum": "708f91cc2da86145f207d8b91b135c99",
+            "filesize": 5595993,
+            "modifiedDatetime": "2021-09-01T18:02:40.000Z",
+            "bitRate": 131.8392770712834,
+            "duration": 331.606,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.692,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/cc/mwbv_E_202109_03.vtt",
+                "modifiedDatetime": "2021-09-01T18:02:28.000Z",
+                "checksum": "95ad4852da4a57d1b8f78dc92f6a36de"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/c9/mwbv_E_202109_03_r360P.mp4",
+            "checksum": "01d84f263162911cb6e75465979173f0",
+            "filesize": 10887680,
+            "modifiedDatetime": "2021-09-01T18:02:36.000Z",
+            "bitRate": 256.5270233998727,
+            "duration": 331.583,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/cc/mwbv_E_202109_03.vtt",
+                "modifiedDatetime": "2021-09-01T18:02:28.000Z",
+                "checksum": "95ad4852da4a57d1b8f78dc92f6a36de"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/99/mwbv_E_202109_03_r480P.mp4",
+            "checksum": "0434e3b8050c4b805a1f70fc81ce0fa4",
+            "filesize": 17863475,
+            "modifiedDatetime": "2021-09-01T18:02:33.000Z",
+            "bitRate": 420.88526383288644,
+            "duration": 331.583,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/cc/mwbv_E_202109_03.vtt",
+                "modifiedDatetime": "2021-09-01T18:02:28.000Z",
+                "checksum": "95ad4852da4a57d1b8f78dc92f6a36de"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/a2/mwbv_E_202109_03_r720P.mp4",
+            "checksum": "c324c23b69d0a9715cd0f7c12388a25d",
+            "filesize": 26474623,
+            "modifiedDatetime": "2021-09-01T18:02:29.000Z",
+            "bitRate": 623.7744160210264,
+            "duration": 331.583,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/cc/mwbv_E_202109_03.vtt",
+                "modifiedDatetime": "2021-09-01T18:02:28.000Z",
+                "checksum": "95ad4852da4a57d1b8f78dc92f6a36de"
+            }
+        }
+    ],
+    "printReferences": [
+        "mwbv.202109-3.v",
+        "mwbv.202109-3"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/cc/mwbv_E_202109_03.vtt",
+    "Name": "pub-mwbv_E_202109_3_VIDEO",
+    "Title": "Organizational Accomplishments—Tips for Using JW Library",
+    "UndatedReferenceTitle": "Organizational Accomplishments—Tips for Using JW Library",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "SeriesOrgAccomplishments"
+}

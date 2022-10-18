@@ -1,0 +1,102 @@
+{
+    "guid": "5aeb1f4ad2aa9cc349cac691",
+    "languageAgnosticNaturalKey": "pub-pkon_10_VIDEO",
+    "naturalKey": "pub-pkon_E_10_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBJFSongs",
+    "description": "",
+    "firstPublished": "2018-06-04T14:52:15.745Z",
+    "duration": 78.166,
+    "durationFormattedHHMM": "1:18",
+    "durationFormattedMinSec": "1m 18s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/04/pkon_E_010_r240P.mp4",
+            "checksum": "b7a3e9c3e5d8231386ee790fe028fdff",
+            "filesize": 2112495,
+            "modifiedDatetime": "2021-09-17T15:00:35.000Z",
+            "bitRate": 211.13869441317198,
+            "duration": 78.166,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.631,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/81/pkon_E_010.vtt",
+                "modifiedDatetime": "2021-09-17T15:00:28.000Z",
+                "checksum": "b569304a06743eaaf58e0577c866c29b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/b7/pkon_E_010_r360P.mp4",
+            "checksum": "82ae24d47e9594df20411fc4e68712ff",
+            "filesize": 3292418,
+            "modifiedDatetime": "2021-09-17T15:00:37.000Z",
+            "bitRate": 329.23758575890224,
+            "duration": 78.126,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/81/pkon_E_010.vtt",
+                "modifiedDatetime": "2021-09-17T15:00:28.000Z",
+                "checksum": "b569304a06743eaaf58e0577c866c29b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/b6/pkon_E_010_r480P.mp4",
+            "checksum": "00355c2a9edefd312c63acf1828eee98",
+            "filesize": 5726290,
+            "modifiedDatetime": "2021-09-17T15:00:39.000Z",
+            "bitRate": 572.6216704426183,
+            "duration": 78.126,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/81/pkon_E_010.vtt",
+                "modifiedDatetime": "2021-09-17T15:00:28.000Z",
+                "checksum": "b569304a06743eaaf58e0577c866c29b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/15/pkon_E_010_r720P.mp4",
+            "checksum": "52558d4bd836ef588aae3df964e0af4c",
+            "filesize": 10105152,
+            "modifiedDatetime": "2021-09-17T15:00:41.000Z",
+            "bitRate": 1010.5022655710006,
+            "duration": 78.126,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/81/pkon_E_010.vtt",
+                "modifiedDatetime": "2021-09-17T15:00:28.000Z",
+                "checksum": "b569304a06743eaaf58e0577c866c29b"
+            }
+        }
+    ],
+    "printReferences": [
+        "pkon-10.v",
+        "pkon-10"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/81/pkon_E_010.vtt",
+    "Name": "pub-pkon_E_10_VIDEO",
+    "Title": "The Next Big Things for Me",
+    "UndatedReferenceTitle": "The Next Big Things for Me",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "SeriesBJFSongs"
+}

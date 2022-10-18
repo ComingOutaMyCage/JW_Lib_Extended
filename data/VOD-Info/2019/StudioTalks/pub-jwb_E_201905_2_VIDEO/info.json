@@ -1,0 +1,102 @@
+{
+    "guid": "5cc736f9db0b288e409e1f83",
+    "languageAgnosticNaturalKey": "pub-jwb_201905_2_VIDEO",
+    "naturalKey": "pub-jwb_E_201905_2_VIDEO",
+    "type": "video",
+    "primaryCategory": "StudioTalks",
+    "description": "",
+    "firstPublished": "2019-05-20T20:50:22.617Z",
+    "duration": 1021.099,
+    "durationFormattedHHMM": "17:01",
+    "durationFormattedMinSec": "17m 1s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/0d/jwb_E_201905_02_r240P.mp4",
+            "checksum": "0ff2609efbdfa9b04c6309ae2ecf1dda",
+            "filesize": 19820657,
+            "modifiedDatetime": "2020-11-03T22:16:04.000Z",
+            "bitRate": 151.64923559077033,
+            "duration": 1021.099,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/e0/jwb_E_201905_02.vtt",
+                "modifiedDatetime": "2019-05-20T13:43:39.000Z",
+                "checksum": "6c732adfd0e11b475f7584af449c2d74"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/4d/jwb_E_201905_02_r360P.mp4",
+            "checksum": "e8efe5a688f150e0077ad73269b0530d",
+            "filesize": 38801521,
+            "modifiedDatetime": "2019-05-20T13:43:54.000Z",
+            "bitRate": 296.8836230599875,
+            "duration": 1021.063,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/e0/jwb_E_201905_02.vtt",
+                "modifiedDatetime": "2019-05-20T13:43:39.000Z",
+                "checksum": "6c732adfd0e11b475f7584af449c2d74"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/3d/jwb_E_201905_02_r480P.mp4",
+            "checksum": "a12faa64345aa17014c9441e7086b3bc",
+            "filesize": 68823025,
+            "modifiedDatetime": "2019-05-20T13:44:16.000Z",
+            "bitRate": 526.5883523470148,
+            "duration": 1021.063,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/e0/jwb_E_201905_02.vtt",
+                "modifiedDatetime": "2019-05-20T13:43:39.000Z",
+                "checksum": "6c732adfd0e11b475f7584af449c2d74"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/b9/jwb_E_201905_02_r720P.mp4",
+            "checksum": "b28baefdac69d2cd01252d1c90e6f6f6",
+            "filesize": 112424470,
+            "modifiedDatetime": "2019-05-20T13:45:55.000Z",
+            "bitRate": 860.1978250852299,
+            "duration": 1021.063,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/e0/jwb_E_201905_02.vtt",
+                "modifiedDatetime": "2019-05-20T13:43:39.000Z",
+                "checksum": "6c732adfd0e11b475f7584af449c2d74"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201905-2.v",
+        "jwb.201905-2"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/e0/jwb_E_201905_02.vtt",
+    "Name": "pub-jwb_E_201905_2_VIDEO",
+    "Title": "Ronald Curzan: Deal With Anxiety One Day at a Time",
+    "UndatedReferenceTitle": "Ronald Curzan: Deal With Anxiety One Day at a Time",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "StudioTalks"
+}

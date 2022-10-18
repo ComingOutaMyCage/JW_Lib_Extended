@@ -1,0 +1,102 @@
+{
+    "guid": "6033fc42aa8dbd024d63adaa",
+    "languageAgnosticNaturalKey": "pub-jwb-082_7_VIDEO",
+    "naturalKey": "pub-jwb-082_E_7_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2021-09-20T16:01:22.402Z",
+    "duration": 590.102,
+    "durationFormattedHHMM": "9:50",
+    "durationFormattedMinSec": "9m 50s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/65/jwb-082_E_07_r240P.mp4",
+            "checksum": "9da5de441434ca64a0085c6a5149b21f",
+            "filesize": 8206571,
+            "modifiedDatetime": "2021-09-20T05:54:14.000Z",
+            "bitRate": 108.64873519747434,
+            "duration": 590.102,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/72/jwb-082_E_07.vtt",
+                "modifiedDatetime": "2021-09-20T05:54:06.000Z",
+                "checksum": "b003446ea19a98d1efc1960440b7f342"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/46/jwb-082_E_07_r360P.mp4",
+            "checksum": "a319856a5f235a15698502731292f03a",
+            "filesize": 18283072,
+            "modifiedDatetime": "2021-09-20T05:54:12.000Z",
+            "bitRate": 242.06868384214647,
+            "duration": 590.066,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/72/jwb-082_E_07.vtt",
+                "modifiedDatetime": "2021-09-20T05:54:06.000Z",
+                "checksum": "b003446ea19a98d1efc1960440b7f342"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/6b/jwb-082_E_07_r480P.mp4",
+            "checksum": "957fed6a89038e174029ef518b1cbad4",
+            "filesize": 32198752,
+            "modifiedDatetime": "2021-09-20T05:54:10.000Z",
+            "bitRate": 426.3129039802327,
+            "duration": 590.066,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/72/jwb-082_E_07.vtt",
+                "modifiedDatetime": "2021-09-20T05:54:06.000Z",
+                "checksum": "b003446ea19a98d1efc1960440b7f342"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/9b/jwb-082_E_07_r720P.mp4",
+            "checksum": "70b1ee72bd53734228677a53923b01ca",
+            "filesize": 54968181,
+            "modifiedDatetime": "2021-09-20T05:54:07.000Z",
+            "bitRate": 727.7811534006365,
+            "duration": 590.066,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/72/jwb-082_E_07.vtt",
+                "modifiedDatetime": "2021-09-20T05:54:06.000Z",
+                "checksum": "b003446ea19a98d1efc1960440b7f342"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-082-7.v",
+        "jwb-082-7"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/72/jwb-082_E_07.vtt",
+    "Name": "pub-jwb-082_E_7_VIDEO",
+    "Title": "Anthony Morris: Jehovah Loves a Cheerful Giver (Ezra 8:34)",
+    "UndatedReferenceTitle": "Anthony Morris: Jehovah Loves a Cheerful Giver (Ezra 8:34)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

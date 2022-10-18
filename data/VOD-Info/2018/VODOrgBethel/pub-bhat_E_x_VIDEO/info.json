@@ -1,0 +1,102 @@
+{
+    "guid": "5bec4056f49066e3df8b0126",
+    "languageAgnosticNaturalKey": "pub-bhat_x_VIDEO",
+    "naturalKey": "pub-bhat_E_x_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODOrgBethel",
+    "description": "",
+    "firstPublished": "2018-11-16T21:16:11.715Z",
+    "duration": 405.099,
+    "durationFormattedHHMM": "6:45",
+    "durationFormattedMinSec": "6m 45s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/25/bhat_E_r240P.mp4",
+            "checksum": "8e94ea9075b2171f89de6f76b750699d",
+            "filesize": 6126859,
+            "modifiedDatetime": "2020-12-03T02:54:36.000Z",
+            "bitRate": 118.15898320533994,
+            "duration": 405.099,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/72/bhat_E.vtt",
+                "modifiedDatetime": "2018-11-30T19:09:08.000Z",
+                "checksum": "e44e9f2c264523613b296fbc555da2ac"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/53/bhat_E_r360P.mp4",
+            "checksum": "8b5d5af9701bd2682cd1ab1dc7611e08",
+            "filesize": 11942414,
+            "modifiedDatetime": "2018-11-30T19:10:06.000Z",
+            "bitRate": 230.32912431833276,
+            "duration": 405.073,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/72/bhat_E.vtt",
+                "modifiedDatetime": "2018-11-30T19:09:08.000Z",
+                "checksum": "e44e9f2c264523613b296fbc555da2ac"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/14/bhat_E_r480P.mp4",
+            "checksum": "57807aed63ad432350070ea11fae5d41",
+            "filesize": 20031831,
+            "modifiedDatetime": "2018-11-30T19:10:03.000Z",
+            "bitRate": 386.3468552273294,
+            "duration": 405.073,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/72/bhat_E.vtt",
+                "modifiedDatetime": "2018-11-30T19:09:08.000Z",
+                "checksum": "e44e9f2c264523613b296fbc555da2ac"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/60/bhat_E_r720P.mp4",
+            "checksum": "21e4632c1bcbb5d61cfa5afd74007ccc",
+            "filesize": 30610346,
+            "modifiedDatetime": "2018-11-30T19:09:03.000Z",
+            "bitRate": 590.3709408551051,
+            "duration": 405.073,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/72/bhat_E.vtt",
+                "modifiedDatetime": "2018-11-30T19:09:08.000Z",
+                "checksum": "e44e9f2c264523613b296fbc555da2ac"
+            }
+        }
+    ],
+    "printReferences": [
+        "bhat.v",
+        "bhat"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/72/bhat_E.vtt",
+    "Name": "pub-bhat_E_x_VIDEO",
+    "Title": "Be Honest in All Things (Bethel/Construction Application)",
+    "UndatedReferenceTitle": "Be Honest in All Things (Bethel/Construction Application)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "VODOrgBethel"
+}

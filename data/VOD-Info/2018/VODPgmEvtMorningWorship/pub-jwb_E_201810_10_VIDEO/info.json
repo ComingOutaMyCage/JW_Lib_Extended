@@ -1,0 +1,102 @@
+{
+    "guid": "5bacff9ea51af8eef456a0fd",
+    "languageAgnosticNaturalKey": "pub-jwb_201810_10_VIDEO",
+    "naturalKey": "pub-jwb_E_201810_10_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2018-10-15T23:47:50.952Z",
+    "duration": 564.139,
+    "durationFormattedHHMM": "9:24",
+    "durationFormattedMinSec": "9m 24s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/3b/jwb_E_201810_10_r240P.mp4",
+            "checksum": "642876855ed29252ab6c9786f45f8c34",
+            "filesize": 9628890,
+            "modifiedDatetime": "2020-11-06T23:26:38.000Z",
+            "bitRate": 133.34604259765766,
+            "duration": 564.139,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.412,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/0b/jwb_E_201810_10.vtt",
+                "modifiedDatetime": "2018-10-15T19:09:18.000Z",
+                "checksum": "a66ab45a83795a4bdddafd11246cc55b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/55/jwb_E_201810_10_r360P.mp4",
+            "checksum": "a4f74b64635fa28b851fd222b5031c46",
+            "filesize": 19697991,
+            "modifiedDatetime": "2018-10-15T19:09:24.000Z",
+            "bitRate": 272.8038380794778,
+            "duration": 564.107,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/0b/jwb_E_201810_10.vtt",
+                "modifiedDatetime": "2018-10-15T19:09:18.000Z",
+                "checksum": "a66ab45a83795a4bdddafd11246cc55b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/e1/jwb_E_201810_10_r480P.mp4",
+            "checksum": "c1920ea90f0298d03b028776631e8e2c",
+            "filesize": 38408880,
+            "modifiedDatetime": "2018-10-15T19:09:28.000Z",
+            "bitRate": 531.936981813734,
+            "duration": 564.107,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/0b/jwb_E_201810_10.vtt",
+                "modifiedDatetime": "2018-10-15T19:09:18.000Z",
+                "checksum": "a66ab45a83795a4bdddafd11246cc55b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/78/jwb_E_201810_10_r720P.mp4",
+            "checksum": "679a432dc51084be3640c882dee0da24",
+            "filesize": 77409990,
+            "modifiedDatetime": "2018-10-15T19:09:32.000Z",
+            "bitRate": 1072.075948135726,
+            "duration": 564.107,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/0b/jwb_E_201810_10.vtt",
+                "modifiedDatetime": "2018-10-15T19:09:18.000Z",
+                "checksum": "a66ab45a83795a4bdddafd11246cc55b"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201810-10.v",
+        "jwb.201810-10"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/0b/jwb_E_201810_10.vtt",
+    "Name": "pub-jwb_E_201810_10_VIDEO",
+    "Title": "Gary Breaux: “Keep on the Watch” (Matt. 24:42)",
+    "UndatedReferenceTitle": "Gary Breaux: “Keep on the Watch” (Matt. 24:42)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

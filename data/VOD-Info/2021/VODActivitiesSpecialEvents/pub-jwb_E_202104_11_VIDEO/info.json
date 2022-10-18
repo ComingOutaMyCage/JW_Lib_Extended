@@ -1,0 +1,102 @@
+{
+    "guid": "5ffdff78e668ffe0894a2e54",
+    "languageAgnosticNaturalKey": "pub-jwb_202104_11_VIDEO",
+    "naturalKey": "pub-jwb_E_202104_11_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODActivitiesSpecialEvents",
+    "description": "",
+    "firstPublished": "2021-04-26T14:33:23.321Z",
+    "duration": 81.664,
+    "durationFormattedHHMM": "1:21",
+    "durationFormattedMinSec": "1m 21s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/88/jwb_E_202104_11_r240P.mp4",
+            "checksum": "4223905c0f4681c880f0660f245b9f0b",
+            "filesize": 3703995,
+            "modifiedDatetime": "2021-04-26T04:51:13.000Z",
+            "bitRate": 354.34782691883817,
+            "duration": 81.664,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.529,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ca/jwb_E_202104_11.vtt",
+                "modifiedDatetime": "2021-04-26T04:51:06.000Z",
+                "checksum": "45547ef0773b8b9ba31b8837dd892ac0"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/59/jwb_E_202104_11_r360P.mp4",
+            "checksum": "6ea6eb819aace4261ff593be6aec0adb",
+            "filesize": 6758039,
+            "modifiedDatetime": "2021-04-26T04:51:11.000Z",
+            "bitRate": 646.8260911179173,
+            "duration": 81.625,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ca/jwb_E_202104_11.vtt",
+                "modifiedDatetime": "2021-04-26T04:51:06.000Z",
+                "checksum": "45547ef0773b8b9ba31b8837dd892ac0"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/f2/jwb_E_202104_11_r480P.mp4",
+            "checksum": "7b83611cc517c3ada43085cb823e2f8d",
+            "filesize": 12758269,
+            "modifiedDatetime": "2021-04-26T04:51:09.000Z",
+            "bitRate": 1221.1206929555897,
+            "duration": 81.625,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ca/jwb_E_202104_11.vtt",
+                "modifiedDatetime": "2021-04-26T04:51:06.000Z",
+                "checksum": "45547ef0773b8b9ba31b8837dd892ac0"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/4a/jwb_E_202104_11_r720P.mp4",
+            "checksum": "bbe0896e155aed0ec6266dd84f906200",
+            "filesize": 21817293,
+            "modifiedDatetime": "2021-04-26T04:51:07.000Z",
+            "bitRate": 2088.1788859111793,
+            "duration": 81.625,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ca/jwb_E_202104_11.vtt",
+                "modifiedDatetime": "2021-04-26T04:51:06.000Z",
+                "checksum": "45547ef0773b8b9ba31b8837dd892ac0"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202104-11.v",
+        "jwb.202104-11"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/ca/jwb_E_202104_11.vtt",
+    "Name": "pub-jwb_E_202104_11_VIDEO",
+    "Title": "Naples Preaching Campaign",
+    "UndatedReferenceTitle": "Naples Preaching Campaign",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODActivitiesSpecialEvents"
+}

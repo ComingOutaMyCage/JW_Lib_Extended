@@ -1,0 +1,102 @@
+{
+    "guid": "56d755f179892656f9a4682b",
+    "languageAgnosticNaturalKey": "pub-pk_21_VIDEO",
+    "naturalKey": "pub-pk_E_21_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBJFLessons",
+    "description": "",
+    "firstPublished": "2016-04-04T15:14:01.059Z",
+    "duration": 134.959,
+    "durationFormattedHHMM": "2:14",
+    "durationFormattedMinSec": "2m 14s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/f8/pk_E_021_r240P.mp4",
+            "checksum": "7553c6dd5f259d3fcb12457d4028a702",
+            "filesize": 3810543,
+            "modifiedDatetime": "2022-07-05T15:07:52.000Z",
+            "bitRate": 220.5845270600701,
+            "duration": 134.959,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/d6/pk_E_021.vtt",
+                "modifiedDatetime": "2022-07-05T15:07:48.000Z",
+                "checksum": "dc50c50fb05629f4a795f905ef8d99eb"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/87/pk_E_021_r360P.mp4",
+            "checksum": "5965ebb3947c00c4c50af3b463ad7f8e",
+            "filesize": 6920028,
+            "modifiedDatetime": "2022-07-05T15:07:54.000Z",
+            "bitRate": 400.58624285894234,
+            "duration": 134.959,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/d6/pk_E_021.vtt",
+                "modifiedDatetime": "2022-07-05T15:07:48.000Z",
+                "checksum": "dc50c50fb05629f4a795f905ef8d99eb"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/ba/pk_E_021_r480P.mp4",
+            "checksum": "14b3844c56ead9f4df81280d7c6d3198",
+            "filesize": 12959924,
+            "modifiedDatetime": "2022-07-05T15:07:57.000Z",
+            "bitRate": 750.2234474914603,
+            "duration": 134.959,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/d6/pk_E_021.vtt",
+                "modifiedDatetime": "2022-07-05T15:07:48.000Z",
+                "checksum": "dc50c50fb05629f4a795f905ef8d99eb"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/d1/pk_E_021_r720P.mp4",
+            "checksum": "71b5726603d94defdf3ac05dd362e08c",
+            "filesize": 22369334,
+            "modifiedDatetime": "2022-07-05T15:07:59.000Z",
+            "bitRate": 1294.9149139738736,
+            "duration": 134.959,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/d6/pk_E_021.vtt",
+                "modifiedDatetime": "2022-07-05T15:07:48.000Z",
+                "checksum": "dc50c50fb05629f4a795f905ef8d99eb"
+            }
+        }
+    ],
+    "printReferences": [
+        "pk-21.v",
+        "pk-21"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/d6/pk_E_021.vtt",
+    "Name": "pub-pk_E_21_VIDEO",
+    "Title": "You Can Be Patient!",
+    "UndatedReferenceTitle": "You Can Be Patient!",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2016,
+    "Symbol": "SeriesBJFLessons"
+}

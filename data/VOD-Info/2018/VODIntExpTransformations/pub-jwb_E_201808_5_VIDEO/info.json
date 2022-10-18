@@ -1,0 +1,102 @@
+{
+    "guid": "5b58dfeec1963ea3306e03f7",
+    "languageAgnosticNaturalKey": "pub-jwb_201808_5_VIDEO",
+    "naturalKey": "pub-jwb_E_201808_5_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpTransformations",
+    "description": "",
+    "firstPublished": "2018-08-20T13:49:17.122Z",
+    "duration": 309.248,
+    "durationFormattedHHMM": "5:09",
+    "durationFormattedMinSec": "5m 9s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/23/jwb_E_201808_05_r240P.mp4",
+            "checksum": "98d180d83eb18623c6312f2fa53d3053",
+            "filesize": 9113678,
+            "modifiedDatetime": "2020-11-05T21:09:01.000Z",
+            "bitRate": 230.2378976581902,
+            "duration": 309.248,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.881,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/2f/jwb_E_201808_05_r240P.vtt",
+                "modifiedDatetime": "2018-08-20T13:34:59.000Z",
+                "checksum": "e34356901fa518e976ac825c1026a4c8"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/ea/jwb_E_201808_05_r360P.mp4",
+            "checksum": "fe9502bf51062a2179f81907f2eb1221",
+            "filesize": 16740132,
+            "modifiedDatetime": "2018-08-20T13:35:02.000Z",
+            "bitRate": 422.9329303392007,
+            "duration": 309.227,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/fe/jwb_E_201808_05_r360P.vtt",
+                "modifiedDatetime": "2018-08-20T13:35:07.000Z",
+                "checksum": "e34356901fa518e976ac825c1026a4c8"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/57/jwb_E_201808_05_r480P.mp4",
+            "checksum": "e47a6f417fc1e29c80fd5b92fc11180f",
+            "filesize": 30730866,
+            "modifiedDatetime": "2018-08-20T13:35:11.000Z",
+            "bitRate": 776.403388530109,
+            "duration": 309.227,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/71/jwb_E_201808_05_r480P.vtt",
+                "modifiedDatetime": "2018-08-20T13:35:15.000Z",
+                "checksum": "e34356901fa518e976ac825c1026a4c8"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/f2/jwb_E_201808_05_r720P.mp4",
+            "checksum": "ad3d64cd478865f3ed151e846bda12c2",
+            "filesize": 50705677,
+            "modifiedDatetime": "2018-08-20T13:35:18.000Z",
+            "bitRate": 1281.0592269190595,
+            "duration": 309.227,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/64/jwb_E_201808_05_r720P.vtt",
+                "modifiedDatetime": "2018-08-20T13:35:26.000Z",
+                "checksum": "e34356901fa518e976ac825c1026a4c8"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201808-5.v",
+        "jwb.201808-5"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/2f/jwb_E_201808_05_r240P.vtt",
+    "Name": "pub-jwb_E_201808_5_VIDEO",
+    "Title": "I Turned My Life Around",
+    "UndatedReferenceTitle": "I Turned My Life Around",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "VODIntExpTransformations"
+}

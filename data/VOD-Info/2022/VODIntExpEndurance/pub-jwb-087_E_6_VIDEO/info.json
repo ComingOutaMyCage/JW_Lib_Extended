@@ -1,0 +1,102 @@
+{
+    "guid": "6156f6b86c6199f6a0188dc2",
+    "languageAgnosticNaturalKey": "pub-jwb-087_6_VIDEO",
+    "naturalKey": "pub-jwb-087_E_6_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpEndurance",
+    "description": "",
+    "firstPublished": "2022-03-21T13:45:45.105Z",
+    "duration": 318.3,
+    "durationFormattedHHMM": "5:18",
+    "durationFormattedMinSec": "5m 18s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/38/jwb-087_E_06_r240P.mp4",
+            "checksum": "bc28d11bbc4f5bbaf4b574bc0efbcae4",
+            "filesize": 6973796,
+            "modifiedDatetime": "2022-03-21T03:45:59.000Z",
+            "bitRate": 171.16802152057807,
+            "duration": 318.3,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.952,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/a0/jwb-087_E_06.vtt",
+                "modifiedDatetime": "2022-03-21T03:45:44.000Z",
+                "checksum": "e959c0f57935b24daa0ee594324a1081"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/4b/jwb-087_E_06_r360P.mp4",
+            "checksum": "9cb4cac8dc40b548143222f9458b8370",
+            "filesize": 12277617,
+            "modifiedDatetime": "2022-03-21T03:45:57.000Z",
+            "bitRate": 301.3474169415646,
+            "duration": 318.3,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/a0/jwb-087_E_06.vtt",
+                "modifiedDatetime": "2022-03-21T03:45:44.000Z",
+                "checksum": "e959c0f57935b24daa0ee594324a1081"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/d2/jwb-087_E_06_r480P.mp4",
+            "checksum": "d51f8981928d23c698ee04aeb705b8c4",
+            "filesize": 20995066,
+            "modifiedDatetime": "2022-03-21T03:45:55.000Z",
+            "bitRate": 515.3124509110902,
+            "duration": 318.3,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/a0/jwb-087_E_06.vtt",
+                "modifiedDatetime": "2022-03-21T03:45:44.000Z",
+                "checksum": "e959c0f57935b24daa0ee594324a1081"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/cc/jwb-087_E_06_r720P.mp4",
+            "checksum": "32db2f83d7765e98579752e35b65d0db",
+            "filesize": 32823098,
+            "modifiedDatetime": "2022-03-21T03:45:47.000Z",
+            "bitRate": 805.6250490889098,
+            "duration": 318.3,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/a0/jwb-087_E_06.vtt",
+                "modifiedDatetime": "2022-03-21T03:45:44.000Z",
+                "checksum": "e959c0f57935b24daa0ee594324a1081"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-087-6.v",
+        "jwb-087-6"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/a0/jwb-087_E_06.vtt",
+    "Name": "pub-jwb-087_E_6_VIDEO",
+    "Title": "DeJanerio Brown: Broken but Not Destroyed",
+    "UndatedReferenceTitle": "DeJanerio Brown: Broken but Not Destroyed",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODIntExpEndurance"
+}

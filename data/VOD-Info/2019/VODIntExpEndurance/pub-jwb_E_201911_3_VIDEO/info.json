@@ -1,0 +1,102 @@
+{
+    "guid": "5d9e4802944f8ae32edcff47",
+    "languageAgnosticNaturalKey": "pub-jwb_201911_3_VIDEO",
+    "naturalKey": "pub-jwb_E_201911_3_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpEndurance",
+    "description": "",
+    "firstPublished": "2019-11-18T14:09:12.930Z",
+    "duration": 415.36,
+    "durationFormattedHHMM": "6:55",
+    "durationFormattedMinSec": "6m 55s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/4d/jwb_E_201911_03_r240P.mp4",
+            "checksum": "224b2cdc69d58070659aaf7a2fe6b524",
+            "filesize": 9501232,
+            "modifiedDatetime": "2020-11-06T23:27:36.000Z",
+            "bitRate": 178.70852994992296,
+            "duration": 415.36,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.91,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f4/jwb_E_201911_03.vtt",
+                "modifiedDatetime": "2019-11-18T13:08:49.000Z",
+                "checksum": "8a86128069590e0532f4866faac09eac"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/20/jwb_E_201911_03_r360P.mp4",
+            "checksum": "734b8427aa6222a36062070f22ae71ff",
+            "filesize": 17716207,
+            "modifiedDatetime": "2019-11-18T13:08:33.000Z",
+            "bitRate": 333.2519525371697,
+            "duration": 415.325,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f4/jwb_E_201911_03.vtt",
+                "modifiedDatetime": "2019-11-18T13:08:49.000Z",
+                "checksum": "8a86128069590e0532f4866faac09eac"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/a1/jwb_E_201911_03_r480P.mp4",
+            "checksum": "3c66b7841a3102a034b79af5546b91e9",
+            "filesize": 32807461,
+            "modifiedDatetime": "2019-11-18T13:08:38.000Z",
+            "bitRate": 617.1270428279058,
+            "duration": 415.325,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f4/jwb_E_201911_03.vtt",
+                "modifiedDatetime": "2019-11-18T13:08:49.000Z",
+                "checksum": "8a86128069590e0532f4866faac09eac"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/d8/jwb_E_201911_03_r720P.mp4",
+            "checksum": "4a6a8f376daf9b563b8d3674f9dfaf44",
+            "filesize": 56869593,
+            "modifiedDatetime": "2019-11-18T13:08:42.000Z",
+            "bitRate": 1069.749462017697,
+            "duration": 415.325,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f4/jwb_E_201911_03.vtt",
+                "modifiedDatetime": "2019-11-18T13:08:49.000Z",
+                "checksum": "8a86128069590e0532f4866faac09eac"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201911-3.v",
+        "jwb.201911-3"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/f4/jwb_E_201911_03.vtt",
+    "Name": "pub-jwb_E_201911_3_VIDEO",
+    "Title": "Alphonse Takla: We Belong to Jehovah",
+    "UndatedReferenceTitle": "Alphonse Takla: We Belong to Jehovah",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODIntExpEndurance"
+}

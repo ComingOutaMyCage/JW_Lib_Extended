@@ -1,0 +1,102 @@
+{
+    "guid": "5fb6d413e168b69a636b73dd",
+    "languageAgnosticNaturalKey": "pub-jwb_202012_2_VIDEO",
+    "naturalKey": "pub-jwb_E_202012_2_VIDEO",
+    "type": "video",
+    "primaryCategory": "StudioTalks",
+    "description": "",
+    "firstPublished": "2020-12-21T15:16:34.982Z",
+    "duration": 1295.638,
+    "durationFormattedHHMM": "21:35",
+    "durationFormattedMinSec": "21m 35s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/62/jwb_E_202012_02_r240P.mp4",
+            "checksum": "277792f15d05b29623e29ef613db5754",
+            "filesize": 24910912,
+            "modifiedDatetime": "2020-12-21T15:04:24.000Z",
+            "bitRate": 150.20900899788367,
+            "duration": 1295.638,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.851,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/3f/jwb_E_202012_02.vtt",
+                "modifiedDatetime": "2020-12-21T15:04:40.000Z",
+                "checksum": "33f22ca43259fd7f08cbbb4f1d5c7145"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/bf/jwb_E_202012_02_r360P.mp4",
+            "checksum": "915b671d0f8ced7485dac2fc43eaef41",
+            "filesize": 49749797,
+            "modifiedDatetime": "2020-12-21T15:04:27.000Z",
+            "bitRate": 299.9915784935057,
+            "duration": 1295.604,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/3f/jwb_E_202012_02.vtt",
+                "modifiedDatetime": "2020-12-21T15:04:40.000Z",
+                "checksum": "33f22ca43259fd7f08cbbb4f1d5c7145"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/ae/jwb_E_202012_02_r480P.mp4",
+            "checksum": "eb81011a7b50dd53aa7845a75e6297ab",
+            "filesize": 90304593,
+            "modifiedDatetime": "2020-12-21T15:04:31.000Z",
+            "bitRate": 544.5372450320468,
+            "duration": 1295.604,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/3f/jwb_E_202012_02.vtt",
+                "modifiedDatetime": "2020-12-21T15:04:40.000Z",
+                "checksum": "33f22ca43259fd7f08cbbb4f1d5c7145"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/70/jwb_E_202012_02_r720P.mp4",
+            "checksum": "5b2e5b0c64ee3c27c39d98ecb03f59f7",
+            "filesize": 150292183,
+            "modifiedDatetime": "2020-12-21T15:04:36.000Z",
+            "bitRate": 906.2627775828879,
+            "duration": 1295.604,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/3f/jwb_E_202012_02.vtt",
+                "modifiedDatetime": "2020-12-21T15:04:40.000Z",
+                "checksum": "33f22ca43259fd7f08cbbb4f1d5c7145"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202012-2.v",
+        "jwb.202012-2"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/3f/jwb_E_202012_02.vtt",
+    "Name": "pub-jwb_E_202012_2_VIDEO",
+    "Title": "Anthony Morris III: “Let Each One Keep Watching How He Is Building”",
+    "UndatedReferenceTitle": "Anthony Morris III: “Let Each One Keep Watching How He Is Building”",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "StudioTalks"
+}

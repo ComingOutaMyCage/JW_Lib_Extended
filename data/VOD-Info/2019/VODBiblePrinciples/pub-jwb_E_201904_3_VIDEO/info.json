@@ -1,0 +1,102 @@
+{
+    "guid": "5c4f1681351dc4182b662f08",
+    "languageAgnosticNaturalKey": "pub-jwb_201904_3_VIDEO",
+    "naturalKey": "pub-jwb_E_201904_3_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODBiblePrinciples",
+    "description": "",
+    "firstPublished": "2019-04-15T21:16:27.265Z",
+    "duration": 250.582,
+    "durationFormattedHHMM": "4:10",
+    "durationFormattedMinSec": "4m 10s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/08/jwb_E_201904_03_r240P.mp4",
+            "checksum": "62730d6c917d9c5ff318313631fe2dbf",
+            "filesize": 7420935,
+            "modifiedDatetime": "2020-11-03T22:16:01.000Z",
+            "bitRate": 231.36559963405193,
+            "duration": 250.582,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.857,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f5/jwb_E_201904_03.vtt",
+                "modifiedDatetime": "2019-04-15T18:43:24.000Z",
+                "checksum": "b3c5d8485dd1ca79bda999cfcc927901"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/34/jwb_E_201904_03_r360P.mp4",
+            "checksum": "9f9c84468a3228bf7fe4ec33b063e887",
+            "filesize": 13601938,
+            "modifiedDatetime": "2019-04-15T18:35:30.000Z",
+            "bitRate": 424.1393318711758,
+            "duration": 250.543,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f5/jwb_E_201904_03.vtt",
+                "modifiedDatetime": "2019-04-15T18:43:24.000Z",
+                "checksum": "b3c5d8485dd1ca79bda999cfcc927901"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/00/jwb_E_201904_03_r480P.mp4",
+            "checksum": "264fc82f2fd26e211e012c6142a31df8",
+            "filesize": 24712057,
+            "modifiedDatetime": "2019-04-15T18:31:19.000Z",
+            "bitRate": 770.5780856479726,
+            "duration": 250.543,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f5/jwb_E_201904_03.vtt",
+                "modifiedDatetime": "2019-04-15T18:43:24.000Z",
+                "checksum": "b3c5d8485dd1ca79bda999cfcc927901"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/cf/jwb_E_201904_03_r720P.mp4",
+            "checksum": "9837704aef6adc1b3b9fc136962ba856",
+            "filesize": 40344286,
+            "modifiedDatetime": "2019-04-15T18:56:16.000Z",
+            "bitRate": 1258.0265039334565,
+            "duration": 250.543,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f5/jwb_E_201904_03.vtt",
+                "modifiedDatetime": "2019-04-15T18:43:24.000Z",
+                "checksum": "b3c5d8485dd1ca79bda999cfcc927901"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201904-3.v",
+        "jwb.201904-3"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/f5/jwb_E_201904_03.vtt",
+    "Name": "pub-jwb_E_201904_3_VIDEO",
+    "Title": "God Loves Clean People",
+    "UndatedReferenceTitle": "God Loves Clean People",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODBiblePrinciples"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "5c753e35351dc4182b666f2c",
+    "languageAgnosticNaturalKey": "docid-502019627_1_VIDEO",
+    "naturalKey": "docid-502019627_E_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesWhiteboard",
+    "description": "",
+    "firstPublished": "2019-03-08T14:32:06.200Z",
+    "duration": 221.27,
+    "durationFormattedHHMM": "3:41",
+    "durationFormattedMinSec": "3m 41s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/d4/502019627_E_cnt_1_r240P.mp4",
+            "checksum": "01c0343e2194bc8b47650ba705a15c97",
+            "filesize": 5514018,
+            "modifiedDatetime": "2020-11-01T14:25:58.000Z",
+            "bitRate": 194.68642665069822,
+            "duration": 221.27,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.821,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/fc/502019627_E_cnt_1.vtt",
+                "modifiedDatetime": "2019-03-08T14:29:07.000Z",
+                "checksum": "f47ccbcb069f4001ea86c2c32a01f8b7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/41/502019627_E_cnt_1_r360P.mp4",
+            "checksum": "8626a0aafba2fb4f7265ab24e13034bd",
+            "filesize": 9193381,
+            "modifiedDatetime": "2019-03-08T14:29:12.000Z",
+            "bitRate": 324.6529151090941,
+            "duration": 221.231,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/fc/502019627_E_cnt_1.vtt",
+                "modifiedDatetime": "2019-03-08T14:29:07.000Z",
+                "checksum": "f47ccbcb069f4001ea86c2c32a01f8b7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/b1/502019627_E_cnt_1_r480P.mp4",
+            "checksum": "cd1afd4c89836bc500973e527212bd53",
+            "filesize": 15014421,
+            "modifiedDatetime": "2019-03-08T14:29:16.000Z",
+            "bitRate": 530.2157657041735,
+            "duration": 221.231,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/fc/502019627_E_cnt_1.vtt",
+                "modifiedDatetime": "2019-03-08T14:29:07.000Z",
+                "checksum": "f47ccbcb069f4001ea86c2c32a01f8b7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/bd/502019627_E_cnt_1_r720P.mp4",
+            "checksum": "d9f658b8d2f63cb79cea1f261503c8f3",
+            "filesize": 20117327,
+            "modifiedDatetime": "2019-03-08T14:29:21.000Z",
+            "bitRate": 710.4185995068503,
+            "duration": 221.231,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/fc/502019627_E_cnt_1.vtt",
+                "modifiedDatetime": "2019-03-08T14:29:07.000Z",
+                "checksum": "f47ccbcb069f4001ea86c2c32a01f8b7"
+            }
+        }
+    ],
+    "printReferences": [
+        "502019627-1.v",
+        "502019627-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/content_assets/fc/502019627_E_cnt_1.vtt",
+    "Name": "docid-502019627_E_1_VIDEO",
+    "Title": "From Sad to Glad",
+    "UndatedReferenceTitle": "From Sad to Glad",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "SeriesWhiteboard"
+}

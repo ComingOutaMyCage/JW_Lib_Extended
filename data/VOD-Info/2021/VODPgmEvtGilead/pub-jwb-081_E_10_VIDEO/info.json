@@ -1,0 +1,102 @@
+{
+    "guid": "608708820524ac0a0a238cb3",
+    "languageAgnosticNaturalKey": "pub-jwb-081_10_VIDEO",
+    "naturalKey": "pub-jwb-081_E_10_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtGilead",
+    "description": "",
+    "firstPublished": "2021-06-08T14:58:01.146Z",
+    "duration": 605.782,
+    "durationFormattedHHMM": "10:05",
+    "durationFormattedMinSec": "10m 5s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/bb/jwb-081_E_10_r240P.mp4",
+            "checksum": "fbba2da1ce0ccc4e02ebe2d9db82d826",
+            "filesize": 10853145,
+            "modifiedDatetime": "2021-06-08T05:11:48.000Z",
+            "bitRate": 139.96816563136574,
+            "duration": 605.782,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.383,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/88/jwb-081_E_10.vtt",
+                "modifiedDatetime": "2021-06-08T05:11:31.000Z",
+                "checksum": "61f0059b64e1795d238f5dd195a480b1"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/3a/jwb-081_E_10_r360P.mp4",
+            "checksum": "fc87b4906374dc430650dac9fa00c3e1",
+            "filesize": 21824082,
+            "modifiedDatetime": "2021-06-08T05:11:43.000Z",
+            "bitRate": 281.47123989678875,
+            "duration": 605.748,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/88/jwb-081_E_10.vtt",
+                "modifiedDatetime": "2021-06-08T05:11:31.000Z",
+                "checksum": "61f0059b64e1795d238f5dd195a480b1"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/f1/jwb-081_E_10_r480P.mp4",
+            "checksum": "e62904652313c5dd6876df1978b67910",
+            "filesize": 38398683,
+            "modifiedDatetime": "2021-06-08T05:11:38.000Z",
+            "bitRate": 495.2384670481784,
+            "duration": 605.748,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/88/jwb-081_E_10.vtt",
+                "modifiedDatetime": "2021-06-08T05:11:31.000Z",
+                "checksum": "61f0059b64e1795d238f5dd195a480b1"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/5c/jwb-081_E_10_r720P.mp4",
+            "checksum": "783b41fad93bfb094210471ad2c58eab",
+            "filesize": 63172680,
+            "modifiedDatetime": "2021-06-08T05:11:35.000Z",
+            "bitRate": 814.7555790526753,
+            "duration": 605.748,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/88/jwb-081_E_10.vtt",
+                "modifiedDatetime": "2021-06-08T05:11:31.000Z",
+                "checksum": "61f0059b64e1795d238f5dd195a480b1"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-081-10.v",
+        "jwb-081-10"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/88/jwb-081_E_10.vtt",
+    "Name": "pub-jwb-081_E_10_VIDEO",
+    "Title": "Mark Noumair: “From Strength to Strength”",
+    "UndatedReferenceTitle": "Mark Noumair: “From Strength to Strength”",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODPgmEvtGilead"
+}

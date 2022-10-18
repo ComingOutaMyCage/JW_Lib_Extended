@@ -1,0 +1,178 @@
+{
+    "guid": "577fbcd571f213d35ebba655",
+    "languageAgnosticNaturalKey": "pub-jwbmw_201608_1_VIDEO",
+    "naturalKey": "pub-jwbmw_E_201608_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2016-08-15T16:01:33.921Z",
+    "duration": 499.09,
+    "durationFormattedHHMM": "8:19",
+    "durationFormattedMinSec": "8m 19s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/31/jwbmw_E_201608_01_r240P.mp4",
+            "checksum": "35034cdb8ada8cf83b72139d446640e9",
+            "filesize": 21903893,
+            "modifiedDatetime": "2020-11-06T05:30:55.000Z",
+            "bitRate": 342.9362582590677,
+            "duration": 498.997,
+            "frameHeight": 180,
+            "frameWidth": 320,
+            "label": "240p",
+            "frameRate": 30,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/c7/jwbmw_E_201608_01_r240P.vtt",
+                "modifiedDatetime": "2019-02-10T15:51:44.000Z",
+                "checksum": "6fe25a4b7980a2a71dda2920a3bfc9f7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/63/jwbmw_s-Sub_E_201608_01_r240P.mp4",
+            "checksum": "92cc1b8d7cb573d53209294bfb0452ae",
+            "filesize": 22847730,
+            "modifiedDatetime": "2020-11-08T06:28:56.000Z",
+            "bitRate": 357.6466982407983,
+            "duration": 499.09,
+            "frameHeight": 180,
+            "frameWidth": 320,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": true,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/c7/jwbmw_E_201608_01_r240P.vtt",
+                "modifiedDatetime": "2019-02-10T15:51:44.000Z",
+                "checksum": "6fe25a4b7980a2a71dda2920a3bfc9f7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/9f/jwbmw_s-Sub_E_201608_01_r360P.mp4",
+            "checksum": "ff9aa320f3533ecf9b0b1441ee24ba1c",
+            "filesize": 51291209,
+            "modifiedDatetime": "2019-02-10T17:00:10.000Z",
+            "bitRate": 802.9262379911324,
+            "duration": 499.0652333333333,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 44.056,
+            "mimetype": "video/mp4",
+            "subtitled": true,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/02/jwbmw_E_201608_01_r360P.vtt",
+                "modifiedDatetime": "2019-02-10T16:55:39.000Z",
+                "checksum": "6fe25a4b7980a2a71dda2920a3bfc9f7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/db/jwbmw_E_201608_01_r360P.mp4",
+            "checksum": "2de445a4e7cd0ff118eeb771b5bcefca",
+            "filesize": 51228927,
+            "modifiedDatetime": "2019-02-10T16:55:38.000Z",
+            "bitRate": 802.1123569538946,
+            "duration": 498.965,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 2205,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/02/jwbmw_E_201608_01_r360P.vtt",
+                "modifiedDatetime": "2019-02-10T16:55:39.000Z",
+                "checksum": "6fe25a4b7980a2a71dda2920a3bfc9f7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/a4/jwbmw_s-Sub_E_201608_01_r480P.mp4",
+            "checksum": "957e2f81edcc41757117151d742f3c56",
+            "filesize": 70228022,
+            "modifiedDatetime": "2019-02-10T18:14:34.000Z",
+            "bitRate": 1099.3681491504417,
+            "duration": 499.0652333333333,
+            "frameHeight": 480,
+            "frameWidth": 854,
+            "label": "480p",
+            "frameRate": 44.056,
+            "mimetype": "video/mp4",
+            "subtitled": true,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/99/jwbmw_E_201608_01_r480P.vtt",
+                "modifiedDatetime": "2019-02-10T18:07:36.000Z",
+                "checksum": "6fe25a4b7980a2a71dda2920a3bfc9f7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/b1/jwbmw_E_201608_01_r480P.mp4",
+            "checksum": "083a912fcddff83804ae78b99653738e",
+            "filesize": 69959342,
+            "modifiedDatetime": "2019-02-10T18:07:36.000Z",
+            "bitRate": 1095.3821598208292,
+            "duration": 498.965,
+            "frameHeight": 480,
+            "frameWidth": 854,
+            "label": "480p",
+            "frameRate": 2205,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/99/jwbmw_E_201608_01_r480P.vtt",
+                "modifiedDatetime": "2019-02-10T18:07:36.000Z",
+                "checksum": "6fe25a4b7980a2a71dda2920a3bfc9f7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/ec/jwbmw_s-Sub_E_201608_01_r720P.mp4",
+            "checksum": "d7178265dfa70ae3b5677b0118782f09",
+            "filesize": 101350894,
+            "modifiedDatetime": "2019-02-10T19:59:28.000Z",
+            "bitRate": 1586.5738714885435,
+            "duration": 499.0652333333333,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 44.056,
+            "mimetype": "video/mp4",
+            "subtitled": true,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/8c/jwbmw_E_201608_01_r720P.vtt",
+                "modifiedDatetime": "2019-02-10T19:49:18.000Z",
+                "checksum": "6fe25a4b7980a2a71dda2920a3bfc9f7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/15/jwbmw_E_201608_01_r720P.mp4",
+            "checksum": "90654f914d3aeb17c7c1d51f34a31af9",
+            "filesize": 101437900,
+            "modifiedDatetime": "2019-02-10T19:49:17.000Z",
+            "bitRate": 1588.2548750914393,
+            "duration": 498.965,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 2205,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/8c/jwbmw_E_201608_01_r720P.vtt",
+                "modifiedDatetime": "2019-02-10T19:49:18.000Z",
+                "checksum": "6fe25a4b7980a2a71dda2920a3bfc9f7"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwbmw.201608-1.v",
+        "jwbmw.201608-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/c7/jwbmw_E_201608_01_r240P.vtt",
+    "Name": "pub-jwbmw_E_201608_1_VIDEO",
+    "Title": "David H. Splane: Decisions of “the Faithful and Discreet Slave” (Matt. 24:45)",
+    "UndatedReferenceTitle": "David H. Splane: Decisions of “the Faithful and Discreet Slave” (Matt. 24:45)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2016,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

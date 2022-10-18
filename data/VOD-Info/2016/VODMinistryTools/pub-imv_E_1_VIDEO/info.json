@@ -1,0 +1,102 @@
+{
+    "guid": "584023570023ee44860f85cd",
+    "languageAgnosticNaturalKey": "pub-imv_1_VIDEO",
+    "naturalKey": "pub-imv_E_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODMinistryTools",
+    "description": "",
+    "firstPublished": "2016-12-26T15:29:41.033Z",
+    "duration": 76.441,
+    "durationFormattedHHMM": "1:16",
+    "durationFormattedMinSec": "1m 16s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/5f/imv_E_01_r240P.mp4",
+            "checksum": "9e9147a31146e6080f3dca9b1aea9894",
+            "filesize": 3681545,
+            "modifiedDatetime": "2020-12-04T22:54:57.000Z",
+            "bitRate": 376.2649666082338,
+            "duration": 76.441,
+            "frameHeight": 180,
+            "frameWidth": 320,
+            "label": "240p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/e3/imv_E_01_r240P.vtt",
+                "modifiedDatetime": "2019-03-02T21:25:00.000Z",
+                "checksum": "51d2c704f9cbb4af11745215561f7800"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/50/imv_E_01_r360P.mp4",
+            "checksum": "656b5b0ad51226793549759c6830c3d0",
+            "filesize": 8271452,
+            "modifiedDatetime": "2019-03-02T21:25:04.000Z",
+            "bitRate": 845.710230990708,
+            "duration": 76.41,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/06/imv_E_01_r360P.vtt",
+                "modifiedDatetime": "2019-03-02T21:25:05.000Z",
+                "checksum": "51d2c704f9cbb4af11745215561f7800"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/bb/imv_E_01_r480P.mp4",
+            "checksum": "bb41c25def65d16bc8769b8514d17fef",
+            "filesize": 11169219,
+            "modifiedDatetime": "2019-03-02T21:25:35.000Z",
+            "bitRate": 1141.9908838829997,
+            "duration": 76.41,
+            "frameHeight": 480,
+            "frameWidth": 854,
+            "label": "480p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/34/imv_E_01_r480P.vtt",
+                "modifiedDatetime": "2019-03-02T21:25:35.000Z",
+                "checksum": "51d2c704f9cbb4af11745215561f7800"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/bf/imv_E_01_r720P.mp4",
+            "checksum": "b567ea919765a2c84fdf70422658559c",
+            "filesize": 15980975,
+            "modifiedDatetime": "2019-03-02T21:25:40.000Z",
+            "bitRate": 1633.9663288509357,
+            "duration": 76.41,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/09/imv_E_01_r720P.vtt",
+                "modifiedDatetime": "2019-03-02T21:25:40.000Z",
+                "checksum": "51d2c704f9cbb4af11745215561f7800"
+            }
+        }
+    ],
+    "printReferences": [
+        "imv-1.v",
+        "imv-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/e3/imv_E_01_r240P.vtt",
+    "Name": "pub-imv_E_1_VIDEO",
+    "Title": "Was Life Created? Introduction",
+    "UndatedReferenceTitle": "Was Life Created? Introduction",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2016,
+    "Symbol": "VODMinistryTools"
+}

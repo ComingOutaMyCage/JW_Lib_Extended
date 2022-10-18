@@ -1,0 +1,102 @@
+{
+    "guid": "5f6366390ca056895e3e4b80",
+    "languageAgnosticNaturalKey": "pub-jwbcov20_6_VIDEO",
+    "naturalKey": "pub-jwbcov20_E_6_VIDEO",
+    "type": "video",
+    "primaryCategory": "FamilyChallenges",
+    "description": "",
+    "firstPublished": "2020-09-28T13:12:38.984Z",
+    "duration": 557.504,
+    "durationFormattedHHMM": "9:17",
+    "durationFormattedMinSec": "9m 17s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/14/jwbcov20_E_06_r240P.mp4",
+            "checksum": "a453ee6b7b4bd37a7fea201cf6aed538",
+            "filesize": 15604853,
+            "modifiedDatetime": "2020-11-27T11:32:01.000Z",
+            "bitRate": 218.6763037798832,
+            "duration": 557.504,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.46,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/35/jwbcov20_E_06.vtt",
+                "modifiedDatetime": "2020-09-28T06:25:11.000Z",
+                "checksum": "96cc0e54f3b1d5660740b09f38426c1b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/23/jwbcov20_E_06_r360P.mp4",
+            "checksum": "7b092008b1f2512cffd5226e7e1fd602",
+            "filesize": 27978258,
+            "modifiedDatetime": "2020-09-28T06:25:18.000Z",
+            "bitRate": 392.08958361361493,
+            "duration": 557.475,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/35/jwbcov20_E_06.vtt",
+                "modifiedDatetime": "2020-09-28T06:25:11.000Z",
+                "checksum": "96cc0e54f3b1d5660740b09f38426c1b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/7f/jwbcov20_E_06_r480P.mp4",
+            "checksum": "35cd4d747641de30e65deb4bf5997f96",
+            "filesize": 49868763,
+            "modifiedDatetime": "2020-09-28T06:25:21.000Z",
+            "bitRate": 698.8649014529799,
+            "duration": 557.475,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/35/jwbcov20_E_06.vtt",
+                "modifiedDatetime": "2020-09-28T06:25:11.000Z",
+                "checksum": "96cc0e54f3b1d5660740b09f38426c1b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/84/jwbcov20_E_06_r720P.mp4",
+            "checksum": "6fb2246c563e2cea85284e941a440387",
+            "filesize": 78568117,
+            "modifiedDatetime": "2020-09-28T06:25:25.000Z",
+            "bitRate": 1101.0599830709896,
+            "duration": 557.475,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/35/jwbcov20_E_06.vtt",
+                "modifiedDatetime": "2020-09-28T06:25:11.000Z",
+                "checksum": "96cc0e54f3b1d5660740b09f38426c1b"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwbcov20-6.v",
+        "jwbcov20-6"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/35/jwbcov20_E_06.vtt",
+    "Name": "pub-jwbcov20_E_6_VIDEO",
+    "Title": "Cultivate Joy in Your Family",
+    "UndatedReferenceTitle": "Cultivate Joy in Your Family",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "FamilyChallenges"
+}

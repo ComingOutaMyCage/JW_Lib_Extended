@@ -1,0 +1,102 @@
+{
+    "guid": "5c26275199077ca5aeb927b6",
+    "languageAgnosticNaturalKey": "pub-osg_48_VIDEO",
+    "naturalKey": "pub-osg_E_48_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODOriginalSongs",
+    "description": "",
+    "firstPublished": "2019-02-19T03:31:55.946Z",
+    "duration": 241.814,
+    "durationFormattedHHMM": "4:01",
+    "durationFormattedMinSec": "4m 1s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/67/osg_E_048_r240P.mp4",
+            "checksum": "3bca27da8d26b1979eaa58825914799c",
+            "filesize": 9159431,
+            "modifiedDatetime": "2020-12-09T06:16:38.000Z",
+            "bitRate": 295.92188495082996,
+            "duration": 241.814,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.438,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/68/osg_E_048.vtt",
+                "modifiedDatetime": "2019-02-19T00:15:43.000Z",
+                "checksum": "953da470d552622aa845d79b459e56dc"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/e2/osg_E_048_r360P.mp4",
+            "checksum": "c019e76ea75a13991bf84bbc0a993d70",
+            "filesize": 16091113,
+            "modifiedDatetime": "2019-02-19T00:12:50.000Z",
+            "bitRate": 519.9322551543727,
+            "duration": 241.785,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/68/osg_E_048.vtt",
+                "modifiedDatetime": "2019-02-19T00:15:43.000Z",
+                "checksum": "953da470d552622aa845d79b459e56dc"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/7e/osg_E_048_r480P.mp4",
+            "checksum": "1d8fc46531cf55c64959c2bd6cfcd074",
+            "filesize": 29662154,
+            "modifiedDatetime": "2019-02-19T00:13:47.000Z",
+            "bitRate": 958.4365371094154,
+            "duration": 241.785,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/68/osg_E_048.vtt",
+                "modifiedDatetime": "2019-02-19T00:15:43.000Z",
+                "checksum": "953da470d552622aa845d79b459e56dc"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/19/osg_E_048_r720P.mp4",
+            "checksum": "16b064478e82e2ca2ada41e19e614e5b",
+            "filesize": 48869426,
+            "modifiedDatetime": "2019-02-19T00:15:40.000Z",
+            "bitRate": 1579.0573882788428,
+            "duration": 241.785,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/68/osg_E_048.vtt",
+                "modifiedDatetime": "2019-02-19T00:15:43.000Z",
+                "checksum": "953da470d552622aa845d79b459e56dc"
+            }
+        }
+    ],
+    "printReferences": [
+        "osg-48.v",
+        "osg-48"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/68/osg_E_048.vtt",
+    "Name": "pub-osg_E_48_VIDEO",
+    "Title": "You Can Count on Me",
+    "UndatedReferenceTitle": "You Can Count on Me",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODOriginalSongs"
+}

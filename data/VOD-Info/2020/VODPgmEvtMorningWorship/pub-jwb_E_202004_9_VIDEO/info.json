@@ -1,0 +1,102 @@
+{
+    "guid": "5e70c6b1faacdecc13286290",
+    "languageAgnosticNaturalKey": "pub-jwb_202004_9_VIDEO",
+    "naturalKey": "pub-jwb_E_202004_9_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2020-04-02T02:03:37.828Z",
+    "duration": 1478.806,
+    "durationFormattedHHMM": "24:38",
+    "durationFormattedMinSec": "24m 38s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/9c/jwb_E_202004_09_r240P.mp4",
+            "checksum": "dda9c8827ae329d4261f12c9ee9733df",
+            "filesize": 25664010,
+            "modifiedDatetime": "2020-10-18T03:02:02.000Z",
+            "bitRate": 135.582407783712,
+            "duration": 1478.806,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.438,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/50/jwb_E_202004_09.vtt",
+                "modifiedDatetime": "2020-04-02T01:46:41.000Z",
+                "checksum": "c7161a3e4a9d65f4945bc04e42e0e3c1"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/3f/jwb_E_202004_09_r360P.mp4",
+            "checksum": "fe3c63e45a9322a823f6f80946d4f86e",
+            "filesize": 54935488,
+            "modifiedDatetime": "2020-04-02T01:46:24.000Z",
+            "bitRate": 290.230056060104,
+            "duration": 1478.77,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/50/jwb_E_202004_09.vtt",
+                "modifiedDatetime": "2020-04-02T01:46:41.000Z",
+                "checksum": "c7161a3e4a9d65f4945bc04e42e0e3c1"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/cc/jwb_E_202004_09_r480P.mp4",
+            "checksum": "0a0bbffdaa7298330b4790d4b8914555",
+            "filesize": 97810168,
+            "modifiedDatetime": "2020-04-02T01:46:30.000Z",
+            "bitRate": 516.7415740784571,
+            "duration": 1478.77,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/50/jwb_E_202004_09.vtt",
+                "modifiedDatetime": "2020-04-02T01:46:41.000Z",
+                "checksum": "c7161a3e4a9d65f4945bc04e42e0e3c1"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/3c/jwb_E_202004_09_r720P.mp4",
+            "checksum": "7efb1a80ca4d9621242efabf9895af6f",
+            "filesize": 160616265,
+            "modifiedDatetime": "2020-04-02T01:46:35.000Z",
+            "bitRate": 848.5528989041568,
+            "duration": 1478.77,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/50/jwb_E_202004_09.vtt",
+                "modifiedDatetime": "2020-04-02T01:46:41.000Z",
+                "checksum": "c7161a3e4a9d65f4945bc04e42e0e3c1"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202004-9.v",
+        "jwb.202004-9"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/50/jwb_E_202004_09.vtt",
+    "Name": "pub-jwb_E_202004_9_VIDEO",
+    "Title": "Geoffrey W. Jackson: “Christ Died for Us” (Rom. 5:8)",
+    "UndatedReferenceTitle": "Geoffrey W. Jackson: “Christ Died for Us” (Rom. 5:8)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

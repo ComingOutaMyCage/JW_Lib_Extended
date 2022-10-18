@@ -1,0 +1,102 @@
+{
+    "guid": "55384d6571a673b272abf1ae",
+    "languageAgnosticNaturalKey": "pub-jwbur_201410_1_VIDEO",
+    "naturalKey": "pub-jwbur_E_201410_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODOrgBethel",
+    "description": "",
+    "firstPublished": "2015-01-05T18:45:39.000Z",
+    "duration": 266.944,
+    "durationFormattedHHMM": "4:26",
+    "durationFormattedMinSec": "4m 26s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/dc/jwbur_E_201410_01_r240P.mp4",
+            "checksum": "782694c0fdee53c49d2aa6903f8ec119",
+            "filesize": 9302246,
+            "modifiedDatetime": "2021-01-27T20:30:09.000Z",
+            "bitRate": 272.2436049321206,
+            "duration": 266.944,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ba/jwbur_E_201410_01.vtt",
+                "modifiedDatetime": "2021-01-27T20:30:03.000Z",
+                "checksum": "8fd598cdfe094949da4345f2ec73c402"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/81/jwbur_E_201410_01_r360P.mp4",
+            "checksum": "40aa6d609ad788fd07d0b040ae1d9b6d",
+            "filesize": 15955160,
+            "modifiedDatetime": "2021-01-27T20:30:12.000Z",
+            "bitRate": 467.0101813345322,
+            "duration": 266.91,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ba/jwbur_E_201410_01.vtt",
+                "modifiedDatetime": "2021-01-27T20:30:03.000Z",
+                "checksum": "8fd598cdfe094949da4345f2ec73c402"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/8c/jwbur_E_201410_01_r480P.mp4",
+            "checksum": "12a5b727e6165635227b9f693cbac592",
+            "filesize": 29499565,
+            "modifiedDatetime": "2021-01-27T20:30:15.000Z",
+            "bitRate": 863.457163697501,
+            "duration": 266.91,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ba/jwbur_E_201410_01.vtt",
+                "modifiedDatetime": "2021-01-27T20:30:03.000Z",
+                "checksum": "8fd598cdfe094949da4345f2ec73c402"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/48/jwbur_E_201410_01_r720P.mp4",
+            "checksum": "1a943addaf411f54a4dbf5232ec7d31b",
+            "filesize": 51073312,
+            "modifiedDatetime": "2021-01-27T20:30:18.000Z",
+            "bitRate": 1494.9243190588586,
+            "duration": 266.91,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ba/jwbur_E_201410_01.vtt",
+                "modifiedDatetime": "2021-01-27T20:30:03.000Z",
+                "checksum": "8fd598cdfe094949da4345f2ec73c402"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwbur.201410-1.v",
+        "jwbur.201410-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/ba/jwbur_E_201410_01.vtt",
+    "Name": "pub-jwbur_E_201410_1_VIDEO",
+    "Title": "Tour of the Legal Department at World Headquarters",
+    "UndatedReferenceTitle": "Tour of the Legal Department at World Headquarters",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2015,
+    "Symbol": "VODOrgBethel"
+}

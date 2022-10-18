@@ -1,0 +1,102 @@
+{
+    "guid": "60a28a9eca9c8caf423db061",
+    "languageAgnosticNaturalKey": "pub-jwb-082_11_VIDEO",
+    "naturalKey": "pub-jwb-082_E_11_VIDEO",
+    "type": "video",
+    "primaryCategory": "Reports",
+    "description": "",
+    "firstPublished": "2021-09-27T15:20:55.299Z",
+    "duration": 94.912,
+    "durationFormattedHHMM": "1:34",
+    "durationFormattedMinSec": "1m 34s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/2a/jwb-082_E_11_r240P.mp4",
+            "checksum": "ab1119cfb060a7996c4a3e4a64569ef9",
+            "filesize": 4929556,
+            "modifiedDatetime": "2021-09-27T13:03:18.000Z",
+            "bitRate": 405.76698678776125,
+            "duration": 94.912,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.904,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/64/jwb-082_E_11.vtt",
+                "modifiedDatetime": "2021-09-27T13:03:07.000Z",
+                "checksum": "09781404f44754e1b33e099380ad46e7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/ec/jwb-082_E_11_r360P.mp4",
+            "checksum": "0d5ccefa6d04cb416bdacdb04acfc426",
+            "filesize": 8675302,
+            "modifiedDatetime": "2021-09-27T13:03:16.000Z",
+            "bitRate": 714.2715293293145,
+            "duration": 94.888,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/64/jwb-082_E_11.vtt",
+                "modifiedDatetime": "2021-09-27T13:03:07.000Z",
+                "checksum": "09781404f44754e1b33e099380ad46e7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/75/jwb-082_E_11_r480P.mp4",
+            "checksum": "7b45b2659f9f39c3076a981a56fd1eb2",
+            "filesize": 16174178,
+            "modifiedDatetime": "2021-09-27T13:03:14.000Z",
+            "bitRate": 1331.6833068986593,
+            "duration": 94.888,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/64/jwb-082_E_11.vtt",
+                "modifiedDatetime": "2021-09-27T13:03:07.000Z",
+                "checksum": "09781404f44754e1b33e099380ad46e7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/c8/jwb-082_E_11_r720P.mp4",
+            "checksum": "55f4190df41bdd418a2ab6fbe8fd1bdb",
+            "filesize": 27739417,
+            "modifiedDatetime": "2021-09-27T13:03:09.000Z",
+            "bitRate": 2283.89464750548,
+            "duration": 94.888,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/64/jwb-082_E_11.vtt",
+                "modifiedDatetime": "2021-09-27T13:03:07.000Z",
+                "checksum": "09781404f44754e1b33e099380ad46e7"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-082-11.v",
+        "jwb-082-11"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/64/jwb-082_E_11.vtt",
+    "Name": "pub-jwb-082_E_11_VIDEO",
+    "Title": "A Milestone in Romany-Language History",
+    "UndatedReferenceTitle": "A Milestone in Romany-Language History",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "Reports"
+}

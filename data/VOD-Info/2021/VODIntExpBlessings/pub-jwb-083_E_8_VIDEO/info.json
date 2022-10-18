@@ -1,0 +1,102 @@
+{
+    "guid": "60a2bca9ca9c8caf423e6e10",
+    "languageAgnosticNaturalKey": "pub-jwb-083_8_VIDEO",
+    "naturalKey": "pub-jwb-083_E_8_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpBlessings",
+    "description": "",
+    "firstPublished": "2021-10-18T14:56:13.212Z",
+    "duration": 337.878,
+    "durationFormattedHHMM": "5:37",
+    "durationFormattedMinSec": "5m 37s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/66/jwb-083_E_08_r240P.mp4",
+            "checksum": "03f376f162ec10aac32b0f5575392308",
+            "filesize": 11185686,
+            "modifiedDatetime": "2021-10-18T06:06:14.000Z",
+            "bitRate": 258.63824183581056,
+            "duration": 337.878,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.669,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/4a/jwb-083_E_08.vtt",
+                "modifiedDatetime": "2021-10-18T06:05:59.000Z",
+                "checksum": "801bcf8ee5b0971bbbba6e837985a460"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/df/jwb-083_E_08_r360P.mp4",
+            "checksum": "81aa2e86c5f3d3718d8a3a753435f194",
+            "filesize": 20748361,
+            "modifiedDatetime": "2021-10-18T06:06:10.000Z",
+            "bitRate": 479.8041975985603,
+            "duration": 337.839,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/4a/jwb-083_E_08.vtt",
+                "modifiedDatetime": "2021-10-18T06:05:59.000Z",
+                "checksum": "801bcf8ee5b0971bbbba6e837985a460"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/11/jwb-083_E_08_r480P.mp4",
+            "checksum": "c4e7d98a96d18ac112a61760f4ab717f",
+            "filesize": 39542271,
+            "modifiedDatetime": "2021-10-18T06:06:07.000Z",
+            "bitRate": 914.4118712981627,
+            "duration": 337.839,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/4a/jwb-083_E_08.vtt",
+                "modifiedDatetime": "2021-10-18T06:05:59.000Z",
+                "checksum": "801bcf8ee5b0971bbbba6e837985a460"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/b5/jwb-083_E_08_r720P.mp4",
+            "checksum": "4437bb2985b0bfa0865fde786e15b7e5",
+            "filesize": 67927714,
+            "modifiedDatetime": "2021-10-18T06:06:01.000Z",
+            "bitRate": 1570.8229826189397,
+            "duration": 337.839,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/4a/jwb-083_E_08.vtt",
+                "modifiedDatetime": "2021-10-18T06:05:59.000Z",
+                "checksum": "801bcf8ee5b0971bbbba6e837985a460"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-083-8.v",
+        "jwb-083-8"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/4a/jwb-083_E_08.vtt",
+    "Name": "pub-jwb-083_E_8_VIDEO",
+    "Title": "Sharon Hall: Sacrifice Brings Rich Rewards",
+    "UndatedReferenceTitle": "Sharon Hall: Sacrifice Brings Rich Rewards",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODIntExpBlessings"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "5e4eed80faacdecc13b5ecc7",
+    "languageAgnosticNaturalKey": "pub-jwb_202004_5_VIDEO",
+    "naturalKey": "pub-jwb_E_202004_5_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpEndurance",
+    "description": "",
+    "firstPublished": "2020-04-20T14:11:34.906Z",
+    "duration": 332.907,
+    "durationFormattedHHMM": "5:32",
+    "durationFormattedMinSec": "5m 32s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/5b/jwb_E_202004_05_r240P.mp4",
+            "checksum": "8c799275d9eca9609e18e2bc42739398",
+            "filesize": 9916693,
+            "modifiedDatetime": "2020-10-18T03:01:48.000Z",
+            "bitRate": 232.7201412481564,
+            "duration": 332.907,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.669,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/80/jwb_E_202004_05.vtt",
+                "modifiedDatetime": "2020-04-20T12:26:09.000Z",
+                "checksum": "2e71734fd5f247c0e40517a8f8945664"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/4e/jwb_E_202004_05_r360P.mp4",
+            "checksum": "c0a33602e5026a2c0e13e03811cd2271",
+            "filesize": 19770497,
+            "modifiedDatetime": "2020-04-20T12:26:15.000Z",
+            "bitRate": 464.0076419222173,
+            "duration": 332.876,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/80/jwb_E_202004_05.vtt",
+                "modifiedDatetime": "2020-04-20T12:26:09.000Z",
+                "checksum": "2e71734fd5f247c0e40517a8f8945664"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/3a/jwb_E_202004_05_r480P.mp4",
+            "checksum": "9464a76730595c9f91462b630597d2e2",
+            "filesize": 39074441,
+            "modifiedDatetime": "2020-04-20T12:26:18.000Z",
+            "bitRate": 917.0654247001887,
+            "duration": 332.876,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/80/jwb_E_202004_05.vtt",
+                "modifiedDatetime": "2020-04-20T12:26:09.000Z",
+                "checksum": "2e71734fd5f247c0e40517a8f8945664"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/ee/jwb_E_202004_05_r720P.mp4",
+            "checksum": "7d4596d7520a4e7fad1a6384f14586f7",
+            "filesize": 69303690,
+            "modifiedDatetime": "2020-04-20T12:26:21.000Z",
+            "bitRate": 1626.5368429234911,
+            "duration": 332.876,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/80/jwb_E_202004_05.vtt",
+                "modifiedDatetime": "2020-04-20T12:26:09.000Z",
+                "checksum": "2e71734fd5f247c0e40517a8f8945664"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202004-5.v",
+        "jwb.202004-5"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/80/jwb_E_202004_05.vtt",
+    "Name": "pub-jwb_E_202004_5_VIDEO",
+    "Title": "Malu Mørch: Jehovah Will Take You In",
+    "UndatedReferenceTitle": "Malu Mørch: Jehovah Will Take You In",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODIntExpEndurance"
+}

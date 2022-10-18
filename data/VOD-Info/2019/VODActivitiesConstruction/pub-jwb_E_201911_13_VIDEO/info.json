@@ -1,0 +1,102 @@
+{
+    "guid": "5db2fb687ae47e7b5313c0cc",
+    "languageAgnosticNaturalKey": "pub-jwb_201911_13_VIDEO",
+    "naturalKey": "pub-jwb_E_201911_13_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODActivitiesConstruction",
+    "description": "",
+    "firstPublished": "2019-11-14T18:00:10.055Z",
+    "duration": 306.262,
+    "durationFormattedHHMM": "5:06",
+    "durationFormattedMinSec": "5m 6s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/6f/jwb_E_201911_13_r240P.mp4",
+            "checksum": "c27f8405f549feb3b0fb098f42da868a",
+            "filesize": 10323511,
+            "modifiedDatetime": "2020-11-07T20:01:43.000Z",
+            "bitRate": 263.34455364197976,
+            "duration": 306.262,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.881,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/d0/jwb_E_201911_13.vtt",
+                "modifiedDatetime": "2019-11-14T14:32:00.000Z",
+                "checksum": "ab507f0a7ff2d4b4661ac03e8a3a85b2"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/bd/jwb_E_201911_13_r360P.mp4",
+            "checksum": "c12b8fa1d3c7be4c8e26ae602112c37f",
+            "filesize": 19162853,
+            "modifiedDatetime": "2019-11-14T14:31:45.000Z",
+            "bitRate": 488.8897965623204,
+            "duration": 306.224,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/d0/jwb_E_201911_13.vtt",
+                "modifiedDatetime": "2019-11-14T14:32:00.000Z",
+                "checksum": "ab507f0a7ff2d4b4661ac03e8a3a85b2"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/fb/jwb_E_201911_13_r480P.mp4",
+            "checksum": "4a206d2841ceca454e8a2b6a68ceceb9",
+            "filesize": 35453207,
+            "modifiedDatetime": "2019-11-14T14:31:49.000Z",
+            "bitRate": 904.4953357264617,
+            "duration": 306.224,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/d0/jwb_E_201911_13.vtt",
+                "modifiedDatetime": "2019-11-14T14:32:00.000Z",
+                "checksum": "ab507f0a7ff2d4b4661ac03e8a3a85b2"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/1d/jwb_E_201911_13_r720P.mp4",
+            "checksum": "b5b6207e585263a094959209f4df5a9c",
+            "filesize": 58391017,
+            "modifiedDatetime": "2019-11-14T14:31:55.000Z",
+            "bitRate": 1489.6932321192983,
+            "duration": 306.224,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/d0/jwb_E_201911_13.vtt",
+                "modifiedDatetime": "2019-11-14T14:32:00.000Z",
+                "checksum": "ab507f0a7ff2d4b4661ac03e8a3a85b2"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201911-13.v",
+        "jwb.201911-13"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/d0/jwb_E_201911_13.vtt",
+    "Name": "pub-jwb_E_201911_13_VIDEO",
+    "Title": "\"Women Who Are Working Hard in the Lord\"",
+    "UndatedReferenceTitle": "\"Women Who Are Working Hard in the Lord\"",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODActivitiesConstruction"
+}

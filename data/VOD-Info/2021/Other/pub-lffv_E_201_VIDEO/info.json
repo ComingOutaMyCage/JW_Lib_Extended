@@ -1,0 +1,102 @@
+{
+    "guid": "5f8f7847a05028daa1bb9553",
+    "languageAgnosticNaturalKey": "pub-lffv_201_VIDEO",
+    "naturalKey": "pub-lffv_E_201_VIDEO",
+    "type": "video",
+    "primaryCategory": "Other",
+    "description": "",
+    "firstPublished": "2021-01-12T19:58:07.536Z",
+    "duration": 296.534,
+    "durationFormattedHHMM": "4:56",
+    "durationFormattedMinSec": "4m 56s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/7c/lffv_E_201_r240P.mp4",
+            "checksum": "bb78a1bb3875bf5b07fe187e467b38c3",
+            "filesize": 10913326,
+            "modifiedDatetime": "2021-03-02T18:49:20.000Z",
+            "bitRate": 287.5230475257475,
+            "duration": 296.534,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.762,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/f1/lffv_E_201.vtt",
+                "modifiedDatetime": "2021-03-02T18:49:08.000Z",
+                "checksum": "ba8406330c555e926b719a2fd034bb21"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/43/lffv_E_201_r360P.mp4",
+            "checksum": "05000a121b6d89882e05849164290775",
+            "filesize": 20259386,
+            "modifiedDatetime": "2021-03-02T18:49:23.000Z",
+            "bitRate": 533.8052286463006,
+            "duration": 296.506,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/f1/lffv_E_201.vtt",
+                "modifiedDatetime": "2021-03-02T18:49:08.000Z",
+                "checksum": "ba8406330c555e926b719a2fd034bb21"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/ec/lffv_E_201_r480P.mp4",
+            "checksum": "592a1b6eb0895401d9380e584a0e4cb7",
+            "filesize": 37690464,
+            "modifiedDatetime": "2021-03-02T18:49:28.000Z",
+            "bitRate": 993.0886727418671,
+            "duration": 296.506,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/f1/lffv_E_201.vtt",
+                "modifiedDatetime": "2021-03-02T18:49:08.000Z",
+                "checksum": "ba8406330c555e926b719a2fd034bb21"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/49/lffv_E_201_r720P.mp4",
+            "checksum": "a15403a02515fba04f1d16f18959a3a1",
+            "filesize": 65292520,
+            "modifiedDatetime": "2021-03-02T18:49:32.000Z",
+            "bitRate": 1720.3625306064635,
+            "duration": 296.506,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/f1/lffv_E_201.vtt",
+                "modifiedDatetime": "2021-03-02T18:49:08.000Z",
+                "checksum": "ba8406330c555e926b719a2fd034bb21"
+            }
+        }
+    ],
+    "printReferences": [
+        "lffv-201.v",
+        "lffv-201"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/f1/lffv_E_201.vtt",
+    "Name": "pub-lffv_E_201_VIDEO",
+    "Title": "Elders Respond to Nepal Earthquake",
+    "UndatedReferenceTitle": "Elders Respond to Nepal Earthquake",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "Other"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "5984c578308407232073787e",
+    "languageAgnosticNaturalKey": "pub-imv_4_VIDEO",
+    "naturalKey": "pub-imv_E_4_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODMinistryTools",
+    "description": "",
+    "firstPublished": "2017-09-22T13:33:22.481Z",
+    "duration": 70.241,
+    "durationFormattedHHMM": "1:10",
+    "durationFormattedMinSec": "1m 10s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/10/imv_E_04_r240P.mp4",
+            "checksum": "333d5abab35420869d0ed7f863a29e00",
+            "filesize": 3552412,
+            "modifiedDatetime": "2020-11-27T05:35:59.000Z",
+            "bitRate": 395.1142317165188,
+            "duration": 70.241,
+            "frameHeight": 180,
+            "frameWidth": 320,
+            "label": "240p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/db/imv_E_04_r240P.vtt",
+                "modifiedDatetime": "2019-03-02T21:26:11.000Z",
+                "checksum": "b81d95207af1428d27cd35ee68f9a5d1"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/25/imv_E_04_r360P.mp4",
+            "checksum": "350529dd09c1a008bde57174b9cffa66",
+            "filesize": 7820319,
+            "modifiedDatetime": "2019-03-02T21:26:13.000Z",
+            "bitRate": 870.3788330721562,
+            "duration": 70.195,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/8c/imv_E_04_r360P.vtt",
+                "modifiedDatetime": "2019-03-02T21:26:14.000Z",
+                "checksum": "b81d95207af1428d27cd35ee68f9a5d1"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/b1/imv_E_04_r480P.mp4",
+            "checksum": "dfca1039487591cc88ea7df182556514",
+            "filesize": 10452653,
+            "modifiedDatetime": "2019-03-02T21:26:19.000Z",
+            "bitRate": 1163.3499759598262,
+            "duration": 70.195,
+            "frameHeight": 480,
+            "frameWidth": 854,
+            "label": "480p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/b4/imv_E_04_r480P.vtt",
+                "modifiedDatetime": "2019-03-02T21:26:19.000Z",
+                "checksum": "b81d95207af1428d27cd35ee68f9a5d1"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/51/imv_E_04_r720P.mp4",
+            "checksum": "f6f3388365940d36c8179dbb9b4ef20f",
+            "filesize": 14921009,
+            "modifiedDatetime": "2019-03-02T21:26:24.000Z",
+            "bitRate": 1660.6650446969159,
+            "duration": 70.195,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/8d/imv_E_04_r720P.vtt",
+                "modifiedDatetime": "2019-03-02T21:26:24.000Z",
+                "checksum": "b81d95207af1428d27cd35ee68f9a5d1"
+            }
+        }
+    ],
+    "printReferences": [
+        "imv-4.v",
+        "imv-4"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/db/imv_E_04_r240P.vtt",
+    "Name": "pub-imv_E_4_VIDEO",
+    "Title": "Is There Hope for the Dead?",
+    "UndatedReferenceTitle": "Is There Hope for the Dead?",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2017,
+    "Symbol": "VODMinistryTools"
+}

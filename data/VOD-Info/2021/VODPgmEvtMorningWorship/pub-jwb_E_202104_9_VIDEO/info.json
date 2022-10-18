@@ -1,0 +1,102 @@
+{
+    "guid": "60020583e668ffe089643104",
+    "languageAgnosticNaturalKey": "pub-jwb_202104_9_VIDEO",
+    "naturalKey": "pub-jwb_E_202104_9_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2021-04-12T14:27:41.199Z",
+    "duration": 583.062,
+    "durationFormattedHHMM": "9:43",
+    "durationFormattedMinSec": "9m 43s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/e0/jwb_E_202104_09_r240P.mp4",
+            "checksum": "ccacdfd157817d3235cafd105c5ddf34",
+            "filesize": 9593816,
+            "modifiedDatetime": "2021-04-12T05:07:22.000Z",
+            "bitRate": 128.54840051315298,
+            "duration": 583.062,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.644,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/00/jwb_E_202104_09.vtt",
+                "modifiedDatetime": "2021-04-12T05:07:07.000Z",
+                "checksum": "28fc84443528ad72fa7dbb60aab21ef2"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/5c/jwb_E_202104_09_r360P.mp4",
+            "checksum": "4c6e0041c6128f0b27a932e722c8b030",
+            "filesize": 19199458,
+            "modifiedDatetime": "2021-04-12T05:07:16.000Z",
+            "bitRate": 257.2711433538127,
+            "duration": 583.026,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/00/jwb_E_202104_09.vtt",
+                "modifiedDatetime": "2021-04-12T05:07:07.000Z",
+                "checksum": "28fc84443528ad72fa7dbb60aab21ef2"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/2e/jwb_E_202104_09_r480P.mp4",
+            "checksum": "bff0a8e989213f67e15bad3fda662cc0",
+            "filesize": 33537955,
+            "modifiedDatetime": "2021-04-12T05:07:14.000Z",
+            "bitRate": 449.40581284110834,
+            "duration": 583.026,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/00/jwb_E_202104_09.vtt",
+                "modifiedDatetime": "2021-04-12T05:07:07.000Z",
+                "checksum": "28fc84443528ad72fa7dbb60aab21ef2"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/8a/jwb_E_202104_09_r720P.mp4",
+            "checksum": "f4bb1bcae95e329f541103e500e531d1",
+            "filesize": 56741755,
+            "modifiedDatetime": "2021-04-12T05:07:08.000Z",
+            "bitRate": 760.3348065738064,
+            "duration": 583.026,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/00/jwb_E_202104_09.vtt",
+                "modifiedDatetime": "2021-04-12T05:07:07.000Z",
+                "checksum": "28fc84443528ad72fa7dbb60aab21ef2"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202104-9.v",
+        "jwb.202104-9"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/00/jwb_E_202104_09.vtt",
+    "Name": "pub-jwb_E_202104_9_VIDEO",
+    "Title": "William Turner, Jr.: “Jehovah Raises Up the Meek” (Ps. 147:6)",
+    "UndatedReferenceTitle": "William Turner, Jr.: “Jehovah Raises Up the Meek” (Ps. 147:6)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

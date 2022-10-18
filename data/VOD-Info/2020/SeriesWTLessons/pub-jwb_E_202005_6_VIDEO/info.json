@@ -1,0 +1,102 @@
+{
+    "guid": "5e2200c4aff3a2314882ad19",
+    "languageAgnosticNaturalKey": "pub-jwb_202005_6_VIDEO",
+    "naturalKey": "pub-jwb_E_202005_6_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesWTLessons",
+    "description": "",
+    "firstPublished": "2020-05-18T17:25:21.481Z",
+    "duration": 306.966,
+    "durationFormattedHHMM": "5:06",
+    "durationFormattedMinSec": "5m 6s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/3b/jwb_E_202005_06_r240P.mp4",
+            "checksum": "97cd2cdef13299b93172eb31d300261f",
+            "filesize": 8896731,
+            "modifiedDatetime": "2020-10-18T03:03:11.000Z",
+            "bitRate": 226.42804394460623,
+            "duration": 306.966,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.904,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/a0/jwb_E_202005_06.vtt",
+                "modifiedDatetime": "2020-05-18T15:14:52.000Z",
+                "checksum": "8ca9044ad29d6b4c0381bb4983b992c4"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/ee/jwb_E_202005_06_r360P.mp4",
+            "checksum": "09788b640700fc74706432a7af0fbda8",
+            "filesize": 16375676,
+            "modifiedDatetime": "2020-05-18T15:14:42.000Z",
+            "bitRate": 416.81724920422374,
+            "duration": 306.933,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/a0/jwb_E_202005_06.vtt",
+                "modifiedDatetime": "2020-05-18T15:14:52.000Z",
+                "checksum": "8ca9044ad29d6b4c0381bb4983b992c4"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/6d/jwb_E_202005_06_r480P.mp4",
+            "checksum": "fc6bba8da3f8422b5607475eb9d82375",
+            "filesize": 29725272,
+            "modifiedDatetime": "2020-05-18T15:14:45.000Z",
+            "bitRate": 756.6103595898779,
+            "duration": 306.933,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/a0/jwb_E_202005_06.vtt",
+                "modifiedDatetime": "2020-05-18T15:14:52.000Z",
+                "checksum": "8ca9044ad29d6b4c0381bb4983b992c4"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/4e/jwb_E_202005_06_r720P.mp4",
+            "checksum": "f421a5999aad5c02df1b7d44665a18b7",
+            "filesize": 48569156,
+            "modifiedDatetime": "2020-05-18T15:14:48.000Z",
+            "bitRate": 1236.2519874044174,
+            "duration": 306.933,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/a0/jwb_E_202005_06.vtt",
+                "modifiedDatetime": "2020-05-18T15:14:52.000Z",
+                "checksum": "8ca9044ad29d6b4c0381bb4983b992c4"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202005-6.v",
+        "jwb.202005-6"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/a0/jwb_E_202005_06.vtt",
+    "Name": "pub-jwb_E_202005_6_VIDEO",
+    "Title": "Lessons From The Watchtower—Do Not Judge by Outward Appearance",
+    "UndatedReferenceTitle": "Lessons From The Watchtower—Do Not Judge by Outward Appearance",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "SeriesWTLessons"
+}

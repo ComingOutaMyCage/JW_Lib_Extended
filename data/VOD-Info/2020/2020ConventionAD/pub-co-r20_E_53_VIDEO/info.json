@@ -1,0 +1,102 @@
+{
+    "guid": "5f1046f84bd99b3c372e0361",
+    "languageAgnosticNaturalKey": "pub-co-r20_53_VIDEO",
+    "naturalKey": "pub-co-r20_E_53_VIDEO",
+    "type": "video",
+    "primaryCategory": "2020ConventionAD",
+    "description": "",
+    "firstPublished": "2020-07-16T12:44:26.245Z",
+    "duration": 7180.288,
+    "durationFormattedHHMM": "1:59:40",
+    "durationFormattedMinSec": "1h 59m 40s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/c1/CO-r20_E_53_r240P.mp4",
+            "checksum": "53755e08f6730f008a753ce67d936e75",
+            "filesize": 63625063,
+            "modifiedDatetime": "2020-08-05T19:55:08.000Z",
+            "bitRate": 69.22714028845361,
+            "duration": 7180.288,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/26/CO-r20_E_53.vtt",
+                "modifiedDatetime": "2020-07-21T16:59:53.000Z",
+                "checksum": "875dfbc4e4c24159cc233298de0db0c5"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/0f/CO-r20_E_53_r360P.mp4",
+            "checksum": "90687719e563cf4b60c8a57dd61d60a6",
+            "filesize": 304675515,
+            "modifiedDatetime": "2020-07-16T12:24:52.000Z",
+            "bitRate": 331.50305475618006,
+            "duration": 7180.258,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/26/CO-r20_E_53.vtt",
+                "modifiedDatetime": "2020-07-21T16:59:53.000Z",
+                "checksum": "875dfbc4e4c24159cc233298de0db0c5"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/15/CO-r20_E_53_r480P.mp4",
+            "checksum": "fd7afe3e96656e18c358b9477707f59b",
+            "filesize": 560375537,
+            "modifiedDatetime": "2020-07-16T12:25:32.000Z",
+            "bitRate": 609.7181860056421,
+            "duration": 7180.258,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/26/CO-r20_E_53.vtt",
+                "modifiedDatetime": "2020-07-21T16:59:53.000Z",
+                "checksum": "875dfbc4e4c24159cc233298de0db0c5"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/62/CO-r20_E_53_r720P.mp4",
+            "checksum": "61eb5981a86209fe93e2fbbcb6161c83",
+            "filesize": 949675066,
+            "modifiedDatetime": "2020-07-16T12:26:28.000Z",
+            "bitRate": 1033.2966382440575,
+            "duration": 7180.258,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/26/CO-r20_E_53.vtt",
+                "modifiedDatetime": "2020-07-21T16:59:53.000Z",
+                "checksum": "875dfbc4e4c24159cc233298de0db0c5"
+            }
+        }
+    ],
+    "printReferences": [
+        "co-r20-53.v",
+        "co-r20-53"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/26/CO-r20_E_53.vtt",
+    "Name": "pub-co-r20_E_53_VIDEO",
+    "Title": "2020 “Always Rejoice”! Convention: Friday Afternoon Session—Part 2 (With Audio Descriptions)",
+    "UndatedReferenceTitle": "2020 “Always Rejoice”! Convention: Friday Afternoon Session—Part 2 (With Audio Descriptions)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "2020ConventionAD"
+}

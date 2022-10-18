@@ -1,0 +1,102 @@
+{
+    "guid": "56ab923d79892656f9a4442c",
+    "languageAgnosticNaturalKey": "pub-jwbrd_201603_2_VIDEO",
+    "naturalKey": "pub-jwbrd_E_201603_2_VIDEO",
+    "type": "video",
+    "primaryCategory": "MeetingsConventions",
+    "description": "",
+    "firstPublished": "2016-03-07T14:17:13.468Z",
+    "duration": 312.15,
+    "durationFormattedHHMM": "5:12",
+    "durationFormattedMinSec": "5m 12s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/9f/jwbrd_E_201603_02_r240P.mp4",
+            "checksum": "c404841c40ac260e0b8d4375c45da0d4",
+            "filesize": 7372484,
+            "modifiedDatetime": "2021-02-15T13:33:13.000Z",
+            "bitRate": 184.51876101233384,
+            "duration": 312.15,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.732,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/cd/jwbrd_E_201603_02.vtt",
+                "modifiedDatetime": "2021-02-15T13:33:08.000Z",
+                "checksum": "56cd97bed5d6c6b035fce63110c73fc6"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/71/jwbrd_E_201603_02_r360P.mp4",
+            "checksum": "2994897450e091b7bf98226a288cfae2",
+            "filesize": 13336453,
+            "modifiedDatetime": "2021-02-15T13:33:16.000Z",
+            "bitRate": 333.81510775433964,
+            "duration": 312.122,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/cd/jwbrd_E_201603_02.vtt",
+                "modifiedDatetime": "2021-02-15T13:33:08.000Z",
+                "checksum": "56cd97bed5d6c6b035fce63110c73fc6"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/df/jwbrd_E_201603_02_r480P.mp4",
+            "checksum": "c0b64d22771d916857308bc0fb4d2003",
+            "filesize": 24001486,
+            "modifiedDatetime": "2021-02-15T13:33:19.000Z",
+            "bitRate": 600.7638339335259,
+            "duration": 312.122,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/cd/jwbrd_E_201603_02.vtt",
+                "modifiedDatetime": "2021-02-15T13:33:08.000Z",
+                "checksum": "56cd97bed5d6c6b035fce63110c73fc6"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/93/jwbrd_E_201603_02_r720P.mp4",
+            "checksum": "9efaee0e9f8c8fe5b1241faa9932982e",
+            "filesize": 38080092,
+            "modifiedDatetime": "2021-02-15T13:33:24.000Z",
+            "bitRate": 953.1552365741601,
+            "duration": 312.122,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/cd/jwbrd_E_201603_02.vtt",
+                "modifiedDatetime": "2021-02-15T13:33:08.000Z",
+                "checksum": "56cd97bed5d6c6b035fce63110c73fc6"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwbrd.201603-2.v",
+        "jwbrd.201603-2"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/cd/jwbrd_E_201603_02.vtt",
+    "Name": "pub-jwbrd_E_201603_2_VIDEO",
+    "Title": "How to Make Memorial Bread",
+    "UndatedReferenceTitle": "How to Make Memorial Bread",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2016,
+    "Symbol": "MeetingsConventions"
+}

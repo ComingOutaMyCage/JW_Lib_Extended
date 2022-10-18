@@ -1,0 +1,102 @@
+{
+    "guid": "5ed69e2faf341cff13cbe647",
+    "languageAgnosticNaturalKey": "pub-jwb_202009_9_VIDEO",
+    "naturalKey": "pub-jwb_E_202009_9_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpEndurance",
+    "description": "",
+    "firstPublished": "2020-09-14T12:22:24.075Z",
+    "duration": 303.424,
+    "durationFormattedHHMM": "5:03",
+    "durationFormattedMinSec": "5m 3s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/32/jwb_E_202009_09_r240P.mp4",
+            "checksum": "6f5d0f20c0992f9f2f52008b5be489b8",
+            "filesize": 6208583,
+            "modifiedDatetime": "2020-10-18T03:06:41.000Z",
+            "bitRate": 159.85734380767508,
+            "duration": 303.424,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.786,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/e5/jwb_E_202009_09.vtt",
+                "modifiedDatetime": "2020-09-14T06:49:27.000Z",
+                "checksum": "c5e082cde144b467e8a637640826e260"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/5f/jwb_E_202009_09_r360P.mp4",
+            "checksum": "b9a46dccc6ce77a88ad41ac1792dd7f6",
+            "filesize": 12452608,
+            "modifiedDatetime": "2020-09-14T06:49:43.000Z",
+            "bitRate": 320.66528669558454,
+            "duration": 303.388,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/e5/jwb_E_202009_09.vtt",
+                "modifiedDatetime": "2020-09-14T06:49:27.000Z",
+                "checksum": "c5e082cde144b467e8a637640826e260"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/cd/jwb_E_202009_09_r480P.mp4",
+            "checksum": "56212c5279741194c49d260accd4f659",
+            "filesize": 22797680,
+            "modifiedDatetime": "2020-09-14T06:49:46.000Z",
+            "bitRate": 587.0597222039105,
+            "duration": 303.388,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/e5/jwb_E_202009_09.vtt",
+                "modifiedDatetime": "2020-09-14T06:49:27.000Z",
+                "checksum": "c5e082cde144b467e8a637640826e260"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/83/jwb_E_202009_09_r720P.mp4",
+            "checksum": "e0ca548cd9fbdb265cc9b5f6ad1dbe03",
+            "filesize": 39570771,
+            "modifiedDatetime": "2020-09-14T06:49:51.000Z",
+            "bitRate": 1018.9811345125714,
+            "duration": 303.388,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/e5/jwb_E_202009_09.vtt",
+                "modifiedDatetime": "2020-09-14T06:49:27.000Z",
+                "checksum": "c5e082cde144b467e8a637640826e260"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202009-9.v",
+        "jwb.202009-9"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/e5/jwb_E_202009_09.vtt",
+    "Name": "pub-jwb_E_202009_9_VIDEO",
+    "Title": "Extraordinary Experiences: Facing Death in Sierra Leone",
+    "UndatedReferenceTitle": "Extraordinary Experiences: Facing Death in Sierra Leone",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODIntExpEndurance"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "5fc11ad8c0bf482e1b098535",
+    "languageAgnosticNaturalKey": "pub-jwb_202012_12_VIDEO",
+    "naturalKey": "pub-jwb_E_202012_12_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesWhiteboard",
+    "description": "",
+    "firstPublished": "2020-12-24T14:21:26.384Z",
+    "duration": 187.2,
+    "durationFormattedHHMM": "3:07",
+    "durationFormattedMinSec": "3m 7s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/97/jwb_E_202012_12_r240P.mp4",
+            "checksum": "38b4ddc7d7341c660c6f54e8e989cf6e",
+            "filesize": 3568635,
+            "modifiedDatetime": "2021-01-07T18:32:52.000Z",
+            "bitRate": 148.9314152644231,
+            "duration": 187.2,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.814,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/1c/jwb_E_202012_12.vtt",
+                "modifiedDatetime": "2021-01-07T18:32:43.000Z",
+                "checksum": "f0e036292922cd0afb7fad35d8b25ffd"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/c5/jwb_E_202012_12_r360P.mp4",
+            "checksum": "6a5c4c6675fc1e1667a6f423059fb717",
+            "filesize": 5796678,
+            "modifiedDatetime": "2021-01-07T18:32:56.000Z",
+            "bitRate": 241.95667461852452,
+            "duration": 187.168,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/1c/jwb_E_202012_12.vtt",
+                "modifiedDatetime": "2021-01-07T18:32:43.000Z",
+                "checksum": "f0e036292922cd0afb7fad35d8b25ffd"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/65/jwb_E_202012_12_r480P.mp4",
+            "checksum": "2c56346e33f9642d736813451b88596b",
+            "filesize": 9271917,
+            "modifiedDatetime": "2021-01-07T18:33:01.000Z",
+            "bitRate": 387.0151498252906,
+            "duration": 187.168,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/1c/jwb_E_202012_12.vtt",
+                "modifiedDatetime": "2021-01-07T18:32:43.000Z",
+                "checksum": "f0e036292922cd0afb7fad35d8b25ffd"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/99/jwb_E_202012_12_r720P.mp4",
+            "checksum": "c798d847d97d6af713650c5e97604337",
+            "filesize": 11676371,
+            "modifiedDatetime": "2021-01-07T18:33:04.000Z",
+            "bitRate": 487.37844309657635,
+            "duration": 187.168,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/1c/jwb_E_202012_12.vtt",
+                "modifiedDatetime": "2021-01-07T18:32:43.000Z",
+                "checksum": "f0e036292922cd0afb7fad35d8b25ffd"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202012-12.v",
+        "jwb.202012-12"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/1c/jwb_E_202012_12.vtt",
+    "Name": "pub-jwb_E_202012_12_VIDEO",
+    "Title": "Virus Outbreaks—What You Can Do",
+    "UndatedReferenceTitle": "Virus Outbreaks—What You Can Do",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "SeriesWhiteboard"
+}

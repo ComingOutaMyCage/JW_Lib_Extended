@@ -1,0 +1,102 @@
+{
+    "guid": "5d3f5ad248fd57354cf38bea",
+    "languageAgnosticNaturalKey": "pub-jwb_201911_9_VIDEO",
+    "naturalKey": "pub-jwb_E_201911_9_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODBiblePrinciples",
+    "description": "",
+    "firstPublished": "2019-11-18T14:10:02.949Z",
+    "duration": 305.131,
+    "durationFormattedHHMM": "5:05",
+    "durationFormattedMinSec": "5m 5s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/46/jwb_E_201911_09_r240P.mp4",
+            "checksum": "e7eb727ff63fbc1e3868b503a96dc6bf",
+            "filesize": 8414526,
+            "modifiedDatetime": "2020-11-06T23:27:39.000Z",
+            "bitRate": 215.4434796038423,
+            "duration": 305.131,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.81,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/86/jwb_E_201911_09.vtt",
+                "modifiedDatetime": "2019-11-18T13:10:30.000Z",
+                "checksum": "f92556f42384bd23a1501fdbe79e7e95"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/50/jwb_E_201911_09_r360P.mp4",
+            "checksum": "4b8b88186053c9bbe9d7aacddde2c458",
+            "filesize": 15365826,
+            "modifiedDatetime": "2019-11-18T13:10:16.000Z",
+            "bitRate": 393.46542955050506,
+            "duration": 305.098,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/86/jwb_E_201911_09.vtt",
+                "modifiedDatetime": "2019-11-18T13:10:30.000Z",
+                "checksum": "f92556f42384bd23a1501fdbe79e7e95"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/73/jwb_E_201911_09_r480P.mp4",
+            "checksum": "33914b8baafda8848396b01986717557",
+            "filesize": 27682850,
+            "modifiedDatetime": "2019-11-18T13:10:20.000Z",
+            "bitRate": 708.8616301155694,
+            "duration": 305.098,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/86/jwb_E_201911_09.vtt",
+                "modifiedDatetime": "2019-11-18T13:10:30.000Z",
+                "checksum": "f92556f42384bd23a1501fdbe79e7e95"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/13/jwb_E_201911_09_r720P.mp4",
+            "checksum": "ee7a7b9ba665a693c474d42ccef555db",
+            "filesize": 45265730,
+            "modifiedDatetime": "2019-11-18T13:10:24.000Z",
+            "bitRate": 1159.0981115084332,
+            "duration": 305.098,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/86/jwb_E_201911_09.vtt",
+                "modifiedDatetime": "2019-11-18T13:10:30.000Z",
+                "checksum": "f92556f42384bd23a1501fdbe79e7e95"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201911-9.v",
+        "jwb.201911-9"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/86/jwb_E_201911_09.vtt",
+    "Name": "pub-jwb_E_201911_9_VIDEO",
+    "Title": "Maintain Your Love for God",
+    "UndatedReferenceTitle": "Maintain Your Love for God",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODBiblePrinciples"
+}

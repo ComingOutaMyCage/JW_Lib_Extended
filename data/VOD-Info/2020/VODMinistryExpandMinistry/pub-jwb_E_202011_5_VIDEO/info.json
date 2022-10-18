@@ -1,0 +1,102 @@
+{
+    "guid": "5f19f74f12b86d2c3becd274",
+    "languageAgnosticNaturalKey": "pub-jwb_202011_5_VIDEO",
+    "naturalKey": "pub-jwb_E_202011_5_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODMinistryExpandMinistry",
+    "description": "",
+    "firstPublished": "2020-11-16T22:07:23.348Z",
+    "duration": 303.83,
+    "durationFormattedHHMM": "5:03",
+    "durationFormattedMinSec": "5m 3s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/d1/jwb_E_202011_05_r240P.mp4",
+            "checksum": "33dd69ab2efe2b2b10af5f032cac1de5",
+            "filesize": 9068885,
+            "modifiedDatetime": "2020-11-16T21:46:32.000Z",
+            "bitRate": 233.1917982506665,
+            "duration": 303.83,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.833,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f0/jwb_E_202011_05.vtt",
+                "modifiedDatetime": "2020-11-16T21:46:44.000Z",
+                "checksum": "cda7a0b47c46493414ad7c82a9e163d9"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/44/jwb_E_202011_05_r360P.mp4",
+            "checksum": "ae56d01c7c4067a3635fd1e41fced1e7",
+            "filesize": 16806468,
+            "modifiedDatetime": "2020-11-16T21:46:34.000Z",
+            "bitRate": 432.18686739849574,
+            "duration": 303.805,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f0/jwb_E_202011_05.vtt",
+                "modifiedDatetime": "2020-11-16T21:46:44.000Z",
+                "checksum": "cda7a0b47c46493414ad7c82a9e163d9"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/46/jwb_E_202011_05_r480P.mp4",
+            "checksum": "7ec300951bb10f24f0a42496ce18d90e",
+            "filesize": 31076008,
+            "modifiedDatetime": "2020-11-16T21:46:36.000Z",
+            "bitRate": 799.1353417488191,
+            "duration": 303.805,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f0/jwb_E_202011_05.vtt",
+                "modifiedDatetime": "2020-11-16T21:46:44.000Z",
+                "checksum": "cda7a0b47c46493414ad7c82a9e163d9"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/d4/jwb_E_202011_05_r720P.mp4",
+            "checksum": "def4ecef199612a4e97b5014b1fade5a",
+            "filesize": 53159194,
+            "modifiedDatetime": "2020-11-16T21:46:39.000Z",
+            "bitRate": 1367.0156946890274,
+            "duration": 303.805,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f0/jwb_E_202011_05.vtt",
+                "modifiedDatetime": "2020-11-16T21:46:44.000Z",
+                "checksum": "cda7a0b47c46493414ad7c82a9e163d9"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202011-5.v",
+        "jwb.202011-5"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/f0/jwb_E_202011_05.vtt",
+    "Name": "pub-jwb_E_202011_5_VIDEO",
+    "Title": "“Pay Constant Attention to . . . Your Teaching”",
+    "UndatedReferenceTitle": "“Pay Constant Attention to . . . Your Teaching”",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODMinistryExpandMinistry"
+}

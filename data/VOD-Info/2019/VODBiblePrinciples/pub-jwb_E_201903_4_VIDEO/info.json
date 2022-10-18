@@ -1,0 +1,102 @@
+{
+    "guid": "5c4f1475351dc4182b662f00",
+    "languageAgnosticNaturalKey": "pub-jwb_201903_4_VIDEO",
+    "naturalKey": "pub-jwb_E_201903_4_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODBiblePrinciples",
+    "description": "",
+    "firstPublished": "2019-03-18T20:43:29.299Z",
+    "duration": 308.224,
+    "durationFormattedHHMM": "5:08",
+    "durationFormattedMinSec": "5m 8s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/6b/jwb_E_201903_04_r240P.mp4",
+            "checksum": "aa29855995ebec288b9126ff20d7a5b3",
+            "filesize": 9444200,
+            "modifiedDatetime": "2020-11-07T20:01:14.000Z",
+            "bitRate": 239.38049113631646,
+            "duration": 308.224,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.483,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/fb/jwb_E_201903_04.vtt",
+                "modifiedDatetime": "2019-03-25T20:23:12.000Z",
+                "checksum": "88d85b56a90ade1bf0c53df4ad80e49e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/c2/jwb_E_201903_04_r360P.mp4",
+            "checksum": "8dc5f1ab7fb31bd8bb71cd20f0febc50",
+            "filesize": 16795123,
+            "modifiedDatetime": "2019-03-25T20:23:11.000Z",
+            "bitRate": 425.7583081454585,
+            "duration": 308.184,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/fb/jwb_E_201903_04.vtt",
+                "modifiedDatetime": "2019-03-25T20:23:12.000Z",
+                "checksum": "88d85b56a90ade1bf0c53df4ad80e49e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/df/jwb_E_201903_04_r480P.mp4",
+            "checksum": "5ba7abbafc4fa89dd408f00c645848c5",
+            "filesize": 30392297,
+            "modifiedDatetime": "2019-03-25T20:23:05.000Z",
+            "bitRate": 770.4482397285387,
+            "duration": 308.184,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/fb/jwb_E_201903_04.vtt",
+                "modifiedDatetime": "2019-03-25T20:23:12.000Z",
+                "checksum": "88d85b56a90ade1bf0c53df4ad80e49e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/2d/jwb_E_201903_04_r720P.mp4",
+            "checksum": "200dfd68a17e268c0e46b9d8d5ec17d2",
+            "filesize": 49438603,
+            "modifiedDatetime": "2019-03-25T20:23:07.000Z",
+            "bitRate": 1253.2742969703163,
+            "duration": 308.184,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/fb/jwb_E_201903_04.vtt",
+                "modifiedDatetime": "2019-03-25T20:23:12.000Z",
+                "checksum": "88d85b56a90ade1bf0c53df4ad80e49e"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201903-4.v",
+        "jwb.201903-4"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/fb/jwb_E_201903_04.vtt",
+    "Name": "pub-jwb_E_201903_4_VIDEO",
+    "Title": "Neutrality in Thought and Action",
+    "UndatedReferenceTitle": "Neutrality in Thought and Action",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODBiblePrinciples"
+}

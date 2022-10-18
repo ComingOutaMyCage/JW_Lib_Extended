@@ -1,0 +1,102 @@
+{
+    "guid": "5d1a26aa48fd57354cf355b9",
+    "languageAgnosticNaturalKey": "pub-jwb_201908_4_VIDEO",
+    "naturalKey": "pub-jwb_E_201908_4_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpEndurance",
+    "description": "",
+    "firstPublished": "2019-08-19T21:14:44.736Z",
+    "duration": 375.552,
+    "durationFormattedHHMM": "6:15",
+    "durationFormattedMinSec": "6m 15s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/c8/jwb_E_201908_04_r240P.mp4",
+            "checksum": "506b011a10ade1f574c6db887f9ad394",
+            "filesize": 8184902,
+            "modifiedDatetime": "2020-11-21T06:37:07.000Z",
+            "bitRate": 170.26815693965148,
+            "duration": 375.552,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.211,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/2d/jwb_E_201908_04.vtt",
+                "modifiedDatetime": "2019-08-19T10:00:03.000Z",
+                "checksum": "feb8d72fc439533eda957acf18a78a9d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/16/jwb_E_201908_04_r360P.mp4",
+            "checksum": "b2e9b41e44df7d6842afe0607f320273",
+            "filesize": 15904026,
+            "modifiedDatetime": "2019-08-19T09:59:44.000Z",
+            "bitRate": 330.87682381403823,
+            "duration": 375.518,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/2d/jwb_E_201908_04.vtt",
+                "modifiedDatetime": "2019-08-19T10:00:03.000Z",
+                "checksum": "feb8d72fc439533eda957acf18a78a9d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/39/jwb_E_201908_04_r480P.mp4",
+            "checksum": "f02a67eead50f3a085fcf3c7f015073c",
+            "filesize": 29142960,
+            "modifiedDatetime": "2019-08-19T09:59:47.000Z",
+            "bitRate": 606.3074872576016,
+            "duration": 375.518,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/2d/jwb_E_201908_04.vtt",
+                "modifiedDatetime": "2019-08-19T10:00:03.000Z",
+                "checksum": "feb8d72fc439533eda957acf18a78a9d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/a4/jwb_E_201908_04_r720P.mp4",
+            "checksum": "6d095475deac79effa671552c25dfbf6",
+            "filesize": 47878778,
+            "modifiedDatetime": "2019-08-19T09:59:58.000Z",
+            "bitRate": 996.0985974706939,
+            "duration": 375.518,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/2d/jwb_E_201908_04.vtt",
+                "modifiedDatetime": "2019-08-19T10:00:03.000Z",
+                "checksum": "feb8d72fc439533eda957acf18a78a9d"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201908-4.v",
+        "jwb.201908-4"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/2d/jwb_E_201908_04.vtt",
+    "Name": "pub-jwb_E_201908_4_VIDEO",
+    "Title": "Gary and Beth Septer: Jehovah Is Close to the Brokenhearted",
+    "UndatedReferenceTitle": "Gary and Beth Septer: Jehovah Is Close to the Brokenhearted",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODIntExpEndurance"
+}

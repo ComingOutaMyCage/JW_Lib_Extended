@@ -1,0 +1,102 @@
+{
+    "guid": "5e42ca66faacdecc138dc4f2",
+    "languageAgnosticNaturalKey": "pub-jwb_202003_1_VIDEO",
+    "naturalKey": "pub-jwb_E_202003_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "StudioMonthlyPrograms",
+    "description": "",
+    "firstPublished": "2020-03-02T12:36:04.621Z",
+    "duration": 3252.8,
+    "durationFormattedHHMM": "54:12",
+    "durationFormattedMinSec": "54m 12s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/88/jwb_E_202003_01_r240P.mp4",
+            "checksum": "88286ce55a80c998db8a1a239a28dfca",
+            "filesize": 63850472,
+            "modifiedDatetime": "2020-10-18T02:59:56.000Z",
+            "bitRate": 153.35459066035415,
+            "duration": 3252.8,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/b5/jwb_E_202003_01.vtt",
+                "modifiedDatetime": "2020-03-02T09:03:33.000Z",
+                "checksum": "c9aa3cd4d09c7e83bcf40b8d81c74527"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/28/jwb_E_202003_01_r360P.mp4",
+            "checksum": "15067db9651d9315978d28900de5fc51",
+            "filesize": 166884828,
+            "modifiedDatetime": "2020-03-02T09:03:05.000Z",
+            "bitRate": 400.82518217611573,
+            "duration": 3252.759,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/b5/jwb_E_202003_01.vtt",
+                "modifiedDatetime": "2020-03-02T09:03:33.000Z",
+                "checksum": "c9aa3cd4d09c7e83bcf40b8d81c74527"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/35/jwb_E_202003_01_r480P.mp4",
+            "checksum": "3c53be05a6ad4d20c07324b233a975ce",
+            "filesize": 307732874,
+            "modifiedDatetime": "2020-03-02T09:03:12.000Z",
+            "bitRate": 739.1150337682565,
+            "duration": 3252.759,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/b5/jwb_E_202003_01.vtt",
+                "modifiedDatetime": "2020-03-02T09:03:33.000Z",
+                "checksum": "c9aa3cd4d09c7e83bcf40b8d81c74527"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/d7/jwb_E_202003_01_r720P.mp4",
+            "checksum": "a168bc78aa84b3f24d5365dc37b00a8e",
+            "filesize": 513534518,
+            "modifiedDatetime": "2020-03-02T09:03:21.000Z",
+            "bitRate": 1233.4109049809715,
+            "duration": 3252.759,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/b5/jwb_E_202003_01.vtt",
+                "modifiedDatetime": "2020-03-02T09:03:33.000Z",
+                "checksum": "c9aa3cd4d09c7e83bcf40b8d81c74527"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202003-1.v",
+        "jwb.202003-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/b5/jwb_E_202003_01.vtt",
+    "Name": "pub-jwb_E_202003_1_VIDEO",
+    "Title": "JW Broadcasting—March 2020",
+    "UndatedReferenceTitle": "JW Broadcasting—March 2020",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "StudioMonthlyPrograms"
+}

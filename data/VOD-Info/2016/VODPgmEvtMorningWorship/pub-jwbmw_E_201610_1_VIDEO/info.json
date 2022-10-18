@@ -1,0 +1,102 @@
+{
+    "guid": "57bca808fbf22850e2b3768b",
+    "languageAgnosticNaturalKey": "pub-jwbmw_201610_1_VIDEO",
+    "naturalKey": "pub-jwbmw_E_201610_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2016-10-17T13:21:48.452Z",
+    "duration": 540.816,
+    "durationFormattedHHMM": "9:00",
+    "durationFormattedMinSec": "9m 0s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/39/jwbmw_E_201610_01_r240P.mp4",
+            "checksum": "096efd89bb80701e83470c1c1b4167d1",
+            "filesize": 24508607,
+            "modifiedDatetime": "2020-11-08T05:24:59.000Z",
+            "bitRate": 354.04553894023104,
+            "duration": 540.816,
+            "frameHeight": 180,
+            "frameWidth": 320,
+            "label": "240p",
+            "frameRate": 30,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/08/jwbmw_E_201610_01_r240P.vtt",
+                "modifiedDatetime": "2019-02-10T18:43:09.000Z",
+                "checksum": "fc1c8cb968fdcc4de2944276fe782d30"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/6d/jwbmw_E_201610_01_r360P.mp4",
+            "checksum": "06cf1f92c599c07be352f36ec8f9f1dc",
+            "filesize": 55602923,
+            "modifiedDatetime": "2019-02-10T20:34:29.000Z",
+            "bitRate": 803.2900462377953,
+            "duration": 540.7733333333333,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 2205,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/5d/jwbmw_E_201610_01_r360P.vtt",
+                "modifiedDatetime": "2019-02-10T20:34:29.000Z",
+                "checksum": "fc1c8cb968fdcc4de2944276fe782d30"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/93/jwbmw_E_201610_01_r480P.mp4",
+            "checksum": "26bb213d07101f354513ce3060d6dea2",
+            "filesize": 76120287,
+            "modifiedDatetime": "2019-02-10T23:08:09.000Z",
+            "bitRate": 1099.7024178722447,
+            "duration": 540.7733333333333,
+            "frameHeight": 480,
+            "frameWidth": 854,
+            "label": "480p",
+            "frameRate": 2205,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/26/jwbmw_E_201610_01_r480P.vtt",
+                "modifiedDatetime": "2019-02-10T23:08:09.000Z",
+                "checksum": "fc1c8cb968fdcc4de2944276fe782d30"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/2b/jwbmw_E_201610_01_r720P.mp4",
+            "checksum": "8bed1bafa23951afefe4a7ed5560e342",
+            "filesize": 109593387,
+            "modifiedDatetime": "2019-02-11T02:10:34.000Z",
+            "bitRate": 1583.2850533880492,
+            "duration": 540.7733333333333,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 2205,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/e9/jwbmw_E_201610_01_r720P.vtt",
+                "modifiedDatetime": "2019-02-11T02:10:34.000Z",
+                "checksum": "fc1c8cb968fdcc4de2944276fe782d30"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwbmw.201610-1.v",
+        "jwbmw.201610-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/08/jwbmw_E_201610_01_r240P.vtt",
+    "Name": "pub-jwbmw_E_201610_1_VIDEO",
+    "Title": "M. Stephen Lett: Never Be a Cause for Stumbling (2 Cor. 6:3)",
+    "UndatedReferenceTitle": "M. Stephen Lett: Never Be a Cause for Stumbling (2 Cor. 6:3)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2016,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

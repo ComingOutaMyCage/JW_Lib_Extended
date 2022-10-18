@@ -1,0 +1,102 @@
+{
+    "guid": "6023f2cdaa8dbd024d3bf679",
+    "languageAgnosticNaturalKey": "pub-jwb-082_6_VIDEO",
+    "naturalKey": "pub-jwb-082_E_6_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesWTLessons",
+    "description": "",
+    "firstPublished": "2021-09-20T16:01:38.784Z",
+    "duration": 284.95,
+    "durationFormattedHHMM": "4:44",
+    "durationFormattedMinSec": "4m 44s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/37/jwb-082_E_06_r240P.mp4",
+            "checksum": "005fb4b98ffa2d1caedbed1d53052787",
+            "filesize": 7733451,
+            "modifiedDatetime": "2021-09-20T05:54:32.000Z",
+            "bitRate": 212.02872762765398,
+            "duration": 284.95,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.904,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/bf/jwb-082_E_06.vtt",
+                "modifiedDatetime": "2021-09-20T05:54:19.000Z",
+                "checksum": "6cf4a8c34762695dfbe43fd6b547fac8"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/4e/jwb-082_E_06_r360P.mp4",
+            "checksum": "692d1af07476c560678c1523f3c4b605",
+            "filesize": 14517083,
+            "modifiedDatetime": "2021-09-20T05:54:30.000Z",
+            "bitRate": 398.07066395295374,
+            "duration": 284.911,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/bf/jwb-082_E_06.vtt",
+                "modifiedDatetime": "2021-09-20T05:54:19.000Z",
+                "checksum": "6cf4a8c34762695dfbe43fd6b547fac8"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/26/jwb-082_E_06_r480P.mp4",
+            "checksum": "251118443b25e6d5a7667f77e69b4310",
+            "filesize": 26592900,
+            "modifiedDatetime": "2021-09-20T05:54:27.000Z",
+            "bitRate": 729.1997544847338,
+            "duration": 284.911,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/bf/jwb-082_E_06.vtt",
+                "modifiedDatetime": "2021-09-20T05:54:19.000Z",
+                "checksum": "6cf4a8c34762695dfbe43fd6b547fac8"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/3f/jwb-082_E_06_r720P.mp4",
+            "checksum": "2f65771e6ad9b7f4f6fd9a9931bf9d6f",
+            "filesize": 43446805,
+            "modifiedDatetime": "2021-09-20T05:54:22.000Z",
+            "bitRate": 1191.3480492592423,
+            "duration": 284.911,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/bf/jwb-082_E_06.vtt",
+                "modifiedDatetime": "2021-09-20T05:54:19.000Z",
+                "checksum": "6cf4a8c34762695dfbe43fd6b547fac8"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-082-6.v",
+        "jwb-082-6"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/bf/jwb-082_E_06.vtt",
+    "Name": "pub-jwb-082_E_6_VIDEO",
+    "Title": "Lessons From The Watchtower—Build Strong Friendships",
+    "UndatedReferenceTitle": "Lessons From The Watchtower—Build Strong Friendships",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "SeriesWTLessons"
+}

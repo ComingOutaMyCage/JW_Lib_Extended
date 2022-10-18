@@ -1,0 +1,102 @@
+{
+    "guid": "5b4e4f80928a076623efd919",
+    "languageAgnosticNaturalKey": "pub-jwb_201808_7_VIDEO",
+    "naturalKey": "pub-jwb_E_201808_7_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpEndurance",
+    "description": "",
+    "firstPublished": "2018-08-20T13:49:31.725Z",
+    "duration": 296.875,
+    "durationFormattedHHMM": "4:56",
+    "durationFormattedMinSec": "4m 56s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/cf/jwb_E_201808_07_r240P.mp4",
+            "checksum": "edb45158b6b5e034b0f8f7b7de50ddd6",
+            "filesize": 8840556,
+            "modifiedDatetime": "2020-11-21T06:36:30.000Z",
+            "bitRate": 232.6462105263158,
+            "duration": 296.875,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.833,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/df/jwb_E_201808_07_r240P.vtt",
+                "modifiedDatetime": "2018-08-20T13:36:16.000Z",
+                "checksum": "7c8291511b6870455bab632b718714e0"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/97/jwb_E_201808_07_r360P.mp4",
+            "checksum": "fc3cb68ddd18b30d35d2d208810f6a1c",
+            "filesize": 17400510,
+            "modifiedDatetime": "2018-08-20T13:36:20.000Z",
+            "bitRate": 457.96214922180303,
+            "duration": 296.84,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/de/jwb_E_201808_07_r360P.vtt",
+                "modifiedDatetime": "2018-08-20T13:36:28.000Z",
+                "checksum": "7c8291511b6870455bab632b718714e0"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/df/jwb_E_201808_07_r480P.mp4",
+            "checksum": "3af156f50ffb98411478ed79c6828a12",
+            "filesize": 33637423,
+            "modifiedDatetime": "2018-08-20T13:36:37.000Z",
+            "bitRate": 885.2997142821049,
+            "duration": 296.84,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/79/jwb_E_201808_07_r480P.vtt",
+                "modifiedDatetime": "2018-08-20T13:36:44.000Z",
+                "checksum": "7c8291511b6870455bab632b718714e0"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/79/jwb_E_201808_07_r720P.mp4",
+            "checksum": "fdf6617810fde11cb7d9cb7a18334ab6",
+            "filesize": 58596089,
+            "modifiedDatetime": "2018-08-20T13:36:48.000Z",
+            "bitRate": 1542.1841575006738,
+            "duration": 296.84,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/30/jwb_E_201808_07_r720P.vtt",
+                "modifiedDatetime": "2018-08-20T13:36:55.000Z",
+                "checksum": "7c8291511b6870455bab632b718714e0"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201808-7.v",
+        "jwb.201808-7"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/df/jwb_E_201808_07_r240P.vtt",
+    "Name": "pub-jwb_E_201808_7_VIDEO",
+    "Title": "Preaching in All Weather",
+    "UndatedReferenceTitle": "Preaching in All Weather",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "VODIntExpEndurance"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "5cf80b6d48fd57354cf329f1",
+    "languageAgnosticNaturalKey": "pub-jwb_201907_7_VIDEO",
+    "naturalKey": "pub-jwb_E_201907_7_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODActivitiesAVProduction",
+    "description": "",
+    "firstPublished": "2019-07-15T18:50:52.457Z",
+    "duration": 278.23,
+    "durationFormattedHHMM": "4:38",
+    "durationFormattedMinSec": "4m 38s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/7a/jwb_E_201907_07_r240P.mp4",
+            "checksum": "a58cde10b3f2a66c41c13ee650e44382",
+            "filesize": 8510174,
+            "modifiedDatetime": "2020-11-07T20:01:27.000Z",
+            "bitRate": 238.95961749272183,
+            "duration": 278.23,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.483,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ac/jwb_E_201907_07.vtt",
+                "modifiedDatetime": "2019-07-15T12:49:27.000Z",
+                "checksum": "e181eb3e4445552f13786880f03221f9"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/69/jwb_E_201907_07_r360P.mp4",
+            "checksum": "64cc8a209e4daea4719d611eff6102ae",
+            "filesize": 15756296,
+            "modifiedDatetime": "2019-11-17T22:51:02.000Z",
+            "bitRate": 442.4796276725761,
+            "duration": 278.196,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ac/jwb_E_201907_07.vtt",
+                "modifiedDatetime": "2019-07-15T12:49:27.000Z",
+                "checksum": "e181eb3e4445552f13786880f03221f9"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/da/jwb_E_201907_07_r480P.mp4",
+            "checksum": "73d3b361cc361a77b195087eae258856",
+            "filesize": 28905754,
+            "modifiedDatetime": "2019-07-15T12:49:40.000Z",
+            "bitRate": 811.7521572021165,
+            "duration": 278.196,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ac/jwb_E_201907_07.vtt",
+                "modifiedDatetime": "2019-07-15T12:49:27.000Z",
+                "checksum": "e181eb3e4445552f13786880f03221f9"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/1a/jwb_E_201907_07_r720P.mp4",
+            "checksum": "67a16e004b445003f2a34d5f63c5e7f4",
+            "filesize": 48481011,
+            "modifiedDatetime": "2019-07-15T12:49:50.000Z",
+            "bitRate": 1361.4785922065737,
+            "duration": 278.196,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ac/jwb_E_201907_07.vtt",
+                "modifiedDatetime": "2019-07-15T12:49:27.000Z",
+                "checksum": "e181eb3e4445552f13786880f03221f9"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201907-7.v",
+        "jwb.201907-7"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/ac/jwb_E_201907_07.vtt",
+    "Name": "pub-jwb_E_201907_7_VIDEO",
+    "Title": "JW Satellite Channel for Sub-Saharan Africa",
+    "UndatedReferenceTitle": "JW Satellite Channel for Sub-Saharan Africa",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODActivitiesAVProduction"
+}

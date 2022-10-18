@@ -1,0 +1,102 @@
+{
+    "guid": "5d49d43748fd57354cf3a0cb",
+    "languageAgnosticNaturalKey": "pub-thv_10_VIDEO",
+    "naturalKey": "pub-thv_E_10_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODMinistryApplyTeaching",
+    "description": "",
+    "firstPublished": "2019-09-16T18:53:21.261Z",
+    "duration": 298.795,
+    "durationFormattedHHMM": "4:58",
+    "durationFormattedMinSec": "4m 58s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/3a/thv_E_10_r240P.mp4",
+            "checksum": "a22ea5f896248fbfd55d3baa01ab7726",
+            "filesize": 4805583,
+            "modifiedDatetime": "2020-12-04T19:11:41.000Z",
+            "bitRate": 125.65008513362004,
+            "duration": 298.795,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.599,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/15/thv_E_10.vtt",
+                "modifiedDatetime": "2019-09-16T11:39:02.000Z",
+                "checksum": "a80603c64c787d62cec3744e5c7258ad"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/50/thv_E_10_r360P.mp4",
+            "checksum": "9a631996fad54b4f815f33528c3a1c3a",
+            "filesize": 9656003,
+            "modifiedDatetime": "2019-09-16T11:39:07.000Z",
+            "bitRate": 252.50377709550875,
+            "duration": 298.758,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/15/thv_E_10.vtt",
+                "modifiedDatetime": "2019-09-16T11:39:02.000Z",
+                "checksum": "a80603c64c787d62cec3744e5c7258ad"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/15/thv_E_10_r480P.mp4",
+            "checksum": "4fbc65be37e210867eac87d7225a1253",
+            "filesize": 18105586,
+            "modifiedDatetime": "2019-09-16T11:39:10.000Z",
+            "bitRate": 473.45975881817395,
+            "duration": 298.758,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/15/thv_E_10.vtt",
+                "modifiedDatetime": "2019-09-16T11:39:02.000Z",
+                "checksum": "a80603c64c787d62cec3744e5c7258ad"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/40/thv_E_10_r720P.mp4",
+            "checksum": "5d2d907290c5c419fca2f406e209efc4",
+            "filesize": 29826560,
+            "modifiedDatetime": "2019-09-16T11:39:14.000Z",
+            "bitRate": 779.9623775765001,
+            "duration": 298.758,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/15/thv_E_10.vtt",
+                "modifiedDatetime": "2019-09-16T11:39:02.000Z",
+                "checksum": "a80603c64c787d62cec3744e5c7258ad"
+            }
+        }
+    ],
+    "printReferences": [
+        "thv-10.v",
+        "thv-10"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/15/thv_E_10.vtt",
+    "Name": "pub-thv_E_10_VIDEO",
+    "Title": "Study 10—Modulation",
+    "UndatedReferenceTitle": "Study 10—Modulation",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODMinistryApplyTeaching"
+}

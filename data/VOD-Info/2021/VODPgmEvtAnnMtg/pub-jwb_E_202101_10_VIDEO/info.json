@@ -1,0 +1,102 @@
+{
+    "guid": "5fca4007c0bf482e1b975a34",
+    "languageAgnosticNaturalKey": "pub-jwb_202101_10_VIDEO",
+    "naturalKey": "pub-jwb_E_202101_10_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtAnnMtg",
+    "description": "",
+    "firstPublished": "2021-01-18T14:54:45.352Z",
+    "duration": 911.936,
+    "durationFormattedHHMM": "15:11",
+    "durationFormattedMinSec": "15m 11s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/bc/jwb_E_202101_10_r240P.mp4",
+            "checksum": "d8472a69ce61a1d4cf224eb9d58c7e2e",
+            "filesize": 13539138,
+            "modifiedDatetime": "2021-01-18T09:08:36.000Z",
+            "bitRate": 115.98896811289389,
+            "duration": 911.936,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.506,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/d7/jwb_E_202101_10.vtt",
+                "modifiedDatetime": "2021-01-18T09:08:50.000Z",
+                "checksum": "c190d97710f950689bf4364a8e2327e3"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/1c/jwb_E_202101_10_r360P.mp4",
+            "checksum": "1b13f3fd9c1d8bb84239d77afd76a131",
+            "filesize": 30996709,
+            "modifiedDatetime": "2021-01-18T09:08:38.000Z",
+            "bitRate": 265.55390110284765,
+            "duration": 911.912,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/d7/jwb_E_202101_10.vtt",
+                "modifiedDatetime": "2021-01-18T09:08:50.000Z",
+                "checksum": "c190d97710f950689bf4364a8e2327e3"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/ca/jwb_E_202101_10_r480P.mp4",
+            "checksum": "c47aee312f8bf311af8c6b78791d0480",
+            "filesize": 56587542,
+            "modifiedDatetime": "2021-01-18T09:08:43.000Z",
+            "bitRate": 484.79477392007124,
+            "duration": 911.912,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/d7/jwb_E_202101_10.vtt",
+                "modifiedDatetime": "2021-01-18T09:08:50.000Z",
+                "checksum": "c190d97710f950689bf4364a8e2327e3"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/b9/jwb_E_202101_10_r720P.mp4",
+            "checksum": "9bb13b360827d8c0f43fe394b26c8aa3",
+            "filesize": 98717102,
+            "modifiedDatetime": "2021-01-18T09:08:46.000Z",
+            "bitRate": 845.7256395079788,
+            "duration": 911.912,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/d7/jwb_E_202101_10.vtt",
+                "modifiedDatetime": "2021-01-18T09:08:50.000Z",
+                "checksum": "c190d97710f950689bf4364a8e2327e3"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202101-10.v",
+        "jwb.202101-10"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/d7/jwb_E_202101_10.vtt",
+    "Name": "pub-jwb_E_202101_10_VIDEO",
+    "Title": "Faithful Christian Sisters",
+    "UndatedReferenceTitle": "Faithful Christian Sisters",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODPgmEvtAnnMtg"
+}

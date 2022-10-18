@@ -1,0 +1,102 @@
+{
+    "guid": "6143922fa074a87de6a8da24",
+    "languageAgnosticNaturalKey": "pub-jwb-084_9_VIDEO",
+    "naturalKey": "pub-jwb-084_E_9_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2021-11-15T13:18:20.677Z",
+    "duration": 583.83,
+    "durationFormattedHHMM": "9:43",
+    "durationFormattedMinSec": "9m 43s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/01/jwb-084_E_09_r240P.mp4",
+            "checksum": "af34a7e1e6df56a55af3ab192e1b89bc",
+            "filesize": 9999039,
+            "modifiedDatetime": "2021-11-15T05:30:27.000Z",
+            "bitRate": 133.8017782359591,
+            "duration": 583.83,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.47,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/e2/jwb-084_E_09.vtt",
+                "modifiedDatetime": "2021-11-15T05:30:12.000Z",
+                "checksum": "8a43a103c8b25616a41cfa4f10514509"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/3c/jwb-084_E_09_r360P.mp4",
+            "checksum": "082a92ea82457f72e37da39a3cc09310",
+            "filesize": 19173055,
+            "modifiedDatetime": "2021-11-15T05:30:20.000Z",
+            "bitRate": 256.57980172338483,
+            "duration": 583.793,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/e2/jwb-084_E_09.vtt",
+                "modifiedDatetime": "2021-11-15T05:30:12.000Z",
+                "checksum": "8a43a103c8b25616a41cfa4f10514509"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/d5/jwb-084_E_09_r480P.mp4",
+            "checksum": "0514432baff05c7748e7328bff0730c5",
+            "filesize": 34328678,
+            "modifiedDatetime": "2021-11-15T05:30:16.000Z",
+            "bitRate": 459.39707546167904,
+            "duration": 583.793,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/e2/jwb-084_E_09.vtt",
+                "modifiedDatetime": "2021-11-15T05:30:12.000Z",
+                "checksum": "8a43a103c8b25616a41cfa4f10514509"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/34/jwb-084_E_09_r720P.mp4",
+            "checksum": "e7eab4b7a25f66850c438eee9db925c8",
+            "filesize": 64920373,
+            "modifiedDatetime": "2021-11-15T05:30:13.000Z",
+            "bitRate": 868.7846789230086,
+            "duration": 583.793,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/e2/jwb-084_E_09.vtt",
+                "modifiedDatetime": "2021-11-15T05:30:12.000Z",
+                "checksum": "8a43a103c8b25616a41cfa4f10514509"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-084-9.v",
+        "jwb-084-9"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/e2/jwb-084_E_09.vtt",
+    "Name": "pub-jwb-084_E_9_VIDEO",
+    "Title": "M. Stephen Lett: Tap Into \"the Power Beyond What Is Normal\" (2 Cor. 4:7)",
+    "UndatedReferenceTitle": "M. Stephen Lett: Tap Into \"the Power Beyond What Is Normal\" (2 Cor. 4:7)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

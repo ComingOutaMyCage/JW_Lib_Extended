@@ -1,0 +1,102 @@
+{
+    "guid": "5cd1d85348fd57354cf2f7fc",
+    "languageAgnosticNaturalKey": "pub-jwb_201905_13_VIDEO",
+    "naturalKey": "pub-jwb_E_201905_13_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2019-05-20T20:49:28.887Z",
+    "duration": 656.107,
+    "durationFormattedHHMM": "10:56",
+    "durationFormattedMinSec": "10m 56s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/f6/jwb_E_201905_13_r240P.mp4",
+            "checksum": "bf5979a065307dc06fa78554dfb3b6c4",
+            "filesize": 9905813,
+            "modifiedDatetime": "2020-11-23T21:57:18.000Z",
+            "bitRate": 117.952047550933,
+            "duration": 656.107,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/dd/jwb_E_201905_13.vtt",
+                "modifiedDatetime": "2019-05-20T13:50:56.000Z",
+                "checksum": "ac176a9ed075193d6496b9d52eca4d30"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/ed/jwb_E_201905_13_r360P.mp4",
+            "checksum": "d00d6ed3a2f4b777e04de3a4cfcfa96d",
+            "filesize": 20562535,
+            "modifiedDatetime": "2019-05-20T13:51:04.000Z",
+            "bitRate": 244.86111084648624,
+            "duration": 656.065,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/dd/jwb_E_201905_13.vtt",
+                "modifiedDatetime": "2019-05-20T13:50:56.000Z",
+                "checksum": "ac176a9ed075193d6496b9d52eca4d30"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/26/jwb_E_201905_13_r480P.mp4",
+            "checksum": "4360a9534bb9e288d5bdd181f5e2dce0",
+            "filesize": 36417638,
+            "modifiedDatetime": "2019-05-20T13:51:11.000Z",
+            "bitRate": 433.66556191078627,
+            "duration": 656.065,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/dd/jwb_E_201905_13.vtt",
+                "modifiedDatetime": "2019-05-20T13:50:56.000Z",
+                "checksum": "ac176a9ed075193d6496b9d52eca4d30"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/7e/jwb_E_201905_13_r720P.mp4",
+            "checksum": "927f5ad73879ec4c6b736cec27e6591e",
+            "filesize": 63389973,
+            "modifiedDatetime": "2019-05-20T13:51:22.000Z",
+            "bitRate": 754.8553330272152,
+            "duration": 656.065,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/dd/jwb_E_201905_13.vtt",
+                "modifiedDatetime": "2019-05-20T13:50:56.000Z",
+                "checksum": "ac176a9ed075193d6496b9d52eca4d30"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201905-13.v",
+        "jwb.201905-13"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/dd/jwb_E_201905_13.vtt",
+    "Name": "pub-jwb_E_201905_13_VIDEO",
+    "Title": "M. Stephen Lett: Pursue the Way of Love (1 John 3:18)",
+    "UndatedReferenceTitle": "M. Stephen Lett: Pursue the Way of Love (1 John 3:18)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

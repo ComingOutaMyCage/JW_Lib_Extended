@@ -1,0 +1,102 @@
+{
+    "guid": "5b686f12c1963ea3306e187a",
+    "languageAgnosticNaturalKey": "pub-jwb_201809_9_VIDEO",
+    "naturalKey": "pub-jwb_E_201809_9_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2018-09-10T13:54:14.299Z",
+    "duration": 510.848,
+    "durationFormattedHHMM": "8:30",
+    "durationFormattedMinSec": "8m 30s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/1d/jwb_E_201809_09_r240P.mp4",
+            "checksum": "de8225748f113a197869c85bd319989d",
+            "filesize": 7984643,
+            "modifiedDatetime": "2020-11-04T21:06:29.000Z",
+            "bitRate": 122.11073242432191,
+            "duration": 510.848,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.155,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/78/jwb_E_201809_09.vtt",
+                "modifiedDatetime": "2018-09-10T12:57:29.000Z",
+                "checksum": "32ccefe4c95ea2b350b2441cd46db5b3"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/15/jwb_E_201809_09_r360P.mp4",
+            "checksum": "0699a785c1c95682236d931d3bfbce9e",
+            "filesize": 15949575,
+            "modifiedDatetime": "2018-09-10T12:57:34.000Z",
+            "bitRate": 243.9333907981285,
+            "duration": 510.82,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/78/jwb_E_201809_09.vtt",
+                "modifiedDatetime": "2018-09-10T12:57:29.000Z",
+                "checksum": "32ccefe4c95ea2b350b2441cd46db5b3"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/ed/jwb_E_201809_09_r480P.mp4",
+            "checksum": "cb2d081e359e075d7d9e3cf02074bcd8",
+            "filesize": 28520338,
+            "modifiedDatetime": "2018-09-10T12:57:37.000Z",
+            "bitRate": 436.1911057221722,
+            "duration": 510.82,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/78/jwb_E_201809_09.vtt",
+                "modifiedDatetime": "2018-09-10T12:57:29.000Z",
+                "checksum": "32ccefe4c95ea2b350b2441cd46db5b3"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/9e/jwb_E_201809_09_r720P.mp4",
+            "checksum": "ac9c42104eff64c8056cc5eef9751c37",
+            "filesize": 53068393,
+            "modifiedDatetime": "2018-09-10T12:57:40.000Z",
+            "bitRate": 811.6299681149916,
+            "duration": 510.82,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/78/jwb_E_201809_09.vtt",
+                "modifiedDatetime": "2018-09-10T12:57:29.000Z",
+                "checksum": "32ccefe4c95ea2b350b2441cd46db5b3"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201809-9.v",
+        "jwb.201809-9"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/78/jwb_E_201809_09.vtt",
+    "Name": "pub-jwb_E_201809_9_VIDEO",
+    "Title": "James Mantz: Guard Against Greed (Luke 12:15)",
+    "UndatedReferenceTitle": "James Mantz: Guard Against Greed (Luke 12:15)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

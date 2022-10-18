@@ -1,0 +1,102 @@
+{
+    "guid": "60343198aa8dbd024d64c907",
+    "languageAgnosticNaturalKey": "pub-mwbv_202103_3_VIDEO",
+    "naturalKey": "pub-mwbv_E_202103_3_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesOrgAccomplishments",
+    "description": "",
+    "firstPublished": "2021-02-24T16:00:27.640Z",
+    "duration": 320.384,
+    "durationFormattedHHMM": "5:20",
+    "durationFormattedMinSec": "5m 20s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/2b/mwbv_E_202103_03_r240P.mp4",
+            "checksum": "5dd4213c0eab326854b6cb04ccb88ce2",
+            "filesize": 8724755,
+            "modifiedDatetime": "2021-02-24T14:59:10.000Z",
+            "bitRate": 212.7514121725804,
+            "duration": 320.384,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.952,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/62/mwbv_E_202103_03.vtt",
+                "modifiedDatetime": "2021-02-24T14:58:57.000Z",
+                "checksum": "d67efaa5ad0a161e2927b7cdcfeece4d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/10/mwbv_E_202103_03_r360P.mp4",
+            "checksum": "2035a5ed4ed3e70ae1cbd586d99b7eae",
+            "filesize": 15991988,
+            "modifiedDatetime": "2021-02-24T14:59:08.000Z",
+            "bitRate": 389.9870030246939,
+            "duration": 320.363,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/62/mwbv_E_202103_03.vtt",
+                "modifiedDatetime": "2021-02-24T14:58:57.000Z",
+                "checksum": "d67efaa5ad0a161e2927b7cdcfeece4d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/2f/mwbv_E_202103_03_r480P.mp4",
+            "checksum": "70568aa630a4546e9c00a5f42c5fdb12",
+            "filesize": 29409827,
+            "modifiedDatetime": "2021-02-24T14:59:06.000Z",
+            "bitRate": 717.1997809906262,
+            "duration": 320.363,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/62/mwbv_E_202103_03.vtt",
+                "modifiedDatetime": "2021-02-24T14:58:57.000Z",
+                "checksum": "d67efaa5ad0a161e2927b7cdcfeece4d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/5b/mwbv_E_202103_03_r720P.mp4",
+            "checksum": "ae48858870f5a5f602bc535c7d78ba5d",
+            "filesize": 48413508,
+            "modifiedDatetime": "2021-02-24T14:59:01.000Z",
+            "bitRate": 1180.6311317162094,
+            "duration": 320.363,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/62/mwbv_E_202103_03.vtt",
+                "modifiedDatetime": "2021-02-24T14:58:57.000Z",
+                "checksum": "d67efaa5ad0a161e2927b7cdcfeece4d"
+            }
+        }
+    ],
+    "printReferences": [
+        "mwbv.202103-3.v",
+        "mwbv.202103-3"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/62/mwbv_E_202103_03.vtt",
+    "Name": "pub-mwbv_E_202103_3_VIDEO",
+    "Title": "Organizational Accomplishments—Simplified Solutions for Remote Translation Offices",
+    "UndatedReferenceTitle": "Organizational Accomplishments—Simplified Solutions for Remote Translation Offices",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "SeriesOrgAccomplishments"
+}

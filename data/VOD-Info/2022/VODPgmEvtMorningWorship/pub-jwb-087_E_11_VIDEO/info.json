@@ -1,0 +1,102 @@
+{
+    "guid": "61f0489a57c50ea1eb147e6c",
+    "languageAgnosticNaturalKey": "pub-jwb-087_11_VIDEO",
+    "naturalKey": "pub-jwb-087_E_11_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2022-03-18T14:03:59.641Z",
+    "duration": 634.518,
+    "durationFormattedHHMM": "10:34",
+    "durationFormattedMinSec": "10m 34s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/1c/jwb-087_E_11_r240P.mp4",
+            "checksum": "1121e409869f7093720548587943fcc3",
+            "filesize": 11434398,
+            "modifiedDatetime": "2022-03-18T13:43:43.000Z",
+            "bitRate": 140.7859735657617,
+            "duration": 634.518,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.762,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/e7/jwb-087_E_11.vtt",
+                "modifiedDatetime": "2022-03-18T13:43:16.000Z",
+                "checksum": "e097f391634e1f475e3d7c71accbaae7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/14/jwb-087_E_11_r360P.mp4",
+            "checksum": "32127382f9e69212b762198df0219110",
+            "filesize": 21992198,
+            "modifiedDatetime": "2022-03-18T13:43:38.000Z",
+            "bitRate": 270.7963359979952,
+            "duration": 634.477,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/e7/jwb-087_E_11.vtt",
+                "modifiedDatetime": "2022-03-18T13:43:16.000Z",
+                "checksum": "e097f391634e1f475e3d7c71accbaae7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/ff/jwb-087_E_11_r480P.mp4",
+            "checksum": "b90ac74671d83884d1c2b610e66e1c48",
+            "filesize": 38171858,
+            "modifiedDatetime": "2022-03-18T13:43:30.000Z",
+            "bitRate": 470.0211995470285,
+            "duration": 634.477,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/e7/jwb-087_E_11.vtt",
+                "modifiedDatetime": "2022-03-18T13:43:16.000Z",
+                "checksum": "e097f391634e1f475e3d7c71accbaae7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/a8/jwb-087_E_11_r720P.mp4",
+            "checksum": "7afa38865e521ae0f9273783f3922403",
+            "filesize": 65256038,
+            "modifiedDatetime": "2022-03-18T13:43:19.000Z",
+            "bitRate": 803.5165922090163,
+            "duration": 634.477,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/e7/jwb-087_E_11.vtt",
+                "modifiedDatetime": "2022-03-18T13:43:16.000Z",
+                "checksum": "e097f391634e1f475e3d7c71accbaae7"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-087-11.v",
+        "jwb-087-11"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/e7/jwb-087_E_11.vtt",
+    "Name": "pub-jwb-087_E_11_VIDEO",
+    "Title": "Robert Luccioni: “Do Not Forget Hospitality” (Heb. 13:2)",
+    "UndatedReferenceTitle": "Robert Luccioni: “Do Not Forget Hospitality” (Heb. 13:2)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

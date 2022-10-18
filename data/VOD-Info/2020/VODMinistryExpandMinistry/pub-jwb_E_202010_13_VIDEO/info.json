@@ -1,0 +1,102 @@
+{
+    "guid": "5f15db164bd99b3c37399d68",
+    "languageAgnosticNaturalKey": "pub-jwb_202010_13_VIDEO",
+    "naturalKey": "pub-jwb_E_202010_13_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODMinistryExpandMinistry",
+    "description": "",
+    "firstPublished": "2020-10-22T13:45:21.457Z",
+    "duration": 100.928,
+    "durationFormattedHHMM": "1:40",
+    "durationFormattedMinSec": "1m 40s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/3a/jwb_E_202010_13_r240P.mp4",
+            "checksum": "355625c32273e8e62e4cec35affe9d63",
+            "filesize": 5623689,
+            "modifiedDatetime": "2020-10-22T05:35:54.000Z",
+            "bitRate": 435.3110168882768,
+            "duration": 100.928,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.506,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/6e/jwb_E_202010_13.vtt",
+                "modifiedDatetime": "2020-10-22T05:36:04.000Z",
+                "checksum": "d55bc4c3b329529be9be88601d260195"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/2f/jwb_E_202010_13_r360P.mp4",
+            "checksum": "0f5aba94b7a803aa4dd413f641c635b3",
+            "filesize": 10709656,
+            "modifiedDatetime": "2020-10-22T05:35:57.000Z",
+            "bitRate": 829.2781285309334,
+            "duration": 100.894,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/6e/jwb_E_202010_13.vtt",
+                "modifiedDatetime": "2020-10-22T05:36:04.000Z",
+                "checksum": "d55bc4c3b329529be9be88601d260195"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/89/jwb_E_202010_13_r480P.mp4",
+            "checksum": "335b0483f24a222d80b9dc4698e7c98c",
+            "filesize": 21202411,
+            "modifiedDatetime": "2020-10-22T05:35:59.000Z",
+            "bitRate": 1641.7610158929172,
+            "duration": 100.894,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/6e/jwb_E_202010_13.vtt",
+                "modifiedDatetime": "2020-10-22T05:36:04.000Z",
+                "checksum": "d55bc4c3b329529be9be88601d260195"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/a2/jwb_E_202010_13_r720P.mp4",
+            "checksum": "98f4b3b0711858513100ec7b897879c9",
+            "filesize": 39119845,
+            "modifiedDatetime": "2020-10-22T05:36:01.000Z",
+            "bitRate": 3029.157225033203,
+            "duration": 100.894,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/6e/jwb_E_202010_13.vtt",
+                "modifiedDatetime": "2020-10-22T05:36:04.000Z",
+                "checksum": "d55bc4c3b329529be9be88601d260195"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202010-13.v",
+        "jwb.202010-13"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/6e/jwb_E_202010_13.vtt",
+    "Name": "pub-jwb_E_202010_13_VIDEO",
+    "Title": "A Great Harvest, but More Workers Needed",
+    "UndatedReferenceTitle": "A Great Harvest, but More Workers Needed",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODMinistryExpandMinistry"
+}

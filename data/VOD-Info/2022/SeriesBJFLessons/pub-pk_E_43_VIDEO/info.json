@@ -1,0 +1,102 @@
+{
+    "guid": "618434efe4dbeaf5fa212395",
+    "languageAgnosticNaturalKey": "pub-pk_43_VIDEO",
+    "naturalKey": "pub-pk_E_43_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBJFLessons",
+    "description": "",
+    "firstPublished": "2022-01-03T16:34:26.057Z",
+    "duration": 760.491,
+    "durationFormattedHHMM": "12:40",
+    "durationFormattedMinSec": "12m 40s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/88/pk_E_043_r240P.mp4",
+            "checksum": "24fc12a03a3477e8724f19127e45b760",
+            "filesize": 21535928,
+            "modifiedDatetime": "2022-01-03T04:44:04.000Z",
+            "bitRate": 221.23790748345476,
+            "duration": 760.491,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.631,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/25/pk_E_043.vtt",
+                "modifiedDatetime": "2022-01-03T04:43:46.000Z",
+                "checksum": "85b4b043509a1bd3e95d4cd4ba945f71"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/a0/pk_E_043_r360P.mp4",
+            "checksum": "56f288cba6df5a2aa657ed08740f57fb",
+            "filesize": 39616026,
+            "modifiedDatetime": "2022-01-03T04:43:56.000Z",
+            "bitRate": 406.990772854588,
+            "duration": 760.46,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/25/pk_E_043.vtt",
+                "modifiedDatetime": "2022-01-03T04:43:46.000Z",
+                "checksum": "85b4b043509a1bd3e95d4cd4ba945f71"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/84/pk_E_043_r480P.mp4",
+            "checksum": "775b69fd895cd27fcf6ce5bcd994f052",
+            "filesize": 73553385,
+            "modifiedDatetime": "2022-01-03T04:43:53.000Z",
+            "bitRate": 755.6424010631722,
+            "duration": 760.46,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/25/pk_E_043.vtt",
+                "modifiedDatetime": "2022-01-03T04:43:46.000Z",
+                "checksum": "85b4b043509a1bd3e95d4cd4ba945f71"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/70/pk_E_043_r720P.mp4",
+            "checksum": "44cb90c1a5ccd8f08a600bc5775ca3d3",
+            "filesize": 119068604,
+            "modifiedDatetime": "2022-01-03T04:43:50.000Z",
+            "bitRate": 1223.237867540699,
+            "duration": 760.46,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/25/pk_E_043.vtt",
+                "modifiedDatetime": "2022-01-03T04:43:46.000Z",
+                "checksum": "85b4b043509a1bd3e95d4cd4ba945f71"
+            }
+        }
+    ],
+    "printReferences": [
+        "pk-43.v",
+        "pk-43"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/25/pk_E_043.vtt",
+    "Name": "pub-pk_E_43_VIDEO",
+    "Title": "Does Jehovah Answer Prayers?",
+    "UndatedReferenceTitle": "Does Jehovah Answer Prayers?",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "SeriesBJFLessons"
+}

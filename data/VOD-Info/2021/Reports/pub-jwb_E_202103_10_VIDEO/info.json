@@ -1,0 +1,102 @@
+{
+    "guid": "5f46a66a20de59c21cb9f4f8",
+    "languageAgnosticNaturalKey": "pub-jwb_202103_10_VIDEO",
+    "naturalKey": "pub-jwb_E_202103_10_VIDEO",
+    "type": "video",
+    "primaryCategory": "Reports",
+    "description": "",
+    "firstPublished": "2021-03-15T14:08:04.630Z",
+    "duration": 317.184,
+    "durationFormattedHHMM": "5:17",
+    "durationFormattedMinSec": "5m 17s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/f7/jwb_E_202103_10_r240P.mp4",
+            "checksum": "70aa873c8223d42fcd52f8f420a3b9c1",
+            "filesize": 9976386,
+            "modifiedDatetime": "2021-03-15T04:52:45.000Z",
+            "bitRate": 245.72650456832625,
+            "duration": 317.184,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.645,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/6a/jwb_E_202103_10.vtt",
+                "modifiedDatetime": "2021-03-15T04:52:34.000Z",
+                "checksum": "f22e81a8c8095c06bf29d5c656ef6092"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/52/jwb_E_202103_10_r360P.mp4",
+            "checksum": "043389412767b53d244cb903d9d7c606",
+            "filesize": 18441628,
+            "modifiedDatetime": "2021-03-15T04:52:43.000Z",
+            "bitRate": 454.27813398622743,
+            "duration": 317.152,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/6a/jwb_E_202103_10.vtt",
+                "modifiedDatetime": "2021-03-15T04:52:34.000Z",
+                "checksum": "f22e81a8c8095c06bf29d5c656ef6092"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/1d/jwb_E_202103_10_r480P.mp4",
+            "checksum": "dac9acbf944f431fab26f4e5ece7f576",
+            "filesize": 34653298,
+            "modifiedDatetime": "2021-03-15T04:52:41.000Z",
+            "bitRate": 853.6250461135355,
+            "duration": 317.152,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/6a/jwb_E_202103_10.vtt",
+                "modifiedDatetime": "2021-03-15T04:52:34.000Z",
+                "checksum": "f22e81a8c8095c06bf29d5c656ef6092"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/62/jwb_E_202103_10_r720P.mp4",
+            "checksum": "a2973ec7541685c9bc1d70383ad437c6",
+            "filesize": 59688740,
+            "modifiedDatetime": "2021-03-15T04:52:38.000Z",
+            "bitRate": 1470.3305709880437,
+            "duration": 317.152,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/6a/jwb_E_202103_10.vtt",
+                "modifiedDatetime": "2021-03-15T04:52:34.000Z",
+                "checksum": "f22e81a8c8095c06bf29d5c656ef6092"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202103-10.v",
+        "jwb.202103-10"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/6a/jwb_E_202103_10.vtt",
+    "Name": "pub-jwb_E_202103_10_VIDEO",
+    "Title": "A Blessing for the Deaf in Peru",
+    "UndatedReferenceTitle": "A Blessing for the Deaf in Peru",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "Reports"
+}

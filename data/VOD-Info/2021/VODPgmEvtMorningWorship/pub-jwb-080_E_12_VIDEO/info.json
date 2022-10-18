@@ -1,0 +1,102 @@
+{
+    "guid": "605b51c0251b665b3932c34b",
+    "languageAgnosticNaturalKey": "pub-jwb-080_12_VIDEO",
+    "naturalKey": "pub-jwb-080_E_12_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2021-05-10T14:43:49.893Z",
+    "duration": 535.168,
+    "durationFormattedHHMM": "8:55",
+    "durationFormattedMinSec": "8m 55s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/6f/jwb-080_E_12_r240P.mp4",
+            "checksum": "db3df5af120f4a29c8827f27a9091bd5",
+            "filesize": 8008165,
+            "modifiedDatetime": "2021-05-10T13:56:35.000Z",
+            "bitRate": 116.90495145916796,
+            "duration": 535.168,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.732,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/12/jwb-080_E_12.vtt",
+                "modifiedDatetime": "2021-05-10T13:56:25.000Z",
+                "checksum": "7fd5e800697ba52e60c1ace38889814e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/a5/jwb-080_E_12_r360P.mp4",
+            "checksum": "ec31c1147bf4b9ee4ad38f264d7e4d13",
+            "filesize": 16009365,
+            "modifiedDatetime": "2021-05-10T13:56:33.000Z",
+            "bitRate": 233.71870760486897,
+            "duration": 535.144,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/12/jwb-080_E_12.vtt",
+                "modifiedDatetime": "2021-05-10T13:56:25.000Z",
+                "checksum": "7fd5e800697ba52e60c1ace38889814e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/e3/jwb-080_E_12_r480P.mp4",
+            "checksum": "774c8988425f6e6fb58665a652dd1849",
+            "filesize": 28273518,
+            "modifiedDatetime": "2021-05-10T13:56:31.000Z",
+            "bitRate": 412.76153591369797,
+            "duration": 535.144,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/12/jwb-080_E_12.vtt",
+                "modifiedDatetime": "2021-05-10T13:56:25.000Z",
+                "checksum": "7fd5e800697ba52e60c1ace38889814e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/a6/jwb-080_E_12_r720P.mp4",
+            "checksum": "d50d13fd90bc2212eac1b8b51b911a0e",
+            "filesize": 55148517,
+            "modifiedDatetime": "2021-05-10T13:56:27.000Z",
+            "bitRate": 805.1062687099173,
+            "duration": 535.144,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/12/jwb-080_E_12.vtt",
+                "modifiedDatetime": "2021-05-10T13:56:25.000Z",
+                "checksum": "7fd5e800697ba52e60c1ace38889814e"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-080-12.v",
+        "jwb-080-12"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/12/jwb-080_E_12.vtt",
+    "Name": "pub-jwb-080_E_12_VIDEO",
+    "Title": "Gajus Glockentin: Why Reach Out? (1 Tim. 3:1)",
+    "UndatedReferenceTitle": "Gajus Glockentin: Why Reach Out? (1 Tim. 3:1)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "5fc12e77c0bf482e1b0a1f8e",
+    "languageAgnosticNaturalKey": "pub-jwb_202102_11_VIDEO",
+    "naturalKey": "pub-jwb_E_202102_11_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2021-02-15T14:25:34.468Z",
+    "duration": 563.806,
+    "durationFormattedHHMM": "9:23",
+    "durationFormattedMinSec": "9m 23s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/d1/jwb_E_202102_11_r240P.mp4",
+            "checksum": "9c6bc25fa0a26383907a6e7e7e3f9ff6",
+            "filesize": 8495464,
+            "modifiedDatetime": "2021-02-15T06:56:39.000Z",
+            "bitRate": 117.71213908200907,
+            "duration": 563.84,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.155,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/2c/jwb_E_202102_11.vtt",
+                "modifiedDatetime": "2021-02-15T06:56:27.000Z",
+                "checksum": "b350515c08d16472a45f9c1550478b96"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/98/jwb_E_202102_11_r360P.mp4",
+            "checksum": "4e1fff451f02978f909034fa7991ca6e",
+            "filesize": 16808296,
+            "modifiedDatetime": "2021-02-15T06:56:35.000Z",
+            "bitRate": 232.90779541189698,
+            "duration": 563.806,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/2c/jwb_E_202102_11.vtt",
+                "modifiedDatetime": "2021-02-15T06:56:27.000Z",
+                "checksum": "b350515c08d16472a45f9c1550478b96"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/aa/jwb_E_202102_11_r480P.mp4",
+            "checksum": "0021b254a69655d9bdf9543a08ae3b45",
+            "filesize": 29763267,
+            "modifiedDatetime": "2021-02-15T06:56:34.000Z",
+            "bitRate": 412.42115805347936,
+            "duration": 563.806,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/2c/jwb_E_202102_11.vtt",
+                "modifiedDatetime": "2021-02-15T06:56:27.000Z",
+                "checksum": "b350515c08d16472a45f9c1550478b96"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/8b/jwb_E_202102_11_r720P.mp4",
+            "checksum": "06b03c6846b3f51d063644063b5825bb",
+            "filesize": 54372262,
+            "modifiedDatetime": "2021-02-15T06:56:31.000Z",
+            "bitRate": 753.4210293522949,
+            "duration": 563.806,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/2c/jwb_E_202102_11.vtt",
+                "modifiedDatetime": "2021-02-15T06:56:27.000Z",
+                "checksum": "b350515c08d16472a45f9c1550478b96"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202102-11.v",
+        "jwb.202102-11"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/2c/jwb_E_202102_11.vtt",
+    "Name": "pub-jwb_E_202102_11_VIDEO",
+    "Title": "Mark Noumair: “Ezra Had Prepared His Heart” (Ezra 7:10)",
+    "UndatedReferenceTitle": "Mark Noumair: “Ezra Had Prepared His Heart” (Ezra 7:10)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

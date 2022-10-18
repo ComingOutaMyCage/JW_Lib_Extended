@@ -1,0 +1,102 @@
+{
+    "guid": "5f84fb8f0ca056895ec7f41a",
+    "languageAgnosticNaturalKey": "pub-pkon_20_VIDEO",
+    "naturalKey": "pub-pkon_E_20_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBJFSongs",
+    "description": "",
+    "firstPublished": "2020-11-02T12:27:28.897Z",
+    "duration": 115.158,
+    "durationFormattedHHMM": "1:55",
+    "durationFormattedMinSec": "1m 55s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/71/pkon_E_020_r240P.mp4",
+            "checksum": "6cd04ff61539846f852dcc4c44e5b641",
+            "filesize": 3910440,
+            "modifiedDatetime": "2020-11-02T08:26:03.000Z",
+            "bitRate": 265.29040535611944,
+            "duration": 115.158,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.645,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/8e/pkon_E_020.vtt",
+                "modifiedDatetime": "2020-11-02T08:26:13.000Z",
+                "checksum": "cc361c0b54c651b24b0b730e6f6c04e5"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/ad/pkon_E_020_r360P.mp4",
+            "checksum": "75696825743a51674799e68a19f249d9",
+            "filesize": 4994440,
+            "modifiedDatetime": "2020-11-02T08:26:05.000Z",
+            "bitRate": 338.8306717726949,
+            "duration": 115.158,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/8e/pkon_E_020.vtt",
+                "modifiedDatetime": "2020-11-02T08:26:13.000Z",
+                "checksum": "cc361c0b54c651b24b0b730e6f6c04e5"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/94/pkon_E_020_r480P.mp4",
+            "checksum": "79826a5377e4519b24ead37af2c88266",
+            "filesize": 8551416,
+            "modifiedDatetime": "2020-11-02T08:26:07.000Z",
+            "bitRate": 580.1415229510759,
+            "duration": 115.158,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/8e/pkon_E_020.vtt",
+                "modifiedDatetime": "2020-11-02T08:26:13.000Z",
+                "checksum": "cc361c0b54c651b24b0b730e6f6c04e5"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/1c/pkon_E_020_r720P.mp4",
+            "checksum": "9d09bc9370b37a7326c2ef9b96ba044a",
+            "filesize": 12700393,
+            "modifiedDatetime": "2020-11-02T08:26:09.000Z",
+            "bitRate": 861.6146538885705,
+            "duration": 115.158,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/8e/pkon_E_020.vtt",
+                "modifiedDatetime": "2020-11-02T08:26:13.000Z",
+                "checksum": "cc361c0b54c651b24b0b730e6f6c04e5"
+            }
+        }
+    ],
+    "printReferences": [
+        "pkon-20.v",
+        "pkon-20"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/8e/pkon_E_020.vtt",
+    "Name": "pub-pkon_E_20_VIDEO",
+    "Title": "Love Is the Key",
+    "UndatedReferenceTitle": "Love Is the Key",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "SeriesBJFSongs"
+}

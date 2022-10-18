@@ -1,0 +1,102 @@
+{
+    "guid": "5fab05c33082cd746806872c",
+    "languageAgnosticNaturalKey": "pub-jwb_202101_12_VIDEO",
+    "naturalKey": "pub-jwb_E_202101_12_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2021-01-11T12:31:05.466Z",
+    "duration": 615.552,
+    "durationFormattedHHMM": "10:15",
+    "durationFormattedMinSec": "10m 15s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/2a/jwb_E_202101_12_r240P.mp4",
+            "checksum": "854a9a964ddc4c09754121eec546cd21",
+            "filesize": 8260958,
+            "modifiedDatetime": "2021-01-11T07:52:34.000Z",
+            "bitRate": 104.84692499577615,
+            "duration": 615.552,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.211,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/53/jwb_E_202101_12.vtt",
+                "modifiedDatetime": "2021-01-11T07:52:54.000Z",
+                "checksum": "25988b3723bf881913814c9beb1ab289"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/2b/jwb_E_202101_12_r360P.mp4",
+            "checksum": "74259229c9aba4e33d183ce14eb968a3",
+            "filesize": 17589186,
+            "modifiedDatetime": "2021-01-11T07:52:36.000Z",
+            "bitRate": 223.24928414767882,
+            "duration": 615.525,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/53/jwb_E_202101_12.vtt",
+                "modifiedDatetime": "2021-01-11T07:52:54.000Z",
+                "checksum": "25988b3723bf881913814c9beb1ab289"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/32/jwb_E_202101_12_r480P.mp4",
+            "checksum": "3404aaa47301b893599b1b71f567fb8e",
+            "filesize": 31176456,
+            "modifiedDatetime": "2021-01-11T07:52:38.000Z",
+            "bitRate": 395.7045814548556,
+            "duration": 615.525,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/53/jwb_E_202101_12.vtt",
+                "modifiedDatetime": "2021-01-11T07:52:54.000Z",
+                "checksum": "25988b3723bf881913814c9beb1ab289"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/eb/jwb_E_202101_12_r720P.mp4",
+            "checksum": "b3290293a6493738d46d6e6ddd86ef38",
+            "filesize": 60396077,
+            "modifiedDatetime": "2021-01-11T07:52:40.000Z",
+            "bitRate": 766.5721970066204,
+            "duration": 615.525,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/53/jwb_E_202101_12.vtt",
+                "modifiedDatetime": "2021-01-11T07:52:54.000Z",
+                "checksum": "25988b3723bf881913814c9beb1ab289"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202101-12.v",
+        "jwb.202101-12"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/53/jwb_E_202101_12.vtt",
+    "Name": "pub-jwb_E_202101_12_VIDEO",
+    "Title": "Joel Dellinger: Faith—\"Assured Expectation\" (Heb. 11:1)",
+    "UndatedReferenceTitle": "Joel Dellinger: Faith—\"Assured Expectation\" (Heb. 11:1)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

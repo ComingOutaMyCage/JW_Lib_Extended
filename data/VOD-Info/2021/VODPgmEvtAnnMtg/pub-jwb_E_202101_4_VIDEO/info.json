@@ -1,0 +1,102 @@
+{
+    "guid": "5fa475cda05028daa1265de2",
+    "languageAgnosticNaturalKey": "pub-jwb_202101_4_VIDEO",
+    "naturalKey": "pub-jwb_E_202101_4_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtAnnMtg",
+    "description": "",
+    "firstPublished": "2021-01-04T15:49:22.633Z",
+    "duration": 897.963,
+    "durationFormattedHHMM": "14:57",
+    "durationFormattedMinSec": "14m 57s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/d7/jwb_E_202101_04_r240P.mp4",
+            "checksum": "f4e0c1873ab2803207e620113a883b6b",
+            "filesize": 13151979,
+            "modifiedDatetime": "2021-01-04T15:17:00.000Z",
+            "bitRate": 114.42546734943423,
+            "duration": 897.963,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.904,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/40/jwb_E_202101_04.vtt",
+                "modifiedDatetime": "2021-01-04T15:18:01.000Z",
+                "checksum": "d17c9bee81ded931dbe753cc562c46e0"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/51/jwb_E_202101_04_r360P.mp4",
+            "checksum": "0bef18d8ff98b2e3217510a8270732d0",
+            "filesize": 27169234,
+            "modifiedDatetime": "2021-01-04T15:17:31.000Z",
+            "bitRate": 236.38510437779806,
+            "duration": 897.94,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/40/jwb_E_202101_04.vtt",
+                "modifiedDatetime": "2021-01-04T15:18:01.000Z",
+                "checksum": "d17c9bee81ded931dbe753cc562c46e0"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/0a/jwb_E_202101_04_r480P.mp4",
+            "checksum": "a2054df1f9b8ab26b884247d41d8336a",
+            "filesize": 47581621,
+            "modifiedDatetime": "2021-01-04T15:18:09.000Z",
+            "bitRate": 413.98246437679575,
+            "duration": 897.94,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/40/jwb_E_202101_04.vtt",
+                "modifiedDatetime": "2021-01-04T15:18:01.000Z",
+                "checksum": "d17c9bee81ded931dbe753cc562c46e0"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/56/jwb_E_202101_04_r720P.mp4",
+            "checksum": "c219aa76fb8ee109654dcc24bd0261d1",
+            "filesize": 79481302,
+            "modifiedDatetime": "2021-01-04T15:18:49.000Z",
+            "bitRate": 691.5246807971579,
+            "duration": 897.94,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/40/jwb_E_202101_04.vtt",
+                "modifiedDatetime": "2021-01-04T15:18:01.000Z",
+                "checksum": "d17c9bee81ded931dbe753cc562c46e0"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202101-4.v",
+        "jwb.202101-4"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/40/jwb_E_202101_04.vtt",
+    "Name": "pub-jwb_E_202101_4_VIDEO",
+    "Title": "David H. Splane: “Wouldn’t It Be Great . . . ?”",
+    "UndatedReferenceTitle": "David H. Splane: “Wouldn’t It Be Great . . . ?”",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODPgmEvtAnnMtg"
+}

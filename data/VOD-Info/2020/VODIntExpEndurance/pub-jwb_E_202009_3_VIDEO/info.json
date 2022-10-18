@@ -1,0 +1,102 @@
+{
+    "guid": "5eb40bcc33192cea84c41c99",
+    "languageAgnosticNaturalKey": "pub-jwb_202009_3_VIDEO",
+    "naturalKey": "pub-jwb_E_202009_3_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpEndurance",
+    "description": "",
+    "firstPublished": "2020-09-21T18:24:29.645Z",
+    "duration": 266.518,
+    "durationFormattedHHMM": "4:26",
+    "durationFormattedMinSec": "4m 26s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/3f/jwb_E_202009_03_r240P.mp4",
+            "checksum": "7e3ae53328a0c9a3c156d398eec509fd",
+            "filesize": 12188701,
+            "modifiedDatetime": "2020-10-18T03:06:13.000Z",
+            "bitRate": 357.29003880600936,
+            "duration": 266.518,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.46,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/9e/jwb_E_202009_03.vtt",
+                "modifiedDatetime": "2020-09-21T14:07:29.000Z",
+                "checksum": "ffd66b494f82235f84e6577b9dc1b247"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/62/jwb_E_202009_03_r360P.mp4",
+            "checksum": "a0e0bf9681f072a5eb7397b4a37f4842",
+            "filesize": 22687747,
+            "modifiedDatetime": "2020-09-21T14:07:11.000Z",
+            "bitRate": 665.1556741976764,
+            "duration": 266.476,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/9e/jwb_E_202009_03.vtt",
+                "modifiedDatetime": "2020-09-21T14:07:29.000Z",
+                "checksum": "ffd66b494f82235f84e6577b9dc1b247"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/18/jwb_E_202009_03_r480P.mp4",
+            "checksum": "b82d4201f5dcec835c2126953ffbbfb0",
+            "filesize": 45084080,
+            "modifiedDatetime": "2020-09-21T14:07:17.000Z",
+            "bitRate": 1321.7677201699214,
+            "duration": 266.476,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/9e/jwb_E_202009_03.vtt",
+                "modifiedDatetime": "2020-09-21T14:07:29.000Z",
+                "checksum": "ffd66b494f82235f84e6577b9dc1b247"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/01/jwb_E_202009_03_r720P.mp4",
+            "checksum": "43c3e42951dbdda43f7647fd843729dc",
+            "filesize": 84126596,
+            "modifiedDatetime": "2020-09-21T14:07:22.000Z",
+            "bitRate": 2466.4098502304146,
+            "duration": 266.476,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/9e/jwb_E_202009_03.vtt",
+                "modifiedDatetime": "2020-09-21T14:07:29.000Z",
+                "checksum": "ffd66b494f82235f84e6577b9dc1b247"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202009-3.v",
+        "jwb.202009-3"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/9e/jwb_E_202009_03.vtt",
+    "Name": "pub-jwb_E_202009_3_VIDEO",
+    "Title": "Sabina Asangalwisye and Saitoti Mellau: Bearing Fruit Despite Challenges",
+    "UndatedReferenceTitle": "Sabina Asangalwisye and Saitoti Mellau: Bearing Fruit Despite Challenges",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODIntExpEndurance"
+}

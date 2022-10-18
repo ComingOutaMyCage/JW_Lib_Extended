@@ -1,0 +1,102 @@
+{
+    "guid": "5c7d9c9164430a5b2d4d94e8",
+    "languageAgnosticNaturalKey": "pub-jwb_201903_11_VIDEO",
+    "naturalKey": "pub-jwb_E_201903_11_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODMinistryMethods",
+    "description": "",
+    "firstPublished": "2019-03-18T20:46:25.806Z",
+    "duration": 280.768,
+    "durationFormattedHHMM": "4:40",
+    "durationFormattedMinSec": "4m 40s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/c3/jwb_E_201903_11_r240P.mp4",
+            "checksum": "3432bd8fa0a83a7fe1b5423fd63b29df",
+            "filesize": 14565484,
+            "modifiedDatetime": "2020-11-14T03:58:35.000Z",
+            "bitRate": 405.2913570990996,
+            "duration": 280.768,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.599,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/67/jwb_E_201903_11.vtt",
+                "modifiedDatetime": "2019-03-18T20:33:28.000Z",
+                "checksum": "5bb59ec6454393ca0087fa80b7c675e0"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/00/jwb_E_201903_11_r360P.mp4",
+            "checksum": "89e366b75514ed7a454d764770e9f416",
+            "filesize": 26156461,
+            "modifiedDatetime": "2019-03-18T19:32:48.000Z",
+            "bitRate": 727.8882651652774,
+            "duration": 280.74,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/67/jwb_E_201903_11.vtt",
+                "modifiedDatetime": "2019-03-18T20:33:28.000Z",
+                "checksum": "5bb59ec6454393ca0087fa80b7c675e0"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/d5/jwb_E_201903_11_r480P.mp4",
+            "checksum": "cba8ee4797c5e5f52719446fa1e9fb7d",
+            "filesize": 49404064,
+            "modifiedDatetime": "2019-03-18T19:32:25.000Z",
+            "bitRate": 1374.8281327919071,
+            "duration": 280.74,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/67/jwb_E_201903_11.vtt",
+                "modifiedDatetime": "2019-03-18T20:33:28.000Z",
+                "checksum": "5bb59ec6454393ca0087fa80b7c675e0"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/df/jwb_E_201903_11_r720P.mp4",
+            "checksum": "0e831d4a30ce6100a95493c08eb054a2",
+            "filesize": 83821616,
+            "modifiedDatetime": "2019-03-18T19:33:15.000Z",
+            "bitRate": 2332.6080180950344,
+            "duration": 280.74,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/67/jwb_E_201903_11.vtt",
+                "modifiedDatetime": "2019-03-18T20:33:28.000Z",
+                "checksum": "5bb59ec6454393ca0087fa80b7c675e0"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201903-11.v",
+        "jwb.201903-11"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/67/jwb_E_201903_11.vtt",
+    "Name": "pub-jwb_E_201903_11_VIDEO",
+    "Title": "Public Witnessing at a Major Golf Tournament",
+    "UndatedReferenceTitle": "Public Witnessing at a Major Golf Tournament",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODMinistryMethods"
+}

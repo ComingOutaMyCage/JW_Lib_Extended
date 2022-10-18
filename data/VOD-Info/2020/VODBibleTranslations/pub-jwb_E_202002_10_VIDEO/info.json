@@ -1,0 +1,102 @@
+{
+    "guid": "5e4b3ddf64d8d2632f4d356b",
+    "languageAgnosticNaturalKey": "pub-jwb_202002_10_VIDEO",
+    "naturalKey": "pub-jwb_E_202002_10_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODBibleTranslations",
+    "description": "",
+    "firstPublished": "2020-02-18T20:23:17.366Z",
+    "duration": 389.248,
+    "durationFormattedHHMM": "6:29",
+    "durationFormattedMinSec": "6m 29s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/e6/jwb_E_202002_10_r240P.mp4",
+            "checksum": "aa223986aa14ba911fc42d78bff3dd2e",
+            "filesize": 12897607,
+            "modifiedDatetime": "2020-10-23T19:56:19.000Z",
+            "bitRate": 258.8646690220631,
+            "duration": 389.248,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.881,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/b4/jwb_E_202002_10.vtt",
+                "modifiedDatetime": "2020-10-23T19:56:06.000Z",
+                "checksum": "8f977f22bd5e17bfa6ea1e6bc1669623"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/e7/jwb_E_202002_10_r360P.mp4",
+            "checksum": "345c2fdb66705d79079acdc9b9d49890",
+            "filesize": 24246197,
+            "modifiedDatetime": "2020-10-23T19:56:12.000Z",
+            "bitRate": 486.669409035671,
+            "duration": 389.224,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/b4/jwb_E_202002_10.vtt",
+                "modifiedDatetime": "2020-10-23T19:56:06.000Z",
+                "checksum": "8f977f22bd5e17bfa6ea1e6bc1669623"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/b2/jwb_E_202002_10_r480P.mp4",
+            "checksum": "a82556c7f1dc07d479041f7bf812ab68",
+            "filesize": 46234800,
+            "modifiedDatetime": "2020-10-23T19:56:24.000Z",
+            "bitRate": 928.0244152467474,
+            "duration": 389.224,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/b4/jwb_E_202002_10.vtt",
+                "modifiedDatetime": "2020-10-23T19:56:06.000Z",
+                "checksum": "8f977f22bd5e17bfa6ea1e6bc1669623"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/0f/jwb_E_202002_10_r720P.mp4",
+            "checksum": "c8d897833e17675004ae6dbcc5422359",
+            "filesize": 78010520,
+            "modifiedDatetime": "2020-10-23T19:56:29.000Z",
+            "bitRate": 1565.8263300824206,
+            "duration": 389.224,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/b4/jwb_E_202002_10.vtt",
+                "modifiedDatetime": "2020-10-23T19:56:06.000Z",
+                "checksum": "8f977f22bd5e17bfa6ea1e6bc1669623"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202002-10.v",
+        "jwb.202002-10"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/b4/jwb_E_202002_10.vtt",
+    "Name": "pub-jwb_E_202002_10_VIDEO",
+    "Title": "The Complete New World Translation of the Bible Is Available in ASL",
+    "UndatedReferenceTitle": "The Complete New World Translation of the Bible Is Available in ASL",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODBibleTranslations"
+}

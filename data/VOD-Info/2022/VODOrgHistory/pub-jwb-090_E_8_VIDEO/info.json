@@ -1,0 +1,102 @@
+{
+    "guid": "628a68b12b229f0b1c5186d9",
+    "languageAgnosticNaturalKey": "pub-jwb-090_8_VIDEO",
+    "naturalKey": "pub-jwb-090_E_8_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODOrgHistory",
+    "description": "",
+    "firstPublished": "2022-09-19T13:45:13.106Z",
+    "duration": 606.208,
+    "durationFormattedHHMM": "10:06",
+    "durationFormattedMinSec": "10m 6s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/26/jwb-090_E_08_r240P.mp4",
+            "checksum": "eddbca6bb0e1453018d33a5aa8b42848",
+            "filesize": 23408941,
+            "modifiedDatetime": "2022-09-19T04:20:55.000Z",
+            "bitRate": 301.6825108914762,
+            "duration": 606.208,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/b6/jwb-090_E_08.vtt",
+                "modifiedDatetime": "2022-09-19T04:20:41.000Z",
+                "checksum": "63ba0aaaba239432fd4cd83067babd6f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/0d/jwb-090_E_08_r360P.mp4",
+            "checksum": "30ad048100f0ce2cc68e26f2dac2b134",
+            "filesize": 40234254,
+            "modifiedDatetime": "2022-09-19T04:20:53.000Z",
+            "bitRate": 518.5185767508842,
+            "duration": 606.208,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/b6/jwb-090_E_08.vtt",
+                "modifiedDatetime": "2022-09-19T04:20:41.000Z",
+                "checksum": "63ba0aaaba239432fd4cd83067babd6f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/ac/jwb-090_E_08_r480P.mp4",
+            "checksum": "7c0138eff16da641ef83a9e02b0e3457",
+            "filesize": 83158591,
+            "modifiedDatetime": "2022-09-19T04:20:50.000Z",
+            "bitRate": 1071.705573313945,
+            "duration": 606.208,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/b6/jwb-090_E_08.vtt",
+                "modifiedDatetime": "2022-09-19T04:20:41.000Z",
+                "checksum": "63ba0aaaba239432fd4cd83067babd6f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/83/jwb-090_E_08_r720P.mp4",
+            "checksum": "ba86d96455910ef4d9518f7d7a0da502",
+            "filesize": 154761498,
+            "modifiedDatetime": "2022-09-19T04:20:46.000Z",
+            "bitRate": 1994.4873758264491,
+            "duration": 606.208,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/b6/jwb-090_E_08.vtt",
+                "modifiedDatetime": "2022-09-19T04:20:41.000Z",
+                "checksum": "63ba0aaaba239432fd4cd83067babd6f"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-090-8.v",
+        "jwb-090-8"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/b6/jwb-090_E_08.vtt",
+    "Name": "pub-jwb-090_E_8_VIDEO",
+    "Title": "The Governing Body Preserves Unity—Part 2",
+    "UndatedReferenceTitle": "The Governing Body Preserves Unity—Part 2",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODOrgHistory"
+}

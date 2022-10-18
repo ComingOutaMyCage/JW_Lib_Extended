@@ -1,0 +1,102 @@
+{
+    "guid": "608aacd80524ac0a0a2f4841",
+    "languageAgnosticNaturalKey": "pub-jwb-081_2_VIDEO",
+    "naturalKey": "pub-jwb-081_E_2_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2021-06-14T17:21:29.352Z",
+    "duration": 651.327,
+    "durationFormattedHHMM": "10:51",
+    "durationFormattedMinSec": "10m 51s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/d3/jwb-081_E_02_r240P.mp4",
+            "checksum": "3fd7ce9fddbcdea85010fd2dd043e3c1",
+            "filesize": 10224945,
+            "modifiedDatetime": "2021-06-14T04:55:58.000Z",
+            "bitRate": 122.64125710063713,
+            "duration": 651.35,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.91,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/90/jwb-081_E_02.vtt",
+                "modifiedDatetime": "2021-06-14T04:55:44.000Z",
+                "checksum": "de9b94bf9d82daea089eed220c3f7b08"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/40/jwb-081_E_02_r360P.mp4",
+            "checksum": "bb6bced6feb011bc135be3db61cab3ae",
+            "filesize": 21444352,
+            "modifiedDatetime": "2021-06-14T04:55:55.000Z",
+            "bitRate": 257.2194918988465,
+            "duration": 651.327,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/90/jwb-081_E_02.vtt",
+                "modifiedDatetime": "2021-06-14T04:55:44.000Z",
+                "checksum": "de9b94bf9d82daea089eed220c3f7b08"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/c2/jwb-081_E_02_r480P.mp4",
+            "checksum": "cc67b45a4d2da023826a5437dbc8e1ba",
+            "filesize": 37489117,
+            "modifiedDatetime": "2021-06-14T04:55:53.000Z",
+            "bitRate": 449.67232521068524,
+            "duration": 651.327,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/90/jwb-081_E_02.vtt",
+                "modifiedDatetime": "2021-06-14T04:55:44.000Z",
+                "checksum": "de9b94bf9d82daea089eed220c3f7b08"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/bb/jwb-081_E_02_r720P.mp4",
+            "checksum": "cf2078d9380828f616b0af1c073d2eb2",
+            "filesize": 63757658,
+            "modifiedDatetime": "2021-06-14T04:55:47.000Z",
+            "bitRate": 764.756724540822,
+            "duration": 651.327,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/90/jwb-081_E_02.vtt",
+                "modifiedDatetime": "2021-06-14T04:55:44.000Z",
+                "checksum": "de9b94bf9d82daea089eed220c3f7b08"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-081-2.v",
+        "jwb-081-2"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/90/jwb-081_E_02.vtt",
+    "Name": "pub-jwb-081_E_2_VIDEO",
+    "Title": "M. Stephen Lett: See the Big Picture (Acts 8:5)",
+    "UndatedReferenceTitle": "M. Stephen Lett: See the Big Picture (Acts 8:5)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

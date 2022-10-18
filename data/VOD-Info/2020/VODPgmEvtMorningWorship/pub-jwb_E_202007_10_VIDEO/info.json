@@ -1,0 +1,102 @@
+{
+    "guid": "5efde1f75f2f5ac96709455e",
+    "languageAgnosticNaturalKey": "pub-jwb_202007_10_VIDEO",
+    "naturalKey": "pub-jwb_E_202007_10_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2020-07-02T22:54:49.185Z",
+    "duration": 577.451,
+    "durationFormattedHHMM": "9:37",
+    "durationFormattedMinSec": "9m 37s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/5d/jwb_E_202007_10_r240P.mp4",
+            "checksum": "f0ca06894a86c02862ebc875f5be4a57",
+            "filesize": 11240564,
+            "modifiedDatetime": "2020-10-18T03:05:31.000Z",
+            "bitRate": 152.0768104133511,
+            "duration": 577.451,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.126,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/24/jwb_E_202007_10.vtt",
+                "modifiedDatetime": "2020-08-24T21:18:36.000Z",
+                "checksum": "acc4413fa68dc869a076cfc53a248778"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/50/jwb_E_202007_10_r360P.mp4",
+            "checksum": "358cb47ad904b0fe9444e8ebe69f1c09",
+            "filesize": 21570861,
+            "modifiedDatetime": "2020-08-24T21:18:53.000Z",
+            "bitRate": 291.8540257741332,
+            "duration": 577.42,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/24/jwb_E_202007_10.vtt",
+                "modifiedDatetime": "2020-08-24T21:18:36.000Z",
+                "checksum": "acc4413fa68dc869a076cfc53a248778"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/1b/jwb_E_202007_10_r480P.mp4",
+            "checksum": "a0def112a05efec008244387dcdfa2e7",
+            "filesize": 37923608,
+            "modifiedDatetime": "2020-08-24T21:19:00.000Z",
+            "bitRate": 513.1069022548578,
+            "duration": 577.42,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/24/jwb_E_202007_10.vtt",
+                "modifiedDatetime": "2020-08-24T21:18:36.000Z",
+                "checksum": "acc4413fa68dc869a076cfc53a248778"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/f1/jwb_E_202007_10_r720P.mp4",
+            "checksum": "85e14a2baf781cd9c252512a49cf56dc",
+            "filesize": 63904628,
+            "modifiedDatetime": "2020-08-24T21:19:09.000Z",
+            "bitRate": 864.6304358179489,
+            "duration": 577.42,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/24/jwb_E_202007_10.vtt",
+                "modifiedDatetime": "2020-08-24T21:18:36.000Z",
+                "checksum": "acc4413fa68dc869a076cfc53a248778"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202007-10.v",
+        "jwb.202007-10"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/24/jwb_E_202007_10.vtt",
+    "Name": "pub-jwb_E_202007_10_VIDEO",
+    "Title": "Gajus Glockentin: Protect Yourself From Lies (Col. 3:9)",
+    "UndatedReferenceTitle": "Gajus Glockentin: Protect Yourself From Lies (Col. 3:9)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

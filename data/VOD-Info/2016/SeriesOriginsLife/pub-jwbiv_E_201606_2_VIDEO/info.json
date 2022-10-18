@@ -1,0 +1,178 @@
+{
+    "guid": "5723a6a379892656f9a49b11",
+    "languageAgnosticNaturalKey": "pub-jwbiv_201606_2_VIDEO",
+    "naturalKey": "pub-jwbiv_E_201606_2_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesOriginsLife",
+    "description": "",
+    "firstPublished": "2016-06-21T00:26:53.238Z",
+    "duration": 164.398,
+    "durationFormattedHHMM": "2:44",
+    "durationFormattedMinSec": "2m 44s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/21/jwbiv_E_201606_02_r240P.mp4",
+            "checksum": "85eb25e0f6516d1d68f756fbfb3eade2",
+            "filesize": 7777387,
+            "modifiedDatetime": "2020-11-05T04:29:09.000Z",
+            "bitRate": 369.59595577500943,
+            "duration": 164.398,
+            "frameHeight": 180,
+            "frameWidth": 320,
+            "label": "240p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/21/jwbiv_E_201606_02_r240P.vtt",
+                "modifiedDatetime": "2018-08-20T16:18:43.000Z",
+                "checksum": "67bb9fb4dc960007e35b379f50fa8d3e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/7f/jwbiv_s-Sub_E_201606_02_r240P.mp4",
+            "checksum": "2fc7b5a2ae307e2772bfb2a107aed1a1",
+            "filesize": 7660448,
+            "modifiedDatetime": "2020-11-12T04:04:18.000Z",
+            "bitRate": 364.0387960924099,
+            "duration": 164.398,
+            "frameHeight": 180,
+            "frameWidth": 320,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": true,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/21/jwbiv_E_201606_02_r240P.vtt",
+                "modifiedDatetime": "2018-08-20T16:18:43.000Z",
+                "checksum": "67bb9fb4dc960007e35b379f50fa8d3e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/b9/jwbiv_s-Sub_E_201606_02_r360P.mp4",
+            "checksum": "fad0b8b76dce40593269ed4f579204c3",
+            "filesize": 17574899,
+            "modifiedDatetime": "2018-08-20T16:18:56.000Z",
+            "bitRate": 835.3213805985775,
+            "duration": 164.37254166667,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 44.056,
+            "mimetype": "video/mp4",
+            "subtitled": true,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/45/jwbiv_E_201606_02_r360P.vtt",
+                "modifiedDatetime": "2018-08-20T16:18:47.000Z",
+                "checksum": "67bb9fb4dc960007e35b379f50fa8d3e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/e8/jwbiv_E_201606_02_r360P.mp4",
+            "checksum": "a589d470e19404b05aea7d88070cf166",
+            "filesize": 17413285,
+            "modifiedDatetime": "2018-08-20T16:18:47.000Z",
+            "bitRate": 827.6360058150314,
+            "duration": 164.37333333333,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/45/jwbiv_E_201606_02_r360P.vtt",
+                "modifiedDatetime": "2018-08-20T16:18:47.000Z",
+                "checksum": "67bb9fb4dc960007e35b379f50fa8d3e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/99/jwbiv_E_201606_02_r480P.mp4",
+            "checksum": "045dae23e33a9cf4edf15df6f2b94f76",
+            "filesize": 23527274,
+            "modifiedDatetime": "2018-08-20T16:18:49.000Z",
+            "bitRate": 1118.2277830447176,
+            "duration": 164.37333333333,
+            "frameHeight": 480,
+            "frameWidth": 854,
+            "label": "480p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/bc/jwbiv_E_201606_02_r480P.vtt",
+                "modifiedDatetime": "2018-08-20T16:18:49.000Z",
+                "checksum": "67bb9fb4dc960007e35b379f50fa8d3e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/8b/jwbiv_s-Sub_E_201606_02_r480P.mp4",
+            "checksum": "d8d275d609e944ada0a9ee7fd5a51edc",
+            "filesize": 23645046,
+            "modifiedDatetime": "2018-08-20T16:18:58.000Z",
+            "bitRate": 1123.830780992646,
+            "duration": 164.37254166667,
+            "frameHeight": 480,
+            "frameWidth": 854,
+            "label": "480p",
+            "frameRate": 44.056,
+            "mimetype": "video/mp4",
+            "subtitled": true,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/bc/jwbiv_E_201606_02_r480P.vtt",
+                "modifiedDatetime": "2018-08-20T16:18:49.000Z",
+                "checksum": "67bb9fb4dc960007e35b379f50fa8d3e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/b6/jwbiv_E_201606_02_r720P.mp4",
+            "checksum": "34500edf2a87c64fcb64789b2cf36d13",
+            "filesize": 32643278,
+            "modifiedDatetime": "2018-08-20T16:18:52.000Z",
+            "bitRate": 1551.5023282872637,
+            "duration": 164.37333333333,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/12/jwbiv_E_201606_02_r720P.vtt",
+                "modifiedDatetime": "2018-08-20T16:18:52.000Z",
+                "checksum": "67bb9fb4dc960007e35b379f50fa8d3e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/96/jwbiv_s-Sub_E_201606_02_r720P.mp4",
+            "checksum": "aa30e6a56c56664ab1a9b380e68a1188",
+            "filesize": 33568657,
+            "modifiedDatetime": "2018-08-20T16:19:00.000Z",
+            "bitRate": 1595.4923502024167,
+            "duration": 164.37254166667,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 44.056,
+            "mimetype": "video/mp4",
+            "subtitled": true,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/12/jwbiv_E_201606_02_r720P.vtt",
+                "modifiedDatetime": "2018-08-20T16:18:52.000Z",
+                "checksum": "67bb9fb4dc960007e35b379f50fa8d3e"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwbiv.201606-2.v",
+        "jwbiv.201606-2"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/21/jwbiv_E_201606_02_r240P.vtt",
+    "Name": "pub-jwbiv_E_201606_2_VIDEO",
+    "Title": "Rocío Picado Herrero: A Chemistry Teacher Explains Her Faith",
+    "UndatedReferenceTitle": "Rocío Picado Herrero: A Chemistry Teacher Explains Her Faith",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2016,
+    "Symbol": "SeriesOriginsLife"
+}

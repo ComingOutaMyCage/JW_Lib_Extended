@@ -1,0 +1,102 @@
+{
+    "guid": "60cbaacab9f9166228098da8",
+    "languageAgnosticNaturalKey": "pub-jwb-082_9_VIDEO",
+    "naturalKey": "pub-jwb-082_E_9_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2021-09-13T16:28:16.053Z",
+    "duration": 440.342,
+    "durationFormattedHHMM": "7:20",
+    "durationFormattedMinSec": "7m 20s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/82/jwb-082_E_09_r240P.mp4",
+            "checksum": "903e51c7577ef564a3f97a719fcc2e06",
+            "filesize": 5950814,
+            "modifiedDatetime": "2021-09-11T04:40:26.000Z",
+            "bitRate": 105.57869650180996,
+            "duration": 440.342,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.91,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/1e/jwb-082_E_09.vtt",
+                "modifiedDatetime": "2021-09-11T04:40:33.000Z",
+                "checksum": "964bb3e73dabb74670200cd9b549823c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/05/jwb-082_E_09_r360P.mp4",
+            "checksum": "b373264d67ced160db78b5465b65a441",
+            "filesize": 11551566,
+            "modifiedDatetime": "2021-09-11T04:40:24.000Z",
+            "bitRate": 204.95873276237975,
+            "duration": 440.316,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/1e/jwb-082_E_09.vtt",
+                "modifiedDatetime": "2021-09-11T04:40:33.000Z",
+                "checksum": "964bb3e73dabb74670200cd9b549823c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/47/jwb-082_E_09_r480P.mp4",
+            "checksum": "29ed1cea15a9e9e66e2a92370c16831c",
+            "filesize": 18954196,
+            "modifiedDatetime": "2021-09-11T04:40:21.000Z",
+            "bitRate": 336.3031464902479,
+            "duration": 440.316,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/1e/jwb-082_E_09.vtt",
+                "modifiedDatetime": "2021-09-11T04:40:33.000Z",
+                "checksum": "964bb3e73dabb74670200cd9b549823c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/5d/jwb-082_E_09_r720P.mp4",
+            "checksum": "a99b01f7431f1f658817a05e2f085ee0",
+            "filesize": 30733952,
+            "modifiedDatetime": "2021-09-11T04:40:19.000Z",
+            "bitRate": 545.3106405399759,
+            "duration": 440.316,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/1e/jwb-082_E_09.vtt",
+                "modifiedDatetime": "2021-09-11T04:40:33.000Z",
+                "checksum": "964bb3e73dabb74670200cd9b549823c"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-082-9.v",
+        "jwb-082-9"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/1e/jwb-082_E_09.vtt",
+    "Name": "pub-jwb-082_E_9_VIDEO",
+    "Title": "Kenneth Flodin: “The Plans of the Diligent” (Prov. 21:5)",
+    "UndatedReferenceTitle": "Kenneth Flodin: “The Plans of the Diligent” (Prov. 21:5)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

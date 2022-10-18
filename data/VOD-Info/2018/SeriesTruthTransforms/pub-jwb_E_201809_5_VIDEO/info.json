@@ -1,0 +1,102 @@
+{
+    "guid": "5b5a0e65c1963ea3306e05aa",
+    "languageAgnosticNaturalKey": "pub-jwb_201809_5_VIDEO",
+    "naturalKey": "pub-jwb_E_201809_5_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesTruthTransforms",
+    "description": "",
+    "firstPublished": "2018-09-17T13:05:29.762Z",
+    "duration": 325.142,
+    "durationFormattedHHMM": "5:25",
+    "durationFormattedMinSec": "5m 25s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/c2/jwb_E_201809_05_r240P.mp4",
+            "checksum": "bfa10bfa650b1a87672a2b02a68c3b00",
+            "filesize": 10319185,
+            "modifiedDatetime": "2020-11-14T03:58:28.000Z",
+            "bitRate": 247.94899709203978,
+            "duration": 325.142,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.81,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/03/jwb_E_201809_05_r240P.vtt",
+                "modifiedDatetime": "2018-09-17T12:38:57.000Z",
+                "checksum": "f6694998037777ce3f529745baa5d283"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/f3/jwb_E_201809_05_r360P.mp4",
+            "checksum": "9c435827358bd954ea558e6f37d36339",
+            "filesize": 19259058,
+            "modifiedDatetime": "2018-09-17T12:38:58.000Z",
+            "bitRate": 462.79009659569755,
+            "duration": 325.118,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/b7/jwb_E_201809_05_r360P.vtt",
+                "modifiedDatetime": "2018-09-17T12:39:01.000Z",
+                "checksum": "f6694998037777ce3f529745baa5d283"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/5f/jwb_E_201809_05_r480P.mp4",
+            "checksum": "3df18f73579e389d5e1fa7202582130d",
+            "filesize": 36572198,
+            "modifiedDatetime": "2018-09-17T12:39:02.000Z",
+            "bitRate": 878.8202956311247,
+            "duration": 325.118,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/57/jwb_E_201809_05_r480P.vtt",
+                "modifiedDatetime": "2018-09-17T12:39:05.000Z",
+                "checksum": "f6694998037777ce3f529745baa5d283"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/0f/jwb_E_201809_05_r720P.mp4",
+            "checksum": "743b7150ef5fab678cd8bf27876d84cd",
+            "filesize": 61479106,
+            "modifiedDatetime": "2018-09-17T12:39:06.000Z",
+            "bitRate": 1477.3267417522254,
+            "duration": 325.118,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ae/jwb_E_201809_05_r720P.vtt",
+                "modifiedDatetime": "2018-09-17T12:39:11.000Z",
+                "checksum": "f6694998037777ce3f529745baa5d283"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201809-5.v",
+        "jwb.201809-5"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/03/jwb_E_201809_05_r240P.vtt",
+    "Name": "pub-jwb_E_201809_5_VIDEO",
+    "Title": "Guzel Gainanshina: The World Cannot Give You What It Does Not Have",
+    "UndatedReferenceTitle": "Guzel Gainanshina: The World Cannot Give You What It Does Not Have",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "SeriesTruthTransforms"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "5b2423b2329d2b18632de2f3",
+    "languageAgnosticNaturalKey": "pub-jwb_201807_5_VIDEO",
+    "naturalKey": "pub-jwb_E_201807_5_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpYouth",
+    "description": "",
+    "firstPublished": "2018-07-16T23:55:29.451Z",
+    "duration": 354.432,
+    "durationFormattedHHMM": "5:54",
+    "durationFormattedMinSec": "5m 54s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/27/jwb_E_201807_05_r240P.mp4",
+            "checksum": "f847c7129015320aa3bb77c41f6a1145",
+            "filesize": 8269772,
+            "modifiedDatetime": "2020-11-05T21:08:58.000Z",
+            "bitRate": 182.28487763520224,
+            "duration": 354.432,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.674,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/4c/jwb_E_201807_05_r240P.vtt",
+                "modifiedDatetime": "2018-07-16T23:44:24.000Z",
+                "checksum": "5544187455e524c82cc86a7afdd97288"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/31/jwb_E_201807_05_r360P.mp4",
+            "checksum": "a44912ecce15f48141a34b0ec36d074f",
+            "filesize": 16487927,
+            "modifiedDatetime": "2018-07-16T23:44:25.000Z",
+            "bitRate": 363.4678896477679,
+            "duration": 354.397,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/e6/jwb_E_201807_05_r360P.vtt",
+                "modifiedDatetime": "2018-07-16T23:44:27.000Z",
+                "checksum": "5544187455e524c82cc86a7afdd97288"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/5c/jwb_E_201807_05_r480P.mp4",
+            "checksum": "9fddd87e185dde233916accbe32c9fcf",
+            "filesize": 29895741,
+            "modifiedDatetime": "2018-07-16T23:44:27.000Z",
+            "bitRate": 659.0362688242282,
+            "duration": 354.397,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/16/jwb_E_201807_05_r480P.vtt",
+                "modifiedDatetime": "2018-07-16T23:44:30.000Z",
+                "checksum": "5544187455e524c82cc86a7afdd97288"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/e7/jwb_E_201807_05_r720P.mp4",
+            "checksum": "57570c6dfce9c0e9d0064c9edd0724d5",
+            "filesize": 49060959,
+            "modifiedDatetime": "2018-07-16T23:44:30.000Z",
+            "bitRate": 1081.5236646684368,
+            "duration": 354.397,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/89/jwb_E_201807_05_r720P.vtt",
+                "modifiedDatetime": "2018-07-16T23:44:34.000Z",
+                "checksum": "5544187455e524c82cc86a7afdd97288"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201807-5.v",
+        "jwb.201807-5"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/4c/jwb_E_201807_05_r240P.vtt",
+    "Name": "pub-jwb_E_201807_5_VIDEO",
+    "Title": "Ersi Royer: Jehovah Found Me",
+    "UndatedReferenceTitle": "Ersi Royer: Jehovah Found Me",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "VODIntExpYouth"
+}

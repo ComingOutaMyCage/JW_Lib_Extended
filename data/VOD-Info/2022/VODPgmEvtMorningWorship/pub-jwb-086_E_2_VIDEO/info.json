@@ -1,0 +1,102 @@
+{
+    "guid": "6179a010e4dbeaf5fabec8e0",
+    "languageAgnosticNaturalKey": "pub-jwb-086_2_VIDEO",
+    "naturalKey": "pub-jwb-086_E_2_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2022-01-21T14:24:34.093Z",
+    "duration": 619.03,
+    "durationFormattedHHMM": "10:19",
+    "durationFormattedMinSec": "10m 19s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/b9/jwb-086_E_02_r240P.mp4",
+            "checksum": "2590049542186f2c25e2fd4eff368254",
+            "filesize": 10610903,
+            "modifiedDatetime": "2022-01-21T14:13:30.000Z",
+            "bitRate": 133.91544785793903,
+            "duration": 619.03,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.644,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/91/jwb-086_E_02.vtt",
+                "modifiedDatetime": "2022-01-21T14:13:12.000Z",
+                "checksum": "43cb8ed8812e1389c527c63a7404fcb4"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/21/jwb-086_E_02_r360P.mp4",
+            "checksum": "ea7dc7d780a0d3a8f6017d2228387d4f",
+            "filesize": 20540331,
+            "modifiedDatetime": "2022-01-21T14:13:24.000Z",
+            "bitRate": 259.2449631055178,
+            "duration": 618.995,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/91/jwb-086_E_02.vtt",
+                "modifiedDatetime": "2022-01-21T14:13:12.000Z",
+                "checksum": "43cb8ed8812e1389c527c63a7404fcb4"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/5e/jwb-086_E_02_r480P.mp4",
+            "checksum": "9e112e07085af93dbc04f373ee4d76b2",
+            "filesize": 35500768,
+            "modifiedDatetime": "2022-01-21T14:13:21.000Z",
+            "bitRate": 448.0646047221706,
+            "duration": 618.995,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/91/jwb-086_E_02.vtt",
+                "modifiedDatetime": "2022-01-21T14:13:12.000Z",
+                "checksum": "43cb8ed8812e1389c527c63a7404fcb4"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/52/jwb-086_E_02_r720P.mp4",
+            "checksum": "b54d78779083671105c940ae98f8413e",
+            "filesize": 58381985,
+            "modifiedDatetime": "2022-01-21T14:13:14.000Z",
+            "bitRate": 736.854510638212,
+            "duration": 618.995,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/91/jwb-086_E_02.vtt",
+                "modifiedDatetime": "2022-01-21T14:13:12.000Z",
+                "checksum": "43cb8ed8812e1389c527c63a7404fcb4"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-086-2.v",
+        "jwb-086-2"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/91/jwb-086_E_02.vtt",
+    "Name": "pub-jwb-086_E_2_VIDEO",
+    "Title": "William Malenfant: Satan Is “the Father of the Lie” (John 8:44)",
+    "UndatedReferenceTitle": "William Malenfant: Satan Is “the Father of the Lie” (John 8:44)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

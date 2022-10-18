@@ -1,0 +1,102 @@
+{
+    "guid": "5e4af58afaacdecc13a703b3",
+    "languageAgnosticNaturalKey": "pub-jwb_202006_5_VIDEO",
+    "naturalKey": "pub-jwb_E_202006_5_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2020-06-22T15:11:29.264Z",
+    "duration": 578.859,
+    "durationFormattedHHMM": "9:38",
+    "durationFormattedMinSec": "9m 38s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/5c/jwb_E_202006_05_r240P.mp4",
+            "checksum": "7365e90d683b6e3063c26499fdcffb19",
+            "filesize": 8268329,
+            "modifiedDatetime": "2020-10-18T03:04:32.000Z",
+            "bitRate": 111.59249543066618,
+            "duration": 578.859,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.47,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/50/jwb_E_202006_05.vtt",
+                "modifiedDatetime": "2020-06-22T08:39:31.000Z",
+                "checksum": "17b4b0017b8c4580e1946fcf0f548234"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/49/jwb_E_202006_05_r360P.mp4",
+            "checksum": "65425609d14c534b08dd5b4607118438",
+            "filesize": 16855449,
+            "modifiedDatetime": "2020-06-22T08:39:19.000Z",
+            "bitRate": 227.5024494835191,
+            "duration": 578.821,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/50/jwb_E_202006_05.vtt",
+                "modifiedDatetime": "2020-06-22T08:39:31.000Z",
+                "checksum": "17b4b0017b8c4580e1946fcf0f548234"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/b0/jwb_E_202006_05_r480P.mp4",
+            "checksum": "44129aae94817e9e5d9a17c059a396e6",
+            "filesize": 28715687,
+            "modifiedDatetime": "2020-06-22T08:39:25.000Z",
+            "bitRate": 387.58321603310867,
+            "duration": 578.821,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/50/jwb_E_202006_05.vtt",
+                "modifiedDatetime": "2020-06-22T08:39:31.000Z",
+                "checksum": "17b4b0017b8c4580e1946fcf0f548234"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/87/jwb_E_202006_05_r720P.mp4",
+            "checksum": "c5d376bd4aa80e7d3b3af320981749e5",
+            "filesize": 47098853,
+            "modifiedDatetime": "2020-06-22T08:39:28.000Z",
+            "bitRate": 635.7056655900528,
+            "duration": 578.821,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/50/jwb_E_202006_05.vtt",
+                "modifiedDatetime": "2020-06-22T08:39:31.000Z",
+                "checksum": "17b4b0017b8c4580e1946fcf0f548234"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202006-5.v",
+        "jwb.202006-5"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/50/jwb_E_202006_05.vtt",
+    "Name": "pub-jwb_E_202006_5_VIDEO",
+    "Title": "Leonard Myers: Be Reasonable in the Family (Col. 3:18-20)",
+    "UndatedReferenceTitle": "Leonard Myers: Be Reasonable in the Family (Col. 3:18-20)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "5eea72f2af341cff13f83109",
+    "languageAgnosticNaturalKey": "pub-jwb_202006_13_VIDEO",
+    "naturalKey": "pub-jwb_E_202006_13_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtGilead",
+    "description": "",
+    "firstPublished": "2020-07-20T12:18:54.919Z",
+    "duration": 1356.224,
+    "durationFormattedHHMM": "22:36",
+    "durationFormattedMinSec": "22m 36s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/78/jwb_E_202006_13_r240P.mp4",
+            "checksum": "eace5df4fc815bde962c75c942dbe606",
+            "filesize": 21318416,
+            "modifiedDatetime": "2020-10-18T03:05:06.000Z",
+            "bitRate": 122.80428970435563,
+            "duration": 1356.224,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.499,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/4c/jwb_E_202006_13.vtt",
+                "modifiedDatetime": "2020-07-20T07:52:16.000Z",
+                "checksum": "b058c8d4c2a9205fe395cfabdd06e37a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/34/jwb_E_202006_13_r360P.mp4",
+            "checksum": "87ffd965d8fe1357d21c9d08f7f5a66f",
+            "filesize": 45273353,
+            "modifiedDatetime": "2020-07-20T07:52:00.000Z",
+            "bitRate": 260.8012032995919,
+            "duration": 1356.198,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/4c/jwb_E_202006_13.vtt",
+                "modifiedDatetime": "2020-07-20T07:52:16.000Z",
+                "checksum": "b058c8d4c2a9205fe395cfabdd06e37a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/d4/jwb_E_202006_13_r480P.mp4",
+            "checksum": "3a561147d4a3a0c07eb867ca131b7f23",
+            "filesize": 91579556,
+            "modifiedDatetime": "2020-07-20T07:52:02.000Z",
+            "bitRate": 527.552231495696,
+            "duration": 1356.198,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/4c/jwb_E_202006_13.vtt",
+                "modifiedDatetime": "2020-07-20T07:52:16.000Z",
+                "checksum": "b058c8d4c2a9205fe395cfabdd06e37a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/5c/jwb_E_202006_13_r720P.mp4",
+            "checksum": "4a546aed969e42a8eae925dbe656a6cd",
+            "filesize": 213688214,
+            "modifiedDatetime": "2020-07-20T07:52:08.000Z",
+            "bitRate": 1230.9700883462444,
+            "duration": 1356.198,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/4c/jwb_E_202006_13.vtt",
+                "modifiedDatetime": "2020-07-20T07:52:16.000Z",
+                "checksum": "b058c8d4c2a9205fe395cfabdd06e37a"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202006-13.v",
+        "jwb.202006-13"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/4c/jwb_E_202006_13.vtt",
+    "Name": "pub-jwb_E_202006_13_VIDEO",
+    "Title": "Anthony Morris III: A Blueprint for Spiritual Success",
+    "UndatedReferenceTitle": "Anthony Morris III: A Blueprint for Spiritual Success",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODPgmEvtGilead"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "5d31d32248fd57354cf37c42",
+    "languageAgnosticNaturalKey": "pub-thv_9_VIDEO",
+    "naturalKey": "pub-thv_E_9_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODMinistryApplyTeaching",
+    "description": "",
+    "firstPublished": "2019-08-12T22:30:22.106Z",
+    "duration": 315.478,
+    "durationFormattedHHMM": "5:15",
+    "durationFormattedMinSec": "5m 15s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/1a/thv_E_09_r240P.mp4",
+            "checksum": "804b829dd121b260f71b3972e456c380",
+            "filesize": 5937164,
+            "modifiedDatetime": "2020-11-28T20:24:04.000Z",
+            "bitRate": 147.02798214138545,
+            "duration": 315.478,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.622,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/58/thv_E_09.vtt",
+                "modifiedDatetime": "2019-08-12T10:20:32.000Z",
+                "checksum": "4111c75140d238d80a94cfb1b3efe71c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/26/thv_E_09_r360P.mp4",
+            "checksum": "11d89eed9dd9a33634d3954164d980a7",
+            "filesize": 12224745,
+            "modifiedDatetime": "2019-08-12T10:20:17.000Z",
+            "bitRate": 302.76824364700957,
+            "duration": 315.442,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/58/thv_E_09.vtt",
+                "modifiedDatetime": "2019-08-12T10:20:32.000Z",
+                "checksum": "4111c75140d238d80a94cfb1b3efe71c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/75/thv_E_09_r480P.mp4",
+            "checksum": "ffbbacb2ad4dca10d25a398c6ed6ef06",
+            "filesize": 23280988,
+            "modifiedDatetime": "2019-08-12T10:20:21.000Z",
+            "bitRate": 576.5963909371612,
+            "duration": 315.442,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/58/thv_E_09.vtt",
+                "modifiedDatetime": "2019-08-12T10:20:32.000Z",
+                "checksum": "4111c75140d238d80a94cfb1b3efe71c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/ad/thv_E_09_r720P.mp4",
+            "checksum": "6fd23706cc5e6369462579a1c0095f15",
+            "filesize": 39656259,
+            "modifiedDatetime": "2019-08-12T10:20:27.000Z",
+            "bitRate": 982.1600276358253,
+            "duration": 315.442,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/58/thv_E_09.vtt",
+                "modifiedDatetime": "2019-08-12T10:20:32.000Z",
+                "checksum": "4111c75140d238d80a94cfb1b3efe71c"
+            }
+        }
+    ],
+    "printReferences": [
+        "thv-9.v",
+        "thv-9"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/58/thv_E_09.vtt",
+    "Name": "pub-thv_E_9_VIDEO",
+    "Title": "Study 9—Appropriate Use of Visual Aids",
+    "UndatedReferenceTitle": "Study 9—Appropriate Use of Visual Aids",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODMinistryApplyTeaching"
+}

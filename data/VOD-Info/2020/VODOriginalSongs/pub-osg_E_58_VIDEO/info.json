@@ -1,0 +1,102 @@
+{
+    "guid": "5dbb1c757ae47e7b53908a4d",
+    "languageAgnosticNaturalKey": "pub-osg_58_VIDEO",
+    "naturalKey": "pub-osg_E_58_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODOriginalSongs",
+    "description": "",
+    "firstPublished": "2020-02-17T13:32:17.707Z",
+    "duration": 269.974,
+    "durationFormattedHHMM": "4:29",
+    "durationFormattedMinSec": "4m 29s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/8e/osg_E_058_r240P.mp4",
+            "checksum": "b0b9a5545b059a8573b664e2372d5575",
+            "filesize": 9299104,
+            "modifiedDatetime": "2020-12-11T05:31:29.000Z",
+            "bitRate": 269.09720936090145,
+            "duration": 269.974,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.904,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/a6/osg_E_058.vtt",
+                "modifiedDatetime": "2020-02-17T13:26:38.000Z",
+                "checksum": "88006ba0363e770376650fcd35b801a6"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/5f/osg_E_058_r360P.mp4",
+            "checksum": "1c5134789c33b72f2e20273a24ca8e2f",
+            "filesize": 16397746,
+            "modifiedDatetime": "2020-02-17T13:26:25.000Z",
+            "bitRate": 474.58079494180146,
+            "duration": 269.938,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/a6/osg_E_058.vtt",
+                "modifiedDatetime": "2020-02-17T13:26:38.000Z",
+                "checksum": "88006ba0363e770376650fcd35b801a6"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/c9/osg_E_058_r480P.mp4",
+            "checksum": "d18ac07c67408e5a1aa994ae532f612b",
+            "filesize": 31010794,
+            "modifiedDatetime": "2020-02-17T13:26:28.000Z",
+            "bitRate": 897.509161826049,
+            "duration": 269.938,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/a6/osg_E_058.vtt",
+                "modifiedDatetime": "2020-02-17T13:26:38.000Z",
+                "checksum": "88006ba0363e770376650fcd35b801a6"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/a6/osg_E_058_r720P.mp4",
+            "checksum": "91e7ba313b4bf3c3d14b95996a9d4622",
+            "filesize": 51852650,
+            "modifiedDatetime": "2020-02-17T13:26:31.000Z",
+            "bitRate": 1500.7106377205137,
+            "duration": 269.938,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/a6/osg_E_058.vtt",
+                "modifiedDatetime": "2020-02-17T13:26:38.000Z",
+                "checksum": "88006ba0363e770376650fcd35b801a6"
+            }
+        }
+    ],
+    "printReferences": [
+        "osg-58.v",
+        "osg-58"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/a6/osg_E_058.vtt",
+    "Name": "pub-osg_E_58_VIDEO",
+    "Title": "The New World to Come",
+    "UndatedReferenceTitle": "The New World to Come",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODOriginalSongs"
+}

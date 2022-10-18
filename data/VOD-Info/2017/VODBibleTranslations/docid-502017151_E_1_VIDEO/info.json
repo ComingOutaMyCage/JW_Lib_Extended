@@ -1,0 +1,102 @@
+{
+    "guid": "585d33f40023ee44860fa22e",
+    "languageAgnosticNaturalKey": "docid-502017151_1_VIDEO",
+    "naturalKey": "docid-502017151_E_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODBibleTranslations",
+    "description": "",
+    "firstPublished": "2017-01-30T14:58:30.150Z",
+    "duration": 866.685,
+    "durationFormattedHHMM": "14:26",
+    "durationFormattedMinSec": "14m 26s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/7f/502017151_E_cnt_1_r240P.mp4",
+            "checksum": "936119f32c927d0c2c9aba880aa8aec4",
+            "filesize": 37666724,
+            "modifiedDatetime": "2020-11-01T10:52:41.000Z",
+            "bitRate": 339.5366035526172,
+            "duration": 866.685,
+            "frameHeight": 180,
+            "frameWidth": 320,
+            "label": "240p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/55/502017151_E_cnt_1_r240P.vtt",
+                "modifiedDatetime": "2017-04-20T16:00:41.000Z",
+                "checksum": "028b1ea0ea04dc01f87363ab0643383b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/e2/502017151_E_cnt_1_r360P.mp4",
+            "checksum": "4bf91e3203873a8c54d5d9738e4e3487",
+            "filesize": 89996895,
+            "modifiedDatetime": "2017-04-20T16:00:46.000Z",
+            "bitRate": 811.2794480561282,
+            "duration": 866.65666666667,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/a6/502017151_E_cnt_1_r360P.vtt",
+                "modifiedDatetime": "2017-04-20T16:00:46.000Z",
+                "checksum": "028b1ea0ea04dc01f87363ab0643383b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/74/502017151_E_cnt_1_r480P.mp4",
+            "checksum": "e7349f644750bc8fcd71d25e555308b8",
+            "filesize": 122941344,
+            "modifiedDatetime": "2017-04-20T16:00:53.000Z",
+            "bitRate": 1108.2580760547194,
+            "duration": 866.65666666667,
+            "frameHeight": 480,
+            "frameWidth": 854,
+            "label": "480p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/14/502017151_E_cnt_1_r480P.vtt",
+                "modifiedDatetime": "2017-04-20T16:00:54.000Z",
+                "checksum": "028b1ea0ea04dc01f87363ab0643383b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/e5/502017151_E_cnt_1_r720P.mp4",
+            "checksum": "861b0ca3656f685516febd51d56f61c2",
+            "filesize": 173823319,
+            "modifiedDatetime": "2017-04-20T16:01:04.000Z",
+            "bitRate": 1566.9350181203952,
+            "duration": 866.65666666667,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/f1/502017151_E_cnt_1_r720P.vtt",
+                "modifiedDatetime": "2017-04-20T16:01:05.000Z",
+                "checksum": "028b1ea0ea04dc01f87363ab0643383b"
+            }
+        }
+    ],
+    "printReferences": [
+        "502017151-1.v",
+        "502017151-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/content_assets/55/502017151_E_cnt_1_r240P.vtt",
+    "Name": "docid-502017151_E_1_VIDEO",
+    "Title": "They Valued the Bible",
+    "UndatedReferenceTitle": "They Valued the Bible",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2017,
+    "Symbol": "VODBibleTranslations"
+}

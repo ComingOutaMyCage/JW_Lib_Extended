@@ -1,0 +1,102 @@
+{
+    "guid": "5ffcd0cfe668ffe08943b40d",
+    "languageAgnosticNaturalKey": "pub-jwb-080_14_VIDEO",
+    "naturalKey": "pub-jwb-080_E_14_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODActivitiesSpecialEvents",
+    "description": "",
+    "firstPublished": "2021-05-24T11:37:04.012Z",
+    "duration": 100.054,
+    "durationFormattedHHMM": "1:40",
+    "durationFormattedMinSec": "1m 40s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/2e/jwb-080_E_14_r240P.mp4",
+            "checksum": "31073fb30e6f3b1f4d6ed5a2ffac58bd",
+            "filesize": 3473134,
+            "modifiedDatetime": "2021-05-24T06:08:45.000Z",
+            "bitRate": 271.19214998900594,
+            "duration": 100.054,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.576,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/37/jwb-080_E_14.vtt",
+                "modifiedDatetime": "2021-05-24T06:08:39.000Z",
+                "checksum": "0085e9e4ea5c11b321cbffc166bbbf94"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/1b/jwb-080_E_14_r360P.mp4",
+            "checksum": "10d1d61a9ebf1594725fe047aa6362d8",
+            "filesize": 6175181,
+            "modifiedDatetime": "2021-05-24T06:08:43.000Z",
+            "bitRate": 482.34919277030133,
+            "duration": 100.018,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/37/jwb-080_E_14.vtt",
+                "modifiedDatetime": "2021-05-24T06:08:39.000Z",
+                "checksum": "0085e9e4ea5c11b321cbffc166bbbf94"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/c1/jwb-080_E_14_r480P.mp4",
+            "checksum": "b707c83eea4846393d19c3049057c902",
+            "filesize": 10924944,
+            "modifiedDatetime": "2021-05-24T06:08:41.000Z",
+            "bitRate": 853.3576456237877,
+            "duration": 100.018,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/37/jwb-080_E_14.vtt",
+                "modifiedDatetime": "2021-05-24T06:08:39.000Z",
+                "checksum": "0085e9e4ea5c11b321cbffc166bbbf94"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/32/jwb-080_E_14_r720P.mp4",
+            "checksum": "e0d6066b948938c0018e22432355a093",
+            "filesize": 17985461,
+            "modifiedDatetime": "2021-05-24T06:08:40.000Z",
+            "bitRate": 1404.8612655971924,
+            "duration": 100.018,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/37/jwb-080_E_14.vtt",
+                "modifiedDatetime": "2021-05-24T06:08:39.000Z",
+                "checksum": "0085e9e4ea5c11b321cbffc166bbbf94"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-080-14.v",
+        "jwb-080-14"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/37/jwb-080_E_14.vtt",
+    "Name": "pub-jwb-080_E_14_VIDEO",
+    "Title": "Tokyo Preaching Campaign",
+    "UndatedReferenceTitle": "Tokyo Preaching Campaign",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODActivitiesSpecialEvents"
+}

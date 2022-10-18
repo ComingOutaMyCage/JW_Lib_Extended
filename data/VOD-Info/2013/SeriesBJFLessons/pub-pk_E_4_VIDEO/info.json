@@ -1,0 +1,102 @@
+{
+    "guid": "55365e9c7f0bc1fc270725f5",
+    "languageAgnosticNaturalKey": "pub-pk_4_VIDEO",
+    "naturalKey": "pub-pk_E_4_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBJFLessons",
+    "description": "",
+    "firstPublished": "2013-03-01T18:32:11.000Z",
+    "duration": 83.776,
+    "durationFormattedHHMM": "1:23",
+    "durationFormattedMinSec": "1m 23s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/e2/pk_E_004_r240P.mp4",
+            "checksum": "ec5dd147d69e6099f7e97857cfefb61d",
+            "filesize": 2827789,
+            "modifiedDatetime": "2021-09-15T18:40:02.000Z",
+            "bitRate": 263.7044208663579,
+            "duration": 83.776,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.438,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/d7/pk_E_004.vtt",
+                "modifiedDatetime": "2021-09-15T18:39:52.000Z",
+                "checksum": "b5da683f685cf51b40fe85a5b4a901d6"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/7d/pk_E_004_r360P.mp4",
+            "checksum": "f8c0dccf14f10916a5314cd44b6d6fd7",
+            "filesize": 4212561,
+            "modifiedDatetime": "2021-09-15T18:40:07.000Z",
+            "bitRate": 392.9533958890534,
+            "duration": 83.752,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/d7/pk_E_004.vtt",
+                "modifiedDatetime": "2021-09-15T18:39:52.000Z",
+                "checksum": "b5da683f685cf51b40fe85a5b4a901d6"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/04/pk_E_004_r480P.mp4",
+            "checksum": "d5de4feb80ab0a4e96539a550584fc9b",
+            "filesize": 7007179,
+            "modifiedDatetime": "2021-09-15T18:40:09.000Z",
+            "bitRate": 653.639148169596,
+            "duration": 83.752,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/d7/pk_E_004.vtt",
+                "modifiedDatetime": "2021-09-15T18:39:52.000Z",
+                "checksum": "b5da683f685cf51b40fe85a5b4a901d6"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/f9/pk_E_004_r720P.mp4",
+            "checksum": "48021e8c4fbc2c12b233a43265e8c7c9",
+            "filesize": 10866025,
+            "modifiedDatetime": "2021-09-15T18:40:11.000Z",
+            "bitRate": 1013.5975297604834,
+            "duration": 83.752,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/d7/pk_E_004.vtt",
+                "modifiedDatetime": "2021-09-15T18:39:52.000Z",
+                "checksum": "b5da683f685cf51b40fe85a5b4a901d6"
+            }
+        }
+    ],
+    "printReferences": [
+        "pk-4.v",
+        "pk-4"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/d7/pk_E_004.vtt",
+    "Name": "pub-pk_E_4_VIDEO",
+    "Title": "Stealing Is Bad",
+    "UndatedReferenceTitle": "Stealing Is Bad",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2013,
+    "Symbol": "SeriesBJFLessons"
+}

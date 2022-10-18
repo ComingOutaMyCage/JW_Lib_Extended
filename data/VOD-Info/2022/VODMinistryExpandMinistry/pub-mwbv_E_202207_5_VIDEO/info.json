@@ -1,0 +1,102 @@
+{
+    "guid": "624617d2dedf1bc789fe213f",
+    "languageAgnosticNaturalKey": "pub-mwbv_202207_5_VIDEO",
+    "naturalKey": "pub-mwbv_E_202207_5_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODMinistryExpandMinistry",
+    "description": "",
+    "firstPublished": "2022-07-11T14:28:06.395Z",
+    "duration": 163.648,
+    "durationFormattedHHMM": "2:43",
+    "durationFormattedMinSec": "2m 43s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/e8/mwbv_E_202207_05_r240P.mp4",
+            "checksum": "a972b9d74c3c286e50a7dfa7eaf7a22a",
+            "filesize": 4960972,
+            "modifiedDatetime": "2022-07-11T04:04:37.000Z",
+            "bitRate": 236.83512019700822,
+            "duration": 163.648,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/e5/mwbv_E_202207_05.vtt",
+                "modifiedDatetime": "2022-07-11T04:04:29.000Z",
+                "checksum": "caa8e39d8fd912f8210e98ae0290a2bd"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/a2/mwbv_E_202207_05_r360P.mp4",
+            "checksum": "f873a2f749d8b5ae09492353321a06ea",
+            "filesize": 8279701,
+            "modifiedDatetime": "2022-07-11T04:04:35.000Z",
+            "bitRate": 395.32084596368566,
+            "duration": 163.627,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/e5/mwbv_E_202207_05.vtt",
+                "modifiedDatetime": "2022-07-11T04:04:29.000Z",
+                "checksum": "caa8e39d8fd912f8210e98ae0290a2bd"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/a5/mwbv_E_202207_05_r480P.mp4",
+            "checksum": "aa78850c96ded7a7df1904a16cd81cda",
+            "filesize": 14360979,
+            "modifiedDatetime": "2022-07-11T04:04:33.000Z",
+            "bitRate": 685.676254148154,
+            "duration": 163.627,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/e5/mwbv_E_202207_05.vtt",
+                "modifiedDatetime": "2022-07-11T04:04:29.000Z",
+                "checksum": "caa8e39d8fd912f8210e98ae0290a2bd"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/fc/mwbv_E_202207_05_r720P.mp4",
+            "checksum": "cbf1de00517eaa527db6b885e371616b",
+            "filesize": 22402796,
+            "modifiedDatetime": "2022-07-11T04:04:31.000Z",
+            "bitRate": 1069.6391411564105,
+            "duration": 163.627,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/e5/mwbv_E_202207_05.vtt",
+                "modifiedDatetime": "2022-07-11T04:04:29.000Z",
+                "checksum": "caa8e39d8fd912f8210e98ae0290a2bd"
+            }
+        }
+    ],
+    "printReferences": [
+        "mwbv.202207-5.v",
+        "mwbv.202207-5"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/e5/mwbv_E_202207_05.vtt",
+    "Name": "pub-mwbv_E_202207_5_VIDEO",
+    "Title": "Enter the Door to Activity in Faith—Assist With a Theocratic Building Project",
+    "UndatedReferenceTitle": "Enter the Door to Activity in Faith—Assist With a Theocratic Building Project",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODMinistryExpandMinistry"
+}

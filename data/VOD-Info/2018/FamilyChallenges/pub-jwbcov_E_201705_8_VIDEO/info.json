@@ -1,0 +1,178 @@
+{
+    "guid": "5a873921b40fbacb53b4bd88",
+    "languageAgnosticNaturalKey": "pub-jwbcov_201705_8_VIDEO",
+    "naturalKey": "pub-jwbcov_E_201705_8_VIDEO",
+    "type": "video",
+    "primaryCategory": "FamilyChallenges",
+    "description": "",
+    "firstPublished": "2018-02-19T16:14:26.059Z",
+    "duration": 222.796,
+    "durationFormattedHHMM": "3:42",
+    "durationFormattedMinSec": "3m 42s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/31/jwbcov_E_201705_08_r240P.mp4",
+            "checksum": "5f71884edd3b0b4423ba06909d9827dc",
+            "filesize": 10178994,
+            "modifiedDatetime": "2020-11-06T02:11:30.000Z",
+            "bitRate": 356.9336551149931,
+            "duration": 222.796,
+            "frameHeight": 180,
+            "frameWidth": 320,
+            "label": "240p",
+            "frameRate": 30,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/e4/jwbcov_E_201705_08_r240P.vtt",
+                "modifiedDatetime": "2019-02-21T04:18:53.000Z",
+                "checksum": "f30ea233ee0f08356e9397a6187c7fa2"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/a2/jwbcov_s-Sub_E_201705_08_r240P.mp4",
+            "checksum": "99a84d8eef06df36e994a5369210b97d",
+            "filesize": 10274049,
+            "modifiedDatetime": "2020-11-14T15:01:35.000Z",
+            "bitRate": 360.2668262109733,
+            "duration": 222.796,
+            "frameHeight": 180,
+            "frameWidth": 320,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": true,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/e4/jwbcov_E_201705_08_r240P.vtt",
+                "modifiedDatetime": "2019-02-21T04:18:53.000Z",
+                "checksum": "f30ea233ee0f08356e9397a6187c7fa2"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/76/jwbcov_s-Sub_E_201705_08_r360P.mp4",
+            "checksum": "769c58f28249e7143bdabb3737dbad84",
+            "filesize": 23637642,
+            "modifiedDatetime": "2019-02-21T05:43:55.000Z",
+            "bitRate": 829.0200428316441,
+            "duration": 222.75586666666666,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 44.056,
+            "mimetype": "video/mp4",
+            "subtitled": true,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/cd/jwbcov_E_201705_08_r360P.vtt",
+                "modifiedDatetime": "2019-02-21T04:18:57.000Z",
+                "checksum": "f30ea233ee0f08356e9397a6187c7fa2"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/42/jwbcov_E_201705_08_r360P.mp4",
+            "checksum": "bbd90268a2d29c0a35d3ef058b5ab349",
+            "filesize": 23601112,
+            "modifiedDatetime": "2019-02-21T04:18:57.000Z",
+            "bitRate": 827.7358889371063,
+            "duration": 222.75666666666666,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 2205,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/cd/jwbcov_E_201705_08_r360P.vtt",
+                "modifiedDatetime": "2019-02-21T04:18:57.000Z",
+                "checksum": "f30ea233ee0f08356e9397a6187c7fa2"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/5b/jwbcov_s-Sub_E_201705_08_r480P.mp4",
+            "checksum": "fc9043a6b787c5742445dc5a07c7c5df",
+            "filesize": 31944576,
+            "modifiedDatetime": "2019-02-21T05:44:00.000Z",
+            "bitRate": 1120.3610649386562,
+            "duration": 222.75586666666666,
+            "frameHeight": 480,
+            "frameWidth": 854,
+            "label": "480p",
+            "frameRate": 44.056,
+            "mimetype": "video/mp4",
+            "subtitled": true,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ca/jwbcov_E_201705_08_r480P.vtt",
+                "modifiedDatetime": "2019-02-21T04:23:24.000Z",
+                "checksum": "f30ea233ee0f08356e9397a6187c7fa2"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/a4/jwbcov_E_201705_08_r480P.mp4",
+            "checksum": "d85a6de1429aad2df59cf5356e639dc3",
+            "filesize": 31975641,
+            "modifiedDatetime": "2019-02-21T04:23:24.000Z",
+            "bitRate": 1121.4465499536116,
+            "duration": 222.75666666666666,
+            "frameHeight": 480,
+            "frameWidth": 854,
+            "label": "480p",
+            "frameRate": 2205,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ca/jwbcov_E_201705_08_r480P.vtt",
+                "modifiedDatetime": "2019-02-21T04:23:24.000Z",
+                "checksum": "f30ea233ee0f08356e9397a6187c7fa2"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/0d/jwbcov_E_201705_08_r720P.mp4",
+            "checksum": "66e2341a9d67d0bff4de70e03adedb35",
+            "filesize": 46011276,
+            "modifiedDatetime": "2019-02-21T04:23:56.000Z",
+            "bitRate": 1613.7029662411899,
+            "duration": 222.75666666666666,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 2205,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/0d/jwbcov_E_201705_08_r720P.vtt",
+                "modifiedDatetime": "2019-02-21T04:23:56.000Z",
+                "checksum": "f30ea233ee0f08356e9397a6187c7fa2"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/40/jwbcov_s-Sub_E_201705_08_r720P.mp4",
+            "checksum": "9ce485b20c20784f01018977f3e35c18",
+            "filesize": 45906145,
+            "modifiedDatetime": "2019-02-21T05:44:06.000Z",
+            "bitRate": 1610.0216042757422,
+            "duration": 222.75586666666666,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 44.056,
+            "mimetype": "video/mp4",
+            "subtitled": true,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/0d/jwbcov_E_201705_08_r720P.vtt",
+                "modifiedDatetime": "2019-02-21T04:23:56.000Z",
+                "checksum": "f30ea233ee0f08356e9397a6187c7fa2"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwbcov.201705-8.v",
+        "jwbcov.201705-8"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/e4/jwbcov_E_201705_08_r240P.vtt",
+    "Name": "pub-jwbcov_E_201705_8_VIDEO",
+    "Title": "Build a House That Will Endure—Train Your Children in ‘the Way They Should Go’",
+    "UndatedReferenceTitle": "Build a House That Will Endure—Train Your Children in ‘the Way They Should Go’",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "FamilyChallenges"
+}

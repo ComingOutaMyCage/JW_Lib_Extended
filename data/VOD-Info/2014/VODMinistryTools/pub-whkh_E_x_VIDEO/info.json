@@ -1,0 +1,102 @@
+{
+    "guid": "5798f6e9fbf22850e2b35abb",
+    "languageAgnosticNaturalKey": "pub-whkh_x_VIDEO",
+    "naturalKey": "pub-whkh_E_x_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODMinistryTools",
+    "description": "",
+    "firstPublished": "2014-07-03T16:10:39.000Z",
+    "duration": 145.312,
+    "durationFormattedHHMM": "2:25",
+    "durationFormattedMinSec": "2m 25s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/e5/whkh_E_r240P.mp4",
+            "checksum": "453ac9c76355ff78add0addf3eade268",
+            "filesize": 6821867,
+            "modifiedDatetime": "2020-12-19T00:49:03.000Z",
+            "bitRate": 366.76830500922154,
+            "duration": 145.312,
+            "frameHeight": 180,
+            "frameWidth": 320,
+            "label": "240p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/d3/whkh_E_r240P.vtt",
+                "modifiedDatetime": "2019-03-02T21:04:40.000Z",
+                "checksum": "32b53eeeb2a56f4493e2f49a38f72250"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/b7/whkh_E_r360P.mp4",
+            "checksum": "e657e6bfd66c8c0d03214decd6bdede0",
+            "filesize": 15585959,
+            "modifiedDatetime": "2019-03-02T21:04:43.000Z",
+            "bitRate": 837.9595904492642,
+            "duration": 145.31166666666667,
+            "frameHeight": 270,
+            "frameWidth": 480,
+            "label": "360p",
+            "frameRate": 12,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/13/whkh_E_r360P.vtt",
+                "modifiedDatetime": "2019-03-02T21:04:43.000Z",
+                "checksum": "32b53eeeb2a56f4493e2f49a38f72250"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/d7/whkh_E_r480P.mp4",
+            "checksum": "13cfede5e1016ae4faa4c9458c6b429b",
+            "filesize": 21078428,
+            "modifiedDatetime": "2019-03-02T21:04:47.000Z",
+            "bitRate": 1133.2553161595192,
+            "duration": 145.31166666666667,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "480p",
+            "frameRate": 12,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/ab/whkh_E_r480P.vtt",
+                "modifiedDatetime": "2019-03-02T21:04:47.000Z",
+                "checksum": "32b53eeeb2a56f4493e2f49a38f72250"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/fc/whkh_E_r720P.mp4",
+            "checksum": "44c2b6a8033673a1975cc80d1ca77f90",
+            "filesize": 30641358,
+            "modifiedDatetime": "2019-03-02T21:04:56.000Z",
+            "bitRate": 1647.3942861321068,
+            "duration": 145.31166666666667,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 12,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/2c/whkh_E_r720P.vtt",
+                "modifiedDatetime": "2019-03-02T21:04:57.000Z",
+                "checksum": "32b53eeeb2a56f4493e2f49a38f72250"
+            }
+        }
+    ],
+    "printReferences": [
+        "whkh.v",
+        "whkh"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/d3/whkh_E_r240P.vtt",
+    "Name": "pub-whkh_E_x_VIDEO",
+    "Title": "What Happens at a Kingdom Hall?",
+    "UndatedReferenceTitle": "What Happens at a Kingdom Hall?",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2014,
+    "Symbol": "VODMinistryTools"
+}

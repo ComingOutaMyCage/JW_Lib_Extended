@@ -1,0 +1,102 @@
+{
+    "guid": "5ea8decceae6bd174cbb25cb",
+    "languageAgnosticNaturalKey": "pub-jwb_202004_14_VIDEO",
+    "naturalKey": "pub-jwb_E_202004_14_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2020-04-30T13:22:49.109Z",
+    "duration": 658.368,
+    "durationFormattedHHMM": "10:58",
+    "durationFormattedMinSec": "10m 58s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/68/jwb_E_202004_14_r240P.mp4",
+            "checksum": "6e728f96b078d5c53e90db6666173f7f",
+            "filesize": 10556579,
+            "modifiedDatetime": "2020-10-18T03:02:23.000Z",
+            "bitRate": 125.26926192873893,
+            "duration": 658.368,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.91,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/30/jwb_E_202004_14.vtt",
+                "modifiedDatetime": "2020-05-28T15:31:27.000Z",
+                "checksum": "c437fe39b8718ceaa615cfce86c07b86"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/f8/jwb_E_202004_14_r360P.mp4",
+            "checksum": "f94ddfcb1bb809cbfbb7173f581773e1",
+            "filesize": 20677896,
+            "modifiedDatetime": "2020-05-28T15:31:28.000Z",
+            "bitRate": 245.38617555830325,
+            "duration": 658.334,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/30/jwb_E_202004_14.vtt",
+                "modifiedDatetime": "2020-05-28T15:31:27.000Z",
+                "checksum": "c437fe39b8718ceaa615cfce86c07b86"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/c4/jwb_E_202004_14_r480P.mp4",
+            "checksum": "30f0c4f739980c22fe17c27f85855d65",
+            "filesize": 35644901,
+            "modifiedDatetime": "2020-05-28T15:30:35.000Z",
+            "bitRate": 423.00077022073907,
+            "duration": 658.334,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/30/jwb_E_202004_14.vtt",
+                "modifiedDatetime": "2020-05-28T15:31:27.000Z",
+                "checksum": "c437fe39b8718ceaa615cfce86c07b86"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/26/jwb_E_202004_14_r720P.mp4",
+            "checksum": "1b34dc8789fef28d03fc3a219160fe1c",
+            "filesize": 63292981,
+            "modifiedDatetime": "2020-05-28T15:30:39.000Z",
+            "bitRate": 751.1026531555411,
+            "duration": 658.334,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/30/jwb_E_202004_14.vtt",
+                "modifiedDatetime": "2020-05-28T15:31:27.000Z",
+                "checksum": "c437fe39b8718ceaa615cfce86c07b86"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202004-14.v",
+        "jwb.202004-14"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/30/jwb_E_202004_14.vtt",
+    "Name": "pub-jwb_E_202004_14_VIDEO",
+    "Title": "Joel Dellinger: Moving Forward With Faith, Not Fear (Isa. 41:10)",
+    "UndatedReferenceTitle": "Joel Dellinger: Moving Forward With Faith, Not Fear (Isa. 41:10)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

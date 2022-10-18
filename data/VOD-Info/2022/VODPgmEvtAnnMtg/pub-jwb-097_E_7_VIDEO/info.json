@@ -1,0 +1,102 @@
+{
+    "guid": "6196c38fd4a4e5a332a62c2d",
+    "languageAgnosticNaturalKey": "pub-jwb-097_7_VIDEO",
+    "naturalKey": "pub-jwb-097_E_7_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtAnnMtg",
+    "description": "",
+    "firstPublished": "2022-02-21T16:13:54.220Z",
+    "duration": 1170.07,
+    "durationFormattedHHMM": "19:30",
+    "durationFormattedMinSec": "19m 30s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/e4/jwb-097_E_07_r240P.mp4",
+            "checksum": "63b4b063e70172a70257575cd80a2a53",
+            "filesize": 31122898,
+            "modifiedDatetime": "2022-02-21T16:02:55.000Z",
+            "bitRate": 207.80606341928262,
+            "duration": 1170.07,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/5f/jwb-097_E_07.vtt",
+                "modifiedDatetime": "2022-02-21T16:02:38.000Z",
+                "checksum": "6469189e51130294561908c5ffe1b6de"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/4f/jwb-097_E_07_r360P.mp4",
+            "checksum": "58b07afd239ca8e942e9e3f59f5e3aca",
+            "filesize": 59581374,
+            "modifiedDatetime": "2022-02-21T16:02:52.000Z",
+            "bitRate": 397.8304119713344,
+            "duration": 1170.045,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/5f/jwb-097_E_07.vtt",
+                "modifiedDatetime": "2022-02-21T16:02:38.000Z",
+                "checksum": "6469189e51130294561908c5ffe1b6de"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/03/jwb-097_E_07_r480P.mp4",
+            "checksum": "4c3934a793b7c7232e8fc2e84422679d",
+            "filesize": 111173465,
+            "modifiedDatetime": "2022-02-21T16:02:48.000Z",
+            "bitRate": 742.3156334264921,
+            "duration": 1170.045,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/5f/jwb-097_E_07.vtt",
+                "modifiedDatetime": "2022-02-21T16:02:38.000Z",
+                "checksum": "6469189e51130294561908c5ffe1b6de"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/80/jwb-097_E_07_r720P.mp4",
+            "checksum": "2acb0996ec7670955682b1f45520ceef",
+            "filesize": 189726120,
+            "modifiedDatetime": "2022-02-21T16:02:39.000Z",
+            "bitRate": 1266.8190646513594,
+            "duration": 1170.045,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/5f/jwb-097_E_07.vtt",
+                "modifiedDatetime": "2022-02-21T16:02:38.000Z",
+                "checksum": "6469189e51130294561908c5ffe1b6de"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-097-7.v",
+        "jwb-097-7"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/5f/jwb-097_E_07.vtt",
+    "Name": "pub-jwb-097_E_7_VIDEO",
+    "Title": "The Good News According to Jesus—Project Update",
+    "UndatedReferenceTitle": "The Good News According to Jesus—Project Update",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODPgmEvtAnnMtg"
+}

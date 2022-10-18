@@ -1,0 +1,102 @@
+{
+    "guid": "5bab8f4fa51af8eef4569d1c",
+    "languageAgnosticNaturalKey": "pub-jwb_201810_11_VIDEO",
+    "naturalKey": "pub-jwb_E_201810_11_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODActivitiesTheoSchools",
+    "description": "",
+    "firstPublished": "2018-10-22T14:07:03.110Z",
+    "duration": 268.736,
+    "durationFormattedHHMM": "4:28",
+    "durationFormattedMinSec": "4m 28s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/69/jwb_E_201810_11_r240P.mp4",
+            "checksum": "9d1ceeaeb9837e35afd33e47eab671dc",
+            "filesize": 8144044,
+            "modifiedDatetime": "2020-11-07T05:19:28.000Z",
+            "bitRate": 236.7577985457847,
+            "duration": 268.736,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.814,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/0b/jwb_E_201810_11.vtt",
+                "modifiedDatetime": "2019-02-12T19:42:02.000Z",
+                "checksum": "98468bb39bcb7feab4aa44b78817d09d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/b7/jwb_E_201810_11_r360P.mp4",
+            "checksum": "e80a2033570743e5ccda5b8b3d48a168",
+            "filesize": 14981713,
+            "modifiedDatetime": "2019-02-12T19:44:02.000Z",
+            "bitRate": 435.57974326411374,
+            "duration": 268.71,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/0b/jwb_E_201810_11.vtt",
+                "modifiedDatetime": "2019-02-12T19:42:02.000Z",
+                "checksum": "98468bb39bcb7feab4aa44b78817d09d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/ac/jwb_E_201810_11_r480P.mp4",
+            "checksum": "aaf5be15c606e2be26c179442e4d5cb7",
+            "filesize": 27491877,
+            "modifiedDatetime": "2019-02-12T19:43:02.000Z",
+            "bitRate": 799.3014367254661,
+            "duration": 268.71,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/0b/jwb_E_201810_11.vtt",
+                "modifiedDatetime": "2019-02-12T19:42:02.000Z",
+                "checksum": "98468bb39bcb7feab4aa44b78817d09d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/1b/jwb_E_201810_11_r720P.mp4",
+            "checksum": "58cf1c4e259cfb7ec70b98ee58b5215b",
+            "filesize": 46459033,
+            "modifiedDatetime": "2019-02-12T19:41:02.000Z",
+            "bitRate": 1350.7543273882625,
+            "duration": 268.71,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/0b/jwb_E_201810_11.vtt",
+                "modifiedDatetime": "2019-02-12T19:42:02.000Z",
+                "checksum": "98468bb39bcb7feab4aa44b78817d09d"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201810-11.v",
+        "jwb.201810-11"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/0b/jwb_E_201810_11.vtt",
+    "Name": "pub-jwb_E_201810_11_VIDEO",
+    "Title": "First Romany Pioneer School",
+    "UndatedReferenceTitle": "First Romany Pioneer School",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "VODActivitiesTheoSchools"
+}

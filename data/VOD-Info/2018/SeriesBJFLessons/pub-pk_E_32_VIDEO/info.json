@@ -1,0 +1,102 @@
+{
+    "guid": "5be35604960f5b04ef4aa777",
+    "languageAgnosticNaturalKey": "pub-pk_32_VIDEO",
+    "naturalKey": "pub-pk_E_32_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBJFLessons",
+    "description": "",
+    "firstPublished": "2018-12-03T14:18:45.183Z",
+    "duration": 157.056,
+    "durationFormattedHHMM": "2:37",
+    "durationFormattedMinSec": "2m 37s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/6d/pk_E_032_r240P.mp4",
+            "checksum": "390c580a1052f8bef41ff8043de7282d",
+            "filesize": 3444634,
+            "modifiedDatetime": "2021-09-15T18:40:15.000Z",
+            "bitRate": 171.34781940836388,
+            "duration": 157.056,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.81,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/8e/pk_E_032.vtt",
+                "modifiedDatetime": "2021-09-15T18:39:37.000Z",
+                "checksum": "0e9c11020e508e9f2a8ae313c20b6efe"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/66/pk_E_032_r360P.mp4",
+            "checksum": "a4438e47e0648979ec6d2d21160a8fc3",
+            "filesize": 6197654,
+            "modifiedDatetime": "2021-09-15T18:39:46.000Z",
+            "bitRate": 308.3061456933823,
+            "duration": 157.049,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/8e/pk_E_032.vtt",
+                "modifiedDatetime": "2021-09-15T18:39:37.000Z",
+                "checksum": "0e9c11020e508e9f2a8ae313c20b6efe"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/55/pk_E_032_r480P.mp4",
+            "checksum": "fd3411c6ab15930c700aae8dabbe27ad",
+            "filesize": 11074330,
+            "modifiedDatetime": "2021-09-15T18:39:48.000Z",
+            "bitRate": 550.8994207221949,
+            "duration": 157.049,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/8e/pk_E_032.vtt",
+                "modifiedDatetime": "2021-09-15T18:39:37.000Z",
+                "checksum": "0e9c11020e508e9f2a8ae313c20b6efe"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/f8/pk_E_032_r720P.mp4",
+            "checksum": "4714895fa454960bc503aec4a2f14a6d",
+            "filesize": 17073362,
+            "modifiedDatetime": "2021-09-15T18:40:19.000Z",
+            "bitRate": 849.3249917223287,
+            "duration": 157.049,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/8e/pk_E_032.vtt",
+                "modifiedDatetime": "2021-09-15T18:39:37.000Z",
+                "checksum": "0e9c11020e508e9f2a8ae313c20b6efe"
+            }
+        }
+    ],
+    "printReferences": [
+        "pk-32.v",
+        "pk-32"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/8e/pk_E_032.vtt",
+    "Name": "pub-pk_E_32_VIDEO",
+    "Title": "Be Good in the Ministry",
+    "UndatedReferenceTitle": "Be Good in the Ministry",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "SeriesBJFLessons"
+}

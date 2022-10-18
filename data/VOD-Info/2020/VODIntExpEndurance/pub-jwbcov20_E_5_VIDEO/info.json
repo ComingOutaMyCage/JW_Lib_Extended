@@ -1,0 +1,102 @@
+{
+    "guid": "5f58d6580ca056895e200376",
+    "languageAgnosticNaturalKey": "pub-jwbcov20_5_VIDEO",
+    "naturalKey": "pub-jwbcov20_E_5_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpEndurance",
+    "description": "",
+    "firstPublished": "2020-09-28T13:12:48.408Z",
+    "duration": 185.088,
+    "durationFormattedHHMM": "3:05",
+    "durationFormattedMinSec": "3m 5s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/c7/jwbcov20_E_05_r240P.mp4",
+            "checksum": "719855099a88aae7c2a073eaffac88ad",
+            "filesize": 8799704,
+            "modifiedDatetime": "2020-12-15T00:18:30.000Z",
+            "bitRate": 371.4324402446404,
+            "duration": 185.088,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/22/jwbcov20_E_05.vtt",
+                "modifiedDatetime": "2020-09-28T06:24:26.000Z",
+                "checksum": "d396ad4950027d9f105ec6f088eaf5de"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/c1/jwbcov20_E_05_r360P.mp4",
+            "checksum": "6bf532f7bd36b3fec378b3474d084088",
+            "filesize": 14394999,
+            "modifiedDatetime": "2020-09-28T06:24:33.000Z",
+            "bitRate": 607.6965416133058,
+            "duration": 185.061,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/22/jwbcov20_E_05.vtt",
+                "modifiedDatetime": "2020-09-28T06:24:26.000Z",
+                "checksum": "d396ad4950027d9f105ec6f088eaf5de"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/ac/jwbcov20_E_05_r480P.mp4",
+            "checksum": "a430eaebe072839170f14c2215b76e87",
+            "filesize": 27091494,
+            "modifiedDatetime": "2020-09-28T06:24:37.000Z",
+            "bitRate": 1143.6893612106278,
+            "duration": 185.061,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/22/jwbcov20_E_05.vtt",
+                "modifiedDatetime": "2020-09-28T06:24:26.000Z",
+                "checksum": "d396ad4950027d9f105ec6f088eaf5de"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/5b/jwbcov20_E_05_r720P.mp4",
+            "checksum": "e7720ab9be410cc41f90b20b93c53e5e",
+            "filesize": 45028596,
+            "modifiedDatetime": "2020-09-28T06:24:40.000Z",
+            "bitRate": 1900.9186497965536,
+            "duration": 185.061,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/22/jwbcov20_E_05.vtt",
+                "modifiedDatetime": "2020-09-28T06:24:26.000Z",
+                "checksum": "d396ad4950027d9f105ec6f088eaf5de"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwbcov20-5.v",
+        "jwbcov20-5"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/22/jwbcov20_E_05.vtt",
+    "Name": "pub-jwbcov20_E_5_VIDEO",
+    "Title": "Rejoice in Jehovah’s Acts of Salvation—Nagalingam Ganeshalingam",
+    "UndatedReferenceTitle": "Rejoice in Jehovah’s Acts of Salvation—Nagalingam Ganeshalingam",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODIntExpEndurance"
+}

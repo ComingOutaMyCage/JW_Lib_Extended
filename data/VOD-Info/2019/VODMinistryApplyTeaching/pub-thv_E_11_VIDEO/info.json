@@ -1,0 +1,102 @@
+{
+    "guid": "5d6672c6ad989978fbca95ca",
+    "languageAgnosticNaturalKey": "pub-thv_11_VIDEO",
+    "naturalKey": "pub-thv_E_11_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODMinistryApplyTeaching",
+    "description": "",
+    "firstPublished": "2019-10-14T18:23:06.098Z",
+    "duration": 304.086,
+    "durationFormattedHHMM": "5:04",
+    "durationFormattedMinSec": "5m 4s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/bb/thv_E_11_r240P.mp4",
+            "checksum": "53cba368d7e7b262126dce2aeb0b3437",
+            "filesize": 5119953,
+            "modifiedDatetime": "2020-12-13T10:42:33.000Z",
+            "bitRate": 131.540527391922,
+            "duration": 304.086,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/21/thv_E_11.vtt",
+                "modifiedDatetime": "2019-10-14T18:21:46.000Z",
+                "checksum": "0a80b5cf4d247e7dddf49cde210792dc"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/cc/thv_E_11_r360P.mp4",
+            "checksum": "cafa21487d27f067764ca2ade008b0fd",
+            "filesize": 10340632,
+            "modifiedDatetime": "2019-10-14T18:21:31.000Z",
+            "bitRate": 265.69596783476675,
+            "duration": 304.055,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/21/thv_E_11.vtt",
+                "modifiedDatetime": "2019-10-14T18:21:46.000Z",
+                "checksum": "0a80b5cf4d247e7dddf49cde210792dc"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/b9/thv_E_11_r480P.mp4",
+            "checksum": "0a1ca18b7c2d3e65221b3aac5f4f8e1c",
+            "filesize": 20055022,
+            "modifiedDatetime": "2019-10-14T18:21:35.000Z",
+            "bitRate": 515.301045452303,
+            "duration": 304.055,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/21/thv_E_11.vtt",
+                "modifiedDatetime": "2019-10-14T18:21:46.000Z",
+                "checksum": "0a80b5cf4d247e7dddf49cde210792dc"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/b1/thv_E_11_r720P.mp4",
+            "checksum": "41df14fd031f6bf42ff3e7f88d2b7e3c",
+            "filesize": 34255367,
+            "modifiedDatetime": "2019-10-14T18:21:40.000Z",
+            "bitRate": 880.1698859992435,
+            "duration": 304.055,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/21/thv_E_11.vtt",
+                "modifiedDatetime": "2019-10-14T18:21:46.000Z",
+                "checksum": "0a80b5cf4d247e7dddf49cde210792dc"
+            }
+        }
+    ],
+    "printReferences": [
+        "thv-11.v",
+        "thv-11"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/21/thv_E_11.vtt",
+    "Name": "pub-thv_E_11_VIDEO",
+    "Title": "Study 11—Enthusiasm",
+    "UndatedReferenceTitle": "Study 11—Enthusiasm",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODMinistryApplyTeaching"
+}

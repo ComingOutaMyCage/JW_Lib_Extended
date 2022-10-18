@@ -1,0 +1,102 @@
+{
+    "guid": "5c66bee4351dc4182b665655",
+    "languageAgnosticNaturalKey": "pub-jwbcov_201805_3_VIDEO",
+    "naturalKey": "pub-jwbcov_E_201805_3_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpYouth",
+    "description": "",
+    "firstPublished": "2019-02-19T03:34:22.766Z",
+    "duration": 190.72,
+    "durationFormattedHHMM": "3:10",
+    "durationFormattedMinSec": "3m 10s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/77/jwbcov_E_201805_03_r240P.mp4",
+            "checksum": "c6bcecafce7112b932c1a967f9d221cb",
+            "filesize": 5060168,
+            "modifiedDatetime": "2020-11-08T00:29:15.000Z",
+            "bitRate": 207.2806339135906,
+            "duration": 190.72,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.762,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/23/jwbcov_E_201805_03.vtt",
+                "modifiedDatetime": "2019-02-19T03:33:15.000Z",
+                "checksum": "aea7bed2b0995522a91be8beefaf7d76"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/61/jwbcov_E_201805_03_r360P.mp4",
+            "checksum": "d280f0095b5755bb8bb905981662babc",
+            "filesize": 9329811,
+            "modifiedDatetime": "2019-02-19T03:32:56.000Z",
+            "bitRate": 382.23495709049143,
+            "duration": 190.692,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/23/jwbcov_E_201805_03.vtt",
+                "modifiedDatetime": "2019-02-19T03:33:15.000Z",
+                "checksum": "aea7bed2b0995522a91be8beefaf7d76"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/fa/jwbcov_E_201805_03_r480P.mp4",
+            "checksum": "87bde994aa78ae75262c91b34b6747e1",
+            "filesize": 16815246,
+            "modifiedDatetime": "2019-02-19T03:33:01.000Z",
+            "bitRate": 688.9072922566232,
+            "duration": 190.692,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/23/jwbcov_E_201805_03.vtt",
+                "modifiedDatetime": "2019-02-19T03:33:15.000Z",
+                "checksum": "aea7bed2b0995522a91be8beefaf7d76"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/a0/jwbcov_E_201805_03_r720P.mp4",
+            "checksum": "fb5e9f0994254d819b8ccd860f33e1ec",
+            "filesize": 27273090,
+            "modifiedDatetime": "2019-02-19T03:33:06.000Z",
+            "bitRate": 1117.3568667012773,
+            "duration": 190.692,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/23/jwbcov_E_201805_03.vtt",
+                "modifiedDatetime": "2019-02-19T03:33:15.000Z",
+                "checksum": "aea7bed2b0995522a91be8beefaf7d76"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwbcov.201805-3.v",
+        "jwbcov.201805-3"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/23/jwbcov_E_201805_03.vtt",
+    "Name": "pub-jwbcov_E_201805_3_VIDEO",
+    "Title": "Why True Christians Need Courage—To Preach",
+    "UndatedReferenceTitle": "Why True Christians Need Courage—To Preach",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODIntExpYouth"
+}

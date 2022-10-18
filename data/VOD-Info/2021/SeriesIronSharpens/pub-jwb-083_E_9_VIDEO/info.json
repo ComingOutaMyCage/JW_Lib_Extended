@@ -1,0 +1,102 @@
+{
+    "guid": "60db7442b765b4a6fb1d57ce",
+    "languageAgnosticNaturalKey": "pub-jwb-083_9_VIDEO",
+    "naturalKey": "pub-jwb-083_E_9_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesIronSharpens",
+    "description": "",
+    "firstPublished": "2021-10-18T14:56:03.405Z",
+    "duration": 364.31,
+    "durationFormattedHHMM": "6:04",
+    "durationFormattedMinSec": "6m 4s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/ec/jwb-083_E_09_r240P.mp4",
+            "checksum": "e54d996b1ada8c67d49565687bda85d6",
+            "filesize": 7611371,
+            "modifiedDatetime": "2021-10-18T06:05:54.000Z",
+            "bitRate": 163.22317789108178,
+            "duration": 364.31,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.553,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/64/jwb-083_E_09.vtt",
+                "modifiedDatetime": "2021-10-18T06:05:42.000Z",
+                "checksum": "71661a5a9de192ffdb48951851e78d8f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/16/jwb-083_E_09_r360P.mp4",
+            "checksum": "55605e96124bfbd3da74b18eb4a228ca",
+            "filesize": 14701286,
+            "modifiedDatetime": "2021-10-18T06:05:52.000Z",
+            "bitRate": 315.2881473007176,
+            "duration": 364.282,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/64/jwb-083_E_09.vtt",
+                "modifiedDatetime": "2021-10-18T06:05:42.000Z",
+                "checksum": "71661a5a9de192ffdb48951851e78d8f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/c6/jwb-083_E_09_r480P.mp4",
+            "checksum": "baadf0f1009c983bfe6a54c71ac02506",
+            "filesize": 26898557,
+            "modifiedDatetime": "2021-10-18T06:05:49.000Z",
+            "bitRate": 576.8744449698311,
+            "duration": 364.282,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/64/jwb-083_E_09.vtt",
+                "modifiedDatetime": "2021-10-18T06:05:42.000Z",
+                "checksum": "71661a5a9de192ffdb48951851e78d8f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/54/jwb-083_E_09_r720P.mp4",
+            "checksum": "3c0f0fd0f1225fe17d7c82ea73fe2d67",
+            "filesize": 44124875,
+            "modifiedDatetime": "2021-10-18T06:05:45.000Z",
+            "bitRate": 946.315178728293,
+            "duration": 364.282,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/64/jwb-083_E_09.vtt",
+                "modifiedDatetime": "2021-10-18T06:05:42.000Z",
+                "checksum": "71661a5a9de192ffdb48951851e78d8f"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-083-9.v",
+        "jwb-083-9"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/64/jwb-083_E_09.vtt",
+    "Name": "pub-jwb-083_E_9_VIDEO",
+    "Title": "\"Iron Sharpens Iron\"—Starting Conversations",
+    "UndatedReferenceTitle": "\"Iron Sharpens Iron\"—Starting Conversations",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "SeriesIronSharpens"
+}

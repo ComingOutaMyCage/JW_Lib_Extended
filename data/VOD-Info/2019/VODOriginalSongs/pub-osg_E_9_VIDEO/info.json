@@ -1,0 +1,102 @@
+{
+    "guid": "59c2d5335434430be822fa98",
+    "languageAgnosticNaturalKey": "pub-osg_9_VIDEO",
+    "naturalKey": "pub-osg_E_9_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODOriginalSongs",
+    "description": "",
+    "firstPublished": "2019-03-14T13:18:18.153Z",
+    "duration": 185.494,
+    "durationFormattedHHMM": "3:05",
+    "durationFormattedMinSec": "3m 5s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/d1/osg_E_009_r240P.mp4",
+            "checksum": "51defd5a122755e4135642af03fce3f7",
+            "filesize": 6955754,
+            "modifiedDatetime": "2020-12-15T08:35:15.000Z",
+            "bitRate": 292.95733622111766,
+            "duration": 185.494,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.441,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/29/osg_E_009.vtt",
+                "modifiedDatetime": "2019-03-14T13:12:02.000Z",
+                "checksum": "56cb64293d9cba4ef6402fbaadfc0da3"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/e3/osg_E_009_r360P.mp4",
+            "checksum": "6286d71fe26d7a66622976620214c838",
+            "filesize": 12381338,
+            "modifiedDatetime": "2019-03-14T13:10:19.000Z",
+            "bitRate": 521.55807186917,
+            "duration": 185.462,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/29/osg_E_009.vtt",
+                "modifiedDatetime": "2019-03-14T13:12:02.000Z",
+                "checksum": "56cb64293d9cba4ef6402fbaadfc0da3"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/bf/osg_E_009_r480P.mp4",
+            "checksum": "64cad28223faf4be6c63c5138bab55ee",
+            "filesize": 22981107,
+            "modifiedDatetime": "2019-03-14T13:10:26.000Z",
+            "bitRate": 968.0683829436758,
+            "duration": 185.462,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/29/osg_E_009.vtt",
+                "modifiedDatetime": "2019-03-14T13:12:02.000Z",
+                "checksum": "56cb64293d9cba4ef6402fbaadfc0da3"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/56/osg_E_009_r720P.mp4",
+            "checksum": "b522e2d7a88dcc5afea6fedd3a9afb10",
+            "filesize": 37861959,
+            "modifiedDatetime": "2019-03-14T13:10:36.000Z",
+            "bitRate": 1594.9173129131575,
+            "duration": 185.462,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/29/osg_E_009.vtt",
+                "modifiedDatetime": "2019-03-14T13:12:02.000Z",
+                "checksum": "56cb64293d9cba4ef6402fbaadfc0da3"
+            }
+        }
+    ],
+    "printReferences": [
+        "osg-9.v",
+        "osg-9"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/29/osg_E_009.vtt",
+    "Name": "pub-osg_E_9_VIDEO",
+    "Title": "Now Is the Time",
+    "UndatedReferenceTitle": "Now Is the Time",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODOriginalSongs"
+}

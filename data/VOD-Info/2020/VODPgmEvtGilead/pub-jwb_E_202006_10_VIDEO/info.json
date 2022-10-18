@@ -1,0 +1,102 @@
+{
+    "guid": "5eea72c8af341cff13f8303e",
+    "languageAgnosticNaturalKey": "pub-jwb_202006_10_VIDEO",
+    "naturalKey": "pub-jwb_E_202006_10_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtGilead",
+    "description": "",
+    "firstPublished": "2020-07-20T12:18:46.798Z",
+    "duration": 589.867,
+    "durationFormattedHHMM": "9:49",
+    "durationFormattedMinSec": "9m 49s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/ce/jwb_E_202006_10_r240P.mp4",
+            "checksum": "5b299f4b88ddf81d82714574d5ebabc3",
+            "filesize": 9580760,
+            "modifiedDatetime": "2020-10-18T03:04:53.000Z",
+            "bitRate": 126.89248169502618,
+            "duration": 589.867,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.47,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/88/jwb_E_202006_10.vtt",
+                "modifiedDatetime": "2020-07-20T07:53:22.000Z",
+                "checksum": "3839fd343c5931d5432f32c9d2c23d37"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/09/jwb_E_202006_10_r360P.mp4",
+            "checksum": "80d85a0292f1cc8e9e28cb8a1af15a73",
+            "filesize": 19635707,
+            "modifiedDatetime": "2020-07-20T07:53:16.000Z",
+            "bitRate": 260.08077035071005,
+            "duration": 589.832,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/88/jwb_E_202006_10.vtt",
+                "modifiedDatetime": "2020-07-20T07:53:22.000Z",
+                "checksum": "3839fd343c5931d5432f32c9d2c23d37"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/6b/jwb_E_202006_10_r480P.mp4",
+            "checksum": "5c4c22e56c3be833484c6c6e7a7e748e",
+            "filesize": 36676465,
+            "modifiedDatetime": "2020-07-20T07:53:18.000Z",
+            "bitRate": 485.790670585014,
+            "duration": 589.832,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/88/jwb_E_202006_10.vtt",
+                "modifiedDatetime": "2020-07-20T07:53:22.000Z",
+                "checksum": "3839fd343c5931d5432f32c9d2c23d37"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/d0/jwb_E_202006_10_r720P.mp4",
+            "checksum": "26ed45a138c8b1e2942e4cf708916468",
+            "filesize": 72292873,
+            "modifiedDatetime": "2020-07-20T07:53:20.000Z",
+            "bitRate": 957.5405714042304,
+            "duration": 589.832,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/88/jwb_E_202006_10.vtt",
+                "modifiedDatetime": "2020-07-20T07:53:22.000Z",
+                "checksum": "3839fd343c5931d5432f32c9d2c23d37"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202006-10.v",
+        "jwb.202006-10"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/88/jwb_E_202006_10.vtt",
+    "Name": "pub-jwb_E_202006_10_VIDEO",
+    "Title": "James Mantz: Do Privileges Make You Privileged?",
+    "UndatedReferenceTitle": "James Mantz: Do Privileges Make You Privileged?",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODPgmEvtGilead"
+}

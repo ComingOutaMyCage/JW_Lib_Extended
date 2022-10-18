@@ -1,0 +1,102 @@
+{
+    "guid": "5d28e25248fd57354cf3713c",
+    "languageAgnosticNaturalKey": "pub-pksjj_76_VIDEO",
+    "naturalKey": "pub-pksjj_E_76_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBJFSongs",
+    "description": "",
+    "firstPublished": "2019-10-07T12:35:51.112Z",
+    "duration": 161.024,
+    "durationFormattedHHMM": "2:41",
+    "durationFormattedMinSec": "2m 41s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/c1/pksjj_E_076_r240P.mp4",
+            "checksum": "fea934147257362dc46e319b48ce24a1",
+            "filesize": 4745753,
+            "modifiedDatetime": "2020-11-10T10:23:48.000Z",
+            "bitRate": 230.25260403728637,
+            "duration": 161.024,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.631,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/2d/pksjj_E_076.vtt",
+                "modifiedDatetime": "2020-11-10T10:23:43.000Z",
+                "checksum": "defe978f85c47405beb44df7e0209e70"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/ac/pksjj_E_076_r360P.mp4",
+            "checksum": "e9e3012c8ed969751dddea94ef4bd395",
+            "filesize": 7929797,
+            "modifiedDatetime": "2020-11-10T10:23:50.000Z",
+            "bitRate": 384.78977809144044,
+            "duration": 161.001,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/2d/pksjj_E_076.vtt",
+                "modifiedDatetime": "2020-11-10T10:23:43.000Z",
+                "checksum": "defe978f85c47405beb44df7e0209e70"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/73/pksjj_E_076_r480P.mp4",
+            "checksum": "b6ae7566d213be1d932658779d8f8fab",
+            "filesize": 14453104,
+            "modifiedDatetime": "2020-11-10T10:23:54.000Z",
+            "bitRate": 701.3302712405513,
+            "duration": 161.001,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/2d/pksjj_E_076.vtt",
+                "modifiedDatetime": "2020-11-10T10:23:43.000Z",
+                "checksum": "defe978f85c47405beb44df7e0209e70"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/4f/pksjj_E_076_r720P.mp4",
+            "checksum": "4512f64293d2ded7a4f6edf55c47829f",
+            "filesize": 24000411,
+            "modifiedDatetime": "2020-11-10T10:23:58.000Z",
+            "bitRate": 1164.6089834069353,
+            "duration": 161.001,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/2d/pksjj_E_076.vtt",
+                "modifiedDatetime": "2020-11-10T10:23:43.000Z",
+                "checksum": "defe978f85c47405beb44df7e0209e70"
+            }
+        }
+    ],
+    "printReferences": [
+        "pksjj-76.v",
+        "pksjj-76"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/2d/pksjj_E_076.vtt",
+    "Name": "pub-pksjj_E_76_VIDEO",
+    "Title": "Song 076 How Does It Make You Feel?",
+    "UndatedReferenceTitle": "Song 076 How Does It Make You Feel?",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "SeriesBJFSongs"
+}

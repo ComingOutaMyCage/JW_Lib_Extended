@@ -1,0 +1,102 @@
+{
+    "guid": "5bdb1e59960f5b04ef4a9c3f",
+    "languageAgnosticNaturalKey": "pub-jwb_201811_12_VIDEO",
+    "naturalKey": "pub-jwb_E_201811_12_VIDEO",
+    "type": "video",
+    "primaryCategory": "Reports",
+    "description": "",
+    "firstPublished": "2018-11-01T15:54:40.774Z",
+    "duration": 631.062,
+    "durationFormattedHHMM": "10:31",
+    "durationFormattedMinSec": "10m 31s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/40/jwb_E_201811_12_r240P.mp4",
+            "checksum": "3b7559daa05c2b0e7d3e73373be486bb",
+            "filesize": 16162048,
+            "modifiedDatetime": "2020-11-06T23:26:54.000Z",
+            "bitRate": 200.08493618693566,
+            "duration": 631.062,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.644,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/40/jwb_E_201811_12.vtt",
+                "modifiedDatetime": "2020-03-18T12:39:03.000Z",
+                "checksum": "6f3b58976bb6441d022982bd589222a6"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/74/jwb_E_201811_12_r360P.mp4",
+            "checksum": "2b36b2b0bf14a8b42c3b26cb0cdeebdd",
+            "filesize": 30062716,
+            "modifiedDatetime": "2020-03-18T12:39:14.000Z",
+            "bitRate": 372.1871335414554,
+            "duration": 631.04,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/40/jwb_E_201811_12.vtt",
+                "modifiedDatetime": "2020-03-18T12:39:03.000Z",
+                "checksum": "6f3b58976bb6441d022982bd589222a6"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/81/jwb_E_201811_12_r480P.mp4",
+            "checksum": "d869d8ed2b0c05f9b650e76a5772255b",
+            "filesize": 55703024,
+            "modifiedDatetime": "2020-03-18T12:40:03.000Z",
+            "bitRate": 689.6232806161258,
+            "duration": 631.04,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/40/jwb_E_201811_12.vtt",
+                "modifiedDatetime": "2020-03-18T12:39:03.000Z",
+                "checksum": "6f3b58976bb6441d022982bd589222a6"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/30/jwb_E_201811_12_r720P.mp4",
+            "checksum": "1b304b4294fda87ea743869bc79bd469",
+            "filesize": 97049856,
+            "modifiedDatetime": "2020-03-18T12:39:09.000Z",
+            "bitRate": 1201.511790060852,
+            "duration": 631.04,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/40/jwb_E_201811_12.vtt",
+                "modifiedDatetime": "2020-03-18T12:39:03.000Z",
+                "checksum": "6f3b58976bb6441d022982bd589222a6"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201811-12.v",
+        "jwb.201811-12"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/40/jwb_E_201811_12.vtt",
+    "Name": "pub-jwb_E_201811_12_VIDEO",
+    "Title": "Venezuela—Love and Faith During Difficult Times",
+    "UndatedReferenceTitle": "Venezuela—Love and Faith During Difficult Times",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "Reports"
+}

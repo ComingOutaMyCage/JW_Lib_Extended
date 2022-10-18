@@ -1,0 +1,102 @@
+{
+    "guid": "58b5953ba25a39c2e32ab104",
+    "languageAgnosticNaturalKey": "docid-502017178_1_VIDEO",
+    "naturalKey": "docid-502017178_E_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesWhiteboard",
+    "description": "",
+    "firstPublished": "2017-03-23T13:09:02.810Z",
+    "duration": 139.243,
+    "durationFormattedHHMM": "2:19",
+    "durationFormattedMinSec": "2m 19s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/38/502017178_E_cnt_1_r240P.mp4",
+            "checksum": "a84b3d482da44980172e07c70a130d09",
+            "filesize": 2430451,
+            "modifiedDatetime": "2020-10-31T23:38:44.000Z",
+            "bitRate": 136.36519205633317,
+            "duration": 139.243,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.814,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/02/502017178_E_cnt_1_r240P.vtt",
+                "modifiedDatetime": "2018-01-25T19:00:09.000Z",
+                "checksum": "ffe67d93f8a7c2d87d318b3cea064967"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/a2/502017178_E_cnt_1_r360P.mp4",
+            "checksum": "4ba1ee21596bc1f89851d364c911ec0b",
+            "filesize": 4369412,
+            "modifiedDatetime": "2018-01-25T19:00:07.000Z",
+            "bitRate": 245.212493714532,
+            "duration": 139.21,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/4a/502017178_E_cnt_1_r360P.vtt",
+                "modifiedDatetime": "2018-01-25T19:00:08.000Z",
+                "checksum": "ffe67d93f8a7c2d87d318b3cea064967"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/ae/502017178_E_cnt_1_r480P.mp4",
+            "checksum": "139cc9206716182b9ca1595db0f0bfdb",
+            "filesize": 7342642,
+            "modifiedDatetime": "2018-01-25T18:58:07.000Z",
+            "bitRate": 412.0709045686373,
+            "duration": 139.21,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/ed/502017178_E_cnt_1_r480P.vtt",
+                "modifiedDatetime": "2018-01-25T18:58:08.000Z",
+                "checksum": "ffe67d93f8a7c2d87d318b3cea064967"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/ec/502017178_E_cnt_1_r720P.mp4",
+            "checksum": "1f9ce57288f8d8d0a0fba54ddead56ec",
+            "filesize": 9555018,
+            "modifiedDatetime": "2018-01-25T18:58:05.000Z",
+            "bitRate": 536.2299987429063,
+            "duration": 139.21,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/7e/502017178_E_cnt_1_r720P.vtt",
+                "modifiedDatetime": "2018-01-25T18:58:06.000Z",
+                "checksum": "ffe67d93f8a7c2d87d318b3cea064967"
+            }
+        }
+    ],
+    "printReferences": [
+        "502017178-1.v",
+        "502017178-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/content_assets/02/502017178_E_cnt_1_r240P.vtt",
+    "Name": "docid-502017178_E_1_VIDEO",
+    "Title": "How Can I Talk to My Parents?",
+    "UndatedReferenceTitle": "How Can I Talk to My Parents?",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2017,
+    "Symbol": "SeriesWhiteboard"
+}

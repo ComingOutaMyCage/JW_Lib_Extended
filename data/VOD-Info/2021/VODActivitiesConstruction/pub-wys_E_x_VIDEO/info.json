@@ -1,0 +1,102 @@
+{
+    "guid": "611c817f23708c1b98e68b7a",
+    "languageAgnosticNaturalKey": "pub-wys_x_VIDEO",
+    "naturalKey": "pub-wys_E_x_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODActivitiesConstruction",
+    "description": "",
+    "firstPublished": "2021-10-28T15:17:26.757Z",
+    "duration": 403.648,
+    "durationFormattedHHMM": "6:43",
+    "durationFormattedMinSec": "6m 43s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/02/wys_E_r240P.mp4",
+            "checksum": "e156c655fbe878cf7174cd16ce5ffaed",
+            "filesize": 12909221,
+            "modifiedDatetime": "2022-03-10T18:56:00.000Z",
+            "bitRate": 249.85454916783928,
+            "duration": 403.648,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.529,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/6d/wys_E.vtt",
+                "modifiedDatetime": "2021-10-28T13:51:57.000Z",
+                "checksum": "2413eca605ffb3cf72dda150fc4f8477"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/5c/wys_E_r360P.mp4",
+            "checksum": "9ee3687f50db7d08bf39657133fb07c7",
+            "filesize": 23624798,
+            "modifiedDatetime": "2022-03-10T18:56:08.000Z",
+            "bitRate": 457.29135180234533,
+            "duration": 403.613,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/6d/wys_E.vtt",
+                "modifiedDatetime": "2021-10-28T13:51:57.000Z",
+                "checksum": "2413eca605ffb3cf72dda150fc4f8477"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/e2/wys_E_r480P.mp4",
+            "checksum": "c1a613adb93cd70a42a83a6e77a757eb",
+            "filesize": 42933411,
+            "modifiedDatetime": "2022-03-10T18:56:12.000Z",
+            "bitRate": 831.0368433065833,
+            "duration": 403.613,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/6d/wys_E.vtt",
+                "modifiedDatetime": "2021-10-28T13:51:57.000Z",
+                "checksum": "2413eca605ffb3cf72dda150fc4f8477"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/29/wys_E_r720P.mp4",
+            "checksum": "67c6db548290ee2260ded94ca2b6a150",
+            "filesize": 70117068,
+            "modifiedDatetime": "2022-03-10T18:56:16.000Z",
+            "bitRate": 1357.2149404256056,
+            "duration": 403.613,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/6d/wys_E.vtt",
+                "modifiedDatetime": "2021-10-28T13:51:57.000Z",
+                "checksum": "2413eca605ffb3cf72dda150fc4f8477"
+            }
+        }
+    ],
+    "printReferences": [
+        "wys.v",
+        "wys"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/6d/wys_E.vtt",
+    "Name": "pub-wys_E_x_VIDEO",
+    "Title": "Jehovah Wants You to Be Safe",
+    "UndatedReferenceTitle": "Jehovah Wants You to Be Safe",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODActivitiesConstruction"
+}

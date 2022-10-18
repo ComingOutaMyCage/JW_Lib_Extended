@@ -1,0 +1,102 @@
+{
+    "guid": "55384d2a71a673b272abf189",
+    "languageAgnosticNaturalKey": "pub-jwbiv_201502_1_VIDEO",
+    "naturalKey": "pub-jwbiv_E_201502_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpArchives",
+    "description": "",
+    "firstPublished": "2015-03-05T22:07:33.000Z",
+    "duration": 502.336,
+    "durationFormattedHHMM": "8:22",
+    "durationFormattedMinSec": "8m 22s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/0f/jwbiv_E_201502_01_r240P.mp4",
+            "checksum": "5c1ba781274af63feff9e62b0b187eaa",
+            "filesize": 12850319,
+            "modifiedDatetime": "2021-07-07T20:16:48.000Z",
+            "bitRate": 199.85252338574182,
+            "duration": 502.336,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.91,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/c5/jwbiv_E_201502_01.vtt",
+                "modifiedDatetime": "2021-07-07T20:16:41.000Z",
+                "checksum": "81f0821727481a9fcf857b31e157afd1"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/4d/jwbiv_E_201502_01_r360P.mp4",
+            "checksum": "04ba207ffb69b1758bca0a8194a2567a",
+            "filesize": 24318224,
+            "modifiedDatetime": "2021-07-07T20:16:51.000Z",
+            "bitRate": 378.2233452515568,
+            "duration": 502.312,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/c5/jwbiv_E_201502_01.vtt",
+                "modifiedDatetime": "2021-07-07T20:16:41.000Z",
+                "checksum": "81f0821727481a9fcf857b31e157afd1"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/87/jwbiv_E_201502_01_r480P.mp4",
+            "checksum": "1e5288845e2c99504350808d9e76b422",
+            "filesize": 51546285,
+            "modifiedDatetime": "2021-07-07T20:16:55.000Z",
+            "bitRate": 801.7036255604087,
+            "duration": 502.312,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/c5/jwbiv_E_201502_01.vtt",
+                "modifiedDatetime": "2021-07-07T20:16:41.000Z",
+                "checksum": "81f0821727481a9fcf857b31e157afd1"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/8e/jwbiv_E_201502_01_r720P.mp4",
+            "checksum": "5ce3a1753b64f0cbdc243d9f3ebcbcde",
+            "filesize": 98076805,
+            "modifiedDatetime": "2021-07-07T20:16:59.000Z",
+            "bitRate": 1525.3966440429454,
+            "duration": 502.312,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/c5/jwbiv_E_201502_01.vtt",
+                "modifiedDatetime": "2021-07-07T20:16:41.000Z",
+                "checksum": "81f0821727481a9fcf857b31e157afd1"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwbiv.201502-1.v",
+        "jwbiv.201502-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/c5/jwbiv_E_201502_01.vtt",
+    "Name": "pub-jwbiv_E_201502_1_VIDEO",
+    "Title": "Lyman Swingle: Producing The New World Society in Action",
+    "UndatedReferenceTitle": "Lyman Swingle: Producing The New World Society in Action",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2015,
+    "Symbol": "VODIntExpArchives"
+}

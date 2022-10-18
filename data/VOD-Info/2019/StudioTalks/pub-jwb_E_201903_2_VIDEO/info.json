@@ -1,0 +1,102 @@
+{
+    "guid": "5c5b323e351dc4182b664227",
+    "languageAgnosticNaturalKey": "pub-jwb_201903_2_VIDEO",
+    "naturalKey": "pub-jwb_E_201903_2_VIDEO",
+    "type": "video",
+    "primaryCategory": "StudioTalks",
+    "description": "",
+    "firstPublished": "2019-03-18T20:25:49.738Z",
+    "duration": 754.539,
+    "durationFormattedHHMM": "12:34",
+    "durationFormattedMinSec": "12m 34s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/d4/jwb_E_201903_02_r240P.mp4",
+            "checksum": "8454926eac365656bd8b9508149c696c",
+            "filesize": 15967119,
+            "modifiedDatetime": "2020-11-21T06:36:57.000Z",
+            "bitRate": 165.32361771558527,
+            "duration": 754.539,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.762,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/8c/jwb_E_201903_02.vtt",
+                "modifiedDatetime": "2019-03-18T20:33:26.000Z",
+                "checksum": "63843d0c8fa77d3205bff97709940f68"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/d5/jwb_E_201903_02_r360P.mp4",
+            "checksum": "4ebf3b895c543684b04e71ec0914f4a4",
+            "filesize": 31748087,
+            "modifiedDatetime": "2019-03-18T19:31:04.000Z",
+            "bitRate": 328.73812578114956,
+            "duration": 754.497,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/8c/jwb_E_201903_02.vtt",
+                "modifiedDatetime": "2019-03-18T20:33:26.000Z",
+                "checksum": "63843d0c8fa77d3205bff97709940f68"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/69/jwb_E_201903_02_r480P.mp4",
+            "checksum": "705bdd3766e3c326d4b3690c0ab4ce50",
+            "filesize": 57807879,
+            "modifiedDatetime": "2019-03-18T19:30:41.000Z",
+            "bitRate": 598.5763425003678,
+            "duration": 754.497,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/8c/jwb_E_201903_02.vtt",
+                "modifiedDatetime": "2019-03-18T20:33:26.000Z",
+                "checksum": "63843d0c8fa77d3205bff97709940f68"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/3d/jwb_E_201903_02_r720P.mp4",
+            "checksum": "698bd40015f36818387288c6b88b30e5",
+            "filesize": 98933986,
+            "modifiedDatetime": "2019-03-18T19:30:55.000Z",
+            "bitRate": 1024.4199322528784,
+            "duration": 754.497,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/8c/jwb_E_201903_02.vtt",
+                "modifiedDatetime": "2019-03-18T20:33:26.000Z",
+                "checksum": "63843d0c8fa77d3205bff97709940f68"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201903-2.v",
+        "jwb.201903-2"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/8c/jwb_E_201903_02.vtt",
+    "Name": "pub-jwb_E_201903_2_VIDEO",
+    "Title": "David Schafer: Christian Neutrality—What It Means, What It Takes, and Why We Choose It",
+    "UndatedReferenceTitle": "David Schafer: Christian Neutrality—What It Means, What It Takes, and Why We Choose It",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "StudioTalks"
+}

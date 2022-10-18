@@ -1,0 +1,102 @@
+{
+    "guid": "61b8b998d4a4e5a332f3207d",
+    "languageAgnosticNaturalKey": "docid-502100006_1_VIDEO",
+    "naturalKey": "docid-502100006_E_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesWhiteboard",
+    "description": "",
+    "firstPublished": "2022-02-10T16:06:52.836Z",
+    "duration": 202.603,
+    "durationFormattedHHMM": "3:22",
+    "durationFormattedMinSec": "3m 22s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/25/502100006_E_cnt_1_r240P.mp4",
+            "checksum": "79c2aa663ea2d833d74c06be5814d30e",
+            "filesize": 3051632,
+            "modifiedDatetime": "2022-02-10T15:46:10.000Z",
+            "bitRate": 117.6728626920628,
+            "duration": 202.603,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.529,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/82/502100006_E_cnt_1.vtt",
+                "modifiedDatetime": "2022-02-10T15:46:04.000Z",
+                "checksum": "70dc75773fb26b05dcdafcb93cf61aeb"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/9b/502100006_E_cnt_1_r360P.mp4",
+            "checksum": "cde58bb206f6ece34550822c3e84157e",
+            "filesize": 5535925,
+            "modifiedDatetime": "2022-02-10T15:46:09.000Z",
+            "bitRate": 213.4940643526723,
+            "duration": 202.579,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/82/502100006_E_cnt_1.vtt",
+                "modifiedDatetime": "2022-02-10T15:46:04.000Z",
+                "checksum": "70dc75773fb26b05dcdafcb93cf61aeb"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/57/502100006_E_cnt_1_r480P.mp4",
+            "checksum": "bd6f2626f4ba463a6e0837b3230d34da",
+            "filesize": 8956490,
+            "modifiedDatetime": "2022-02-10T15:46:07.000Z",
+            "bitRate": 345.4088435869463,
+            "duration": 202.579,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/82/502100006_E_cnt_1.vtt",
+                "modifiedDatetime": "2022-02-10T15:46:04.000Z",
+                "checksum": "70dc75773fb26b05dcdafcb93cf61aeb"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/1b/502100006_E_cnt_1_r720P.mp4",
+            "checksum": "f6b7b8abfa17622ebd0fb1d7e0dfd2bf",
+            "filesize": 11038575,
+            "modifiedDatetime": "2022-02-10T15:46:05.000Z",
+            "bitRate": 425.70487161798604,
+            "duration": 202.579,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/82/502100006_E_cnt_1.vtt",
+                "modifiedDatetime": "2022-02-10T15:46:04.000Z",
+                "checksum": "70dc75773fb26b05dcdafcb93cf61aeb"
+            }
+        }
+    ],
+    "printReferences": [
+        "502100006-1.v",
+        "502100006-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/content_assets/82/502100006_E_cnt_1.vtt",
+    "Name": "docid-502100006_E_1_VIDEO",
+    "Title": "How to Manage Your Money",
+    "UndatedReferenceTitle": "How to Manage Your Money",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "SeriesWhiteboard"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "5e56b485faacdecc13ccb0e5",
+    "languageAgnosticNaturalKey": "pub-jwb_202004_10_VIDEO",
+    "naturalKey": "pub-jwb_E_202004_10_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2020-04-13T11:21:25.866Z",
+    "duration": 612.224,
+    "durationFormattedHHMM": "10:12",
+    "durationFormattedMinSec": "10m 12s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/21/jwb_E_202004_10_r240P.mp4",
+            "checksum": "88cd26329ca83e654a8b72f65a325314",
+            "filesize": 9218205,
+            "modifiedDatetime": "2020-10-18T03:02:06.000Z",
+            "bitRate": 117.63215189620138,
+            "duration": 612.224,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.483,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/d6/jwb_E_202004_10.vtt",
+                "modifiedDatetime": "2020-04-13T10:05:54.000Z",
+                "checksum": "cb217548738a0d5f1f9ff26219b99666"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/58/jwb_E_202004_10_r360P.mp4",
+            "checksum": "91755916d89366ef325fde7468a5792e",
+            "filesize": 18851178,
+            "modifiedDatetime": "2020-04-13T10:06:01.000Z",
+            "bitRate": 240.5680993096982,
+            "duration": 612.196,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/d6/jwb_E_202004_10.vtt",
+                "modifiedDatetime": "2020-04-13T10:05:54.000Z",
+                "checksum": "cb217548738a0d5f1f9ff26219b99666"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/87/jwb_E_202004_10_r480P.mp4",
+            "checksum": "01a26cfc22bef9869867abd58e9727f6",
+            "filesize": 32749404,
+            "modifiedDatetime": "2020-04-13T10:06:05.000Z",
+            "bitRate": 417.9294192546178,
+            "duration": 612.196,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/d6/jwb_E_202004_10.vtt",
+                "modifiedDatetime": "2020-04-13T10:05:54.000Z",
+                "checksum": "cb217548738a0d5f1f9ff26219b99666"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/b5/jwb_E_202004_10_r720P.mp4",
+            "checksum": "7316196d9d977d3fe8ef668ed7e3a63b",
+            "filesize": 57562714,
+            "modifiedDatetime": "2020-04-13T10:06:09.000Z",
+            "bitRate": 734.5828837904853,
+            "duration": 612.196,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/d6/jwb_E_202004_10.vtt",
+                "modifiedDatetime": "2020-04-13T10:05:54.000Z",
+                "checksum": "cb217548738a0d5f1f9ff26219b99666"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202004-10.v",
+        "jwb.202004-10"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/d6/jwb_E_202004_10.vtt",
+    "Name": "pub-jwb_E_202004_10_VIDEO",
+    "Title": "Harold Corkern: Jehovah—“The God of All Comfort” (2 Cor. 1:3, 4)",
+    "UndatedReferenceTitle": "Harold Corkern: Jehovah—“The God of All Comfort” (2 Cor. 1:3, 4)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "5b17e4ec329d2b18632dd445",
+    "languageAgnosticNaturalKey": "pub-jwb_201806_3_VIDEO",
+    "naturalKey": "pub-jwb_E_201806_3_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2018-06-11T13:26:56.593Z",
+    "duration": 577.643,
+    "durationFormattedHHMM": "9:37",
+    "durationFormattedMinSec": "9m 37s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/d0/jwb_E_201806_03_r240P.mp4",
+            "checksum": "a6346214a5947ec9ae323b91583812a2",
+            "filesize": 9380724,
+            "modifiedDatetime": "2020-11-21T06:36:12.000Z",
+            "bitRate": 126.87231776373989,
+            "duration": 577.643,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.297,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/94/jwb_E_201806_03_r240P.vtt",
+                "modifiedDatetime": "2018-06-11T13:18:02.000Z",
+                "checksum": "a34931b90f131eee00e6c6dacc073cb9"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/04/jwb_E_201806_03_r360P.mp4",
+            "checksum": "8ef06808f10dce57062977374d70dd0e",
+            "filesize": 19130910,
+            "modifiedDatetime": "2018-06-11T13:18:03.000Z",
+            "bitRate": 258.75183403448636,
+            "duration": 577.62,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/e7/jwb_E_201806_03_r360P.vtt",
+                "modifiedDatetime": "2018-06-11T13:18:07.000Z",
+                "checksum": "a34931b90f131eee00e6c6dacc073cb9"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/85/jwb_E_201806_03_r480P.mp4",
+            "checksum": "99c44223de0f9b70d3f9d219c05619ff",
+            "filesize": 34285530,
+            "modifiedDatetime": "2018-06-11T13:18:08.000Z",
+            "bitRate": 463.72304131609013,
+            "duration": 577.62,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f5/jwb_E_201806_03_r480P.vtt",
+                "modifiedDatetime": "2018-06-11T13:18:12.000Z",
+                "checksum": "a34931b90f131eee00e6c6dacc073cb9"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/eb/jwb_E_201806_03_r720P.mp4",
+            "checksum": "6f562120bb2dd22f64820a59eb5b8f9c",
+            "filesize": 63544746,
+            "modifiedDatetime": "2018-06-11T13:18:13.000Z",
+            "bitRate": 859.4635367975485,
+            "duration": 577.62,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/e8/jwb_E_201806_03_r720P.vtt",
+                "modifiedDatetime": "2018-06-11T13:18:19.000Z",
+                "checksum": "a34931b90f131eee00e6c6dacc073cb9"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201806-3.v",
+        "jwb.201806-3"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/94/jwb_E_201806_03_r240P.vtt",
+    "Name": "pub-jwb_E_201806_3_VIDEO",
+    "Title": "William Turner, Jr.: Can Endeavors Become Distractions? (John 11:5)",
+    "UndatedReferenceTitle": "William Turner, Jr.: Can Endeavors Become Distractions? (John 11:5)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "5e9061ed8be4461752b22ac4",
+    "languageAgnosticNaturalKey": "pub-jwb_202004_13_VIDEO",
+    "naturalKey": "pub-jwb_E_202004_13_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2020-04-10T20:09:44.923Z",
+    "duration": 614.123,
+    "durationFormattedHHMM": "10:14",
+    "durationFormattedMinSec": "10m 14s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/a6/jwb_E_202004_13_r240P.mp4",
+            "checksum": "826ac3a8e3eec8b1e3d1ba0f02f10112",
+            "filesize": 10925468,
+            "modifiedDatetime": "2020-10-18T03:02:19.000Z",
+            "bitRate": 138.98717154381126,
+            "duration": 614.123,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.412,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/62/jwb_E_202004_13.vtt",
+                "modifiedDatetime": "2020-04-21T18:34:12.000Z",
+                "checksum": "1e5066d23d6ecf9f750a10026dc18317"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/1c/jwb_E_202004_13_r360P.mp4",
+            "checksum": "64e34bf75d96d1806fbc5688dea212e7",
+            "filesize": 22062417,
+            "modifiedDatetime": "2020-04-21T18:34:13.000Z",
+            "bitRate": 280.6797583619665,
+            "duration": 614.09,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/62/jwb_E_202004_13.vtt",
+                "modifiedDatetime": "2020-04-21T18:34:12.000Z",
+                "checksum": "1e5066d23d6ecf9f750a10026dc18317"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/dd/jwb_E_202004_13_r480P.mp4",
+            "checksum": "7004c940f5d7aed70346437c9626c974",
+            "filesize": 38966176,
+            "modifiedDatetime": "2020-04-21T18:34:05.000Z",
+            "bitRate": 495.73067465680924,
+            "duration": 614.09,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/62/jwb_E_202004_13.vtt",
+                "modifiedDatetime": "2020-04-21T18:34:12.000Z",
+                "checksum": "1e5066d23d6ecf9f750a10026dc18317"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/4a/jwb_E_202004_13_r720P.mp4",
+            "checksum": "a42dc3c3944f8c02f1b2ed8600860bcc",
+            "filesize": 67729163,
+            "modifiedDatetime": "2020-04-21T18:34:08.000Z",
+            "bitRate": 861.6555976119135,
+            "duration": 614.09,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/62/jwb_E_202004_13.vtt",
+                "modifiedDatetime": "2020-04-21T18:34:12.000Z",
+                "checksum": "1e5066d23d6ecf9f750a10026dc18317"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202004-13.v",
+        "jwb.202004-13"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/62/jwb_E_202004_13.vtt",
+    "Name": "pub-jwb_E_202004_13_VIDEO",
+    "Title": "Robert Luccioni: Think God's Thoughts, Not Those of Men (Matt. 16:23)",
+    "UndatedReferenceTitle": "Robert Luccioni: Think God's Thoughts, Not Those of Men (Matt. 16:23)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

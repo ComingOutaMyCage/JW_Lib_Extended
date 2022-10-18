@@ -1,0 +1,102 @@
+{
+    "guid": "5cc89a1e48fd57354cf2ec66",
+    "languageAgnosticNaturalKey": "pub-jwb_201905_4_VIDEO",
+    "naturalKey": "pub-jwb_E_201905_4_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpEndurance",
+    "description": "",
+    "firstPublished": "2019-05-20T20:50:04.275Z",
+    "duration": 401.238,
+    "durationFormattedHHMM": "6:41",
+    "durationFormattedMinSec": "6m 41s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/70/jwb_E_201905_04_r240P.mp4",
+            "checksum": "1a493693e7b4f582b6b37b91fed2c4b8",
+            "filesize": 9745346,
+            "modifiedDatetime": "2020-11-07T20:01:24.000Z",
+            "bitRate": 189.75150814479187,
+            "duration": 401.238,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.499,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/3d/jwb_E_201905_04.vtt",
+                "modifiedDatetime": "2019-05-20T13:48:05.000Z",
+                "checksum": "a56c5c02cd874f656982f465ae1edfc3"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/de/jwb_E_201905_04_r360P.mp4",
+            "checksum": "ee4d4da1a398958e7e2d91235e687e76",
+            "filesize": 19151912,
+            "modifiedDatetime": "2019-05-20T13:48:17.000Z",
+            "bitRate": 372.93173043610466,
+            "duration": 401.211,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/3d/jwb_E_201905_04.vtt",
+                "modifiedDatetime": "2019-05-20T13:48:05.000Z",
+                "checksum": "a56c5c02cd874f656982f465ae1edfc3"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/92/jwb_E_201905_04_r480P.mp4",
+            "checksum": "40bd3fda5679221b3640d6400156bbc6",
+            "filesize": 34735350,
+            "modifiedDatetime": "2019-05-20T13:48:23.000Z",
+            "bitRate": 676.3770730986937,
+            "duration": 401.211,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/3d/jwb_E_201905_04.vtt",
+                "modifiedDatetime": "2019-05-20T13:48:05.000Z",
+                "checksum": "a56c5c02cd874f656982f465ae1edfc3"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/7d/jwb_E_201905_04_r720P.mp4",
+            "checksum": "c5645a557f852b4d1dd917f77790206b",
+            "filesize": 58688932,
+            "modifiedDatetime": "2019-05-20T13:48:32.000Z",
+            "bitRate": 1142.8083508428233,
+            "duration": 401.211,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/3d/jwb_E_201905_04.vtt",
+                "modifiedDatetime": "2019-05-20T13:48:05.000Z",
+                "checksum": "a56c5c02cd874f656982f465ae1edfc3"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201905-4.v",
+        "jwb.201905-4"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/3d/jwb_E_201905_04.vtt",
+    "Name": "pub-jwb_E_201905_4_VIDEO",
+    "Title": "Robert and Jordan Williams: Dealing With Anxiety Day by Day",
+    "UndatedReferenceTitle": "Robert and Jordan Williams: Dealing With Anxiety Day by Day",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODIntExpEndurance"
+}

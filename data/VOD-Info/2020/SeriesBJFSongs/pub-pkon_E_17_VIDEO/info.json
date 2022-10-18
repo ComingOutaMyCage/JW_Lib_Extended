@@ -1,0 +1,102 @@
+{
+    "guid": "5dd1c3397ae47e7b533a6d6f",
+    "languageAgnosticNaturalKey": "pub-pkon_17_VIDEO",
+    "naturalKey": "pub-pkon_E_17_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBJFSongs",
+    "description": "",
+    "firstPublished": "2020-02-03T15:13:39.463Z",
+    "duration": 135.382,
+    "durationFormattedHHMM": "2:15",
+    "durationFormattedMinSec": "2m 15s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/24/pkon_E_017_r240P.mp4",
+            "checksum": "307c166e88ebb144bbc7b16d6978800f",
+            "filesize": 2673114,
+            "modifiedDatetime": "2020-10-29T14:38:56.000Z",
+            "bitRate": 154.25760533158027,
+            "duration": 135.382,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.952,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/b6/pkon_E_017.vtt",
+                "modifiedDatetime": "2020-10-29T14:38:51.000Z",
+                "checksum": "026c73453e5ed008853df080c3a98e1c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/15/pkon_E_017_r360P.mp4",
+            "checksum": "6aff197258fb85e49f2dc58bf90a8f93",
+            "filesize": 4890073,
+            "modifiedDatetime": "2020-10-29T14:38:59.000Z",
+            "bitRate": 282.2689815840999,
+            "duration": 135.345,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/b6/pkon_E_017.vtt",
+                "modifiedDatetime": "2020-10-29T14:38:51.000Z",
+                "checksum": "026c73453e5ed008853df080c3a98e1c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/fb/pkon_E_017_r480P.mp4",
+            "checksum": "97848d1f2a91464980bdbe81fd5e6b99",
+            "filesize": 8628253,
+            "modifiedDatetime": "2020-10-29T14:39:03.000Z",
+            "bitRate": 498.04740893642173,
+            "duration": 135.345,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/b6/pkon_E_017.vtt",
+                "modifiedDatetime": "2020-10-29T14:38:51.000Z",
+                "checksum": "026c73453e5ed008853df080c3a98e1c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/86/pkon_E_017_r720P.mp4",
+            "checksum": "1ed7475e507dcac248c4e762bed28229",
+            "filesize": 15100206,
+            "modifiedDatetime": "2020-10-29T14:39:09.000Z",
+            "bitRate": 871.6270226088884,
+            "duration": 135.345,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/b6/pkon_E_017.vtt",
+                "modifiedDatetime": "2020-10-29T14:38:51.000Z",
+                "checksum": "026c73453e5ed008853df080c3a98e1c"
+            }
+        }
+    ],
+    "printReferences": [
+        "pkon-17.v",
+        "pkon-17"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/b6/pkon_E_017.vtt",
+    "Name": "pub-pkon_E_17_VIDEO",
+    "Title": "Be Loyal",
+    "UndatedReferenceTitle": "Be Loyal",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "SeriesBJFSongs"
+}

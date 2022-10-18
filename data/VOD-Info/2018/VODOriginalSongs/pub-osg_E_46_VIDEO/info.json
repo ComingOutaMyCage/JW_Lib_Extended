@@ -1,0 +1,102 @@
+{
+    "guid": "5b5b5f32c1963ea3306e07a4",
+    "languageAgnosticNaturalKey": "pub-osg_46_VIDEO",
+    "naturalKey": "pub-osg_E_46_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODOriginalSongs",
+    "description": "",
+    "firstPublished": "2018-10-15T21:49:05.002Z",
+    "duration": 269.184,
+    "durationFormattedHHMM": "4:29",
+    "durationFormattedMinSec": "4m 29s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/6e/osg_E_046_r240P.mp4",
+            "checksum": "896bd466c493a131909be84c4787b26d",
+            "filesize": 6536196,
+            "modifiedDatetime": "2020-12-09T06:16:27.000Z",
+            "bitRate": 189.6993552737161,
+            "duration": 269.184,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.645,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/14/osg_E_046.vtt",
+                "modifiedDatetime": "2018-12-28T15:35:01.000Z",
+                "checksum": "c0f518ee343a8b9a9a518084d1ad6b52"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/47/osg_E_046_r360P.mp4",
+            "checksum": "d575133d8843942608292d0b4c02ff85",
+            "filesize": 12087546,
+            "modifiedDatetime": "2018-12-28T15:35:02.000Z",
+            "bitRate": 350.8664590648164,
+            "duration": 269.145,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/14/osg_E_046.vtt",
+                "modifiedDatetime": "2018-12-28T15:35:01.000Z",
+                "checksum": "c0f518ee343a8b9a9a518084d1ad6b52"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/da/osg_E_046_r480P.mp4",
+            "checksum": "8572f4b7269fc20d97fe173d74f2bf1f",
+            "filesize": 21429559,
+            "modifiedDatetime": "2018-12-28T15:36:40.000Z",
+            "bitRate": 622.0380452451282,
+            "duration": 269.145,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/14/osg_E_046.vtt",
+                "modifiedDatetime": "2018-12-28T15:35:01.000Z",
+                "checksum": "c0f518ee343a8b9a9a518084d1ad6b52"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/e1/osg_E_046_r720P.mp4",
+            "checksum": "a3be0a7a898a1a54db2e572e79cecc77",
+            "filesize": 33746190,
+            "modifiedDatetime": "2018-12-28T15:35:09.000Z",
+            "bitRate": 979.5541785097253,
+            "duration": 269.145,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/14/osg_E_046.vtt",
+                "modifiedDatetime": "2018-12-28T15:35:01.000Z",
+                "checksum": "c0f518ee343a8b9a9a518084d1ad6b52"
+            }
+        }
+    ],
+    "printReferences": [
+        "osg-46.v",
+        "osg-46"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/14/osg_E_046.vtt",
+    "Name": "pub-osg_E_46_VIDEO",
+    "Title": "The Search",
+    "UndatedReferenceTitle": "The Search",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "VODOriginalSongs"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "5cf7ccb648fd57354cf32999",
+    "languageAgnosticNaturalKey": "pub-jwb_201907_2_VIDEO",
+    "naturalKey": "pub-jwb_E_201907_2_VIDEO",
+    "type": "video",
+    "primaryCategory": "StudioTalks",
+    "description": "",
+    "firstPublished": "2019-07-15T18:51:13.750Z",
+    "duration": 779.328,
+    "durationFormattedHHMM": "12:59",
+    "durationFormattedMinSec": "12m 59s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/60/jwb_E_201907_02_r240P.mp4",
+            "checksum": "2b5a105227f06b58b803b119eebf1553",
+            "filesize": 15180524,
+            "modifiedDatetime": "2020-11-07T04:17:25.000Z",
+            "bitRate": 152.1796262292642,
+            "duration": 779.328,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.586,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/37/jwb_E_201907_02.vtt",
+                "modifiedDatetime": "2019-07-15T12:43:50.000Z",
+                "checksum": "57c1ed847769fabae242082e9bcc23f3"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/01/jwb_E_201907_02_r360P.mp4",
+            "checksum": "41fe3775341cce8184dacb2af4414210",
+            "filesize": 29318894,
+            "modifiedDatetime": "2019-07-15T12:43:58.000Z",
+            "bitRate": 293.9270967537034,
+            "duration": 779.288,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/37/jwb_E_201907_02.vtt",
+                "modifiedDatetime": "2019-07-15T12:43:50.000Z",
+                "checksum": "57c1ed847769fabae242082e9bcc23f3"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/0f/jwb_E_201907_02_r480P.mp4",
+            "checksum": "fac469865c69ac8f3e616d8177c95be4",
+            "filesize": 51990375,
+            "modifiedDatetime": "2019-07-15T12:44:03.000Z",
+            "bitRate": 521.2127027331359,
+            "duration": 779.288,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/37/jwb_E_201907_02.vtt",
+                "modifiedDatetime": "2019-07-15T12:43:50.000Z",
+                "checksum": "57c1ed847769fabae242082e9bcc23f3"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/77/jwb_E_201907_02_r720P.mp4",
+            "checksum": "3a1f3f0fc129828137ec808ec7ab92a6",
+            "filesize": 86041769,
+            "modifiedDatetime": "2019-07-15T12:44:11.000Z",
+            "bitRate": 862.5839488257229,
+            "duration": 779.288,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/37/jwb_E_201907_02.vtt",
+                "modifiedDatetime": "2019-07-15T12:43:50.000Z",
+                "checksum": "57c1ed847769fabae242082e9bcc23f3"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201907-2.v",
+        "jwb.201907-2"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/37/jwb_E_201907_02.vtt",
+    "Name": "pub-jwb_E_201907_2_VIDEO",
+    "Title": "Kenneth Cook, Jr.: Modesty—A Quality That Stems From \"What Is Good\"",
+    "UndatedReferenceTitle": "Kenneth Cook, Jr.: Modesty—A Quality That Stems From \"What Is Good\"",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "StudioTalks"
+}

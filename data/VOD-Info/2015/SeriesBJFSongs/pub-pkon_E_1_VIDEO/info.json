@@ -1,0 +1,102 @@
+{
+    "guid": "553647af7f0bc1fc27069f6c",
+    "languageAgnosticNaturalKey": "pub-pkon_1_VIDEO",
+    "naturalKey": "pub-pkon_E_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBJFSongs",
+    "description": "",
+    "firstPublished": "2015-04-06T18:30:08.000Z",
+    "duration": 68.822,
+    "durationFormattedHHMM": "1:08",
+    "durationFormattedMinSec": "1m 8s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/3a/pkon_E_001_r240P.mp4",
+            "checksum": "0476e1bbc0f15b0f4806ae15e2d32cc2",
+            "filesize": 2046587,
+            "modifiedDatetime": "2021-09-30T20:53:06.000Z",
+            "bitRate": 232.3233985862079,
+            "duration": 68.822,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/c6/pkon_E_001.vtt",
+                "modifiedDatetime": "2021-09-30T20:53:00.000Z",
+                "checksum": "df5eea06003306b6141859867be8c091"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/c9/pkon_E_001_r360P.mp4",
+            "checksum": "834bc6d31563aaa399de99e4e5f5db0d",
+            "filesize": 3192175,
+            "modifiedDatetime": "2021-09-30T20:53:02.000Z",
+            "bitRate": 362.52041904699604,
+            "duration": 68.793,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/c6/pkon_E_001.vtt",
+                "modifiedDatetime": "2021-09-30T20:53:00.000Z",
+                "checksum": "df5eea06003306b6141859867be8c091"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/22/pkon_E_001_r480P.mp4",
+            "checksum": "41705796f1aa3643b4c6077c84fa47e8",
+            "filesize": 5267019,
+            "modifiedDatetime": "2021-09-30T20:53:09.000Z",
+            "bitRate": 598.1507702455191,
+            "duration": 68.793,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/c6/pkon_E_001.vtt",
+                "modifiedDatetime": "2021-09-30T20:53:00.000Z",
+                "checksum": "df5eea06003306b6141859867be8c091"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/a1/pkon_E_001_r720P.mp4",
+            "checksum": "e84ab43e630341720a75703c038bae6c",
+            "filesize": 8621618,
+            "modifiedDatetime": "2021-09-30T20:53:18.000Z",
+            "bitRate": 979.1169250505137,
+            "duration": 68.793,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/c6/pkon_E_001.vtt",
+                "modifiedDatetime": "2021-09-30T20:53:00.000Z",
+                "checksum": "df5eea06003306b6141859867be8c091"
+            }
+        }
+    ],
+    "printReferences": [
+        "pkon-1.v",
+        "pkon-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/c6/pkon_E_001.vtt",
+    "Name": "pub-pkon_E_1_VIDEO",
+    "Title": "Love All Sorts of People",
+    "UndatedReferenceTitle": "Love All Sorts of People",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2015,
+    "Symbol": "SeriesBJFSongs"
+}

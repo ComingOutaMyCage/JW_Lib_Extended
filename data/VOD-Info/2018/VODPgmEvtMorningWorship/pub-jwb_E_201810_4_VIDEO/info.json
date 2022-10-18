@@ -1,0 +1,102 @@
+{
+    "guid": "5b75bd6bc1963ea3306e2c9c",
+    "languageAgnosticNaturalKey": "pub-jwb_201810_4_VIDEO",
+    "naturalKey": "pub-jwb_E_201810_4_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2018-10-15T21:48:27.841Z",
+    "duration": 528.363,
+    "durationFormattedHHMM": "8:48",
+    "durationFormattedMinSec": "8m 48s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/3d/jwb_E_201810_04_r240P.mp4",
+            "checksum": "b81d755d3f49f2e7ee393b318081dc77",
+            "filesize": 7951235,
+            "modifiedDatetime": "2020-11-06T23:26:33.000Z",
+            "bitRate": 117.56883702587047,
+            "duration": 528.363,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.91,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/a4/jwb_E_201810_04.vtt",
+                "modifiedDatetime": "2018-10-15T19:07:29.000Z",
+                "checksum": "ad11f774cf431ed380791df198d5f5dc"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/1e/jwb_E_201810_04_r360P.mp4",
+            "checksum": "ed13a917cceb3168d1b977349c29fe12",
+            "filesize": 15973718,
+            "modifiedDatetime": "2018-10-15T19:07:34.000Z",
+            "bitRate": 236.20233993201325,
+            "duration": 528.338,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/a4/jwb_E_201810_04.vtt",
+                "modifiedDatetime": "2018-10-15T19:07:29.000Z",
+                "checksum": "ad11f774cf431ed380791df198d5f5dc"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/a2/jwb_E_201810_04_r480P.mp4",
+            "checksum": "8a7fc769c95a2b77d0a56d3c8df09302",
+            "filesize": 28020376,
+            "modifiedDatetime": "2018-10-15T19:07:37.000Z",
+            "bitRate": 414.33549640571,
+            "duration": 528.338,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/a4/jwb_E_201810_04.vtt",
+                "modifiedDatetime": "2018-10-15T19:07:29.000Z",
+                "checksum": "ad11f774cf431ed380791df198d5f5dc"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/20/jwb_E_201810_04_r720P.mp4",
+            "checksum": "ab60efec8fc59c98f76cc5a249287605",
+            "filesize": 52425623,
+            "modifiedDatetime": "2018-10-15T19:07:41.000Z",
+            "bitRate": 775.2143129729454,
+            "duration": 528.338,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/a4/jwb_E_201810_04.vtt",
+                "modifiedDatetime": "2018-10-15T19:07:29.000Z",
+                "checksum": "ad11f774cf431ed380791df198d5f5dc"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201810-4.v",
+        "jwb.201810-4"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/a4/jwb_E_201810_04.vtt",
+    "Name": "pub-jwb_E_201810_4_VIDEO",
+    "Title": "Robert Ciranko: God’s People Glorify His Name (1 Pet. 2:10)",
+    "UndatedReferenceTitle": "Robert Ciranko: God’s People Glorify His Name (1 Pet. 2:10)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

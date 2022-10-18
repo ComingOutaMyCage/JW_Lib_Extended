@@ -1,0 +1,43 @@
+The Battle for Secrecy—You Are Involved!
+Have you ever solved an anagram? Have you ever purchased something online or used a computer to access your bank records? If so, then you have entered the world of codes, ciphers, encryption, and decryption.
+UNTIL recent times, secret codes usually involved governments, ambassadors, spies, and the military. But not anymore. With the advent of computers and the Internet, valuable data are often kept secret by a number of elements, including passwords, which are authenticated every time users access their records. Indeed, never before has secrecy played such a big role in everyday life.
+Hence, we may rightly ask: How safe is my confidential data? Can I do more to heighten security? Before considering these questions, reflect for a moment on the long battle between code makers and code breakers—a conflict that is almost as old as writing itself.
+Secret Scripts
+One form of secret writing with a long history is called steganography, or “covered writing.” The objective of steganography is to hide the very existence of the message. The ancient historian Herodotus recorded that a Greek exile saw that Persia was preparing to attack his homeland. Wanting to warn his people, he wrote messages on wooden tablets and coated them with wax to conceal the text, a trick also employed by the ancient Romans. According to Herodotus, the Greek’s simple ruse deprived Persian King Xerxes of the element of surprise, and his forces were defeated.
+Modern forms of steganography include using the microdot and watermarking paper and images for copyright protection. During World War II, the microdot employed was actually a photograph reduced to the size of a period. The intended receiver would simply enlarge the dot. Today, people who peddle illegal pornography employ a similar concept. Aided by computer software, they hide pictures in otherwise innocuous digital images, text, or sound files.
+Because the existence of the message itself is kept secret, steganography does not draw attention to either the carrier or the recipient. On the other hand, if the message is discovered, it can be read—unless it has also been encrypted.
+Hiding the Meaning
+Cryptology, or “hidden word,” is the science of keeping communications confidential by concealing, not the fact of the message, but its meaning. The process involves scrambling and unscrambling data according to a predetermined system of rules, thus only those parties who have the key are enabled to decrypt the message.
+The ancient Spartans encrypted messages by means of a simple mechanical device called a scytale. The code writer would wrap a strip of leather or parchment in a tight, spiral fashion around a staff and then write a message on the material along the staff. When unwrapped, the strip of leather appeared to contain just meaningless letters. But when the intended receiver wound the material around another staff of exactly the same diameter as the original, he could read the text. Adding a touch of steganography, the messenger would sometimes disguise the strip as a belt, wearing it with the letters on the inside.
+Julius Caesar is said to have disguised his battlefield messages by means of a simple substitution cipher—swapping each letter with one that is, for example, three places along in the alphabet. Thus, a would be written as d, b as e, and so on.
+The European Renaissance provided the means for more sophisticated advances in cryptography. One of several individuals to advance the field was Blaise de Vigenère, a French diplomat born in 1523. Vigenère proposed a cipher, invented earlier, that involved switching between multiple alphabets during encipherment. His technique, thought unbreakable, was dubbed “the indecipherable cipher” (le chiffre indéchiffrable). Nevertheless, progress in code making also saw advances in code breaking.a
+For example, when Islamic scholars analyzed the Koran, written in Arabic, they observed that certain letters occurred more frequently than others, a trait common to other languages as well. This insight led to the development of an important cryptographic tool called frequency analysis, which can reveal the hidden identity of certain letters and groups of letters in a ciphertext by counting the number of times individual letters appear.
+By the 15th century, cryptography was becoming a routine tool of European diplomats. But it did not always guarantee security. For instance, Frenchman François Viète managed to crack the codes of the Spanish royal court. What is more, he was so successful that a disheartened King Philip II claimed that Viète was in league with the Devil and argued that he be tried before a Catholic court!
+Technology Enters the Fray
+The 20th century, especially the two world wars, took cryptography to new levels of sophistication involving complex machines, such as the German Enigma, a machine much like a typewriter. When an operator entered plaintext, a succession of electrically wired rotors encrypted the message. The ciphertext was then sent via Morse code and decrypted by another Enigma. Nevertheless, errors and a lax approach by overworked operators gave code breakers vital clues that enabled them to decrypt messages.
+In today’s digital world, banking, money transfers, and payments—as well as medical, corporate, and government records—are secured by means of complex encryptions. The ciphertext, in turn, is read by those who have the necessary decryption key to restore the data to its original form.
+Whereas a metal key usually has a set of grooves, a digital key is a string of zeros and ones in various combinations. Longer keys have more combinations and are thus harder to crack. An eight-bit key, for example, has 256 possible combinations, or permutations, whereas a 56-bit key has more than 72 quadrillion permutations. The present standard for encrypted Web browsing is 128-bit keys, which have 4.7 sextillion times more permutations than 56-bit keys!b
+Still, security breaches do occur. In 2008, for instance, federal prosecutors in the United States charged 11 men with what is thought to be the largest-ever case of identity theft. The group allegedly used laptop computers, wireless technology, and special software to capture numbers from credit cards and debit cards used for payment at cash registers.
+Is Your Confidential Data Safe?
+To be sure, the encryptions protecting your bank accounts and online transactions are extremely hard to crack. Yet, much also depends on you. The Bible says: “Shrewd is the one that has seen the calamity and proceeds to conceal himself, but the inexperienced have passed along and must suffer the penalty.” (Proverbs 22:3) So be shrewd and “conceal” yourself, as it were, from fraud and theft by doing at least the following:
+▪ Use antivirus software on your computer.
+▪ Employ a spyware-detection program.
+▪ Install a firewall.
+▪ Keep all of the above continually updated, and install security updates for your applications and operating system.
+▪ Beware of links or attachments in e-mail or instant messages, especially if the mail is unsolicited and asks for personal information or for verification of a password.
+▪ When transmitting sensitive data, such as credit card details, use encrypted connections, and log off the Web site when you have finished.c
+▪ Choose passwords that are hard to guess, and protect them.
+▪ Do not copy or run software from unknown sources.
+▪ Regularly back up your files, and safely store the copies.
+If you follow those basic precautions and apply any others that may be advisable now and in the future, you at least improve your chances of winning your own battle for confidentiality and security.
+[Footnotes]
+In technical terms, a cipher differs from a code. Whereas a cipher replaces individual letters with other letters or numbers, a code involves substituting words or phrases for other words, phrases, or numbers. Nevertheless, the two may overlap.
+A quadrillion is 1 followed by 15 zeros. A sextillion is 1 followed by 21 zeros.
+Encrypted Web pages on Web browsers have secure-transaction symbols, such as a lock symbol or “https://” in the address bar. The s means secure.
+[Picture on page 26]
+Ancient Spartan scytale
+[Picture on page 26]
+A 20th-century German Enigma machine
+[Picture on page 26]
+Today complex encryptions protect personal information
+

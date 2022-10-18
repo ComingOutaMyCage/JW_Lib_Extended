@@ -1,0 +1,178 @@
+{
+    "guid": "57c9defc81a37aa6ed660027",
+    "languageAgnosticNaturalKey": "pub-jwbai_201610_1_VIDEO",
+    "naturalKey": "pub-jwbai_E_201610_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODBiblePrinciples",
+    "description": "",
+    "firstPublished": "2016-10-17T13:23:43.023Z",
+    "duration": 373.145,
+    "durationFormattedHHMM": "6:13",
+    "durationFormattedMinSec": "6m 13s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/f5/jwbai_E_201610_01_r240P.mp4",
+            "checksum": "2f47535b330590434b16123f413338c6",
+            "filesize": 11769968,
+            "modifiedDatetime": "2020-12-01T20:31:27.000Z",
+            "bitRate": 249.14954466262222,
+            "duration": 369.067,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.644,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ec/jwbai_E_201610_01.vtt",
+                "modifiedDatetime": "2020-12-01T20:31:10.000Z",
+                "checksum": "e8219afe70a27c159d6f357304828415"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/89/jwbai_s-Sub_E_201610_01_r240P.mp4",
+            "checksum": "6811611601844c1b04cd172758752abc",
+            "filesize": 16566685,
+            "modifiedDatetime": "2020-11-12T00:41:34.000Z",
+            "bitRate": 346.855047133152,
+            "duration": 373.145,
+            "frameHeight": 180,
+            "frameWidth": 320,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": true,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ec/jwbai_E_201610_01.vtt",
+                "modifiedDatetime": "2020-12-01T20:31:10.000Z",
+                "checksum": "e8219afe70a27c159d6f357304828415"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/96/jwbai_E_201610_01_r360P.mp4",
+            "checksum": "b18ea8a7a9c6824bde02bfbe1cb12f7d",
+            "filesize": 20302752,
+            "modifiedDatetime": "2020-12-01T20:31:32.000Z",
+            "bitRate": 429.79921147827497,
+            "duration": 369.045,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ec/jwbai_E_201610_01.vtt",
+                "modifiedDatetime": "2020-12-01T20:31:10.000Z",
+                "checksum": "e8219afe70a27c159d6f357304828415"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/f5/jwbai_s-Sub_E_201610_01_r360P.mp4",
+            "checksum": "9f9fb98083394b9ec8e0ed35a6de5adb",
+            "filesize": 39036261,
+            "modifiedDatetime": "2019-02-10T19:27:29.000Z",
+            "bitRate": 817.3836244130579,
+            "duration": 373.10606666666666,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 44.056,
+            "mimetype": "video/mp4",
+            "subtitled": true,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ec/jwbai_E_201610_01.vtt",
+                "modifiedDatetime": "2020-12-01T20:31:10.000Z",
+                "checksum": "e8219afe70a27c159d6f357304828415"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/22/jwbai_E_201610_01_r480P.mp4",
+            "checksum": "a688d8d4ea2fdc0034b44b49dbd7eb4e",
+            "filesize": 37252428,
+            "modifiedDatetime": "2020-12-01T20:31:38.000Z",
+            "bitRate": 788.6154635613543,
+            "duration": 369.045,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ec/jwbai_E_201610_01.vtt",
+                "modifiedDatetime": "2020-12-01T20:31:10.000Z",
+                "checksum": "e8219afe70a27c159d6f357304828415"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/0c/jwbai_s-Sub_E_201610_01_r480P.mp4",
+            "checksum": "4a75ea93f4d568ade3efbaddb4de4d9f",
+            "filesize": 53214686,
+            "modifiedDatetime": "2019-02-10T21:34:04.000Z",
+            "bitRate": 1114.2668841844973,
+            "duration": 373.10606666666666,
+            "frameHeight": 480,
+            "frameWidth": 854,
+            "label": "480p",
+            "frameRate": 44.056,
+            "mimetype": "video/mp4",
+            "subtitled": true,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ec/jwbai_E_201610_01.vtt",
+                "modifiedDatetime": "2020-12-01T20:31:10.000Z",
+                "checksum": "e8219afe70a27c159d6f357304828415"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/5f/jwbai_E_201610_01_r720P.mp4",
+            "checksum": "aff36af16b0c06a43bdbec68c7922931",
+            "filesize": 60486390,
+            "modifiedDatetime": "2020-12-01T20:31:45.000Z",
+            "bitRate": 1280.4669400073162,
+            "duration": 369.045,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ec/jwbai_E_201610_01.vtt",
+                "modifiedDatetime": "2020-12-01T20:31:10.000Z",
+                "checksum": "e8219afe70a27c159d6f357304828415"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/a3/jwbai_s-Sub_E_201610_01_r720P.mp4",
+            "checksum": "0ba183e1fc2d804b8393be23829b9135",
+            "filesize": 76977616,
+            "modifiedDatetime": "2019-02-11T00:12:07.000Z",
+            "bitRate": 1611.840917980249,
+            "duration": 373.10606666666666,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 44.056,
+            "mimetype": "video/mp4",
+            "subtitled": true,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ec/jwbai_E_201610_01.vtt",
+                "modifiedDatetime": "2020-12-01T20:31:10.000Z",
+                "checksum": "e8219afe70a27c159d6f357304828415"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwbai.201610-1.v",
+        "jwbai.201610-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/ec/jwbai_E_201610_01.vtt",
+    "Name": "pub-jwbai_E_201610_1_VIDEO",
+    "Title": "Preparing for Marriage—Part 3: “Calculate the Expense”",
+    "UndatedReferenceTitle": "Preparing for Marriage—Part 3: “Calculate the Expense”",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2016,
+    "Symbol": "VODBiblePrinciples"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "5fced240c0bf482e1bb1ed7d",
+    "languageAgnosticNaturalKey": "pub-pk_41_VIDEO",
+    "naturalKey": "pub-pk_E_41_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBJFLessons",
+    "description": "",
+    "firstPublished": "2021-02-01T11:08:48.517Z",
+    "duration": 115.03,
+    "durationFormattedHHMM": "1:55",
+    "durationFormattedMinSec": "1m 55s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/ff/pk_E_041_r240P.mp4",
+            "checksum": "b130a12a6471f975d271333a04c51628",
+            "filesize": 3570904,
+            "modifiedDatetime": "2021-02-01T06:43:15.000Z",
+            "bitRate": 242.5253194818743,
+            "duration": 115.03,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.631,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/00/pk_E_041.vtt",
+                "modifiedDatetime": "2021-02-01T06:43:01.000Z",
+                "checksum": "82c1152a2b572b68a5131ccc06c4e830"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/76/pk_E_041_r360P.mp4",
+            "checksum": "3c837c9fa16f12eb29da0a483d93232d",
+            "filesize": 5656022,
+            "modifiedDatetime": "2021-02-01T06:43:11.000Z",
+            "bitRate": 384.23728380622777,
+            "duration": 115.001,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/00/pk_E_041.vtt",
+                "modifiedDatetime": "2021-02-01T06:43:01.000Z",
+                "checksum": "82c1152a2b572b68a5131ccc06c4e830"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/45/pk_E_041_r480P.mp4",
+            "checksum": "29affb69616c2018294153955d7a374d",
+            "filesize": 9685359,
+            "modifiedDatetime": "2021-02-01T06:43:10.000Z",
+            "bitRate": 657.9670366996809,
+            "duration": 115.001,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/00/pk_E_041.vtt",
+                "modifiedDatetime": "2021-02-01T06:43:01.000Z",
+                "checksum": "82c1152a2b572b68a5131ccc06c4e830"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/6d/pk_E_041_r720P.mp4",
+            "checksum": "a56b4b792a29ce0fe1c33bd6846e3e25",
+            "filesize": 15230533,
+            "modifiedDatetime": "2021-02-01T06:43:04.000Z",
+            "bitRate": 1034.673951204772,
+            "duration": 115.001,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/00/pk_E_041.vtt",
+                "modifiedDatetime": "2021-02-01T06:43:01.000Z",
+                "checksum": "82c1152a2b572b68a5131ccc06c4e830"
+            }
+        }
+    ],
+    "printReferences": [
+        "pk-41.v",
+        "pk-41"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/00/pk_E_041.vtt",
+    "Name": "pub-pk_E_41_VIDEO",
+    "Title": "Should We Celebrate Birthdays?",
+    "UndatedReferenceTitle": "Should We Celebrate Birthdays?",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "SeriesBJFLessons"
+}

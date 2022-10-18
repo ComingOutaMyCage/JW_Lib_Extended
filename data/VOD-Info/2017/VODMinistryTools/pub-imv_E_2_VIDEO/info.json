@@ -1,0 +1,102 @@
+{
+    "guid": "585403330023ee44860f9983",
+    "languageAgnosticNaturalKey": "pub-imv_2_VIDEO",
+    "naturalKey": "pub-imv_E_2_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODMinistryTools",
+    "description": "",
+    "firstPublished": "2017-01-20T14:10:10.519Z",
+    "duration": 70.775,
+    "durationFormattedHHMM": "1:10",
+    "durationFormattedMinSec": "1m 10s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/af/imv_E_02_r240P.mp4",
+            "checksum": "937223546a0629db06437f17ba2cd92d",
+            "filesize": 3609653,
+            "modifiedDatetime": "2020-12-11T18:26:12.000Z",
+            "bitRate": 398.4516292829389,
+            "duration": 70.775,
+            "frameHeight": 180,
+            "frameWidth": 320,
+            "label": "240p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/86/imv_E_02_r240P.vtt",
+                "modifiedDatetime": "2019-03-02T21:25:42.000Z",
+                "checksum": "93447ef3fe7bba09651ed77f31cad94b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/54/imv_E_02_r360P.mp4",
+            "checksum": "4effc7de81496a1eb7d89a6fb404eeab",
+            "filesize": 7778352,
+            "modifiedDatetime": "2019-03-02T21:25:45.000Z",
+            "bitRate": 859.0788605626502,
+            "duration": 70.73666666666666,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/32/imv_E_02_r360P.vtt",
+                "modifiedDatetime": "2019-03-02T21:25:45.000Z",
+                "checksum": "93447ef3fe7bba09651ed77f31cad94b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/66/imv_E_02_r480P.mp4",
+            "checksum": "85f4b63fe2df836b103cd5dd9597b130",
+            "filesize": 10452211,
+            "modifiedDatetime": "2019-03-02T21:25:50.000Z",
+            "bitRate": 1154.392796345601,
+            "duration": 70.73666666666666,
+            "frameHeight": 480,
+            "frameWidth": 854,
+            "label": "480p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/44/imv_E_02_r480P.vtt",
+                "modifiedDatetime": "2019-03-02T21:25:50.000Z",
+                "checksum": "93447ef3fe7bba09651ed77f31cad94b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/de/imv_E_02_r720P.mp4",
+            "checksum": "d750ea2ddc2b34edce5126f4f7495123",
+            "filesize": 14822269,
+            "modifiedDatetime": "2019-03-02T21:25:54.000Z",
+            "bitRate": 1637.0431633169974,
+            "duration": 70.73666666666666,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/cb/imv_E_02_r720P.vtt",
+                "modifiedDatetime": "2019-03-02T21:25:54.000Z",
+                "checksum": "93447ef3fe7bba09651ed77f31cad94b"
+            }
+        }
+    ],
+    "printReferences": [
+        "imv-2.v",
+        "imv-2"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/86/imv_E_02_r240P.vtt",
+    "Name": "pub-imv_E_2_VIDEO",
+    "Title": "Your Family Can Be Happy Introduction",
+    "UndatedReferenceTitle": "Your Family Can Be Happy Introduction",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2017,
+    "Symbol": "VODMinistryTools"
+}

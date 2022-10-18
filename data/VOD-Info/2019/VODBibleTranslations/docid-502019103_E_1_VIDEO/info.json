@@ -1,0 +1,102 @@
+{
+    "guid": "5c81852f64430a5b2d4d9f45",
+    "languageAgnosticNaturalKey": "docid-502019103_1_VIDEO",
+    "naturalKey": "docid-502019103_E_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODBibleTranslations",
+    "description": "",
+    "firstPublished": "2019-04-29T20:39:18.585Z",
+    "duration": 305.963,
+    "durationFormattedHHMM": "5:05",
+    "durationFormattedMinSec": "5m 5s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/28/502019103_E_cnt_1_r240P.mp4",
+            "checksum": "d7279d3b7c2754f5c75bb94a4b10ffc8",
+            "filesize": 9236492,
+            "modifiedDatetime": "2020-11-01T02:17:26.000Z",
+            "bitRate": 235.8458171412883,
+            "duration": 305.963,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.904,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/25/502019103_E_cnt_1.vtt",
+                "modifiedDatetime": "2019-04-29T20:18:15.000Z",
+                "checksum": "24e2002cd667e00a7c07c8967684fa74"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/7e/502019103_E_cnt_1_r360P.mp4",
+            "checksum": "3043d65a24f2eecec7c8a7e9619b5a3b",
+            "filesize": 17003219,
+            "modifiedDatetime": "2019-04-29T20:18:22.000Z",
+            "bitRate": 434.20645253683824,
+            "duration": 305.932,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/25/502019103_E_cnt_1.vtt",
+                "modifiedDatetime": "2019-04-29T20:18:15.000Z",
+                "checksum": "24e2002cd667e00a7c07c8967684fa74"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/f6/502019103_E_cnt_1_r480P.mp4",
+            "checksum": "07d76f1224d5b2524a105795a6c56fc1",
+            "filesize": 31268500,
+            "modifiedDatetime": "2019-04-29T20:18:27.000Z",
+            "bitRate": 798.4949474066132,
+            "duration": 305.932,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/25/502019103_E_cnt_1.vtt",
+                "modifiedDatetime": "2019-04-29T20:18:15.000Z",
+                "checksum": "24e2002cd667e00a7c07c8967684fa74"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/19/502019103_E_cnt_1_r720P.mp4",
+            "checksum": "5657c1de92e8eb60a91b25dd1cf74e07",
+            "filesize": 51461222,
+            "modifiedDatetime": "2019-04-29T20:18:35.000Z",
+            "bitRate": 1314.150846838513,
+            "duration": 305.932,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/25/502019103_E_cnt_1.vtt",
+                "modifiedDatetime": "2019-04-29T20:18:15.000Z",
+                "checksum": "24e2002cd667e00a7c07c8967684fa74"
+            }
+        }
+    ],
+    "printReferences": [
+        "502019103-1.v",
+        "502019103-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/content_assets/25/502019103_E_cnt_1.vtt",
+    "Name": "docid-502019103_E_1_VIDEO",
+    "Title": "God’s Word Makes Their Faces Shine",
+    "UndatedReferenceTitle": "God’s Word Makes Their Faces Shine",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODBibleTranslations"
+}

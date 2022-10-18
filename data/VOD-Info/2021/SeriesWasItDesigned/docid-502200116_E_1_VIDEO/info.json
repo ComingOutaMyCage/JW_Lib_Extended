@@ -1,0 +1,102 @@
+{
+    "guid": "614c8f16a074a87de6278105",
+    "languageAgnosticNaturalKey": "docid-502200116_1_VIDEO",
+    "naturalKey": "docid-502200116_E_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesWasItDesigned",
+    "description": "",
+    "firstPublished": "2021-12-30T15:45:03.222Z",
+    "duration": 221.291,
+    "durationFormattedHHMM": "3:41",
+    "durationFormattedMinSec": "3m 41s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/ad/502200116_E_cnt_1_r240P.mp4",
+            "checksum": "1c696721a5060dbb517e51367b8f87b1",
+            "filesize": 7554050,
+            "modifiedDatetime": "2022-05-09T14:11:20.000Z",
+            "bitRate": 266.68963322051053,
+            "duration": 221.291,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/cd/502200116_E_cnt_1.vtt",
+                "modifiedDatetime": "2022-05-09T14:11:02.000Z",
+                "checksum": "07c3c268cb9e94cc7392270f8ee17217"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/4a/502200116_E_cnt_1_r360P.mp4",
+            "checksum": "ed34da8bbf73740ab97d9ff2f37fb1f0",
+            "filesize": 14231183,
+            "modifiedDatetime": "2022-05-09T14:11:31.000Z",
+            "bitRate": 502.4681031658155,
+            "duration": 221.27,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/cd/502200116_E_cnt_1.vtt",
+                "modifiedDatetime": "2022-05-09T14:11:02.000Z",
+                "checksum": "07c3c268cb9e94cc7392270f8ee17217"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/b1/502200116_E_cnt_1_r480P.mp4",
+            "checksum": "394a7cfa404710a4bbe50adb654dd82d",
+            "filesize": 27426471,
+            "modifiedDatetime": "2022-05-09T14:11:42.000Z",
+            "bitRate": 968.3612992610837,
+            "duration": 221.27,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/cd/502200116_E_cnt_1.vtt",
+                "modifiedDatetime": "2022-05-09T14:11:02.000Z",
+                "checksum": "07c3c268cb9e94cc7392270f8ee17217"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/4d/502200116_E_cnt_1_r720P.mp4",
+            "checksum": "e0de7c57f8ff5a41d1c6ef796859ac28",
+            "filesize": 47552825,
+            "modifiedDatetime": "2022-05-09T14:11:53.000Z",
+            "bitRate": 1678.9734049464455,
+            "duration": 221.27,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/cd/502200116_E_cnt_1.vtt",
+                "modifiedDatetime": "2022-05-09T14:11:02.000Z",
+                "checksum": "07c3c268cb9e94cc7392270f8ee17217"
+            }
+        }
+    ],
+    "printReferences": [
+        "502200116-1.v",
+        "502200116-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/content_assets/cd/502200116_E_cnt_1.vtt",
+    "Name": "docid-502200116_E_1_VIDEO",
+    "Title": "Was It Designed? The Monarch Butterfly’s Migration",
+    "UndatedReferenceTitle": "Was It Designed? The Monarch Butterfly’s Migration",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "SeriesWasItDesigned"
+}

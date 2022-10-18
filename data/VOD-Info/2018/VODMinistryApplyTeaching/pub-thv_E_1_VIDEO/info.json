@@ -1,0 +1,102 @@
+{
+    "guid": "5c005d06f49066e3df8b1e6e",
+    "languageAgnosticNaturalKey": "pub-thv_1_VIDEO",
+    "naturalKey": "pub-thv_E_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODMinistryApplyTeaching",
+    "description": "",
+    "firstPublished": "2018-12-17T19:52:20.945Z",
+    "duration": 258.24,
+    "durationFormattedHHMM": "4:18",
+    "durationFormattedMinSec": "4m 18s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/4d/thv_E_01_r240P.mp4",
+            "checksum": "80a9f22fd93b4b853557a1f9b79366b6",
+            "filesize": 4978557,
+            "modifiedDatetime": "2020-12-06T11:07:40.000Z",
+            "bitRate": 150.61561556110595,
+            "duration": 258.24,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.483,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/19/thv_E_01.vtt",
+                "modifiedDatetime": "2018-12-17T15:37:20.000Z",
+                "checksum": "4216db816ef06e835b05fa2221b9a3a5"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/e3/thv_E_01_r360P.mp4",
+            "checksum": "2df7dcb9fd2035904bdf2ba55c9f8e2e",
+            "filesize": 9343959,
+            "modifiedDatetime": "2018-12-17T15:37:10.000Z",
+            "bitRate": 282.70561962179244,
+            "duration": 258.218,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/19/thv_E_01.vtt",
+                "modifiedDatetime": "2018-12-17T15:37:20.000Z",
+                "checksum": "4216db816ef06e835b05fa2221b9a3a5"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/24/thv_E_01_r480P.mp4",
+            "checksum": "6263ad7668739f9d51a87ae3ba0931b3",
+            "filesize": 17842596,
+            "modifiedDatetime": "2018-12-17T15:37:13.000Z",
+            "bitRate": 539.8356475923445,
+            "duration": 258.218,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/19/thv_E_01.vtt",
+                "modifiedDatetime": "2018-12-17T15:37:20.000Z",
+                "checksum": "4216db816ef06e835b05fa2221b9a3a5"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/74/thv_E_01_r720P.mp4",
+            "checksum": "cdd1c709facd2f21cb84d820993147d2",
+            "filesize": 30826733,
+            "modifiedDatetime": "2018-12-17T15:37:16.000Z",
+            "bitRate": 932.6764654768451,
+            "duration": 258.218,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/19/thv_E_01.vtt",
+                "modifiedDatetime": "2018-12-17T15:37:20.000Z",
+                "checksum": "4216db816ef06e835b05fa2221b9a3a5"
+            }
+        }
+    ],
+    "printReferences": [
+        "thv-1.v",
+        "thv-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/19/thv_E_01.vtt",
+    "Name": "pub-thv_E_1_VIDEO",
+    "Title": "Study 1—Effective Introduction",
+    "UndatedReferenceTitle": "Study 1—Effective Introduction",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "VODMinistryApplyTeaching"
+}

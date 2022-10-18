@@ -1,0 +1,102 @@
+{
+    "guid": "5c89204c64430a5b2d4dab75",
+    "languageAgnosticNaturalKey": "pub-jwb_201904_2_VIDEO",
+    "naturalKey": "pub-jwb_E_201904_2_VIDEO",
+    "type": "video",
+    "primaryCategory": "StudioTalks",
+    "description": "",
+    "firstPublished": "2019-04-15T21:28:25.342Z",
+    "duration": 922.603,
+    "durationFormattedHHMM": "15:22",
+    "durationFormattedMinSec": "15m 22s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/75/jwb_E_201904_02_r240P.mp4",
+            "checksum": "9eec25a2776841b699e0622d88013d6d",
+            "filesize": 16235294,
+            "modifiedDatetime": "2020-11-07T20:01:18.000Z",
+            "bitRate": 137.47867108062732,
+            "duration": 922.603,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.528,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/41/jwb_E_201904_02.vtt",
+                "modifiedDatetime": "2019-04-15T18:50:59.000Z",
+                "checksum": "e23103263c7de79df63ffb3505eac29d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/f0/jwb_E_201904_02_r360P.mp4",
+            "checksum": "0a6e54fe29a369baa6b9e5c478fe783a",
+            "filesize": 33497448,
+            "modifiedDatetime": "2019-04-15T18:38:20.000Z",
+            "bitRate": 283.66436240264915,
+            "duration": 922.565,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/41/jwb_E_201904_02.vtt",
+                "modifiedDatetime": "2019-04-15T18:50:59.000Z",
+                "checksum": "e23103263c7de79df63ffb3505eac29d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/43/jwb_E_201904_02_r480P.mp4",
+            "checksum": "536cacbcb21294e22e644f65fcf7a1f4",
+            "filesize": 60330178,
+            "modifiedDatetime": "2019-04-15T18:55:02.000Z",
+            "bitRate": 510.8903065095684,
+            "duration": 922.565,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/41/jwb_E_201904_02.vtt",
+                "modifiedDatetime": "2019-04-15T18:50:59.000Z",
+                "checksum": "e23103263c7de79df63ffb3505eac29d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/d4/jwb_E_201904_02_r720P.mp4",
+            "checksum": "23f2625eb95c91c70056e09f6afe8e7d",
+            "filesize": 103753050,
+            "modifiedDatetime": "2019-04-15T19:05:39.000Z",
+            "bitRate": 878.6055216976581,
+            "duration": 922.565,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/41/jwb_E_201904_02.vtt",
+                "modifiedDatetime": "2019-04-15T18:50:59.000Z",
+                "checksum": "e23103263c7de79df63ffb3505eac29d"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201904-2.v",
+        "jwb.201904-2"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/41/jwb_E_201904_02.vtt",
+    "Name": "pub-jwb_E_201904_2_VIDEO",
+    "Title": "Samuel F. Herd: Presenting Your Gifts to God",
+    "UndatedReferenceTitle": "Samuel F. Herd: Presenting Your Gifts to God",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "StudioTalks"
+}

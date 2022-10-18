@@ -1,0 +1,102 @@
+{
+    "guid": "5b96d0da887c963ad88eedc6",
+    "languageAgnosticNaturalKey": "pub-jwb_201810_3_VIDEO",
+    "naturalKey": "pub-jwb_E_201810_3_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODBibleTranslations",
+    "description": "",
+    "firstPublished": "2018-10-15T21:48:18.795Z",
+    "duration": 263.702,
+    "durationFormattedHHMM": "4:23",
+    "durationFormattedMinSec": "4m 23s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/09/jwb_E_201810_03_r240P.mp4",
+            "checksum": "d2ed727f00847c4342a8e35f7efb84c0",
+            "filesize": 5014133,
+            "modifiedDatetime": "2020-11-03T22:15:29.000Z",
+            "bitRate": 148.54993159892607,
+            "duration": 263.702,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.615,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/7a/jwb_E_201810_03.vtt",
+                "modifiedDatetime": "2018-10-15T19:06:55.000Z",
+                "checksum": "6de0690c0c7f016aa21c9adac5153d48"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/40/jwb_E_201810_03_r360P.mp4",
+            "checksum": "6687b5329d355c4f79fd30c04423574a",
+            "filesize": 10038224,
+            "modifiedDatetime": "2018-10-15T19:06:59.000Z",
+            "bitRate": 297.42759023487423,
+            "duration": 263.673,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/7a/jwb_E_201810_03.vtt",
+                "modifiedDatetime": "2018-10-15T19:06:55.000Z",
+                "checksum": "6de0690c0c7f016aa21c9adac5153d48"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/c5/jwb_E_201810_03_r480P.mp4",
+            "checksum": "04fa61d49c85fe5a8daac734aff6655a",
+            "filesize": 18068170,
+            "modifiedDatetime": "2018-10-15T19:07:02.000Z",
+            "bitRate": 535.3509010213409,
+            "duration": 263.673,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/7a/jwb_E_201810_03.vtt",
+                "modifiedDatetime": "2018-10-15T19:06:55.000Z",
+                "checksum": "6de0690c0c7f016aa21c9adac5153d48"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/f4/jwb_E_201810_03_r720P.mp4",
+            "checksum": "39d848f2afed788ca280b2fac2230b23",
+            "filesize": 30294744,
+            "modifiedDatetime": "2018-10-15T19:07:05.000Z",
+            "bitRate": 897.6182146067288,
+            "duration": 263.673,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/7a/jwb_E_201810_03.vtt",
+                "modifiedDatetime": "2018-10-15T19:06:55.000Z",
+                "checksum": "6de0690c0c7f016aa21c9adac5153d48"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201810-3.v",
+        "jwb.201810-3"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/7a/jwb_E_201810_03.vtt",
+    "Name": "pub-jwb_E_201810_3_VIDEO",
+    "Title": "What Are J-References?",
+    "UndatedReferenceTitle": "What Are J-References?",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "VODBibleTranslations"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "610a7bdb23708c1b983c541a",
+    "languageAgnosticNaturalKey": "pub-jwb-083_11_VIDEO",
+    "naturalKey": "pub-jwb-083_E_11_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2021-10-18T14:50:59.257Z",
+    "duration": 630.208,
+    "durationFormattedHHMM": "10:30",
+    "durationFormattedMinSec": "10m 30s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/e3/jwb-083_E_11_r240P.mp4",
+            "checksum": "8ce0c4de0290fbca24ecd4db6a12170e",
+            "filesize": 8852544,
+            "modifiedDatetime": "2021-10-18T06:05:32.000Z",
+            "bitRate": 109.74233903727024,
+            "duration": 630.208,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.499,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/58/jwb-083_E_11.vtt",
+                "modifiedDatetime": "2021-10-18T06:05:18.000Z",
+                "checksum": "cef0568ab21c3946535e33dfb86ac79e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/d8/jwb-083_E_11_r360P.mp4",
+            "checksum": "7db45851141b3a4ae2b09d2ea36509c7",
+            "filesize": 18364526,
+            "modifiedDatetime": "2021-10-18T06:05:29.000Z",
+            "bitRate": 227.67217791780988,
+            "duration": 630.173,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/58/jwb-083_E_11.vtt",
+                "modifiedDatetime": "2021-10-18T06:05:18.000Z",
+                "checksum": "cef0568ab21c3946535e33dfb86ac79e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/b5/jwb-083_E_11_r480P.mp4",
+            "checksum": "ccb08945baf0a1b0ad2c73f6da173b36",
+            "filesize": 32113775,
+            "modifiedDatetime": "2021-10-18T06:05:24.000Z",
+            "bitRate": 398.1269701931057,
+            "duration": 630.173,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/58/jwb-083_E_11.vtt",
+                "modifiedDatetime": "2021-10-18T06:05:18.000Z",
+                "checksum": "cef0568ab21c3946535e33dfb86ac79e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/9a/jwb-083_E_11_r720P.mp4",
+            "checksum": "3f79ab59e86088e925c3dc5e537e39c6",
+            "filesize": 55021049,
+            "modifiedDatetime": "2021-10-18T06:05:21.000Z",
+            "bitRate": 682.1173635057357,
+            "duration": 630.173,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/58/jwb-083_E_11.vtt",
+                "modifiedDatetime": "2021-10-18T06:05:18.000Z",
+                "checksum": "cef0568ab21c3946535e33dfb86ac79e"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-083-11.v",
+        "jwb-083-11"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/58/jwb-083_E_11.vtt",
+    "Name": "pub-jwb-083_E_11_VIDEO",
+    "Title": "Mark Sanderson: “I Give You My Peace” (John 14:27)",
+    "UndatedReferenceTitle": "Mark Sanderson: “I Give You My Peace” (John 14:27)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

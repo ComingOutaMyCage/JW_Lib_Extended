@@ -1,0 +1,102 @@
+{
+    "guid": "5ca79be3db0b288e409df99c",
+    "languageAgnosticNaturalKey": "pub-jwbcov_201805_20_VIDEO",
+    "naturalKey": "pub-jwbcov_E_201805_20_VIDEO",
+    "type": "video",
+    "primaryCategory": "2018Convention",
+    "description": "",
+    "firstPublished": "2019-04-15T21:14:50.422Z",
+    "duration": 355.968,
+    "durationFormattedHHMM": "5:55",
+    "durationFormattedMinSec": "5m 55s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/67/jwbcov_E_201805_20_r240P.mp4",
+            "checksum": "4ac82634ac742d3fcc5c3ac5c0e9e366",
+            "filesize": 15008591,
+            "modifiedDatetime": "2020-11-07T12:29:47.000Z",
+            "bitRate": 329.39651088721456,
+            "duration": 355.968,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.904,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ef/jwbcov_E_201805_20.vtt",
+                "modifiedDatetime": "2019-04-15T18:35:32.000Z",
+                "checksum": "16c87200e3290191c3150c000ce565cb"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/eb/jwbcov_E_201805_20_r360P.mp4",
+            "checksum": "65e42be4112e21c1c26e11fa581b31a4",
+            "filesize": 27236962,
+            "modifiedDatetime": "2019-04-15T18:30:44.000Z",
+            "bitRate": 597.8220082738663,
+            "duration": 355.94,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ef/jwbcov_E_201805_20.vtt",
+                "modifiedDatetime": "2019-04-15T18:35:32.000Z",
+                "checksum": "16c87200e3290191c3150c000ce565cb"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/68/jwbcov_E_201805_20_r480P.mp4",
+            "checksum": "1148b473a2fcf3107d3e3738720cbe2b",
+            "filesize": 51157304,
+            "modifiedDatetime": "2019-04-15T18:44:18.000Z",
+            "bitRate": 1122.847776310614,
+            "duration": 355.94,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ef/jwbcov_E_201805_20.vtt",
+                "modifiedDatetime": "2019-04-15T18:35:32.000Z",
+                "checksum": "16c87200e3290191c3150c000ce565cb"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/c6/jwbcov_E_201805_20_r720P.mp4",
+            "checksum": "d8d90a3a708784abdd131afc4552f2f0",
+            "filesize": 85981096,
+            "modifiedDatetime": "2019-04-15T18:43:28.000Z",
+            "bitRate": 1887.1925394729449,
+            "duration": 355.94,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ef/jwbcov_E_201805_20.vtt",
+                "modifiedDatetime": "2019-04-15T18:35:32.000Z",
+                "checksum": "16c87200e3290191c3150c000ce565cb"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwbcov.201805-20.v",
+        "jwbcov.201805-20"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/ef/jwbcov_E_201805_20.vtt",
+    "Name": "pub-jwbcov_E_201805_20_VIDEO",
+    "Title": "How Our Brothers Are Showing Courage In . . . Africa",
+    "UndatedReferenceTitle": "How Our Brothers Are Showing Courage In . . . Africa",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "2018Convention"
+}

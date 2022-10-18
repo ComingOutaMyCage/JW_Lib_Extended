@@ -1,0 +1,102 @@
+{
+    "guid": "5ee91883af341cff13f50e37",
+    "languageAgnosticNaturalKey": "pub-jwb_202009_4_VIDEO",
+    "naturalKey": "pub-jwb_E_202009_4_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpEndurance",
+    "description": "",
+    "firstPublished": "2020-09-21T18:24:34.409Z",
+    "duration": 376.918,
+    "durationFormattedHHMM": "6:16",
+    "durationFormattedMinSec": "6m 16s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/93/jwb_E_202009_04_r240P.mp4",
+            "checksum": "29b660b4f99f6d15b38ac9fe93edc987",
+            "filesize": 8348720,
+            "modifiedDatetime": "2020-10-18T03:06:17.000Z",
+            "bitRate": 173.04659103571598,
+            "duration": 376.918,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/dd/jwb_E_202009_04.vtt",
+                "modifiedDatetime": "2020-09-21T14:07:47.000Z",
+                "checksum": "d41aa02d0dcddbf44b443c8c8d9aa98b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/da/jwb_E_202009_04_r360P.mp4",
+            "checksum": "c7b8ed98f26d0b1ccd01b3628b516e31",
+            "filesize": 16278941,
+            "modifiedDatetime": "2020-09-21T14:07:39.000Z",
+            "bitRate": 337.44746836576576,
+            "duration": 376.886,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/dd/jwb_E_202009_04.vtt",
+                "modifiedDatetime": "2020-09-21T14:07:47.000Z",
+                "checksum": "d41aa02d0dcddbf44b443c8c8d9aa98b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/ea/jwb_E_202009_04_r480P.mp4",
+            "checksum": "21eaf68284cdae7c8102385fa3d1e194",
+            "filesize": 29522398,
+            "modifiedDatetime": "2020-09-21T14:07:41.000Z",
+            "bitRate": 611.9721464182803,
+            "duration": 376.886,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/dd/jwb_E_202009_04.vtt",
+                "modifiedDatetime": "2020-09-21T14:07:47.000Z",
+                "checksum": "d41aa02d0dcddbf44b443c8c8d9aa98b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/1c/jwb_E_202009_04_r720P.mp4",
+            "checksum": "636e403a3d292dce20e158e47113f633",
+            "filesize": 50181795,
+            "modifiedDatetime": "2020-09-21T14:07:44.000Z",
+            "bitRate": 1040.2224371228965,
+            "duration": 376.886,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/dd/jwb_E_202009_04.vtt",
+                "modifiedDatetime": "2020-09-21T14:07:47.000Z",
+                "checksum": "d41aa02d0dcddbf44b443c8c8d9aa98b"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202009-4.v",
+        "jwb.202009-4"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/dd/jwb_E_202009_04.vtt",
+    "Name": "pub-jwb_E_202009_4_VIDEO",
+    "Title": "Takanori and Yumi Takahashi: Meeting the Challenges of Bearing \"Thorough Witness”",
+    "UndatedReferenceTitle": "Takanori and Yumi Takahashi: Meeting the Challenges of Bearing \"Thorough Witness”",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODIntExpEndurance"
+}

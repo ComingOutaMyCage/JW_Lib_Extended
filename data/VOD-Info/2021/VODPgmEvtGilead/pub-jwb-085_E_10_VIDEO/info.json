@@ -1,0 +1,102 @@
+{
+    "guid": "6179a0c0e4dbeaf5fabeca80",
+    "languageAgnosticNaturalKey": "pub-jwb-085_10_VIDEO",
+    "naturalKey": "pub-jwb-085_E_10_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtGilead",
+    "description": "",
+    "firstPublished": "2021-12-07T23:14:03.620Z",
+    "duration": 524.566,
+    "durationFormattedHHMM": "8:44",
+    "durationFormattedMinSec": "8m 44s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/a9/jwb-085_E_10_r240P.mp4",
+            "checksum": "4764c3b4e6851f9dc61c24c040c39903",
+            "filesize": 9579236,
+            "modifiedDatetime": "2021-12-07T21:31:37.000Z",
+            "bitRate": 142.66609206467822,
+            "duration": 524.566,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.528,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/9a/jwb-085_E_10.vtt",
+                "modifiedDatetime": "2021-12-07T21:31:27.000Z",
+                "checksum": "a2188d6f6406fc0036e68cbdadf047bd"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/8a/jwb-085_E_10_r360P.mp4",
+            "checksum": "2f8688a3fa83800660ba3f3c4b62310f",
+            "filesize": 18329443,
+            "modifiedDatetime": "2021-12-07T21:31:34.000Z",
+            "bitRate": 273.00189013009646,
+            "duration": 524.534,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/9a/jwb-085_E_10.vtt",
+                "modifiedDatetime": "2021-12-07T21:31:27.000Z",
+                "checksum": "a2188d6f6406fc0036e68cbdadf047bd"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/5d/jwb-085_E_10_r480P.mp4",
+            "checksum": "c9fb5c4c614bb6ebb38215226b21cac6",
+            "filesize": 33920018,
+            "modifiedDatetime": "2021-12-07T21:31:32.000Z",
+            "bitRate": 505.21060717703716,
+            "duration": 524.534,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/9a/jwb-085_E_10.vtt",
+                "modifiedDatetime": "2021-12-07T21:31:27.000Z",
+                "checksum": "a2188d6f6406fc0036e68cbdadf047bd"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/de/jwb-085_E_10_r720P.mp4",
+            "checksum": "27533a5a62431eeeab80c2a9ba322a2f",
+            "filesize": 59530034,
+            "modifiedDatetime": "2021-12-07T21:31:29.000Z",
+            "bitRate": 886.6506091597495,
+            "duration": 524.534,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/9a/jwb-085_E_10.vtt",
+                "modifiedDatetime": "2021-12-07T21:31:27.000Z",
+                "checksum": "a2188d6f6406fc0036e68cbdadf047bd"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-085-10.v",
+        "jwb-085-10"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/9a/jwb-085_E_10.vtt",
+    "Name": "pub-jwb-085_E_10_VIDEO",
+    "Title": "James Cauthon: Thriving in the Trenches",
+    "UndatedReferenceTitle": "James Cauthon: Thriving in the Trenches",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODPgmEvtGilead"
+}

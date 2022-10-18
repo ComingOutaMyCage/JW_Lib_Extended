@@ -1,0 +1,102 @@
+{
+    "guid": "6115793f23708c1b98bd5ada",
+    "languageAgnosticNaturalKey": "pub-jwb-085_2_VIDEO",
+    "naturalKey": "pub-jwb-085_E_2_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2021-12-13T15:15:06.410Z",
+    "duration": 577.92,
+    "durationFormattedHHMM": "9:37",
+    "durationFormattedMinSec": "9m 37s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/68/jwb-085_E_02_r240P.mp4",
+            "checksum": "a35e5b76dfd413c09efcf7ee03557245",
+            "filesize": 9300846,
+            "modifiedDatetime": "2021-12-13T06:00:50.000Z",
+            "bitRate": 125.73169188642028,
+            "duration": 577.92,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.557,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/99/jwb-085_E_02.vtt",
+                "modifiedDatetime": "2021-12-13T06:00:34.000Z",
+                "checksum": "3d8ef38deb3d8948c095b9dd92d4b0e5"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/74/jwb-085_E_02_r360P.mp4",
+            "checksum": "5001566c627dd1311b85f2e811cfc9d0",
+            "filesize": 18274495,
+            "modifiedDatetime": "2021-12-13T06:00:44.000Z",
+            "bitRate": 247.05434139805882,
+            "duration": 577.887,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/99/jwb-085_E_02.vtt",
+                "modifiedDatetime": "2021-12-13T06:00:34.000Z",
+                "checksum": "3d8ef38deb3d8948c095b9dd92d4b0e5"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/6e/jwb-085_E_02_r480P.mp4",
+            "checksum": "f34e702500fc80d112ace1d3f1e14e28",
+            "filesize": 31394975,
+            "modifiedDatetime": "2021-12-13T06:00:40.000Z",
+            "bitRate": 424.431146898096,
+            "duration": 577.887,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/99/jwb-085_E_02.vtt",
+                "modifiedDatetime": "2021-12-13T06:00:34.000Z",
+                "checksum": "3d8ef38deb3d8948c095b9dd92d4b0e5"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/30/jwb-085_E_02_r720P.mp4",
+            "checksum": "40b9939d6b562e83a5fddf0bfb46ee39",
+            "filesize": 53459543,
+            "modifiedDatetime": "2021-12-13T06:00:35.000Z",
+            "bitRate": 722.7237845590921,
+            "duration": 577.887,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/99/jwb-085_E_02.vtt",
+                "modifiedDatetime": "2021-12-13T06:00:34.000Z",
+                "checksum": "3d8ef38deb3d8948c095b9dd92d4b0e5"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-085-2.v",
+        "jwb-085-2"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/99/jwb-085_E_02.vtt",
+    "Name": "pub-jwb-085_E_2_VIDEO",
+    "Title": "Geoffrey W. Jackson: Assisting Our Brothers Materially (Prov. 19:17)",
+    "UndatedReferenceTitle": "Geoffrey W. Jackson: Assisting Our Brothers Materially (Prov. 19:17)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

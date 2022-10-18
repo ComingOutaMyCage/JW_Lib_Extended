@@ -1,0 +1,102 @@
+{
+    "guid": "5f15bcbf4bd99b3c373918b8",
+    "languageAgnosticNaturalKey": "pub-jwb_202011_11_VIDEO",
+    "naturalKey": "pub-jwb_E_202011_11_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2020-11-23T12:17:44.431Z",
+    "duration": 609.11,
+    "durationFormattedHHMM": "10:09",
+    "durationFormattedMinSec": "10m 9s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/32/jwb_E_202011_11_r240P.mp4",
+            "checksum": "04f173840fb617fe93a41ae0aebd3bae",
+            "filesize": 10968964,
+            "modifiedDatetime": "2020-11-23T08:00:37.000Z",
+            "bitRate": 140.6889252351792,
+            "duration": 609.11,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/6f/jwb_E_202011_11.vtt",
+                "modifiedDatetime": "2020-11-23T08:00:57.000Z",
+                "checksum": "b974e261e8bb3d229cfb74f5079e088c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/bd/jwb_E_202011_11_r360P.mp4",
+            "checksum": "7ffe67894993b1ed5bd0345896798c08",
+            "filesize": 21535359,
+            "modifiedDatetime": "2020-11-23T08:00:40.000Z",
+            "bitRate": 276.2258013044156,
+            "duration": 609.085,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/6f/jwb_E_202011_11.vtt",
+                "modifiedDatetime": "2020-11-23T08:00:57.000Z",
+                "checksum": "b974e261e8bb3d229cfb74f5079e088c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/3c/jwb_E_202011_11_r480P.mp4",
+            "checksum": "d292556a246d877d9d1ade1039516779",
+            "filesize": 38043159,
+            "modifiedDatetime": "2020-11-23T08:00:41.000Z",
+            "bitRate": 487.9650289984156,
+            "duration": 609.085,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/6f/jwb_E_202011_11.vtt",
+                "modifiedDatetime": "2020-11-23T08:00:57.000Z",
+                "checksum": "b974e261e8bb3d229cfb74f5079e088c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/99/jwb_E_202011_11_r720P.mp4",
+            "checksum": "bcd2ac64cf40dd9e1073be8cc9d5d5ad",
+            "filesize": 68208733,
+            "modifiedDatetime": "2020-11-23T08:00:43.000Z",
+            "bitRate": 874.8872925166438,
+            "duration": 609.085,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/6f/jwb_E_202011_11.vtt",
+                "modifiedDatetime": "2020-11-23T08:00:57.000Z",
+                "checksum": "b974e261e8bb3d229cfb74f5079e088c"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202011-11.v",
+        "jwb.202011-11"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/6f/jwb_E_202011_11.vtt",
+    "Name": "pub-jwb_E_202011_11_VIDEO",
+    "Title": "Robert Luccioni: Strengthen Your Spiritual Core (2 Tim. 3:13)",
+    "UndatedReferenceTitle": "Robert Luccioni: Strengthen Your Spiritual Core (2 Tim. 3:13)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

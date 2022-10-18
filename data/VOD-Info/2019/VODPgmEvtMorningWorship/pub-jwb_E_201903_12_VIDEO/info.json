@@ -1,0 +1,102 @@
+{
+    "guid": "5c79a06864430a5b2d4d91fa",
+    "languageAgnosticNaturalKey": "pub-jwb_201903_12_VIDEO",
+    "naturalKey": "pub-jwb_E_201903_12_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2019-03-25T18:31:51.116Z",
+    "duration": 528.875,
+    "durationFormattedHHMM": "8:48",
+    "durationFormattedMinSec": "8m 48s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/84/jwb_E_201903_12_r240P.mp4",
+            "checksum": "08944d474dd999567d54fbfc80341e3e",
+            "filesize": 7234808,
+            "modifiedDatetime": "2020-11-11T21:49:10.000Z",
+            "bitRate": 106.87201607185062,
+            "duration": 528.875,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.47,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/16/jwb_E_201903_12.vtt",
+                "modifiedDatetime": "2019-03-25T14:28:08.000Z",
+                "checksum": "c6a4a19f5a352d60d0628a7eff0be4b1"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/ae/jwb_E_201903_12_r360P.mp4",
+            "checksum": "5b95063bfbc3366db49f38eccd82046b",
+            "filesize": 14574024,
+            "modifiedDatetime": "2019-03-25T14:28:15.000Z",
+            "bitRate": 215.30140137433392,
+            "duration": 528.838,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/16/jwb_E_201903_12.vtt",
+                "modifiedDatetime": "2019-03-25T14:28:08.000Z",
+                "checksum": "c6a4a19f5a352d60d0628a7eff0be4b1"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/6b/jwb_E_201903_12_r480P.mp4",
+            "checksum": "49ce2bc34f504feddb81bcfb06783605",
+            "filesize": 25416321,
+            "modifiedDatetime": "2019-03-25T14:28:22.000Z",
+            "bitRate": 375.4741675380741,
+            "duration": 528.838,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/16/jwb_E_201903_12.vtt",
+                "modifiedDatetime": "2019-03-25T14:28:08.000Z",
+                "checksum": "c6a4a19f5a352d60d0628a7eff0be4b1"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/6c/jwb_E_201903_12_r720P.mp4",
+            "checksum": "e948f76c66af125cc835dd6cc4175ce5",
+            "filesize": 45899956,
+            "modifiedDatetime": "2019-03-25T14:28:30.000Z",
+            "bitRate": 678.0779865478654,
+            "duration": 528.838,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/16/jwb_E_201903_12.vtt",
+                "modifiedDatetime": "2019-03-25T14:28:08.000Z",
+                "checksum": "c6a4a19f5a352d60d0628a7eff0be4b1"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201903-12.v",
+        "jwb.201903-12"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/16/jwb_E_201903_12.vtt",
+    "Name": "pub-jwb_E_201903_12_VIDEO",
+    "Title": "Robert Ciranko: Jehovah Guards Loyal Ones (Ps. 97:10)",
+    "UndatedReferenceTitle": "Robert Ciranko: Jehovah Guards Loyal Ones (Ps. 97:10)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

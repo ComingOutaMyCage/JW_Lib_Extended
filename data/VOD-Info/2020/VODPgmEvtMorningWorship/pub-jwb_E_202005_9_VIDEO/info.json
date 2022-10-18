@@ -1,0 +1,102 @@
+{
+    "guid": "5e6ba8befaacdecc130ca0d1",
+    "languageAgnosticNaturalKey": "pub-jwb_202005_9_VIDEO",
+    "naturalKey": "pub-jwb_E_202005_9_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2020-05-11T15:02:49.139Z",
+    "duration": 582.08,
+    "durationFormattedHHMM": "9:42",
+    "durationFormattedMinSec": "9m 42s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/00/jwb_E_202005_09_r240P.mp4",
+            "checksum": "f785c38260879ca41dc3245307060dcc",
+            "filesize": 9880302,
+            "modifiedDatetime": "2020-10-18T03:03:15.000Z",
+            "bitRate": 132.6103961225261,
+            "duration": 582.08,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.576,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/17/jwb_E_202005_09.vtt",
+                "modifiedDatetime": "2020-05-11T11:52:52.000Z",
+                "checksum": "13373e053c520778fc5188c1d4e0c948"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/be/jwb_E_202005_09_r360P.mp4",
+            "checksum": "66eae15856d52657492ebbea02e9dcdb",
+            "filesize": 19709649,
+            "modifiedDatetime": "2020-05-11T11:52:39.000Z",
+            "bitRate": 264.5546152461768,
+            "duration": 582.041,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/17/jwb_E_202005_09.vtt",
+                "modifiedDatetime": "2020-05-11T11:52:52.000Z",
+                "checksum": "13373e053c520778fc5188c1d4e0c948"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/b9/jwb_E_202005_09_r480P.mp4",
+            "checksum": "e2a9e151749aacc0d200cee82969a4d3",
+            "filesize": 36296627,
+            "modifiedDatetime": "2020-05-11T11:52:42.000Z",
+            "bitRate": 487.19488564809006,
+            "duration": 582.041,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/17/jwb_E_202005_09.vtt",
+                "modifiedDatetime": "2020-05-11T11:52:52.000Z",
+                "checksum": "13373e053c520778fc5188c1d4e0c948"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/fc/jwb_E_202005_09_r720P.mp4",
+            "checksum": "2fcea36d65a1b45d842b4cffd185d74d",
+            "filesize": 74271061,
+            "modifiedDatetime": "2020-05-11T11:52:46.000Z",
+            "bitRate": 996.9102933685083,
+            "duration": 582.041,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/17/jwb_E_202005_09.vtt",
+                "modifiedDatetime": "2020-05-11T11:52:52.000Z",
+                "checksum": "13373e053c520778fc5188c1d4e0c948"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202005-9.v",
+        "jwb.202005-9"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/17/jwb_E_202005_09.vtt",
+    "Name": "pub-jwb_E_202005_9_VIDEO",
+    "Title": "William Malenfant: “Become One Flock” (John 10:16)",
+    "UndatedReferenceTitle": "William Malenfant: “Become One Flock” (John 10:16)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

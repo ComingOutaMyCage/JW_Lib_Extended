@@ -1,0 +1,16 @@
+{
+  "name": "jw_lib_extended",
+  "version": "1.0.0",
+  "dependencies": {
+    "bb26": "^2.2.0",
+    "flexsearch": "^0.7.21",
+    "fs-extra": "^10.1.0",
+    "jquery-throttle-debounce": "^1.0.0",
+    "jsdom": "^20.0.1",
+    "jszip": "^3.10.1",
+    "jszip-utils": "^0.1.0",
+    "node-fetch": "^3.2.10",
+    "path": "^0.12.7",
+    "striptags": "^3.2.0"
+  }
+}

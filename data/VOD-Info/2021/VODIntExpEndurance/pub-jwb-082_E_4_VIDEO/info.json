@@ -1,0 +1,102 @@
+{
+    "guid": "607074750524ac0a0ae994bf",
+    "languageAgnosticNaturalKey": "pub-jwb-082_4_VIDEO",
+    "naturalKey": "pub-jwb-082_E_4_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpEndurance",
+    "description": "",
+    "firstPublished": "2021-09-20T16:02:05.448Z",
+    "duration": 349.888,
+    "durationFormattedHHMM": "5:49",
+    "durationFormattedMinSec": "5m 49s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/a9/jwb-082_E_04_r240P.mp4",
+            "checksum": "9b284772dfb3ff1ce9a22564005d9538",
+            "filesize": 7047811,
+            "modifiedDatetime": "2021-09-20T05:55:01.000Z",
+            "bitRate": 157.36756744301036,
+            "duration": 349.888,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.669,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/ea/jwb-082_E_04.vtt",
+                "modifiedDatetime": "2021-09-20T05:54:51.000Z",
+                "checksum": "55df040a9a1ae7b31d93e06036a5d231"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/f5/jwb-082_E_04_r360P.mp4",
+            "checksum": "c961db3316ff5de9958a9a39ae021e5f",
+            "filesize": 13228813,
+            "modifiedDatetime": "2021-09-20T05:54:57.000Z",
+            "bitRate": 295.41176547301563,
+            "duration": 349.851,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/ea/jwb-082_E_04.vtt",
+                "modifiedDatetime": "2021-09-20T05:54:51.000Z",
+                "checksum": "55df040a9a1ae7b31d93e06036a5d231"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/01/jwb-082_E_04_r480P.mp4",
+            "checksum": "dfd379d284251f162001f560588f0b71",
+            "filesize": 23860067,
+            "modifiedDatetime": "2021-09-20T05:54:54.000Z",
+            "bitRate": 532.8176093179668,
+            "duration": 349.851,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/ea/jwb-082_E_04.vtt",
+                "modifiedDatetime": "2021-09-20T05:54:51.000Z",
+                "checksum": "55df040a9a1ae7b31d93e06036a5d231"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/aa/jwb-082_E_04_r720P.mp4",
+            "checksum": "813184593e87ed9bba014a33377c4d04",
+            "filesize": 38436643,
+            "modifiedDatetime": "2021-09-20T05:54:52.000Z",
+            "bitRate": 858.326182967892,
+            "duration": 349.851,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/ea/jwb-082_E_04.vtt",
+                "modifiedDatetime": "2021-09-20T05:54:51.000Z",
+                "checksum": "55df040a9a1ae7b31d93e06036a5d231"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-082-4.v",
+        "jwb-082-4"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/ea/jwb-082_E_04.vtt",
+    "Name": "pub-jwb-082_E_4_VIDEO",
+    "Title": "Aino Ehtmaa: Faithfulness With Joy",
+    "UndatedReferenceTitle": "Aino Ehtmaa: Faithfulness With Joy",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODIntExpEndurance"
+}

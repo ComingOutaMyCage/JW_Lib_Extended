@@ -1,0 +1,102 @@
+{
+    "guid": "5fbfb4f3c0bf482e1b017eb2",
+    "languageAgnosticNaturalKey": "pub-jwb_202102_10_VIDEO",
+    "naturalKey": "pub-jwb_E_202102_10_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2021-02-08T18:24:36.022Z",
+    "duration": 501.867,
+    "durationFormattedHHMM": "8:21",
+    "durationFormattedMinSec": "8m 21s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/1e/jwb_E_202102_10_r240P.mp4",
+            "checksum": "3cd2ddcd1307616e133cce586508ac3d",
+            "filesize": 9385206,
+            "modifiedDatetime": "2021-02-08T05:12:00.000Z",
+            "bitRate": 146.0983126505628,
+            "duration": 501.867,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.47,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/68/jwb_E_202102_10.vtt",
+                "modifiedDatetime": "2021-02-08T05:11:45.000Z",
+                "checksum": "2c869b7f4af3382fe5b4cdc626fb572d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/94/jwb_E_202102_10_r360P.mp4",
+            "checksum": "660b0e2081118cec0429046e086761ea",
+            "filesize": 18536686,
+            "modifiedDatetime": "2021-02-08T05:11:56.000Z",
+            "bitRate": 288.5714671790437,
+            "duration": 501.844,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/68/jwb_E_202102_10.vtt",
+                "modifiedDatetime": "2021-02-08T05:11:45.000Z",
+                "checksum": "2c869b7f4af3382fe5b4cdc626fb572d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/84/jwb_E_202102_10_r480P.mp4",
+            "checksum": "1ff3adc36d3f0b7fd0959828db9489f7",
+            "filesize": 32770552,
+            "modifiedDatetime": "2021-02-08T05:11:50.000Z",
+            "bitRate": 510.15841078103955,
+            "duration": 501.844,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/68/jwb_E_202102_10.vtt",
+                "modifiedDatetime": "2021-02-08T05:11:45.000Z",
+                "checksum": "2c869b7f4af3382fe5b4cdc626fb572d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/46/jwb_E_202102_10_r720P.mp4",
+            "checksum": "8061e3ead1e26bc70b452f80fb2c1efd",
+            "filesize": 58638701,
+            "modifiedDatetime": "2021-02-08T05:11:46.000Z",
+            "bitRate": 912.8630641444354,
+            "duration": 501.844,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/68/jwb_E_202102_10.vtt",
+                "modifiedDatetime": "2021-02-08T05:11:45.000Z",
+                "checksum": "2c869b7f4af3382fe5b4cdc626fb572d"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202102-10.v",
+        "jwb.202102-10"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/68/jwb_E_202102_10.vtt",
+    "Name": "pub-jwb_E_202102_10_VIDEO",
+    "Title": "Alex Reinmueller: \"Jehovah Our God Is One Jehovah\" (Deut. 6:4, 5)",
+    "UndatedReferenceTitle": "Alex Reinmueller: \"Jehovah Our God Is One Jehovah\" (Deut. 6:4, 5)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

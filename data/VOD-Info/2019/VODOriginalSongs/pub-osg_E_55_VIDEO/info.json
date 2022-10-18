@@ -1,0 +1,102 @@
+{
+    "guid": "5d28e23348fd57354cf3713b",
+    "languageAgnosticNaturalKey": "pub-osg_55_VIDEO",
+    "naturalKey": "pub-osg_E_55_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODOriginalSongs",
+    "description": "",
+    "firstPublished": "2019-09-16T18:53:02.716Z",
+    "duration": 241.451,
+    "durationFormattedHHMM": "4:01",
+    "durationFormattedMinSec": "4m 1s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/1f/osg_E_055_r240P.mp4",
+            "checksum": "f69d8ef3a236e61437dc99741725b197",
+            "filesize": 13492269,
+            "modifiedDatetime": "2020-11-28T07:00:42.000Z",
+            "bitRate": 436.56208324877514,
+            "duration": 241.451,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.786,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/74/osg_E_055.vtt",
+                "modifiedDatetime": "2019-09-16T11:37:37.000Z",
+                "checksum": "9441cc9dabb81103f030e0e13fed8ff0"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/69/osg_E_055_r360P.mp4",
+            "checksum": "f84fca618dae3a9336df137745a0e378",
+            "filesize": 23720121,
+            "modifiedDatetime": "2019-09-16T11:37:43.000Z",
+            "bitRate": 767.6327117568111,
+            "duration": 241.409,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/74/osg_E_055.vtt",
+                "modifiedDatetime": "2019-09-16T11:37:37.000Z",
+                "checksum": "9441cc9dabb81103f030e0e13fed8ff0"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/32/osg_E_055_r480P.mp4",
+            "checksum": "06c71065fff1ae2563f95f154b7c9d02",
+            "filesize": 44644401,
+            "modifiedDatetime": "2019-09-16T11:37:48.000Z",
+            "bitRate": 1444.7861629537424,
+            "duration": 241.409,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/74/osg_E_055.vtt",
+                "modifiedDatetime": "2019-09-16T11:37:37.000Z",
+                "checksum": "9441cc9dabb81103f030e0e13fed8ff0"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/02/osg_E_055_r720P.mp4",
+            "checksum": "f007bb746cb2b1d5f729dd95477f9ba3",
+            "filesize": 73989393,
+            "modifiedDatetime": "2019-09-16T11:38:15.000Z",
+            "bitRate": 2394.4514612649073,
+            "duration": 241.409,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/74/osg_E_055.vtt",
+                "modifiedDatetime": "2019-09-16T11:37:37.000Z",
+                "checksum": "9441cc9dabb81103f030e0e13fed8ff0"
+            }
+        }
+    ],
+    "printReferences": [
+        "osg-55.v",
+        "osg-55"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/74/osg_E_055.vtt",
+    "Name": "pub-osg_E_55_VIDEO",
+    "Title": "We're Your Family",
+    "UndatedReferenceTitle": "We're Your Family",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODOriginalSongs"
+}

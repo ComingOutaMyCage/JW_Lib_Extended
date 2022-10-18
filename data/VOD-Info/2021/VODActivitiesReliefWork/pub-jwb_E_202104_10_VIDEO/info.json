@@ -1,0 +1,102 @@
+{
+    "guid": "5fe353ece668ffe089ed47bf",
+    "languageAgnosticNaturalKey": "pub-jwb_202104_10_VIDEO",
+    "naturalKey": "pub-jwb_E_202104_10_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODActivitiesReliefWork",
+    "description": "",
+    "firstPublished": "2021-04-19T14:13:39.532Z",
+    "duration": 104.939,
+    "durationFormattedHHMM": "1:44",
+    "durationFormattedMinSec": "1m 44s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/74/jwb_E_202104_10_r240P.mp4",
+            "checksum": "7e81d9fccb8609b7622305887012247a",
+            "filesize": 4321641,
+            "modifiedDatetime": "2021-04-19T05:51:31.000Z",
+            "bitRate": 321.73758385824146,
+            "duration": 104.939,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.506,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/67/jwb_E_202104_10.vtt",
+                "modifiedDatetime": "2021-04-19T05:51:18.000Z",
+                "checksum": "f49a81538294c720df7a7b4a24c9d867"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/7b/jwb_E_202104_10_r360P.mp4",
+            "checksum": "3267c6a0b16289be37eb34b15304b09d",
+            "filesize": 7511758,
+            "modifiedDatetime": "2021-04-19T05:51:28.000Z",
+            "bitRate": 559.4540351102977,
+            "duration": 104.898,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/67/jwb_E_202104_10.vtt",
+                "modifiedDatetime": "2021-04-19T05:51:18.000Z",
+                "checksum": "f49a81538294c720df7a7b4a24c9d867"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/e4/jwb_E_202104_10_r480P.mp4",
+            "checksum": "6dc263bafc8c4fbc83a75fa73dfbfd5d",
+            "filesize": 13818629,
+            "modifiedDatetime": "2021-04-19T05:51:26.000Z",
+            "bitRate": 1029.171567260577,
+            "duration": 104.898,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/67/jwb_E_202104_10.vtt",
+                "modifiedDatetime": "2021-04-19T05:51:18.000Z",
+                "checksum": "f49a81538294c720df7a7b4a24c9d867"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/9c/jwb_E_202104_10_r720P.mp4",
+            "checksum": "f0d3a6f768943a2f82dcaed015ab8619",
+            "filesize": 23695937,
+            "modifiedDatetime": "2021-04-19T05:51:22.000Z",
+            "bitRate": 1764.8049325296956,
+            "duration": 104.898,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/67/jwb_E_202104_10.vtt",
+                "modifiedDatetime": "2021-04-19T05:51:18.000Z",
+                "checksum": "f49a81538294c720df7a7b4a24c9d867"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202104-10.v",
+        "jwb.202104-10"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/67/jwb_E_202104_10.vtt",
+    "Name": "pub-jwb_E_202104_10_VIDEO",
+    "Title": "Devastating Flooding in Brazil",
+    "UndatedReferenceTitle": "Devastating Flooding in Brazil",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODActivitiesReliefWork"
+}

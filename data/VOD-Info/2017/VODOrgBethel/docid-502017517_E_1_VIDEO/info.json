@@ -1,0 +1,102 @@
+{
+    "guid": "59df7a3d302e60099ea69295",
+    "languageAgnosticNaturalKey": "docid-502017517_1_VIDEO",
+    "naturalKey": "docid-502017517_E_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODOrgBethel",
+    "description": "",
+    "firstPublished": "2017-11-20T20:30:17.882Z",
+    "duration": 264.918,
+    "durationFormattedHHMM": "4:24",
+    "durationFormattedMinSec": "4m 24s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/e0/502017517_E_cnt_1_r240P.mp4",
+            "checksum": "b22ecdd3776b6d8a2c45c3ffe323912c",
+            "filesize": 6505539,
+            "modifiedDatetime": "2020-11-01T11:12:32.000Z",
+            "bitRate": 191.85001939279323,
+            "duration": 264.918,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.506,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/5d/502017517_E_cnt_1_r240P.vtt",
+                "modifiedDatetime": "2018-01-25T14:28:09.000Z",
+                "checksum": "b4ece3a26eb875a5f1d74aea4f33a6b6"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/a9/502017517_E_cnt_1_r360P.mp4",
+            "checksum": "e592d1b7c1773f7f7e2776e4ca3d00fc",
+            "filesize": 12173826,
+            "modifiedDatetime": "2018-01-25T14:29:16.000Z",
+            "bitRate": 359.0458551819427,
+            "duration": 264.891,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/0f/502017517_E_cnt_1_r360P.vtt",
+                "modifiedDatetime": "2018-01-25T14:29:17.000Z",
+                "checksum": "b4ece3a26eb875a5f1d74aea4f33a6b6"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/0e/502017517_E_cnt_1_r480P.mp4",
+            "checksum": "ae13b676335b21a82907bdaf7a006fa4",
+            "filesize": 22176865,
+            "modifiedDatetime": "2018-01-25T14:28:13.000Z",
+            "bitRate": 654.068117876787,
+            "duration": 264.891,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/d0/502017517_E_cnt_1_r480P.vtt",
+                "modifiedDatetime": "2018-01-25T14:28:15.000Z",
+                "checksum": "b4ece3a26eb875a5f1d74aea4f33a6b6"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/1d/502017517_E_cnt_1_r720P.mp4",
+            "checksum": "7f69a16296e11b314e3920bd8f0a1750",
+            "filesize": 35630745,
+            "modifiedDatetime": "2018-01-25T14:29:13.000Z",
+            "bitRate": 1050.8669426764216,
+            "duration": 264.891,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/a0/502017517_E_cnt_1_r720P.vtt",
+                "modifiedDatetime": "2018-01-25T14:29:15.000Z",
+                "checksum": "b4ece3a26eb875a5f1d74aea4f33a6b6"
+            }
+        }
+    ],
+    "printReferences": [
+        "502017517-1.v",
+        "502017517-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/content_assets/5d/502017517_E_cnt_1_r240P.vtt",
+    "Name": "docid-502017517_E_1_VIDEO",
+    "Title": "Promoting Love and Respect for Truth",
+    "UndatedReferenceTitle": "Promoting Love and Respect for Truth",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2017,
+    "Symbol": "VODOrgBethel"
+}

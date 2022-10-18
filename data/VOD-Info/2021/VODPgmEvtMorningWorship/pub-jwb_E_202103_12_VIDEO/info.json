@@ -1,0 +1,102 @@
+{
+    "guid": "5f7238dd0ca056895e7fdda3",
+    "languageAgnosticNaturalKey": "pub-jwb_202103_12_VIDEO",
+    "naturalKey": "pub-jwb_E_202103_12_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2021-03-29T14:05:43.304Z",
+    "duration": 561.302,
+    "durationFormattedHHMM": "9:21",
+    "durationFormattedMinSec": "9m 21s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/01/jwb_E_202103_12_r240P.mp4",
+            "checksum": "9f7882b03c907353f91dde5884d765de",
+            "filesize": 8507893,
+            "modifiedDatetime": "2021-03-29T06:24:45.000Z",
+            "bitRate": 118.41738326694008,
+            "duration": 561.302,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.268,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/b5/jwb_E_202103_12.vtt",
+                "modifiedDatetime": "2021-03-29T06:24:29.000Z",
+                "checksum": "aa4ebe86ce21be7b08546ab6620cf5e9"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/25/jwb_E_202103_12_r360P.mp4",
+            "checksum": "9634f58372ab37a6d1bdb8374838263c",
+            "filesize": 17315716,
+            "modifiedDatetime": "2021-03-29T06:24:41.000Z",
+            "bitRate": 241.02309271829958,
+            "duration": 561.27,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/b5/jwb_E_202103_12.vtt",
+                "modifiedDatetime": "2021-03-29T06:24:29.000Z",
+                "checksum": "aa4ebe86ce21be7b08546ab6620cf5e9"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/7e/jwb_E_202103_12_r480P.mp4",
+            "checksum": "52be8e49aefcd523caeebfff79dbc83c",
+            "filesize": 30294783,
+            "modifiedDatetime": "2021-03-29T06:24:35.000Z",
+            "bitRate": 421.682955061735,
+            "duration": 561.27,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/b5/jwb_E_202103_12.vtt",
+                "modifiedDatetime": "2021-03-29T06:24:29.000Z",
+                "checksum": "aa4ebe86ce21be7b08546ab6620cf5e9"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/3b/jwb_E_202103_12_r720P.mp4",
+            "checksum": "bc87927393c8776bd1cce0eb5f877c98",
+            "filesize": 51517089,
+            "modifiedDatetime": "2021-03-29T06:24:31.000Z",
+            "bitRate": 717.0831468143674,
+            "duration": 561.27,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/b5/jwb_E_202103_12.vtt",
+                "modifiedDatetime": "2021-03-29T06:24:29.000Z",
+                "checksum": "aa4ebe86ce21be7b08546ab6620cf5e9"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202103-12.v",
+        "jwb.202103-12"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/b5/jwb_E_202103_12.vtt",
+    "Name": "pub-jwb_E_202103_12_VIDEO",
+    "Title": "Izak Marais: \"Deaden . . . Your Body Members\" (Col. 3:5)",
+    "UndatedReferenceTitle": "Izak Marais: \"Deaden . . . Your Body Members\" (Col. 3:5)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

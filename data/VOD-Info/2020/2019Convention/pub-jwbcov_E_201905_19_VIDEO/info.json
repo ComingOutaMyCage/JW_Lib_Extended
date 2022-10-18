@@ -1,0 +1,102 @@
+{
+    "guid": "5de9587a1b4e5873936e2cf3",
+    "languageAgnosticNaturalKey": "pub-jwbcov_201905_19_VIDEO",
+    "naturalKey": "pub-jwbcov_E_201905_19_VIDEO",
+    "type": "video",
+    "primaryCategory": "2019Convention",
+    "description": "",
+    "firstPublished": "2020-03-23T11:53:07.430Z",
+    "duration": 407.147,
+    "durationFormattedHHMM": "6:47",
+    "durationFormattedMinSec": "6m 47s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/0f/jwbcov_E_201905_19_r240P.mp4",
+            "checksum": "f0ea7480049bb200993d205fe13ce696",
+            "filesize": 12604844,
+            "modifiedDatetime": "2020-11-04T02:34:19.000Z",
+            "bitRate": 241.86680425006202,
+            "duration": 407.147,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.81,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ed/jwbcov_E_201905_19.vtt",
+                "modifiedDatetime": "2020-03-23T06:49:45.000Z",
+                "checksum": "2426843379e9993499273544599701f5"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/de/jwbcov_E_201905_19_r360P.mp4",
+            "checksum": "7e781da089cf9e36227a55633e397b9b",
+            "filesize": 23009282,
+            "modifiedDatetime": "2020-03-23T06:49:32.000Z",
+            "bitRate": 441.54495432505723,
+            "duration": 407.116,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ed/jwbcov_E_201905_19.vtt",
+                "modifiedDatetime": "2020-03-23T06:49:45.000Z",
+                "checksum": "2426843379e9993499273544599701f5"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/41/jwbcov_E_201905_19_r480P.mp4",
+            "checksum": "6e1b1ee33703663a8362c9f7d9fb9912",
+            "filesize": 42514523,
+            "modifiedDatetime": "2020-03-23T06:49:36.000Z",
+            "bitRate": 815.8478441955119,
+            "duration": 407.116,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ed/jwbcov_E_201905_19.vtt",
+                "modifiedDatetime": "2020-03-23T06:49:45.000Z",
+                "checksum": "2426843379e9993499273544599701f5"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/c1/jwbcov_E_201905_19_r720P.mp4",
+            "checksum": "85f223a82edeb0caf54b871b80103652",
+            "filesize": 70353807,
+            "modifiedDatetime": "2020-03-23T06:49:40.000Z",
+            "bitRate": 1350.0798720450682,
+            "duration": 407.116,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ed/jwbcov_E_201905_19.vtt",
+                "modifiedDatetime": "2020-03-23T06:49:45.000Z",
+                "checksum": "2426843379e9993499273544599701f5"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwbcov.201905-19.v",
+        "jwbcov.201905-19"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/ed/jwbcov_E_201905_19.vtt",
+    "Name": "pub-jwbcov_E_201905_19_VIDEO",
+    "Title": "Display Unfailing Love in the Ministry",
+    "UndatedReferenceTitle": "Display Unfailing Love in the Ministry",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "2019Convention"
+}

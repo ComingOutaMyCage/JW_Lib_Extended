@@ -1,0 +1,102 @@
+{
+    "guid": "6054fecb251b665b39250957",
+    "languageAgnosticNaturalKey": "pub-fmh_x_VIDEO",
+    "naturalKey": "pub-fmh_E_x_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODBibleAccounts",
+    "description": "",
+    "firstPublished": "2021-07-05T14:46:46.039Z",
+    "duration": 2320.384,
+    "durationFormattedHHMM": "38:40",
+    "durationFormattedMinSec": "38m 40s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/99/fmh_E_r240P.mp4",
+            "checksum": "836c8ab3cac5f19d93dfa51ff70415cc",
+            "filesize": 33808761,
+            "modifiedDatetime": "2021-06-28T03:58:39.000Z",
+            "bitRate": 113.83070444913427,
+            "duration": 2320.384,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.952,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/48/fmh_E.vtt",
+                "modifiedDatetime": "2021-06-28T03:58:17.000Z",
+                "checksum": "d124cf5b8add9117cdc6380da0f2a163"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/fa/fmh_E_r360P.mp4",
+            "checksum": "08b3496157565b215dec4866a21086c4",
+            "filesize": 68415172,
+            "modifiedDatetime": "2021-06-28T03:58:35.000Z",
+            "bitRate": 230.34929963484132,
+            "duration": 2320.361,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/48/fmh_E.vtt",
+                "modifiedDatetime": "2021-06-28T03:58:17.000Z",
+                "checksum": "d124cf5b8add9117cdc6380da0f2a163"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/d9/fmh_E_r480P.mp4",
+            "checksum": "44bf05bb1c92c00505bc42cb46ddfc3c",
+            "filesize": 118206114,
+            "modifiedDatetime": "2021-06-28T03:58:30.000Z",
+            "bitRate": 397.9920648661997,
+            "duration": 2320.361,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/48/fmh_E.vtt",
+                "modifiedDatetime": "2021-06-28T03:58:17.000Z",
+                "checksum": "d124cf5b8add9117cdc6380da0f2a163"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/2f/fmh_E_r720P.mp4",
+            "checksum": "67ef3be43c8fcc3b929bc5dda6c8edb8",
+            "filesize": 185820555,
+            "modifiedDatetime": "2021-06-28T03:58:25.000Z",
+            "bitRate": 625.6453568808905,
+            "duration": 2320.361,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/48/fmh_E.vtt",
+                "modifiedDatetime": "2021-06-28T03:58:17.000Z",
+                "checksum": "d124cf5b8add9117cdc6380da0f2a163"
+            }
+        }
+    ],
+    "printReferences": [
+        "fmh.v",
+        "fmh"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/48/fmh_E.vtt",
+    "Name": "pub-fmh_E_x_VIDEO",
+    "Title": "Noah—Faith Moved Him to Obey",
+    "UndatedReferenceTitle": "Noah—Faith Moved Him to Obey",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODBibleAccounts"
+}

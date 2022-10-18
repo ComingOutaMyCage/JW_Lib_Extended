@@ -1,0 +1,102 @@
+{
+    "guid": "5eea736baf341cff13f83412",
+    "languageAgnosticNaturalKey": "pub-jwb_202006_12_VIDEO",
+    "naturalKey": "pub-jwb_E_202006_12_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtGilead",
+    "description": "",
+    "firstPublished": "2020-07-20T12:19:02.497Z",
+    "duration": 756.395,
+    "durationFormattedHHMM": "12:36",
+    "durationFormattedMinSec": "12m 36s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/47/jwb_E_202006_12_r240P.mp4",
+            "checksum": "174433d9cb0c329e62f0c632d1535d92",
+            "filesize": 14057436,
+            "modifiedDatetime": "2020-10-18T03:05:01.000Z",
+            "bitRate": 145.19360750665987,
+            "duration": 756.395,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.354,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/e9/jwb_E_202006_12.vtt",
+                "modifiedDatetime": "2020-07-20T07:52:34.000Z",
+                "checksum": "728c34c819975601b1755c37f326d351"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/d1/jwb_E_202006_12_r360P.mp4",
+            "checksum": "30d89f6eeec23aa499d9aae1c8c0921a",
+            "filesize": 27915417,
+            "modifiedDatetime": "2020-07-20T07:52:25.000Z",
+            "bitRate": 288.33856049989095,
+            "duration": 756.365,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/e9/jwb_E_202006_12.vtt",
+                "modifiedDatetime": "2020-07-20T07:52:34.000Z",
+                "checksum": "728c34c819975601b1755c37f326d351"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/d6/jwb_E_202006_12_r480P.mp4",
+            "checksum": "5b917906f6169f5295b8c41895f08ab6",
+            "filesize": 52132902,
+            "modifiedDatetime": "2020-07-20T07:52:27.000Z",
+            "bitRate": 538.4811524528501,
+            "duration": 756.365,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/e9/jwb_E_202006_12.vtt",
+                "modifiedDatetime": "2020-07-20T07:52:34.000Z",
+                "checksum": "728c34c819975601b1755c37f326d351"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/29/jwb_E_202006_12_r720P.mp4",
+            "checksum": "768ebda3aea291e1e510576213a23a31",
+            "filesize": 99937088,
+            "modifiedDatetime": "2020-07-20T07:52:29.000Z",
+            "bitRate": 1032.2509634898495,
+            "duration": 756.365,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/e9/jwb_E_202006_12.vtt",
+                "modifiedDatetime": "2020-07-20T07:52:34.000Z",
+                "checksum": "728c34c819975601b1755c37f326d351"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202006-12.v",
+        "jwb.202006-12"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/e9/jwb_E_202006_12.vtt",
+    "Name": "pub-jwb_E_202006_12_VIDEO",
+    "Title": "Mark Noumair: Will You Thunder for Jehovah?",
+    "UndatedReferenceTitle": "Mark Noumair: Will You Thunder for Jehovah?",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODPgmEvtGilead"
+}

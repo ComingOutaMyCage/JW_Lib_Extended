@@ -1,0 +1,102 @@
+{
+    "guid": "605343cd251b665b391e38a2",
+    "languageAgnosticNaturalKey": "pub-jwb-080_9_VIDEO",
+    "naturalKey": "pub-jwb-080_E_9_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODMoviesExtras",
+    "description": "",
+    "firstPublished": "2021-05-03T16:57:48.071Z",
+    "duration": 105.728,
+    "durationFormattedHHMM": "1:45",
+    "durationFormattedMinSec": "1m 45s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/4a/jwb-080_E_09_r240P.mp4",
+            "checksum": "cbe8483dca9d72dc9d0a8fbde12ab452",
+            "filesize": 2393147,
+            "modifiedDatetime": "2021-05-03T07:11:10.000Z",
+            "bitRate": 176.83547345547066,
+            "duration": 105.728,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.762,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/91/jwb-080_E_09.vtt",
+                "modifiedDatetime": "2021-05-03T07:10:59.000Z",
+                "checksum": "3e220d474fc6bf472512da8dd3cdc796"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/a9/jwb-080_E_09_r360P.mp4",
+            "checksum": "2ac69db55194f65401a1c9487e0cbc09",
+            "filesize": 3947379,
+            "modifiedDatetime": "2021-05-03T07:11:07.000Z",
+            "bitRate": 291.78634154130003,
+            "duration": 105.69,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/91/jwb-080_E_09.vtt",
+                "modifiedDatetime": "2021-05-03T07:10:59.000Z",
+                "checksum": "3e220d474fc6bf472512da8dd3cdc796"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/34/jwb-080_E_09_r480P.mp4",
+            "checksum": "632441f239afaca171a73a7f0ad9ec01",
+            "filesize": 6833449,
+            "modifiedDatetime": "2021-05-03T07:11:02.000Z",
+            "bitRate": 505.12177417447253,
+            "duration": 105.69,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/91/jwb-080_E_09.vtt",
+                "modifiedDatetime": "2021-05-03T07:10:59.000Z",
+                "checksum": "3e220d474fc6bf472512da8dd3cdc796"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/f2/jwb-080_E_09_r720P.mp4",
+            "checksum": "0a25e031b1d622c1a05bded6ca71eea1",
+            "filesize": 10505457,
+            "modifiedDatetime": "2021-05-03T07:11:00.000Z",
+            "bitRate": 776.5529644479137,
+            "duration": 105.69,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/91/jwb-080_E_09.vtt",
+                "modifiedDatetime": "2021-05-03T07:10:59.000Z",
+                "checksum": "3e220d474fc6bf472512da8dd3cdc796"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-080-9.v",
+        "jwb-080-9"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/91/jwb-080_E_09.vtt",
+    "Name": "pub-jwb-080_E_9_VIDEO",
+    "Title": "Feature Bible Drama Trailer: Daniel: A Lifetime of Faith",
+    "UndatedReferenceTitle": "Feature Bible Drama Trailer: Daniel: A Lifetime of Faith",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODMoviesExtras"
+}

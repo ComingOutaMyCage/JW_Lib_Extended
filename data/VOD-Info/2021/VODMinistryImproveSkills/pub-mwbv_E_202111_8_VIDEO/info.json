@@ -1,0 +1,102 @@
+{
+    "guid": "60ff096d23708c1b989c9d4a",
+    "languageAgnosticNaturalKey": "pub-mwbv_202111_8_VIDEO",
+    "naturalKey": "pub-mwbv_E_202111_8_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODMinistryImproveSkills",
+    "description": "",
+    "firstPublished": "2021-12-06T15:09:34.125Z",
+    "duration": 134.998,
+    "durationFormattedHHMM": "2:14",
+    "durationFormattedMinSec": "2m 14s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/3b/mwbv_E_202111_08_r240P.mp4",
+            "checksum": "4581d08e6a8a5ea0179711dbae7e97b7",
+            "filesize": 2726399,
+            "modifiedDatetime": "2021-12-06T07:40:04.000Z",
+            "bitRate": 157.7800573897391,
+            "duration": 134.998,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.576,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f4/mwbv_E_202111_08.vtt",
+                "modifiedDatetime": "2021-12-06T07:39:56.000Z",
+                "checksum": "03bbb3758be9a915272ade7fa8380a30"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/99/mwbv_E_202111_08_r360P.mp4",
+            "checksum": "2c8e08386ad5c744c6746713e0eb10ab",
+            "filesize": 5013637,
+            "modifiedDatetime": "2021-12-06T07:40:02.000Z",
+            "bitRate": 290.2055202081944,
+            "duration": 134.97,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f4/mwbv_E_202111_08.vtt",
+                "modifiedDatetime": "2021-12-06T07:39:56.000Z",
+                "checksum": "03bbb3758be9a915272ade7fa8380a30"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/17/mwbv_E_202111_08_r480P.mp4",
+            "checksum": "a7d6f4214fca776cba6dbb707afd6efc",
+            "filesize": 8685425,
+            "modifiedDatetime": "2021-12-06T07:40:00.000Z",
+            "bitRate": 502.7404816811143,
+            "duration": 134.97,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f4/mwbv_E_202111_08.vtt",
+                "modifiedDatetime": "2021-12-06T07:39:56.000Z",
+                "checksum": "03bbb3758be9a915272ade7fa8380a30"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/e6/mwbv_E_202111_08_r720P.mp4",
+            "checksum": "82bf4dbe37efb2b9d2100e1252373675",
+            "filesize": 13622308,
+            "modifiedDatetime": "2021-12-06T07:39:58.000Z",
+            "bitRate": 788.5032321997481,
+            "duration": 134.97,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f4/mwbv_E_202111_08.vtt",
+                "modifiedDatetime": "2021-12-06T07:39:56.000Z",
+                "checksum": "03bbb3758be9a915272ade7fa8380a30"
+            }
+        }
+    ],
+    "printReferences": [
+        "mwbv.202111-8.v",
+        "mwbv.202111-8"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/f4/mwbv_E_202111_08.vtt",
+    "Name": "pub-mwbv_E_202111_8_VIDEO",
+    "Title": "Help Your Bible Students to Feed Themselves Spiritually",
+    "UndatedReferenceTitle": "Help Your Bible Students to Feed Themselves Spiritually",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODMinistryImproveSkills"
+}

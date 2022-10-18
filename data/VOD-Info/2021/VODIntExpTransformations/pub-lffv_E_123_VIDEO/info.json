@@ -1,0 +1,102 @@
+{
+    "guid": "5fdd2cd2c0bf482e1b12cd82",
+    "languageAgnosticNaturalKey": "pub-lffv_123_VIDEO",
+    "naturalKey": "pub-lffv_E_123_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpTransformations",
+    "description": "",
+    "firstPublished": "2021-01-18T15:43:58.419Z",
+    "duration": 322.603,
+    "durationFormattedHHMM": "5:22",
+    "durationFormattedMinSec": "5m 22s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/c5/lffv_E_123_r240P.mp4",
+            "checksum": "2010c82a868efba1496a86576e27b922",
+            "filesize": 7128697,
+            "modifiedDatetime": "2021-01-13T03:26:35.000Z",
+            "bitRate": 172.63616678239197,
+            "duration": 322.603,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.692,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/4e/lffv_E_123.vtt",
+                "modifiedDatetime": "2021-01-13T03:26:53.000Z",
+                "checksum": "9fd5cced12962e0110416029dfbe373c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/63/lffv_E_123_r360P.mp4",
+            "checksum": "e27cb2fa0eac11b0a6d649c3ef52a7a6",
+            "filesize": 13817405,
+            "modifiedDatetime": "2021-01-13T03:26:40.000Z",
+            "bitRate": 334.64717107547415,
+            "duration": 322.574,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/4e/lffv_E_123.vtt",
+                "modifiedDatetime": "2021-01-13T03:26:53.000Z",
+                "checksum": "9fd5cced12962e0110416029dfbe373c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/e5/lffv_E_123_r480P.mp4",
+            "checksum": "203abd4f93fffe325d1a2add3bdd429a",
+            "filesize": 25326712,
+            "modifiedDatetime": "2021-01-13T03:26:46.000Z",
+            "bitRate": 613.3939421652086,
+            "duration": 322.574,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/4e/lffv_E_123.vtt",
+                "modifiedDatetime": "2021-01-13T03:26:53.000Z",
+                "checksum": "9fd5cced12962e0110416029dfbe373c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/e0/lffv_E_123_r720P.mp4",
+            "checksum": "3ff17ca67255396f1ec2b70fe3fef30d",
+            "filesize": 41479445,
+            "modifiedDatetime": "2021-01-13T03:26:49.000Z",
+            "bitRate": 1004.6010033744195,
+            "duration": 322.574,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/4e/lffv_E_123.vtt",
+                "modifiedDatetime": "2021-01-13T03:26:53.000Z",
+                "checksum": "9fd5cced12962e0110416029dfbe373c"
+            }
+        }
+    ],
+    "printReferences": [
+        "lffv-123.v",
+        "lffv-123"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/4e/lffv_E_123.vtt",
+    "Name": "pub-lffv_E_123_VIDEO",
+    "Title": "Rewarded for Persevering",
+    "UndatedReferenceTitle": "Rewarded for Persevering",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODIntExpTransformations"
+}

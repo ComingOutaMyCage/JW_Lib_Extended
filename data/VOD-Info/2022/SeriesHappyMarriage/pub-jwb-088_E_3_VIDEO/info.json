@@ -1,0 +1,102 @@
+{
+    "guid": "61eec45357c50ea1ebf65fc4",
+    "languageAgnosticNaturalKey": "pub-jwb-088_3_VIDEO",
+    "naturalKey": "pub-jwb-088_E_3_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesHappyMarriage",
+    "description": "",
+    "firstPublished": "2022-04-18T18:11:01.045Z",
+    "duration": 267.264,
+    "durationFormattedHHMM": "4:27",
+    "durationFormattedMinSec": "4m 27s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/df/jwb-088_E_03_r240P.mp4",
+            "checksum": "95e3d772c7af49c4db32d5d714f1f994",
+            "filesize": 6252558,
+            "modifiedDatetime": "2022-04-18T06:23:05.000Z",
+            "bitRate": 182.7710031092852,
+            "duration": 267.264,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.715,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/6d/jwb-088_E_03.vtt",
+                "modifiedDatetime": "2022-04-18T06:22:51.000Z",
+                "checksum": "30e8f7837e55fa192147cc40b5823700"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/25/jwb-088_E_03_r360P.mp4",
+            "checksum": "a1cf941011e065a3dc17566822bfd960",
+            "filesize": 11042895,
+            "modifiedDatetime": "2022-04-18T06:23:03.000Z",
+            "bitRate": 322.84393862708487,
+            "duration": 267.227,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/6d/jwb-088_E_03.vtt",
+                "modifiedDatetime": "2022-04-18T06:22:51.000Z",
+                "checksum": "30e8f7837e55fa192147cc40b5823700"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/60/jwb-088_E_03_r480P.mp4",
+            "checksum": "9d88c81ace2d8229455cbb8ef915bb35",
+            "filesize": 19380952,
+            "modifiedDatetime": "2022-04-18T06:23:00.000Z",
+            "bitRate": 566.6107373132206,
+            "duration": 267.227,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/6d/jwb-088_E_03.vtt",
+                "modifiedDatetime": "2022-04-18T06:22:51.000Z",
+                "checksum": "30e8f7837e55fa192147cc40b5823700"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/74/jwb-088_E_03_r720P.mp4",
+            "checksum": "965ef1a9efb67319e3b8f60a954e033e",
+            "filesize": 30600143,
+            "modifiedDatetime": "2022-04-18T06:22:55.000Z",
+            "bitRate": 894.6087677798278,
+            "duration": 267.227,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/6d/jwb-088_E_03.vtt",
+                "modifiedDatetime": "2022-04-18T06:22:51.000Z",
+                "checksum": "30e8f7837e55fa192147cc40b5823700"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-088-3.v",
+        "jwb-088-3"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/6d/jwb-088_E_03.vtt",
+    "Name": "pub-jwb-088_E_3_VIDEO",
+    "Title": "For a Happy Marriage: Show Affection",
+    "UndatedReferenceTitle": "For a Happy Marriage: Show Affection",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "SeriesHappyMarriage"
+}

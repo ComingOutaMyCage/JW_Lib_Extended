@@ -1,0 +1,102 @@
+{
+    "guid": "6196c377d4a4e5a332a62bfc",
+    "languageAgnosticNaturalKey": "pub-jwb-085_4_VIDEO",
+    "naturalKey": "pub-jwb-085_E_4_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtGilead",
+    "description": "",
+    "firstPublished": "2021-12-21T15:41:12.691Z",
+    "duration": 1820.118,
+    "durationFormattedHHMM": "30:20",
+    "durationFormattedMinSec": "30m 20s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/27/jwb-085_E_04_r240P.mp4",
+            "checksum": "97ca2b5fea7059eb7315cd474cae1090",
+            "filesize": 37715005,
+            "modifiedDatetime": "2021-12-21T15:01:09.000Z",
+            "bitRate": 161.8842715486029,
+            "duration": 1820.118,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.732,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/af/jwb-085_E_04.vtt",
+                "modifiedDatetime": "2021-12-21T15:00:48.000Z",
+                "checksum": "73397ae8d44a8ea7837714cf2cf4b744"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/39/jwb-085_E_04_r360P.mp4",
+            "checksum": "b61d631f253cb784716e71925f3410c8",
+            "filesize": 78548901,
+            "modifiedDatetime": "2021-12-21T15:01:04.000Z",
+            "bitRate": 337.16003234034486,
+            "duration": 1820.095,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/af/jwb-085_E_04.vtt",
+                "modifiedDatetime": "2021-12-21T15:00:48.000Z",
+                "checksum": "73397ae8d44a8ea7837714cf2cf4b744"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/89/jwb-085_E_04_r480P.mp4",
+            "checksum": "8da718585d2156936e24e05d046f79b9",
+            "filesize": 147827932,
+            "modifiedDatetime": "2021-12-21T15:00:58.000Z",
+            "bitRate": 634.5304606352965,
+            "duration": 1820.095,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/af/jwb-085_E_04.vtt",
+                "modifiedDatetime": "2021-12-21T15:00:48.000Z",
+                "checksum": "73397ae8d44a8ea7837714cf2cf4b744"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/f9/jwb-085_E_04_r720P.mp4",
+            "checksum": "69c705fbc6fd5b8b36c48a1da5badb21",
+            "filesize": 251707571,
+            "modifiedDatetime": "2021-12-21T15:00:50.000Z",
+            "bitRate": 1080.4190981446022,
+            "duration": 1820.095,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/af/jwb-085_E_04.vtt",
+                "modifiedDatetime": "2021-12-21T15:00:48.000Z",
+                "checksum": "73397ae8d44a8ea7837714cf2cf4b744"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-085-4.v",
+        "jwb-085-4"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/af/jwb-085_E_04.vtt",
+    "Name": "pub-jwb-085_E_4_VIDEO",
+    "Title": "150th Gilead Graduation—The Inside Story",
+    "UndatedReferenceTitle": "150th Gilead Graduation—The Inside Story",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODPgmEvtGilead"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "5b2d6543329d2b18632ded86",
+    "languageAgnosticNaturalKey": "pub-jwb_201807_8_VIDEO",
+    "naturalKey": "pub-jwb_E_201807_8_VIDEO",
+    "type": "video",
+    "primaryCategory": "Reports",
+    "description": "",
+    "firstPublished": "2018-07-09T13:34:13.879Z",
+    "duration": 579.52,
+    "durationFormattedHHMM": "9:39",
+    "durationFormattedMinSec": "9m 39s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/d7/jwb_E_201807_08_r240P.mp4",
+            "checksum": "aba97383f7eb6f3ec1cc29a404c606f4",
+            "filesize": 12923186,
+            "modifiedDatetime": "2020-11-21T06:36:18.000Z",
+            "bitRate": 174.2172670917311,
+            "duration": 579.52,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.46,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/ed/jwb_E_201807_08_r240P.vtt",
+                "modifiedDatetime": "2018-07-09T13:23:27.000Z",
+                "checksum": "2febbd2cce53604042f36001d6312108"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/c7/jwb_E_201807_08_r360P.mp4",
+            "checksum": "9629954d7e144763b09443943108e66b",
+            "filesize": 25123080,
+            "modifiedDatetime": "2018-07-09T13:23:28.000Z",
+            "bitRate": 338.6972883379897,
+            "duration": 579.497,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/c9/jwb_E_201807_08_r360P.vtt",
+                "modifiedDatetime": "2018-07-09T13:23:30.000Z",
+                "checksum": "2febbd2cce53604042f36001d6312108"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/75/jwb_E_201807_08_r480P.mp4",
+            "checksum": "b4f3c97103b9284a06f298a1ae9a4842",
+            "filesize": 45346993,
+            "modifiedDatetime": "2018-07-09T13:23:30.000Z",
+            "bitRate": 611.346362125257,
+            "duration": 579.497,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/83/jwb_E_201807_08_r480P.vtt",
+                "modifiedDatetime": "2018-07-09T13:23:33.000Z",
+                "checksum": "2febbd2cce53604042f36001d6312108"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/fc/jwb_E_201807_08_r720P.mp4",
+            "checksum": "ba4dad13b0f548bd9365137128ffc75d",
+            "filesize": 74081226,
+            "modifiedDatetime": "2018-07-09T13:23:34.000Z",
+            "bitRate": 998.7274793916104,
+            "duration": 579.497,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/fa/jwb_E_201807_08_r720P.vtt",
+                "modifiedDatetime": "2018-07-09T13:23:38.000Z",
+                "checksum": "2febbd2cce53604042f36001d6312108"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201807-8.v",
+        "jwb.201807-8"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/ed/jwb_E_201807_08_r240P.vtt",
+    "Name": "pub-jwb_E_201807_8_VIDEO",
+    "Title": "2017 Teaching Committee Report",
+    "UndatedReferenceTitle": "2017 Teaching Committee Report",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "Reports"
+}

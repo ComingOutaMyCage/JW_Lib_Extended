@@ -1,0 +1,102 @@
+{
+    "guid": "62333927dedf1bc789d347c3",
+    "languageAgnosticNaturalKey": "pub-jwb-089_15_VIDEO",
+    "naturalKey": "pub-jwb-089_E_15_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2022-05-20T13:56:27.975Z",
+    "duration": 640.576,
+    "durationFormattedHHMM": "10:40",
+    "durationFormattedMinSec": "10m 40s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/a6/jwb-089_E_15_r240P.mp4",
+            "checksum": "51ed8f16df5a393f0369f05d7aff8644",
+            "filesize": 10212742,
+            "modifiedDatetime": "2022-05-20T13:53:21.000Z",
+            "bitRate": 124.55516109720001,
+            "duration": 640.576,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/01/jwb-089_E_15.vtt",
+                "modifiedDatetime": "2022-05-20T13:53:10.000Z",
+                "checksum": "6fcb321e1b35a78565649a50f183802e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/ab/jwb-089_E_15_r360P.mp4",
+            "checksum": "ab01c0f8143db1eb4a005d22f4cf552c",
+            "filesize": 20036993,
+            "modifiedDatetime": "2022-05-20T13:53:16.000Z",
+            "bitRate": 244.38027618627598,
+            "duration": 640.555,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/01/jwb-089_E_15.vtt",
+                "modifiedDatetime": "2022-05-20T13:53:10.000Z",
+                "checksum": "6fcb321e1b35a78565649a50f183802e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/39/jwb-089_E_15_r480P.mp4",
+            "checksum": "4496b385466f0d7cadba38af85aeefc3",
+            "filesize": 34346515,
+            "modifiedDatetime": "2022-05-20T13:53:14.000Z",
+            "bitRate": 418.90571213635053,
+            "duration": 640.555,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/01/jwb-089_E_15.vtt",
+                "modifiedDatetime": "2022-05-20T13:53:10.000Z",
+                "checksum": "6fcb321e1b35a78565649a50f183802e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/1f/jwb-089_E_15_r720P.mp4",
+            "checksum": "b0b56ba1522f61fbe8de61a33fbfa02e",
+            "filesize": 57716648,
+            "modifiedDatetime": "2022-05-20T13:53:11.000Z",
+            "bitRate": 703.9384791313784,
+            "duration": 640.555,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/01/jwb-089_E_15.vtt",
+                "modifiedDatetime": "2022-05-20T13:53:10.000Z",
+                "checksum": "6fcb321e1b35a78565649a50f183802e"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-089-15.v",
+        "jwb-089-15"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/01/jwb-089_E_15.vtt",
+    "Name": "pub-jwb-089_E_15_VIDEO",
+    "Title": "Leon Weaver, Jr.: Don’t Give Up in Preaching—Circumstances Change (Acts 16:26-31)",
+    "UndatedReferenceTitle": "Leon Weaver, Jr.: Don’t Give Up in Preaching—Circumstances Change (Acts 16:26-31)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

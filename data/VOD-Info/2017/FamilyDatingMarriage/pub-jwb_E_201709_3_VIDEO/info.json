@@ -1,0 +1,178 @@
+{
+    "guid": "5989d07b3084072320737e48",
+    "languageAgnosticNaturalKey": "pub-jwb_201709_3_VIDEO",
+    "naturalKey": "pub-jwb_E_201709_3_VIDEO",
+    "type": "video",
+    "primaryCategory": "FamilyDatingMarriage",
+    "description": "",
+    "firstPublished": "2017-09-18T17:53:39.186Z",
+    "duration": 306.852,
+    "durationFormattedHHMM": "5:06",
+    "durationFormattedMinSec": "5m 6s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/50/jwb_s-Sub_E_201709_03_r240P.mp4",
+            "checksum": "292d65a336d6eb5e85f1dd069886a24d",
+            "filesize": 13379688,
+            "modifiedDatetime": "2020-11-07T08:18:06.000Z",
+            "bitRate": 340.648952915412,
+            "duration": 306.852,
+            "frameHeight": 180,
+            "frameWidth": 320,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": true,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/79/jwb_E_201709_03_r240P.vtt",
+                "modifiedDatetime": "2019-02-22T00:44:47.000Z",
+                "checksum": "16930111fae0934bdb290d036fdcf943"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/36/jwb_E_201709_03_r240P.mp4",
+            "checksum": "1f3faf4fadf486176ecf0ff6fd9236e3",
+            "filesize": 13530629,
+            "modifiedDatetime": "2020-11-06T20:30:16.000Z",
+            "bitRate": 344.5177576516561,
+            "duration": 306.829,
+            "frameHeight": 180,
+            "frameWidth": 320,
+            "label": "240p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/79/jwb_E_201709_03_r240P.vtt",
+                "modifiedDatetime": "2019-02-22T00:44:47.000Z",
+                "checksum": "16930111fae0934bdb290d036fdcf943"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/04/jwb_E_201709_03_r360P.mp4",
+            "checksum": "f8623aaf5918fd386f2a722049eaccd1",
+            "filesize": 32194351,
+            "modifiedDatetime": "2019-02-22T00:44:51.000Z",
+            "bitRate": 819.7943347194758,
+            "duration": 306.8066666666667,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/43/jwb_E_201709_03_r360P.vtt",
+                "modifiedDatetime": "2019-02-22T00:44:51.000Z",
+                "checksum": "16930111fae0934bdb290d036fdcf943"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/4e/jwb_s-Sub_E_201709_03_r360P.mp4",
+            "checksum": "7be94f8791515d0fd680e054e2a19764",
+            "filesize": 32156338,
+            "modifiedDatetime": "2019-02-22T02:52:50.000Z",
+            "bitRate": 818.8268195915014,
+            "duration": 306.8065,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 44.056,
+            "mimetype": "video/mp4",
+            "subtitled": true,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/43/jwb_E_201709_03_r360P.vtt",
+                "modifiedDatetime": "2019-02-22T00:44:51.000Z",
+                "checksum": "16930111fae0934bdb290d036fdcf943"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/0d/jwb_E_201709_03_r480P.mp4",
+            "checksum": "c598e17cc220aabe398bc88ea0baca3c",
+            "filesize": 43748217,
+            "modifiedDatetime": "2019-02-22T00:45:33.000Z",
+            "bitRate": 1114.0010385883618,
+            "duration": 306.8066666666667,
+            "frameHeight": 480,
+            "frameWidth": 854,
+            "label": "480p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/80/jwb_E_201709_03_r480P.vtt",
+                "modifiedDatetime": "2019-02-22T00:45:33.000Z",
+                "checksum": "16930111fae0934bdb290d036fdcf943"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/7d/jwb_s-Sub_E_201709_03_r480P.mp4",
+            "checksum": "651ae7f5afcd430c2521a7b2132d1a1f",
+            "filesize": 43854068,
+            "modifiedDatetime": "2019-02-22T02:52:59.000Z",
+            "bitRate": 1116.6970264645631,
+            "duration": 306.8065,
+            "frameHeight": 480,
+            "frameWidth": 854,
+            "label": "480p",
+            "frameRate": 44.056,
+            "mimetype": "video/mp4",
+            "subtitled": true,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/80/jwb_E_201709_03_r480P.vtt",
+                "modifiedDatetime": "2019-02-22T00:45:33.000Z",
+                "checksum": "16930111fae0934bdb290d036fdcf943"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/c4/jwb_s-Sub_E_201709_03_r720P.mp4",
+            "checksum": "ae55101f30ebda6df1e42d9352627c45",
+            "filesize": 62665806,
+            "modifiedDatetime": "2019-02-22T02:53:32.000Z",
+            "bitRate": 1595.717852701947,
+            "duration": 306.8065,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 44.056,
+            "mimetype": "video/mp4",
+            "subtitled": true,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/69/jwb_E_201709_03_r720P.vtt",
+                "modifiedDatetime": "2019-02-22T00:45:45.000Z",
+                "checksum": "16930111fae0934bdb290d036fdcf943"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/55/jwb_E_201709_03_r720P.mp4",
+            "checksum": "8c777118bde7520b1af68bd1dfe50e34",
+            "filesize": 62908691,
+            "modifiedDatetime": "2019-02-22T00:45:44.000Z",
+            "bitRate": 1601.90178974001,
+            "duration": 306.8066666666667,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/69/jwb_E_201709_03_r720P.vtt",
+                "modifiedDatetime": "2019-02-22T00:45:45.000Z",
+                "checksum": "16930111fae0934bdb290d036fdcf943"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201709-3.v",
+        "jwb.201709-3"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/79/jwb_E_201709_03_r240P.vtt",
+    "Name": "pub-jwb_E_201709_3_VIDEO",
+    "Title": "Strengthen Your Marriage",
+    "UndatedReferenceTitle": "Strengthen Your Marriage",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2017,
+    "Symbol": "FamilyDatingMarriage"
+}

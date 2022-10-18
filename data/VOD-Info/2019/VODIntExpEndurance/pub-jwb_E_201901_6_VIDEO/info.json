@@ -1,0 +1,102 @@
+{
+    "guid": "5bb606a8a51af8eef456ad73",
+    "languageAgnosticNaturalKey": "pub-jwb_201901_6_VIDEO",
+    "naturalKey": "pub-jwb_E_201901_6_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpEndurance",
+    "description": "",
+    "firstPublished": "2019-01-07T12:38:33.541Z",
+    "duration": 566.4,
+    "durationFormattedHHMM": "9:26",
+    "durationFormattedMinSec": "9m 26s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/cd/jwb_E_201901_06_r240P.mp4",
+            "checksum": "0cdccb8da8406a37fe0e660c26348cf0",
+            "filesize": 10485364,
+            "modifiedDatetime": "2020-11-21T06:36:48.000Z",
+            "bitRate": 144.62730623234464,
+            "duration": 566.4,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.952,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/2b/jwb_E_201901_06.vtt",
+                "modifiedDatetime": "2019-01-07T12:36:25.000Z",
+                "checksum": "a33ea942874131473070fa06238dfb3a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/7f/jwb_E_201901_06_r360P.mp4",
+            "checksum": "787fd930a8ba72b16317be58b6c4796c",
+            "filesize": 21400202,
+            "modifiedDatetime": "2019-01-07T12:36:29.000Z",
+            "bitRate": 295.19982577305205,
+            "duration": 566.359,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/2b/jwb_E_201901_06.vtt",
+                "modifiedDatetime": "2019-01-07T12:36:25.000Z",
+                "checksum": "a33ea942874131473070fa06238dfb3a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/ba/jwb_E_201901_06_r480P.mp4",
+            "checksum": "ae49153a43b1c78644beeabaad9ccc9a",
+            "filesize": 37907276,
+            "modifiedDatetime": "2019-01-07T12:36:34.000Z",
+            "bitRate": 522.9026002058764,
+            "duration": 566.359,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/2b/jwb_E_201901_06.vtt",
+                "modifiedDatetime": "2019-01-07T12:36:25.000Z",
+                "checksum": "a33ea942874131473070fa06238dfb3a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/a0/jwb_E_201901_06_r720P.mp4",
+            "checksum": "8604ffff27db22ab0daa5621ffd811a7",
+            "filesize": 61042348,
+            "modifiedDatetime": "2019-01-07T12:36:39.000Z",
+            "bitRate": 842.0336637185954,
+            "duration": 566.359,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/2b/jwb_E_201901_06.vtt",
+                "modifiedDatetime": "2019-01-07T12:36:25.000Z",
+                "checksum": "a33ea942874131473070fa06238dfb3a"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201901-6.v",
+        "jwb.201901-6"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/2b/jwb_E_201901_06.vtt",
+    "Name": "pub-jwb_E_201901_6_VIDEO",
+    "Title": "Gerrit Lösch: Maintaining Unity Under Ban",
+    "UndatedReferenceTitle": "Gerrit Lösch: Maintaining Unity Under Ban",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODIntExpEndurance"
+}

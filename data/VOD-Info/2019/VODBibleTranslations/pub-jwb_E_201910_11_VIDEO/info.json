@@ -1,0 +1,102 @@
+{
+    "guid": "5d79553dad989978fb66aa03",
+    "languageAgnosticNaturalKey": "pub-jwb_201910_11_VIDEO",
+    "naturalKey": "pub-jwb_E_201910_11_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODBibleTranslations",
+    "description": "",
+    "firstPublished": "2019-10-10T15:21:29.119Z",
+    "duration": 277.675,
+    "durationFormattedHHMM": "4:37",
+    "durationFormattedMinSec": "4m 37s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/d3/jwb_E_201910_11_r240P.mp4",
+            "checksum": "cc6a2fc472211c6dc9941b7a65f6656a",
+            "filesize": 11238434,
+            "modifiedDatetime": "2020-11-21T06:37:35.000Z",
+            "bitRate": 316.19794949131176,
+            "duration": 277.675,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.928,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/94/jwb_E_201910_11.vtt",
+                "modifiedDatetime": "2019-10-10T15:17:27.000Z",
+                "checksum": "370692469f25de6ecdd1aeb0d586645c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/12/jwb_E_201910_11_r360P.mp4",
+            "checksum": "1cd76f641d8ee66a09c361a7bba3c05c",
+            "filesize": 20803667,
+            "modifiedDatetime": "2019-10-10T15:17:07.000Z",
+            "bitRate": 585.3639725611732,
+            "duration": 277.654,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/94/jwb_E_201910_11.vtt",
+                "modifiedDatetime": "2019-10-10T15:17:27.000Z",
+                "checksum": "370692469f25de6ecdd1aeb0d586645c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/29/jwb_E_201910_11_r480P.mp4",
+            "checksum": "c9d53bccf23b85ccf89e1e8fc4774e8e",
+            "filesize": 39424529,
+            "modifiedDatetime": "2019-10-10T15:17:12.000Z",
+            "bitRate": 1109.3091862984145,
+            "duration": 277.654,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/94/jwb_E_201910_11.vtt",
+                "modifiedDatetime": "2019-10-10T15:17:27.000Z",
+                "checksum": "370692469f25de6ecdd1aeb0d586645c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/02/jwb_E_201910_11_r720P.mp4",
+            "checksum": "66269cb63978974dbd2bef5a16ce6aa0",
+            "filesize": 67891122,
+            "modifiedDatetime": "2019-10-10T15:17:16.000Z",
+            "bitRate": 1910.2890310422324,
+            "duration": 277.654,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/94/jwb_E_201910_11.vtt",
+                "modifiedDatetime": "2019-10-10T15:17:27.000Z",
+                "checksum": "370692469f25de6ecdd1aeb0d586645c"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201910-11.v",
+        "jwb.201910-11"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/94/jwb_E_201910_11.vtt",
+    "Name": "pub-jwb_E_201910_11_VIDEO",
+    "Title": "Release of the Revised New World Translation in Italian",
+    "UndatedReferenceTitle": "Release of the Revised New World Translation in Italian",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODBibleTranslations"
+}

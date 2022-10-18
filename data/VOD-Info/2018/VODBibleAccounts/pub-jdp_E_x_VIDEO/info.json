@@ -1,0 +1,102 @@
+{
+    "guid": "58d950e4a25a39c2e32af27f",
+    "languageAgnosticNaturalKey": "pub-jdp_x_VIDEO",
+    "naturalKey": "pub-jdp_E_x_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODBibleAccounts",
+    "description": "",
+    "firstPublished": "2017-12-31T23:34:44.159Z",
+    "duration": 1838.0033333333,
+    "durationFormattedHHMM": "30:38",
+    "durationFormattedMinSec": "30m 38s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/24/jdp_E_r240P.mp4",
+            "checksum": "81feba4e0a5bf9dd176c45e68fdc5fa5",
+            "filesize": 64323795,
+            "modifiedDatetime": "2020-11-27T09:57:30.000Z",
+            "bitRate": 273.41067911069786,
+            "duration": 1838.003,
+            "frameHeight": 180,
+            "frameWidth": 320,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/a3/jdp_E_r240P.vtt",
+                "modifiedDatetime": "2019-01-17T22:51:20.000Z",
+                "checksum": "e9b6952a94d82a546488480cc1b1e673"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/52/jdp_E_r360P.mp4",
+            "checksum": "7f307243e1b549afb0bbb26cb1ad7264",
+            "filesize": 176547301,
+            "modifiedDatetime": "2019-01-17T22:51:40.000Z",
+            "bitRate": 750.4207223395632,
+            "duration": 1838.0033333333,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/84/jdp_E_r360P.vtt",
+                "modifiedDatetime": "2019-01-17T22:51:40.000Z",
+                "checksum": "e9b6952a94d82a546488480cc1b1e673"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/c2/jdp_E_r480P.mp4",
+            "checksum": "79d6bb392b6a089e3615ca7d325e307d",
+            "filesize": 236981196,
+            "modifiedDatetime": "2019-01-17T22:52:00.000Z",
+            "bitRate": 1007.2971904748271,
+            "duration": 1838.0033333333,
+            "frameHeight": 480,
+            "frameWidth": 854,
+            "label": "480p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/d7/jdp_E_r480P.vtt",
+                "modifiedDatetime": "2019-01-17T22:52:01.000Z",
+                "checksum": "e9b6952a94d82a546488480cc1b1e673"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/8f/jdp_E_r720P.mp4",
+            "checksum": "2018fd1df40cc17da16b4e9f827fb5e7",
+            "filesize": 369972609,
+            "modifiedDatetime": "2019-01-17T22:52:38.000Z",
+            "bitRate": 1572.5820271340926,
+            "duration": 1838.0033333333,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/c9/jdp_E_r720P.vtt",
+                "modifiedDatetime": "2019-01-17T22:52:39.000Z",
+                "checksum": "e9b6952a94d82a546488480cc1b1e673"
+            }
+        }
+    ],
+    "printReferences": [
+        "jdp.v",
+        "jdp"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/a3/jdp_E_r240P.vtt",
+    "Name": "pub-jdp_E_x_VIDEO",
+    "Title": "Jehovah Delivers His People (Exodus 3:​1-22; 4:​1-9; 5:​1-9; 6:​1-8; 7:​1-7; 14:​5-10, 13-31; 15:​1-21.)",
+    "UndatedReferenceTitle": "Jehovah Delivers His People (Exodus 3:​1-22; 4:​1-9; 5:​1-9; 6:​1-8; 7:​1-7; 14:​5-10, 13-31; 15:​1-21.)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "VODBibleAccounts"
+}

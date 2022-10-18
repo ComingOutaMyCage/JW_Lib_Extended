@@ -1,0 +1,102 @@
+{
+    "guid": "5ee77c60af341cff13f0efbc",
+    "languageAgnosticNaturalKey": "pub-osg_64_VIDEO",
+    "naturalKey": "pub-osg_E_64_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODOriginalSongs",
+    "description": "",
+    "firstPublished": "2020-10-19T12:50:02.873Z",
+    "duration": 225.477,
+    "durationFormattedHHMM": "3:45",
+    "durationFormattedMinSec": "3m 45s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/f5/osg_E_064_r240P.mp4",
+            "checksum": "804a53ccd22eeae5b216db97b410b874",
+            "filesize": 6647559,
+            "modifiedDatetime": "2020-10-19T12:49:50.000Z",
+            "bitRate": 230.3297218230684,
+            "duration": 225.477,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.46,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/d5/osg_E_064.vtt",
+                "modifiedDatetime": "2020-10-19T12:49:48.000Z",
+                "checksum": "257e69931701bbea63066ac621943adf"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/55/osg_E_064_r360P.mp4",
+            "checksum": "3e8d985597213fb7ffac213aa018020d",
+            "filesize": 7986069,
+            "modifiedDatetime": "2020-10-19T12:49:52.000Z",
+            "bitRate": 276.70744272143054,
+            "duration": 225.477,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/d5/osg_E_064.vtt",
+                "modifiedDatetime": "2020-10-19T12:49:48.000Z",
+                "checksum": "257e69931701bbea63066ac621943adf"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/45/osg_E_064_r480P.mp4",
+            "checksum": "1821702cdd30836bc70c68be7e153a07",
+            "filesize": 14108733,
+            "modifiedDatetime": "2020-10-19T12:49:57.000Z",
+            "bitRate": 488.8502000758392,
+            "duration": 225.477,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/d5/osg_E_064.vtt",
+                "modifiedDatetime": "2020-10-19T12:49:48.000Z",
+                "checksum": "257e69931701bbea63066ac621943adf"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/1a/osg_E_064_r720P.mp4",
+            "checksum": "8dad8f8d359112f14655d801dbd139bb",
+            "filesize": 22667416,
+            "modifiedDatetime": "2020-10-19T12:49:59.000Z",
+            "bitRate": 785.3980117706019,
+            "duration": 225.477,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/d5/osg_E_064.vtt",
+                "modifiedDatetime": "2020-10-19T12:49:48.000Z",
+                "checksum": "257e69931701bbea63066ac621943adf"
+            }
+        }
+    ],
+    "printReferences": [
+        "osg-64.v",
+        "osg-64"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/d5/osg_E_064.vtt",
+    "Name": "pub-osg_E_64_VIDEO",
+    "Title": "Forgive Freely",
+    "UndatedReferenceTitle": "Forgive Freely",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODOriginalSongs"
+}

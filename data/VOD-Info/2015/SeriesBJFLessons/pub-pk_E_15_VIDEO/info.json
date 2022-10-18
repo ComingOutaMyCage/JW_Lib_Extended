@@ -1,0 +1,102 @@
+{
+    "guid": "553647237f0bc1fc27069baf",
+    "languageAgnosticNaturalKey": "pub-pk_15_VIDEO",
+    "naturalKey": "pub-pk_E_15_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBJFLessons",
+    "description": "",
+    "firstPublished": "2015-02-02T19:15:07.000Z",
+    "duration": 93.611,
+    "durationFormattedHHMM": "1:33",
+    "durationFormattedMinSec": "1m 33s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/70/pk_E_015_r240P.mp4",
+            "checksum": "8a3cf7ca33b8fb4810e6ab8721ae5a7b",
+            "filesize": 3211019,
+            "modifiedDatetime": "2021-11-15T19:12:19.000Z",
+            "bitRate": 267.9822450085994,
+            "duration": 93.611,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.814,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/0b/pk_E_015.vtt",
+                "modifiedDatetime": "2021-11-15T19:12:12.000Z",
+                "checksum": "914d395b088f0916f123f1de68ea559c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/1e/pk_E_015_r360P.mp4",
+            "checksum": "31567a6b85c3bd3fc119e321dc02a8ad",
+            "filesize": 5394147,
+            "modifiedDatetime": "2021-11-15T19:12:23.000Z",
+            "bitRate": 450.30478642410645,
+            "duration": 93.585,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/0b/pk_E_015.vtt",
+                "modifiedDatetime": "2021-11-15T19:12:12.000Z",
+                "checksum": "914d395b088f0916f123f1de68ea559c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/8d/pk_E_015_r480P.mp4",
+            "checksum": "cbe5cc22492eb5dfd9f2d0613739bae6",
+            "filesize": 9737863,
+            "modifiedDatetime": "2021-11-15T19:12:27.000Z",
+            "bitRate": 812.9193213388899,
+            "duration": 93.585,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/0b/pk_E_015.vtt",
+                "modifiedDatetime": "2021-11-15T19:12:12.000Z",
+                "checksum": "914d395b088f0916f123f1de68ea559c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/df/pk_E_015_r720P.mp4",
+            "checksum": "7878e264f4f477c6e8569e345db82699",
+            "filesize": 16200581,
+            "modifiedDatetime": "2021-11-15T19:12:31.000Z",
+            "bitRate": 1352.4286911631139,
+            "duration": 93.585,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/0b/pk_E_015.vtt",
+                "modifiedDatetime": "2021-11-15T19:12:12.000Z",
+                "checksum": "914d395b088f0916f123f1de68ea559c"
+            }
+        }
+    ],
+    "printReferences": [
+        "pk-15.v",
+        "pk-15"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/0b/pk_E_015.vtt",
+    "Name": "pub-pk_E_15_VIDEO",
+    "Title": "Pay Attention at the Meetings",
+    "UndatedReferenceTitle": "Pay Attention at the Meetings",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2015,
+    "Symbol": "SeriesBJFLessons"
+}

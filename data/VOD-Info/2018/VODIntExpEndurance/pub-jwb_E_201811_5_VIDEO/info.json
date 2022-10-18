@@ -1,0 +1,102 @@
+{
+    "guid": "5bb26a06a51af8eef456a6d7",
+    "languageAgnosticNaturalKey": "pub-jwb_201811_5_VIDEO",
+    "naturalKey": "pub-jwb_E_201811_5_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpEndurance",
+    "description": "",
+    "firstPublished": "2018-11-19T16:25:33.719Z",
+    "duration": 263.595,
+    "durationFormattedHHMM": "4:23",
+    "durationFormattedMinSec": "4m 23s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/3f/jwb_E_201811_05_r240P.mp4",
+            "checksum": "16f6af9533c33f8adce48d7261146d49",
+            "filesize": 6693987,
+            "modifiedDatetime": "2020-11-06T23:26:45.000Z",
+            "bitRate": 198.39819965287654,
+            "duration": 263.595,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.692,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/11/jwb_E_201811_05.vtt",
+                "modifiedDatetime": "2018-11-19T15:08:43.000Z",
+                "checksum": "a0a893dc5eb95ff4d3c8cb194e55f26f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/d3/jwb_E_201811_05_r360P.mp4",
+            "checksum": "be8bde62e29f5b9d210694fea87fcf5d",
+            "filesize": 12632726,
+            "modifiedDatetime": "2018-11-19T15:08:51.000Z",
+            "bitRate": 374.4675586023464,
+            "duration": 263.556,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/11/jwb_E_201811_05.vtt",
+                "modifiedDatetime": "2018-11-19T15:08:43.000Z",
+                "checksum": "a0a893dc5eb95ff4d3c8cb194e55f26f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/5a/jwb_E_201811_05_r480P.mp4",
+            "checksum": "7b2d3cc18195f36ce28bb2d8fa95c03d",
+            "filesize": 23993582,
+            "modifiedDatetime": "2018-11-19T15:08:54.000Z",
+            "bitRate": 711.2335115686989,
+            "duration": 263.556,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/11/jwb_E_201811_05.vtt",
+                "modifiedDatetime": "2018-11-19T15:08:43.000Z",
+                "checksum": "a0a893dc5eb95ff4d3c8cb194e55f26f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/8b/jwb_E_201811_05_r720P.mp4",
+            "checksum": "2df9cedca071e076b8d1f55efc47f0aa",
+            "filesize": 44464907,
+            "modifiedDatetime": "2018-11-19T15:09:00.000Z",
+            "bitRate": 1318.057968467802,
+            "duration": 263.556,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/11/jwb_E_201811_05.vtt",
+                "modifiedDatetime": "2018-11-19T15:08:43.000Z",
+                "checksum": "a0a893dc5eb95ff4d3c8cb194e55f26f"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201811-5.v",
+        "jwb.201811-5"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/11/jwb_E_201811_05.vtt",
+    "Name": "pub-jwb_E_201811_5_VIDEO",
+    "Title": "Viktor Winter: Good Is More Powerful Than Evil",
+    "UndatedReferenceTitle": "Viktor Winter: Good Is More Powerful Than Evil",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "VODIntExpEndurance"
+}

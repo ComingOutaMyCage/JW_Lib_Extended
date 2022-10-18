@@ -1,0 +1,102 @@
+{
+    "guid": "5cd42b5e48fd57354cf2fbb1",
+    "languageAgnosticNaturalKey": "docid-502019461_1_VIDEO",
+    "naturalKey": "docid-502019461_E_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesWasItDesigned",
+    "description": "",
+    "firstPublished": "2019-07-22T13:57:37.368Z",
+    "duration": 96.747,
+    "durationFormattedHHMM": "1:36",
+    "durationFormattedMinSec": "1m 36s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/92/502019461_E_cnt_1_r240P.mp4",
+            "checksum": "7193471737a1060a2d6744700f20c98f",
+            "filesize": 4216226,
+            "modifiedDatetime": "2021-08-17T20:10:49.000Z",
+            "bitRate": 340.46808298965345,
+            "duration": 96.747,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.438,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/86/502019461_E_cnt_1.vtt",
+                "modifiedDatetime": "2021-02-16T22:00:32.000Z",
+                "checksum": "2d06098b4d479a96258baf8947be771a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/94/502019461_E_cnt_1_r360P.mp4",
+            "checksum": "425e5799e2f064f88b6408f523aa7dbf",
+            "filesize": 7295275,
+            "modifiedDatetime": "2021-08-17T20:10:52.000Z",
+            "bitRate": 589.2531862897139,
+            "duration": 96.723,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/86/502019461_E_cnt_1.vtt",
+                "modifiedDatetime": "2021-02-16T22:00:32.000Z",
+                "checksum": "2d06098b4d479a96258baf8947be771a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/d8/502019461_E_cnt_1_r480P.mp4",
+            "checksum": "2a5425274c3432e10ba0165e7747d2d7",
+            "filesize": 13726992,
+            "modifiedDatetime": "2021-08-17T20:10:58.000Z",
+            "bitRate": 1108.7551564777768,
+            "duration": 96.723,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/86/502019461_E_cnt_1.vtt",
+                "modifiedDatetime": "2021-02-16T22:00:32.000Z",
+                "checksum": "2d06098b4d479a96258baf8947be771a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/f0/502019461_E_cnt_1_r720P.mp4",
+            "checksum": "7d444d8be212055572149dbae421363d",
+            "filesize": 23541340,
+            "modifiedDatetime": "2021-08-17T20:11:01.000Z",
+            "bitRate": 1901.478642618612,
+            "duration": 96.723,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/86/502019461_E_cnt_1.vtt",
+                "modifiedDatetime": "2021-02-16T22:00:32.000Z",
+                "checksum": "2d06098b4d479a96258baf8947be771a"
+            }
+        }
+    ],
+    "printReferences": [
+        "502019461-1.v",
+        "502019461-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/content_assets/86/502019461_E_cnt_1.vtt",
+    "Name": "docid-502019461_E_1_VIDEO",
+    "Title": "Was It Designed? How Do Ants Avoid Traffic Jams?",
+    "UndatedReferenceTitle": "Was It Designed? How Do Ants Avoid Traffic Jams?",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "SeriesWasItDesigned"
+}

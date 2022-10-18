@@ -1,0 +1,102 @@
+{
+    "guid": "61f2078357c50ea1eb98b063",
+    "languageAgnosticNaturalKey": "docid-702022003_1_VIDEO",
+    "naturalKey": "docid-702022003_E_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "StudioNewsReports",
+    "description": "",
+    "firstPublished": "2022-01-28T11:14:48.217Z",
+    "duration": 1083.755,
+    "durationFormattedHHMM": "18:03",
+    "durationFormattedMinSec": "18m 3s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/d6/702022003_E_cnt_1_r240P.mp4",
+            "checksum": "95f0d3f99588133b0cb3f11d33c5de13",
+            "filesize": 16265908,
+            "modifiedDatetime": "2022-01-28T06:48:04.000Z",
+            "bitRate": 117.2565812845154,
+            "duration": 1083.755,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.703,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/30/702022003_E_cnt_1.vtt",
+                "modifiedDatetime": "2022-01-28T06:47:51.000Z",
+                "checksum": "33edc5a40d35fc1e5ebb5a21bb7dfeb6"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/9a/702022003_E_cnt_1_r360P.mp4",
+            "checksum": "34d9c9c539cb9227e7ae522c5b4eda51",
+            "filesize": 32782540,
+            "modifiedDatetime": "2022-01-28T06:48:01.000Z",
+            "bitRate": 236.32688866927614,
+            "duration": 1083.726,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/30/702022003_E_cnt_1.vtt",
+                "modifiedDatetime": "2022-01-28T06:47:51.000Z",
+                "checksum": "33edc5a40d35fc1e5ebb5a21bb7dfeb6"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/12/702022003_E_cnt_1_r480P.mp4",
+            "checksum": "1eb92681e64768d5dfc5b1f196a2424e",
+            "filesize": 56444710,
+            "modifiedDatetime": "2022-01-28T06:47:59.000Z",
+            "bitRate": 406.90570944593003,
+            "duration": 1083.726,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/30/702022003_E_cnt_1.vtt",
+                "modifiedDatetime": "2022-01-28T06:47:51.000Z",
+                "checksum": "33edc5a40d35fc1e5ebb5a21bb7dfeb6"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/91/702022003_E_cnt_1_r720P.mp4",
+            "checksum": "a91295c77e43c868eec06fcb85affea9",
+            "filesize": 90716802,
+            "modifiedDatetime": "2022-01-28T06:47:55.000Z",
+            "bitRate": 653.9706675165124,
+            "duration": 1083.726,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/30/702022003_E_cnt_1.vtt",
+                "modifiedDatetime": "2022-01-28T06:47:51.000Z",
+                "checksum": "33edc5a40d35fc1e5ebb5a21bb7dfeb6"
+            }
+        }
+    ],
+    "printReferences": [
+        "702022003-1.v",
+        "702022003-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/content_assets/30/702022003_E_cnt_1.vtt",
+    "Name": "docid-702022003_E_1_VIDEO",
+    "Title": "2022 Governing Body Update #1",
+    "UndatedReferenceTitle": "2022 Governing Body Update #1",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "StudioNewsReports"
+}

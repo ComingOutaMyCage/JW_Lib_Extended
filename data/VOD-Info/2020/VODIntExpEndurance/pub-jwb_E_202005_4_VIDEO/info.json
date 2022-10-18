@@ -1,0 +1,102 @@
+{
+    "guid": "5e45a3c2faacdecc13955e4c",
+    "languageAgnosticNaturalKey": "pub-jwb_202005_4_VIDEO",
+    "naturalKey": "pub-jwb_E_202005_4_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpEndurance",
+    "description": "",
+    "firstPublished": "2020-05-18T17:25:17.893Z",
+    "duration": 541.952,
+    "durationFormattedHHMM": "9:01",
+    "durationFormattedMinSec": "9m 1s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/64/jwb_E_202005_04_r240P.mp4",
+            "checksum": "31baae690e11534fa2f1c2972d64fa95",
+            "filesize": 12537626,
+            "modifiedDatetime": "2020-10-18T03:02:55.000Z",
+            "bitRate": 180.73593809968412,
+            "duration": 541.952,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.506,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/2b/jwb_E_202005_04.vtt",
+                "modifiedDatetime": "2020-05-18T15:14:36.000Z",
+                "checksum": "68f5c276fa08297e74331815343b1707"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/04/jwb_E_202005_04_r360P.mp4",
+            "checksum": "9ee5feeaba21906a2875c42a1ab64372",
+            "filesize": 24145392,
+            "modifiedDatetime": "2020-05-18T15:14:25.000Z",
+            "bitRate": 348.0893327034717,
+            "duration": 541.918,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/2b/jwb_E_202005_04.vtt",
+                "modifiedDatetime": "2020-05-18T15:14:36.000Z",
+                "checksum": "68f5c276fa08297e74331815343b1707"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/61/jwb_E_202005_04_r480P.mp4",
+            "checksum": "f5387f384735e7b3c1d49007147ec33f",
+            "filesize": 43440795,
+            "modifiedDatetime": "2020-05-18T15:14:28.000Z",
+            "bitRate": 626.2593435492086,
+            "duration": 541.918,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/2b/jwb_E_202005_04.vtt",
+                "modifiedDatetime": "2020-05-18T15:14:36.000Z",
+                "checksum": "68f5c276fa08297e74331815343b1707"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/81/jwb_E_202005_04_r720P.mp4",
+            "checksum": "cdbb0f5ef21a4b2d87e51bf5f78e0f99",
+            "filesize": 70435142,
+            "modifiedDatetime": "2020-05-18T15:14:32.000Z",
+            "bitRate": 1015.4203161271631,
+            "duration": 541.918,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/2b/jwb_E_202005_04.vtt",
+                "modifiedDatetime": "2020-05-18T15:14:36.000Z",
+                "checksum": "68f5c276fa08297e74331815343b1707"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202005-4.v",
+        "jwb.202005-4"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/2b/jwb_E_202005_04.vtt",
+    "Name": "pub-jwb_E_202005_4_VIDEO",
+    "Title": "A United People in a Divided World",
+    "UndatedReferenceTitle": "A United People in a Divided World",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODIntExpEndurance"
+}

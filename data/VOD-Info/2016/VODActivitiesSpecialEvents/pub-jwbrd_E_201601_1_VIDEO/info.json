@@ -1,0 +1,102 @@
+{
+    "guid": "56688e4679892656f9a4194f",
+    "languageAgnosticNaturalKey": "pub-jwbrd_201601_1_VIDEO",
+    "naturalKey": "pub-jwbrd_E_201601_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODActivitiesSpecialEvents",
+    "description": "",
+    "firstPublished": "2016-01-18T21:41:59.718Z",
+    "duration": 379.158,
+    "durationFormattedHHMM": "6:19",
+    "durationFormattedMinSec": "6m 19s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/86/jwbrd_E_201601_01_r240P.mp4",
+            "checksum": "5526834006ef60187737e3be2a89dcaa",
+            "filesize": 21835484,
+            "modifiedDatetime": "2020-11-12T04:55:59.000Z",
+            "bitRate": 449.9172343719505,
+            "duration": 379.158,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.81,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/61/jwbrd_E_201601_01.vtt",
+                "modifiedDatetime": "2019-10-02T12:35:40.000Z",
+                "checksum": "86a3a10dbb41ea072ca3b51a474a7d12"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/ba/jwbrd_E_201601_01_r360P.mp4",
+            "checksum": "393cde30db858a6945af2225f59d6798",
+            "filesize": 39481073,
+            "modifiedDatetime": "2019-10-02T12:35:14.000Z",
+            "bitRate": 813.5623211365495,
+            "duration": 379.13,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/61/jwbrd_E_201601_01.vtt",
+                "modifiedDatetime": "2019-10-02T12:35:40.000Z",
+                "checksum": "86a3a10dbb41ea072ca3b51a474a7d12"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/c7/jwbrd_E_201601_01_r480P.mp4",
+            "checksum": "88963fb61cdbcd4e94114f09a1017aa9",
+            "filesize": 74737515,
+            "modifiedDatetime": "2019-10-02T12:35:03.000Z",
+            "bitRate": 1540.0702554203044,
+            "duration": 379.13,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/61/jwbrd_E_201601_01.vtt",
+                "modifiedDatetime": "2019-10-02T12:35:40.000Z",
+                "checksum": "86a3a10dbb41ea072ca3b51a474a7d12"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/29/jwbrd_E_201601_01_r720P.mp4",
+            "checksum": "69b460f1b1dbfca007dfae2a8d2b25e1",
+            "filesize": 125865509,
+            "modifiedDatetime": "2019-10-02T12:35:41.000Z",
+            "bitRate": 2593.63355329966,
+            "duration": 379.13,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/61/jwbrd_E_201601_01.vtt",
+                "modifiedDatetime": "2019-10-02T12:35:40.000Z",
+                "checksum": "86a3a10dbb41ea072ca3b51a474a7d12"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwbrd.201601-1.v",
+        "jwbrd.201601-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/61/jwbrd_E_201601_01.vtt",
+    "Name": "pub-jwbrd_E_201601_1_VIDEO",
+    "Title": "Large Convention in Stockholm—A Great Witness",
+    "UndatedReferenceTitle": "Large Convention in Stockholm—A Great Witness",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2016,
+    "Symbol": "VODActivitiesSpecialEvents"
+}

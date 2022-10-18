@@ -1,0 +1,102 @@
+{
+    "guid": "5bd21f9a960f5b04ef4a8d7d",
+    "languageAgnosticNaturalKey": "pub-jwb_201811_10_VIDEO",
+    "naturalKey": "pub-jwb_E_201811_10_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODOrgBethel",
+    "description": "",
+    "firstPublished": "2018-11-19T16:25:41.374Z",
+    "duration": 295.574,
+    "durationFormattedHHMM": "4:55",
+    "durationFormattedMinSec": "4m 55s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/03/jwb_E_201811_10_r240P.mp4",
+            "checksum": "556209551dc92ada41722b6400bfa409",
+            "filesize": 6722660,
+            "modifiedDatetime": "2020-11-03T22:15:38.000Z",
+            "bitRate": 177.6908024724773,
+            "duration": 295.574,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.857,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/72/jwb_E_201811_10.vtt",
+                "modifiedDatetime": "2018-11-19T15:09:51.000Z",
+                "checksum": "cc5b0c2d26d8b66a8ab8ec8721021624"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/16/jwb_E_201811_10_r360P.mp4",
+            "checksum": "8d7c22e6f2385241ea1b0c63bde7a370",
+            "filesize": 12572137,
+            "modifiedDatetime": "2018-11-19T15:09:55.000Z",
+            "bitRate": 332.33232045156944,
+            "duration": 295.547,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/72/jwb_E_201811_10.vtt",
+                "modifiedDatetime": "2018-11-19T15:09:51.000Z",
+                "checksum": "cc5b0c2d26d8b66a8ab8ec8721021624"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/d3/jwb_E_201811_10_r480P.mp4",
+            "checksum": "efa2d94cb434e1d1d29eeb309ce645d0",
+            "filesize": 22777076,
+            "modifiedDatetime": "2018-11-19T15:09:58.000Z",
+            "bitRate": 602.0900440539068,
+            "duration": 295.547,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/72/jwb_E_201811_10.vtt",
+                "modifiedDatetime": "2018-11-19T15:09:51.000Z",
+                "checksum": "cc5b0c2d26d8b66a8ab8ec8721021624"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/48/jwb_E_201811_10_r720P.mp4",
+            "checksum": "4d641c328b0c232252ded3ef4e3c9cc9",
+            "filesize": 38318286,
+            "modifiedDatetime": "2018-11-19T15:10:03.000Z",
+            "bitRate": 1012.9069466954494,
+            "duration": 295.547,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/72/jwb_E_201811_10.vtt",
+                "modifiedDatetime": "2018-11-19T15:09:51.000Z",
+                "checksum": "cc5b0c2d26d8b66a8ab8ec8721021624"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201811-10.v",
+        "jwb.201811-10"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/72/jwb_E_201811_10.vtt",
+    "Name": "pub-jwb_E_201811_10_VIDEO",
+    "Title": "Bethel Adjustments Support the Preaching Work",
+    "UndatedReferenceTitle": "Bethel Adjustments Support the Preaching Work",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "VODOrgBethel"
+}

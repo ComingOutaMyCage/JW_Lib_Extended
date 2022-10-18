@@ -1,0 +1,102 @@
+{
+    "guid": "5eea76e7af341cff13f83f5c",
+    "languageAgnosticNaturalKey": "docid-702020265_1_VIDEO",
+    "naturalKey": "docid-702020265_E_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "StudioNewsReports",
+    "description": "",
+    "firstPublished": "2020-06-22T15:11:22.866Z",
+    "duration": 328.534,
+    "durationFormattedHHMM": "5:28",
+    "durationFormattedMinSec": "5m 28s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/4f/702020265_E_cnt_1_r240P.mp4",
+            "checksum": "b8292da1c5a48ac7953bc958ee3dbbc8",
+            "filesize": 8604661,
+            "modifiedDatetime": "2020-11-01T18:16:43.000Z",
+            "bitRate": 204.6178296995136,
+            "duration": 328.534,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.46,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/52/702020265_E_cnt_1.vtt",
+                "modifiedDatetime": "2020-06-22T14:41:43.000Z",
+                "checksum": "e507050fb5e7efd470943dac879d3ac1"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/9e/702020265_E_cnt_1_r360P.mp4",
+            "checksum": "e60ca4e826ff31d5497e9cdb5c7de50a",
+            "filesize": 16970932,
+            "modifiedDatetime": "2020-06-22T14:41:52.000Z",
+            "bitRate": 403.6134572414885,
+            "duration": 328.496,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/52/702020265_E_cnt_1.vtt",
+                "modifiedDatetime": "2020-06-22T14:41:43.000Z",
+                "checksum": "e507050fb5e7efd470943dac879d3ac1"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/1b/702020265_E_cnt_1_r480P.mp4",
+            "checksum": "6272c3006acf050df60d7662f27b1b2b",
+            "filesize": 32379906,
+            "modifiedDatetime": "2020-06-22T14:41:54.000Z",
+            "bitRate": 770.0794397039842,
+            "duration": 328.496,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/52/702020265_E_cnt_1.vtt",
+                "modifiedDatetime": "2020-06-22T14:41:43.000Z",
+                "checksum": "e507050fb5e7efd470943dac879d3ac1"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/dc/702020265_E_cnt_1_r720P.mp4",
+            "checksum": "d97778499e0cf8dd5cc3c890ebdae1cc",
+            "filesize": 57442382,
+            "modifiedDatetime": "2020-06-22T14:41:56.000Z",
+            "bitRate": 1366.1311229817106,
+            "duration": 328.496,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/52/702020265_E_cnt_1.vtt",
+                "modifiedDatetime": "2020-06-22T14:41:43.000Z",
+                "checksum": "e507050fb5e7efd470943dac879d3ac1"
+            }
+        }
+    ],
+    "printReferences": [
+        "702020265-1.v",
+        "702020265-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/content_assets/52/702020265_E_cnt_1.vtt",
+    "Name": "docid-702020265_E_1_VIDEO",
+    "Title": "No Reason to Fear Persecution",
+    "UndatedReferenceTitle": "No Reason to Fear Persecution",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "StudioNewsReports"
+}

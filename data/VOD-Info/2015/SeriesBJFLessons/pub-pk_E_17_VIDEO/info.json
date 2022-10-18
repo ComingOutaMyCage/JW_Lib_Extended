@@ -1,0 +1,102 @@
+{
+    "guid": "559a7da979892656f9a37ee8",
+    "languageAgnosticNaturalKey": "pub-pk_17_VIDEO",
+    "naturalKey": "pub-pk_E_17_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBJFLessons",
+    "description": "",
+    "firstPublished": "2015-07-06T13:29:09.200Z",
+    "duration": 112.619,
+    "durationFormattedHHMM": "1:52",
+    "durationFormattedMinSec": "1m 52s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/00/pk_E_017_r240P.mp4",
+            "checksum": "3921a8c86d6524bcbc07568c7316a29d",
+            "filesize": 3553189,
+            "modifiedDatetime": "2021-10-27T13:28:57.000Z",
+            "bitRate": 246.488506046937,
+            "duration": 112.619,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.814,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/9c/pk_E_017.vtt",
+                "modifiedDatetime": "2021-10-27T13:28:50.000Z",
+                "checksum": "28412c6be08ad5dbcc4a886188da4d9f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/18/pk_E_017_r360P.mp4",
+            "checksum": "d398e3dc91522fd1ce3e74cc995eac31",
+            "filesize": 6455512,
+            "modifiedDatetime": "2021-10-27T13:29:05.000Z",
+            "bitRate": 447.9609850335302,
+            "duration": 112.585,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/9c/pk_E_017.vtt",
+                "modifiedDatetime": "2021-10-27T13:28:50.000Z",
+                "checksum": "28412c6be08ad5dbcc4a886188da4d9f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/aa/pk_E_017_r480P.mp4",
+            "checksum": "fd33e0f2672badb19e2444cb0e6254ce",
+            "filesize": 12479043,
+            "modifiedDatetime": "2021-10-27T13:29:07.000Z",
+            "bitRate": 865.9459380690146,
+            "duration": 112.585,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/9c/pk_E_017.vtt",
+                "modifiedDatetime": "2021-10-27T13:28:50.000Z",
+                "checksum": "28412c6be08ad5dbcc4a886188da4d9f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/01/pk_E_017_r720P.mp4",
+            "checksum": "6fa8e9a99cb6dd4c04df3f35077a9cb3",
+            "filesize": 24535852,
+            "modifiedDatetime": "2021-10-27T13:29:11.000Z",
+            "bitRate": 1702.5922081094286,
+            "duration": 112.585,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/9c/pk_E_017.vtt",
+                "modifiedDatetime": "2021-10-27T13:28:50.000Z",
+                "checksum": "28412c6be08ad5dbcc4a886188da4d9f"
+            }
+        }
+    ],
+    "printReferences": [
+        "pk-17.v",
+        "pk-17"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/9c/pk_E_017.vtt",
+    "Name": "pub-pk_E_17_VIDEO",
+    "Title": "Protect Your Children",
+    "UndatedReferenceTitle": "Protect Your Children",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2015,
+    "Symbol": "SeriesBJFLessons"
+}

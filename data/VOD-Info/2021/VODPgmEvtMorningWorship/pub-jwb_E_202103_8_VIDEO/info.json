@@ -1,0 +1,102 @@
+{
+    "guid": "5f0349134bd99b3c370aa3af",
+    "languageAgnosticNaturalKey": "pub-jwb_202103_8_VIDEO",
+    "naturalKey": "pub-jwb_E_202103_8_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2021-03-15T14:08:23.397Z",
+    "duration": 561.11,
+    "durationFormattedHHMM": "9:21",
+    "durationFormattedMinSec": "9m 21s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/0a/jwb_E_202103_08_r240P.mp4",
+            "checksum": "3850ff931810f9dc5e783d5b5bef5b1f",
+            "filesize": 6868028,
+            "modifiedDatetime": "2021-03-15T04:53:04.000Z",
+            "bitRate": 95.62557920906774,
+            "duration": 561.11,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/17/jwb_E_202103_08.vtt",
+                "modifiedDatetime": "2021-03-15T04:52:49.000Z",
+                "checksum": "b3f5562ffe5cd85e1ddf0937b956c127"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/93/jwb_E_202103_08_r360P.mp4",
+            "checksum": "38a09d82b8f48ead82e3e3a69caeaa7d",
+            "filesize": 15531651,
+            "modifiedDatetime": "2021-03-15T04:53:03.000Z",
+            "bitRate": 216.26717421622968,
+            "duration": 561.07,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/17/jwb_E_202103_08.vtt",
+                "modifiedDatetime": "2021-03-15T04:52:49.000Z",
+                "checksum": "b3f5562ffe5cd85e1ddf0937b956c127"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/a5/jwb_E_202103_08_r480P.mp4",
+            "checksum": "2419173a6f67a98808a0f0f1ca7bf786",
+            "filesize": 28706253,
+            "modifiedDatetime": "2021-03-15T04:52:57.000Z",
+            "bitRate": 399.71412045288463,
+            "duration": 561.07,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/17/jwb_E_202103_08.vtt",
+                "modifiedDatetime": "2021-03-15T04:52:49.000Z",
+                "checksum": "b3f5562ffe5cd85e1ddf0937b956c127"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/5e/jwb_E_202103_08_r720P.mp4",
+            "checksum": "d94df1e7719d793bbf47ee2001612ada",
+            "filesize": 60197725,
+            "modifiedDatetime": "2021-03-15T04:52:52.000Z",
+            "bitRate": 838.2104310736628,
+            "duration": 561.07,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/17/jwb_E_202103_08.vtt",
+                "modifiedDatetime": "2021-03-15T04:52:49.000Z",
+                "checksum": "b3f5562ffe5cd85e1ddf0937b956c127"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202103-8.v",
+        "jwb.202103-8"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/17/jwb_E_202103_08.vtt",
+    "Name": "pub-jwb_E_202103_8_VIDEO",
+    "Title": "Robert Ciranko: “They Will Become One Flesh” (Gen. 2:24)",
+    "UndatedReferenceTitle": "Robert Ciranko: “They Will Become One Flesh” (Gen. 2:24)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

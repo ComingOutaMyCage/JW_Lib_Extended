@@ -1,0 +1,102 @@
+{
+    "guid": "5faaf67f3082cd74680667f5",
+    "languageAgnosticNaturalKey": "pub-jwb_202101_11_VIDEO",
+    "naturalKey": "pub-jwb_E_202101_11_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtAnnMtg",
+    "description": "",
+    "firstPublished": "2021-01-18T14:56:18.521Z",
+    "duration": 973.974,
+    "durationFormattedHHMM": "16:13",
+    "durationFormattedMinSec": "16m 13s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/cc/jwb_E_202101_11_r240P.mp4",
+            "checksum": "f6bb2725859b31575508547625672996",
+            "filesize": 15713801,
+            "modifiedDatetime": "2021-01-18T09:08:56.000Z",
+            "bitRate": 126.04450458893153,
+            "duration": 973.974,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.904,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/fe/jwb_E_202101_11.vtt",
+                "modifiedDatetime": "2021-01-18T09:09:09.000Z",
+                "checksum": "9aaa42adcd5a4dde5db2dd6499030778"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/de/jwb_E_202101_11_r360P.mp4",
+            "checksum": "1401cadf9e772e8344c29406483492b3",
+            "filesize": 34358889,
+            "modifiedDatetime": "2021-01-18T09:08:58.000Z",
+            "bitRate": 275.6132303890514,
+            "duration": 973.933,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/fe/jwb_E_202101_11.vtt",
+                "modifiedDatetime": "2021-01-18T09:09:09.000Z",
+                "checksum": "9aaa42adcd5a4dde5db2dd6499030778"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/cc/jwb_E_202101_11_r480P.mp4",
+            "checksum": "75231c5f1bc78365c5155bb16f578862",
+            "filesize": 67279455,
+            "modifiedDatetime": "2021-01-18T09:09:00.000Z",
+            "bitRate": 539.6888104084162,
+            "duration": 973.933,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/fe/jwb_E_202101_11.vtt",
+                "modifiedDatetime": "2021-01-18T09:09:09.000Z",
+                "checksum": "9aaa42adcd5a4dde5db2dd6499030778"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/36/jwb_E_202101_11_r720P.mp4",
+            "checksum": "1dce2ba107b07cb143a4475075fb7a9e",
+            "filesize": 119292940,
+            "modifiedDatetime": "2021-01-18T09:09:05.000Z",
+            "bitRate": 956.9201307995519,
+            "duration": 973.933,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/fe/jwb_E_202101_11.vtt",
+                "modifiedDatetime": "2021-01-18T09:09:09.000Z",
+                "checksum": "9aaa42adcd5a4dde5db2dd6499030778"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202101-11.v",
+        "jwb.202101-11"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/fe/jwb_E_202101_11.vtt",
+    "Name": "pub-jwb_E_202101_11_VIDEO",
+    "Title": "Gerrit Lösch: “We Do Not Give Up”",
+    "UndatedReferenceTitle": "Gerrit Lösch: “We Do Not Give Up”",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODPgmEvtAnnMtg"
+}

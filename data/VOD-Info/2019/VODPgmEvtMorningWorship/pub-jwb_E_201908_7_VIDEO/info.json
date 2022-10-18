@@ -1,0 +1,102 @@
+{
+    "guid": "5cffa41b48fd57354cf332a2",
+    "languageAgnosticNaturalKey": "pub-jwb_201908_7_VIDEO",
+    "naturalKey": "pub-jwb_E_201908_7_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2019-08-19T21:14:48.516Z",
+    "duration": 602.646,
+    "durationFormattedHHMM": "10:02",
+    "durationFormattedMinSec": "10m 2s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/59/jwb_E_201908_07_r240P.mp4",
+            "checksum": "f32057eba546b6f14c451bce2a4aabef",
+            "filesize": 8270736,
+            "modifiedDatetime": "2020-11-07T04:17:28.000Z",
+            "bitRate": 107.21903903784312,
+            "duration": 602.646,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.851,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/51/jwb_E_201908_07.vtt",
+                "modifiedDatetime": "2019-08-19T10:00:34.000Z",
+                "checksum": "192bff13dd54ccf4ff40787a741b504e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/02/jwb_E_201908_07_r360P.mp4",
+            "checksum": "420ee9ab9dd9bcd0045e10ddb08ae0a7",
+            "filesize": 17411034,
+            "modifiedDatetime": "2019-08-19T10:00:08.000Z",
+            "bitRate": 225.72352214194208,
+            "duration": 602.612,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/51/jwb_E_201908_07.vtt",
+                "modifiedDatetime": "2019-08-19T10:00:34.000Z",
+                "checksum": "192bff13dd54ccf4ff40787a741b504e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/52/jwb_E_201908_07_r480P.mp4",
+            "checksum": "659b7c6a285dfa020ba2335e0bc8c224",
+            "filesize": 31463343,
+            "modifiedDatetime": "2019-08-19T10:00:12.000Z",
+            "bitRate": 407.90320668606006,
+            "duration": 602.612,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/51/jwb_E_201908_07.vtt",
+                "modifiedDatetime": "2019-08-19T10:00:34.000Z",
+                "checksum": "192bff13dd54ccf4ff40787a741b504e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/50/jwb_E_201908_07_r720P.mp4",
+            "checksum": "0265cce381b92fcd243685db40908dda",
+            "filesize": 65531712,
+            "modifiedDatetime": "2019-08-19T10:00:18.000Z",
+            "bitRate": 849.578999422514,
+            "duration": 602.612,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/51/jwb_E_201908_07.vtt",
+                "modifiedDatetime": "2019-08-19T10:00:34.000Z",
+                "checksum": "192bff13dd54ccf4ff40787a741b504e"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201908-7.v",
+        "jwb.201908-7"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/51/jwb_E_201908_07.vtt",
+    "Name": "pub-jwb_E_201908_7_VIDEO",
+    "Title": "Anthony Morris III: The Heart Is Treacherous (Jer. 17:9)",
+    "UndatedReferenceTitle": "Anthony Morris III: The Heart Is Treacherous (Jer. 17:9)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

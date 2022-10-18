@@ -1,0 +1,102 @@
+{
+    "guid": "5af33f8dd2aa9cc349cad380",
+    "languageAgnosticNaturalKey": "pub-jwb_201809_4_VIDEO",
+    "naturalKey": "pub-jwb_E_201809_4_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpBlessings",
+    "description": "",
+    "firstPublished": "2018-09-17T13:04:51.249Z",
+    "duration": 280.278,
+    "durationFormattedHHMM": "4:40",
+    "durationFormattedMinSec": "4m 40s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/59/jwb_E_201809_04_r240P.mp4",
+            "checksum": "95d6b537ac207e39f60cdbc7ef0303fa",
+            "filesize": 6380561,
+            "modifiedDatetime": "2020-11-07T04:17:06.000Z",
+            "bitRate": 177.85246366999905,
+            "duration": 280.278,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.268,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/23/jwb_E_201809_04_r240P.vtt",
+                "modifiedDatetime": "2018-09-17T12:38:42.000Z",
+                "checksum": "3913d246c61e472d6297d96035af4b95"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/d4/jwb_E_201809_04_r360P.mp4",
+            "checksum": "8a60f049c0baa94a312b495c14bd645e",
+            "filesize": 12244212,
+            "modifiedDatetime": "2018-09-17T12:38:43.000Z",
+            "bitRate": 341.32331243577306,
+            "duration": 280.256,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/8e/jwb_E_201809_04_r360P.vtt",
+                "modifiedDatetime": "2018-09-17T12:38:48.000Z",
+                "checksum": "3913d246c61e472d6297d96035af4b95"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/5f/jwb_E_201809_04_r480P.mp4",
+            "checksum": "c553a1ba4284cf9636130e1b5e1642f4",
+            "filesize": 21586934,
+            "modifiedDatetime": "2018-09-17T12:38:49.000Z",
+            "bitRate": 601.763822630024,
+            "duration": 280.256,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/29/jwb_E_201809_04_r480P.vtt",
+                "modifiedDatetime": "2018-09-17T12:38:51.000Z",
+                "checksum": "3913d246c61e472d6297d96035af4b95"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/e1/jwb_E_201809_04_r720P.mp4",
+            "checksum": "167d28a62fd278e2d1d3362fd6ff4df8",
+            "filesize": 35005071,
+            "modifiedDatetime": "2018-09-17T12:38:52.000Z",
+            "bitRate": 975.8118191492779,
+            "duration": 280.256,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/43/jwb_E_201809_04_r720P.vtt",
+                "modifiedDatetime": "2018-09-17T12:38:54.000Z",
+                "checksum": "3913d246c61e472d6297d96035af4b95"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201809-4.v",
+        "jwb.201809-4"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/23/jwb_E_201809_04_r240P.vtt",
+    "Name": "pub-jwb_E_201809_4_VIDEO",
+    "Title": "Cecil Goff: I Have No Regrets",
+    "UndatedReferenceTitle": "Cecil Goff: I Have No Regrets",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "VODIntExpBlessings"
+}

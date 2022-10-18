@@ -1,0 +1,102 @@
+{
+    "guid": "5cc999b048fd57354cf2ede8",
+    "languageAgnosticNaturalKey": "pub-pksjj_5_VIDEO",
+    "naturalKey": "pub-pksjj_E_5_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBJFSongs",
+    "description": "",
+    "firstPublished": "2019-07-01T12:06:37.280Z",
+    "duration": 136.064,
+    "durationFormattedHHMM": "2:16",
+    "durationFormattedMinSec": "2m 16s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/4a/pksjj_E_005_r240P.mp4",
+            "checksum": "3485c48bc886105fee833d8639668bb6",
+            "filesize": 2782843,
+            "modifiedDatetime": "2020-10-30T19:26:19.000Z",
+            "bitRate": 159.78481403971662,
+            "duration": 136.064,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/51/pksjj_E_005.vtt",
+                "modifiedDatetime": "2020-10-30T19:26:05.000Z",
+                "checksum": "cedb6c8c8c8dc318091123a415175417"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/bf/pksjj_E_005_r360P.mp4",
+            "checksum": "8f4a17961313beaba3363d9e03846068",
+            "filesize": 4868699,
+            "modifiedDatetime": "2020-10-30T19:26:25.000Z",
+            "bitRate": 279.59329724792894,
+            "duration": 136.043,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/51/pksjj_E_005.vtt",
+                "modifiedDatetime": "2020-10-30T19:26:05.000Z",
+                "checksum": "cedb6c8c8c8dc318091123a415175417"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/5c/pksjj_E_005_r480P.mp4",
+            "checksum": "f3722fadd7caf96fb619ec290221daf6",
+            "filesize": 8199757,
+            "modifiedDatetime": "2020-10-30T19:26:27.000Z",
+            "bitRate": 470.88495227611855,
+            "duration": 136.043,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/51/pksjj_E_005.vtt",
+                "modifiedDatetime": "2020-10-30T19:26:05.000Z",
+                "checksum": "cedb6c8c8c8dc318091123a415175417"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/0d/pksjj_E_005_r720P.mp4",
+            "checksum": "7b1f2ab7312f204a4fcbb26c94a1519c",
+            "filesize": 12130889,
+            "modifiedDatetime": "2020-10-30T19:26:35.000Z",
+            "bitRate": 696.636874462486,
+            "duration": 136.043,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/51/pksjj_E_005.vtt",
+                "modifiedDatetime": "2020-10-30T19:26:05.000Z",
+                "checksum": "cedb6c8c8c8dc318091123a415175417"
+            }
+        }
+    ],
+    "printReferences": [
+        "pksjj-5.v",
+        "pksjj-5"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/51/pksjj_E_005.vtt",
+    "Name": "pub-pksjj_E_5_VIDEO",
+    "Title": "Song 005 God’s Wondrous Works",
+    "UndatedReferenceTitle": "Song 005 God’s Wondrous Works",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "SeriesBJFSongs"
+}

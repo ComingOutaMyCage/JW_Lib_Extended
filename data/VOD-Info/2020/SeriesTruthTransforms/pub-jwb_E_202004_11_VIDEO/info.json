@@ -1,0 +1,102 @@
+{
+    "guid": "5dded9721b4e587393541960",
+    "languageAgnosticNaturalKey": "pub-jwb_202004_11_VIDEO",
+    "naturalKey": "pub-jwb_E_202004_11_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesTruthTransforms",
+    "description": "",
+    "firstPublished": "2020-04-20T14:11:20.408Z",
+    "duration": 310.251,
+    "durationFormattedHHMM": "5:10",
+    "durationFormattedMinSec": "5m 10s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/28/jwb_E_202004_11_r240P.mp4",
+            "checksum": "f99882af0af6e4f580e8f07132e4885e",
+            "filesize": 6230123,
+            "modifiedDatetime": "2020-10-18T03:02:10.000Z",
+            "bitRate": 156.88212427196046,
+            "duration": 310.251,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.881,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/d4/jwb_E_202004_11.vtt",
+                "modifiedDatetime": "2020-04-20T12:26:58.000Z",
+                "checksum": "a3fa044433bd977156c1ce89b7567d0b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/07/jwb_E_202004_11_r360P.mp4",
+            "checksum": "5b24015f6e4e3af7598e6df7878e473d",
+            "filesize": 11688564,
+            "modifiedDatetime": "2020-04-20T12:27:04.000Z",
+            "bitRate": 294.3541725762987,
+            "duration": 310.228,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/d4/jwb_E_202004_11.vtt",
+                "modifiedDatetime": "2020-04-20T12:26:58.000Z",
+                "checksum": "a3fa044433bd977156c1ce89b7567d0b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/13/jwb_E_202004_11_r480P.mp4",
+            "checksum": "05aebe8cf20f51c392f1c084ca9c94e2",
+            "filesize": 21236471,
+            "modifiedDatetime": "2020-04-20T12:27:07.000Z",
+            "bitRate": 534.7999848095594,
+            "duration": 310.228,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/d4/jwb_E_202004_11.vtt",
+                "modifiedDatetime": "2020-04-20T12:26:58.000Z",
+                "checksum": "a3fa044433bd977156c1ce89b7567d0b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/6a/jwb_E_202004_11_r720P.mp4",
+            "checksum": "93cb4bbad56414a4f9ac0dc3555c9e1b",
+            "filesize": 34656355,
+            "modifiedDatetime": "2020-04-20T12:27:11.000Z",
+            "bitRate": 872.7541467485204,
+            "duration": 310.228,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/d4/jwb_E_202004_11.vtt",
+                "modifiedDatetime": "2020-04-20T12:26:58.000Z",
+                "checksum": "a3fa044433bd977156c1ce89b7567d0b"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202004-11.v",
+        "jwb.202004-11"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/d4/jwb_E_202004_11.vtt",
+    "Name": "pub-jwb_E_202004_11_VIDEO",
+    "Title": "Francisco Ribeiro: Imprisonment Brought Me Freedom",
+    "UndatedReferenceTitle": "Francisco Ribeiro: Imprisonment Brought Me Freedom",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "SeriesTruthTransforms"
+}

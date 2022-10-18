@@ -1,0 +1,102 @@
+{
+    "guid": "5d3b596e48fd57354cf38a37",
+    "languageAgnosticNaturalKey": "pub-jwb_201909_10_VIDEO",
+    "naturalKey": "pub-jwb_E_201909_10_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODActivitiesReliefWork",
+    "description": "",
+    "firstPublished": "2019-09-30T15:08:15.213Z",
+    "duration": 482.176,
+    "durationFormattedHHMM": "8:02",
+    "durationFormattedMinSec": "8m 2s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/10/jwb_E_201909_10_r240P.mp4",
+            "checksum": "aa12de60218874507ae7c7ba8667a55b",
+            "filesize": 15123280,
+            "modifiedDatetime": "2020-11-03T22:16:33.000Z",
+            "bitRate": 245.03630417109105,
+            "duration": 482.176,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.645,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/57/jwb_E_201909_10.vtt",
+                "modifiedDatetime": "2019-09-30T05:36:57.000Z",
+                "checksum": "d5f735edb7916c6775bc52eb86060176"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/51/jwb_E_201909_10_r360P.mp4",
+            "checksum": "c99ec5491a3e47ef1c7e6ef4a4072251",
+            "filesize": 28879740,
+            "modifiedDatetime": "2019-09-30T05:36:41.000Z",
+            "bitRate": 467.95181738048325,
+            "duration": 482.15,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/57/jwb_E_201909_10.vtt",
+                "modifiedDatetime": "2019-09-30T05:36:57.000Z",
+                "checksum": "d5f735edb7916c6775bc52eb86060176"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/6a/jwb_E_201909_10_r480P.mp4",
+            "checksum": "8c2ea7e75d4ac48bc44c5f1f3d0ff09f",
+            "filesize": 54703792,
+            "modifiedDatetime": "2019-09-30T05:36:46.000Z",
+            "bitRate": 886.3909053199212,
+            "duration": 482.15,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/57/jwb_E_201909_10.vtt",
+                "modifiedDatetime": "2019-09-30T05:36:57.000Z",
+                "checksum": "d5f735edb7916c6775bc52eb86060176"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/53/jwb_E_201909_10_r720P.mp4",
+            "checksum": "50c43e0e2da318919903a071effc29f3",
+            "filesize": 93286268,
+            "modifiedDatetime": "2019-09-30T05:36:50.000Z",
+            "bitRate": 1511.5606528051437,
+            "duration": 482.15,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/57/jwb_E_201909_10.vtt",
+                "modifiedDatetime": "2019-09-30T05:36:57.000Z",
+                "checksum": "d5f735edb7916c6775bc52eb86060176"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201909-10.v",
+        "jwb.201909-10"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/57/jwb_E_201909_10.vtt",
+    "Name": "pub-jwb_E_201909_10_VIDEO",
+    "Title": "Disaster Relief in Peru",
+    "UndatedReferenceTitle": "Disaster Relief in Peru",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODActivitiesReliefWork"
+}

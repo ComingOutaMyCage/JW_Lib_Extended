@@ -1,0 +1,102 @@
+{
+    "guid": "5acfae88598de921541f8e06",
+    "languageAgnosticNaturalKey": "pub-jcm_x_VIDEO",
+    "naturalKey": "pub-jcm_E_x_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODMoviesBibleTimes",
+    "description": "",
+    "firstPublished": "2019-02-11T12:38:49.147Z",
+    "duration": 2706.411666666667,
+    "durationFormattedHHMM": "45:06",
+    "durationFormattedMinSec": "45m 6s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/d5/jcm_E_r240P.mp4",
+            "checksum": "fa8b6b919e131144a45c07d0dd98b555",
+            "filesize": 145553498,
+            "modifiedDatetime": "2020-12-16T19:54:37.000Z",
+            "bitRate": 420.1639821208525,
+            "duration": 2706.411666666667,
+            "frameHeight": 180,
+            "frameWidth": 320,
+            "label": "240p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/49/jcm_E_r240P.vtt",
+                "modifiedDatetime": "2019-03-10T06:16:09.000Z",
+                "checksum": "cdb8cd564f04e51057e60eddb51c5ae6"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/8d/jcm_E_r360P.mp4",
+            "checksum": "614c6c93adb7f42cc924b34dae667186",
+            "filesize": 281672854,
+            "modifiedDatetime": "2019-03-10T06:18:07.000Z",
+            "bitRate": 813.094770089177,
+            "duration": 2706.411666666667,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/fa/jcm_E_r360P.vtt",
+                "modifiedDatetime": "2019-03-10T06:18:10.000Z",
+                "checksum": "cdb8cd564f04e51057e60eddb51c5ae6"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/3d/jcm_E_r480P.mp4",
+            "checksum": "682c0b8d13c1115290b585953cfe3d45",
+            "filesize": 384214151,
+            "modifiedDatetime": "2019-03-10T06:19:25.000Z",
+            "bitRate": 1109.096997939153,
+            "duration": 2706.411666666667,
+            "frameHeight": 480,
+            "frameWidth": 854,
+            "label": "480p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/1b/jcm_E_r480P.vtt",
+                "modifiedDatetime": "2019-03-10T06:19:27.000Z",
+                "checksum": "cdb8cd564f04e51057e60eddb51c5ae6"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/ea/jcm_E_r720P.mp4",
+            "checksum": "8f1bef9ad9b9fd75a35714f497f93914",
+            "filesize": 556182583,
+            "modifiedDatetime": "2019-03-10T06:20:55.000Z",
+            "bitRate": 1605.5120080971296,
+            "duration": 2706.411666666667,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/c7/jcm_E_r720P.vtt",
+                "modifiedDatetime": "2019-03-10T06:20:56.000Z",
+                "checksum": "cdb8cd564f04e51057e60eddb51c5ae6"
+            }
+        }
+    ],
+    "printReferences": [
+        "jcm.v",
+        "jcm"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/49/jcm_E_r240P.vtt",
+    "Name": "pub-jcm_E_x_VIDEO",
+    "Title": "The Story of Jonah—A Lesson in Courage and Mercy",
+    "UndatedReferenceTitle": "The Story of Jonah—A Lesson in Courage and Mercy",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2019,
+    "Symbol": "VODMoviesBibleTimes"
+}

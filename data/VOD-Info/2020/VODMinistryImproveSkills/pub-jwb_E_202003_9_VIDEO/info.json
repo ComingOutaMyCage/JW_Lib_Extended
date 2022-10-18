@@ -1,0 +1,102 @@
+{
+    "guid": "5ddda0a91b4e5873935004ac",
+    "languageAgnosticNaturalKey": "pub-jwb_202003_9_VIDEO",
+    "naturalKey": "pub-jwb_E_202003_9_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODMinistryImproveSkills",
+    "description": "",
+    "firstPublished": "2020-03-16T21:37:23.904Z",
+    "duration": 133.078,
+    "durationFormattedHHMM": "2:13",
+    "durationFormattedMinSec": "2m 13s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/b6/jwb_E_202003_09_r240P.mp4",
+            "checksum": "5bb697380a4a5b595338f1a2d51a722f",
+            "filesize": 3548633,
+            "modifiedDatetime": "2020-10-18T03:00:36.000Z",
+            "bitRate": 208.32666039841297,
+            "duration": 133.078,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/d2/jwb_E_202003_09.vtt",
+                "modifiedDatetime": "2020-03-16T20:12:44.000Z",
+                "checksum": "b5e8f7389a358d223f84234528c34fb1"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/b4/jwb_E_202003_09_r360P.mp4",
+            "checksum": "a65a654460e826896f2f5d61f00fa3c1",
+            "filesize": 6238621,
+            "modifiedDatetime": "2020-03-16T20:12:31.000Z",
+            "bitRate": 366.3198815679702,
+            "duration": 133.051,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/d2/jwb_E_202003_09.vtt",
+                "modifiedDatetime": "2020-03-16T20:12:44.000Z",
+                "checksum": "b5e8f7389a358d223f84234528c34fb1"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/e1/jwb_E_202003_09_r480P.mp4",
+            "checksum": "a7bff41b7949f0dea151a9fb65593ccb",
+            "filesize": 11148676,
+            "modifiedDatetime": "2020-03-16T20:12:35.000Z",
+            "bitRate": 654.6289110942421,
+            "duration": 133.051,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/d2/jwb_E_202003_09.vtt",
+                "modifiedDatetime": "2020-03-16T20:12:44.000Z",
+                "checksum": "b5e8f7389a358d223f84234528c34fb1"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/01/jwb_E_202003_09_r720P.mp4",
+            "checksum": "c1c70ee00b62cb0f430b6513e6c3350b",
+            "filesize": 18356704,
+            "modifiedDatetime": "2020-03-16T20:12:40.000Z",
+            "bitRate": 1077.8705158172431,
+            "duration": 133.051,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/d2/jwb_E_202003_09.vtt",
+                "modifiedDatetime": "2020-03-16T20:12:44.000Z",
+                "checksum": "b5e8f7389a358d223f84234528c34fb1"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202003-9.v",
+        "jwb.202003-9"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/d2/jwb_E_202003_09.vtt",
+    "Name": "pub-jwb_E_202003_9_VIDEO",
+    "Title": "Move On if They Don't Act",
+    "UndatedReferenceTitle": "Move On if They Don't Act",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODMinistryImproveSkills"
+}

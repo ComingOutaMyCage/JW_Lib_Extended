@@ -1,0 +1,102 @@
+{
+    "guid": "61b8a7d1d4a4e5a332e73100",
+    "languageAgnosticNaturalKey": "pub-mwbv_202205_7_VIDEO",
+    "naturalKey": "pub-mwbv_E_202205_7_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODMinistryImproveSkills",
+    "description": "",
+    "firstPublished": "2022-05-30T19:20:37.108Z",
+    "duration": 215.958,
+    "durationFormattedHHMM": "3:35",
+    "durationFormattedMinSec": "3m 35s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/f9/mwbv_E_202205_07_r240P.mp4",
+            "checksum": "3ad0bf3974dcb0f7a5e166651e177a95",
+            "filesize": 4631851,
+            "modifiedDatetime": "2022-05-30T04:08:41.000Z",
+            "bitRate": 167.5619145273618,
+            "duration": 215.958,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.739,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/cb/mwbv_E_202205_07.vtt",
+                "modifiedDatetime": "2022-05-30T04:08:34.000Z",
+                "checksum": "8b51f1c459d272247e8cf078ccfb9b36"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/36/mwbv_E_202205_07_r360P.mp4",
+            "checksum": "8324ee1ea3da55222e9921c5f3d8fc8c",
+            "filesize": 8691728,
+            "modifiedDatetime": "2022-05-30T04:08:40.000Z",
+            "bitRate": 314.48014356836865,
+            "duration": 215.925,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/cb/mwbv_E_202205_07.vtt",
+                "modifiedDatetime": "2022-05-30T04:08:34.000Z",
+                "checksum": "8b51f1c459d272247e8cf078ccfb9b36"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/59/mwbv_E_202205_07_r480P.mp4",
+            "checksum": "13592c62adf51cab8527f5ff6b16c991",
+            "filesize": 15645260,
+            "modifiedDatetime": "2022-05-30T04:08:38.000Z",
+            "bitRate": 566.0696711821234,
+            "duration": 215.925,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/cb/mwbv_E_202205_07.vtt",
+                "modifiedDatetime": "2022-05-30T04:08:34.000Z",
+                "checksum": "8b51f1c459d272247e8cf078ccfb9b36"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/ee/mwbv_E_202205_07_r720P.mp4",
+            "checksum": "871e8d708618d22b337f53073a5fb597",
+            "filesize": 26643971,
+            "modifiedDatetime": "2022-05-30T04:08:35.000Z",
+            "bitRate": 964.0200228667361,
+            "duration": 215.925,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/cb/mwbv_E_202205_07.vtt",
+                "modifiedDatetime": "2022-05-30T04:08:34.000Z",
+                "checksum": "8b51f1c459d272247e8cf078ccfb9b36"
+            }
+        }
+    ],
+    "printReferences": [
+        "mwbv.202205-7.v",
+        "mwbv.202205-7"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/cb/mwbv_E_202205_07.vtt",
+    "Name": "pub-mwbv_E_202205_7_VIDEO",
+    "Title": "Build Faith in Jehovah, Using Enjoy Life Forever!",
+    "UndatedReferenceTitle": "Build Faith in Jehovah, Using Enjoy Life Forever!",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODMinistryImproveSkills"
+}

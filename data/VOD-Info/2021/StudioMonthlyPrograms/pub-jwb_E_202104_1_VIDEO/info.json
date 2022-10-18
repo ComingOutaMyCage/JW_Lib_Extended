@@ -1,0 +1,102 @@
+{
+    "guid": "602e943eaa8dbd024d5a2df1",
+    "languageAgnosticNaturalKey": "pub-jwb_202104_1_VIDEO",
+    "naturalKey": "pub-jwb_E_202104_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "StudioMonthlyPrograms",
+    "description": "",
+    "firstPublished": "2021-04-05T15:42:33.346Z",
+    "duration": 3226.304,
+    "durationFormattedHHMM": "53:46",
+    "durationFormattedMinSec": "53m 46s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/8e/jwb_E_202104_01_r240P.mp4",
+            "checksum": "219c0a812ac3101069b5cd2bcdc2cb70",
+            "filesize": 63552431,
+            "modifiedDatetime": "2021-04-05T06:37:45.000Z",
+            "bitRate": 153.8923074786195,
+            "duration": 3226.304,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/2e/jwb_E_202104_01.vtt",
+                "modifiedDatetime": "2021-04-05T06:37:04.000Z",
+                "checksum": "17dbd61ba01c8f8e3ebbff496115b8d4"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/b2/jwb_E_202104_01_r360P.mp4",
+            "checksum": "1cbaaafb64f859bd380a20b85fdf7208",
+            "filesize": 142402007,
+            "modifiedDatetime": "2021-04-05T06:37:39.000Z",
+            "bitRate": 344.83073611645784,
+            "duration": 3226.266,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/2e/jwb_E_202104_01.vtt",
+                "modifiedDatetime": "2021-04-05T06:37:04.000Z",
+                "checksum": "17dbd61ba01c8f8e3ebbff496115b8d4"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/92/jwb_E_202104_01_r480P.mp4",
+            "checksum": "ad09b05cc9b069e9b7c568d2e527bba5",
+            "filesize": 261966436,
+            "modifiedDatetime": "2021-04-05T06:37:19.000Z",
+            "bitRate": 634.3595913201206,
+            "duration": 3226.266,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/2e/jwb_E_202104_01.vtt",
+                "modifiedDatetime": "2021-04-05T06:37:04.000Z",
+                "checksum": "17dbd61ba01c8f8e3ebbff496115b8d4"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/72/jwb_E_202104_01_r720P.mp4",
+            "checksum": "c9e021c2826e5e12b82cff05207f9e34",
+            "filesize": 447334843,
+            "modifiedDatetime": "2021-04-05T06:37:07.000Z",
+            "bitRate": 1083.2347552673896,
+            "duration": 3226.266,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/2e/jwb_E_202104_01.vtt",
+                "modifiedDatetime": "2021-04-05T06:37:04.000Z",
+                "checksum": "17dbd61ba01c8f8e3ebbff496115b8d4"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202104-1.v",
+        "jwb.202104-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/2e/jwb_E_202104_01.vtt",
+    "Name": "pub-jwb_E_202104_1_VIDEO",
+    "Title": "JW Broadcasting—April 2021",
+    "UndatedReferenceTitle": "JW Broadcasting—April 2021",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "StudioMonthlyPrograms"
+}

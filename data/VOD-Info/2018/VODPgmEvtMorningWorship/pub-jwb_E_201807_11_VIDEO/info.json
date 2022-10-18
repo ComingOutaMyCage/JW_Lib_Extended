@@ -1,0 +1,102 @@
+{
+    "guid": "5b328f2b329d2b18632df188",
+    "languageAgnosticNaturalKey": "pub-jwb_201807_11_VIDEO",
+    "naturalKey": "pub-jwb_E_201807_11_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2018-07-30T14:16:25.675Z",
+    "duration": 653.952,
+    "durationFormattedHHMM": "10:53",
+    "durationFormattedMinSec": "10m 53s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/a4/jwb_E_201807_11_r240P.mp4",
+            "checksum": "acd098ff773e7f3a8dc036a9bf66d3f7",
+            "filesize": 10165817,
+            "modifiedDatetime": "2020-11-14T01:30:51.000Z",
+            "bitRate": 121.44690330865262,
+            "duration": 653.952,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.557,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/1a/jwb_E_201807_11_r240P.vtt",
+                "modifiedDatetime": "2018-07-30T11:08:23.000Z",
+                "checksum": "107570d05baee0da41225fd85424d81e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/be/jwb_E_201807_11_r360P.mp4",
+            "checksum": "f73b8ee06426b3991c21107963af0101",
+            "filesize": 21603786,
+            "modifiedDatetime": "2018-07-30T11:08:24.000Z",
+            "bitRate": 258.10037484899,
+            "duration": 653.93,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/56/jwb_E_201807_11_r360P.vtt",
+                "modifiedDatetime": "2018-07-30T11:08:27.000Z",
+                "checksum": "107570d05baee0da41225fd85424d81e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/91/jwb_E_201807_11_r480P.mp4",
+            "checksum": "c5a3e51111db7bdd58f7e66647b7bfd9",
+            "filesize": 42456219,
+            "modifiedDatetime": "2018-07-30T11:08:29.000Z",
+            "bitRate": 507.2243373717371,
+            "duration": 653.93,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/0e/jwb_E_201807_11_r480P.vtt",
+                "modifiedDatetime": "2018-07-30T11:08:32.000Z",
+                "checksum": "107570d05baee0da41225fd85424d81e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/92/jwb_E_201807_11_r720P.mp4",
+            "checksum": "40411d047dcf9e41b868b24faefc1ca4",
+            "filesize": 70165552,
+            "modifiedDatetime": "2018-07-30T11:08:33.000Z",
+            "bitRate": 838.2676662639733,
+            "duration": 653.93,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/72/jwb_E_201807_11_r720P.vtt",
+                "modifiedDatetime": "2018-07-30T11:08:37.000Z",
+                "checksum": "107570d05baee0da41225fd85424d81e"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201807-11.v",
+        "jwb.201807-11"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/1a/jwb_E_201807_11_r240P.vtt",
+    "Name": "pub-jwb_E_201807_11_VIDEO",
+    "Title": "David H. Splane: I Do Not Know You (Matt. 25:12)",
+    "UndatedReferenceTitle": "David H. Splane: I Do Not Know You (Matt. 25:12)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2018,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

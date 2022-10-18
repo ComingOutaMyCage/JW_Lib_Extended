@@ -1,0 +1,102 @@
+{
+    "guid": "604a798d251b665b3902f994",
+    "languageAgnosticNaturalKey": "pub-jwb-080_11_VIDEO",
+    "naturalKey": "pub-jwb-080_E_11_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesMyTeenLife",
+    "description": "",
+    "firstPublished": "2021-05-17T15:27:56.427Z",
+    "duration": 324.651,
+    "durationFormattedHHMM": "5:24",
+    "durationFormattedMinSec": "5m 24s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/51/jwb-080_E_11_r240P.mp4",
+            "checksum": "bcf28dcbf34d3f1f147fba071cc4c875",
+            "filesize": 6782403,
+            "modifiedDatetime": "2021-05-17T06:52:42.000Z",
+            "bitRate": 163.2138001654084,
+            "duration": 324.651,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.529,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/49/jwb-080_E_11.vtt",
+                "modifiedDatetime": "2021-05-17T06:52:34.000Z",
+                "checksum": "af8c74cffeaf5a3361c665c8ef322045"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/bb/jwb-080_E_11_r360P.mp4",
+            "checksum": "9276e3222da08252ade99067aec9417c",
+            "filesize": 13657201,
+            "modifiedDatetime": "2021-05-17T06:52:41.000Z",
+            "bitRate": 328.6854441156809,
+            "duration": 324.617,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/49/jwb-080_E_11.vtt",
+                "modifiedDatetime": "2021-05-17T06:52:34.000Z",
+                "checksum": "af8c74cffeaf5a3361c665c8ef322045"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/ab/jwb-080_E_11_r480P.mp4",
+            "checksum": "75c8c5bc930b636c9d7e20671b8165ee",
+            "filesize": 24905656,
+            "modifiedDatetime": "2021-05-17T06:52:37.000Z",
+            "bitRate": 599.4000237202611,
+            "duration": 324.617,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/49/jwb-080_E_11.vtt",
+                "modifiedDatetime": "2021-05-17T06:52:34.000Z",
+                "checksum": "af8c74cffeaf5a3361c665c8ef322045"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/98/jwb-080_E_11_r720P.mp4",
+            "checksum": "714fa15d7b8a5513821dbfdc6a155404",
+            "filesize": 41635709,
+            "modifiedDatetime": "2021-05-17T06:52:35.000Z",
+            "bitRate": 1002.0392541441144,
+            "duration": 324.617,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/49/jwb-080_E_11.vtt",
+                "modifiedDatetime": "2021-05-17T06:52:34.000Z",
+                "checksum": "af8c74cffeaf5a3361c665c8ef322045"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-080-11.v",
+        "jwb-080-11"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/49/jwb-080_E_11.vtt",
+    "Name": "pub-jwb-080_E_11_VIDEO",
+    "Title": "My Teen Life—How Can I Talk to My Parents?",
+    "UndatedReferenceTitle": "My Teen Life—How Can I Talk to My Parents?",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "SeriesMyTeenLife"
+}

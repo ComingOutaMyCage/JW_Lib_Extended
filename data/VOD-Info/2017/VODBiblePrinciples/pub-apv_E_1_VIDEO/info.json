@@ -1,0 +1,178 @@
+{
+    "guid": "588bae5185c3fafdb42a11f8",
+    "languageAgnosticNaturalKey": "pub-apv_1_VIDEO",
+    "naturalKey": "pub-apv_E_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODBiblePrinciples",
+    "description": "",
+    "firstPublished": "2017-03-20T13:50:27.337Z",
+    "duration": 306.504,
+    "durationFormattedHHMM": "5:06",
+    "durationFormattedMinSec": "5m 6s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/b2/apv_E_01_r240P.mp4",
+            "checksum": "ddfc435edce53f4d20badf240143e033",
+            "filesize": 13624444,
+            "modifiedDatetime": "2020-12-11T17:03:21.000Z",
+            "bitRate": 347.27432186855634,
+            "duration": 306.504,
+            "frameHeight": 180,
+            "frameWidth": 320,
+            "label": "240p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/3b/apv_E_01_r240P.vtt",
+                "modifiedDatetime": "2019-03-02T21:27:36.000Z",
+                "checksum": "c4fca276505ee65dcd1cc5053967a40f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/0c/apv_s-Sub_E_01_r240P.mp4",
+            "checksum": "a4e104ff7f3db819c5495c3d89135f41",
+            "filesize": 13829410,
+            "modifiedDatetime": "2020-11-27T04:04:02.000Z",
+            "bitRate": 352.49871331206117,
+            "duration": 306.504,
+            "frameHeight": 180,
+            "frameWidth": 320,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": true,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/3b/apv_E_01_r240P.vtt",
+                "modifiedDatetime": "2019-03-02T21:27:36.000Z",
+                "checksum": "c4fca276505ee65dcd1cc5053967a40f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/aa/apv_E_01_r360P.mp4",
+            "checksum": "ef799d040118d2762dd0e5cf317a932b",
+            "filesize": 32079065,
+            "modifiedDatetime": "2019-03-02T21:27:49.000Z",
+            "bitRate": 817.7471513970763,
+            "duration": 306.47333333333336,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/3e/apv_E_01_r360P.vtt",
+                "modifiedDatetime": "2019-03-02T21:27:49.000Z",
+                "checksum": "c4fca276505ee65dcd1cc5053967a40f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/94/apv_s-Sub_E_01_r360P.mp4",
+            "checksum": "e3cb14fd6f3b97fd0e854767f4a4622e",
+            "filesize": 32140682,
+            "modifiedDatetime": "2019-03-02T21:29:20.000Z",
+            "bitRate": 819.319204883304,
+            "duration": 306.4728333333333,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 44.056,
+            "mimetype": "video/mp4",
+            "subtitled": true,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/3e/apv_E_01_r360P.vtt",
+                "modifiedDatetime": "2019-03-02T21:27:49.000Z",
+                "checksum": "c4fca276505ee65dcd1cc5053967a40f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/a3/apv_s-Sub_E_01_r480P.mp4",
+            "checksum": "0f823920ff283542b46a2c21562d8bd1",
+            "filesize": 43699408,
+            "modifiedDatetime": "2019-03-02T21:29:27.000Z",
+            "bitRate": 1113.9702703393505,
+            "duration": 306.4728333333333,
+            "frameHeight": 480,
+            "frameWidth": 854,
+            "label": "480p",
+            "frameRate": 44.056,
+            "mimetype": "video/mp4",
+            "subtitled": true,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/35/apv_E_01_r480P.vtt",
+                "modifiedDatetime": "2019-03-02T21:28:26.000Z",
+                "checksum": "c4fca276505ee65dcd1cc5053967a40f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/95/apv_E_01_r480P.mp4",
+            "checksum": "16a47dc46046266318c571a689e5a247",
+            "filesize": 43738943,
+            "modifiedDatetime": "2019-03-02T21:28:26.000Z",
+            "bitRate": 1114.9762639082246,
+            "duration": 306.47333333333336,
+            "frameHeight": 480,
+            "frameWidth": 854,
+            "label": "480p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/35/apv_E_01_r480P.vtt",
+                "modifiedDatetime": "2019-03-02T21:28:26.000Z",
+                "checksum": "c4fca276505ee65dcd1cc5053967a40f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/b7/apv_s-Sub_E_01_r720P.mp4",
+            "checksum": "1d66d44eef5be1d93a38f4c95c8ca600",
+            "filesize": 62869362,
+            "modifiedDatetime": "2019-03-02T21:30:10.000Z",
+            "bitRate": 1602.6441406987135,
+            "duration": 306.4728333333333,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 44.056,
+            "mimetype": "video/mp4",
+            "subtitled": true,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/0d/apv_E_01_r720P.vtt",
+                "modifiedDatetime": "2019-03-02T21:29:12.000Z",
+                "checksum": "c4fca276505ee65dcd1cc5053967a40f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/fa/apv_E_01_r720P.mp4",
+            "checksum": "5fc0de52fb15c2b277f969861635afc7",
+            "filesize": 63129652,
+            "modifiedDatetime": "2019-03-02T21:29:11.000Z",
+            "bitRate": 1609.2767383241608,
+            "duration": 306.47333333333336,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/0d/apv_E_01_r720P.vtt",
+                "modifiedDatetime": "2019-03-02T21:29:12.000Z",
+                "checksum": "c4fca276505ee65dcd1cc5053967a40f"
+            }
+        }
+    ],
+    "printReferences": [
+        "apv-1.v",
+        "apv-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/3b/apv_E_01_r240P.vtt",
+    "Name": "pub-apv_E_1_VIDEO",
+    "Title": "Find Friends in Unexpected Places",
+    "UndatedReferenceTitle": "Find Friends in Unexpected Places",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2017,
+    "Symbol": "VODBiblePrinciples"
+}

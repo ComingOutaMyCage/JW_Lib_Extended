@@ -1,0 +1,178 @@
+{
+    "guid": "59e501c3302e60099ea697c5",
+    "languageAgnosticNaturalKey": "pub-jwb_201710_12_VIDEO",
+    "naturalKey": "pub-jwb_E_201710_12_VIDEO",
+    "type": "video",
+    "primaryCategory": "Reports",
+    "description": "",
+    "firstPublished": "2017-10-23T13:14:56.099Z",
+    "duration": 304.391,
+    "durationFormattedHHMM": "5:04",
+    "durationFormattedMinSec": "5m 4s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/be/jwb_s-Sub_E_201710_12_r240P.mp4",
+            "checksum": "a307bba0a8167bd8deb0cb7da47357ce",
+            "filesize": 13683825,
+            "modifiedDatetime": "2020-11-14T08:20:17.000Z",
+            "bitRate": 351.2090791531287,
+            "duration": 304.391,
+            "frameHeight": 180,
+            "frameWidth": 320,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": true,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/69/jwb_E_201710_12_r240P.vtt",
+                "modifiedDatetime": "2019-02-22T02:35:20.000Z",
+                "checksum": "9c4ce19a8109f927234f4ab1559dfdb5"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/3d/jwb_E_201710_12_r240P.mp4",
+            "checksum": "915508d2e7b7124d16c2ee49569046d3",
+            "filesize": 13810543,
+            "modifiedDatetime": "2020-11-06T23:25:33.000Z",
+            "bitRate": 354.4614235884109,
+            "duration": 304.391,
+            "frameHeight": 180,
+            "frameWidth": 320,
+            "label": "240p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/69/jwb_E_201710_12_r240P.vtt",
+                "modifiedDatetime": "2019-02-22T02:35:20.000Z",
+                "checksum": "9c4ce19a8109f927234f4ab1559dfdb5"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/c5/jwb_E_201710_12_r360P.mp4",
+            "checksum": "e320ccca5ed5cf989b06c026d90e6661",
+            "filesize": 32157538,
+            "modifiedDatetime": "2019-02-22T02:35:54.000Z",
+            "bitRate": 825.4801807981073,
+            "duration": 304.345,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/46/jwb_E_201710_12_r360P.vtt",
+                "modifiedDatetime": "2019-02-22T02:35:54.000Z",
+                "checksum": "9c4ce19a8109f927234f4ab1559dfdb5"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/ac/jwb_s-Sub_E_201710_12_r360P.mp4",
+            "checksum": "d149e6eb8b8c3f989cc539f4c820a5eb",
+            "filesize": 32036003,
+            "modifiedDatetime": "2019-02-22T03:39:42.000Z",
+            "bitRate": 822.3584778247654,
+            "duration": 304.34570833333333,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 44.056,
+            "mimetype": "video/mp4",
+            "subtitled": true,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/46/jwb_E_201710_12_r360P.vtt",
+                "modifiedDatetime": "2019-02-22T02:35:54.000Z",
+                "checksum": "9c4ce19a8109f927234f4ab1559dfdb5"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/d9/jwb_E_201710_12_r480P.mp4",
+            "checksum": "364eb7c41800166c8fdd00af6f8f4a1e",
+            "filesize": 43737868,
+            "modifiedDatetime": "2019-02-22T02:36:04.000Z",
+            "bitRate": 1122.7458763902807,
+            "duration": 304.345,
+            "frameHeight": 480,
+            "frameWidth": 854,
+            "label": "480p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/c8/jwb_E_201710_12_r480P.vtt",
+                "modifiedDatetime": "2019-02-22T02:36:04.000Z",
+                "checksum": "9c4ce19a8109f927234f4ab1559dfdb5"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/4c/jwb_s-Sub_E_201710_12_r480P.mp4",
+            "checksum": "f61866a616d5891eb1f0d8ab3b6bd55b",
+            "filesize": 43769965,
+            "modifiedDatetime": "2019-02-22T03:39:49.000Z",
+            "bitRate": 1123.5671875746564,
+            "duration": 304.34570833333333,
+            "frameHeight": 480,
+            "frameWidth": 854,
+            "label": "480p",
+            "frameRate": 44.056,
+            "mimetype": "video/mp4",
+            "subtitled": true,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/c8/jwb_E_201710_12_r480P.vtt",
+                "modifiedDatetime": "2019-02-22T02:36:04.000Z",
+                "checksum": "9c4ce19a8109f927234f4ab1559dfdb5"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/98/jwb_s-Sub_E_201710_12_r720P.mp4",
+            "checksum": "e02d2e74ffe95abd67c317e0d73d9273",
+            "filesize": 62585793,
+            "modifiedDatetime": "2019-02-22T03:39:56.000Z",
+            "bitRate": 1606.5661332637487,
+            "duration": 304.34570833333333,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 44.056,
+            "mimetype": "video/mp4",
+            "subtitled": true,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/8b/jwb_E_201710_12_r720P.vtt",
+                "modifiedDatetime": "2019-02-22T02:36:20.000Z",
+                "checksum": "9c4ce19a8109f927234f4ab1559dfdb5"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/52/jwb_E_201710_12_r720P.mp4",
+            "checksum": "3caa2e9b2f14c63f0a079ad700668dcf",
+            "filesize": 62469561,
+            "modifiedDatetime": "2019-02-22T02:36:20.000Z",
+            "bitRate": 1603.5862107558855,
+            "duration": 304.345,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 1764,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/8b/jwb_E_201710_12_r720P.vtt",
+                "modifiedDatetime": "2019-02-22T02:36:20.000Z",
+                "checksum": "9c4ce19a8109f927234f4ab1559dfdb5"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.201710-12.v",
+        "jwb.201710-12"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/69/jwb_E_201710_12_r240P.vtt",
+    "Name": "pub-jwb_E_201710_12_VIDEO",
+    "Title": "A Place of Worship for 15 Congregations",
+    "UndatedReferenceTitle": "A Place of Worship for 15 Congregations",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2017,
+    "Symbol": "Reports"
+}

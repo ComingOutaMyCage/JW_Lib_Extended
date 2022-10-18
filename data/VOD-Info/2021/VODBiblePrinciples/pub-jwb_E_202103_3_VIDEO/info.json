@@ -1,0 +1,102 @@
+{
+    "guid": "5fad8e8f3082cd7468165819",
+    "languageAgnosticNaturalKey": "pub-jwb_202103_3_VIDEO",
+    "naturalKey": "pub-jwb_E_202103_3_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODBiblePrinciples",
+    "description": "",
+    "firstPublished": "2021-03-15T14:07:31.974Z",
+    "duration": 387.499,
+    "durationFormattedHHMM": "6:27",
+    "durationFormattedMinSec": "6m 27s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/5e/jwb_E_202103_03_r240P.mp4",
+            "checksum": "408d35a022d787bc17edcd12334afade",
+            "filesize": 9236928,
+            "modifiedDatetime": "2021-03-15T04:55:01.000Z",
+            "bitRate": 186.22886768740048,
+            "duration": 387.499,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.46,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/dd/jwb_E_202103_03.vtt",
+                "modifiedDatetime": "2021-03-15T04:54:51.000Z",
+                "checksum": "ec16f6d139a7a79d7107eaaf5a895193"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/95/jwb_E_202103_03_r360P.mp4",
+            "checksum": "6c7c1cc03a9ce5d79ee0f740cc11b6fb",
+            "filesize": 16694615,
+            "modifiedDatetime": "2021-03-15T04:54:57.000Z",
+            "bitRate": 336.6093025754119,
+            "duration": 387.472,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/dd/jwb_E_202103_03.vtt",
+                "modifiedDatetime": "2021-03-15T04:54:51.000Z",
+                "checksum": "ec16f6d139a7a79d7107eaaf5a895193"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/04/jwb_E_202103_03_r480P.mp4",
+            "checksum": "bd7f1b1cbec248081b91598e62026d5f",
+            "filesize": 29725794,
+            "modifiedDatetime": "2021-03-15T04:54:55.000Z",
+            "bitRate": 599.3536710394558,
+            "duration": 387.472,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/dd/jwb_E_202103_03.vtt",
+                "modifiedDatetime": "2021-03-15T04:54:51.000Z",
+                "checksum": "ec16f6d139a7a79d7107eaaf5a895193"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/fc/jwb_E_202103_03_r720P.mp4",
+            "checksum": "2f105f61b19c3829e70f427e49cdbe7a",
+            "filesize": 46559685,
+            "modifiedDatetime": "2021-03-15T04:54:53.000Z",
+            "bitRate": 938.7711603999774,
+            "duration": 387.472,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/dd/jwb_E_202103_03.vtt",
+                "modifiedDatetime": "2021-03-15T04:54:51.000Z",
+                "checksum": "ec16f6d139a7a79d7107eaaf5a895193"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202103-3.v",
+        "jwb.202103-3"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/dd/jwb_E_202103_03.vtt",
+    "Name": "pub-jwb_E_202103_3_VIDEO",
+    "Title": "Learn From Them—Sarah",
+    "UndatedReferenceTitle": "Learn From Them—Sarah",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "VODBiblePrinciples"
+}

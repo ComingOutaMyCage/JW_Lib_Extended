@@ -1,0 +1,102 @@
+{
+    "guid": "5e38772bfaacdecc136de274",
+    "languageAgnosticNaturalKey": "pub-jwb_202005_13_VIDEO",
+    "naturalKey": "pub-jwb_E_202005_13_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODActivitiesAVProduction",
+    "description": "",
+    "firstPublished": "2020-05-18T17:25:35.430Z",
+    "duration": 369.451,
+    "durationFormattedHHMM": "6:09",
+    "durationFormattedMinSec": "6m 9s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/01/jwb_E_202005_13_r240P.mp4",
+            "checksum": "5987cc209b574d5607d263d46c9ae6c5",
+            "filesize": 12727790,
+            "modifiedDatetime": "2020-10-18T03:03:38.000Z",
+            "bitRate": 269.14491874429893,
+            "duration": 369.451,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.786,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/92/jwb_E_202005_13.vtt",
+                "modifiedDatetime": "2020-05-18T15:15:27.000Z",
+                "checksum": "4a9c96b9b628bd7b3b36372fa68580ff"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/72/jwb_E_202005_13_r360P.mp4",
+            "checksum": "3e15453698a3cbc7853ed275a5966983",
+            "filesize": 23550751,
+            "modifiedDatetime": "2020-05-18T15:15:15.000Z",
+            "bitRate": 498.06244027671005,
+            "duration": 369.412,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/92/jwb_E_202005_13.vtt",
+                "modifiedDatetime": "2020-05-18T15:15:27.000Z",
+                "checksum": "4a9c96b9b628bd7b3b36372fa68580ff"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/58/jwb_E_202005_13_r480P.mp4",
+            "checksum": "140cfd42faa38b6f06f549573c60c66b",
+            "filesize": 44146812,
+            "modifiedDatetime": "2020-05-18T15:15:19.000Z",
+            "bitRate": 933.6376965285373,
+            "duration": 369.412,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/92/jwb_E_202005_13.vtt",
+                "modifiedDatetime": "2020-05-18T15:15:27.000Z",
+                "checksum": "4a9c96b9b628bd7b3b36372fa68580ff"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/d0/jwb_E_202005_13_r720P.mp4",
+            "checksum": "81a5e60e609246347b8a26a06a3adc47",
+            "filesize": 73855715,
+            "modifiedDatetime": "2020-05-18T15:15:22.000Z",
+            "bitRate": 1561.9356529768932,
+            "duration": 369.412,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/92/jwb_E_202005_13.vtt",
+                "modifiedDatetime": "2020-05-18T15:15:27.000Z",
+                "checksum": "4a9c96b9b628bd7b3b36372fa68580ff"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb.202005-13.v",
+        "jwb.202005-13"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/92/jwb_E_202005_13.vtt",
+    "Name": "pub-jwb_E_202005_13_VIDEO",
+    "Title": "Behind the Scenes of The Story of Josiah: Love Jehovah; Hate What Is Bad",
+    "UndatedReferenceTitle": "Behind the Scenes of The Story of Josiah: Love Jehovah; Hate What Is Bad",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODActivitiesAVProduction"
+}
