@@ -1,7 +1,8 @@
 class Bible {
 
-    static regex = /((([123]|First|Second|Third)\s*)?[A-Z][a-z]+\.?)\s((\d|[:.;]|,\s*|-|(?:\s+\d+:))+)\b/g;
-    static regexVerses = /(\d+)[:;.]((\d+)( ?[,-] ?)?(?!\d+:))+/g;
+    static contentRegex = /(((([123]|\bI+|First|Second|Third)\s*)?[A-Z][a-z]+\.?)\s(\d+:\s*)((\d|[:.;]\s*|,\s*|-|(?:\s+\d+:))+))\b/g
+    static regex = /((([123]|\bI+ |First|Second|Third)\s*)?[A-Z][a-z]+\.?)\s((\d|[:.;]\s*|,\s*|-|(?:\s+\d+:))+)\b/g;
+    static regexVerses = /(\d+)[:;.]\s*((\d+)( ?[,-] ?)?(?!\d+:))+/g;
     static regexVersesSub = /(\d+)(\s*[,-]\s*)?/g;
     static regexGoesOverEnd = /(\d+):(\d+)-(\d+):(\d+)/g;
 
@@ -13,7 +14,7 @@ class Bible {
 
         for(let i = 0; i < matches.length; i++)
         {
-            let match = matches[i];
+            let match = matches[i]
 
             let book = match[1].toLowerCase();
             book = BibleBooks.ComplexMatchBook(book);
@@ -27,7 +28,7 @@ class Bible {
 
             let bookChapters = bible[book];
 
-            let rawVerse = match[0].replace(/(^[-,"\s]|[-,"\s]$)/g, '');
+            let rawVerse = match[0].replace(/(^[-,"\s]|[-,"\s]$)/g, '').replace(/(:)\s*/, '$1').replace(';', ' ');
             if (bookChapters != null && bookChapters.length === 1 && rawVerse.indexOf(':') === -1)
             {
                 rawVerse = rawVerse.replace(/^(\d*\s*\w+\.?)\s*/, "$1 1:");
@@ -194,6 +195,11 @@ class BibleBooks {
         let exactMatch = this.conversion[book];
         if (exactMatch) return exactMatch;
 
+        if(book.match(/^(i+) /)){
+            book = book.replace(/^(i+) /, (match, match0)=>{
+                return match0.length + " ";
+            });
+        }
         book = book.replace(/\s+/, " ");
         book = book.replace(/First/i, "1");
         book = book.replace(/Second/i, "2");

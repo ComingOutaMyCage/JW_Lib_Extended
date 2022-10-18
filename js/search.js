@@ -375,6 +375,14 @@ async function ShowFile(docPath){
             video.append(`<track label="English" kind="subtitles" srclang="en" src="${docPath.replace('.txt', '.vtt')}" default />`);
             contents = video[0].outerHTML + "© Watch Tower Bible and Tract Society of Pennsylvania<br/><br/>" + highlightTimestamps(contents);
         }
+        else if(docPath.endsWith(".txt")){
+            if($(window).width() < 1000) {
+                contents = contents.replace(/([a-z],?)[ ]?\r?\n([a-z])/g, '$1 $2');
+            }
+            contents = contents.replace(Bible.contentRegex, "<a href='BIBLE://NWTR/' class='lookupScripture'>$1</a>")
+        }else if(info.Year < 1950){
+            contents = contents.replace(Bible.contentRegex, "<a href='BIBLE://NWTR/' class='lookupScripture'>$1</a>")
+        }
 
         let classes = GetClassesForContent(contents);
         $('#currentFileBox').fadeIn(200);
@@ -688,15 +696,18 @@ function ShowScripture(scripture, click){
             for (let verse of verses){
                 if(lastVerse === 0) {name += verse; startRange = verse;}
                 else if(lastVerse !== verse - 1) {
-                    if(startRange < lastVerse) name += "-" + lastVerse;
+                    if(startRange < lastVerse) {
+                        name += "-" + lastVerse;
+                    }
                     name += "," + verse;
                     startRange = verse;
                 }
+                if(lastVerse !== 0 && verse - lastVerse > 1) scriptures += "<br/>";
                 lastVerse = verse;
                 let verseText = bibleBook[chapter - 1][verse - 1].replace("\t", "&nbsp;&nbsp;").replace("\n", "<br/>");
                 scriptures += ` <b>${verse}</b> <span class="verse serif">${verseText}</span>`;
             }
-            if(name !== "") name += "-" + lastVerse;
+            if(name !== "" && lastVerse !== startRange) name += "-" + lastVerse;
             text += `\r\n<div class="scripture-header">${book} ${chapter}:${name}</div>\r\n`;
             text += `<p>${scriptures}</p>`;
         }
@@ -746,7 +757,11 @@ $(document).on('click', 'a[href]:not(.paginator)', function(e){
     let href = $(this).attr('href');
     if(href.startsWith('#')) return true;
 
-    if(href.startsWith('jwpub://b/')){
+    if($(this).hasClass('lookupScripture')){
+        ShowScripture($(this).text(), e);
+        return false;
+    }
+    else if(href.startsWith('jwpub://b/')){
         let scripture = href.replace(/.*NWTR?\//, '').replace(/^(\d+):(\d+:\d+)/, function(match, bookNum, chapters) {
             return BibleBooks.GetBookAtIndex(bookNum - 1) + " " + chapters;
         }).replace(/(\d+):(\d+:\d+)/g, '$2');

@@ -62,11 +62,14 @@ function createExtracts(content, searchTerms, limit=0){
     }
     if(lastExtractsTerms !== searchTerms) {
         lastExtractsTerms = searchTerms;
+        if(searchTerms.length > 3) searchTerms = searchTerms.filter(t => t.length >= 3);
         let cleanedTerms = searchTerms.map(s => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')).join('|');
         let regexes = [];
         let startMatch = (/(<p.{1,200}|[^\r\n]{1,100})/).toString().slice(1, -1);//I do this for my IDE. No judging
         let endMatch = (/(.{1,200}<\/p>|[^\r\n]{1,100})/).toString().slice(1, -1);
         console.log(startMatch);
+        if(searchTerms.length >= 4)
+            regexes.push(new RegExp(`${startMatch}(?<t1>${cleanedTerms})(?<f1>.{0,100})(?<t2>${cleanedTerms})(?<f2>.{0,100})(?<t3>${cleanedTerms})(?<f3>.{0,100})(?<t4>${cleanedTerms})${endMatch}`, 'ig'));
         if(searchTerms.length >= 3)
             regexes.push(new RegExp(`${startMatch}(?<t1>${cleanedTerms})(?<f1>.{0,100})(?<t2>${cleanedTerms})(?<f2>.{0,100})(?<t3>${cleanedTerms})${endMatch}`, 'ig'));
         if(searchTerms.length >= 2)
@@ -107,7 +110,7 @@ function createExtracts(content, searchTerms, limit=0){
     //     let results = content.match(extractsRegex[i]);
     //     if(results && results.length > 0) break;
     // }
-    return highlightSearchTerms(allResults.slice(0, 2).map(r => r.value.replace(/<img [^>]+>/gi, '')).join(' <b>...</b> '), searchTerms);
+    return highlightSearchTerms(allResults.slice(0, 2).map(r => r.value.replace(/<img [^>]+>/gi, '')).join(' <b>...</b> '), lastExtractsTerms);
 }
 function highlightTimestamps(contents){
     return contents.replace(/^((\d+:)?\d+:\d+)/gm, "<i class='ts'>$1</i>");
