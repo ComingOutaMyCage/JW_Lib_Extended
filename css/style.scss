@@ -1,3 +1,4 @@
+$font-family: 'Noto Sans',Arial,"Arial Unicode MS",sans-serif;
 
 #normals-display {
   display: flex;
@@ -15,8 +16,7 @@
 }
 body {
   margin: auto auto;
-
-  font-family: 'Noto Sans',Arial,"Arial Unicode MS",sans-serif;
+  font-family: $font-family;
   font-size: 16px;
   line-height: 1.5;
   word-break: normal;
@@ -498,7 +498,13 @@ ul.searchNav {
   max-height: 50vh;
   overflow-y: auto;
   border-radius: 10px;
-  z-index: 10;
+  z-index: 1;
+
+  @media only screen and (max-width: 600px) {
+    left: 2rem !important;
+    right: 2rem !important;
+  }
+
   .h3 {}
   #tooltip-body {
     .scripture-header {
@@ -518,9 +524,19 @@ ul.searchNav {
       color: #581697;
       font-weight: 700;
       padding-right: 0.25em;
+      font-family: $font-family;
     }
     .serif {
       font-family: 'Merriweather', 'Times New Roman', serif;
+    }
+    .verse {
+      span:not(:first-child) {
+        padding-left: 2em;
+      }
+      span.indent {
+        padding-left: 3em;
+        display: block;
+      }
     }
   }
 }

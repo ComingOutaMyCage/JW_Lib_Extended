@@ -1,7 +1,7 @@
 class Bible {
 
-    static contentRegex = /(((([123]|\bI+|First|Second|Third)\s*)?[A-Z][a-z]+\.?)\s(\d+:\s*)((\d|[:.;]\s*|,\s*|-|(?:\s+\d+:))+))\b/g
-    static regex = /((([123]|\bI+ |First|Second|Third)\s*)?[A-Z][a-z]+\.?)\s((\d|[:.;]\s*|,\s*|-|(?:\s+\d+:))+)\b/g;
+    static contentRegex = /(((([123]|\bI+|First|Second|Third)\s*)?[A-Z][a-z]+\.?)\s(\d+:\s*)((\d|[:.]\s*|;\s(?=\s*\d+:)|,\s*|-|(?:\s+\d+:))+))\b/g
+    static regex = /((([123]|\bI+ |First|Second|Third)\s*)?[A-Z][a-z]+\.?)\s((\d|[:.]\s*|;\s(?=\s*\d+:)|,\s*|-|(?:\s+\d+:))+)/g;
     static regexVerses = /(\d+)[:;.]\s*((\d+)( ?[,-] ?)?(?!\d+:))+/g;
     static regexVersesSub = /(\d+)(\s*[,-]\s*)?/g;
     static regexGoesOverEnd = /(\d+):(\d+)-(\d+):(\d+)/g;

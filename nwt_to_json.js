@@ -28,30 +28,72 @@ nf.getAllFiles(path.resolve('NWT/'), function (files) {
         let book = titleMatch[1];
         if (book === "Question" || book === "Part") return;
         if(book === "Psalm") book = "Psalms";
-        let chapter = titleMatch[4] - 1;
+        let chapter = titleMatch[4];
         if (!bible[book]) {
             console.log("Found " + book);
             bible[book] = [];
         }
-        if (!bible[book][chapter]) {
-            console.log("Found " + book + " " + (chapter + 1));
-            bible[book][chapter] = [];
+        if (!bible[book][chapter - 1]) {
+            console.log("Found " + book + " " + (chapter));
+            bible[book][chapter - 1] = [];
         }
 
         let references = document.querySelectorAll(`[epub:type^="noteref"]`);
         references.forEach(element => {element.remove();});
-        references = document.querySelectorAll(`sup`);
+        references = document.querySelectorAll(`sup,strong`);
         references.forEach(element => { element.remove();});
         references = document.querySelectorAll(`.groupFootnote`);
         references.forEach(element => { element.remove();});
 
-
-
-        let currentElement = document.querySelector(`span[id^="chapter"]`);
-        while (chapterVerse.nextSibling !== null || nextSibling.parent() != null){
-           let next = chapterVerse.nextSibling;
+        function getChapterVerseFromId(id){
+            if(!id) return null;
+            const chapterMatch = /chapter(\d+)_verse(\d+)/;
+            let idMatch = id.match(chapterMatch);
+            if(!idMatch) return null;
+            return [parseInt(idMatch[1]), parseInt(idMatch[2])];
         }
-        return;
+        function SetChapterVerseText([chapter, verse], text){
+            bible[book][chapter - 1][verse - 1] = text.trim();
+        }
+
+        let curChapter = 0;
+        let curVerse = 0;
+
+        let currentElement = document.querySelector(`span[id="chapter${chapter}"]`);
+        currentElement = currentElement.nextSibling;
+        let chapterVerse = [null, null];
+        let currentText = "";
+        while(currentElement != null){
+            if(currentElement.classList && currentElement.classList.contains('sz'))
+                currentText += "\t";
+            if(currentElement.firstChild !== null) {
+                currentElement = currentElement.firstChild;
+                continue;
+            }
+            let chapterElement = (currentElement.id !== undefined && currentElement.id.startsWith('chapter')) ? currentElement : null;
+            if(chapterElement != null){
+                if(chapterVerse[0] !== null)
+                    SetChapterVerseText(chapterVerse, currentText);
+                currentText = "";
+                chapterVerse = getChapterVerseFromId(chapterElement.id);
+                currentElement = chapterElement.nextSibling ?? chapterElement.parentNode.nextSibling;
+                continue;
+            }
+            if(currentElement.textContent)
+                currentText += currentElement.textContent.trim() + " ";
+            if(currentElement.nextSibling === null) {
+                currentElement = currentElement.parentNode.nextSibling;
+            }
+            else
+                currentElement = currentElement.nextSibling;
+            if(currentElement && currentElement.tagName === "P")
+                currentText += "\n";
+        }
+
+        if(currentText !== "")
+            SetChapterVerseText(chapterVerse, currentText);
+
+        /*return;
 
         let chapterVerses = document.querySelectorAll(`span[id^="chapter"]`);
         let lastParentId = -1;
@@ -87,6 +129,7 @@ nf.getAllFiles(path.resolve('NWT/'), function (files) {
             lastChapter = chapter;
             lastVerse = verse;
         });
+        */
 
     })
 });

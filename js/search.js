@@ -704,7 +704,17 @@ function ShowScripture(scripture, click){
                 }
                 if(lastVerse !== 0 && verse - lastVerse > 1) scriptures += "<br/>";
                 lastVerse = verse;
-                let verseText = bibleBook[chapter - 1][verse - 1].replace("\t", "&nbsp;&nbsp;").replace("\n", "<br/>");
+
+                let rawVerse = bibleBook[chapter - 1][verse - 1];
+                let verseText = "";
+                for(const line of rawVerse.split("\n")){
+                    if(line.startsWith("\t"))
+                        verseText += "<span class='indent'>" + line + "</span>";
+                    else
+                        verseText = "<span>" + line + "</span>";
+                }
+                if(rawVerse.endsWith("\n")) verseText += "<br/>";
+
                 scriptures += ` <b>${verse}</b> <span class="verse serif">${verseText}</span>`;
             }
             if(name !== "" && lastVerse !== startRange) name += "-" + lastVerse;
@@ -725,7 +735,7 @@ function ShowScripture(scripture, click){
         x = ($(document).width() / 2) - (width / 2);
     tooltip.css('left', x).css('top', click.clientY + window.pageYOffset + 30);
     clearTimeout(tooltipFadeout);
-    tooltip.fadeIn(200);
+    tooltip.stop().fadeIn(200);
     //console.log(text);
 }
 
