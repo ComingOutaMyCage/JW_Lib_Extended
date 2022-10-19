@@ -304,7 +304,8 @@ body {
   width: 100%;
   max-width: 1600px;
   z-index: 10;
-  box-shadow: 0 2px 2px 0px #0000004d;
+  box-shadow: 0 2px 2px 0 #0000004d;
+  transition: top 0.4s ease-in-out;
 }
 #fixedHeader .navbar {
   height: 77px;
@@ -386,32 +387,42 @@ body {
   #currentFileBox {
     display: block !important;
     position: sticky;
-    top: -1px;
+    top: 6em;
     z-index: 1;
-    &.isSticky{
-      transition: padding 0.2s ease-in-out;
-      padding-top: 6rem;
+    transition: top 0.4s ease-in-out, padding 0.4s ease-in-out;
+    body.nav-up & {
+      position: fixed;
+      top: 0;
+      width: 100%;
+
       .item, .thumbnail {min-height: 16px;}
       img {
         max-height: 16px;
       }
       .item {
-        background-color: white;
         .title {
-          transition: padding 0.2s ease-in-out;
           padding-top: 0.1em;
           padding-bottom: 0.1em;
         }
       }
     }
     .item {
+      background-color: white;
       margin-left: 0;
+      .item, .thumbnail, img {
+        transition: max-height 0.4s ease-in-out, min-height 0.4s ease-in-out;
+      }
+      .title {
+        transition: padding 0.4s ease-in-out;
+        padding-top: 0.5em;
+        padding-bottom: 0.5em;
+      }
       .arrow {
         display: none;
       }
     }
     .item:last-child{
-      box-shadow: 0 2px 2px 0px #0000004d;
+      box-shadow: 0 2px 2px 0 #0000004d;
     }
   }
 
@@ -446,6 +457,12 @@ body {
       width: 80vw !important;
       max-width: 450px;
       transition: width 0.4s ease-in-out;
+    }
+  }
+
+  body.nav-up {
+    #fixedHeader {
+      top: -6em;
     }
   }
 

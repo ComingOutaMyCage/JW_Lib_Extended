@@ -365,6 +365,10 @@ async function ShowFile(docPath){
     }).then(resp=>resp.text()).then((contents)=>{
         contents = highlightSearchTerms(contents, getSearchWords());
         let dir = getPath(docPath).replace('\\', '/');
+
+        if (info.Year > 1970 || (info.Year > 1950 && info.Category === 'w')){
+            contents = contents.replace(/src="jwpub-media[^"]*"/g, '');
+        }
         contents = contents.replaceAll(/( (src)=['"])/ig, '$1' + dir + '/');
         contents = contents.replaceAll(/height:\s*\d+\w+;?/ig, 'max-width: 100%;');
 
@@ -390,8 +394,8 @@ async function ShowFile(docPath){
         $('#contents').find('style').remove();
 
         $('#resultsHeader').hide();
-        contents.fadeIn(200);
-        window.scrollTo({ top: 0, behavior: 'smooth' });
+        $('#contents').fadeIn(200);
+        window.scrollTo({ top: 0, behavior: 'auto' });
     }).catch(error => console.log(error.message));
 }
 function getStoreForFile(path) {
@@ -523,7 +527,7 @@ async function ShowPublications(category, title, symbol, pubId) {
     $('#resultsHeader').hide();
 
     // contents.fadeIn(200);
-    window.scrollTo({ top: 0, behavior: 'smooth' });
+    window.scrollTo({ top: 0, behavior: 'auto' });
 }
 function getGroupByForCategory(category){
     if(category == 'vod') return 'Symbol';
@@ -820,7 +824,11 @@ $('input').change(function () {
     $('#contents .results').fadeTo(600, 0.5);
 }).change($.debounce(1200, DoSearch));
 
-$(document).ready(Begin);
+var scrollListener;
+$(document).ready(()=>{
+    Begin();
+    scrollListener = new ScrollListener();
+});
 $(document).on('click', '#manualLoad', Begin);
 function Begin(){
     LoadCategories();
@@ -853,4 +861,38 @@ function Begin(){
         { threshold: [1] }
     );
     observer.observe(el);
+}
+
+class ScrollListener{
+    didScroll;
+    lastScrollTop = 0;
+    delta = 5;
+    navbarHeight = $('#fixedHeader').outerHeight();
+
+    constructor() {
+        const _this = this;
+
+        $(window).scroll(function(event){
+            _this.didScroll = true;
+        });
+        setInterval(function() {
+            if (_this.didScroll) {
+                hasScrolled();
+                _this.didScroll = false;
+            }
+        }, 250);
+        function hasScrolled() {
+            let st = $(window).scrollTop();
+            if(Math.abs(_this.lastScrollTop - st) <= _this.delta)
+                return;
+            if (st > _this.lastScrollTop && st > _this.navbarHeight){
+                $('body').removeClass('nav-down').addClass('nav-up');
+            } else {
+                if(st + $(window).height() < $(document).height()) {
+                    $('body').removeClass('nav-up').addClass('nav-down');
+                }
+            }
+            _this.lastScrollTop = st;
+        }
+    }
 }
