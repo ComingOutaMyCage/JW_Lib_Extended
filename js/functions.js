@@ -148,7 +148,7 @@ function setPageState(param, value) {
         newURL.searchParams.set(param, value);
     window.history.pushState(param + ":" + value, null, newURL.toString());
 }
-function setPageStates(dict) {
+function setPageStates(dict, replaceState = false) {
     //console.log(param + " = " + value);
     let newURL = new URL(location.href);
     let name = "?";
@@ -164,10 +164,14 @@ function setPageStates(dict) {
             newURL.searchParams.delete(param);
         else
             newURL.searchParams.set(param, newVal);
-        anyChanges = true;
+        if (!anyChanges)//For debug purposes
+            anyChanges = true;
     }
     if(!anyChanges) return;
-    window.history.pushState(name.slice(0, -1), null, newURL.toString());
+    if(replaceState)
+        window.history.replaceState(name.slice(0, -1), null, newURL.toString());
+    else
+        window.history.pushState(name.slice(0, -1), null, newURL.toString());
 }
 function getPageState(param) {
     return getUrlParam(location.href, param);
@@ -180,7 +184,7 @@ function getUrlParam(href, param) {
 class PublicationCodes {
     static codeToName = {
         //'ws': 'Watchtower',
-        'vod': 'Videos',
+        'vod': 'Video Subtitles',
         'bi': 'Bible',
         'gloss': 'Glossary',
         'it': 'Insight',
@@ -274,5 +278,13 @@ function defaultDict(defaultValue) {
     }
 }
 
+function GetIndexForWord(word){
+    let char0 = word.charAt(0).toLowerCase();
+    let char1 = word.charAt(1).toLowerCase();
+    if('scaptrdmfwbehilognu'.indexOf(char0) >= 0 && char1.match(/[a-z]/i))
+        return char0 + char1;
+    return char0;
+}
+
 if(typeof module !== 'undefined')
-    module.exports = { PublicationCodes, BASE_64, basename, getPath, mergeDict, filenameWithoutExt, until };
+    module.exports = { PublicationCodes, BASE_64, basename, getPath, mergeDict, filenameWithoutExt, until, GetIndexForWord };

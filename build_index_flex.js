@@ -42,6 +42,7 @@ async function Process() {
         bidirectional: true,
         //cache: false,
         //context: true,
+        worker: false,
         document: {
             id: "id",
             tag: "tag",
@@ -69,7 +70,7 @@ async function Process() {
     let secondaryWorkers = [];
 
     var cwd = process.cwd();
-    nf.getAllFiles(path.resolve('data/'), function (files) {
+    await nf.getAllFiles(path.resolve('data/'), async function (files) {
         if (fileIndex > quitAfter) return;
         let jsonFile = files.find(x => x.endsWith('.json'));
         if (!fs.existsSync(jsonFile)) return;
@@ -119,7 +120,9 @@ async function Process() {
                 if(!files.includes(fileToLoad))
                     fileToLoad = f;
             }
-            console.log("Indexing " + f);
+            let relativePath = path.relative(cwd, f).replace(/\\+/g, '/');
+
+            console.log("Indexing " + relativePath);
             let contents = fs.readFileSync(fileToLoad, {encoding: 'utf8', flag: 'r'}, (err) => {
                 if (err) {
                     console.error(err);
@@ -129,7 +132,7 @@ async function Process() {
             if(fileToLoad.endsWith('.html')) {
                 contents = striptags(contents);
             }
-            var relativePath = path.relative(cwd, f).replace(/\\+/g, '/');
+
             let title = docFiles.length > 1 ? functions.filenameWithoutExt(f) : info.Title;
             let docInfo = {id: thisFileIndex, infoId: infoIndex, tag: tag, title: title, content: contents, path: relativePath};
             // console.log(docInfo);
@@ -139,6 +142,11 @@ async function Process() {
                 index.add(docInfo);
             //console.log(thisFileIndex);
         });
+        // if(workers.length > 500) {
+        //     console.log("Waiting for workers...");
+        //     await Promise.all(workers);
+        //     console.log("Resuming...");
+        // }
 
     });
 
@@ -187,7 +195,7 @@ async function Process() {
             if (data === '' || data === null) return;
 
             let shouldZip = true;
-            if (key.endsWith("content.map") && key.charAt(1) !== '.') {
+            if (key.endsWith("content.map") && !key.match(/.{1,2}\.content.map/)) {
                 data = JSON.parse(data);
                 let subsets = {};
                 let layer1keys = Object.keys(data);
@@ -199,10 +207,10 @@ async function Process() {
                     const set = data[key];
                     for (const key2 of Object.keys(set)) {
 
-                        let char = key2.charAt(0).toLowerCase();
-                        let subset = subsets[char];
+                        let subsetName = functions.GetIndexForWord(key2);
+                        let subset = subsets[subsetName];
                         if (subset === undefined) {
-                            subsets[char] = subset = JSON.parse(JSON.stringify(subsetTemplate));
+                            subsets[subsetName] = subset = JSON.parse(JSON.stringify(subsetTemplate));
                         }
 
                         const values = data[key][key2];

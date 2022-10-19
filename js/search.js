@@ -67,26 +67,26 @@ async function GetPackedData(filename) {
 }
 
 async function LoadSearchMapsForWords(words){
-    let firstLetters = words.map(w => {let char = w.charAt(0); if(char === '-') char = w.charAt(1); return char; });
+    let indexNames = words.map(w => GetIndexForWord(w.replace(/^-+/, '')) );
     let currentMaps = {};
-    for (const char of Object.values(firstLetters)){
-        let searchMap = searchMaps[char];
+    for (const indexName of Object.values(indexNames)){
+        let searchMap = searchMaps[indexName];
         if(searchMap !== undefined){
             currentMaps = mergeDict(currentMaps, searchMap);
             continue;
         }
 
-        await GetPackedData('index/' + char + '.content.map.zip')
+        await GetPackedData('index/' + indexName + '.content.map.zip')
             .then(async function(files){
 
-                let replaceRegex = new RegExp('^' + char + "\.", 'i');
+                let replaceRegex = new RegExp('^' + indexName + "\.", 'i');
                 searchMap = {};
                 for (const [filename, file] of Object.entries(files)){
                     console.log("Got Map " + filename);
                     let normalFilename = filename.replace(replaceRegex, '');
                     searchMap[normalFilename] = file;
                 }
-                searchMaps[char] = searchMap;
+                searchMaps[indexName] = searchMap;
         });
         currentMaps = mergeDict(currentMaps, searchMap);
     }
@@ -304,6 +304,26 @@ async function DoSearch(){
         }).catch(error => console.log(error.message));
     });
 }
+function SortInfosByYear(infos, reverse){
+    if (reverse) reverse = -1;
+    else reverse = 1;
+    if(!infos[0].Year && infos[0][1].Year){
+        return infos.sort((a, b) => {
+            const timeA = getDateForInfo(a[1]);
+            const timeB = getDateForInfo(b[1]);
+            if(timeA < timeB) return -reverse;
+            if(timeA > timeB) return reverse;
+            return 0;
+        });
+    }
+    return infos.sort((a, b) => {
+        const timeA = getDateForInfo(a);
+        const timeB = getDateForInfo(b);
+        if(timeA < timeB) return -reverse;
+        if(timeA > timeB) return reverse;
+        return 0;
+    });
+}
 function StopLoading() {
     abortController.abort();
     abortController = new AbortController()
@@ -380,9 +400,9 @@ function LoadCategories(){
         }
     });
 }
-async function ShowFile(docPath){
+async function ShowFile(docPath, replaceState= false){
     StopLoading();
-    setPageStates({'doc': docPath, 'page': null, category: null, pubId: null, list:null,});
+    setPageStates({'doc': docPath, 'page': null, category: null, pubId: null, list:null,}, replaceState);
     docPath = docPath.replace('\\', '/');
     let store = getStoreForFile(docPath);
     let info = infoStore[store.infoId];
@@ -449,7 +469,6 @@ async function ShowPublications(category, title, symbol, pubId) {
 
     let newPageTitle = null;
 
-    setPageStates({'doc': null, search: null, page: null, list: 'publications', category: category, title: title, symbol: symbol, pubId: pubId });
     if(pubId) {
         const [infoId, info] = getInfoForPubId(pubId);
         let issue = getIssueName(info, true);
@@ -458,14 +477,14 @@ async function ShowPublications(category, title, symbol, pubId) {
         let files = Object.values(getFilesForInfoId(infoId));
 
         if (files.length === 1) {
-            ShowFile(files[0].path);
+            ShowFile(files[0].path, true);
             return;
         }
 
         let groupByFirstLetter = category === 'it' || files.length > 100;
         if(groupByFirstLetter){
             if(title){
-                list.append(`<a href="?list=publication&pubId=${info.Name}"><h1><big>‹</big> ${issue} ${info.Title} - ${title.toUpperCase()}</h1></a>`);
+                list.append(`<a href="?list=publications&pubId=${info.Name}"><h1><big>‹</big> ${issue} ${info.Title} - ${title.toUpperCase()}</h1></a>`);
                 files = files.filter(f => f.title.match(/[a-z]/i)[0].toUpperCase() === title);
                 for (const item of files) {
                     list.append(buildDirectoryItem(null, item.path, 'images/file_docs_white.svg', item.title, null, null, true));
@@ -474,7 +493,7 @@ async function ShowPublications(category, title, symbol, pubId) {
                 list.append(`<a href="?list=publications&category=${info.Category}&title=${encodeURIComponent(info.Title)}"><h1><big>‹</big> ${issue} ${info.Title}</h1></a>`);
                 let chars = [...new Set(files.map(f => f.title.match(/[a-z]/i)[0].toUpperCase()))].sort();
                 for (const char of chars) {
-                    list.append(buildDirectoryItem(`?list=publication&pubId=${info.Name}&title=${char}`, null, 'images/file_docs_white.svg', char.toUpperCase(), null, null, true));
+                    list.append(buildDirectoryItem(`?list=publications&pubId=${info.Name}&title=${char}`, null, 'images/file_docs_white.svg', char.toUpperCase(), null, null, true));
                 }
             }
         }else {
@@ -486,12 +505,13 @@ async function ShowPublications(category, title, symbol, pubId) {
     }
     else if(symbol) {
         let infos = getInfosForSymbol(symbol)
+        infos = SortInfosByYear(infos);
         let info = infos[0][1];
-        list.append(`<a href="?list=publication&category=${info.Category}"><h1><big>‹</big> ${CapitalizeCompressedString(symbol)}</h1></a>`);
+        list.append(`<a href="?list=publications&category=${info.Category}"><h1><big>‹</big> ${CapitalizeCompressedString(symbol)}</h1></a>`);
         for (const [infoId, info] of infos) {
             let issue = getIssueName(info);
             if(!issue)issue = info.Title;
-            list.append(buildDirectoryItem(`?list=publication&pubId=${info.Name}`, null, `.icon-${info.Category}`, issue, null, null, true));
+            list.append(buildDirectoryItem(`?list=publications&pubId=${info.Name}`, null, `.icon-${info.Category}`, issue, null, null, true));
         }
     }
     else if(title) {
@@ -500,18 +520,19 @@ async function ShowPublications(category, title, symbol, pubId) {
             infos = getInfosForTitleStart(title.substr(1))
         else
             infos = getInfosForTitle(title)
+        infos = SortInfosByYear(infos);
         let info = infos[0][1];
-        list.append(`<a href="?list=publication&category=${info.Category}"><h1><big>‹</big> ${title}</h1></a>`);
+        list.append(`<a href="?list=publications&category=${info.Category}"><h1><big>‹</big> ${title}</h1></a>`);
         for (const [infoId, info] of infos) {
             let issue = getIssueName(info);
             if(!issue)issue = info.Title;
-            list.append(buildDirectoryItem(`?list=publication&pubId=${info.Name}`, null, `.icon-${info.Category}`, issue, null, null, true));
+            list.append(buildDirectoryItem(`?list=publications&pubId=${info.Name}`, null, `.icon-${info.Category}`, issue, null, null, true));
         }
     }
     else if(category) {
         let categoryName = PublicationCodes.codeToName[category];
         list.append(`<a href="?list=publications"><h1><big>‹</big> ${categoryName}</h1></a>`);
-        let infos = getInfosForCategory(category);
+        let infos = SortInfosByYear(getInfosForCategory(category));
         let groupBy = getGroupByForCategory(category);
         let groups = {};
         let groupFirstLetter = false;
@@ -531,18 +552,20 @@ async function ShowPublications(category, title, symbol, pubId) {
             }else if(groupFirstLetter)
                 title = '%' + title;
             if (infos.length === 1) {
-                list.append(buildDirectoryItem(`?list=publication&pubId=${info.Name}`, null, `.icon-${info.Category}`, info.Title, null, showYear, true));
+                list.append(buildDirectoryItem(`?list=publications&pubId=${info.Name}`, null, `.icon-${info.Category}`, info.Title, null, showYear, true));
             } else {
-                list.append(buildDirectoryItem(`?list=publication&category=${info.Category}&${groupBy.toLowerCase()}=` + encodeURIComponent(title), null, `images/folder.svg`, displayTitle, null, showYear, true));
+                list.append(buildDirectoryItem(`?list=publications&category=${info.Category}&${groupBy.toLowerCase()}=` + encodeURIComponent(title), null, `images/folder.svg`, displayTitle, null, showYear, true));
             }
         }
     }
     else {
         newPageTitle = "Publications"
         for (const [code, name] of Object.entries(PublicationCodes.codeToName)) {
-            list.append(buildDirectoryItem(`?list=publication&category=${code}`, null, `.icon-${code}`, name, null, null, true));
+            list.append(buildDirectoryItem(`?list=publications&category=${code}`, null, `.icon-${code}`, name, null, null, true));
         }
     }
+
+    setPageStates({'doc': null, search: null, page: null, list: 'publications', category: category, title: title, symbol: symbol, pubId: pubId });
 
     if (newPageTitle)
         setPageTitle(newPageTitle + pageTitleEnd);
