@@ -65,8 +65,9 @@ a.nav-link img {
     }
     img {
       height: 1em;
+      margin-top: 0.25em;
       margin-right: 0.1em;
-      vertical-align: text-bottom;
+      vertical-align: text-top;
       transition: filter .15s ease-in-out;
     }
   }

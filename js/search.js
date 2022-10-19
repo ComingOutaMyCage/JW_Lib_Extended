@@ -129,6 +129,10 @@ async function DoSearch(){
     let thisSearchCount = StopLoading();
     searchDirty = false;
 
+    if($("#btnSideMenu").is(":visible")) {
+        $("body").removeClass('showSideMenu');
+    }
+
     let newPageState = {};
     if(getPageState('search') !== searchStart){
         newPageState['search'] = searchStart;
@@ -855,12 +859,17 @@ function Begin(){
             });
         });
 
-    const el = document.querySelector("#currentFileBox");
-    const observer = new IntersectionObserver(
-        ([e]) => e.target.classList.toggle("isSticky", e.intersectionRatio < 1),
-        { threshold: [1] }
-    );
-    observer.observe(el);
+    $("#search-form input[type=search]").click(function(){
+       if(!$("#btnSideMenu").is(":visible")) return;
+       $("#btnSideMenu").click();
+    });
+
+    // const el = document.querySelector("#currentFileBox");
+    // const observer = new IntersectionObserver(
+    //     ([e]) => e.target.classList.toggle("isSticky", e.intersectionRatio < 1),
+    //     { threshold: [1] }
+    // );
+    // observer.observe(el);
 }
 
 class ScrollListener{
