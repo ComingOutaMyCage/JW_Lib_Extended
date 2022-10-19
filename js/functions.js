@@ -42,6 +42,10 @@ function mergeDict(a, b, path = null) {
     return a;
 }
 
+function escapeRegExp(string) {
+    return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); // $& means the whole matched string
+}
+
 var highlightRegex;
 var lastHighlightTerms;
 function highlightSearchTerms(contents, searchTerms){
@@ -63,7 +67,7 @@ function createExtracts(content, searchTerms, limit=0){
     if(lastExtractsTerms !== searchTerms) {
         lastExtractsTerms = searchTerms;
         if(searchTerms.length > 3) searchTerms = searchTerms.filter(t => t.length >= 3);
-        let cleanedTerms = searchTerms.map(s => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')).join('|');
+        let cleanedTerms = searchTerms.map(s => escapeRegExp(s)).join('|');
         let regexes = [];
         let startMatch = (/(<p.{1,200}|[^\r\n]{1,100})/).toString().slice(1, -1);//I do this for my IDE. No judging
         let endMatch = (/(.{1,200}<\/p>|[^\r\n]{1,100})/).toString().slice(1, -1);
@@ -259,7 +263,16 @@ async function until(predicate, interval = 500, timeout = 30 * 1000) {
         await new Promise((resolve) => _setTimeout(resolve, interval));
     } while (done !== true);
 }
-
+function defaultDict(defaultValue) {
+    this.stringy = JSON.stringify(defaultValue);
+    this.get = function (key) {
+        if (this.hasOwnProperty(key)) {
+            return key;
+        } else {
+            return JSON.parse(this.stringy);
+        }
+    }
+}
 
 if(typeof module !== 'undefined')
     module.exports = { PublicationCodes, BASE_64, basename, getPath, mergeDict, filenameWithoutExt, until };

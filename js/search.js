@@ -98,7 +98,7 @@ async function LoadSearchMapsForWords(words){
 function getSearchWords(){
     let words = $("input[type=search]").val().trim().replace(/\s{2,5}/g, ' ');
     if (!words) return [];
-    words = words.replace('"', '').split(' ');
+    words = words.replace(/["'“”’—”]/g, '').split(' ');
     //words = words.match(/\w+|"[^"]+"/g).map(s => s.replaceAll('"', ''));
     return words;
 }
@@ -169,14 +169,39 @@ async function DoSearch(){
     newPageState['maxYear'] = maxYear !== 2022 ? maxYear : null;
     setPageStates(newPageState);
 
-    let positiveWords = words.filter(w => !w.startsWith('-')).join(' ');
+    let positiveWordsList = words.filter(w => !w.startsWith('-'))
+    let positiveWords = positiveWordsList.join(' ');
     let negativeWords = words.filter(w => w.startsWith('-'));
+
+    let matchingTitles = [];
+    let matchingTitles2 = [];
+    if(positiveWords.length > 1) {
+        let titleRegex = new RegExp(escapeRegExp(positiveWords).replaceAll(' ', '.*').replace(/([a-z])s/ig, '$1\\W?s'), 'ig');
+        let titleRegex2 = new RegExp(positiveWordsList.map(s => escapeRegExp(s)).join('|').replace(/([a-z])s/ig, '$1\\W?s'), 'ig');
+        for (const [id, store] of Object.entries(index.store)) {
+            let info = infoStore[store.infoId];
+            if(info.Year < minYear || info.Year > maxYear) continue;
+            let title = info.Title + (info.Title !== store.title ? " " + store.title : "");
+            let matchScore2 = title.match(titleRegex2);
+            if(!matchScore2 || matchScore2.length < positiveWordsList.length)
+                continue;
+            let matchScore = title.match(titleRegex);
+            if (matchScore) {
+                matchingTitles.push({id: id, doc: store});
+                continue;
+            }
+            if (matchScore2) {
+                matchingTitles2.push({id: id, doc: store});
+            }
+        }
+    }
 
     // console.log(searchCats);
     // const results = index.search([{ field: 'content', query: searchStart, bool: 'or' }], { limit: itemsPerPage, offset: itemsPerPage * offset, enrich: true, suggest: true });
     let results = index.search(positiveWords, { limit: 10000000, enrich: true, suggest: false });
     if (results.length)
         results = results[0].result;
+    results = [...matchingTitles, ...matchingTitles2, ...results];
 
     let negativeResults = new Set();
     if(negativeWords.length){
