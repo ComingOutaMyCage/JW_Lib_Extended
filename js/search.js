@@ -1,6 +1,7 @@
 let search = getPageState('search') ?? '';
 $("input[type=search]").val(search);
 
+var page_data_ready = false;
 var pageTitle = "JWs Online Library";
 var pageTitleEnd = " - JWs Online Library";
 var pageStates = -1;
@@ -255,7 +256,7 @@ async function DoSearch(){
         let issue = getIssueName(info);
         documents.push(`
 <ul class="results resultContentDocument">
-    <li class="caption"><a class="lnk" href='?doc=${result.doc.path}' doc="${result.doc.path}">${result.doc.title}</a></li>
+    <li class="caption"><a class="lnk" href='/doc/${result.doc.path}' doc="${result.doc.path}">${result.doc.title}</a></li>
     <li class="result"><ul class="resultItems"><li class="searchResult"></li><li class="ref">${info.Symbol} ${issue} - ${info.UndatedReferenceTitle} (${info.Category}) - ${info.Year}</li></ul></li>
 </ul>`);
     }
@@ -722,7 +723,7 @@ function highlightRelatedFile(){
 }
 function buildDirectoryItem(href, doc, thumbnail, title, subtext, detail = null, arrow = true){
     if(!href && doc){
-        href = '?doc=' + encodeURIComponent(doc);
+        href = '/doc/' + encodeURIComponent(doc);
     }
     let li = $(`<li class="item"></li>`);
     let a = $(`<a href="${href}"></a>`);
@@ -915,6 +916,7 @@ function Begin(){
                 console.log("Importing " + filename);
                 index.import(filename, file);
             }
+            page_data_ready = true;
 
             $("input[type=search]").on('input', $.debounce(600, DoSearch));
             pageStateChanged();
