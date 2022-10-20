@@ -34,6 +34,10 @@
     <script src="js/functions.js"></script>
     <link href="css/style.css" rel="stylesheet" >
 
+    <script src="js/jquery.highlight.js"></script>
+    <script src="js/jquery.scrollto.js"></script>
+    <script src="js/jquery.finder.js"></script>
+
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400;1,700&family=Noto+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&display=swap" rel="stylesheet">
@@ -43,7 +47,7 @@
     <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
     <link rel="manifest" href="site.webmanifest">
 </head>
-<body>
+<body data-finder-wrapper data-finder-scroll-offset="260">
 <div id="body-div">
 <div id="fixedHeader">
     <nav class="navbar navbar-expand-lg navbar-dark bg-light d-print-none">
@@ -66,6 +70,7 @@
         <!--    <span class="text-muted">Search for articles containing all words, or use "quotes to match groups"</span>-->
     </div>
 </div>
+<button class="finder-activator" data-finder-activator><img src="images/icon-search.svg" /></button>
 <div id="searchBackdrop" touch-action="none"></div>
 <div id="tooltip" style="display: none"><div id="tooltip-inner"><div id="tooltip-header"></div><div id="tooltip-body"></div></div></div>
 <div id="regionMain">
@@ -117,7 +122,7 @@
                 </span>
                 <div id="resultsFilter"></div>
             </div>
-            <div id="contents"><button id="manualLoad" class="btn btn-outline-secondary m-2">Click Here to Begin!</button></div><noscript><h3>Javascript required for this page to operate</h3></noscript>
+            <div id="contents" data-finder-content><button id="manualLoad" class="btn btn-outline-secondary m-2">Click Here to Begin!</button></div><noscript><h3>Javascript required for this page to operate</h3></noscript>
         </div>
     </div>
 </div>
