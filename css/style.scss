@@ -232,8 +232,8 @@ ol, ul {
         background-image: url('../images/icons/bk.svg');
       }
       .icon-vod { background-image: url('../images/icons/closed-captioning.svg'); }
-      .icon-bi { background-image: url('../images/icons/bible.svg'); }
-      .icon-bk { background-image: url('../images/icons/bk.svg'); }
+      .icon-bk, .icon-bi { background-image: url('../images/icons/bible.svg'); }
+      .icon-bk { background-image: url('../images/icons/book.svg'); }
       .icon-bklt, .icon-kn, .icon-brch { background-image: url('../images/icons/brch.svg'); }
       .icon-g { background-image: url('../images/icons/g.svg'); }
       .icon-km, .icon-mwb, { background-image: url('../images/icons/km.svg'); }

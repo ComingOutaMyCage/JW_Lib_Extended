@@ -283,6 +283,8 @@ function GetIndexForWord(word){
     let char1 = word.charAt(1).toLowerCase();
     if('scaptrdmfwbehilognu'.indexOf(char0) >= 0 && char1.match(/[a-z]/i))
         return char0 + char1;
+    if(!char0.match(/[a-z0-9]/))
+        return 'etc';
     return char0;
 }
 

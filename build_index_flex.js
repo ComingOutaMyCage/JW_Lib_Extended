@@ -113,7 +113,7 @@ async function Process() {
 
         let docFiles = files.filter(x => !x.endsWith('.json') && !x.endsWith('.vtt') && !htmltxtFiles.includes(x));
         docFiles.forEach(f => {
-            let thisFileIndex = ++fileIndex;
+
             let fileToLoad = f;
             if(f.endsWith('.html')){
                 fileToLoad = f.replace(/.html$/, '.txt');
@@ -132,6 +132,9 @@ async function Process() {
             if(fileToLoad.endsWith('.html')) {
                 contents = striptags(contents);
             }
+            if(contents.trim() === "")
+                return;
+            let thisFileIndex = ++fileIndex;
 
             let title = docFiles.length > 1 ? functions.filenameWithoutExt(f) : info.Title;
             let docInfo = {id: thisFileIndex, infoId: infoIndex, tag: tag, title: title, content: contents, path: relativePath};

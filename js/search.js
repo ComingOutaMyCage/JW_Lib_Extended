@@ -306,6 +306,7 @@ async function DoSearch(){
     });
 }
 function SortInfosByYear(infos, reverse){
+    if(!infos || infos.length === 0) return [];
     if (reverse) reverse = -1;
     else reverse = 1;
     if(!infos[0].Year && infos[0][1].Year){
@@ -498,7 +499,7 @@ async function ShowPublications(category, title, symbol, pubId) {
             return;
         }
 
-        let groupByFirstLetter = category === 'it' || files.length > 100;
+        let groupByFirstLetter = category === 'it' || files.length > 200;
         if(groupByFirstLetter){
             if(title){
                 list.append(`<a href="?list=publications&pubId=${info.Name}"><h1><big>‹</big> ${issue} ${info.Title} - ${title.toUpperCase()}</h1></a>`);
@@ -543,7 +544,8 @@ async function ShowPublications(category, title, symbol, pubId) {
         for (const [infoId, info] of infos) {
             let issue = getIssueName(info);
             if(!issue)issue = info.Title;
-            list.append(buildDirectoryItem(`?list=publications&pubId=${info.Name}`, null, `.icon-${info.Category}`, issue, null, null, true));
+            let showYear = info.Title.indexOf(info.Year) === -1 ? info.Year : '';
+            list.append(buildDirectoryItem(`?list=publications&pubId=${info.Name}`, null, `.icon-${info.Category}`, issue, null, showYear, true));
         }
     }
     else if(category) {
