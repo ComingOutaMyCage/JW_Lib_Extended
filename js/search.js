@@ -285,7 +285,7 @@ async function DoSearch(){
     }
 
     $("#relatedDocuments").fadeOut(200);
-    $("#currentFileBox").fadeOut(200, function(){ $(this).html('') });
+    $("#currentFileBox").fadeOut(0, function(){ $(this).html('') });
     $("#searchRefineForm").fadeIn(200);
     $('#contents').empty().append($('<div class="results"></div>').append(documents));
     $('#contents').append($('<div id="pagination"></div>').append(pagination));
@@ -415,6 +415,8 @@ async function ShowFile(docPath, replaceState= false){
         contents = highlightSearchTerms(contents, getSearchWords());
         let dir = getPath(docPath).replace('\\', '/');
 
+        let elements = [];
+
         if (info.Year > 1970 || (info.Year > 1950 && info.Category === 'w')){
             contents = contents.replace(/src="jwpub-media[^"]*"/g, '');
         }
@@ -426,7 +428,7 @@ async function ShowFile(docPath, replaceState= false){
             let file = info.files[info.files.length - 1];
             video.append(`<source src="${file.progressiveDownloadURL}" type="video/mp4">`);
             video.append(`<track label="English" kind="subtitles" srclang="en" src="${docPath.replace('.txt', '.vtt')}" default />`);
-            contents = video[0].outerHTML + "© Watch Tower Bible and Tract Society of Pennsylvania<br/><br/>" + highlightTimestamps(contents);
+            contents = video[0].outerHTML + "Video above © Watch Tower Bible and Tract Society of Pennsylvania<br/><br/>" + highlightTimestamps(contents);
         }
         else if(docPath.endsWith(".txt")){
             if($(window).width() < 1000) {
@@ -437,13 +439,27 @@ async function ShowFile(docPath, replaceState= false){
             contents = contents.replace(Bible.contentRegex, "<a href='BIBLE://NWTR/' class='lookupScripture'>$1</a>")
         }
 
+        let orgName = info.Year > 1932 ? "Watch Tower Bible and Tract Society of Pennsylvania" : (info.Year + " International Bible Students Association");
+        let disclaimer = $(`<div id='docDisclaimer'>The content displayed below is for educational and archival purposes only.<br/>Unless stated otherwise, content is © ${orgName}</div>`);
+        if(info.Year > 1970 || (info.Year > 1950 && info.Category === 'w')){
+            let link = `https://wol.jw.org/en/wol/publication/r1/lp-e/${info.Symbol}`;
+            if(info.Category === 'w') link = `https://wol.jw.org/en/wol/library/r1/lp-e/all-publications/watchtower/the-watchtower-${info.Year}/${monthNamesFull[info.Month - 1].toLowerCase()}` + (info.Day ? '-'+ info.Day : '');
+            else if(info.Category === 'g') link = `https://wol.jw.org/en/wol/library/r1/lp-e/all-publications/awake/awake-${info.Year}/${monthNamesFull[info.Month - 1].toLowerCase()}` + (info.Day ? '-'+ info.Day : '');
+            disclaimer.append(`<br/><a target="_blank" rel="noreferrer" href="http://hidereferrer.net/?${link}">You may be able to find the original on wol.jw.org</a>`);
+        }else {
+            disclaimer.append(`<br/><a target="_blank" rel="noreferrer" href="https://archive.org/search.php?query=${encodeURIComponent(info.Title + " " + info.Year)}">Content is too old for wol.jw.org, original copies may be found on Archive.org</a>`);
+        }
+        elements.push(disclaimer[0].outerHTML);
+
         let classes = GetClassesForContent(contents);
-        $('#currentFileBox').fadeIn(200);
-        $('#contents').html(`<div class="document ${classes}">` + contents + "</div>");
+        elements.push(`<div class="document ${classes}">${contents}</div>`);
+
+        $('#contents').html('').append(elements);
         $('#contents').find('style').remove();
 
         $('#resultsHeader').hide();
         $('#contents').fadeIn(200);
+        $('#currentFileBox').fadeIn(200);
         window.scrollTo({ top: 0, behavior: 'auto' });
     }).catch(error => console.log(error.message));
 }
@@ -458,7 +474,7 @@ async function ShowPublications(category, title, symbol, pubId) {
     console.log('ShowPublications', category);
     StopLoading();
     let contents = $('#contents');
-    $("#currentFileBox").fadeOut(200, function(){ $(this).html('') });
+    $("#currentFileBox").fadeOut(0, function(){ $(this).html('') });
     $("#relatedDocuments").fadeOut(200, function(){
         $("#searchRefineForm").fadeIn(200);
     });
@@ -767,15 +783,15 @@ function ShowScripture(scripture, click){
                     if(line.startsWith("\t"))
                         verseText += "<span class='indent'>" + line + "</span>";
                     else
-                        verseText = "<span>" + line + "</span>";
+                        verseText += "<span>" + line + "</span>";
                 }
                 if(rawVerse.endsWith("\n")) verseText += "<br/>";
 
                 scriptures += ` <b>${verse}</b> <span class="verse serif">${verseText}</span>`;
             }
             if(name !== "" && lastVerse !== startRange) name += "-" + lastVerse;
-            text += `\r\n<div class="scripture-header">${book} ${chapter}:${name}</div>\r\n`;
-            text += `<p>${scriptures}</p>`;
+            text += `\r\n<div class="scripture-header"><div class="scripture">${book} ${chapter}:${name}</div></div>\r\n`;
+            text += `<p class="credit">Excerpt from <a target="_blank" rel="noreferrer" href="http://hidereferrer.net/?https://wol.jw.org/en/wol/binav/r1/lp-e/nwtsty">New World Translation of the Holy Scriptures</a><br/>© Watch Tower Bible and Tract Society of Pennsylvania</p><p>${scriptures}</p>`;
         }
     }
     text += "</div>";

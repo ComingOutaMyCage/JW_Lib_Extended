@@ -8,6 +8,8 @@ const jsdom = require('jsdom');
 
 let bible = {};
 
+let debug = null;//["Proverbs", 31, 10 ];
+
 nf.getAllFiles(path.resolve('NWT/'), function (files) {
 
     files.forEach(f => {
@@ -28,6 +30,7 @@ nf.getAllFiles(path.resolve('NWT/'), function (files) {
         let book = titleMatch[1];
         if (book === "Question" || book === "Part") return;
         if(book === "Psalm") book = "Psalms";
+        if(debug && debug[0] !== book) return;
         let chapter = titleMatch[4];
         if (!bible[book]) {
             console.log("Found " + book);
@@ -53,7 +56,7 @@ nf.getAllFiles(path.resolve('NWT/'), function (files) {
             return [parseInt(idMatch[1]), parseInt(idMatch[2])];
         }
         function SetChapterVerseText([chapter, verse], text){
-            bible[book][chapter - 1][verse - 1] = text.trim();
+            bible[book][chapter - 1][verse - 1] = text.replace(/(^[ ]+|[ ]+$)/g, '');
         }
 
         let curChapter = 0;
@@ -77,11 +80,16 @@ nf.getAllFiles(path.resolve('NWT/'), function (files) {
                 currentText = "";
                 chapterVerse = getChapterVerseFromId(chapterElement.id);
                 currentElement = chapterElement.nextSibling ?? chapterElement.parentNode.nextSibling;
+                if(debug && book === debug[0] && chapterVerse[0] === debug[1] && chapterVerse[1] === debug[2]){
+                    continue;
+                }
                 continue;
             }
             if(currentElement.textContent)
                 currentText += currentElement.textContent.trim() + " ";
             if(currentElement.nextSibling === null) {
+                if(currentElement.parentNode && currentElement.parentNode.tagName === "P")
+                    currentText += "\n";
                 currentElement = currentElement.parentNode.nextSibling;
             }
             else
@@ -134,5 +142,9 @@ nf.getAllFiles(path.resolve('NWT/'), function (files) {
     })
 });
 
+if(debug){
+    console.log("Save aborted due to Debug!");
+    return;
+}
 fs.writeFileSync('js/bible_nwt.js', "var bible = " + JSON.stringify(bible));
 console.log("Saved nwt.json!");

@@ -1,4 +1,8 @@
 $font-family: 'Noto Sans',Arial,"Arial Unicode MS",sans-serif;
+$color-primary-0: #343D4A;
+$color-primary-1: #4C5767;
+$color-primary-1-1: #6A7483;
+$color-primary-2: #1F2937;
 
 #normals-display {
   display: flex;
@@ -38,7 +42,20 @@ a.nav-link img {
   max-height: 1.2em;
 }
 .navbar {
-  background-color: #581697 !important;
+  background-color: $color-primary-0 !important;
+
+  .navbar-brand {
+    img { vertical-align: baseline; }
+    #nav-title {
+      margin-left: 0.25em;
+      display: inline-block;
+
+      #slogan {
+        font-size: 50%;
+        margin-top: -0.5em;
+      }
+    }
+  }
 }
 #search-form {
   background-color: #f2f1ef;
@@ -58,7 +75,7 @@ a.nav-link img {
   }
   button {
     &:hover {
-      background-color: #581697;
+      background-color: $color-primary-0;
       img {
         filter: invert(1) brightness(2);
       }
@@ -182,18 +199,18 @@ ol, ul {
       font-weight: bold;
     }
     &:hover, .active {
-      background-color: #ffffff;
+      background-color: #faf8fc;
       .icon {
         width:2em;
       }
       .thumbnail{
-        background-color: #af8dd0;
+        background-color: $color-primary-1-1;
       }
     }
     .thumbnail{
       min-height: 48px;
       width: 48px;
-      background-color: #9875b9;
+      background-color: $color-primary-1;
       display: flex;
       align-items: center;
       text-align: center;
@@ -227,7 +244,7 @@ ol, ul {
     }
     &.folder {
       .thumbnail {
-        background-color: #714f92;
+        background-color: $color-primary-2;
       }
       & ~ .item {
         margin-left: 5px;
@@ -255,15 +272,6 @@ ol, ul {
       margin-left: 0.5em;
       margin-right: 0.5em;
       flex-grow: 1;
-    }
-  }
-}
-#contents {
-  .directory {
-    .item {
-      &:hover {
-        background-color: #faf8fc;
-      }
     }
   }
 }
@@ -528,10 +536,10 @@ ul.searchNav {
     .scripture-header {
       background: #f2f1ef;
       padding: 0.75em 1em;
-      color: #581697;
+      color: $color-primary-0;
       position: sticky;
       top: 0;
-      box-shadow: 0 2px 2px 0px #0000006e;
+      box-shadow: 0 2px 2px 0 #0000006e;
     }
     p {
       padding: 0.25em 1em 0.25em 1em;
@@ -539,10 +547,14 @@ ul.searchNav {
     }
 
     b {
-      color: #581697;
+      color: $color-primary-0;
       font-weight: 700;
       padding-right: 0.25em;
       font-family: $font-family;
+    }
+    .credit{
+      font-size: 10px;
+      margin-bottom: 0;
     }
     .serif {
       font-family: 'Merriweather', 'Times New Roman', serif;
@@ -561,4 +573,15 @@ ul.searchNav {
 
 a.lookupScripture {
   font-weight: 600;
+}
+
+#docDisclaimer {
+  background-color: $color-primary-1-1;
+  a {
+    color: white;
+    text-decoration: underline;
+  }
+  color: white;
+  padding: 1em;
+  margin-bottom: 1em;
 }
