@@ -422,8 +422,9 @@ async function ShowFile(docPath, replaceState= false){
         if (info.Year > 1970 || (info.Year > 1950 && info.Category === 'w')){
             contents = contents.replace(/src="jwpub-media[^"]*"/g, '');
         }
-        contents = contents.replaceAll(/( (src)=['"])/ig, '$1' + dir + '/');
-        contents = contents.replaceAll(/height:\s*\d+\w+;?/ig, 'max-width: 100%;');
+        contents = contents.replace(/( (src)=['"])/ig, '$1' + dir + '/');
+        contents = contents.replace(/height:\s*\d+\w+;?/ig, 'max-width: 100%;');
+        contents = contents.replaceAll('<img ', '<img loading="lazy" ');
 
         if(info.Category === 'vod') {
             let video =  $("<video style='width: 100%; max-width: 720px; display: block' controls></video>");
