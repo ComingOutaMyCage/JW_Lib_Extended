@@ -195,10 +195,10 @@ ol, ul {
     &:not(:first-child) {
       border-top: 1px solid #dbd8d3;
     }
-    .active {
+    a.active {
       font-weight: bold;
     }
-    &:hover, .active {
+    &:hover, a.active {
       background-color: #faf8fc;
       .icon {
         width:2em;
@@ -599,6 +599,9 @@ a.lookupScripture {
   border: 0;
   border-radius: 100%;
   background-color: $color-primary-1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   &:hover{
     background-color: $color-primary-1-1;
   }
@@ -634,6 +637,7 @@ a.lookupScripture {
   bottom: 0;
 }
 .finder-input {
+  font-size: 16px;
   flex-grow: 1;
   width: 0;
   height: 40px;
@@ -678,12 +682,22 @@ a.lookupScripture {
 .highlight.active {
   background: #ffd71b;
 }
-.fa-times:after {
-  content: "×";
+.far, .fas, .fa {
+  min-width: 1em;
+  min-height: 1em;
+  display: block;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  font-style: normal;
 }
-.fa-angle-down:after {
-  content: '🡓';
+.fa-times {
+  background-image: url('../images/close.svg');
 }
-.fa-angle-up:after {
-  content: '🡑';
+.fa-angle-down {
+  background-image: url('../images/chevron-down-icon.svg');
+}
+.fa-angle-up {
+  background-image: url('../images/chevron-up-icon.svg');
+
 }
