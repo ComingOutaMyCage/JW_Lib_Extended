@@ -8,7 +8,7 @@ function InsertNav(){
 }
 
 function IsHtml(content){
-    return ((/(<p([^>]+)>)/i).test(content));
+    return ((/(<p([^>]*)>)/i).test(content));
 }
 
 function basename(path) {
@@ -199,11 +199,11 @@ class PublicationCodes {
         'km': 'Kingdom Ministry',
         'brch': 'Brochures',
         'bklt': 'Booklets',
-        //'trct': 'Tracts',
+        'trct': 'Tracts',
         //'kn': 'Kingdom News',
         //'web': 'Web',
         //'pgm': 'Programs',
-        'manual': 'Manuals',
+        'manual': 'Manuals / Guidelines',
     };
     static GetCategory(info){
         let category = PublicationCodes.codeToName[info.Category] ?? null;

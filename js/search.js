@@ -488,7 +488,7 @@ async function ShowPublications(category, title, symbol, pubId) {
     let newPageTitle = null;
 
     if(pubId) {
-        const [infoId, info] = getInfoForPubId(pubId);
+        const [infoId, info] = getInfoForPubId(pubId, getPageState('year')??0);
         let issue = getIssueName(info, true);
         if(issue) issue += ' — ';
 
@@ -502,7 +502,7 @@ async function ShowPublications(category, title, symbol, pubId) {
         let groupByFirstLetter = category === 'it' || files.length > 200;
         if(groupByFirstLetter){
             if(title){
-                list.append(`<a href="?list=publications&pubId=${info.Name}"><h1><big>‹</big> ${issue} ${info.Title} - ${title.toUpperCase()}</h1></a>`);
+                list.append(`<a href="?list=publications&pubId=${info.Name}&year=${info.Year}"><h1><big>‹</big> ${issue} ${info.Title} - ${title.toUpperCase()}</h1></a>`);
                 files = files.filter(f => f.title.match(/[a-z]/i)[0].toUpperCase() === title);
                 for (const item of files) {
                     list.append(buildDirectoryItem(null, item.path, 'images/file_docs_white.svg', item.title, null, null, true));
@@ -511,7 +511,7 @@ async function ShowPublications(category, title, symbol, pubId) {
                 list.append(`<a href="?list=publications&category=${info.Category}&title=${encodeURIComponent(info.Title)}"><h1><big>‹</big> ${issue} ${info.Title}</h1></a>`);
                 let chars = [...new Set(files.map(f => f.title.match(/[a-z]/i)[0].toUpperCase()))].sort();
                 for (const char of chars) {
-                    list.append(buildDirectoryItem(`?list=publications&pubId=${info.Name}&title=${char}`, null, 'images/file_docs_white.svg', char.toUpperCase(), null, null, true));
+                    list.append(buildDirectoryItem(`?list=publications&pubId=${info.Name}&title=${char}&year=${info.Year}`, null, 'images/file_docs_white.svg', char.toUpperCase(), null, null, true));
                 }
             }
         }else {
@@ -529,7 +529,7 @@ async function ShowPublications(category, title, symbol, pubId) {
         for (const [infoId, info] of infos) {
             let issue = getIssueName(info);
             if(!issue)issue = info.Title;
-            list.append(buildDirectoryItem(`?list=publications&pubId=${info.Name}`, null, `.icon-${info.Category}`, issue, null, null, true));
+            list.append(buildDirectoryItem(`?list=publications&pubId=${info.Name}&year=${info.Year}`, null, `.icon-${info.Category}`, issue, null, null, true));
         }
     }
     else if(title) {
@@ -545,7 +545,7 @@ async function ShowPublications(category, title, symbol, pubId) {
             let issue = getIssueName(info);
             if(!issue)issue = info.Title;
             let showYear = info.Title.indexOf(info.Year) === -1 ? info.Year : '';
-            list.append(buildDirectoryItem(`?list=publications&pubId=${info.Name}`, null, `.icon-${info.Category}`, issue, null, showYear, true));
+            list.append(buildDirectoryItem(`?list=publications&pubId=${info.Name}&year=${info.Year}`, null, `.icon-${info.Category}`, issue, null, showYear, true));
         }
     }
     else if(category) {
@@ -571,7 +571,7 @@ async function ShowPublications(category, title, symbol, pubId) {
             }else if(groupFirstLetter)
                 title = '%' + title;
             if (infos.length === 1) {
-                list.append(buildDirectoryItem(`?list=publications&pubId=${info.Name}`, null, `.icon-${info.Category}`, info.Title, null, showYear, true));
+                list.append(buildDirectoryItem(`?list=publications&pubId=${info.Name}&year=${info.Year}`, null, `.icon-${info.Category}`, info.Title, null, showYear, true));
             } else {
                 list.append(buildDirectoryItem(`?list=publications&category=${info.Category}&${groupBy.toLowerCase()}=` + encodeURIComponent(title), null, `images/folder.svg`, displayTitle, null, showYear, true));
             }
@@ -615,9 +615,11 @@ function getFilesForInfoId(infoId){
     }
     return results;
 }
-function getInfoForPubId(pubId){
+function getInfoForPubId(pubId, year=0){
     for(const [infoId, info] of Object.entries((infoStore))){
-        if(info.Name == pubId)
+        if(year !== 0 && info.Year != year)
+            continue;
+        if(info.Name === pubId)
             return [infoId, info];
     }
 }
@@ -677,7 +679,7 @@ async function showRelatedFiles(store) {
     }
     else {
         relatedFilesCategoryTitle = info.Title + " " + issue;
-        list.append(buildDirectoryItem(`?list=publications&pubId=${info.Name}`, null, 'images/folder.svg', "<big>‹</big> " + relatedFilesCategoryTitle, null, null, false).addClass('folder'));
+        list.append(buildDirectoryItem(`?list=publications&pubId=${info.Name}&year=${info.Year}`, null, 'images/folder.svg', "<big>‹</big> " + relatedFilesCategoryTitle, null, null, false).addClass('folder'));
     }
     for (const item of items){
         let title = item.title;
