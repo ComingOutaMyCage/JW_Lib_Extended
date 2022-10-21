@@ -262,6 +262,12 @@ ol, ul {
         background-repeat: no-repeat;
         width:1em; height: 1em;
       }
+      .icon-rev{
+        background-image: url('../images/chevron-left-icon.svg');
+        background-size: contain;
+        background-repeat: no-repeat;
+        width:1em; height: 1em;
+      }
     }
     a {
       display: flex;

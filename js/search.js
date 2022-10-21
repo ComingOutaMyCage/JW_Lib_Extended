@@ -449,7 +449,7 @@ async function ShowFile(docPath, replaceState= false){
             else if(info.Category === 'g') link = `https://wol.jw.org/en/wol/library/r1/lp-e/all-publications/awake/awake-${info.Year}/${monthNamesFull[info.Month - 1].toLowerCase()}` + (info.Day ? '-'+ info.Day : '');
             disclaimer.append(`<br/><a target="_blank" rel="noreferrer" href="http://hidereferrer.net/?${link}">You may be able to find the original on wol.jw.org</a>`);
         }else {
-            disclaimer.append(`<br/><a target="_blank" rel="noreferrer" href="https://archive.org/search.php?query=${encodeURIComponent(info.Title + " " + info.Year)}">Content is too old for wol.jw.org, original copies may be found on Archive.org</a>`);
+            disclaimer.append(`<br/><a target="_blank" rel="noreferrer" href="https://archive.org/search.php?query=${encodeURIComponent(info.Title + " " + info.Year)}"><img src="images/icons/pdf.png" height="24"> Content is too old for wol.jw.org, original copies may be found on Archive.org</a>`);
         }
         elements.push(disclaimer[0].outerHTML);
 
@@ -675,11 +675,11 @@ async function showRelatedFiles(store) {
     if (items.length === 1) {
         let groupBy = getGroupByForCategory(info.Category);
         relatedFilesCategoryTitle = CapitalizeCompressedString(info[groupBy]);
-        list.append(buildDirectoryItem(`?list=publications&category=${info.Category}&${groupBy.toLowerCase()}=${info[groupBy]}`, null, 'images/folder.svg', "<big>‹</big> " + relatedFilesCategoryTitle, null, null, false).addClass('folder'));
+        list.append(buildDirectoryItem(`?list=publications&category=${info.Category}&${groupBy.toLowerCase()}=${info[groupBy]}`, null, 'images/folder.svg', relatedFilesCategoryTitle, null, null, false, true).addClass('folder'));
     }
     else {
         relatedFilesCategoryTitle = info.Title + " " + issue;
-        list.append(buildDirectoryItem(`?list=publications&pubId=${info.Name}&year=${info.Year}`, null, 'images/folder.svg', "<big>‹</big> " + relatedFilesCategoryTitle, null, null, false).addClass('folder'));
+        list.append(buildDirectoryItem(`?list=publications&pubId=${info.Name}&year=${info.Year}`, null, 'images/folder.svg', relatedFilesCategoryTitle, null, null, false, true).addClass('folder'));
     }
     for (const item of items){
         let title = item.title;
@@ -725,7 +725,7 @@ function highlightRelatedFile(){
             $(this).removeClass('active');
     });
 }
-function buildDirectoryItem(href, doc, thumbnail, title, subtext, detail = null, arrow = true){
+function buildDirectoryItem(href, doc, thumbnail, title, subtext, detail = null, arrow = true, backArrow = false){
     if(!href && doc){
         href = '/doc/' + encodeURIComponent(doc);
     }
@@ -738,7 +738,9 @@ function buildDirectoryItem(href, doc, thumbnail, title, subtext, detail = null,
         else
             a.append(`<div class="thumbnail"><img src="${thumbnail}"/></div>`);
     }
-    let divTitle = $(`<div class="title"><span>${title}</span></div>`);
+    if(backArrow)
+        a.append('<div class="arrow"><div class="icon-rev"></div></div>');
+    let divTitle = $(`<div class="title"><span class="text">${title}</span></div>`);
     if (subtext)
         divTitle.append(`<span class="subtext">${subtext}</span>`);
     a.append(divTitle);
