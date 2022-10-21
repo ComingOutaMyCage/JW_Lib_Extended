@@ -814,6 +814,19 @@ function ShowScripture(scripture, click){
     //console.log(text);
 }
 
+$(document).on('click', 'i.ts', function(){
+    let vid = $('video')[0];
+    let timestamp = $(this).text();
+    let match = timestamp.match(/(((?<h>\d+):)?(?<m>\d+):)?(?<s>\d+)$/);
+    let seconds = ((match.groups['h'] ?? 0) * 60 * 60) + ((match.groups['m'] ?? 0) * 60) + parseInt(match.groups['s'] ?? 0);
+    vid.currentTime = parseInt(seconds);
+    $(document).scrollTo('video', {
+        offset: {
+            left: 0,
+            top: -240,
+        },
+    });
+});
 $(document).on('click', '#btnSideMenu,#searchBackdrop', function(){
     $('body').toggleClass('showSideMenu');
 });

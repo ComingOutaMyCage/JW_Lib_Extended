@@ -393,16 +393,20 @@ body {
       float:right;
     }
   }
+  #docDisclaimer {
+   margin-top: 100px;
+  }
   #currentFileBox {
     display: block !important;
-    position: sticky;
+    width: 100%;
+    position: fixed;
+    height: 0;
     top: 6em;
     z-index: 1;
     transition: top 0.4s ease-in-out, padding 0.4s ease-in-out;
     body.nav-up & {
       position: fixed;
       top: 0;
-      width: 100%;
 
       .item, .thumbnail {min-height: 16px;}
       img {
@@ -509,7 +513,7 @@ ul.searchNav {
   border-top-color: rgb(219, 216, 211);
 }
 .ts {
-  color: #999999;
+  color: #0486d3;
   font-style: italic;
 }
 
