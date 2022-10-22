@@ -2,8 +2,8 @@ let search = getPageState('search') ?? '';
 $("input[type=search]").val(search);
 
 var page_data_ready = false;
-var pageTitle = "JWs Online Library";
-var pageTitleEnd = " - JWs Online Library";
+var pageTitle = "JWS Online Library";
+var pageTitleEnd = " - JWS Online Library";
 var pageStates = -1;
 var searchCount = 0;
 var index = null;
