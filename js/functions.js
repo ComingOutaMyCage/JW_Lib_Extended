@@ -148,11 +148,16 @@ function setPageState(param, value) {
         newURL.searchParams.set(param, value);
     window.history.pushState(param + ":" + value, null, newURL.toString());
 }
-function setPageStates(dict, replaceState = false) {
+function setPageStates(dict, replaceState = false, wipeOthers=false) {
     //console.log(param + " = " + value);
     let newURL = new URL(location.href);
     let name = "?";
     let anyChanges = false;
+    if(wipeOthers){
+        for(const key of [...newURL.searchParams.keys()])
+            if(!(key in dict))
+                newURL.searchParams.delete(key);
+    }
     for(const [param, value] of Object.entries(dict)) {
         let newVal = value;
         if (newVal == null || newVal === '' || newVal === '[""]' || newVal === '[]')
@@ -169,9 +174,12 @@ function setPageStates(dict, replaceState = false) {
     }
     if(!anyChanges) return;
     if(replaceState)
-        window.history.replaceState(name.slice(0, -1), null, newURL.toString());
+        window.history.replaceState(name.slice(0, -1), null, newURL.toString().replaceAll("%2F", "/"));
     else
-        window.history.pushState(name.slice(0, -1), null, newURL.toString());
+        window.history.pushState(name.slice(0, -1), null, newURL.toString().replaceAll("%2F", "/"));
+}
+function encodeURICompClean(param){
+    return encodeURIComponent(param).replaceAll('%20', '+').replaceAll('%2F', '/');
 }
 function getPageState(param) {
     return getUrlParam(location.href, param);

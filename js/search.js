@@ -162,7 +162,7 @@ async function DoSearch(){
     let searchCats = $(".searchNav input:checkbox:checked" ).map(function() {return $(this).val()}).get();
     let untickedCats = $(".searchNav input:checkbox:not(:checked)" ).map(function() {return $(this).val()}).get();
     if (!untickedCats.length) searchCats = [];
-    newPageState['doc'] = null;
+    newPageState['file'] = null;
     newPageState['list'] = null;
     newPageState['cat'] = searchCats.length > 0 ? searchCats.join(' ') : null;
     newPageState['sort'] = rankBy;
@@ -256,7 +256,7 @@ async function DoSearch(){
         let issue = getIssueName(info);
         documents.push(`
 <ul class="results resultContentDocument">
-    <li class="caption"><a class="lnk" href='/doc/${result.doc.path}' doc="${result.doc.path}">${result.doc.title}</a></li>
+    <li class="caption"><a class="lnk" href='?file=${encodeURICompClean(result.doc.path)}' doc="${result.doc.path}">${result.doc.title}</a></li>
     <li class="result"><ul class="resultItems"><li class="searchResult"></li><li class="ref">${info.Symbol} ${issue} - ${info.UndatedReferenceTitle} (${info.Category}) - ${info.Year}</li></ul></li>
 </ul>`);
     }
@@ -292,7 +292,7 @@ async function DoSearch(){
     $('#contents').append($('<div id="pagination"></div>').append(pagination));
     $('#contents').find('.resultContentDocument a[doc]').each(function(){
         if(thisSearchCount !== searchCount) return;
-        let docPath = $(this).attr('doc');
+        let docPath = $(this).attr('file');
         fetch(docPath, {
             cache: "force-cache",
             method: "get",
@@ -341,7 +341,7 @@ function pageStateChanged(){
     let symbol = getPageState('symbol');
     let pubId = getPageState('pubId');
     let search = getPageState('search');
-    let doc = getPageState('doc');
+    let doc = getPageState('file');
     let cat = getPageState('cat');
     let sort = getPageState('sort') ?? 'occ';
     let minYear = getPageState('minYear') ?? '1880';
@@ -404,7 +404,7 @@ function LoadCategories(){
 }
 async function ShowFile(docPath, replaceState= false){
     StopLoading();
-    setPageStates({'doc': docPath, 'page': null, category: null, pubId: null, list:null,}, replaceState);
+    setPageStates({'file': docPath }, replaceState, true);
     docPath = docPath.replace('\\', '/');
     let store = getStoreForFile(docPath);
     let info = infoStore[store.infoId];
@@ -509,14 +509,14 @@ async function ShowPublications(category, title, symbol, pubId) {
                     list.append(buildDirectoryItem(null, item.path, 'images/file_docs_white.svg', item.title, null, null, true));
                 }
             }else {
-                list.append(`<a href="?list=publications&category=${info.Category}&title=${encodeURIComponent(info.Title)}"><h1><big>‹</big> ${issue} ${info.Title}</h1></a>`);
+                list.append(`<a href="?list=publications&category=${info.Category}&title=${encodeURICompClean(info.Title)}"><h1><big>‹</big> ${issue} ${info.Title}</h1></a>`);
                 let chars = [...new Set(files.map(f => f.title.match(/[a-z]/i)[0].toUpperCase()))].sort();
                 for (const char of chars) {
                     list.append(buildDirectoryItem(`?list=publications&pubId=${info.Name}&title=${char}&year=${info.Year}`, null, 'images/file_docs_white.svg', char.toUpperCase(), null, null, true));
                 }
             }
         }else {
-            list.append(`<a href="?list=publications&category=${info.Category}&title=${encodeURIComponent(info.Title)}"><h1><big>‹</big> ${issue} ${info.Title}</h1></a>`);
+            list.append(`<a href="?list=publications&category=${info.Category}&title=${encodeURICompClean(info.Title)}"><h1><big>‹</big> ${issue} ${info.Title}</h1></a>`);
             for (const item of files) {
                 list.append(buildDirectoryItem(null, item.path, 'images/file_docs_white.svg', item.title, null, null, true));
             }
@@ -574,7 +574,7 @@ async function ShowPublications(category, title, symbol, pubId) {
             if (infos.length === 1) {
                 list.append(buildDirectoryItem(`?list=publications&pubId=${info.Name}&year=${info.Year}`, null, `.icon-${info.Category}`, info.Title, null, showYear, true));
             } else {
-                list.append(buildDirectoryItem(`?list=publications&category=${info.Category}&${groupBy.toLowerCase()}=` + encodeURIComponent(title), null, `images/folder.svg`, displayTitle, null, showYear, true));
+                list.append(buildDirectoryItem(`?list=publications&category=${info.Category}&${groupBy.toLowerCase()}=` + encodeURICompClean(title), null, `images/folder.svg`, displayTitle, null, showYear, true));
             }
         }
     }
@@ -585,7 +585,7 @@ async function ShowPublications(category, title, symbol, pubId) {
         }
     }
 
-    setPageStates({'doc': null, search: null, page: null, list: 'publications', category: category, title: title, symbol: symbol, pubId: pubId });
+    setPageStates({'file': null, search: null, page: null, list: 'publications', category: category, title: title, symbol: symbol, pubId: pubId });
 
     if (newPageTitle)
         setPageTitle(newPageTitle + pageTitleEnd);
@@ -676,7 +676,7 @@ async function showRelatedFiles(store) {
     if (items.length === 1) {
         let groupBy = getGroupByForCategory(info.Category);
         relatedFilesCategoryTitle = CapitalizeCompressedString(info[groupBy]);
-        list.append(buildDirectoryItem(`?list=publications&category=${info.Category}&${groupBy.toLowerCase()}=${info[groupBy]}`, null, 'images/folder.svg', relatedFilesCategoryTitle, null, null, false, true).addClass('folder'));
+        list.append(buildDirectoryItem(`?list=publications&category=${info.Category}&${groupBy.toLowerCase()}=${encodeURICompClean(info[groupBy])}`, null, 'images/folder.svg', relatedFilesCategoryTitle, null, null, false, true).addClass('folder'));
     }
     else {
         relatedFilesCategoryTitle = info.Title + " " + issue;
@@ -710,10 +710,10 @@ function setPageTitle(text){
     document.title = text.replace('—', '-');
 }
 function highlightRelatedFile(){
-    let currentDoc = getPageState('doc');
+    let currentDoc = getPageState('file');
     if(!currentDoc) return;
     $("#relatedDocuments a[doc]").each(function(){
-        if($(this).attr('doc') === currentDoc) {
+        if($(this).attr('file') === currentDoc) {
             $(this).addClass('active');
             let dir = $(this).closest('.directory').find('.folder');
             let file = $(this).closest('.item');
@@ -728,11 +728,11 @@ function highlightRelatedFile(){
 }
 function buildDirectoryItem(href, doc, thumbnail, title, subtext, detail = null, arrow = true, backArrow = false){
     if(!href && doc){
-        href = '/doc/' + encodeURIComponent(doc);
+        href = '?file=' + encodeURICompClean(doc);
     }
     let li = $(`<li class="item"></li>`);
     let a = $(`<a href="${href}"></a>`);
-    if(doc) a.attr('doc', doc);
+    if(doc) a.attr('file', doc);
     if (thumbnail) {
         if(thumbnail.charAt(0) === '.')
             a.append(`<div class="thumbnail"><span class="${thumbnail.replaceAll('.', '')}"></span></div>`);
@@ -851,7 +851,7 @@ $(document).on('click', '#pagination a', function(){
     return false;
 });
 $(document).on('click', 'a[href]:not(.paginator)', function(e){
-    let doc = $(this).attr('doc');
+    let doc = $(this).attr('file');
     if(doc) {
         ShowFile(doc);
         return false;
@@ -875,7 +875,7 @@ $(document).on('click', 'a[href]:not(.paginator)', function(e){
     if(href.indexOf('?') >= 0)
     {
         console.log("Pushing url");
-        window.history.pushState($(this).text(), null, href);
+        window.history.pushState($(this).text(), null, href.replaceAll('%20', '+'));
         pageStateChanged();
         return false;
     }
