@@ -331,8 +331,15 @@ function StopLoading() {
     abortController = new AbortController()
     return ++searchCount;
 }
+var lastLocation;
+function pageStateChanged(e = null){
+    if(lastLocation != null && lastLocation.search === location.search && lastLocation.hash !== location.hash){
+        lastLocation = {...location};
+        ResetScroll();
+        return;
+    }
+    lastLocation = {...location};
 
-function pageStateChanged(){
     pageStates++;
     console.log('pageStateChanged');
     let list = getPageState('list');
@@ -425,6 +432,7 @@ async function ShowFile(docPath, replaceState= false){
         contents = contents.replace(/( (src)=['"])/ig, '$1' + dir + '/');
         contents = contents.replace(/height:\s*\d+\w+;?/ig, 'max-width: 100%;');
         contents = contents.replaceAll('<img ', '<img loading="lazy" ');
+        //contents = contents.replaceAll('<img ', 'bookmark=" ');
 
         if(info.Category === 'vod') {
             let video =  $("<video style='width: 100%; max-width: 720px; display: block' controls></video>");
@@ -463,8 +471,20 @@ async function ShowFile(docPath, replaceState= false){
         $('#resultsHeader').hide();
         $('#contents').fadeIn(200);
         $('#currentFileBox').fadeIn(200);
-        window.scrollTo({ top: 0, behavior: 'auto' });
+        ResetScroll();
     }).catch(error => console.log(error.message));
+}
+
+function ResetScroll(){
+    if (location.hash) {
+        let element = $(location.hash + ",[name='" + location.hash.substr(1) + "']");
+        if(element.length) {
+            $(window).scrollTo(element, {offset: { left: 0, top: -240,}});
+            return;
+        }
+        return;
+    }
+    window.scrollTo({top: 0, behavior: 'auto'});
 }
 function getStoreForFile(path) {
     for (const [key, store] of Object.entries(index.store)) {
@@ -599,7 +619,7 @@ async function ShowPublications(category, title, symbol, pubId) {
     $('#resultsHeader').hide();
 
     // contents.fadeIn(200);
-    window.scrollTo({ top: 0, behavior: 'auto' });
+    ResetScroll();
 }
 function getGroupByForCategory(category){
     if(category == 'vod') return 'Symbol';
@@ -858,7 +878,11 @@ $(document).on('click', 'a[href]:not(.paginator)', function(e){
     }
 
     let href = $(this).attr('href');
-    if(href.startsWith('#')) return true;
+    if(href.startsWith('#')) {
+        window.history.replaceState(name.slice(0, -1), null, location.href.replace(location.hash, '') + href);
+        ResetScroll();
+        return false;
+    }
 
     if($(this).hasClass('lookupScripture')){
         ShowScripture($(this).text(), e);
@@ -940,8 +964,8 @@ function Begin(){
 
             $("input[type=search]").on('input', $.debounce(600, DoSearch));
             pageStateChanged();
-            window.addEventListener('popstate', function () {
-                pageStateChanged();
+            window.addEventListener('popstate', function (e) {
+                pageStateChanged(e);
             });
         });
 
