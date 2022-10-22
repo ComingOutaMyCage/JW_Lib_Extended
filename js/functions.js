@@ -195,6 +195,7 @@ class PublicationCodes {
         'vod': 'Video Subtitles',
         'bi': 'Bible',
         'gloss': 'Glossary',
+        'manual': 'Manuals / Guidelines',
         'it': 'Insight',
         //'dx': 'Indexes',
         'w': 'Watchtower',
@@ -211,7 +212,6 @@ class PublicationCodes {
         //'kn': 'Kingdom News',
         //'web': 'Web',
         //'pgm': 'Programs',
-        'manual': 'Manuals / Guidelines',
     };
     static GetCategory(info){
         let category = PublicationCodes.codeToName[info.Category] ?? null;
