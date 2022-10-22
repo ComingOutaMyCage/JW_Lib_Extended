@@ -256,7 +256,7 @@ async function DoSearch(){
         let issue = getIssueName(info);
         documents.push(`
 <ul class="results resultContentDocument">
-    <li class="caption"><a class="lnk" href='?file=${encodeURICompClean(result.doc.path)}' doc="${result.doc.path}">${result.doc.title}</a></li>
+    <li class="caption"><a class="lnk" href='?file=${encodeURICompClean(result.doc.path)}' file="${result.doc.path}">${result.doc.title}</a></li>
     <li class="result"><ul class="resultItems"><li class="searchResult"></li><li class="ref">${info.Symbol} ${issue} - ${info.UndatedReferenceTitle} (${info.Category}) - ${info.Year}</li></ul></li>
 </ul>`);
     }
