@@ -290,7 +290,7 @@ async function DoSearch(){
     $("#searchRefineForm").fadeIn(200);
     $('#contents').empty().append($('<div class="results"></div>').append(documents));
     $('#contents').append($('<div id="pagination"></div>').append(pagination));
-    $('#contents').find('.resultContentDocument a[doc]').each(function(){
+    $('#contents').find('.resultContentDocument a[file]').each(function(){
         if(thisSearchCount !== searchCount) return;
         let docPath = $(this).attr('file');
         fetch(docPath, {
@@ -732,7 +732,7 @@ function setPageTitle(text){
 function highlightRelatedFile(){
     let currentDoc = getPageState('file');
     if(!currentDoc) return;
-    $("#relatedDocuments a[doc]").each(function(){
+    $("#relatedDocuments a[file]").each(function(){
         if($(this).attr('file') === currentDoc) {
             $(this).addClass('active');
             let dir = $(this).closest('.directory').find('.folder');
