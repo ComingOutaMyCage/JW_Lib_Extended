@@ -193,9 +193,6 @@ class PublicationCodes {
     static codeToName = {
         //'ws': 'Watchtower',
         'vod': 'Video Subtitles',
-        'bi': 'Bible',
-        'gloss': 'Glossary',
-        'it': 'Insight',
         //'dx': 'Indexes',
         'w': 'Watchtower',
         //'ws': 'Watchtower Simplified',
@@ -209,6 +206,10 @@ class PublicationCodes {
         'brch': 'Brochures',
         'bklt': 'Booklets',
         'trct': 'Tracts',
+
+        'bi': 'Bible',
+        'gloss': 'Glossary',
+        'it': 'Insight',
         //'kn': 'Kingdom News',
         //'web': 'Web',
         //'pgm': 'Programs',
