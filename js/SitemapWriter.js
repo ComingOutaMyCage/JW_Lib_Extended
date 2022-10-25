@@ -43,7 +43,7 @@ class SitemapWriter {
         const xmlString = xml(xmlObject, {indent: ' '});
         let outname = this.outFile;
         if(index > 0)
-            outname = outname.replace(".xml", `.${index}.xml`);
+            outname = outname.replace(".xml", `${index + 1}.xml`);
         await fs.writeFile(
             outname,
             '<?xml version="1.0" encoding="UTF-8"?>' + xmlString
