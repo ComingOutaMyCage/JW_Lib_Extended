@@ -298,4 +298,4 @@ function GetIndexForWord(word){
 }
 
 if(typeof module !== 'undefined')
-    module.exports = { PublicationCodes, BASE_64, basename, getPath, mergeDict, filenameWithoutExt, until, GetIndexForWord };
+    module.exports = { PublicationCodes, BASE_64, basename, getPath, mergeDict, filenameWithoutExt, until, GetIndexForWord, encodeURICompClean };

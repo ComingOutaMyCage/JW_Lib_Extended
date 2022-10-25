@@ -7,6 +7,7 @@ const path = require('path');
 const fs = require('fs');
 const JSZip = require('jszip');
 const functions = require('./js/functions.js');
+const SitemapWriter = require('./js/SitemapWriter');
 const nf = require('./js/node_functions');
 const bb26 = require('bb26')
 
@@ -27,6 +28,23 @@ var _clearTimeout = clearTimeout;
 //     return Object.keys(active).length > 0;
 // }
 
+var urlBase = "https://jws-library.one/"
+var sitemap = [];
+AddSitemap('');
+AddSitemap('?list=publications');
+for (const [code, name] of Object.entries(functions.PublicationCodes.codeToName)) {
+    AddSitemap('?list=publications&category=' + code);
+}
+function AddSitemap(href, srcFileLastModifiedAt ){
+    if(!srcFileLastModifiedAt) srcFileLastModifiedAt = new Date().toISOString();
+    sitemap.push({ href:  urlBase + href, srcFileLastModifiedAt: srcFileLastModifiedAt   });
+}
+function AddDataToSitemap(relPath){
+    const stats = fs.statSync(relPath);
+    const date = stats.mtime.toISOString();
+    AddSitemap('?file=' + functions.encodeURICompClean(relPath), date);
+}
+let sitemapWriter = new SitemapWriter.SitemapWriter({outFile: "sitemap.xml"});
 
 async function Process() {
 
@@ -135,6 +153,7 @@ async function Process() {
             if(contents.trim() === "")
                 return;
             let thisFileIndex = ++fileIndex;
+            AddDataToSitemap(relativePath);
 
             let title = docFiles.length > 1 ? functions.filenameWithoutExt(f) : info.Title;
             let docInfo = {id: thisFileIndex, infoId: infoIndex, tag: tag, title: title, content: contents, path: relativePath};
@@ -275,6 +294,8 @@ async function Process() {
         fs.writeFileSync(dir + 'index.json', JSON.stringify(docOptions));
         fs.writeFileSync(dir + 'infoStore.json', JSON.stringify(infoStore));
         fs.writeFileSync(dir + 'store', JSON.stringify(index.store));
+
+        sitemapWriter.writeSitemap(sitemap);
 
         await new Promise(resolve => _setTimeout(resolve, 500));
         await Promise.all(workers);

@@ -34,7 +34,7 @@ async function GetPackedData(filename) {
     return new JSZip.external.Promise(function (resolve, reject) {
         let display = filenameWithoutExt(filename);
         display = display.replaceAll('.', ' ');
-        $('#contents').html(`<h2 style="text-transform: capitalize">Downloading ${display} Data...</h2>`);
+        $('#loading-state').html(`<h2 style="text-transform: capitalize">Downloading ${display} Data...</h2>`);
         JSZipUtils.getBinaryContent(filename, function (err, data) {
             if (err) {
                 reject(err);
@@ -43,28 +43,29 @@ async function GetPackedData(filename) {
             }
         });
     })
-        .then(function (data) {
-            $('#contents').html('<h2>Unpacking</h2>');
-            return JSZip.loadAsync(data, {
-                // decodeFileName: function (bytes) {
-                //     return Encoding.codeToString(Encoding.convert(bytes, { to: 'ASCII', from: 'UTF8' }));
-                //     //return iconv.decode(bytes, 'cp866');
-                // }
-            });
-        })
-        .then(async function (data) {
-            let files = {};
-            for (const [key, file] of Object.entries(data.files)){
-                const contents = await file.async("string");
-                if(!contents) continue;
-                files[key] = JSON.parse(contents);
-            }
-            //console.log(files);
-            // console.log(JSON.stringify(files));
-            if(newCache !== null)
-                newCache.add(filename, JSON.stringify(files));
-            return files;
+    .then(function (data) {
+        $('#loading-state').html('<h2>Unpacking</h2>');
+        return JSZip.loadAsync(data, {
+            // decodeFileName: function (bytes) {
+            //     return Encoding.codeToString(Encoding.convert(bytes, { to: 'ASCII', from: 'UTF8' }));
+            //     //return iconv.decode(bytes, 'cp866');
+            // }
         });
+    })
+    .then(async function (data) {
+        let files = {};
+        for (const [key, file] of Object.entries(data.files)){
+            const contents = await file.async("string");
+            if(!contents) continue;
+            files[key] = JSON.parse(contents);
+        }
+        //console.log(files);
+        // console.log(JSON.stringify(files));
+        if(newCache !== null)
+            newCache.add(filename, JSON.stringify(files));
+        $('#loading-state').html('');
+        return files;
+    });
 }
 
 async function LoadSearchMapsForWords(words){
@@ -410,17 +411,32 @@ function LoadCategories(){
     });
 }
 async function ShowFile(docPath, replaceState= false){
-    StopLoading();
-    setPageStates({'file': docPath }, replaceState, true);
-    docPath = docPath.replace('\\', '/');
-    let store = getStoreForFile(docPath);
-    let info = infoStore[store.infoId];
-    showRelatedFiles(store);
+    let info;
+    if(index && index.store) {
+        StopLoading();
+        setPageStates({'file': docPath}, replaceState, true);
+        docPath = docPath.replace('\\', '/');
+        let store = getStoreForFile(docPath);
+        info = infoStore[store.infoId];
+        showRelatedFiles(store);
+    }
+    if($("#contents input[name=file]").val() === docPath)
+        return;
     fetch(docPath, {
         cache: "force-cache",
         method: "get",
         signal: abortController.signal
     }).then(resp=>resp.text()).then((contents)=>{
+        if(!info){
+            info = {
+                category: '',
+                year: docPath.match(/\b\d{4}\b/),
+            };
+            let match;
+            if((match = docPath.match(/([^_[a-zA-Z])_E/))) info.category = match[1];
+            if(docPath.includes('/VOD/')) info.category = 'vod';
+        }
+
         contents = highlightSearchTerms(contents, getSearchWords());
         let dir = getPath(docPath).replace('\\', '/');
 
@@ -463,6 +479,7 @@ async function ShowFile(docPath, replaceState= false){
         elements.push(disclaimer[0].outerHTML);
 
         let classes = GetClassesForContent(contents);
+        elements.push($(`<input name="file" type='hidden' value='' />`).val(docPath));
         elements.push(`<div class="document ${classes}">${contents}</div>`);
 
         $('#contents').html('').append(elements);
@@ -942,14 +959,15 @@ $(document).ready(()=>{
     Begin();
     scrollListener = new ScrollListener();
 });
+if(getPageState('file')){
+    ShowFile(getPageState('file'));
+}
 $(document).on('click', '#manualLoad', Begin);
 function Begin(){
     LoadCategories();
 
     GetPackedData('index/packed.zip')
         .then(async function (files) {
-            //console.log(data)
-            $('#contents').html('<h4>Click a file to load</h4>');
 
             let options = files['index.json'];
             infoStore = files['infoStore.json'];
@@ -961,6 +979,7 @@ function Begin(){
                 index.import(filename, file);
             }
             page_data_ready = true;
+            $('#loading-state').html('');
 
             $("input[type=search]").on('input', $.debounce(600, DoSearch));
             pageStateChanged();
