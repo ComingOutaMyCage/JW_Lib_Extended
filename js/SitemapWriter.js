@@ -5,7 +5,13 @@ class SitemapWriter {
     constructor({ outFile, host }) {
         this.outFile = outFile
     }
-    async writeSitemap(pages) {
+    async writeSitemap(pages, index = 0) {
+        if(pages.length > 45000){
+            for(let i = 0; i < pages.length; i+=40000) {
+                await this.writeSitemap(pages.slice(i, i + 40000), index++);
+            }
+            return;
+        }
         // Construct the XML object
         const xmlObject = {
             urlset: [
@@ -35,9 +41,11 @@ class SitemapWriter {
         }
         // Generate the XML markup
         const xmlString = xml(xmlObject, {indent: ' '});
-        // Write the file to disk
+        let outname = this.outFile;
+        if(index > 0)
+            outname = outname.replace(".xml", `.${index}.xml`);
         await fs.writeFile(
-            this.outFile,
+            outname,
             '<?xml version="1.0" encoding="UTF-8"?>' + xmlString
         )
     }

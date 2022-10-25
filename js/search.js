@@ -602,7 +602,9 @@ async function ShowPublications(category, title, symbol, pubId) {
         for (let [title, items] of Object.entries((groups))) {
             let infos = Object.values(items);
             let info = infos[0];
+            let maxYear = infos[infos.length - 1].Year;
             let showYear = groupBy == 'Title' && info.Title.indexOf(info.Year) === -1 ? info.Year : '';
+            if(showYear && maxYear && showYear != maxYear) showYear += '-'+maxYear;
             let displayTitle = title;
             if(category === 'vod'){
                 displayTitle = CapitalizeCompressedString(title);
