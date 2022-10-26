@@ -691,6 +691,7 @@ var relatedFilesCategoryTitle;
 async function showRelatedFiles(store) {
     //console.log('showRelatedFiles', path);
     if (store == null) return;
+    let info = infoStore[store.infoId];
 
     let searchRefine = $("#searchRefineForm");
     let relatedDocs = $("#relatedDocuments");
@@ -708,7 +709,6 @@ async function showRelatedFiles(store) {
     let items = Object.values(getFilesForInfoId(store.infoId));
     console.log('Related files', items);
 
-    let info = infoStore[store.infoId];
     let issue = getIssueName(info, false);
 
     let list = $("<ul class='directory'></ul>");
@@ -730,7 +730,10 @@ async function showRelatedFiles(store) {
     if(info.Category === 'vod')
         relatedFilesCategoryTitle += " Subtitles";
 
-    setPageTitle(store.title + ((relatedFilesCategoryTitle !== store.title) ? " - " + relatedFilesCategoryTitle : '') + pageTitleEnd);
+    let titleYear = '';
+    if(!store.title.includes(info.Year.toString()) && !relatedFilesCategoryTitle.includes(info.Year.toString()))
+        titleYear = ` ${info.Year} `;
+    setPageTitle(store.title + titleYear + ((relatedFilesCategoryTitle !== store.title) ? " - " + relatedFilesCategoryTitle : '') + pageTitleEnd);
 
     if (relatedDocs.is(":visible")){
         await relatedDocs.fadeOut(200);
