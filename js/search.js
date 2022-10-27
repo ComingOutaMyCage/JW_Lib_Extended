@@ -487,8 +487,10 @@ async function ShowFile(docPath, replaceState= false){
         if(info.Title) AddDisclaimer(info);
         $('#contents').fadeIn(200);
         $('#currentFileBox').fadeIn(200);
-        setTimeout(AddChapters, 500);
-        ResetScroll();
+        setTimeout(function(){
+            AddChapters();
+            ResetScroll();
+        }, 10);
     }).catch(error => console.log(error.message));
 }
 
@@ -803,9 +805,28 @@ async function AddChapters(){
     ul.find('.chapter').remove();
 
     let list = [];
-    //if()
-    //let bookmarks = $("a[href^='#bookmark']");
+
     let bookmarks = $("[name^='bookmark']");
+    if(bookmarks.length == 0){
+        bookmarks = $("p.ss");
+    }
+    if(bookmarks.length === 0){
+        let numParagraphs = $("p").length;
+        bookmarks = [$("h1"),$("h2"),$("h3"),$("h4"),$("h5"),$("h6")];
+        bookmarks = bookmarks.filter(b=>b.length > 2 && b.length < numParagraphs / 5);
+        bookmarks = bookmarks.sort((a, b) => b.length - a.length);
+        if(bookmarks.length === 0)
+            bookmarks = [$("strong:first-child")];
+        if(bookmarks.length > 0) {
+            bookmarks = bookmarks[0];
+            let bookmark = 0;
+            bookmarks.each(function(){
+                if(this.innerText.length <= 3) return;
+                $(this).prepend(`<a name="bookmark${++bookmark}"></a>`);
+            })
+            bookmarks = $("[name^='bookmark']");
+        }
+    }
     if (bookmarks.length > 3 && bookmarks.length < 5000){
         //console.log(bookmarks.toArray().map(b=>b.innerText));
         let lastTitle = "";
@@ -829,7 +850,7 @@ async function AddChapters(){
             if(!title || title.length > 70 || title === lastTitle) return;
             if(title === title.toUpperCase())
                 title = title.toTitleCase();
-            let href = "#" + this.name;
+            let href = "#" + (this.id || this.name);
             lastTitle = title;
             if(lastElement !== null && ($(this).offset().top - $(lastElement).offset().top < 200)){
                 if(title.match(/[A-Z]/))

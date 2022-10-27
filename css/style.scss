@@ -283,6 +283,8 @@ ol, ul {
     &.chapter .title {
       padding-top: .1em;
       padding-bottom: .1em;
+      max-height: 3.2em;
+      overflow: hidden;
     }
   }
 }
@@ -535,7 +537,7 @@ ul.searchNav {
   top: 40vh;
   left: 40vw;
   background-color: white;
-  box-shadow: 0 0 40px 5px #000000cc;
+  box-shadow: 0px 8px 30px 5px #000000cc;
   max-height: 50vh;
   overflow-y: auto;
   border-radius: 10px;
