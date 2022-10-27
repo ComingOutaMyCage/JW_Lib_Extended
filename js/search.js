@@ -628,7 +628,8 @@ async function ShowPublications(category, title, symbol, pubId) {
         }
     }
 
-    setPageStates({'file': null, search: null, page: null, list: 'publications', category: category, title: title, symbol: symbol, pubId: pubId });
+    if(category || title || symbol || pubId || location.search !== '')
+        setPageStates({'file': null, search: null, page: null, list: 'publications', category: category, title: title, symbol: symbol, pubId: pubId });
 
     if (newPageTitle)
         setPageTitle(newPageTitle + pageTitleEnd);
