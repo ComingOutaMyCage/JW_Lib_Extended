@@ -800,12 +800,13 @@ async function showRelatedFiles(store) {
 }
 async function AddChapters(){
     let ul = $("#relatedDocuments ul");
+    ul.find('.chapter').remove();
 
     let list = [];
     //if()
     //let bookmarks = $("a[href^='#bookmark']");
     let bookmarks = $("[name^='bookmark']");
-    if (bookmarks.length > 3 && bookmarks.length < 200){
+    if (bookmarks.length > 3 && bookmarks.length < 5000){
         //console.log(bookmarks.toArray().map(b=>b.innerText));
         let lastTitle = "";
         let lastElement = null;
@@ -840,8 +841,11 @@ async function AddChapters(){
             }
             lastElement = this;
         });
-        ul.find('.chapter').remove();
-        ul.append(list);
+        if(list.length > 500){
+            list = list.filter(i=> !$(i).find('.title').text().match(/[*^@*$]/))
+        }
+        if(list.length < 1000)
+            ul.append(list);
     }
 }
 function setPageTitle(text){
