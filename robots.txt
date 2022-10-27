@@ -3,4 +3,4 @@ Sitemap: https://jws-library.one/sitemap.xml
 Sitemap: https://jws-library.one/sitemap2.xml
 User-agent:*
 Disallow:
-Disallow: /data/
+Disallow: /data/*.html$
