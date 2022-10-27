@@ -191,7 +191,7 @@ ol, ul {
 }
 .directory {
   .item{
-    min-height: 48px;
+    //min-height: 48px;
     &:not(:first-child) {
       border-top: 1px solid #dbd8d3;
     }
@@ -208,7 +208,7 @@ ol, ul {
       }
     }
     .thumbnail{
-      min-height: 48px;
+      //min-height: 48px;
       width: 48px;
       background-color: $color-primary-1;
       display: flex;
@@ -279,6 +279,10 @@ ol, ul {
       margin-left: 0.5em;
       margin-right: 0.5em;
       flex-grow: 1;
+    }
+    &.chapter .title {
+      padding-top: .1em;
+      padding-bottom: .1em;
     }
   }
 }
@@ -711,4 +715,7 @@ a.lookupScripture {
 .fa-angle-up {
   background-image: url('../images/chevron-up-icon.svg');
 
+}
+.document img {
+  max-width: 100%;
 }

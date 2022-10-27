@@ -105,6 +105,7 @@ function getSearchWords(){
     return words;
 }
 function getDateForInfo(info){
+    if(!info.Year && info[1] && info[1].Year) info = info[1];
     if(info.YMD) return info.YMD;
     let date = info.Year + '';
     if(info.Issue) {
@@ -128,6 +129,7 @@ async function DoSearch(){
     const input = $("input[type=search]");
     const searchStart = input.val();
     let words = getSearchWords();
+    if(!words.length) return;
     let thisSearchCount = StopLoading();
     searchDirty = false;
 
@@ -310,20 +312,28 @@ function SortInfosByYear(infos, reverse){
     if(!infos || infos.length === 0) return [];
     if (reverse) reverse = -1;
     else reverse = 1;
-    if(!infos[0].Year && infos[0][1].Year){
-        return infos.sort((a, b) => {
-            const timeA = getDateForInfo(a[1]);
-            const timeB = getDateForInfo(b[1]);
-            if(timeA < timeB) return -reverse;
-            if(timeA > timeB) return reverse;
-            return 0;
-        });
-    }
     return infos.sort((a, b) => {
         const timeA = getDateForInfo(a);
         const timeB = getDateForInfo(b);
         if(timeA < timeB) return -reverse;
         if(timeA > timeB) return reverse;
+        return 0;
+    });
+}
+function SortInfosByTitle(infos, reverse){
+    if(!infos || infos.length === 0) return [];
+    if (reverse) reverse = -1;
+    else reverse = 1;
+    if(!infos[0].Title && infos[0][1].Title)
+        infos.map(i => { i.sortTitle = i[1].Title.toUpperCase().replace(/["'\-“”]/g, ''); return 1;});
+    else
+        infos.map(i => { i.sortTitle = i.Title.toUpperCase().replace(/["'\-“”]/g, ''); return 1;});
+
+    return infos.sort((a, b) => {
+        const valA = a.sortTitle;
+        const valB = b.sortTitle;
+        if(valA < valB) return -reverse;
+        if(valA > valB) return reverse;
         return 0;
     });
 }
@@ -474,9 +484,10 @@ async function ShowFile(docPath, replaceState= false){
         $('#contents').find('style').remove();
 
         $('#resultsHeader').hide();
-        if(info.Title) AddDisclaimer();
+        if(info.Title) AddDisclaimer(info);
         $('#contents').fadeIn(200);
         $('#currentFileBox').fadeIn(200);
+        setTimeout(AddChapters, 500);
         ResetScroll();
     }).catch(error => console.log(error.message));
 }
@@ -492,20 +503,46 @@ function AddDisclaimer(info){
     }else {
         disclaimer.append(`<br/><a target="_blank" rel="noreferrer" href="https://archive.org/search.php?query=${encodeURIComponent(info.Title + " " + info.Year)}"><img src="images/icons/pdf.png" height="24"> Content is too old for wol.jw.org, original copies may be found on Archive.org</a>`);
     }
+    if(location.protocol === "http:"){
+        let path = encodeURIComponent("C:\\MyDev\\www\\JW_Lib_Extended\\" + getPath(getPageState('file')));
+        let path2 = encodeURIComponent("C:\\MyDev\\WT\\PDFs\\Books\\Sorted\\" + getPath(getPageState('file').substr(10)));
+        disclaimer.append(`<br/><br/><a href="OpenFolder:${path}">OPEN FOLDER</a>`);
+        disclaimer.append(`<br/><a href="OpenFolder:${path2}">OPEN PDF FOLDER</a>`);
+    }
     $('#docDisclaimer').remove();
     $('#contents').prepend(disclaimer[0].outerHTML);
 }
 
 function ResetScroll(){
+    console.log("ResetScroll");
     if (location.hash) {
         let element = $(location.hash + ",[name='" + location.hash.substr(1) + "']");
         if(element.length) {
-            $(window).scrollTo(element, {offset: { left: 0, top: -240,}});
+
+            ScrollToElement(element, -240);
+            //window.scroll(0, element.offset().top - 240);
+            //$(window).scrollTo(element, {offset: { left: 0, top: -240,}});
             return;
         }
         return;
     }
     window.scrollTo({top: 0, behavior: 'auto'});
+}
+function ScrollToElement(element, offset) {
+    let target = null;
+    let lastScrollTop = window.scrollY;
+    const checkIfScrollToIsFinished = setInterval(() => {
+        let curTarget = Math.max(0, element.offset().top + offset);
+        if (Math.abs(curTarget - window.scrollY) < 10) {
+            // do something
+            clearInterval(checkIfScrollToIsFinished);
+        }else if(lastScrollTop === window.scrollY){
+            target = curTarget;
+            console.log("Issue new scroll");
+            window.scroll(0, curTarget);
+        }
+        lastScrollTop = window.scrollY;
+    }, 25);
 }
 function getStoreForFile(path) {
     for (const [key, store] of Object.entries(index.store)) {
@@ -592,8 +629,14 @@ async function ShowPublications(category, title, symbol, pubId) {
     }
     else if(category) {
         let categoryName = PublicationCodes.codeToName[category];
-        list.append(`<a href="?list=publications"><h1><big>‹</big> ${categoryName}</h1></a>`);
-        let infos = SortInfosByYear(getInfosForCategory(category));
+        let sortSelect = $(`<select class="form-select w-auto d-inline-block" name='sort'><option value=''>By Year</option><option value='Title'>By Title</option></select>`);
+        sortSelect.find(`option[value='${getPageState('sort')}']`).attr('selected', 'selected');
+        list.append(`<a class="d-inline-block" href="?list=publications"><h1><big>‹</big> ${categoryName}</h1></a>&nbsp;&nbsp;`+ sortSelect[0].outerHTML);
+        let infos = getInfosForCategory(category);
+        if(getPageState('sort') === "Title")
+            infos = SortInfosByTitle(infos);
+        else
+            infos = SortInfosByYear(infos);
         let groupBy = getGroupByForCategory(category);
         let groups = {};
         let groupFirstLetter = false;
@@ -716,20 +759,20 @@ async function showRelatedFiles(store) {
 
     let issue = getIssueName(info, false);
 
-    let list = $("<ul class='directory'></ul>");
+    let newItems = [];
     if (items.length === 1) {
         let groupBy = getGroupByForCategory(info.Category);
         relatedFilesCategoryTitle = CapitalizeCompressedString(info[groupBy]);
-        list.append(buildDirectoryItem(`?list=publications&category=${info.Category}&${groupBy.toLowerCase()}=${encodeURICompClean(info[groupBy])}`, null, 'images/folder.svg', relatedFilesCategoryTitle, null, null, false, true).addClass('folder'));
+        newItems.push(buildDirectoryItem(`?list=publications&category=${info.Category}&${groupBy.toLowerCase()}=${encodeURICompClean(info[groupBy])}`, null, 'images/folder.svg', relatedFilesCategoryTitle, null, null, false, true).addClass('folder'));
     }
     else {
         relatedFilesCategoryTitle = info.Title + " " + issue;
-        list.append(buildDirectoryItem(`?list=publications&pubId=${info.Name}&year=${info.Year}`, null, 'images/folder.svg', relatedFilesCategoryTitle, null, null, false, true).addClass('folder'));
+        newItems.push(buildDirectoryItem(`?list=publications&pubId=${info.Name}&year=${info.Year}`, null, 'images/folder.svg', relatedFilesCategoryTitle, null, null, false, true).addClass('folder'));
     }
     for (const item of items){
         let title = item.title;
         if (items.length === 1) title += " " + issue;
-        list.append(buildDirectoryItem(null, item.path, 'images/file_docs_white.svg', title , null, null, true));
+        newItems.push(buildDirectoryItem(null, item.path, 'images/file_docs_white.svg', title , null, null, true));
     }
 
     if(info.Category === 'vod')
@@ -744,6 +787,8 @@ async function showRelatedFiles(store) {
         await relatedDocs.fadeOut(200);
     }
     relatedDocs.empty();
+    let list = $("<ul class='directory'></ul>");
+    list.append(newItems);
     relatedDocs.append(list);
 
     searchRefine.fadeOut(200, function() {
@@ -752,6 +797,52 @@ async function showRelatedFiles(store) {
 
     relatedDocs.attr('infoId', store.infoId);
     highlightRelatedFile();
+}
+async function AddChapters(){
+    let ul = $("#relatedDocuments ul");
+
+    let list = [];
+    //if()
+    //let bookmarks = $("a[href^='#bookmark']");
+    let bookmarks = $("[name^='bookmark']");
+    if (bookmarks.length > 3 && bookmarks.length < 200){
+        //console.log(bookmarks.toArray().map(b=>b.innerText));
+        let lastTitle = "";
+        let lastElement = null;
+        bookmarks.each(function(){
+            if(this.classList.contains('skip')) {
+                let siblingBookmarks = $(this.parentElement).find("[name^='bookmark']");
+                if(this.parentElement.tagName !== "BODY" && siblingBookmarks.length > 1 && siblingBookmarks.length < bookmarks.length / 2){
+                    siblingBookmarks.slice(1).addClass('skip');
+                }
+                return;
+            }
+            let title = this.innerText;
+            if(!title) {
+                title = this.parentElement.innerText;
+                let siblingBookmarks = $(this.parentElement).find("[name^='bookmark']");
+                if(this.parentElement.tagName !== "BODY" && siblingBookmarks.length > 1 && siblingBookmarks.length < bookmarks.length / 2){
+                    siblingBookmarks.slice(1).addClass('skip');
+                }
+            }
+            if(!title || title.length > 70 || title === lastTitle) return;
+            if(title === title.toUpperCase())
+                title = title.toTitleCase();
+            let href = "#" + this.name;
+            lastTitle = title;
+            if(lastElement !== null && ($(this).offset().top - $(lastElement).offset().top < 200)){
+                if(title.match(/[A-Z]/))
+                    $(list[list.length - 1]).find('.title').append(" " + title);
+            }else {
+                let item = buildDirectoryItem(href, null, null, title, null, null, true);
+                item.addClass('chapter');
+                list.push(item);
+            }
+            lastElement = this;
+        });
+        ul.find('.chapter').remove();
+        ul.append(list);
+    }
 }
 function setPageTitle(text){
     document.title = text.replace('—', '-');
@@ -952,6 +1043,10 @@ $(document).on('mouseenter', '#tooltip', function(){
 });
 $('#resultsHeader select').change(function(){
     DoSearch();
+});
+$(document).on('change', '.publications select', function(){
+    setPageState($(this).attr('name'), $(this).val());
+    pageStateChanged();
 });
 $("#regionBody").mouseenter(function(){
     if(searchDirty)
