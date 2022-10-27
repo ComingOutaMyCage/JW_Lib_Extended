@@ -968,9 +968,9 @@ $(document).ready(()=>{
     Begin();
     scrollListener = new ScrollListener();
 });
-if(getPageState('file')){
-    ShowFile(getPageState('file'));
-}
+// if(getPageState('file')){
+//     ShowFile(getPageState('file'));
+// }
 $(document).on('click', '#manualLoad', Begin);
 function Begin(){
     LoadCategories();
