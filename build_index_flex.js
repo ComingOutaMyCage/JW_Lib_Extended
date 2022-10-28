@@ -129,7 +129,7 @@ async function Process() {
 
         let htmltxtFiles = files.filter(x => x.endsWith('.html')).map(x=> x.replace(/.html$/, '.txt'));
 
-        let docFiles = files.filter(x => !x.endsWith('.json') && !x.endsWith('.vtt') && !htmltxtFiles.includes(x));
+        let docFiles = files.filter(x => (x.endsWith('.txt') || x.endsWith('.html')) && !htmltxtFiles.includes(x));
         docFiles.forEach(f => {
 
             let fileToLoad = f;

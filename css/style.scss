@@ -486,7 +486,7 @@ body {
     }
   }
 
-  body.nav-up {
+  body.nav-up:not(.showSideMenu) {
     #fixedHeader {
       top: -6em;
     }
@@ -528,6 +528,7 @@ ul.searchNav {
 .ts {
   color: #0486d3;
   font-style: italic;
+  cursor: pointer;
 }
 
 

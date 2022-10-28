@@ -148,9 +148,13 @@ async function DoSearch(){
     console.log("Search Maps Loaded");
 
     const itemsPerPage = 20;
-    const page = (getPageState('page') ?? 1) - 1;
+    let page = (getPageState('page') ?? 1) - 1;
     let rankBy = $("#rankSelector select").val();
-    if(rankBy === 'occ') rankBy = '';
+    if(rankBy === 'occ') rankBy = null;
+    if(rankBy !== getPageState('sort')) {
+        newPageState['page'] = null;
+        page = 0;
+    }
     let itemStart = itemsPerPage * page;
 
     let minYear = parseInt($("#minYear").val() ?? 1880);
@@ -324,17 +328,20 @@ function SortInfosByTitle(infos, reverse){
     if(!infos || infos.length === 0) return [];
     if (reverse) reverse = -1;
     else reverse = 1;
-    if(!infos[0].Title && infos[0][1].Title)
+    if(!infos[0].Title && infos[0][1] && infos[0][1].Title)
         infos.map(i => { i.sortTitle = i[1].Title.toUpperCase().replace(/["'\-“”]/g, ''); return 1;});
+    else if(infos[0].title)
+        infos.map(i => { i.sortTitle = i.title.toUpperCase().replace(/["'\-“”]/g, ''); return 1;});
     else
         infos.map(i => { i.sortTitle = i.Title.toUpperCase().replace(/["'\-“”]/g, ''); return 1;});
 
     return infos.sort((a, b) => {
         const valA = a.sortTitle;
         const valB = b.sortTitle;
-        if(valA < valB) return -reverse;
-        if(valA > valB) return reverse;
-        return 0;
+        return valA.localeCompare(valB, undefined, {
+            numeric: true,
+            sensitivity: 'base'
+        }) * reverse;
     });
 }
 function StopLoading() {
@@ -343,7 +350,7 @@ function StopLoading() {
     return ++searchCount;
 }
 var lastLocation;
-function pageStateChanged(e = null){
+async function pageStateChanged(e = null){
     if(lastLocation != null && lastLocation.search === location.search && lastLocation.hash !== location.hash){
         lastLocation = {...location};
         ResetScroll();
@@ -391,10 +398,10 @@ function pageStateChanged(e = null){
         if(!doc) searchDirty = true;
     }
     if(doc) {
-        ShowFile(doc);
+        await ShowFile(doc);
     }
-    if(searchDirty){
-        DoSearch();
+    else if(searchDirty){
+        await DoSearch();
     }
 }
 
@@ -434,7 +441,7 @@ async function ShowFile(docPath, replaceState= false){
         AddDisclaimer(info);
         return;
     }
-    fetch(docPath, {
+    await fetch(docPath, {
         cache: "force-cache",
         method: "get",
         signal: abortController.signal
@@ -576,15 +583,17 @@ async function ShowPublications(category, title, symbol, pubId) {
         let files = Object.values(getFilesForInfoId(infoId));
 
         if (files.length === 1) {
-            ShowFile(files[0].path, true);
+            await ShowFile(files[0].path, true);
             return;
         }
 
         let groupByFirstLetter = category === 'it' || files.length > 200;
+        if(pubId === 'The_Emphatic_Diaglott') groupByFirstLetter = false;
         if(groupByFirstLetter){
             if(title){
                 list.append(`<a href="?list=publications&pubId=${info.Name}&year=${info.Year}"><h1><big>‹</big> ${issue} ${info.Title} - ${title.toUpperCase()}</h1></a>`);
                 files = files.filter(f => f.title.match(/[a-z]/i)[0].toUpperCase() === title);
+                files = SortInfosByTitle(files);
                 for (const item of files) {
                     list.append(buildDirectoryItem(null, item.path, 'images/file_docs_white.svg', item.title, null, null, true));
                 }
@@ -596,6 +605,7 @@ async function ShowPublications(category, title, symbol, pubId) {
                 }
             }
         }else {
+            files = SortInfosByTitle(files);
             list.append(`<a href="?list=publications&category=${info.Category}&title=${encodeURICompClean(info.Title)}"><h1><big>‹</big> ${issue} ${info.Title}</h1></a>`);
             for (const item of files) {
                 list.append(buildDirectoryItem(null, item.path, 'images/file_docs_white.svg', item.title, null, null, true));
@@ -1011,6 +1021,7 @@ $(document).on('click', '#pagination a', function(){
         pageNum = getUrlParam(location.origin + location.pathname + href, 'page');
     setPageState('page', pageNum);
     DoSearch();
+    window.scrollTo({top: 0, behavior: 'auto'});
     return false;
 });
 $(document).on('click', 'a[href]:not(.paginator)', function(e){
@@ -1079,22 +1090,27 @@ $("#regionBody").mouseenter(function(){
 });
 
 var searchDirty = false;
-$('input').change(function () {
+$(document).on('input', 'input[type=search]', function () {
     searchDirty = true;
     $('#contents .results').fadeTo(600, 0.5);
 }).change($.debounce(1200, DoSearch));
 
 var scrollListener;
-$(document).ready(()=>{
-    Begin();
+$(document).ready(async function(){
     scrollListener = new ScrollListener();
+    await Begin();
 });
 // if(getPageState('file')){
 //     ShowFile(getPageState('file'));
 // }
 $(document).on('click', '#manualLoad', Begin);
-function Begin(){
+async function Begin(){
     LoadCategories();
+
+    $("#search-form input[type=search]").click(function(){
+        if(!$("#btnSideMenu").is(":visible")) return;
+        $("#btnSideMenu").click();
+    });
 
     GetPackedData('index/packed.zip')
         .then(async function (files) {
@@ -1111,24 +1127,10 @@ function Begin(){
             page_data_ready = true;
             $('#loading-state').html('');
 
-            $("input[type=search]").on('input', $.debounce(600, DoSearch));
-            pageStateChanged();
-            window.addEventListener('popstate', function (e) {
-                pageStateChanged(e);
-            });
+            //$("input[type=search]").on('input', $.debounce(600, DoSearch));
+            window.addEventListener('popstate', pageStateChanged);
+            await pageStateChanged();
         });
-
-    $("#search-form input[type=search]").click(function(){
-       if(!$("#btnSideMenu").is(":visible")) return;
-       $("#btnSideMenu").click();
-    });
-
-    // const el = document.querySelector("#currentFileBox");
-    // const observer = new IntersectionObserver(
-    //     ([e]) => e.target.classList.toggle("isSticky", e.intersectionRatio < 1),
-    //     { threshold: [1] }
-    // );
-    // observer.observe(el);
 }
 
 class ScrollListener{
