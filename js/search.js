@@ -105,11 +105,12 @@ function getSearchWords(){
     return words;
 }
 function getDateForInfo(info){
-    if(!info.Year && info[1] && info[1].Year) info = info[1];
+    if(!info.Year && info[1] && info[1].Year)
+        info = info[1];
     if(info.YMD) return info.YMD;
     let date = info.Year + '';
     if(info.Issue) {
-        let issueDate = info.Issue.toString().match(/^(\d{4})(\d{2})(\d{2})$/);
+        let issueDate = info.Issue.toString().match(/^(\d{4})(\d{2})($|\d{2})$/);
         if(issueDate) {
             info.Month = parseInt(issueDate[2]);
             info.Day = parseInt(issueDate[3]);
@@ -121,8 +122,11 @@ function getDateForInfo(info){
 function getIssueName(info, fullMonth = true){
     getDateForInfo(info);
     const months = fullMonth ? monthNamesFull : monthNames;
-    let issue = info.Month ? (months[info.Month - 1] + (info.Day > 0 ? (" " + info.Day) : '')) : '';
-    return issue;
+    if(info.Month) {
+        let issue = (months[info.Month - 1] + (info.Day > 0 ? (" " + info.Day) : ''));
+        return issue;
+    }
+    return info.Issue || '';
 }
 
 async function DoSearch(){
@@ -319,8 +323,8 @@ function SortInfosByYear(infos, reverse){
     return infos.sort((a, b) => {
         const timeA = getDateForInfo(a);
         const timeB = getDateForInfo(b);
-        if(timeA < timeB) return -reverse;
-        if(timeA > timeB) return reverse;
+        if(timeA < timeB) return reverse;
+        if(timeA > timeB) return -reverse;
         return 0;
     });
 }
@@ -568,12 +572,30 @@ async function ShowPublications(category, title, symbol, pubId) {
     $("#relatedDocuments").fadeOut(200, function(){
         $("#searchRefineForm").fadeIn(200);
     });
+    let UndatedReferenceTitle = getPageState('undatedreferencetitle');
     //await contents.fadeOut(200);
 
     let container = $(`<div class="publications"></div>`);
     let list = $("<ul class='directory'></ul>");
 
     let newPageTitle = null;
+    let infos = null;
+    let groupBy = null;
+    let showBy = null;
+
+    if(UndatedReferenceTitle) {
+        infos = getInfosForUndatedReferenceTitle(UndatedReferenceTitle, infos)
+        infos = SortInfosByYear(infos);
+        let info = infos[0][1];
+        list.append(`<a href="?list=publications&category=${info.Category}"><h1><big>‹</big> ${CapitalizeCompressedString(UndatedReferenceTitle)}</h1></a>`);
+        // for (const [infoId, info] of infos) {
+        //     let issue = getIssueName(info);
+        //     if(!issue)issue = info.Title;
+        //     list.append(buildDirectoryItem(`?list=publications&pubId=${info.Name}&year=${info.Year}`, null, `.icon-${info.Category}`, issue, null, null, true));
+        // }
+        groupBy = "Title";
+        //showBy = "Title";
+    }
 
     if(pubId) {
         const [infoId, info] = getInfoForPubId(pubId, getPageState('year')??0);
@@ -613,7 +635,7 @@ async function ShowPublications(category, title, symbol, pubId) {
         }
     }
     else if(symbol) {
-        let infos = getInfosForSymbol(symbol)
+        infos = getInfosForSymbol(symbol, infos)
         infos = SortInfosByYear(infos);
         let info = infos[0][1];
         list.append(`<a href="?list=publications&category=${info.Category}"><h1><big>‹</big> ${CapitalizeCompressedString(symbol)}</h1></a>`);
@@ -624,17 +646,16 @@ async function ShowPublications(category, title, symbol, pubId) {
         }
     }
     else if(title) {
-        let infos;
         if(title.startsWith('%'))
-            infos = getInfosForTitleStart(title.substr(1))
+            infos = getInfosForTitleStart(title.substr(1), infos)
         else
-            infos = getInfosForTitle(title)
+            infos = getInfosForTitle(title, infos)
         infos = SortInfosByYear(infos);
         let info = infos[0][1];
         list.append(`<a href="?list=publications&category=${info.Category}"><h1><big>‹</big> ${title}</h1></a>`);
         for (const [infoId, info] of infos) {
             let issue = getIssueName(info);
-            if(!issue)issue = info.Title;
+            if(!issue) issue = info.Title;
             let showYear = info.Title.indexOf(info.Year) === -1 ? info.Year : '';
             list.append(buildDirectoryItem(`?list=publications&pubId=${info.Name}&year=${info.Year}`, null, `.icon-${info.Category}`, issue, null, showYear, true));
         }
@@ -643,13 +664,15 @@ async function ShowPublications(category, title, symbol, pubId) {
         let categoryName = PublicationCodes.codeToName[category];
         let sortSelect = $(`<select class="form-select w-auto d-inline-block" name='sort'><option value=''>By Year</option><option value='Title'>By Title</option></select>`);
         sortSelect.find(`option[value='${getPageState('sort')}']`).attr('selected', 'selected');
-        list.append(`<a class="d-inline-block" href="?list=publications"><h1><big>‹</big> ${categoryName}</h1></a>&nbsp;&nbsp;`+ sortSelect[0].outerHTML);
-        let infos = getInfosForCategory(category);
+        if(!list[0].childNodes.length)
+            list.append(`<a class="d-inline-block" href="?list=publications"><h1><big>‹</big> ${categoryName}</h1></a>&nbsp;&nbsp;`+ sortSelect[0].outerHTML);
+        infos = getInfosForCategory(category, infos);
         if(getPageState('sort') === "Title")
-            infos = SortInfosByTitle(infos);
+            infos = SortInfosByTitle(infos, infos);
         else
-            infos = SortInfosByYear(infos);
-        let groupBy = getGroupByForCategory(category);
+            infos = SortInfosByYear(infos, infos);
+        if(!groupBy)
+            groupBy = getGroupByForCategory(category);
         let groups = {};
         let groupFirstLetter = false;
         for (const [infoId, info] of infos) {
@@ -659,17 +682,17 @@ async function ShowPublications(category, title, symbol, pubId) {
             groups[groupName][infoId] = info;
         }
         for (let [title, items] of Object.entries((groups))) {
-            let infos = Object.values(items);
-            let info = infos[0];
-            let maxYear = infos[infos.length - 1].Year;
-            let showYear = groupBy == 'Title' && info.Title.indexOf(info.Year) === -1 ? info.Year : '';
-            if(showYear && maxYear && showYear != maxYear) showYear += '-'+maxYear;
-            let displayTitle = title;
+            let subinfos = Object.values(items);
+            let info = subinfos[0];
+            let displayTitle = showBy ? info[showBy] : title;
+            let maxYear = subinfos[subinfos.length - 1].Year;
+            let showYear = displayTitle.indexOf(info.Year) === -1 ? info.Year : '';
+            if(info.Year != maxYear) showYear = info.Year+'-'+maxYear;
             if(category === 'vod'){
                 displayTitle = CapitalizeCompressedString(title);
             }else if(groupFirstLetter)
                 title = '%' + title;
-            if (infos.length === 1) {
+            if (subinfos.length === 1) {
                 list.append(buildDirectoryItem(`?list=publications&pubId=${info.Name}&year=${info.Year}`, null, `.icon-${info.Category}`, info.Title, null, showYear, true));
             } else {
                 list.append(buildDirectoryItem(`?list=publications&category=${info.Category}&${groupBy.toLowerCase()}=` + encodeURICompClean(title), null, `images/folder.svg`, displayTitle, null, showYear, true));
@@ -702,6 +725,7 @@ async function ShowPublications(category, title, symbol, pubId) {
 }
 function getGroupByForCategory(category){
     if(category == 'vod') return 'Symbol';
+    if(category == 'news') return 'UndatedReferenceTitle';
     return 'Title';
 }
 function getFilesForInfoId(infoId){
@@ -723,24 +747,34 @@ function getInfoForPubId(pubId, year=0){
             return [infoId, info];
     }
 }
-function getInfosForCategory(code){
-    return Object.entries(infoStore).filter(function([infoId, info]) {
+function getInfosForCategory(code, existingList = null){
+    if(existingList) existingList = Object.fromEntries(existingList);
+    return Object.entries(existingList ?? infoStore).filter(function([infoId, info]) {
         return info.Category === code;
     });
 }
-function getInfosForTitleStart(title){
-    return Object.entries(infoStore).filter(function([infoId, info]) {
+function getInfosForTitleStart(title, existingList = null){
+    if(existingList) existingList = Object.fromEntries(existingList);
+    return Object.entries(existingList ?? infoStore).filter(function([infoId, info]) {
         return info.Title.startsWith(title);
     });
 }
-function getInfosForTitle(title){
-    return Object.entries(infoStore).filter(function([infoId, info]) {
+function getInfosForTitle(title, existingList = null){
+    if(existingList) existingList = Object.fromEntries(existingList);
+    return Object.entries(existingList ?? infoStore).filter(function([infoId, info]) {
         return info.Title === title;
     });
 }
-function getInfosForSymbol(symbol){
-    return Object.entries(infoStore).filter(function([infoId, info]) {
+function getInfosForSymbol(symbol, existingList = null){
+    if(existingList) existingList = Object.fromEntries(existingList);
+    return Object.entries(existingList ?? infoStore).filter(function([infoId, info]) {
         return info.Symbol === symbol;
+    });
+}
+function getInfosForUndatedReferenceTitle(title, existingList = null){
+    if(existingList) existingList = Object.fromEntries(existingList);
+    return Object.entries(existingList ?? infoStore).filter(function([infoId, info]) {
+        return info.UndatedReferenceTitle === title;
     });
 }
 function CapitalizeCompressedString(text){
@@ -1092,8 +1126,8 @@ $("#regionBody").mouseenter(function(){
 var searchDirty = false;
 $(document).on('input', 'input[type=search]', function () {
     searchDirty = true;
-    $('#contents .results').fadeTo(600, 0.5);
-}).change($.debounce(1200, DoSearch));
+    $('#contents .results').fadeTo(600, 1.5);
+}).on('input', 'input[type=search]',$.debounce(1500, DoSearch));
 
 var scrollListener;
 $(document).ready(async function(){

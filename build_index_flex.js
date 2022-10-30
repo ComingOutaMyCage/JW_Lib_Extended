@@ -13,7 +13,7 @@ const bb26 = require('bb26')
 
 var fileIndex = 0;
 var quitAfter = 2000000000000;
-var minTermAppearance = 3;
+var minTermAppearance = 4;
 var maxTermAppearance = 0.75;
 
 var active = {};
@@ -195,14 +195,31 @@ async function Process() {
 
         let dir = 'index/';
         fs.mkdirSync(dir, { recursive: true });
-        // let map = index['index']['content']['map'];
-        // for (const [key, values] of Object.entries(map[0])) {
-        //     if (!(values.length < minTermAppearance || values.length > maxTermAppearance || key.match(/(\d[a-z]|[a-z]\d)/i))) continue;
-        //     for (const [index, set] of Object.entries(map)) {
-        //         delete set[key];
-        //     }
-        // }
-        // index['index']['content']['map'] = map;
+
+        {//Reduce
+            let maps = index['index']['content']['map'];
+            let flatCounts = {};
+            for (const map of Object.values(maps)) {
+                for (const [key, values] of Object.entries(map)) {
+                    if (flatCounts[key] === undefined) flatCounts[key] = values.length;
+                    else flatCounts[key] += values.length;
+                }
+            }
+            let toDelete = Object.fromEntries(Object.entries(flatCounts).filter(([key, value]) => value < minTermAppearance));
+            for (const map of Object.values(maps)) {
+                for(const key of Object.keys(toDelete))
+                    delete map[key];
+                // for (const [key, values] of Object.entries(map)) {
+                //     if (flatCounts[key] >= minTermAppearance) continue;
+                //     delete map[key];
+                //     //if (!(values.length < minTermAppearance || key.match(/(\d[a-z]|[a-z]\d)/i))) continue;
+                //     // for (const [index, set] of Object.entries(map)) {
+                //     //     delete set[key];
+                //     // }
+                // }
+            }
+            index['index']['content']['map'] = maps;
+        }
 
         workers = [];
         function exportIndexAsync(key, data) {

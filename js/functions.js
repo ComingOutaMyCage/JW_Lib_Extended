@@ -228,6 +228,7 @@ class PublicationCodes {
         'bk': 'Books',
         'yb': 'Year Book',
         'manual': 'Manuals / Guidelines',
+        'news': 'Publisher Newsletters',
         'mwb': 'Meeting Workbooks',
         'km': 'Kingdom Ministry',
         'brch': 'Brochures',
