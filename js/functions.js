@@ -125,15 +125,17 @@ function highlightTimestamps(contents){
 }
 
 String.prototype.hashCode = function() {
-    var hash = 0,
-        i, chr;
-    if (this.length === 0) return hash;
-    for (i = 0; i < this.length; i++) {
-        chr = this.charCodeAt(i);
-        hash = ((hash << 5) - hash) + chr;
-        hash |= 0; // Convert to 32bit integer
+    var i, l, hval = 0x811c9dc5;
+
+    for (i = 0, l = this.length; i < l; i++) {
+        hval ^= this.charCodeAt(i);
+        hval += (hval << 1) + (hval << 4) + (hval << 7) + (hval << 8) + (hval << 24);
     }
-    return hash;
+    // if( asString ){
+    //     // Convert to 8 digit hex string
+    //     return ("0000000" + (hval >>> 0).toString(16)).substr(-8);
+    // }
+    return hval >>> 0;
 }
 String.prototype.toProperCase = function () {
     return this.replace(/\w\S*/g, function(txt){return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();});

@@ -138,6 +138,10 @@ function getStoredItemTitle(storeItem){
     return storeItem.title;
 }
 
+async function DoSearchIfDirty(){
+    if(searchDirty)
+        await DoSearch();
+}
 async function DoSearch(){
     const input = $("input[type=search]");
     const searchStart = input.val();
@@ -281,7 +285,7 @@ async function DoSearch(){
         let issue = getIssueName(info);
         documents.push(`
 <ul class="result resultContentDocument">
-    <li class="caption"><a class="lnk" href='?file=data/${encodeURICompClean(result.doc.p)}' file="data/${result.doc.p}">${getStoredItemTitle(result.doc)}</a></li>
+    <li class="caption"><a class="lnk" target="_blank" href='?file=data/${encodeURICompClean(result.doc.p)}' file="data/${result.doc.p}">${getStoredItemTitle(result.doc)}</a></li>
     <li class="result"><ul class="resultItems"><li class="searchResult"></li><li class="ref">${info.Symbol} ${issue} - ${info.UDRT} (${info.Category}) - ${info.Year}</li></ul></li>
 </ul>`);
     }
@@ -323,7 +327,12 @@ async function DoSearch(){
     async function scanElement(element){
         if(thisSearchCount !== searchCount) return;
         let docPath = $(element).find('[file]').attr('file');
+        let lsKey = `se:${searchStart}:${docPath.hashCode()}`;
         if(searchExact){
+            let existingResult = localStorage.getItem(lsKey);
+            if (existingResult === "0"){
+                return;
+            }
             $("#pagination").text("Scanning " + $(element).find('li .ref').text());
         }
         await fetch(docPath, {
@@ -334,6 +343,9 @@ async function DoSearch(){
             const classes = GetClassesForContent(contents);
             const extracts = createExtracts(contents, words, 0, searchExact);
             if(thisSearchCount !== searchCount) return;
+            if (searchExact){
+                localStorage.setItem(lsKey, extracts.length > 0 ? "1" : "0");
+            }
             if(extracts.length) {
                 $(element).closest('.resultContentDocument').find('.searchResult').append(extracts).addClass(classes);
                 if (searchExact) {
@@ -1101,6 +1113,9 @@ $(document).on('click', '#pagination a', function(){
     return false;
 });
 $(document).on('click', 'a[href]:not(.paginator)', function(e){
+    if($(this).attr('target') === '_blank'){
+        return true;
+    }
     let doc = $(this).attr('file');
     if(doc) {
         ShowFile(doc);
@@ -1154,6 +1169,7 @@ $(document).on('mouseenter', '#tooltip', function(){
     }
 });
 $('#resultsHeader select').change(function(){
+    searchDirty = true;
     DoSearch();
 });
 $(document).on('change', '.publications select', function(){
@@ -1167,7 +1183,7 @@ $(document).on('click', '#startExactSearch', function(){
     searchDirty = true;
     setPageStates({
         search: null,
-        searchExact: getPageState("search"),
+        searchExact: $("input[type=search]").val(),
     });
     pageStateChanged();
 });
@@ -1180,7 +1196,7 @@ var searchDirty = false;
 $(document).on('input', 'input[type=search]', function () {
     searchDirty = true;
     $('#contents .results').fadeTo(600, 1.5);
-}).on('input', 'input[type=search]',$.debounce(1500, DoSearch));
+}).on('input', 'input[type=search]',$.debounce(1500, DoSearchIfDirty));
 
 var scrollListener;
 $(document).ready(async function(){
