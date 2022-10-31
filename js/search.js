@@ -1,4 +1,4 @@
-let search = getPageState('search') ?? '';
+let search = getPageState('search') ?? getPageState('searchExact') ?? '';
 $("input[type=search]").val(search);
 
 var page_data_ready = false;
@@ -142,7 +142,7 @@ async function DoSearch(){
     const input = $("input[type=search]");
     const searchStart = input.val();
     let words = getSearchWords();
-    if(!words.length) return;
+    if(!words.length) return false;
     let thisSearchCount = StopLoading();
     searchDirty = false;
 
@@ -151,7 +151,7 @@ async function DoSearch(){
     }
 
     let newPageState = {};
-    if(getPageState('search') !== searchStart){
+    if((getPageState('search') ?? getPageState('searchExact')) !== searchStart){
         newPageState['search'] = searchStart;
         let div = $('#contents');
         div.text('');
@@ -172,7 +172,7 @@ async function DoSearch(){
 
     let minYear = parseInt($("#minYear").val() ?? 1880);
     let maxYear = parseInt($("#maxYear").val() ?? 2022);
-    if(minYear < 1880 || maxYear < 1880) return;
+    if(minYear < 1880 || maxYear < 1880) return false;
     if(maxYear < minYear) {
         let tmp = minYear;
         minYear = maxYear;
@@ -189,6 +189,8 @@ async function DoSearch(){
     newPageState['minYear'] = minYear !== 1880 ? minYear : null;
     newPageState['maxYear'] = maxYear !== 2022 ? maxYear : null;
     setPageStates(newPageState);
+
+    let searchExact = getPageState('searchExact');
 
     let positiveWordsList = words.filter(w => !w.startsWith('-'))
     let positiveWords = positiveWordsList.join(' ');
@@ -268,6 +270,9 @@ async function DoSearch(){
     $("#resultsCount").text(results.length + " Results")
 
     let itemEnd = Math.min(itemStart + itemsPerPage, results.length);
+    if (searchExact){
+        itemEnd = Math.min(2000, results.length);
+    }
 
     let documents = [];
     for(let i = itemStart; i < itemEnd; i++) {
@@ -275,7 +280,7 @@ async function DoSearch(){
         let info = infoStore[result.doc.iid];
         let issue = getIssueName(info);
         documents.push(`
-<ul class="results resultContentDocument">
+<ul class="result resultContentDocument">
     <li class="caption"><a class="lnk" href='?file=data/${encodeURICompClean(result.doc.p)}' file="data/${result.doc.p}">${getStoredItemTitle(result.doc)}</a></li>
     <li class="result"><ul class="resultItems"><li class="searchResult"></li><li class="ref">${info.Symbol} ${issue} - ${info.UDRT} (${info.Category}) - ${info.Year}</li></ul></li>
 </ul>`);
@@ -308,22 +313,49 @@ async function DoSearch(){
     $("#relatedDocuments").fadeOut(200);
     $("#currentFileBox").fadeOut(0, function(){ $(this).html('') });
     $("#searchRefineForm").fadeIn(200);
-    $('#contents').empty().append($('<div class="results"></div>').append(documents));
+    if(searchExact)
+        $('#contents').empty().append($('<div id="results" class="results">Downloading each document and scanning</div>'));
+    else
+        $('#contents').empty().append($('<div id="results" class="results"></div>').append(documents));
     $('#contents').append($('<div id="pagination"></div>').append(pagination));
-    $('#contents').find('.resultContentDocument a[file]').each(function(){
+
+    let exactResults = 0;
+    async function scanElement(element){
         if(thisSearchCount !== searchCount) return;
-        let docPath = $(this).attr('file');
-        fetch(docPath, {
+        let docPath = $(element).find('[file]').attr('file');
+        if(searchExact){
+            $("#pagination").text("Scanning " + $(element).find('li .ref').text());
+        }
+        await fetch(docPath, {
             cache: "force-cache",
             method: "get",
             signal: signal,
         }).then(resp=>resp.text()).then((contents)=>{
             const classes = GetClassesForContent(contents);
-            const extracts = createExtracts(contents, words);
+            const extracts = createExtracts(contents, words, 0, searchExact);
             if(thisSearchCount !== searchCount) return;
-            $(this).closest('.resultContentDocument').find('.searchResult').append(extracts).addClass(classes);
+            if(extracts.length) {
+                $(element).closest('.resultContentDocument').find('.searchResult').append(extracts).addClass(classes);
+                if (searchExact) {
+                    exactResults++;
+                    $('#results').append($(element));
+                }
+            }
         }).catch(error => console.log(error.message));
-    });
+    }
+    if(searchExact){
+        for(const doc of documents){
+            await scanElement($(doc)[0]);
+            if(exactResults > 100) break;
+        }
+        $("#pagination").text("Scanning Finished" + ((exactResults > 100) ? " - Max 100 results reached" : ""));
+    } else{
+        let scanContext = $('#contents').find('.resultContentDocument');
+        scanContext.each(function(){
+            scanElement(this);
+        });
+    }
+    return true;
 }
 function SortInfosByYear(infos, reverse){
     if(!infos || infos.length === 0) return [];
@@ -378,7 +410,7 @@ async function pageStateChanged(e = null){
     let title = getPageState('title');
     let symbol = getPageState('symbol');
     let pubId = getPageState('pubId');
-    let search = getPageState('search');
+    let search = getPageState('search') ?? getPageState('searchExact');
     let doc = getPageState('file');
     let cat = getPageState('cat');
     let sort = getPageState('sort') ?? 'occ';
@@ -1126,6 +1158,17 @@ $('#resultsHeader select').change(function(){
 });
 $(document).on('change', '.publications select', function(){
     setPageState($(this).attr('name'), $(this).val());
+    pageStateChanged();
+});
+$(document).on('click', '#startExactSearch', function(){
+    if(!confirm("This will literally download and scan each result for an exact match.\r\nContinue?"))
+        return;
+    $('#contents').text('');
+    searchDirty = true;
+    setPageStates({
+        search: null,
+        searchExact: getPageState("search"),
+    });
     pageStateChanged();
 });
 $("#regionBody").mouseenter(function(){

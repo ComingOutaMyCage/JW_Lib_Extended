@@ -59,26 +59,30 @@ function highlightSearchTerms(contents, searchTerms){
 }
 var lastExtractsTerms;
 var extractsRegex;
-function createExtracts(content, searchTerms, limit=0){
+function createExtracts(content, searchTerms, limit=0, exactSearch=false){
     if(!content) return [];
     if(IsHtml(content)){
         content = striptags(content);
     }
     if(lastExtractsTerms !== searchTerms) {
         lastExtractsTerms = searchTerms;
-        if(searchTerms.length > 3) searchTerms = searchTerms.filter(t => t.length >= 3);
-        let cleanedTerms = searchTerms.map(s => escapeRegExp(s)).join('|');
+        if(!exactSearch && searchTerms.length > 3) searchTerms = searchTerms.filter(t => t.length >= 3);
+        let cleanedTerms = searchTerms.map(s => escapeRegExp(s)).join(exactSearch ? '\\s*' : '|');
         let regexes = [];
         let startMatch = (/(<p.{1,200}|[^\r\n]{1,100})/).toString().slice(1, -1);//I do this for my IDE. No judging
         let endMatch = (/(.{1,200}<\/p>|[^\r\n]{1,100})/).toString().slice(1, -1);
         console.log(startMatch);
-        if(searchTerms.length >= 4)
-            regexes.push(new RegExp(`${startMatch}(?<t1>${cleanedTerms})(?<f1>.{0,100})(?<t2>${cleanedTerms})(?<f2>.{0,100})(?<t3>${cleanedTerms})(?<f3>.{0,100})(?<t4>${cleanedTerms})${endMatch}`, 'ig'));
-        if(searchTerms.length >= 3)
-            regexes.push(new RegExp(`${startMatch}(?<t1>${cleanedTerms})(?<f1>.{0,100})(?<t2>${cleanedTerms})(?<f2>.{0,100})(?<t3>${cleanedTerms})${endMatch}`, 'ig'));
-        if(searchTerms.length >= 2)
-            regexes.push(new RegExp(`${startMatch}(?<t1>${cleanedTerms})(?<f1>.{0,100})(?<t2>${cleanedTerms})${endMatch}`, 'ig'));
-        regexes.push(new RegExp(`${startMatch}(?<t1>${cleanedTerms})${endMatch}`, 'ig'));
+        if(exactSearch){
+            regexes.push(new RegExp(`${startMatch}(?<t1>${cleanedTerms})${endMatch}`, 'ig'));
+        }else {
+            if (searchTerms.length >= 4)
+                regexes.push(new RegExp(`${startMatch}(?<t1>${cleanedTerms})(?<f1>.{0,100})(?<t2>${cleanedTerms})(?<f2>.{0,100})(?<t3>${cleanedTerms})(?<f3>.{0,100})(?<t4>${cleanedTerms})${endMatch}`, 'ig'));
+            if (searchTerms.length >= 3)
+                regexes.push(new RegExp(`${startMatch}(?<t1>${cleanedTerms})(?<f1>.{0,100})(?<t2>${cleanedTerms})(?<f2>.{0,100})(?<t3>${cleanedTerms})${endMatch}`, 'ig'));
+            if (searchTerms.length >= 2)
+                regexes.push(new RegExp(`${startMatch}(?<t1>${cleanedTerms})(?<f1>.{0,100})(?<t2>${cleanedTerms})${endMatch}`, 'ig'));
+            regexes.push(new RegExp(`${startMatch}(?<t1>${cleanedTerms})${endMatch}`, 'ig'));
+        }
         extractsRegex = regexes;
         console.log(regexes);
     }

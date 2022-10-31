@@ -389,7 +389,8 @@ async function Process() {
             delete (info.duration);
             delete (info.durationFormattedHHMM);
             delete (info.durationFormattedMinSec);
-            if (info.files) info.files = [info.files[info.files.length - 1]];
+            let file = info.files[info.files.length - 1];
+            info.files = [{ progressiveDownloadURL: file.progressiveDownloadURL, subtitles: { url: file.subtitles.url } }];
             delete (info.printReferences);
             delete (info.subtitlesUrl);
         }
