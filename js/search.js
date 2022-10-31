@@ -338,8 +338,10 @@ async function DoSearch(){
         await fetch(docPath, {
             cache: "force-cache",
             method: "get",
+            redirect: 'follow',
             signal: signal,
         }).then(resp=>resp.text()).then((contents)=>{
+            if(!contents || !contents.length) return;
             const classes = GetClassesForContent(contents);
             const extracts = createExtracts(contents, words, 0, searchExact);
             if(thisSearchCount !== searchCount) return;
