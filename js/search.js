@@ -356,8 +356,12 @@ async function DoSearch(){
         }).catch(error => console.log(error.message));
     }
     if(searchExact){
+        let index = 0;
         for(const doc of documents){
-            await scanElement($(doc)[0]);
+            if(index++ % 3 === 0)
+                await scanElement($(doc)[0]);
+            else
+                scanElement($(doc)[0]);
             if(exactResults > 100) break;
         }
         $("#pagination").text("Scanning Finished" + ((exactResults > 100) ? " - Max 100 results reached" : ""));
