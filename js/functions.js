@@ -67,7 +67,7 @@ function createExtracts(content, searchTerms, limit=0, exactSearch=false){
     if(lastExtractsTerms !== searchTerms) {
         lastExtractsTerms = searchTerms;
         if(!exactSearch && searchTerms.length > 3) searchTerms = searchTerms.filter(t => t.length >= 3);
-        let cleanedTerms = searchTerms.map(s => escapeRegExp(s)).join(exactSearch ? '(\\s*[.,;!\\(\\)\\-]*\\s*[.,;!\\-\\w]*\\s*[.,!;\\-\\(\\)]*\\s*)' : '|');
+        let cleanedTerms = searchTerms.map(s => escapeRegExp(s)).join(exactSearch ? '(\\s*[.,!;“”’—\'\\-\\(\\)]*\\s*[.,!;“”’—\'\\-\\(\\)\\w]*\\s*[.,!;“”’—\'\\-\\(\\)]*\\s*)' : '|');
         let regexes = [];
         let startMatch = (/(<p.{1,200}|[^\r\n]{1,100})/).toString().slice(1, -1);//I do this for my IDE. No judging
         let endMatch = (/(.{1,200}<\/p>|[^\r\n]{1,100})/).toString().slice(1, -1);
