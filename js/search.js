@@ -335,7 +335,7 @@ async function DoSearch(){
             }
             $("#pagination").text("Scanning " + $(element).find('li .ref').text());
         }
-        await fetch(docPath, {
+        await fetch(docPath.toLowerCase(), {
             cache: "force-cache",
             method: "get",
             redirect: 'follow',
@@ -360,10 +360,11 @@ async function DoSearch(){
     if(searchExact){
         let index = 0;
         for(const doc of documents){
-            // if(index++ % 3 === 0)
+            if(thisSearchCount !== searchCount) return false;
+            if(index++ % 3 === 0)
                 await scanElement($(doc)[0]);
-            // else
-            //     scanElement($(doc)[0]);
+            else
+                scanElement($(doc)[0]);
             if(exactResults > 100) break;
         }
         $("#pagination").text("Scanning Finished" + ((exactResults > 100) ? " - Max 100 results reached" : ""));
@@ -504,7 +505,7 @@ async function ShowFile(docPath, replaceState= false){
         AddDisclaimer(info);
         return;
     }
-    await fetch(docPath, {
+    await fetch(docPath.toLowerCase(), {
         cache: "force-cache",
         method: "get",
         signal: abortController.signal
