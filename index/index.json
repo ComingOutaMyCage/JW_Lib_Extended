@@ -1,1 +1,1 @@
-{"preset":"score","tokenize":"strict","encoder":"latin:extra","optimize":true,"resolution":30,"depth":2,"minlength":3,"bidirectional":true,"worker":false,"document":{"id":"id","tag":"tag","index":"content","store":["path","title","infoId"]},"cache":false}
+{"preset":"score","tokenize":"strict","encoder":"balance","optimize":true,"resolution":30,"depth":2,"minlength":3,"bidirectional":true,"worker":false,"document":{"id":"id","tag":"tag","index":"content","store":["p","t","iid"]},"cache":false}

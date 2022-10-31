@@ -69,7 +69,7 @@ async function GetPackedData(filename) {
 }
 
 async function LoadSearchMapsForWords(words){
-    let indexNames = words.map(w => GetIndexForWord(w.replace(/^-+/, '')) );
+    let indexNames = words.map(w => GetIndexForWord(index.index.content.encode(w.replace(/^-+/, ''))[0]) );
     let currentMaps = {};
     for (const indexName of Object.values(indexNames)){
         let searchMap = searchMaps[indexName];
@@ -127,6 +127,15 @@ function getIssueName(info, fullMonth = true){
         return issue;
     }
     return info.Issue || '';
+}
+
+function getStoredItemTitle(storeItem){
+    if(storeItem.title !== undefined) return storeItem.title;
+    if(storeItem.t)
+        storeItem.title = filenameWithoutExt(storeItem.p);
+    else
+        storeItem.title = infoStore[storeItem.iid].Title;
+    return storeItem.title;
 }
 
 async function DoSearch(){
@@ -191,9 +200,9 @@ async function DoSearch(){
         let titleRegex = new RegExp(escapeRegExp(positiveWords).replaceAll(' ', '.*').replace(/([a-z])s/ig, '$1\\W?s'), 'ig');
         let titleRegex2 = new RegExp(positiveWordsList.map(s => escapeRegExp(s)).join('|').replace(/([a-z])s/ig, '$1\\W?s'), 'ig');
         for (const [id, store] of Object.entries(index.store)) {
-            let info = infoStore[store.infoId];
+            let info = infoStore[store.iid];
             if(info.Year < minYear || info.Year > maxYear) continue;
-            let title = info.Title + (info.Title !== store.title ? " " + store.title : "");
+            let title = info.Title + (info.Title !== getStoredItemTitle(store) ? " " + getStoredItemTitle(store) : "");
             let matchScore2 = title.match(titleRegex2);
             if(!matchScore2 || matchScore2.length < positiveWordsList.length)
                 continue;
@@ -227,7 +236,7 @@ async function DoSearch(){
 
     if(minYear !== 1880 || maxYear !== 2022 || searchCats) {
         results = results.filter((result)=>{
-            let info = infoStore[result.doc.infoId];
+            let info = infoStore[result.doc.iid];
             if(info.Year < minYear || info.Year > maxYear)
                 return false;
             if(searchCats.length && !searchCats.includes(info.Category))
@@ -240,16 +249,16 @@ async function DoSearch(){
 
     if(rankBy === "newest"){
         results = results.sort((a, b) => {
-            const timeA = getDateForInfo(infoStore[a.doc.infoId]);
-            const timeB = getDateForInfo(infoStore[b.doc.infoId]);
+            const timeA = getDateForInfo(infoStore[a.doc.iid]);
+            const timeB = getDateForInfo(infoStore[b.doc.iid]);
             if(timeA < timeB) return 1;
             if(timeA > timeB) return -1;
             return 0;
         });
     }else if(rankBy === "oldest"){
         results = results.sort((a, b) => {
-            const timeA = getDateForInfo(infoStore[a.doc.infoId]);
-            const timeB = getDateForInfo(infoStore[b.doc.infoId]);
+            const timeA = getDateForInfo(infoStore[a.doc.iid]);
+            const timeB = getDateForInfo(infoStore[b.doc.iid]);
             if(timeA < timeB) return -1;
             if(timeA > timeB) return 1;
             return 0;
@@ -263,12 +272,12 @@ async function DoSearch(){
     let documents = [];
     for(let i = itemStart; i < itemEnd; i++) {
         let result = results[i]
-        let info = infoStore[result.doc.infoId];
+        let info = infoStore[result.doc.iid];
         let issue = getIssueName(info);
         documents.push(`
 <ul class="results resultContentDocument">
-    <li class="caption"><a class="lnk" href='?file=${encodeURICompClean(result.doc.path)}' file="${result.doc.path}">${result.doc.title}</a></li>
-    <li class="result"><ul class="resultItems"><li class="searchResult"></li><li class="ref">${info.Symbol} ${issue} - ${info.UndatedReferenceTitle} (${info.Category}) - ${info.Year}</li></ul></li>
+    <li class="caption"><a class="lnk" href='?file=data/${encodeURICompClean(result.doc.p)}' file="data/${result.doc.p}">${getStoredItemTitle(result.doc)}</a></li>
+    <li class="result"><ul class="resultItems"><li class="searchResult"></li><li class="ref">${info.Symbol} ${issue} - ${info.UDRT} (${info.Category}) - ${info.Year}</li></ul></li>
 </ul>`);
     }
     // console.log(documents);
@@ -334,8 +343,8 @@ function SortInfosByTitle(infos, reverse){
     else reverse = 1;
     if(!infos[0].Title && infos[0][1] && infos[0][1].Title)
         infos.map(i => { i.sortTitle = i[1].Title.toUpperCase().replace(/["'\-“”]/g, ''); return 1;});
-    else if(infos[0].title)
-        infos.map(i => { i.sortTitle = i.title.toUpperCase().replace(/["'\-“”]/g, ''); return 1;});
+    else if(infos[0].p)
+        infos.map(i => { i.sortTitle = getStoredItemTitle(i).toUpperCase().replace(/["'\-“”]/g, ''); return 1;});
     else
         infos.map(i => { i.sortTitle = i.Title.toUpperCase().replace(/["'\-“”]/g, ''); return 1;});
 
@@ -438,7 +447,7 @@ async function ShowFile(docPath, replaceState= false){
         setPageStates({'file': docPath}, replaceState, true);
         docPath = docPath.replace('\\', '/');
         let store = getStoreForFile(docPath);
-        info = infoStore[store.infoId];
+        info = infoStore[store.iid];
         showRelatedFiles(store);
     }
     if($("#contents input[name=file]").val() === docPath) {
@@ -558,8 +567,9 @@ function ScrollToElement(element, offset) {
     }, 25);
 }
 function getStoreForFile(path) {
+    if(path.startsWith("data/")) path = path.substr("data/".length);
     for (const [key, store] of Object.entries(index.store)) {
-        if (store.path === path)
+        if (store.p === path)
             return store;
     }
     return null;
@@ -572,7 +582,7 @@ async function ShowPublications(category, title, symbol, pubId) {
     $("#relatedDocuments").fadeOut(200, function(){
         $("#searchRefineForm").fadeIn(200);
     });
-    let UndatedReferenceTitle = getPageState('undatedreferencetitle');
+    let UndatedTitle = getPageState('udrt');
     //await contents.fadeOut(200);
 
     let container = $(`<div class="publications"></div>`);
@@ -583,11 +593,11 @@ async function ShowPublications(category, title, symbol, pubId) {
     let groupBy = null;
     let showBy = null;
 
-    if(UndatedReferenceTitle) {
-        infos = getInfosForUndatedReferenceTitle(UndatedReferenceTitle, infos)
+    if(UndatedTitle) {
+        infos = getInfosForUndatedReferenceTitle(UndatedTitle, infos)
         infos = SortInfosByYear(infos);
         let info = infos[0][1];
-        list.append(`<a href="?list=publications&category=${info.Category}"><h1><big>‹</big> ${CapitalizeCompressedString(UndatedReferenceTitle)}</h1></a>`);
+        list.append(`<a href="?list=publications&category=${info.Category}"><h1><big>‹</big> ${CapitalizeCompressedString(UndatedTitle)}</h1></a>`);
         // for (const [infoId, info] of infos) {
         //     let issue = getIssueName(info);
         //     if(!issue)issue = info.Title;
@@ -605,7 +615,7 @@ async function ShowPublications(category, title, symbol, pubId) {
         let files = Object.values(getFilesForInfoId(infoId));
 
         if (files.length === 1) {
-            await ShowFile(files[0].path, true);
+            await ShowFile("data/" + files[0].p, true);
             return;
         }
 
@@ -614,14 +624,14 @@ async function ShowPublications(category, title, symbol, pubId) {
         if(groupByFirstLetter){
             if(title){
                 list.append(`<a href="?list=publications&pubId=${info.Name}&year=${info.Year}"><h1><big>‹</big> ${issue} ${info.Title} - ${title.toUpperCase()}</h1></a>`);
-                files = files.filter(f => f.title.match(/[a-z]/i)[0].toUpperCase() === title);
+                files = files.filter(f => getStoredItemTitle(f).match(/[a-z]/i)[0].toUpperCase() === title);
                 files = SortInfosByTitle(files);
                 for (const item of files) {
-                    list.append(buildDirectoryItem(null, item.path, 'images/file_docs_white.svg', item.title, null, null, true));
+                    list.append(buildDirectoryItem(null, "data/" + item.p, 'images/file_docs_white.svg', getStoredItemTitle(item), null, null, true));
                 }
             }else {
                 list.append(`<a href="?list=publications&category=${info.Category}&title=${encodeURICompClean(info.Title)}"><h1><big>‹</big> ${issue} ${info.Title}</h1></a>`);
-                let chars = [...new Set(files.map(f => f.title.match(/[a-z]/i)[0].toUpperCase()))].sort();
+                let chars = [...new Set(files.map(f => getStoredItemTitle(f).match(/[a-z]/i)[0].toUpperCase()))].sort();
                 for (const char of chars) {
                     list.append(buildDirectoryItem(`?list=publications&pubId=${info.Name}&title=${char}&year=${info.Year}`, null, 'images/file_docs_white.svg', char.toUpperCase(), null, null, true));
                 }
@@ -630,7 +640,7 @@ async function ShowPublications(category, title, symbol, pubId) {
             files = SortInfosByTitle(files);
             list.append(`<a href="?list=publications&category=${info.Category}&title=${encodeURICompClean(info.Title)}"><h1><big>‹</big> ${issue} ${info.Title}</h1></a>`);
             for (const item of files) {
-                list.append(buildDirectoryItem(null, item.path, 'images/file_docs_white.svg', item.title, null, null, true));
+                list.append(buildDirectoryItem(null, "data/" + item.p, 'images/file_docs_white.svg', getStoredItemTitle(item), null, null, true));
             }
         }
     }
@@ -725,16 +735,16 @@ async function ShowPublications(category, title, symbol, pubId) {
 }
 function getGroupByForCategory(category){
     if(category == 'vod') return 'Symbol';
-    if(category == 'news') return 'UndatedReferenceTitle';
+    if(category == 'news') return 'UDRT';
     return 'Title';
 }
 function getFilesForInfoId(infoId){
-    //let infoId = store.infoId;
+    //let infoId = store.iid;
     let results = {};
     for (let id = Math.max(1, infoId - 50); id < infoId + 100; id++) {
         let store = index.store[id];
-        if (store === null || store.infoId > infoId) return results;
-        if (store.infoId != infoId) continue;
+        if (store === null || store.iid > infoId) return results;
+        if (store.iid != infoId) continue;
         results[id] = store;
     }
     return results;
@@ -774,7 +784,7 @@ function getInfosForSymbol(symbol, existingList = null){
 function getInfosForUndatedReferenceTitle(title, existingList = null){
     if(existingList) existingList = Object.fromEntries(existingList);
     return Object.entries(existingList ?? infoStore).filter(function([infoId, info]) {
-        return info.UndatedReferenceTitle === title;
+        return info.UDRT === title;
     });
 }
 function CapitalizeCompressedString(text){
@@ -785,22 +795,22 @@ var relatedFilesCategoryTitle;
 async function showRelatedFiles(store) {
     //console.log('showRelatedFiles', path);
     if (store == null) return;
-    let info = infoStore[store.infoId];
+    let info = infoStore[store.iid];
 
     let searchRefine = $("#searchRefineForm");
     let relatedDocs = $("#relatedDocuments");
-    if (relatedDocs.attr('infoId') == store.infoId) {
+    if (relatedDocs.attr('infoId') == store.iid) {
         highlightRelatedFile();
 
         searchRefine.fadeOut(200, function() {
             relatedDocs.fadeIn(200);
         });
 
-        setPageTitle(store.title + ((relatedFilesCategoryTitle !== store.title) ? " - " + relatedFilesCategoryTitle : '') + pageTitleEnd);
+        setPageTitle(getStoredItemTitle(store) + ((relatedFilesCategoryTitle !== getStoredItemTitle(store)) ? " - " + relatedFilesCategoryTitle : '') + pageTitleEnd);
         return;
     }
 
-    let items = Object.values(getFilesForInfoId(store.infoId));
+    let items = Object.values(getFilesForInfoId(store.iid));
     console.log('Related files', items);
 
     let issue = getIssueName(info, false);
@@ -816,18 +826,18 @@ async function showRelatedFiles(store) {
         newItems.push(buildDirectoryItem(`?list=publications&pubId=${info.Name}&year=${info.Year}`, null, 'images/folder.svg', relatedFilesCategoryTitle, null, null, false, true).addClass('folder'));
     }
     for (const item of items){
-        let title = item.title;
+        let title = getStoredItemTitle(item);
         if (items.length === 1) title += " " + issue;
-        newItems.push(buildDirectoryItem(null, item.path, 'images/file_docs_white.svg', title , null, null, true));
+        newItems.push(buildDirectoryItem(null, "data/" + item.p, 'images/file_docs_white.svg', title , null, null, true));
     }
 
     if(info.Category === 'vod')
         relatedFilesCategoryTitle += " Subtitles";
 
     let titleYear = '';
-    if(!store.title.includes(info.Year.toString()) && !relatedFilesCategoryTitle.includes(info.Year.toString()))
+    if(!getStoredItemTitle(store).includes(info.Year.toString()) && !relatedFilesCategoryTitle.includes(info.Year.toString()))
         titleYear = ` ${info.Year} `;
-    setPageTitle(store.title + titleYear + ((relatedFilesCategoryTitle !== store.title) ? " - " + relatedFilesCategoryTitle : '') + pageTitleEnd);
+    setPageTitle(getStoredItemTitle(store) + titleYear + ((relatedFilesCategoryTitle !== getStoredItemTitle(store)) ? " - " + relatedFilesCategoryTitle : '') + pageTitleEnd);
 
     if (relatedDocs.is(":visible")){
         await relatedDocs.fadeOut(200);
@@ -841,7 +851,7 @@ async function showRelatedFiles(store) {
         $('#relatedDocuments').fadeIn(200);
     });
 
-    relatedDocs.attr('infoId', store.infoId);
+    relatedDocs.attr('infoId', store.iid);
     highlightRelatedFile();
 }
 async function AddChapters(){
