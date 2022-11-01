@@ -43,6 +43,10 @@ a.nav-link img {
 }
 .navbar {
   background-color: $color-primary-0 !important;
+  @media only print {
+    background: black;
+    color: white;
+  }
 
   .navbar-brand {
     img { vertical-align: baseline; }
@@ -325,6 +329,9 @@ body {
 }
 #fixedHeader {
   position: fixed;
+  @media print {
+    position: relative;
+  }
   top: 0;
   width: 100%;
   max-width: 1600px;
@@ -361,7 +368,7 @@ body {
     height: calc(100vh - 124px);
   }
 }
-@media only screen and (max-width: 1200px){
+@media print, only screen and (max-width: 1200px){
   #fixedHeader .navbar {
     height: 3rem;
     color: white;
@@ -376,6 +383,9 @@ body {
   #regionMain {
     padding-top: 6em;
     min-height: 100vh;
+    @media print {
+      padding-top: 0;
+    }
   }
   #secondaryNavContent {
     position: fixed;
@@ -394,7 +404,7 @@ body {
     width:300px;
   }
 }
-@media only screen and (max-width: 800px) {
+@media print, screen and (max-width: 800px) {
   #regionBodyInner {
     margin-left: 0;
     padding: 1em 50px 5em 50px;
@@ -410,28 +420,34 @@ body {
     }
   }
   #docDisclaimer {
-   margin-top: 100px;
+    @media screen {
+      margin-top: 100px;
+    }
   }
   #currentFileBox {
     display: block !important;
     width: 100%;
-    position: fixed;
-    height: 0;
-    top: 6em;
+    @media screen {
+      position: fixed;
+      top: 6em;
+      height: 0;
+    }
     z-index: 1;
     transition: top 0.4s ease-in-out, padding 0.4s ease-in-out;
-    body.nav-up & {
-      position: fixed;
-      top: 0;
+    @media screen {
+      body.nav-up & {
+        position: fixed;
+        top: 0;
 
-      .item, .thumbnail {min-height: 16px;}
-      img {
-        max-height: 16px;
-      }
-      .item {
-        .title {
-          padding-top: 0.1em;
-          padding-bottom: 0.1em;
+        .item, .thumbnail {min-height: 16px;}
+        img {
+          max-height: 16px;
+        }
+        .item {
+          .title {
+            padding-top: 0.1em;
+            padding-bottom: 0.1em;
+          }
         }
       }
     }

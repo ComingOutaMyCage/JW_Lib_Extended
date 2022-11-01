@@ -100,6 +100,8 @@ async function LoadSearchMapsForWords(words){
 function getSearchWords(){
     let words = $("input[type=search]").val().trim().replace(/\s{2,5}/g, ' ');
     if (!words) return [];
+    words = words.replace(/sh[ae]?ph?[ea]?r?d/gi, "Shepherd");
+    words = words.replace(/di?sf.ll?o?w?sh?i?p/gi, "disfellowship");
     words = words.replace(/["'“”’—”]/g, '').split(' ');
     //words = words.match(/\w+|"[^"]+"/g).map(s => s.replaceAll('"', ''));
     return words;
@@ -195,6 +197,7 @@ async function DoSearch(){
     setPageStates(newPageState);
 
     let searchExact = getPageState('searchExact');
+    if(words.length <= 1) searchExact = false;
 
     let positiveWordsList = words.filter(w => !w.startsWith('-'))
     let positiveWords = positiveWordsList.join(' ');
@@ -204,17 +207,24 @@ async function DoSearch(){
     let matchingTitles2 = [];
     if(positiveWords.length > 1) {
         let titleRegex = new RegExp(escapeRegExp(positiveWords).replaceAll(' ', '.*').replace(/([a-z])s/ig, '$1\\W?s'), 'ig');
+        //let titleRegex = new RegExp(positiveWordsList.map(s => escapeRegExp(s).replace(/([a-z])s/ig, '$1\\W?s')).join(fuzzyExactMatchRegexJoiner()), 'ig');
         let titleRegex2 = new RegExp(positiveWordsList.map(s => escapeRegExp(s)).join('|').replace(/([a-z])s/ig, '$1\\W?s'), 'ig');
         for (const [id, store] of Object.entries(index.store)) {
             let info = infoStore[store.iid];
             if(info.Year < minYear || info.Year > maxYear) continue;
-            let title = info.Title + (info.Title !== getStoredItemTitle(store) ? " " + getStoredItemTitle(store) : "");
+            if(searchCats.length > 0 && !searchCats.includes(info.Category)) continue;
+            let storeTitle = getStoredItemTitle(store);
+            let title = info.UDRT || info.Title;
+            // if(title == "Pay Attention To Yourselves And To All The Flock")
+            //     debugger;
+            if (info.Title !== storeTitle) title += " " + storeTitle;
+            title += ` ${info.Symbol} ${info.issue} ${info.UDRT} ${info.Year}`
             let matchScore2 = title.match(titleRegex2);
             if(!matchScore2 || matchScore2.length < positiveWordsList.length)
                 continue;
             let matchScore = title.match(titleRegex);
             if (matchScore) {
-                matchingTitles.push({id: id, doc: store});
+                matchingTitles.push({id: id, doc: store, searched: title});
                 continue;
             }
             if (matchScore2) {
@@ -283,10 +293,12 @@ async function DoSearch(){
         let result = results[i]
         let info = infoStore[result.doc.iid];
         let issue = getIssueName(info);
+        let title = (getStoredItemTitle(result.doc));
+        let ref = (`${info.Symbol} ${issue} - ${info.UDRT} (${info.Category}) - ${info.Year}`);
         documents.push(`
 <ul class="result resultContentDocument">
-    <li class="caption"><a class="lnk" target="_blank" href='?file=data/${encodeURICompClean(result.doc.p)}' file="data/${result.doc.p}">${getStoredItemTitle(result.doc)}</a></li>
-    <li class="result"><ul class="resultItems"><li class="searchResult"></li><li class="ref">${info.Symbol} ${issue} - ${info.UDRT} (${info.Category}) - ${info.Year}</li></ul></li>
+    <li class="caption"><a class="lnk" target="_blank" href='?file=data/${encodeURICompClean(result.doc.p)}' file="data/${result.doc.p}">${title}</a></li>
+    <li class="result"><ul class="resultItems"><li class="searchResult"></li><li class="ref">${ref}</li></ul></li>
 </ul>`);
     }
     // console.log(documents);
@@ -615,7 +627,7 @@ function ScrollToElement(element, offset) {
             window.scroll(0, curTarget);
         }
         lastScrollTop = window.scrollY;
-    }, 25);
+    }, 100);
 }
 function getStoreForFile(path) {
     if(path.startsWith("data/")) path = path.substr("data/".length);
