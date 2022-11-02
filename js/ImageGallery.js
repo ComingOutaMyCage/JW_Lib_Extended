@@ -45,6 +45,7 @@ class ImageGallery {
     <input id="shareUrl" type="url" class="form-control" style="max-width: 500px" name="shareURL" value="${seedUrl}" />
     <div class="input-group-append"><button type="button" onclick="ImageGallery.CopyUrlToClipboard()" class="btn btn-primary" type="button">Copy Shareable Link</button></div>
 </div>
+<span style="color: white">Clicking an image will take you to that spot in the article.</span>
 </div>`
         $("#contents").empty().append(ControlBar).append(pagination.clone()).append(imageFlow).append(pagination).append("<div style='height: 200px'></div>");
     }
