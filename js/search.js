@@ -305,26 +305,7 @@ async function DoSearch(){
     const signal = abortController.signal
 
     $('#resultsHeader').show();
-    let maxPage = Math.ceil(results.length / itemsPerPage);
-    let pagination = '';
-    let paginationStart = Math.max(1, page - 3);
-    let paginationEnd = Math.min(maxPage, paginationStart + 9);
-    let paginationURL = new URL(location);
-    if (paginationStart > 1) {
-        paginationURL.searchParams.set('page', 1);
-        pagination += `<a href='${paginationURL.search}' class="paginator"><span>1</span></a>`;
-    }
-    for(let i = paginationStart; i <= paginationEnd; i++){
-        paginationURL.searchParams.set('page', i);
-        let active = (page + 1) === i ? 'active' : '';
-        pagination += `<a class="${active} paginator" href='${paginationURL.search}'><span>${i}</span></a>`;
-    }
-    if(paginationEnd != maxPage) {
-        pagination += `<a href='#${maxPage}' class="paginator" ><span>...</span></a>`;
-
-        paginationURL.searchParams.set('page', maxPage);
-        pagination += `<a href='${paginationURL.search}'><span>${maxPage}</span></a>`;
-    }
+    let pagination = generatePagination(results.length, itemsPerPage, page);
 
     $("#relatedDocuments").fadeOut(200);
     $("#currentFileBox").fadeOut(0, function(){ $(this).html('') });
@@ -333,7 +314,7 @@ async function DoSearch(){
         $('#contents').empty().append($('<div id="results" class="results">Downloading each document and scanning</div>'));
     else
         $('#contents').empty().append($('<div id="results" class="results"></div>').append(documents));
-    $('#contents').append($('<div id="pagination"></div>').append(pagination));
+    $('#contents').append(pagination);
 
     let exactResults = 0;
     async function scanElement(element){
@@ -345,7 +326,7 @@ async function DoSearch(){
             if (existingResult === "0"){
                 return;
             }
-            $("#pagination").text("Scanning " + $(element).find('li .ref').text());
+            $(".pagination").text("Scanning " + $(element).find('li .ref').text());
         }
         await fetch(docPath.toLowerCase(), {
             cache: "force-cache",
@@ -379,7 +360,7 @@ async function DoSearch(){
                 scanElement($(doc)[0]);
             if(exactResults > 100) break;
         }
-        $("#pagination").text("Scanning Finished" + ((exactResults > 100) ? " - Max 100 results reached" : ""));
+        $(".pagination").text("Scanning Finished" + ((exactResults > 100) ? " - Max 100 results reached" : ""));
     } else{
         let scanContext = $('#contents').find('.resultContentDocument');
         scanContext.each(function(){
@@ -387,6 +368,36 @@ async function DoSearch(){
         });
     }
     return true;
+}
+function generatePagination(items, itemsPerPage, page, addRandom = false){
+    page = parseInt(page);
+    let maxPage = Math.ceil(items / itemsPerPage);
+    let pagination = '';
+    let paginationStart = Math.max(1, page - 3);
+    let paginationEnd = Math.min(maxPage, paginationStart + 9);
+    let paginationURL = new URL(location);
+    if(addRandom){
+        let randomPage = Math.floor(maxPage * Math.random());
+        paginationURL.searchParams.set('page', randomPage);
+        pagination += `<a href='${paginationURL.search}' class="random paginator"><span>🔀 Random Page</span></a>`;
+    }
+    if (paginationStart > 1) {
+        paginationURL.searchParams.set('page', 1);
+        pagination += `<a href='${paginationURL.search}' class="paginator"><span>1</span></a>`;
+        pagination += `<a href='#${maxPage}' class="paginator" ><span>...</span></a>`;
+    }
+    for(let i = paginationStart; i <= paginationEnd; i++){
+        paginationURL.searchParams.set('page', i);
+        let active = (page + 1) === i ? 'active' : '';
+        pagination += `<a class="${active} paginator" href='${paginationURL.search}'><span>${i}</span></a>`;
+    }
+    if(paginationEnd !== maxPage) {
+        pagination += `<a href='#${maxPage}' class="paginator" ><span>...</span></a>`;
+
+        paginationURL.searchParams.set('page', maxPage);
+        pagination += `<a href='${paginationURL.search}'><span>${maxPage}</span></a>`;
+    }
+    return $('<div class="pagination"></div>').append(pagination);
 }
 function SortInfosByYear(infos, reverse){
     if(!infos || infos.length === 0) return [];
@@ -448,6 +459,10 @@ async function pageStateChanged(e = null){
     let minYear = getPageState('minYear') ?? '1880';
     let maxYear = getPageState('maxYear') ?? '2022';
 
+    if(list === "image-gallery"){
+        ImageGallery.ShowGallery();
+        return;
+    }
     if(list === 'publications' || (!doc && !search)){
         ShowPublications(category, title, symbol, pubId);
         return;
@@ -601,7 +616,13 @@ function AddDisclaimer(info){
 function ResetScroll(){
     console.log("ResetScroll");
     if (location.hash) {
-        let element = $(location.hash + ",[name='" + location.hash.substr(1) + "']");
+        let element;
+        if(location.hash.startsWith("#imgsrc")){
+            element = $("img[src$='" + location.hash.substr(location.hash.indexOf('=') + 1) + "']")
+        }
+        else {
+            element = $(location.hash + ",[name='" + location.hash.substr(1) + "']");
+        }
         if(element.length) {
 
             ScrollToElement(element, -240);
@@ -774,6 +795,7 @@ async function ShowPublications(category, title, symbol, pubId) {
     }
     else {
         newPageTitle = "Publications"
+        list.append(buildDirectoryItem(`?list=image-gallery`, null, `.icon-images`, 'Image Gallery', 'View the thousands of images', 'Wow!', true));
         for (const [code, name] of Object.entries(PublicationCodes.codeToName)) {
             list.append(buildDirectoryItem(`?list=publications&category=${code}`, null, `.icon-${code}`, name, null, null, true));
         }
@@ -1115,7 +1137,7 @@ $(document).on('click', 'i.ts', function(){
 $(document).on('click', '#btnSideMenu,#searchBackdrop', function(){
     $('body').toggleClass('showSideMenu');
 });
-$(document).on('click', '#pagination a', function(){
+$(document).on('click', '.pagination a', function(){
     let href = $(this).attr('href');
     let pageNum = null;
     if (href.startsWith('#')) {
@@ -1127,7 +1149,10 @@ $(document).on('click', '#pagination a', function(){
     }else
         pageNum = getUrlParam(location.origin + location.pathname + href, 'page');
     setPageState('page', pageNum);
-    DoSearch();
+    if (getPageState('search'))
+        DoSearch();
+    else if (getPageState('list') == 'image-gallery')
+        ImageGallery.ShowGallery();
     window.scrollTo({top: 0, behavior: 'auto'});
     return false;
 });

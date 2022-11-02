@@ -175,6 +175,15 @@ function HtmlEncode(s) {
     return s;
 }
 
+function setUrlState(href, param, value) {
+    //console.log(param + " = " + value);
+    let newURL = new URL(href);
+    if (value == null || value === '' || value === '[""]' || value === '[]')
+        newURL.searchParams.delete(param);
+    else
+        newURL.searchParams.set(param, value);
+    return newURL.toString();
+}
 function setPageState(param, value) {
     //console.log(param + " = " + value);
     let newURL = new URL(location.href);

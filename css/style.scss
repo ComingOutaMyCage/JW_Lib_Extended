@@ -169,8 +169,9 @@ ol, ul {
     font-weight: 300;
   }
 }
-#pagination {
+.pagination {
   display: flex;
+  flex-wrap: wrap;
   gap: 5px;
   a {
     &.active{
@@ -191,6 +192,10 @@ ol, ul {
       display: inline-block;
       margin: auto auto;
     }
+  }
+  .random {
+    width: 10em;
+    white-space: nowrap;
   }
 }
 #startExactSearch {
@@ -248,6 +253,7 @@ ol, ul {
       .icon-trct { background-image: url('../images/icons/trct.svg'); }
       .icon-w { background-image: url('../images/icons/w.svg'); }
       .icon-web { background-image: url('../images/icons/web.svg'); }
+      .icon-images { background-image: url('../images/polaroid.svg'); }
     }
     &.folder {
       .thumbnail {
@@ -286,6 +292,15 @@ ol, ul {
       margin-left: 0.5em;
       margin-right: 0.5em;
       flex-grow: 1;
+      flex-direction: column;
+      display: flex;
+    }
+    .title:has(.subtext){
+      padding-top: 0.5em;
+      padding-bottom: 0.5em;
+    }
+    .subtext {
+      font-size: 90%;
     }
     &.chapter .title {
       padding-top: .1em;
@@ -740,4 +755,47 @@ a.lookupScripture {
 }
 .document img {
   max-width: 100%;
+}
+
+.imageFlow {
+  display: flex;
+  flex-wrap: wrap;
+  &::after {
+    content: '';
+    flex-grow: 999999999;
+  }
+  div {
+    margin: 2px;
+    background-color: #ffffff;
+    position: relative;
+  }
+  i{
+    display: block;
+  }
+  img {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    vertical-align: bottom;
+    @media screen and (min-width: 1000px){
+      &:hover{
+        z-index: 2;
+        min-width: 400px;
+        box-shadow: 0 0 20px 10px #000;
+        top: -40px;
+      }
+    }
+  }
+}
+#regionMain:has(.imageFlow){
+  background-color: #343d4a;
+  #regionBodyInner {
+    margin-left: 0;
+  }
+  #secondaryNavContent {
+    display: none;
+  }
+}
+.input-group .btn {
+  z-index: 1;//Bootstrap default is z-index: 2
 }
