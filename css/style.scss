@@ -769,6 +769,7 @@ a.lookupScripture {
     margin: 2px;
     background-color: #ffffff;
     position: relative;
+    max-width: 46%;
   }
   i{
     display: block;
@@ -792,6 +793,10 @@ a.lookupScripture {
   background-color: #343d4a;
   #regionBodyInner {
     margin-left: 0;
+    @media screen and (max-width: 1600px) {
+      padding-left: 0.2em;
+      padding-right: 0.2em;
+    }
   }
   #secondaryNavContent {
     display: none;
