@@ -44,7 +44,7 @@ async function GetPackedData(filename) {
         });
     })
     .then(function (data) {
-        $('#loading-state').html('<h2>Unpacking</h2>');
+        $('#loading-state').html('<h2>Unpacking</h2><img src="images/examples/Heatmap Genesis.png" height="1"/>');
         return JSZip.loadAsync(data, {
             // decodeFileName: function (bytes) {
             //     return Encoding.codeToString(Encoding.convert(bytes, { to: 'ASCII', from: 'UTF8' }));
@@ -53,6 +53,7 @@ async function GetPackedData(filename) {
         });
     })
     .then(async function (data) {
+        $('#loading-state').html('<img src="images/examples/Heatmap Revelation.png" height="1"/>');
         let files = {};
         for (const [key, file] of Object.entries(data.files)){
             const contents = await file.async("string");
@@ -65,7 +66,9 @@ async function GetPackedData(filename) {
             newCache.add(filename, JSON.stringify(files));
         $('#loading-state').html('');
         return files;
-    });
+    }).then(function(data){
+        return data;
+    })
 }
 
 async function LoadSearchMapsForWords(words){
@@ -1279,7 +1282,7 @@ async function Begin(){
         $("#btnSideMenu").click();
     });
 
-    await GetPackedData('index/packed.zip')
+    let packedPromise = GetPackedData('index/packed.zip')
         .then(async function (files) {
 
             let options = files['index.json'];
@@ -1302,7 +1305,12 @@ async function Begin(){
                 FileOnceStoreLoaded();
             }
         });
+    // while (!page_data_ready){
+    // }
 }
+// window.onload = function(){
+//    $('body').css('background-color', 'red');
+// }
 
 class ScrollListener{
     didScroll;
