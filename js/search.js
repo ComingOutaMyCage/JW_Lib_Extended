@@ -453,7 +453,7 @@ async function pageStateChanged(e = null){
     let symbol = getPageState('symbol');
     let pubId = getPageState('pubId');
     let search = getPageState('search') ?? getPageState('searchExact');
-    let doc = getPageState('file');
+    let file = getPageState('file');
     let cat = getPageState('cat');
     let sort = getPageState('sort') ?? 'occ';
     let minYear = getPageState('minYear') ?? '1880';
@@ -463,7 +463,7 @@ async function pageStateChanged(e = null){
         ImageGallery.ShowGallery();
         return;
     }
-    if(list === 'publications' || (!doc && !search)){
+    if(list === 'publications' || (!file && !search)){
         ShowPublications(category, title, symbol, pubId);
         return;
     }
@@ -486,10 +486,10 @@ async function pageStateChanged(e = null){
     if(search) {
         if($("input[type=search]").val() !== search)
             $("input[type=search]").val(search);
-        if(!doc) searchDirty = true;
+        if(!file) searchDirty = true;
     }
-    if(doc) {
-        await ShowFile(doc);
+    if(file) {
+        await ShowFile(file);
     }
     else if(searchDirty){
         await DoSearch();
@@ -520,6 +520,7 @@ function LoadCategories(){
 }
 async function ShowFile(docPath, replaceState= false){
     let info;
+    let preload = null;
     if(index && index.store) {
         StopLoading();
         setPageStates({'file': docPath}, replaceState, true);
@@ -527,16 +528,22 @@ async function ShowFile(docPath, replaceState= false){
         let store = getStoreForFile(docPath);
         info = infoStore[store.iid];
         showRelatedFiles(store);
+    }else{
+        $.getJSON(getPath(docPath) + "/info.json", function(resp) {
+            info = resp;
+        });
     }
     if($("#contents input[name=file]").val() === docPath) {
         AddDisclaimer(info);
         return;
     }
-    await fetch(docPath.toLowerCase(), {
+    let docFetch = fetch(docPath.toLowerCase(), {
         cache: "force-cache",
         method: "get",
         signal: abortController.signal
-    }).then(resp=>resp.text()).then((contents)=>{
+    }).then(resp=>resp.text()).catch(error => console.log(error.message));
+    $.when(preload, docFetch).done((pl, contents)=>
+    {
         if(!info){
             info = { Category: '',  Year: docPath.match(/\b\d{4}\b/), };
             if(info.Year) info.Year = info.Year[0];
@@ -585,11 +592,19 @@ async function ShowFile(docPath, replaceState= false){
         if(info.Title) AddDisclaimer(info);
         $('#contents').fadeIn(200);
         $('#currentFileBox').fadeIn(200);
-        setTimeout(function(){
-            AddChapters();
-            ResetScroll();
-        }, 10);
+        setTimeout(AfterShowFile, 10);
     }).catch(error => console.log(error.message));
+}
+function FileOnceStoreLoaded(){
+    let docPath = getPageState('file');
+    docPath = docPath.replace('\\', '/');
+    let store = getStoreForFile(docPath);
+    showRelatedFiles(store);
+    AfterShowFile();
+}
+function AfterShowFile(){
+    AddChapters();
+    ResetScroll();
 }
 
 function AddDisclaimer(info){
@@ -597,6 +612,7 @@ function AddDisclaimer(info){
     let disclaimer = $(`<div id='docDisclaimer'>The content displayed below is for educational and archival purposes only.<br/>Unless stated otherwise, content is © ${orgName}</div>`);
     if(info.Year > 1970 || (info.Year > 1950 && info.Category === 'w')){
         let link = `https://wol.jw.org/en/wol/publication/r1/lp-e/${info.Symbol}`;
+        if(info.Month === undefined) getDateForInfo(info);
         if(info.Category === 'w') link = `https://wol.jw.org/en/wol/library/r1/lp-e/all-publications/watchtower/the-watchtower-${info.Year}/${monthNamesFull[info.Month - 1].toLowerCase()}` + (info.Day ? '-'+ info.Day : '');
         else if(info.Category === 'g') link = `https://wol.jw.org/en/wol/library/r1/lp-e/all-publications/awake/awake-${info.Year}/${monthNamesFull[info.Month - 1].toLowerCase()}` + (info.Day ? '-'+ info.Day : '');
         disclaimer.append(`<br/><a target="_blank" rel="noreferrer" href="http://hidereferrer.net/?${link}">You may be able to find the original on wol.jw.org</a>`);
@@ -1245,8 +1261,8 @@ $(document).on('input', 'input[type=search]', function () {
 var scrollListener;
 $(document).ready(async function(){
     scrollListener = new ScrollListener();
-    await Begin();
 });
+Begin();
 // if(getPageState('file')){
 //     ShowFile(getPageState('file'));
 // }
@@ -1254,12 +1270,16 @@ $(document).on('click', '#manualLoad', Begin);
 async function Begin(){
     LoadCategories();
 
+    if(getPageState('file')){
+        await pageStateChanged();
+    }
+
     $("#search-form input[type=search]").click(function(){
         if(!$("#btnSideMenu").is(":visible")) return;
         $("#btnSideMenu").click();
     });
 
-    GetPackedData('index/packed.zip')
+    await GetPackedData('index/packed.zip')
         .then(async function (files) {
 
             let options = files['index.json'];
@@ -1276,7 +1296,11 @@ async function Begin(){
 
             //$("input[type=search]").on('input', $.debounce(600, DoSearch));
             window.addEventListener('popstate', pageStateChanged);
-            await pageStateChanged();
+            if(!getPageState('file')){
+                await pageStateChanged();
+            }else{
+                FileOnceStoreLoaded();
+            }
         });
 }
 
