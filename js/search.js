@@ -1,4 +1,9 @@
 let search = getPageState('search') ?? getPageState('searchExact') ?? '';
+let words = location.hash.substr(location.hash.indexOf('=') + 1);
+if(location.hash.startsWith(("#search="))) {
+    let words = location.hash.substr(location.hash.indexOf('=') + 1);
+    search = decodeURIComponent(words);
+}
 $("input[type=search]").val(search);
 
 var page_data_ready = false;
@@ -291,6 +296,7 @@ async function DoSearch(){
         itemEnd = Math.min(2000, results.length);
     }
 
+    let hashcode = '#search=' + encodeURIComponent(words.join(' '));
     let documents = [];
     for(let i = itemStart; i < itemEnd; i++) {
         let result = results[i]
@@ -300,7 +306,7 @@ async function DoSearch(){
         let ref = (`${info.Symbol} ${issue} - ${info.UDRT} (${info.Category}) - ${info.Year}`);
         documents.push(`
 <ul class="result resultContentDocument">
-    <li class="caption"><a class="lnk" target="_blank" href='?file=data/${encodeURICompClean(result.doc.p)}' file="data/${result.doc.p}">${title}</a></li>
+    <li class="caption"><a class="lnk" target="_blank" href='?file=data/${encodeURICompClean(result.doc.p)+hashcode}' file="data/${result.doc.p}">${title}</a></li>
     <li class="result"><ul class="resultItems"><li class="searchResult"></li><li class="ref">${ref}</li></ul></li>
 </ul>`);
     }
@@ -380,7 +386,7 @@ function generatePagination(items, itemsPerPage, page, addRandom = false){
     let paginationEnd = Math.min(maxPage, paginationStart + 9);
     let paginationURL = new URL(location);
     if(addRandom){
-        let randomPage = Math.floor(maxPage * Math.random());
+        let randomPage = addRandom === true ? Math.floor(maxPage * Math.random()) : parseInt(addRandom);
         paginationURL.searchParams.set('page', randomPage);
         pagination += `<a href='${paginationURL.search}' class="random paginator"><span>🔀 Random Page</span></a>`;
     }
@@ -532,7 +538,7 @@ async function ShowFile(docPath, replaceState= false){
         info = infoStore[store.iid];
         showRelatedFiles(store);
     }else{
-        $.getJSON(getPath(docPath) + "/info.json", function(resp) {
+        preload = $.getJSON(getPath(docPath) + "/info.json", function(resp) {
             info = resp;
         });
     }
@@ -555,7 +561,12 @@ async function ShowFile(docPath, replaceState= false){
             if(docPath.includes('/VOD/')) info.Category = 'vod';
         }
 
-        contents = highlightSearchTerms(contents, getSearchWords());
+        let searchWords = getSearchWords();
+        if(searchWords && searchWords.length) {
+            if(searchWords.filter(w=>w.length > 2).length)
+                searchWords = searchWords.filter(w => w.length > 2);
+            contents = highlightSearchTerms(contents, searchWords);
+        }
         let dir = getPath(docPath).replace('\\', '/');
 
         let elements = [];
@@ -595,7 +606,9 @@ async function ShowFile(docPath, replaceState= false){
         if(info.Title) AddDisclaimer(info);
         $('#contents').fadeIn(200);
         $('#currentFileBox').fadeIn(200);
-        setTimeout(AfterShowFile, 10);
+        if(preload === null) {
+            setTimeout(AfterShowFile, 10);
+        }
     }).catch(error => console.log(error.message));
 }
 function FileOnceStoreLoaded(){
@@ -608,6 +621,12 @@ function FileOnceStoreLoaded(){
 function AfterShowFile(){
     AddChapters();
     ResetScroll();
+    let searchWords = getSearchWords();
+    if(searchWords.length && finder) {
+        finder.activate();
+        $('#finder input').val(searchWords.join(' '));
+        finder.findExistingMarks();
+    }
 }
 
 function AddDisclaimer(info){
@@ -639,10 +658,14 @@ function ResetScroll(){
         if(location.hash.startsWith("#imgsrc")){
             element = $("img[src$='" + location.hash.substr(location.hash.indexOf('=') + 1) + "']")
         }
+        else if(location.hash.startsWith(("#search="))){
+            let words = location.hash.substr(location.hash.indexOf('=') + 1);
+            //$("input[type=search]").val(words);
+        }
         else {
             element = $(location.hash + ",[name='" + location.hash.substr(1) + "']");
         }
-        if(element.length) {
+        if(element && element.length) {
 
             ScrollToElement(element, -240);
             //window.scroll(0, element.offset().top - 240);

@@ -640,9 +640,9 @@ a.lookupScripture {
 }
 
 .finder-activator {
-  @media only screen and (min-width: 600px) {
-    display: none;
-  }
+  //@media only screen and (min-width: 600px) {
+  //  display: none;
+  //}
   position: fixed;
   bottom: 5px;
   right: 5px;
@@ -669,6 +669,8 @@ a.lookupScripture {
 .finder {
   position: fixed;
   bottom: -50px;
+  max-width: 800px;
+  margin: auto;
   right: 0;
   left: 0;
   z-index: 999;
@@ -729,11 +731,10 @@ a.lookupScripture {
   flex-shrink: 0;
   flex-grow: 0;
 }
-.highlight {
-  background: #ff8;
-}
-.highlight.active {
+mark.active {
   background: #ffd71b;
+  box-shadow: 1px 1px black;
+  position: relative;
 }
 .far, .fas, .fa {
   min-width: 1em;

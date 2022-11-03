@@ -1,8 +1,11 @@
 class ImageGallery {
 
+    static pagesShown = [];
+
     static json = null;
     static ShowGallery(randomPage = false) {
         if(!this.json){
+            this.pagesShown = (localStorage.getItem('gallery-pages-seen') ?? '').split(' ').map(x => parseInt(x));
             $.getJSON('index/images.json', function(resp) {
                 ImageGallery.json = resp;
                 ImageGallery._showImages(randomPage);
@@ -11,17 +14,36 @@ class ImageGallery {
         }
         this._showImages(randomPage);
     }
+    static getRandomPage(maxPages){
+        let page = 1;
+        for(let i = 0; i < 50; i++) {
+            page = Math.ceil(maxPages * Math.random());
+            if(!this.pagesShown.includes(page))
+                break;
+            page = Math.max(1, (page - 1));
+            if(!this.pagesShown.includes(page))
+                break;
+        }
+        return page;
+    }
     static _showImages(randomPage = false){
         let itemsPerPage = 40;
         let page = randomPage ? null : (getPageState('page') ?? null);
         let allImages = this.json;
+        let maxPages = Math.ceil(allImages.length / itemsPerPage);
         if(page == null) {
-            let maxPages = Math.ceil(allImages.length / itemsPerPage);
-            page = Math.floor(maxPages * Math.random());
+            page = this.getRandomPage(maxPages);
+        }
+        page = parseInt(page);
+        localStorage.setItem('gallery-pages-seen', this.pagesShown.join(' '));
+        if(!this.pagesShown.includes(page)) {
+            this.pagesShown.push(page);
+            if(this.pagesShown.length > maxPages * 0.8)
+                this.pagesShown = this.pagesShown.slice(maxPages * 0.3);
         }
         setPageState('page', page);
 
-        let pagination = generatePagination(allImages.length, itemsPerPage, page - 1, true);
+        let pagination = generatePagination(allImages.length, itemsPerPage, page - 1, this.getRandomPage(maxPages));
         pagination.addClass('mb-2 mt-2')
 
         let startItem = (page - 1) * itemsPerPage;

@@ -19,7 +19,7 @@ async function Process() {
                 continue;
             let relPath = path.relative(cwd, file).replaceAll('\\', '/');
             if(!allImagesByYear[year]) allImagesByYear[year] = [];
-            allImagesByYear[year].push({f:relPath, w: dimensions.width, h: dimensions.height});
+            allImagesByYear[year].push({f:relPath, w: dimensions.width, h: dimensions.height, y:year});
         }
     });
     let allImages = allImagesByYear.flat();

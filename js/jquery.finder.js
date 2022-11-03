@@ -50,7 +50,7 @@ const finder = {
 		if (!$('#finder').length) {
 			finder.createFinder();
 		}
-		setTimeout(function () {
+		//setTimeout(function () {
 			$('#finder').addClass('active');
 			$('#finderInput').focus();
 			if ($('#finderInput').val()) {
@@ -59,7 +59,7 @@ const finder = {
 			$('#finderInput').on('input', $.debounce(600, function () {
 				finder.findTerm($(this).val());
 			}));
-		}, 50);
+		//}, 50);
 	},
 
 	createFinder: () => {
@@ -135,8 +135,11 @@ const finder = {
 		$(finder.content).unhighlight();
 		$(finder.content).highlight(term);
 
-		// count results
-		finder.resultsCount = $('.highlight').length;
+		finder.findExistingMarks(term);
+	},
+
+	findExistingMarks: (term=null) => {
+		finder.resultsCount = $('mark').length;
 
 		if (finder.resultsCount) {
 			// there are results, scroll to first one
@@ -161,15 +164,15 @@ const finder = {
 		let scrollingElement;
 
 		let i = finder.currentResult - 1;
-		$('.highlight').removeClass('active');
-		$(`.highlight:eq(${i})`).addClass('active');
+		$('mark').removeClass('active');
+		$(`mark:eq(${i})`).addClass('active');
 
 		let offsetTop = -100;
 		if (finder.scrollOffset() !== null) {
 			offsetTop = finder.scrollOffset() * -1;
 		}
 
-		$(finder.wrapper).scrollTo('.highlight.active', {
+		$(finder.wrapper).scrollTo('mark.active', {
 			offset: {
 				left: 0,
 				top: offsetTop,
@@ -191,6 +194,8 @@ const finder = {
 	},
 
 	nextResult: () => {
+		if(!finder.resultsCount)
+			finder.resultsCount = $('mark').length;
 		if (finder.resultsCount) {
 			if (finder.currentResult < finder.resultsCount) {
 				finder.currentResult++;

@@ -48,7 +48,7 @@ jQuery.extend({
 		if (node.nodeType === 3) {
 			var match = node.data.match(re);
 			if (match) {
-				var highlight = document.createElement(nodeName || 'span');
+				var highlight = document.createElement(nodeName || 'mark');
 				highlight.className = className || 'highlight';
 				var wordNode = node.splitText(match.index);
 				wordNode.splitText(match[0].length);
@@ -69,10 +69,10 @@ jQuery.extend({
 });
 
 jQuery.fn.unhighlight = function (options) {
-	var settings = { className: 'highlight', element: 'span' };
+	var settings = { className: 'highlight', element: 'mark' };
 	jQuery.extend(settings, options);
 
-	return this.find(settings.element + "." + settings.className).each(function () {
+	return this.find(settings.element).each(function () {
 		var parent = this.parentNode;
 		parent.replaceChild(this.firstChild, this);
 		parent.normalize();
@@ -80,7 +80,7 @@ jQuery.fn.unhighlight = function (options) {
 };
 
 jQuery.fn.highlight = function (words, options) {
-	var settings = { className: 'highlight', element: 'span', caseSensitive: false, wordsOnly: false };
+	var settings = { className: 'highlight', element: 'mark', caseSensitive: false, wordsOnly: false };
 	jQuery.extend(settings, options);
 
 	if (words.constructor === String) {

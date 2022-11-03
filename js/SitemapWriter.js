@@ -6,9 +6,9 @@ class SitemapWriter {
         this.outFile = outFile
     }
     async writeSitemap(pages, index = 0) {
-        if(pages.length > 45000){
-            for(let i = 0; i < pages.length; i+=40000) {
-                await this.writeSitemap(pages.slice(i, i + 40000), index++);
+        if(pages.length > 25000){
+            for(let i = 0; i < pages.length; i+=20000) {
+                await this.writeSitemap(pages.slice(i, i + 20000), index++);
             }
             return;
         }
