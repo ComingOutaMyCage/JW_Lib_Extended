@@ -792,6 +792,7 @@ async function ShowPublications(category, title, symbol, pubId) {
         for (const [infoId, info] of infos) {
             let issue = getIssueName(info);
             if(!issue) issue = info.Title;
+            else issue = info.Year + " - " + issue;
             let showYear = info.Title.indexOf(info.Year) === -1 ? info.Year : '';
             list.append(buildDirectoryItem(`?list=publications&pubId=${info.Name}&year=${info.Year}`, null, `.icon-${info.Category}`, issue, null, showYear, true));
         }
