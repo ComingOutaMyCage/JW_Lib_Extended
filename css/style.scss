@@ -645,7 +645,7 @@ a.lookupScripture {
   //}
   position: fixed;
   bottom: 5px;
-  right: 5px;
+  right: 15px;
   z-index: 1;
   width: 50px;
   height: 50px;
@@ -832,4 +832,8 @@ mark.active {
 }
 .input-group .btn {
   z-index: 1;//Bootstrap default is z-index: 2
+}
+
+#tidio-chat-iframe {
+  bottom: 60px !important;
 }

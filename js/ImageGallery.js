@@ -42,6 +42,7 @@ class ImageGallery {
                 this.pagesShown = this.pagesShown.slice(maxPages * 0.3);
         }
         setPageState('page', page);
+        setPageTitle("WTBTS Image Gallery" + pageTitleEnd);
 
         let pagination = generatePagination(allImages.length, itemsPerPage, page - 1, this.getRandomPage(maxPages));
         pagination.addClass('mb-2 mt-2')
