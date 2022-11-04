@@ -1,5 +1,7 @@
 const fs = require('fs-extra')
+const fse = require('fs-extra')
 const xml = require('xml')
+const zlib = require("zlib");
 
 class SitemapWriter {
     constructor({ outFile, host }) {
@@ -45,11 +47,21 @@ class SitemapWriter {
         let outname = this.outFile;
         if(index > 0)
             outname = outname.replace(".xml", `${index + 1}.xml`);
-        await fs.writeFile(
+        await fse.writeFile(
             outname,
             '<?xml version="1.0" encoding="UTF-8"?>' + xmlString
         )
+        compressFile(outname);
     }
+    static compressFile = (filePath) => {
+        const stream = fs.createReadStream(filePath);
+        stream
+            .pipe(zlib.createGzip())
+            .pipe(fs.createWriteStream(`${filePath}.gz`))
+            .on("finish", () =>
+                console.log(`Successfully compressed the file at ${filePath}`)
+            );
+    };
 }
 
 if(typeof module !== 'undefined')
