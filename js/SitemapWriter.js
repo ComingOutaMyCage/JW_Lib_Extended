@@ -51,7 +51,7 @@ class SitemapWriter {
             outname,
             '<?xml version="1.0" encoding="UTF-8"?>' + xmlString
         )
-        compressFile(outname);
+        SitemapWriter.compressFile(outname);
     }
     static compressFile = (filePath) => {
         const stream = fs.createReadStream(filePath);

@@ -26,11 +26,27 @@ class ImageGallery {
         }
         return page;
     }
+    static itemsPerPage = 40;
+    static  getMaxPages(){
+        return Math.ceil(this.json.length / this.itemsPerPage);
+    }
+    static jumpToIndex(index){
+        let page = 1 + Math.floor(index / this.itemsPerPage);
+        setPageState('page', page);
+    }
+    static ShowYear(newYear){
+        let index = ImageGallery.json.findIndex(d => d.y == newYear);
+        if (index >= 0) {
+            ImageGallery.jumpToIndex(index);
+            ImageGallery.ShowGallery();
+        } else {
+            alert("Couldnt find any images for " + newYear);
+        }
+    }
     static _showImages(randomPage = false){
-        let itemsPerPage = 40;
         let page = randomPage ? null : (getPageState('page') ?? null);
         let allImages = this.json;
-        let maxPages = Math.ceil(allImages.length / itemsPerPage);
+        let maxPages = this.getMaxPages();
         if(page == null) {
             page = this.getRandomPage(maxPages);
         }
@@ -44,11 +60,11 @@ class ImageGallery {
         setPageState('page', page);
         setPageTitle("WTBTS Image Gallery" + pageTitleEnd);
 
-        let pagination = generatePagination(allImages.length, itemsPerPage, page - 1, this.getRandomPage(maxPages));
+        let pagination = generatePagination(allImages.length, this.itemsPerPage, page - 1, this.getRandomPage(maxPages));
         pagination.addClass('mb-2 mt-2')
 
-        let startItem = (page - 1) * itemsPerPage;
-        let images = allImages.slice(startItem, startItem + itemsPerPage);
+        let startItem = (page - 1) * this.itemsPerPage;
+        let images = allImages.slice(startItem, startItem + this.itemsPerPage);
 
         let imageFlow = $("<div class='imageFlow'></div>");
         for(const img of images){
@@ -70,7 +86,7 @@ class ImageGallery {
 </div>
 <span style="color: white">Clicking an image will take you to that spot in the article.</span>
 </div>`
-        $("#contents").empty().append(ControlBar).append(pagination.clone()).append(imageFlow).append(pagination).append("<div style='height: 200px'></div>");
+        $("#contents").empty().append(ControlBar).append(pagination.clone()).append("<h1 id='yearNum' style='color: white; cursor: pointer;'>"+images[0].y+"</h1>").append(imageFlow).append(pagination).append("<div style='height: 200px'></div>");
     }
 
     static CopyUrlToClipboard(){
@@ -78,3 +94,9 @@ class ImageGallery {
         navigator.clipboard.writeText(input).then(r => {});
     }
 }
+$(document).on('click', '#yearNum', function() {
+    let newYear = prompt("Enter year", $(this).text());
+    if (newYear === null || newYear === undefined) return;
+    newYear = parseInt(newYear.trim());
+    ImageGallery.ShowYear(newYear);
+});

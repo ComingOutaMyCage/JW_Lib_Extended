@@ -9,7 +9,7 @@ const JSZip = require('jszip');
 const functions = require('./js/functions.js');
 const SitemapWriter = require('./js/SitemapWriter');
 const nf = require('./js/node_functions');
-const bb26 = require('bb26')
+const bb26 = require('bb26');
 
 const filter = [
     "a",
@@ -218,10 +218,6 @@ const filter = [
     "yourselves",
     "you've"
 ];
-
-/**
- * @type {Object<string, string>}
- */
 const stemmer = {
     "ational": "ate",
     "iveness": "ive",
@@ -278,6 +274,7 @@ var fileIndex = 0;
 var quitAfter = 2000000000000;
 var minTermAppearance = 4;
 var maxTermAppearance = 0.75;
+var justSitemap = false;
 
 var active = {};
 
@@ -428,6 +425,11 @@ async function Process() {
                     fileToLoad = f;
             }
             let relativePath = path.relative(cwd, f).replace(/\\+/g, '/');
+            if(justSitemap) {
+                if(fs.statSync(fileToLoad).size > 0)
+                    AddDataToSitemap(relativePath);
+                return;
+            }
 
             console.log("Indexing " + relativePath);
             let contents = fs.readFileSync(fileToLoad, {encoding: 'utf8', flag: 'r'}, (err) => {
@@ -462,6 +464,10 @@ async function Process() {
 
     });
 
+    if(justSitemap){
+        sitemapWriter.writeSitemap(sitemap);
+        return;
+    }
 
     //await new Promise(resolve => setTimeout(resolve, 500));
     await Promise.all(workers);

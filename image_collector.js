@@ -12,14 +12,18 @@ async function Process() {
     var cwd = path.resolve('..\\..\\WT\\Image Dump\\');
     await nf.getAllFiles(cwd + "\\data", async function (files) {
         for(const file of files){
-            let year = file.match(/\b\d{4}\b/);
-            year = year[0] ?? 2022;
-            const dimensions = sizeOf(file);
-            if(dimensions.width > dimensions.height * 3 || dimensions.height > dimensions.width * 3)
-                continue;
-            let relPath = path.relative(cwd, file).replaceAll('\\', '/');
-            if(!allImagesByYear[year]) allImagesByYear[year] = [];
-            allImagesByYear[year].push({f:relPath, w: dimensions.width, h: dimensions.height, y:year});
+            try {
+                let year = file.match(/\b\d{4}\b/);
+                year = year[0] ?? 2022;
+                const dimensions = sizeOf(file);
+                if (dimensions.width > dimensions.height * 3 || dimensions.height > dimensions.width * 3)
+                    continue;
+                let relPath = path.relative(cwd, file).replaceAll('\\', '/');
+                if (!allImagesByYear[year]) allImagesByYear[year] = [];
+                allImagesByYear[year].push({f: relPath, w: dimensions.width, h: dimensions.height, y: year});
+            }catch (e) {
+
+            }
         }
     });
     let allImages = allImagesByYear.flat();

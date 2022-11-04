@@ -571,8 +571,10 @@ async function ShowFile(docPath, replaceState= false){
 
         let elements = [];
 
+        let isJwPub = false;
         if (info.Year > 1970 || (info.Year > 1950 && info.Category === 'w')){
-            contents = contents.replace(/src="jwpub-media[^"]*"/g, '');
+            isJwPub = contents.substr(0, 1000).indexOf('data-pid') >= 0;
+            //contents = contents.replace(/src="jwpub-media[^"]*"/g, '');
         }
         contents = contents.replace(/( (src)=['"])/ig, '$1' + dir + '/');
         contents = contents.replace(/height:\s*\d+\w+;?/ig, 'max-width: 100%;');
@@ -591,7 +593,7 @@ async function ShowFile(docPath, replaceState= false){
                 contents = contents.replace(/([a-z],?)[ ]?\r?\n([a-z])/g, '$1 $2');
             }
             contents = contents.replace(Bible.contentRegex, "<a href='BIBLE://NWTR/' class='lookupScripture'>$1</a>")
-        }else if(info.Year < 1950){
+        }else if(!isJwPub){
             contents = contents.replace(Bible.contentRegex, "<a href='BIBLE://NWTR/' class='lookupScripture'>$1</a>")
         }
 

@@ -781,13 +781,13 @@ mark.active {
       top: 0;
       width: 100%;
       vertical-align: bottom;
-      @media screen and (min-width: 1000px) {
-        &:hover {
-          z-index: 2;
-          min-width: 400px;
-          box-shadow: 0 0 20px 10px #000;
-          top: -40px;
-        }
+    }
+    @media screen and (min-width: 1000px) {
+      img:hover {
+        z-index: 2;
+        min-width: 400px;
+        box-shadow: 0 0 20px 10px #000;
+        top: -40px;
       }
     }
   }

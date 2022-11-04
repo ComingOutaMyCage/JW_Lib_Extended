@@ -256,9 +256,10 @@ class PublicationCodes {
         'bi': 'Bible',
         'gloss': 'Glossary',
         'it': 'Insight',
-        //'kn': 'Kingdom News',
-        //'web': 'Web',
-        //'pgm': 'Programs',
+
+        'kn': 'Kingdom News',
+        'web': 'Web',
+        'pgm': 'Programs',
     };
     static GetCategory(info){
         let category = PublicationCodes.codeToName[info.Category] ?? null;
