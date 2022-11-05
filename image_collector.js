@@ -9,8 +9,9 @@ const sizeOf = require('image-size')
 
 async function Process() {
     let allImagesByYear = [];
-    var cwd = path.resolve('..\\..\\WT\\Image Dump\\');
-    await nf.getAllFiles(cwd + "\\data", async function (files) {
+    var cwd = path.resolve('..\\..\\WT\\Image Dump\\data');
+    var dataFolder = path.resolve('data');
+    await nf.getAllFiles(cwd, async function (files) {
         for(const file of files){
             try {
                 let year = file.match(/\b\d{4}\b/);
@@ -20,9 +21,31 @@ async function Process() {
                     continue;
                 let relPath = path.relative(cwd, file).replaceAll('\\', '/');
                 if (!allImagesByYear[year]) allImagesByYear[year] = [];
-                allImagesByYear[year].push({f: relPath, w: dimensions.width, h: dimensions.height, y: year});
+                let basename = functions.basename(file);
+                let htmlFolder = functions.getPath(functions.getPath(file).replace(cwd, dataFolder));
+                let htmlFile = null;
+                if(file.indexOf('_files') >= 0) {
+                    let htmlFilenameExpected = functions.basename(functions.getPath(file)).replace("_files", "");
+                } else {
+                    nf.getAllFiles(htmlFolder, function (parentFiles) {
+                        for (const parentFile of parentFiles) {
+                            if (!parentFile.endsWith(".html")) continue;
+                            let html = fs.readFileSync(parentFile, {encoding: 'utf8', flag: 'r'}, (err) => {
+                            });
+                            if (html.indexOf(basename) >= 0) {
+                                htmlFile = functions.basename(parentFile);
+                                return;
+                            }
+                        }
+                    }, false);
+                    console.log("Matched " + file + " to " + htmlFile);
+                }
+                let data = {f: relPath, w: dimensions.width, h: dimensions.height, y: parseInt(year) };
+                if (htmlFile)
+                    data['t'] = htmlFile;
+                allImagesByYear[year].push(data);
             }catch (e) {
-
+                console.error(e);
             }
         }
     });

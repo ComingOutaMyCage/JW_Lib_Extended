@@ -67,12 +67,19 @@ class ImageGallery {
 
         let imageFlow = $("<div class='imageFlow'></div>");
         for(const img of images){
-            let article = img.f.replace(/_files.*$/g, '.html');
-            article = '?file=' + article + "#imgsrc=" + basename(img.f);
+            let article = '#none';
+            if (img.t){
+                let dir = getPath(getPath(img.f));
+                article = '?file=data/' + encodeURICompClean(dir + "/" + img.t) + "#imgsrc=" + basename(img.f);
+            }
+            else if (img.f.indexOf('_files') >= 0) {
+                article = img.f.replace(/_files.*$/g, '.html');
+                article = '?file=data/' + encodeURICompClean(article) + "#imgsrc=" + basename(img.f);
+            }
             imageFlow.append(`
 <div style="width:${img.w*180/img.h}px;flex-grow:${img.w*200/img.h}">
     <i style="padding-bottom:${img.h/img.w*100}%"></i>
-    <a href="${article}"><img src="${img.f}" alt=""></a>
+    <a href="${article}"><img src="data/${img.f}" alt=""></a>
 </div>`);
         }
 

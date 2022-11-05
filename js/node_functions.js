@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-function getAllFiles (dirPath, callback) {
+function getAllFiles (dirPath, callback, recursive = true) {
     // if (fileIndex > quitAfter) return;
     //let match = dirPath.match(/(\w+)-\d{4}-[a-f0-9]{64}$/);
     // let match = dirPath.match(/-\d{4}$/);
@@ -27,9 +27,11 @@ function getAllFiles (dirPath, callback) {
     {
         callback(files);
     }
-    dirs.forEach(function(path){
-        getAllFiles(path, callback);
-    });
+    if(recursive) {
+        dirs.forEach(function (path) {
+            getAllFiles(path, callback);
+        });
+    }
 }
 
 if(typeof module !== 'undefined')

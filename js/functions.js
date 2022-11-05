@@ -203,6 +203,8 @@ function setPageStates(dict, replaceState = false, wipeOthers=false) {
         let newVal = value;
         if (newVal == null || newVal === '' || newVal === '[""]' || newVal === '[]')
             newVal = null;
+        else if(Number.isInteger(newVal))
+            newVal = newVal.toString();
         name += param + ":" + value + "&";
         let curVal = newURL.searchParams.get(param);
         if(newVal === curVal) continue;

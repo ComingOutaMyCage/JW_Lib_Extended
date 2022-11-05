@@ -534,7 +534,11 @@ async function ShowFile(docPath, replaceState= false){
         setPageStates({'file': docPath}, replaceState, true);
         docPath = docPath.replace('\\', '/');
         let store = getStoreForFile(docPath);
-        info = infoStore[store.iid];
+        if(!store){
+            $("#contents").html("<h1>Could not find document</h1>");
+            return;
+        }
+        info = infoStore[store.iid] ?? null;
         showRelatedFiles(store);
     }else{
         preload = $.getJSON(getPath(docPath) + "/info.json", function(resp) {
@@ -576,7 +580,7 @@ async function ShowFile(docPath, replaceState= false){
             //contents = contents.replace(/src="jwpub-media[^"]*"/g, '');
         }
         contents = contents.replace(/( (src)=['"])/ig, '$1' + dir + '/');
-        contents = contents.replace(/height:\s*\d+\w+;?/ig, 'max-width: 100%;');
+        contents = contents.replace(/height[:=]"?\s*\d+[\w"]+;?/ig, '');
         contents = contents.replaceAll('<img ', '<img loading="lazy" ');
         //contents = contents.replaceAll('<img ', 'bookmark=" ');
 
