@@ -6,13 +6,12 @@ class ImageGallery {
     static ShowGallery(randomPage = false) {
         if(!this.json){
             this.pagesShown = (localStorage.getItem('gallery-pages-seen') ?? '').split(' ').map(x => parseInt(x));
-            $.getJSON('index/images.json', function(resp) {
+            return $.getJSON('index/images.json', function(resp) {
                 ImageGallery.json = resp;
                 ImageGallery._showImages(randomPage);
             });
-            return;
         }
-        this._showImages(randomPage);
+        return this._showImages(randomPage);
     }
     static getRandomPage(maxPages){
         let page = 1;

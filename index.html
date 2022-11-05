@@ -56,7 +56,7 @@
             <!--        </div>-->
         </div>
     </nav>
-    <div id="search-form">
+    <form id="search-form" action="#" onsubmit="DoSearch(); return false;">
         <div class="input-group">
             <a id="btnSideMenu"><img src="images/indentation-indent.svg" /></a>
             <img src="images/icon-search.svg" style="height: 1.5em; align-self: center; margin-right: 0.5em"/>
@@ -65,7 +65,7 @@
             <button type="button" class="btn btn-outline-dark" onclick="DoSearch()"><img src="images/icon-search.svg"> Search</button>
         </div>
         <!--    <span class="text-muted">Search for articles containing all words, or use "quotes to match groups"</span>-->
-    </div>
+    </form>
 </div>
 <button class="finder-activator" data-finder-activator><img src="images/icon-search.svg" /></button>
 <div id="searchBackdrop" touch-action="none"></div>
@@ -120,13 +120,21 @@
                 <button id="startExactSearch" name="startExactSearch" class="btn btn-outline-dark">Start Exact Search</button>
                 <div id="resultsFilter"></div>
             </div>
-            <div id="loading-state"><button id="manualLoad" class="btn btn-outline-secondary m-2">Click Here to Begin!</button></div><noscript><h3>Javascript required for this page to operate</h3></noscript>
+            <div id="loading-state"><h1>Index Downloading...</h1></div><noscript><h3>Javascript required for this page to operate</h3></noscript>
             <div id="contents" data-finder-content></noscript>
         </div>
     </div>
 </div>
 </div>
 </div>
+<script src="js/jquery.highlight.js"></script>
+<script src="js/jquery.scrollto.js"></script>
+<script src="js/jquery.finder.js"></script>
+<script src="js/bible.js"></script>
+<script src="js/ImageGallery.js"></script>
+<script src="index/packed.js"></script>
+<script src="js/search.js"></script>
+
 <script async src="//static.getclicky.com/101371960.js"></script>
 <noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101371960ns.gif" /></p></noscript>
 <!-- Google tag (gtag.js) -->
@@ -138,13 +146,7 @@
 
     gtag('config', 'G-9WR5TN5ZP3');
 </script>
-<script src="js/jquery.highlight.js"></script>
-<script src="js/jquery.scrollto.js"></script>
-<script src="js/jquery.finder.js"></script>
-<script src="js/bible.js"></script>
-<script src="js/ImageGallery.js"></script>
-<script src="js/search.js"></script>
 </body>
 </html>
-<script async src="js/bible_nwt.js"></script>
+<script src="js/bible_nwt.js" async></script>
 <script src="//code.tidio.co/b0tisogvmg2hnkczsjpfa2i1jfsuljkq.js" async></script>

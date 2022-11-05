@@ -185,13 +185,9 @@ function setUrlState(href, param, value) {
     return newURL.toString();
 }
 function setPageState(param, value) {
-    //console.log(param + " = " + value);
-    let newURL = new URL(location.href);
-    if (value == null || value === '' || value === '[""]' || value === '[]')
-        newURL.searchParams.delete(param);
-    else
-        newURL.searchParams.set(param, value);
-    window.history.pushState(param + ":" + value, null, newURL.toString());
+    let dict = { };
+    dict[param] = value;
+    setPageStates(dict, false, false);
 }
 function setPageStates(dict, replaceState = false, wipeOthers=false) {
     //console.log(param + " = " + value);

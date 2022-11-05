@@ -176,6 +176,8 @@ ol, ul {
   a {
     &.active{
       font-weight: bold;
+      background-color: #8230b1;
+      color: white;
     }
     width: 3em;
     height: 3em;
@@ -836,4 +838,7 @@ mark.active {
 
 #tidio-chat-iframe {
   bottom: 60px !important;
+}
+button {
+  touch-action: manipulation;
 }

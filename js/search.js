@@ -167,6 +167,7 @@ async function DoSearch(){
     let newPageState = {};
     if((getPageState('search') ?? getPageState('searchExact')) !== searchStart){
         newPageState['search'] = searchStart;
+        newPageState['searchExact'] = null;
         let div = $('#contents');
         div.text('');
     }
@@ -316,9 +317,7 @@ async function DoSearch(){
     $('#resultsHeader').show();
     let pagination = generatePagination(results.length, itemsPerPage, page);
 
-    $("#relatedDocuments").fadeOut(200);
-    $("#currentFileBox").fadeOut(0, function(){ $(this).html('') });
-    $("#searchRefineForm").fadeIn(200);
+    FileNoLongerActive();
     if(searchExact)
         $('#contents').empty().append($('<div id="results" class="results">Downloading each document and scanning</div>'));
     else
@@ -467,14 +466,14 @@ async function pageStateChanged(e = null){
     let sort = getPageState('sort') ?? 'occ';
     let minYear = getPageState('minYear') ?? '1880';
     let maxYear = getPageState('maxYear') ?? '2022';
-
+    if(!file){
+        FileNoLongerActive();
+    }
     if(list === "image-gallery"){
-        ImageGallery.ShowGallery();
-        return;
+        return ImageGallery.ShowGallery();
     }
     if(list === 'publications' || (!file && !search)){
-        ShowPublications(category, title, symbol, pubId);
-        return;
+        return ShowPublications(category, title, symbol, pubId);
     }
 
     if($("#rankSelector select").val() !== sort) {
@@ -498,10 +497,10 @@ async function pageStateChanged(e = null){
         if(!file) searchDirty = true;
     }
     if(file) {
-        await ShowFile(file);
+        return ShowFile(file);
     }
     else if(searchDirty){
-        await DoSearch();
+        return DoSearch();
     }
 }
 
@@ -625,9 +624,11 @@ function AfterShowFile(){
     ResetScroll();
     let searchWords = getSearchWords();
     if(searchWords.length && finder) {
-        finder.activate();
-        $('#finder input').val(searchWords.join(' '));
-        finder.findExistingMarks();
+        setTimeout(()=> {
+            finder.activate();
+            $('#finder input').val(searchWords.join(' '));
+            finder.findExistingMarks();
+        }, 100);
     }
 }
 
@@ -706,10 +707,8 @@ async function ShowPublications(category, title, symbol, pubId) {
     console.log('ShowPublications', category);
     StopLoading();
     let contents = $('#contents');
-    $("#currentFileBox").fadeOut(0, function(){ $(this).html('') });
-    $("#relatedDocuments").fadeOut(200, function(){
-        $("#searchRefineForm").fadeIn(200);
-    });
+    FileNoLongerActive();
+
     let UndatedTitle = getPageState('udrt');
     //await contents.fadeOut(200);
 
@@ -867,6 +866,12 @@ function getGroupByForCategory(category){
     if(category == 'vod') return 'Symbol';
     if(category == 'news') return 'UDRT';
     return 'Title';
+}
+function FileNoLongerActive(){
+    $("#currentFileBox").fadeOut(0, function(){ $(this).html('') });
+    $("#relatedDocuments").fadeOut(200, function(){
+        $("#searchRefineForm").fadeIn(200);
+    });
 }
 function getFilesForInfoId(infoId){
     //let infoId = store.iid;
@@ -1285,7 +1290,11 @@ var searchDirty = false;
 $(document).on('input', 'input[type=search]', function () {
     searchDirty = true;
     $('#contents .results').fadeTo(600, 1.5);
-}).on('input', 'input[type=search]',$.debounce(1500, DoSearchIfDirty));
+});//.on('input', 'input[type=search]',$.debounce(1500, DoSearchIfDirty));
+$(document).on('input', 'input[type=search]', function () {
+    searchDirty = true;
+    $('#contents .results').fadeTo(600, 1.5);
+});
 
 var scrollListener;
 $(document).ready(async function(){
@@ -1296,41 +1305,43 @@ Begin();
 //     ShowFile(getPageState('file'));
 // }
 $(document).on('click', '#manualLoad', Begin);
-async function Begin(){
+function Begin(){
     LoadCategories();
 
-    if(getPageState('file')){
-        await pageStateChanged();
-    }
+    // if(getPageState('file')){
+    //     pageStateChanged();
+    // }
 
     $("#search-form input[type=search]").click(function(){
         if(!$("#btnSideMenu").is(":visible")) return;
         $("#btnSideMenu").click();
     });
 
-    let packedPromise = GetPackedData('index/packed.zip')
-        .then(async function (files) {
+    // let packedPromise = GetPackedData('index/packed.zip')
+    //     .then(async function (files)
+    {
+        let files = packedData;
+        let options = files['index.json'];
+        infoStore = files['infoStore.json'];
+        delete files['index.json'];
+        delete files['infoStore.json'];
+        index = new FlexSearch.Document(options);
+        for (const [filename, file] of Object.entries(files)) {
+            console.log("Importing " + filename);
+            index.import(filename, file);
+        }
+        page_data_ready = true;
+        $('#loading-state').html('');
 
-            let options = files['index.json'];
-            infoStore = files['infoStore.json'];
-            delete files['index.json'];
-            delete files['infoStore.json'];
-            index = new FlexSearch.Document(options);
-            for (const [filename, file] of Object.entries(files)) {
-                console.log("Importing " + filename);
-                index.import(filename, file);
-            }
-            page_data_ready = true;
-            $('#loading-state').html('');
-
-            //$("input[type=search]").on('input', $.debounce(600, DoSearch));
-            window.addEventListener('popstate', pageStateChanged);
-            if(!getPageState('file')){
-                await pageStateChanged();
-            }else{
-                FileOnceStoreLoaded();
-            }
-        });
+        //$("input[type=search]").on('input', $.debounce(600, DoSearch));
+        window.addEventListener('popstate', pageStateChanged);
+        // if(!getPageState('file')){
+        pageStateChanged();
+         // }else{
+         //    ShowFile(file)
+         //     //FileOnceStoreLoaded();
+         // }
+    }//);
     // while (!page_data_ready){
     // }
 }

@@ -591,6 +591,7 @@ async function Process() {
         }
 
         var zip = new JSZip();
+        var packedJson = {};
         var filesExported = []
         if(docOptions.worker)
             index.export(exportIndexAsync);
@@ -598,15 +599,21 @@ async function Process() {
             index.export(exportIndexAsync);
 
         const tagIndex = index.l;
-        zip.file('tag', JSON.stringify(tagIndex));
-
+        //zip.file('tag', JSON.stringify(tagIndex));
         zip.file('index.json', JSON.stringify(docOptions));
         zip.file('infoStore.json', JSON.stringify(infoStore));
         zip.file('store', JSON.stringify(index.store));
 
+        //packedJson['tag'] = tagIndex;
+        packedJson['index.json'] = docOptions;
+        packedJson['infoStore.json'] = infoStore;
+        packedJson['store'] = index.store;
+
         fs.writeFileSync(dir + 'index.json', JSON.stringify(docOptions));
         fs.writeFileSync(dir + 'infoStore.json', JSON.stringify(infoStore));
         fs.writeFileSync(dir + 'store', JSON.stringify(index.store));
+
+        fs.writeFileSync(dir + 'packed.js', "var packedData = " + JSON.stringify(packedJson));
 
         sitemapWriter.writeSitemap(sitemap);
 
