@@ -16,6 +16,8 @@
 //@import "../node_modules/bootstrap/scss/dropdown";
 @import "../node_modules/bootstrap/scss/button-group";
 
+//@import "../node_modules/@tarekraafat/autocomplete.js/dist/css/autoComplete.01";
+@import "autocomplete";
 @import "../js/pace";
 
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400;1,700&family=Noto+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&display=swap');
@@ -100,6 +102,9 @@ a.nav-link img {
       transition: transform 0.2s ease-in-out;
     }
   }
+  .autoComplete_wrapper {
+    flex-grow: 1;
+  }
   button, input {
     border-color: #ced4da;
   }
@@ -180,7 +185,7 @@ a {
   color: #4a6da7;
   text-decoration: none;
 }
-ol, ul {
+ol.directory, ul.directory {
   padding-left: 0;
 }
 .result {
@@ -282,6 +287,9 @@ ol, ul {
       .icon-w { background-image: url('../images/icons/w.svg'); }
       .icon-web { background-image: url('../images/icons/web.svg'); }
       .icon-images { background-image: url('../images/polaroid.svg'); }
+
+      .icon-folder { background-image: url('../images/folder.svg'); }
+      .icon-docs { background-image: url('../images/file_docs_white.svg'); }
     }
     &.folder {
       .thumbnail {
@@ -654,6 +662,7 @@ a.lookupScripture {
 
 #docDisclaimer {
   background-color: $color-primary-1-1;
+  font-size: 70%;
   a {
     color: white;
     text-decoration: underline;
@@ -868,4 +877,37 @@ button {
 }
 .d-inline-block{
   display: inline-block;
+}
+
+
+.htmlDoc {
+  ul {
+    list-style-type: unset;
+  }
+  div.half {
+    max-width: 50%;
+  }
+  div.quarter {
+     max-width: 25%;
+  }
+  div.east_right {
+    margin-left: 1em;
+    float: right;
+    clear: right;
+  }
+  div.west_right {
+    margin-right: 1em;
+    float: left;
+    clear: left;
+  }
+  .imgWestQuarter>li {
+    &:before, &:after{
+      content: " ";
+      display: table;
+    }
+    list-style-type: none;
+  }
+  figure {
+    display: grid;
+  }
 }

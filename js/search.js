@@ -156,6 +156,12 @@ function getDateForInfo(info){
     }
     return info.YMD = date;
 }
+function GetFriendlyName(info){
+    if(info.FriendlyName) return info.FriendlyName;
+    let issue = getIssueName(info);
+    info.FriendlyName = `${info.Symbol} ${issue} - ${info.UDRT} (${info.Category}) - ${info.Year}`;
+    return info.FriendlyName;
+}
 function getIssueName(info, fullMonth = true){
     getDateForInfo(info);
     const months = fullMonth ? monthNamesFull : monthNames;
@@ -174,12 +180,20 @@ function getStoredItemTitle(storeItem){
         storeItem.title = infoStore[storeItem.iid].Title;
     return storeItem.title;
 }
-
+function ShowInfo(info){
+    setPageStates({list: 'publications', pubId: info.Name, year: info.Year});
+    pageStateChanged();
+}
 async function DoSearchIfDirty(){
     if(searchDirty)
         await DoSearch();
 }
 async function DoSearch(){
+    if(!CheckPackedDataLoaded()){
+        setTimeout(DoSearch, 100);
+        return;
+    }
+
     const input = $("input[type=search]");
     const searchStart = input.val();
     let words = getSearchWords();
@@ -197,6 +211,32 @@ async function DoSearch(){
         newPageState['searchExact'] = null;
         let div = $('#contents');
         div.text('');
+    }
+
+    {
+        let articleMatch = searchStart.match(/([a-z]+)(\d+)[\s.]*(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec|\d+)[\s.]*(\d+)?/);
+        if (articleMatch && articleMatch.length){
+            let year = parseInt(articleMatch[2]);
+            let curYear = new Date().getFullYear() - 2000;
+            if(year < 100 && year > curYear) year = "19" + year;
+            let symbol = articleMatch[1] + year;
+            let month = articleMatch[3].substring(0, 3);
+            if(!isNumeric(month)) {
+                let monthIndex = monthNames.findIndex(m => m === month);
+                if(monthIndex >= 0) month = monthIndex + 1;
+            }else month = parseInt(month);
+            let day = articleMatch[4];
+            day = isNumeric(day) ? parseInt(day) : 0;
+            let forSymbol = Object.values(infoStore).filter(i=> i.Symbol === symbol && getDateForInfo(i));
+            let info = forSymbol.find(i => i.Month == month && i.Day == day);
+            if(!info)
+                info = forSymbol.find(i => i.Month == month);
+            //let infoIndex = Object.values(infoStore).indexOf(i=>i.Symbol === symbol);
+            if(info){
+                showInfo(info);
+                return;
+            }
+        }
     }
 
     await LoadSearchMapsForWords(words);
@@ -618,7 +658,11 @@ async function ShowFile(docPath, replaceState= false){
                 return m[1] + m[2] + m[3] + ` style="aspect-ratio:${ratio};"`;
             }
         });
-        contents = contents.replaceAll('<img ', '<img loading="lazy" ');
+        let imagesReplaced = 0;
+        contents = contents.replace(/<img /, function(v){
+            if(++imagesReplaced === 1) return v;
+            return '<img loading="lazy" ';
+        });
         //contents = contents.replaceAll('<img ', 'bookmark=" ');
 
         if(info.Category === 'vod') {
@@ -784,6 +828,7 @@ async function ShowPublications(category, title, symbol, pubId) {
 
     if(!CheckPackedDataLoaded() && new URL(location.href).searchParams > 1){
         setTimeout(pageStateChanged, 100);
+        return;
     }
 
     if(pubId) {
@@ -806,20 +851,20 @@ async function ShowPublications(category, title, symbol, pubId) {
                 files = files.filter(f => getStoredItemTitle(f).match(/[a-z]/i)[0].toUpperCase() === title);
                 files = SortInfosByTitle(files);
                 for (const item of files) {
-                    list.append(buildDirectoryItem(null, "data/" + item.p, 'images/file_docs_white.svg', getStoredItemTitle(item), null, null, true));
+                    list.append(buildDirectoryItem(null, "data/" + item.p, '.icon-docs', getStoredItemTitle(item), null, null, true));
                 }
             }else {
                 list.append(`<a href="?list=publications&category=${info.Category}&title=${encodeURICompClean(info.Title)}"><h1><big>‹</big> ${issue} ${info.Title}</h1></a>`);
                 let chars = [...new Set(files.map(f => getStoredItemTitle(f).match(/[a-z]/i)[0].toUpperCase()))].sort();
                 for (const char of chars) {
-                    list.append(buildDirectoryItem(`?list=publications&pubId=${info.Name}&title=${char}&year=${info.Year}`, null, 'images/file_docs_white.svg', char.toUpperCase(), null, null, true));
+                    list.append(buildDirectoryItem(`?list=publications&pubId=${info.Name}&title=${char}&year=${info.Year}`, null, '.icon-docs', char.toUpperCase(), null, null, true));
                 }
             }
         }else {
             files = SortInfosByTitle(files);
             list.append(`<a href="?list=publications&category=${info.Category}&title=${encodeURICompClean(info.Title)}"><h1><big>‹</big> ${issue} ${info.Title}</h1></a>`);
             for (const item of files) {
-                list.append(buildDirectoryItem(null, "data/" + item.p, 'images/file_docs_white.svg', getStoredItemTitle(item), null, null, true));
+                list.append(buildDirectoryItem(null, "data/" + item.p, '.icon-docs', getStoredItemTitle(item), null, null, true));
             }
         }
     }
@@ -885,7 +930,7 @@ async function ShowPublications(category, title, symbol, pubId) {
             if (subinfos.length === 1) {
                 list.append(buildDirectoryItem(`?list=publications&pubId=${info.Name}&year=${info.Year}`, null, `.icon-${info.Category}`, info.Title, null, showYear, true));
             } else {
-                list.append(buildDirectoryItem(`?list=publications&category=${info.Category}&${groupBy.toLowerCase()}=` + encodeURICompClean(title), null, `images/folder.svg`, displayTitle, null, showYear, true));
+                list.append(buildDirectoryItem(`?list=publications&category=${info.Category}&${groupBy.toLowerCase()}=` + encodeURICompClean(title), null, `.icon-folder`, displayTitle, null, showYear, true));
             }
         }
     }
@@ -1014,16 +1059,16 @@ async function showRelatedFiles(store) {
     if (items.length === 1) {
         let groupBy = getGroupByForCategory(info.Category);
         relatedFilesCategoryTitle = CapitalizeCompressedString(info[groupBy]);
-        newItems.push(buildDirectoryItem(`?list=publications&category=${info.Category}&${groupBy.toLowerCase()}=${encodeURICompClean(info[groupBy])}`, null, 'images/folder.svg', relatedFilesCategoryTitle, null, null, false, true).addClass('folder'));
+        newItems.push(buildDirectoryItem(`?list=publications&category=${info.Category}&${groupBy.toLowerCase()}=${encodeURICompClean(info[groupBy])}`, null, '.icon-folder', relatedFilesCategoryTitle, null, null, false, true).addClass('folder'));
     }
     else {
         relatedFilesCategoryTitle = info.Title + " " + issue;
-        newItems.push(buildDirectoryItem(`?list=publications&pubId=${info.Name}&year=${info.Year}`, null, 'images/folder.svg', relatedFilesCategoryTitle, null, null, false, true).addClass('folder'));
+        newItems.push(buildDirectoryItem(`?list=publications&pubId=${info.Name}&year=${info.Year}`, null, '.icon-folder', relatedFilesCategoryTitle, null, null, false, true).addClass('folder'));
     }
     for (const item of items){
         let title = getStoredItemTitle(item);
         if (items.length === 1) title += " " + issue;
-        newItems.push(buildDirectoryItem(null, "data/" + item.p, 'images/file_docs_white.svg', title , null, null, true));
+        newItems.push(buildDirectoryItem(null, "data/" + item.p, '.icon-docs', title , null, null, true));
     }
 
     if(info.Category === 'vod')
@@ -1241,6 +1286,7 @@ function ShowScripture(scripture, click){
     //console.log(text);
 }
 
+
 $(document).on('click', 'i.ts', function(){
     let vid = $('video')[0];
     let timestamp = $(this).text();
@@ -1254,7 +1300,86 @@ $(document).on('click', 'i.ts', function(){
         },
     });
 });
+
+var autoCompleteJS = null;
+function initAutoComplete(){
+    if(autoCompleteJS !== null) return;
+    if(!infoStore) return;
+    let values = Object.values(infoStore);
+    values.map(i => GetFriendlyName(i));
+    let lastQuery = null;
+    let lastQuerySplit = null;
+    let regex = null;
+    autoCompleteJS = new autoComplete({ placeHolder: "Search",
+        selector: "#search",
+        // threshold: 10,
+        data: {
+            src: values,
+            keys: [ 'FriendlyName', 'Symbol', 'Issue', 'Name', 'Title' ],
+            cache: false,
+            // filter: (list) => {
+            //     // Filter duplicates
+            //     const filteredResults = Array.from(new Set(list.map((value) => value.match))).map((iid) => {
+            //         return list.find((value) => value.match.name === iid);
+            //     });
+            //     return filteredResults;
+            // },
+        },
+        searchEngine: (query, record) => {
+            if(!record) return false;
+            if(lastQuery !== query){
+                lastQuery = query;
+                lastQuerySplit = lastQuery.split(' ');
+                regex = new RegExp(lastQuerySplit.map(w=>escapeRegExp(w)).join('|'), 'ig');
+            }
+            record = record.toString()
+            if(!record.match(regex))
+                return;
+            return highlightSearchTerms(record, lastQuerySplit);
+        },
+        query: (input) => {
+            return input.replace(/(\d+)[.\s]*(\d+)/, '$1$2');
+        },
+        resultsList: {
+            noResults: false,
+            maxResults: 15,
+            tabSelect: true,
+        },
+        resultItem: {
+            element: (item, data) => {
+                getDateForInfo(data.value);
+                // Modify Results Item Style
+                item.style = "display: flex; justify-content: space-between;";
+                // Modify Results Item Content
+                item.innerHTML = `
+                  <span style="text-overflow: ellipsis; white-space: nowrap; overflow: hidden;">
+                    ${GetFriendlyName(data.value)}
+                  </span>
+                  <span style="display: flex; align-items: center; font-size: 13px; font-weight: 100; text-transform: uppercase; color: rgba(0,0,0,.2);">
+                    ${data.key}
+                  </span>`;
+            },
+            highlight: true,
+        },
+        events: {
+            input: {
+                focus() {
+                    if (autoCompleteJS.input.value.length) autoCompleteJS.start();
+                },
+                selection(event) {
+                    const feedback = event.detail;
+                    autoCompleteJS.input.blur();
+                    const selection = feedback.selection.value[feedback.selection.key];
+                    autoCompleteJS.input.value = selection;
+                    ShowInfo(feedback.selection.value);
+                    //console.log(feedback);
+                },
+            },
+        },
+    });
+}
 $(document).on('click', "#search-form input[type=search]", function(){
+    initAutoComplete();
     if(!$("#btnSideMenu").is(":visible")) return;
     $("#btnSideMenu").click();
 });
@@ -1355,13 +1480,14 @@ $(document).on('click', '#startExactSearch', function(){
     });
     pageStateChanged();
 });
-$("#regionBody").mouseenter(function(){
-    if(searchDirty)
-        DoSearch();
-});
+// $("#regionBody").mouseenter(function(){
+//     if(searchDirty)
+//         DoSearch();
+// });
 
 var searchDirty = false;
 $(document).on('input', 'input[type=search]', function () {
+    initAutoComplete();
     searchDirty = true;
     $('#contents .results').fadeTo(600, 1.5);
 });//.on('input', 'input[type=search]',$.debounce(1500, DoSearchIfDirty));

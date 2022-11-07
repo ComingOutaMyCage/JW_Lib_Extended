@@ -189,6 +189,7 @@ function setPageState(param, value) {
     dict[param] = value;
     setPageStates(dict, false, false);
 }
+
 function setPageStates(dict, replaceState = false, wipeOthers=false) {
     //console.log(param + " = " + value);
     let newURL = new URL(location.href);

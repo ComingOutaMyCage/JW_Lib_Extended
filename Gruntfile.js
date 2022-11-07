@@ -9,9 +9,10 @@ module.exports = function(grunt) {
             },
             dist: {
                 src: [
+                    'node_modules/@tarekraafat/autocomplete.js/dist/autoComplete.min.js',
                     'js/pace.min.js',
-                    'js/jszip.js',
-                    'js/jszip-utils.js',
+                    'js/jszip.min.js',
+                    'js/jszip-utils.min.js',
                     'js/jquery.min.js',
                     'js/jquery.ba-throttle-debounce.min.js',
                     'js/flexsearch/flexsearch.debug.js',
