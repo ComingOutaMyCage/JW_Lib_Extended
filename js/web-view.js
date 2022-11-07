@@ -13916,6 +13916,7 @@ class ImageGallery {
         }
         setPageState('page', page);
         setPageTitle("WTBTS Image Gallery" + pageTitleEnd);
+        setPageDescription("Images since 1880 used in Jehovahs Witness publications");
 
         let pagination = generatePagination(allImages.length, this.itemsPerPage, page - 1, this.getRandomPage(maxPages));
         pagination.addClass('mb-2 mt-2')
@@ -15161,10 +15162,13 @@ async function ShowPublications(category, title, symbol, pubId) {
     if(category || title || symbol || pubId || location.search !== '')
         setPageStates({'file': null, search: null, page: null, list: 'publications', category: category, title: title, symbol: symbol, pubId: pubId });
 
-    if (newPageTitle)
+    if (newPageTitle) {
         setPageTitle(newPageTitle + pageTitleEnd);
-    else if(list.length > 0) {
-        setPageTitle(list.children().first().text().replace("‹", '').trim() + pageTitleEnd);
+        setPageDescription("Index for " + newPageTitle + " by Jehovahs Witnesses");
+    } else if(list.length > 0) {
+        let catTitle = list.children().first().text().replace("‹", '').trim();
+        setPageTitle(catTitle + pageTitleEnd);
+        setPageDescription("Index for " + catTitle + " by Jehovahs Witnesses");
     }
 
     container.append(list);
@@ -15254,7 +15258,9 @@ async function showRelatedFiles(store) {
             relatedDocs.fadeIn(200);
         });
 
-        setPageTitle(getStoredItemTitle(store) + ((relatedFilesCategoryTitle !== getStoredItemTitle(store)) ? " - " + relatedFilesCategoryTitle : '') + pageTitleEnd);
+        let storeTitle = getStoredItemTitle(store);
+        setPageTitle(storeTitle + titleYear + ((relatedFilesCategoryTitle !== storeTitle) ? " - " + relatedFilesCategoryTitle : '') + pageTitleEnd);
+        setPageDescription(storeTitle + " published in " + info.Year);
         return;
     }
 
@@ -15285,7 +15291,9 @@ async function showRelatedFiles(store) {
     let titleYear = '';
     if(!getStoredItemTitle(store).includes(info.Year.toString()) && !relatedFilesCategoryTitle.includes(info.Year.toString()))
         titleYear = ` ${info.Year} `;
-    setPageTitle(getStoredItemTitle(store) + titleYear + ((relatedFilesCategoryTitle !== getStoredItemTitle(store)) ? " - " + relatedFilesCategoryTitle : '') + pageTitleEnd);
+    let storeTitle = getStoredItemTitle(store);
+    setPageTitle(storeTitle + titleYear + ((relatedFilesCategoryTitle !== storeTitle) ? " - " + relatedFilesCategoryTitle : '') + pageTitleEnd);
+    setPageDescription(storeTitle + " published in " + info.Year);
 
     if (relatedDocs.is(":visible")){
         await relatedDocs.fadeOut(200);
@@ -15373,6 +15381,9 @@ async function AddChapters(){
 }
 function setPageTitle(text){
     document.title = text.replace('—', '-');
+}
+function setPageDescription(desc){
+    document.querySelector('meta[name="description"]').setAttribute("content", desc);
 }
 function highlightRelatedFile(){
     let currentDoc = getPageState('file');

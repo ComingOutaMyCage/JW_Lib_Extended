@@ -58,6 +58,7 @@ class ImageGallery {
         }
         setPageState('page', page);
         setPageTitle("WTBTS Image Gallery" + pageTitleEnd);
+        setPageDescription("Images since 1880 used in Jehovahs Witness publications");
 
         let pagination = generatePagination(allImages.length, this.itemsPerPage, page - 1, this.getRandomPage(maxPages));
         pagination.addClass('mb-2 mt-2')
