@@ -14311,6 +14311,33 @@ function GetIndexForWord(word){
 
 if(typeof module !== 'undefined')
     module.exports = { PublicationCodes, BASE_64, basename, getPath, mergeDict, filenameWithoutExt, until, GetIndexForWord, encodeURICompClean };
+class PackedData {
+    static Ready = false;
+    static Data = null;
+    static NowReady(){
+        this.Ready = true;
+
+        let options = this.Data['index.json'];
+        infoStore = this.Data['infoStore.json'];
+        delete this.Data['index.json'];
+        delete this.Data['infoStore.json'];
+        index = new FlexSearch.Document(options);
+        for (const [filename, file] of Object.entries(this.Data)) {
+            console.log("Importing " + filename);
+            index.import(filename, file);
+        }
+        page_data_ready = true;
+        $('#loading-state').html('');
+
+        if(!getPageState('file'))
+            pageStateChanged();
+
+        let event = new Event("PackedDataReady", {bubbles: true}); // (2)
+        document.dispatchEvent(event);
+        // else if(showingFileFor == null && !hasLoadedFileWithStore)
+        //     FileOnceStoreLoaded();
+    }
+}
 let search = getPageState('search') ?? getPageState('searchExact') ?? '';
 let words = location.hash.substr(location.hash.indexOf('=') + 1);
 if(location.hash.startsWith(("#search="))) {
@@ -14757,6 +14784,7 @@ function StopLoading() {
     abortController = new AbortController()
     return ++searchCount;
 }
+
 var lastLocation;
 async function pageStateChanged(e = null){
     if(lastLocation != null && lastLocation.search === location.search && lastLocation.hash !== location.hash){
@@ -14839,8 +14867,11 @@ function LoadCategories(){
         }
     });
 }
+var hasLoadedFileWithStore = false;
+var showingFileFor = null;
 async function ShowFile(docPath, replaceState= false){
-    let info, store;
+    if(showingFileFor === docPath) return;
+    let info = null, store = null;
     let preload = null;
     if(index && index.store) {
         StopLoading();
@@ -14858,6 +14889,7 @@ async function ShowFile(docPath, replaceState= false){
             info = resp;
         });
     }
+    showingFileFor = docPath;
     let docFetch = fetch(docPath.toLowerCase(), {
         cache: "force-cache",
         method: "get",
@@ -14889,7 +14921,16 @@ async function ShowFile(docPath, replaceState= false){
             //contents = contents.replace(/src="jwpub-media[^"]*"/g, '');
         }
         contents = contents.replace(/( (src)=['"])/ig, '$1' + dir + '/');
-        contents = contents.replace(/height[:=]"?\s*\d+[\w"]+;?/ig, '');
+        // contents = contents.replace(/height[:=]"?\s*\d+[\w"]+;?/ig, '');
+        contents = contents.replace(/(width[:=]"?\s*)(\d+)([\w"]+;?\s*)(height[:=]"?\s*)(\d+)([\w"]+;?)/ig, function(...m){
+            let width = parseFloat(m[2]), height = parseFloat(m[5]);
+            let ratio = (width / height).toFixed(3);
+            if (m[1].includes(':')){
+                return m[1] + m[2] + m[3] + ` aspect-ratio:${ratio}`;
+            }else{
+                return m[1] + m[2] + m[3] + ` style="aspect-ratio:${ratio};"`;
+            }
+        });
         contents = contents.replaceAll('<img ', '<img loading="lazy" ');
         //contents = contents.replaceAll('<img ', 'bookmark=" ');
 
@@ -14914,9 +14955,15 @@ async function ShowFile(docPath, replaceState= false){
         elements.push(AddDisclaimer(info));
         elements.push(`<div class="document ${classes}">${contents}</div>`);
 
+        $('#loading-state').html('');
         $('#contents').html('').append(elements);
         $('#contents').find('style').remove();
+
+        if(!store && index && index.store) store = getStoreForFile(docPath);
+        else document.addEventListener("PackedDataReady", FileOnceStoreLoaded);
         showRelatedFiles(store);
+
+        showingFileFor = null;
 
         $('#resultsHeader').hide();
         if(info.Title) AddDisclaimer(info);
@@ -14925,7 +14972,7 @@ async function ShowFile(docPath, replaceState= false){
         if(preload === null) {
             setTimeout(AfterShowFile, 10);
         }
-    }).catch(error => console.log(error.message));
+    }).catch(error => {showingFileFor = null; console.log(error.message); });
 }
 function FileOnceStoreLoaded(){
     let docPath = getPageState('file');
@@ -14957,7 +15004,7 @@ function AddDisclaimer(info){
         else if(info.Category === 'g') link = `https://wol.jw.org/en/wol/library/r1/lp-e/all-publications/awake/awake-${info.Year}/${monthNamesFull[info.Month - 1].toLowerCase()}` + (info.Day ? '-'+ info.Day : '');
         disclaimer.append(`<br/><a target="_blank" rel="noreferrer" href="http://hidereferrer.net/?${link}">You may be able to find the original on wol.jw.org</a>`);
     }else {
-        disclaimer.append(`<br/><a target="_blank" rel="noreferrer" href="https://archive.org/search.php?query=${encodeURIComponent(info.Title + " " + info.Year)}"><img src="images/icons/pdf.png" height="24"> Content is too old for wol.jw.org, original copies may be found on Archive.org</a>`);
+        disclaimer.append(`<br/><a target="_blank" rel="noreferrer" href="https://archive.org/search.php?query=${encodeURIComponent(info.Title + " " + info.Year)}"><img alt="pdf" src="images/icons/pdf.png" height="24"> Content is too old for wol.jw.org, original copies may be found on Archive.org</a>`);
     }
     if(location.protocol === "http:"){
         let path = encodeURIComponent("C:\\MyDev\\www\\JW_Lib_Extended\\" + getPath(getPageState('file')));
@@ -15046,6 +15093,10 @@ async function ShowPublications(category, title, symbol, pubId) {
         // }
         groupBy = "Title";
         //showBy = "Title";
+    }
+
+    if(!CheckPackedDataLoaded() && new URL(location.href).searchParams > 1){
+        setTimeout(pageStateChanged, 100);
     }
 
     if(pubId) {
@@ -15258,7 +15309,10 @@ async function showRelatedFiles(store) {
             relatedDocs.fadeIn(200);
         });
 
+        let titleYear = '';
         let storeTitle = getStoredItemTitle(store);
+        if(!storeTitle.includes(info.Year.toString()) && !relatedFilesCategoryTitle.includes(info.Year.toString()))
+            titleYear = ` ${info.Year} `;
         setPageTitle(storeTitle + titleYear + ((relatedFilesCategoryTitle !== storeTitle) ? " - " + relatedFilesCategoryTitle : '') + pageTitleEnd);
         setPageDescription(storeTitle + " published in " + info.Year);
         return;
@@ -15289,9 +15343,9 @@ async function showRelatedFiles(store) {
         relatedFilesCategoryTitle += " Subtitles";
 
     let titleYear = '';
-    if(!getStoredItemTitle(store).includes(info.Year.toString()) && !relatedFilesCategoryTitle.includes(info.Year.toString()))
-        titleYear = ` ${info.Year} `;
     let storeTitle = getStoredItemTitle(store);
+    if(!storeTitle.includes(info.Year.toString()) && !relatedFilesCategoryTitle.includes(info.Year.toString()))
+        titleYear = ` ${info.Year} `;
     setPageTitle(storeTitle + titleYear + ((relatedFilesCategoryTitle !== storeTitle) ? " - " + relatedFilesCategoryTitle : '') + pageTitleEnd);
     setPageDescription(storeTitle + " published in " + info.Year);
 
@@ -15413,7 +15467,7 @@ function buildDirectoryItem(href, doc, thumbnail, title, subtext, detail = null,
         if(thumbnail.charAt(0) === '.')
             a.append(`<div class="thumbnail"><span class="${thumbnail.replaceAll('.', '')}"></span></div>`);
         else
-            a.append(`<div class="thumbnail"><img src="${thumbnail}"/></div>`);
+            a.append(`<div class="thumbnail"><img alt="thumbnail" src="${thumbnail}"/></div>`);
     }
     if(backArrow)
         a.append('<div class="arrow"><div class="icon-rev"></div></div>');
@@ -15512,6 +15566,10 @@ $(document).on('click', 'i.ts', function(){
             top: -240,
         },
     });
+});
+$(document).on('click', "#search-form input[type=search]", function(){
+    if(!$("#btnSideMenu").is(":visible")) return;
+    $("#btnSideMenu").click();
 });
 $(document).on('click', '#btnSideMenu,#searchBackdrop', function(){
     $('body').toggleClass('showSideMenu');
@@ -15632,46 +15690,18 @@ $(document).ready(async function(){
 // if(getPageState('file')){
 //     ShowFile(getPageState('file'));
 // }
+function CheckPackedDataLoaded(){
+    if(page_data_ready) return true;
+    if(typeof packedData === 'undefined') return false;
+    return true;
+}
+
 $(document).on('click', '#manualLoad', Begin);
 function Begin(){
     LoadCategories();
-
-    // if(getPageState('file')){
-    //     pageStateChanged();
-    // }
-
-    $("#search-form input[type=search]").click(function(){
-        if(!$("#btnSideMenu").is(":visible")) return;
-        $("#btnSideMenu").click();
-    });
-
-    // let packedPromise = GetPackedData('index/packed.zip')
-    //     .then(async function (files)
-    {
-        let files = packedData;
-        let options = files['index.json'];
-        infoStore = files['infoStore.json'];
-        delete files['index.json'];
-        delete files['infoStore.json'];
-        index = new FlexSearch.Document(options);
-        for (const [filename, file] of Object.entries(files)) {
-            console.log("Importing " + filename);
-            index.import(filename, file);
-        }
-        page_data_ready = true;
-        $('#loading-state').html('');
-
-        //$("input[type=search]").on('input', $.debounce(600, DoSearch));
-        window.addEventListener('popstate', pageStateChanged);
-        // if(!getPageState('file')){
-        pageStateChanged();
-         // }else{
-         //    ShowFile(file)
-         //     //FileOnceStoreLoaded();
-         // }
-    }//);
-    // while (!page_data_ready){
-    // }
+    window.addEventListener('popstate', pageStateChanged);
+    // if(!getPageState('file')){
+    pageStateChanged();
 }
 // window.onload = function(){
 //    $('body').css('background-color', 'red');

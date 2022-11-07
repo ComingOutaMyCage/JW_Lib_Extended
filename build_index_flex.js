@@ -613,7 +613,7 @@ async function Process() {
         fs.writeFileSync(dir + 'infoStore.json', JSON.stringify(infoStore));
         fs.writeFileSync(dir + 'store', JSON.stringify(index.store));
 
-        fs.writeFileSync(dir + 'packed.js', "var packedData = " + JSON.stringify(packedJson));
+        fs.writeFileSync(dir + 'packed.js', "PackedData.Data = " + JSON.stringify(packedJson)) + "; PackedData.NowReady();";
 
         sitemapWriter.writeSitemap(sitemap);
 
