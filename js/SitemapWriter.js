@@ -49,7 +49,7 @@ class SitemapWriter {
             outname = outname.replace(".xml", `${index + 1}.xml`);
         await fse.writeFile(
             outname,
-            '<?xml version="1.0" encoding="UTF-8"?>' + xmlString
+            '<?xml version="1.0" encoding="UTF-8"?>\n' + xmlString
         )
         SitemapWriter.compressFile(outname);
     }

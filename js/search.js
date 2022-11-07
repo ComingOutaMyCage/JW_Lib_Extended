@@ -1317,13 +1317,15 @@ function initAutoComplete(){
             src: values,
             keys: [ 'FriendlyName', 'Symbol', 'Issue', 'Name', 'Title' ],
             cache: false,
-            // filter: (list) => {
-            //     // Filter duplicates
-            //     const filteredResults = Array.from(new Set(list.map((value) => value.match))).map((iid) => {
-            //         return list.find((value) => value.match.name === iid);
-            //     });
-            //     return filteredResults;
-            // },
+            filter: (list) => {
+                // Filter duplicates
+                const filteredResults = Array.from(new Set(list.map((value) => value.value.FriendlyName))).map((iid) => {
+                    return list.find((value) =>
+                        value.value.FriendlyName === iid
+                    );
+                });
+                return filteredResults;
+            },
         },
         searchEngine: (query, record) => {
             if(!record) return false;
@@ -1333,7 +1335,8 @@ function initAutoComplete(){
                 regex = new RegExp(lastQuerySplit.map(w=>escapeRegExp(w)).join('|'), 'ig');
             }
             record = record.toString()
-            if(!record.match(regex))
+            let match = record.match(regex);
+            if(!match || new Set(match).size < lastQuerySplit.length)
                 return;
             return highlightSearchTerms(record, lastQuerySplit);
         },
@@ -1377,6 +1380,7 @@ function initAutoComplete(){
             },
         },
     });
+    $("#search").focus();
 }
 $(document).on('click', "#search-form input[type=search]", function(){
     initAutoComplete();
