@@ -22,6 +22,7 @@ module.exports = function(grunt) {
                     'js/bible.js',
                     'js/ImageGallery.js',
                     'js/functions.js',
+                    'js/search.js',
                 ],
                 dest: 'js/web-view.js'
             },

@@ -11,16 +11,16 @@
 @import "../node_modules/bootstrap/scss/type";
 @import "../node_modules/bootstrap/scss/forms";
 @import "../node_modules/bootstrap/scss/buttons";
-@import "../node_modules/bootstrap/scss/nav";
-@import "../node_modules/bootstrap/scss/navbar";
-@import "../node_modules/bootstrap/scss/dropdown";
+//@import "../node_modules/bootstrap/scss/nav";
+//@import "../node_modules/bootstrap/scss/navbar";
+//@import "../node_modules/bootstrap/scss/dropdown";
 @import "../node_modules/bootstrap/scss/button-group";
 
 @import "../js/pace";
 
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400;1,700&family=Noto+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&display=swap');
 
-$font-family: 'Noto Sans',Arial,"Arial Unicode MS",sans-serif;
+$font-family: 'Noto Sans', Verdana, Arial,"Arial Unicode MS",sans-serif;
 $color-primary-0: #343D4A;
 $color-primary-1: #4C5767;
 $color-primary-1-1: #6A7483;
@@ -47,6 +47,7 @@ body {
   line-height: 1.5;
   word-break: normal;
   overflow-y: scroll;
+  max-width: 1600px;
 }
 #body-div{
   box-shadow: 0 0 50px rgb(0 0 0 / 20%);
@@ -68,6 +69,9 @@ a.nav-link img {
   @media only print {
     background: black;
     color: white;
+  }
+  a:hover {
+    color: white !important;
   }
 
   .navbar-brand {
@@ -348,9 +352,6 @@ mark {
   margin-top: 0.3em;
 }
 
-body {
-  max-width: 1600px;
-}
 #secondaryNavContent {
   position: fixed;
   top: 124px;
@@ -703,7 +704,6 @@ a.lookupScripture {
   display: flex;
   height: 50px;
   background: #fff;
-  font-family: Arial, Helvetica, sans-serif;
   font-size: 14px;
   border-bottom: 1px solid #e5e5e5;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);

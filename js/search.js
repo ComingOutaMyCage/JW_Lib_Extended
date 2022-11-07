@@ -1306,7 +1306,6 @@ var scrollListener;
 $(document).ready(async function(){
     scrollListener = new ScrollListener();
 });
-Begin();
 // if(getPageState('file')){
 //     ShowFile(getPageState('file'));
 // }

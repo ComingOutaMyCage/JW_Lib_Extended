@@ -12,24 +12,61 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<!--    <script src="js/flexsearch/flexsearch.debug.js"></script>-->
-
-    <script src="js/web-view.min.js"></script>
-<!--    <script src="js/functions.js"></script>-->
-
-    <link href="css/style.css" rel="stylesheet" >
-
     <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
     <link rel="manifest" href="site.webmanifest">
+
+    <style>
+        body {
+            max-width: 1600px;
+            margin: auto auto;
+            font-size: 16px;
+            line-height: 1.5;
+            font-family: Verdana, Arial;
+        }
+        .navbar-nav {
+            flex-wrap: wrap;
+        }
+        .navbar-brand {
+            font-size: 30px;
+            white-space: no-wrap;
+        }
+        @media print, only screen and (max-width: 1200px) {
+            #fixedHeader .navbar .navbar-brand {
+                font-size: 20px;
+            }
+        }
+        .navbar {
+            background-color: #343d4a !important;
+            display: flex;
+        }
+        .navbar a {
+            color: white;
+            text-decoration: none;
+        }
+        .navbar>.container-fluid {
+            display: flex;
+            flex-wrap: inherit;
+            align-items: center;
+            justify-content: space-between;
+        }
+        #nav-title {
+            margin-left: 0.25em;
+            display: inline-block;
+        }
+        #slogan {
+            font-size: 50%;
+            margin-top: -0.5em;
+        }
+    </style>
 </head>
 <body data-finder-wrapper data-finder-scroll-offset="260">
 <div id="body-div">
 <div id="fixedHeader">
     <nav class="navbar navbar-expand-lg navbar-dark bg-light">
         <div class="container-fluid">
-            <a class="navbar-brand" href="?list=publications"><img alt="Logo" src="images/history_book.svg" style="width: 1.5em; "/><div id="nav-title"><div class="main-title">JWS Online Library | <i>1880 - 2022</i></div><div id="slogan">Historical Archive to preserve expressions of faith</div></div></a>
+            <a class="navbar-brand" href="?list=publications"><img alt="Logo" src="images/history_book.svg" style="width: 1.5em; height:1.5em;"/><div id="nav-title"><div class="main-title">JWS Online Library | <i>1880 - 2022</i></div><div id="slogan">Historical Archive to preserve expressions of faith</div></div></a>
             <!--        <div class="navbar-collapse" id="navbarSupportedContent">-->
             <!--            <ul class="navbar-nav me-auto mb-2 mb-lg-0 flex-row gap-1">-->
             <!--                <li class="nav-item d-block d-none d-xl-block"><a class="nav-link active" aria-current="page" href="index.html">Home</a></li>-->
@@ -37,18 +74,19 @@
             <!--        </div>-->
         </div>
     </nav>
+    <link href="css/style.css" rel="stylesheet" >
     <form id="search-form" action="#" onsubmit="DoSearch(); return false;">
         <div class="input-group">
-            <a href="#btnSideMenu" id="btnSideMenu"><img alt="Open Side Menu" src="images/indentation-indent.svg" /></a>
-            <img alt="Search Icon" width="24" src="images/icon-search.svg" style="align-self: center; margin-right: 0.5em"/>
+            <a href="#btnSideMenu" id="btnSideMenu"><img width="24" height="24" alt="Open Side Menu" src="images/indentation-indent.svg" /></a>
+            <img alt="Search Icon" width="24" height="24" src="images/icon-search.svg" style="align-self: center; margin-right: 0.5em"/>
             <input type="search" placeholder="Search" class="form-control" style="border-top-left-radius: 0.375rem;border-bottom-left-radius: 0.375rem;" />
 
-            <button type="button" class="btn btn-outline-dark" onclick="DoSearch()"><img alt="Search Icon" width="16" src="images/icon-search.svg"> Search</button>
+            <button type="button" class="btn btn-outline-dark" onclick="DoSearch()"><img alt="Search Icon" width="16" height="16" src="images/icon-search.svg"> Search</button>
         </div>
         <!--    <span class="text-muted">Search for articles containing all words, or use "quotes to match groups"</span>-->
     </form>
 </div>
-<button aria-label="Search Page" class="finder-activator" data-finder-activator><img alt="Search Icon" width="24" src="images/icon-search.svg" /></button>
+<button aria-label="Search Page" class="finder-activator" data-finder-activator><img alt="Search Icon" width="24" height="24" src="images/icon-search.svg" /></button>
 <div id="searchBackdrop" touch-action="none"></div>
 <div id="tooltip" style="display: none"><div id="tooltip-inner"><div id="tooltip-header"></div><div id="tooltip-body"></div></div></div>
 <div id="regionMain">
@@ -108,8 +146,9 @@
 </div>
 </div>
 </div>
+<script src="js/web-view.min.js"></script>
 <script src="index/packed.js"></script>
-<script src="js/search.js"></script>
+<script>Begin();</script>
 
 <script async src="//static.getclicky.com/101371960.js"></script>
 <noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101371960ns.gif" /></p></noscript>
