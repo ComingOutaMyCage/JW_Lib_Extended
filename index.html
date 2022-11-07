@@ -12,31 +12,12 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <script src="//d2wy8f7a9ursnm.cloudfront.net/v7/bugsnag.min.js"></script>
-    <script>if(location.host !== 'jwlibextended'){ Bugsnag.start({ apiKey: 'b4321a0dabdc397436161db6f20917c0' }); }</script>
+<!--    <script src="js/flexsearch/flexsearch.debug.js"></script>-->
 
-    <script src="js/pace.min.js"></script>
-    <link rel="stylesheet" href="js/pace.css">
+    <script src="js/web-view.min.js"></script>
+<!--    <script src="js/functions.js"></script>-->
 
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
-
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-
-    <script src="js/jszip.js"></script>
-    <script src="js/jszip-utils.min.js"></script>
-
-    <script src="js/jquery.ba-throttle-debounce.min.js"></script>
-
-    <script src="js/flexsearch/flexsearch.debug.js"></script>
-
-    <script src="js/striptags.js"></script>
-    <script src="js/functions.js"></script>
     <link href="css/style.css" rel="stylesheet" >
-
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400;1,700&family=Noto+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&display=swap" rel="stylesheet">
 
     <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
@@ -48,7 +29,7 @@
 <div id="fixedHeader">
     <nav class="navbar navbar-expand-lg navbar-dark bg-light">
         <div class="container-fluid">
-            <a class="navbar-brand" href="?list=publications"><img src="images/history_book.svg" style="height: 1.5em; "/><div id="nav-title"><div class="main-title">JWS Online Library | <i>1880 - 2022</i></div><div id="slogan">Historical Archive to preserve expressions of faith</div></div></a>
+            <a class="navbar-brand" href="?list=publications"><img alt="Logo" src="images/history_book.svg" style="height: 1.5em; "/><div id="nav-title"><div class="main-title">JWS Online Library | <i>1880 - 2022</i></div><div id="slogan">Historical Archive to preserve expressions of faith</div></div></a>
             <!--        <div class="navbar-collapse" id="navbarSupportedContent">-->
             <!--            <ul class="navbar-nav me-auto mb-2 mb-lg-0 flex-row gap-1">-->
             <!--                <li class="nav-item d-block d-none d-xl-block"><a class="nav-link active" aria-current="page" href="index.html">Home</a></li>-->
@@ -58,16 +39,16 @@
     </nav>
     <form id="search-form" action="#" onsubmit="DoSearch(); return false;">
         <div class="input-group">
-            <a id="btnSideMenu"><img src="images/indentation-indent.svg" /></a>
-            <img src="images/icon-search.svg" style="height: 1.5em; align-self: center; margin-right: 0.5em"/>
+            <a href="#btnSideMenu" id="btnSideMenu"><img alt="Open Side Menu" src="images/indentation-indent.svg" /></a>
+            <img alt="Search Icon" src="images/icon-search.svg" style="height: 1.5em; align-self: center; margin-right: 0.5em"/>
             <input type="search" placeholder="Search" class="form-control" style="border-top-left-radius: 0.375rem;border-bottom-left-radius: 0.375rem;" />
 
-            <button type="button" class="btn btn-outline-dark" onclick="DoSearch()"><img src="images/icon-search.svg"> Search</button>
+            <button type="button" class="btn btn-outline-dark" onclick="DoSearch()"><img alt="Search Icon" src="images/icon-search.svg"> Search</button>
         </div>
         <!--    <span class="text-muted">Search for articles containing all words, or use "quotes to match groups"</span>-->
     </form>
 </div>
-<button class="finder-activator" data-finder-activator><img src="images/icon-search.svg" /></button>
+<button name="Search Page" class="finder-activator" data-finder-activator><img src="images/icon-search.svg" /></button>
 <div id="searchBackdrop" touch-action="none"></div>
 <div id="tooltip" style="display: none"><div id="tooltip-inner"><div id="tooltip-header"></div><div id="tooltip-body"></div></div></div>
 <div id="regionMain">
@@ -127,11 +108,6 @@
 </div>
 </div>
 </div>
-<script src="js/jquery.highlight.js"></script>
-<script src="js/jquery.scrollto.js"></script>
-<script src="js/jquery.finder.js"></script>
-<script src="js/bible.js"></script>
-<script src="js/ImageGallery.js"></script>
 <script src="index/packed.js"></script>
 <script src="js/search.js"></script>
 
@@ -148,5 +124,5 @@
 </script>
 </body>
 </html>
-<script src="js/bible_nwt.js" async></script>
-<script src="//code.tidio.co/b0tisogvmg2hnkczsjpfa2i1jfsuljkq.js" async></script>
+<script async src="js/bible_nwt.js" ></script>
+<script async src="//code.tidio.co/b0tisogvmg2hnkczsjpfa2i1jfsuljkq.js"></script>

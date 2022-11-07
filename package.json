@@ -3,8 +3,10 @@
   "version": "1.0.0",
   "dependencies": {
     "bb26": "^2.2.0",
+    "bootstrap": "^5.2.2",
     "flexsearch": "^0.7.21",
     "fs-extra": "^10.1.0",
+    "grunt-contrib-uglify": "^5.2.2",
     "image-size": "^1.0.2",
     "jquery-throttle-debounce": "^1.0.0",
     "jsdom": "^20.0.1",
@@ -15,5 +17,8 @@
     "striptags": "^3.2.0",
     "xml": "^1.0.1",
     "zlib": "^1.0.5"
+  },
+  "devDependencies": {
+    "grunt-contrib-concat": "^2.1.0"
   }
 }

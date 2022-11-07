@@ -527,27 +527,23 @@ function LoadCategories(){
     });
 }
 async function ShowFile(docPath, replaceState= false){
-    let info;
+    let info, store;
     let preload = null;
     if(index && index.store) {
         StopLoading();
         setPageStates({'file': docPath}, replaceState, true);
         docPath = docPath.replace('\\', '/');
-        let store = getStoreForFile(docPath);
+        store = getStoreForFile(docPath);
         if(!store){
             $("#contents").html("<h1>Could not find document</h1>");
             return;
         }
         info = infoStore[store.iid] ?? null;
-        showRelatedFiles(store);
+        //showRelatedFiles(store);
     }else{
         preload = $.getJSON(getPath(docPath) + "/info.json", function(resp) {
             info = resp;
         });
-    }
-    if($("#contents input[name=file]").val() === docPath) {
-        AddDisclaimer(info);
-        return;
     }
     let docFetch = fetch(docPath.toLowerCase(), {
         cache: "force-cache",
@@ -602,10 +598,12 @@ async function ShowFile(docPath, replaceState= false){
 
         let classes = GetClassesForContent(contents);
         elements.push($(`<input name="file" type='hidden' value='' />`).val(docPath));
+        elements.push(AddDisclaimer(info));
         elements.push(`<div class="document ${classes}">${contents}</div>`);
 
         $('#contents').html('').append(elements);
         $('#contents').find('style').remove();
+        showRelatedFiles(store);
 
         $('#resultsHeader').hide();
         if(info.Title) AddDisclaimer(info);
@@ -654,8 +652,7 @@ function AddDisclaimer(info){
         disclaimer.append(`<br/><br/><a href="OpenFolder:${path}">OPEN FOLDER</a>`);
         disclaimer.append(`<br/><a href="OpenFolder:${path2}">OPEN PDF FOLDER</a>`);
     }
-    $('#docDisclaimer').remove();
-    $('#contents').prepend(disclaimer[0].outerHTML);
+    return disclaimer[0].outerHTML;
 }
 
 function ResetScroll(){
