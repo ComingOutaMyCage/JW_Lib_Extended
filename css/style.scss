@@ -16,7 +16,7 @@
 @import "../node_modules/bootstrap/scss/dropdown";
 @import "../node_modules/bootstrap/scss/button-group";
 
-@import "../js/pace.css";
+@import "../js/pace";
 
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400;1,700&family=Noto+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&display=swap');
 
@@ -107,7 +107,6 @@ a.nav-link img {
       }
     }
     img {
-      height: 1em;
       margin-top: 0.25em;
       margin-right: 0.1em;
       vertical-align: text-top;

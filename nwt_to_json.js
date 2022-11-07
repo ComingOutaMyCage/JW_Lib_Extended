@@ -147,4 +147,14 @@ if(debug){
     return;
 }
 fs.writeFileSync('js/bible_nwt.js', "var bible = " + JSON.stringify(bible));
+let bible_stats = {};
+for (const book of Object.keys(bible)){
+    fs.writeFileSync(`js/nwt/${book}.json`, JSON.stringify(bible[book]));
+    let book_stats = [];
+    for(const chapter in bible[book]){
+        book_stats[chapter] = bible[book][chapter].length;
+    }
+    bible_stats[book] = book_stats;
+}
+fs.writeFileSync('js/bible_stats.js', "var bible_stats = " + JSON.stringify(bible_stats));
 console.log("Saved nwt.json!");

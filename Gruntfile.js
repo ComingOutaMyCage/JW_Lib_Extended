@@ -18,6 +18,7 @@ module.exports = function(grunt) {
                     'js/striptags.js',
                     'js/jquery.highlight.js',
                     'js/jquery.scrollto.js',
+                    'js/jquery.finder.js',
                     'js/bible.js',
                     'js/ImageGallery.js',
                     'js/functions.js',

@@ -625,7 +625,7 @@ function AfterShowFile(){
     AddChapters();
     ResetScroll();
     let searchWords = getSearchWords();
-    if(searchWords.length && finder) {
+    if(searchWords.length && typeof finder !== 'undefined') {
         setTimeout(()=> {
             finder.activate();
             $('#finder input').val(searchWords.join(' '));
@@ -1116,59 +1116,64 @@ function GetClassesForContent(content){
 function ShowScripture(scripture, click){
     clearTimeout(tooltipFadeout);
     console.log("Show scriptures:" + scripture);
-    let text = "<div>";
     let references = Bible.GetBooksAndVersess(scripture);
-    for(const [book, chapters] of Object.entries(references)){
-        //text += `<h3>${book}</h3>`;
-        let bibleBook = bible[book];
-        for (const [chapter, verses] of Object.entries(chapters)){
-            let name = "";
-            let scriptures = "";
-            let lastVerse = 0;
-            let startRange = 0;
-            for (let verse of verses){
-                if(lastVerse === 0) {name += verse; startRange = verse;}
-                else if(lastVerse !== verse - 1) {
-                    if(startRange < lastVerse) {
-                        name += "-" + lastVerse;
+    let books = Object.keys(references);
+    Bible.Fetch(books, function() {
+        let text = "<div>";
+        for (const [book, chapters] of Object.entries(references)) {
+            //text += `<h3>${book}</h3>`;
+            let bibleBook = Bible.Books[book];
+            for (const [chapter, verses] of Object.entries(chapters)) {
+                let name = "";
+                let scriptures = "";
+                let lastVerse = 0;
+                let startRange = 0;
+                for (let verse of verses) {
+                    if (lastVerse === 0) {
+                        name += verse;
+                        startRange = verse;
+                    } else if (lastVerse !== verse - 1) {
+                        if (startRange < lastVerse) {
+                            name += "-" + lastVerse;
+                        }
+                        name += "," + verse;
+                        startRange = verse;
                     }
-                    name += "," + verse;
-                    startRange = verse;
-                }
-                if(lastVerse !== 0 && verse - lastVerse > 1) scriptures += "<br/>";
-                lastVerse = verse;
+                    if (lastVerse !== 0 && verse - lastVerse > 1) scriptures += "<br/>";
+                    lastVerse = verse;
 
-                let rawVerse = bibleBook[chapter - 1][verse - 1];
-                let verseText = "";
-                for(const line of rawVerse.split("\n")){
-                    if(line.startsWith("\t"))
-                        verseText += "<span class='indent'>" + line + "</span>";
-                    else
-                        verseText += "<span>" + line + "</span>";
-                }
-                if(rawVerse.endsWith("\n")) verseText += "<br/>";
+                    let rawVerse = bibleBook[chapter - 1][verse - 1];
+                    let verseText = "";
+                    for (const line of rawVerse.split("\n")) {
+                        if (line.startsWith("\t"))
+                            verseText += "<span class='indent'>" + line + "</span>";
+                        else
+                            verseText += "<span>" + line + "</span>";
+                    }
+                    if (rawVerse.endsWith("\n")) verseText += "<br/>";
 
-                scriptures += ` <b>${verse}</b> <span class="verse serif">${verseText}</span>`;
+                    scriptures += ` <b>${verse}</b> <span class="verse serif">${verseText}</span>`;
+                }
+                if (name !== "" && lastVerse !== startRange) name += "-" + lastVerse;
+                text += `\r\n<div class="scripture-header"><div class="scripture">${book} ${chapter}:${name}</div></div>\r\n`;
+                text += `<p class="credit">Excerpt from <a target="_blank" rel="noreferrer" href="http://hidereferrer.net/?https://wol.jw.org/en/wol/binav/r1/lp-e/nwtsty">New World Translation of the Holy Scriptures</a><br/>© Watch Tower Bible and Tract Society of Pennsylvania</p><p>${scriptures}</p>`;
             }
-            if(name !== "" && lastVerse !== startRange) name += "-" + lastVerse;
-            text += `\r\n<div class="scripture-header"><div class="scripture">${book} ${chapter}:${name}</div></div>\r\n`;
-            text += `<p class="credit">Excerpt from <a target="_blank" rel="noreferrer" href="http://hidereferrer.net/?https://wol.jw.org/en/wol/binav/r1/lp-e/nwtsty">New World Translation of the Holy Scriptures</a><br/>© Watch Tower Bible and Tract Society of Pennsylvania</p><p>${scriptures}</p>`;
         }
-    }
-    text += "</div>";
+        text += "</div>";
 
-    $('#tooltip-body').html(text);
+        $('#tooltip-body').html(text);
 
-    let tooltip = $("#tooltip");
-    let width = tooltip.outerWidth();
-    let x;
-    if(click && $(document).width() > 900)
-        x = click.clientX + window.pageXOffset - (width / 2);
-    else
-        x = ($(document).width() / 2) - (width / 2);
-    tooltip.css('left', x).css('top', click.clientY + window.pageYOffset + 30);
-    clearTimeout(tooltipFadeout);
-    tooltip.stop().fadeIn(200);
+        let tooltip = $("#tooltip");
+        let width = tooltip.outerWidth();
+        let x;
+        if (click && $(document).width() > 900)
+            x = click.clientX + window.pageXOffset - (width / 2);
+        else
+            x = ($(document).width() / 2) - (width / 2);
+        tooltip.css('left', x).css('top', click.clientY + window.pageYOffset + 30);
+        clearTimeout(tooltipFadeout);
+        tooltip.stop().fadeIn(200);
+    });
     //console.log(text);
 }
 
