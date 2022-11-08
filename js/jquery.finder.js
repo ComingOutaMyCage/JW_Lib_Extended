@@ -63,6 +63,7 @@ const finder = {
 	},
 
 	createFinder: () => {
+		if($('#finder').length) return;
 		const finderElem = $('<div />')
 			.attr({
 				'id': 'finder',

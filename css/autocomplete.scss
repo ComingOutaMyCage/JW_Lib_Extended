@@ -32,6 +32,7 @@
     border: 1px solid rgba(33, 33, 33, 0.1);
     z-index: 1000;
     outline: none;
+    box-shadow: 0 8px 20px 0px black;
 }
 
 .autoComplete_wrapper > ul > li {
@@ -74,8 +75,8 @@
     background-color: rgba(123, 123, 123, 0.1);
 }
 
-@media only screen and (max-width: 600px) {
-    .autoComplete_wrapper > input {
-        width: 18rem;
+@media screen and (max-width: 900px) {
+    .autoComplete_wrapper {
+        position: initial;
     }
 }

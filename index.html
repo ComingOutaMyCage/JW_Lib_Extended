@@ -83,11 +83,11 @@
     <link href="css/style.css" rel="stylesheet" >
     <form id="search-form" action="#" onsubmit="DoSearch(); return false;">
         <div class="input-group">
-            <a href="#btnSideMenu" id="btnSideMenu"><img width="24" height="24" alt="Open Side Menu" src="images/indentation-indent.svg" /></a>
+            <a href="#" id="btnSideMenu"><img width="24" height="24" alt="Open Side Menu" src="images/indentation-indent.svg" /></a>
             <img alt="Search Icon" width="24" height="24" src="images/icon-search.svg" style="align-self: center; margin-right: 0.5em"/>
-            <input id="search" type="search" placeholder="Search" class="form-control" style="border-top-left-radius: 0.375rem;border-bottom-left-radius: 0.375rem;" />
+            <input id="search" type="search" placeholder="Search" class="form-control" />
 
-            <button type="button" class="btn btn-outline-dark" onclick="DoSearch()"><img alt="Search Icon" width="16" height="16" src="images/icon-search.svg"> Search</button>
+            <button id="btnSearch" type="button" class="btn btn-outline-dark" onclick="DoSearch()"><img alt="Search Icon" width="16" height="16" src="images/icon-search.svg"> Search</button>
         </div>
         <!--    <span class="text-muted">Search for articles containing all words, or use "quotes to match groups"</span>-->
     </form>

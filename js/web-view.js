@@ -1544,6 +1544,7 @@ const finder = {
 	},
 
 	createFinder: () => {
+		if($('#finder').length) return;
 		const finderElem = $('<div />')
 			.attr({
 				'id': 'finder',
@@ -2783,12 +2784,18 @@ function getStoredItemTitle(storeItem){
     return storeItem.title;
 }
 function ShowInfo(info){
+    HideSideMenu();
     setPageStates({list: 'publications', pubId: info.Name, year: info.Year});
     pageStateChanged();
 }
 async function DoSearchIfDirty(){
     if(searchDirty)
         await DoSearch();
+}
+function HideSideMenu(){
+    if($("#btnSideMenu").is(":visible")) {
+        $("body").removeClass('showSideMenu');
+    }
 }
 async function DoSearch(){
     if(!CheckPackedDataLoaded()){
@@ -2803,9 +2810,7 @@ async function DoSearch(){
     let thisSearchCount = StopLoading();
     searchDirty = false;
 
-    if($("#btnSideMenu").is(":visible")) {
-        $("body").removeClass('showSideMenu');
-    }
+    HideSideMenu();
 
     let newPageState = {};
     if((getPageState('search') ?? getPageState('searchExact')) !== searchStart){
@@ -2835,7 +2840,7 @@ async function DoSearch(){
                 info = forSymbol.find(i => i.Month == month);
             //let infoIndex = Object.values(infoStore).indexOf(i=>i.Symbol === symbol);
             if(info){
-                showInfo(info);
+                ShowInfo(info);
                 return;
             }
         }
@@ -3234,12 +3239,12 @@ async function ShowFile(docPath, replaceState= false){
             if(docPath.includes('/VOD/')) info.Category = 'vod';
         }
 
-        let searchWords = getSearchWords();
-        if(searchWords && searchWords.length) {
-            if(searchWords.filter(w=>w.length > 2).length)
-                searchWords = searchWords.filter(w => w.length > 2);
-            contents = highlightSearchTerms(contents, searchWords);
-        }
+        // let searchWords = getSearchWords();
+        // if(searchWords && searchWords.length) {
+        //     if(searchWords.filter(w=>w.length > 2).length)
+        //         searchWords = searchWords.filter(w => w.length > 2);
+        //     contents = highlightSearchTerms(contents, searchWords);
+        // }
         let dir = getPath(docPath).replace('\\', '/');
 
         let elements = [];
@@ -3320,9 +3325,9 @@ function AfterShowFile(){
     let searchWords = getSearchWords();
     if(searchWords.length && typeof finder !== 'undefined') {
         setTimeout(()=> {
-            finder.activate();
+            finder.createFinder();
             $('#finder input').val(searchWords.join(' '));
-            finder.findExistingMarks();
+            finder.activate();
         }, 100);
     }
 }
@@ -3428,7 +3433,7 @@ async function ShowPublications(category, title, symbol, pubId) {
         //showBy = "Title";
     }
 
-    if(!CheckPackedDataLoaded() && new URL(location.href).searchParams > 1){
+    if(!CheckPackedDataLoaded() && [...new URL(location.href).searchParams].length > 1){
         setTimeout(pageStateChanged, 100);
         return;
     }
@@ -3906,14 +3911,15 @@ $(document).on('click', 'i.ts', function(){
 var autoCompleteJS = null;
 function initAutoComplete(){
     if(autoCompleteJS !== null) return;
-    if(!infoStore) return;
     let values = Object.values(infoStore);
+    if(!values.length) return;
     values.map(i => GetFriendlyName(i));
     let lastQuery = null;
     let lastQuerySplit = null;
     let regex = null;
     autoCompleteJS = new autoComplete({ placeHolder: "Search",
         selector: "#search",
+        submit: true,
         // threshold: 10,
         data: {
             src: values,
@@ -3974,8 +3980,8 @@ function initAutoComplete(){
                 selection(event) {
                     const feedback = event.detail;
                     autoCompleteJS.input.blur();
-                    const selection = feedback.selection.value[feedback.selection.key];
-                    autoCompleteJS.input.value = selection;
+                    //const selection = feedback.selection.value[feedback.selection.key];
+                    autoCompleteJS.input.value = '';//selection;
                     ShowInfo(feedback.selection.value);
                     //console.log(feedback);
                 },
@@ -4023,8 +4029,10 @@ $(document).on('click', 'a[href]:not(.paginator)', function(e){
 
     let href = $(this).attr('href');
     if(href.startsWith('#')) {
-        window.history.replaceState(name.slice(0, -1), null, location.href.replace(location.hash, '') + href);
-        ResetScroll();
+        if(href.length > 1) {
+            window.history.replaceState(name.slice(0, -1), null, location.href.replace(location.hash, '') + href);
+            ResetScroll();
+        }
         return false;
     }
 
