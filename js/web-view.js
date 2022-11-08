@@ -3010,7 +3010,7 @@ async function DoSearch(){
             }
             $(".pagination").text("Scanning " + $(element).find('li .ref').text());
         }
-        await fetch(docPath.toLowerCase(), {
+        await fetch(docPath, {
             cache: "force-cache",
             method: "get",
             redirect: 'follow',
@@ -3218,13 +3218,13 @@ async function ShowFile(docPath, replaceState= false){
         }
         info = infoStore[store.iid] ?? null;
         //showRelatedFiles(store);
-    }else{
+    } else{
         preload = $.getJSON(getPath(docPath) + "/info.json", function(resp) {
             info = resp;
         });
     }
     showingFileFor = docPath;
-    let docFetch = fetch(docPath.toLowerCase(), {
+    let docFetch = fetch(docPath, {
         cache: "force-cache",
         method: "get",
         signal: abortController.signal
