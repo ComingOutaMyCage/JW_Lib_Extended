@@ -2240,7 +2240,7 @@ class ImageGallery {
 </div>
 <span style="color: white">Clicking an image will take you to that spot in the article.</span>
 </div>`
-        $("#contents").empty().append(ControlBar).append(pagination.clone()).append("<h1 id='yearNum' style='color: white; cursor: pointer;'>"+images[0].y+"</h1>").append(imageFlow).append(pagination).append("<div style='height: 200px'></div>");
+        $("#contents").empty().append(ControlBar).append(pagination.clone()).append("<button class='btn btn-outline-light btn-lg' id='yearNum'>"+images[0].y+"</button>").append(imageFlow).append(pagination).append("<div style='height: 200px'></div>");
     }
 
     static CopyUrlToClipboard(){
@@ -2261,6 +2261,12 @@ function InsertNav(){
             $(this).addClass('active');
         }
     });
+}
+function addScript(src, async = false) {
+    let s = document.createElement( 'script' );
+    s.src = src;
+    if(async)  s.async = true;
+    document.body.appendChild(s);
 }
 
 function IsHtml(content){
@@ -2484,9 +2490,13 @@ function encodeURICompClean(param){
 function getPageState(param) {
     return getUrlParam(location.href, param);
 }
+var lastHref = null;
+var lastURL = null;
 function getUrlParam(href, param) {
-    let url = new URL(href);
-    return url.searchParams.get(param);
+    if(lastHref !== href) {
+        lastURL = new URL(href);
+    }
+    return lastURL.searchParams.get(param);
 }
 
 class PublicationCodes {
@@ -2601,6 +2611,9 @@ function GetIndexForWord(word){
 
 if(typeof module !== 'undefined')
     module.exports = { PublicationCodes, BASE_64, basename, getPath, mergeDict, filenameWithoutExt, until, GetIndexForWord, encodeURICompClean };
+var PerformanceMode = /bot|googlebot|crawler|spider|robot|crawling|Lighthouse/i.test(navigator.userAgent);
+PerformanceMode = true;
+
 class PackedData {
     static Ready = false;
     static Data = null;
@@ -3273,11 +3286,14 @@ async function ShowFile(docPath, replaceState= false){
         //contents = contents.replaceAll('<img ', 'bookmark=" ');
 
         if(info.Category === 'vod') {
-            let video =  $("<video style='width: 100%; max-width: 720px; display: block' controls></video>");
-            let file = info.files[info.files.length - 1];
-            video.append(`<source src="${file.progressiveDownloadURL}" type="video/mp4">`);
-            video.append(`<track label="English" kind="subtitles" srclang="en" src="${docPath.replace('.txt', '.vtt')}" default />`);
-            contents = video[0].outerHTML + "Video above © Watch Tower Bible and Tract Society of Pennsylvania<br/><br/>" + highlightTimestamps(contents);
+            contents = highlightTimestamps(contents);
+            if(info.files && info.files.length > 0) {
+                let video =  $("<video style='width: 100%; max-width: 720px; display: block' controls></video>");
+                let file = info.files[info.files.length - 1];
+                video.append(`<source src="${file.progressiveDownloadURL}" type="video/mp4">`);
+                video.append(`<track label="English" kind="subtitles" srclang="en" src="${docPath.replace('.txt', '.vtt')}" default />`);
+                contents = video[0].outerHTML + "Video above © Watch Tower Bible and Tract Society of Pennsylvania<br/><br/>" + (contents);
+            }
         }
         else if(docPath.endsWith(".txt")){
             if($(window).width() < 1000) {
@@ -3354,29 +3370,30 @@ function AddDisclaimer(info){
 }
 
 function ResetScroll(){
-    console.log("ResetScroll");
-    if (location.hash) {
-        let element;
-        if(location.hash.startsWith("#imgsrc")){
-            element = $("img[src$='" + location.hash.substr(location.hash.indexOf('=') + 1) + "']")
-        }
-        else if(location.hash.startsWith(("#search="))){
-            let words = location.hash.substr(location.hash.indexOf('=') + 1);
-            //$("input[type=search]").val(words);
-        }
-        else {
-            element = $(location.hash + ",[name='" + location.hash.substr(1) + "']");
-        }
-        if(element && element.length) {
+    //console.log("ResetScroll");
+    setTimeout(()=> {
+        if (location.hash) {
+            let element;
+            if (location.hash.startsWith("#imgsrc")) {
+                element = $("img[src$='" + location.hash.substr(location.hash.indexOf('=') + 1) + "']")
+            } else if (location.hash.startsWith(("#search="))) {
+                let words = location.hash.substr(location.hash.indexOf('=') + 1);
+                //$("input[type=search]").val(words);
+            } else {
+                element = $(location.hash + ",[name='" + location.hash.substr(1) + "']");
+            }
+            if (element && element.length) {
 
-            ScrollToElement(element, -240);
-            //window.scroll(0, element.offset().top - 240);
-            //$(window).scrollTo(element, {offset: { left: 0, top: -240,}});
+                ScrollToElement(element, -240);
+                //window.scroll(0, element.offset().top - 240);
+                //$(window).scrollTo(element, {offset: { left: 0, top: -240,}});
+                return;
+            }
             return;
         }
-        return;
-    }
-    window.scrollTo({top: 0, behavior: 'auto'});
+        if (window.scrollY !== 0)
+            window.scrollTo({top: 0, behavior: 'auto'});
+    }, 10);
 }
 function ScrollToElement(element, offset) {
     let target = null;
@@ -3411,8 +3428,7 @@ async function ShowPublications(category, title, symbol, pubId) {
     let UndatedTitle = getPageState('udrt');
     //await contents.fadeOut(200);
 
-    let container = $(`<div class="publications"></div>`);
-    let list = $("<ul class='directory'></ul>");
+    let list = [];
 
     let newPageTitle = null;
     let infos = null;
@@ -3423,7 +3439,7 @@ async function ShowPublications(category, title, symbol, pubId) {
         infos = getInfosForUndatedReferenceTitle(UndatedTitle, infos)
         infos = SortInfosByYear(infos);
         let info = infos[0][1];
-        list.append(`<a href="?list=publications&category=${info.Category}"><h1><big>‹</big> ${CapitalizeCompressedString(UndatedTitle)}</h1></a>`);
+        list.push($(`<a href="?list=publications&category=${info.Category}"><h1><big>‹</big> ${CapitalizeCompressedString(UndatedTitle)}</h1></a>`)[0]);
         // for (const [infoId, info] of infos) {
         //     let issue = getIssueName(info);
         //     if(!issue)issue = info.Title;
@@ -3454,24 +3470,24 @@ async function ShowPublications(category, title, symbol, pubId) {
         if(pubId === 'The_Emphatic_Diaglott') groupByFirstLetter = false;
         if(groupByFirstLetter){
             if(title){
-                list.append(`<a href="?list=publications&pubId=${info.Name}&year=${info.Year}"><h1><big>‹</big> ${issue} ${info.Title} - ${title.toUpperCase()}</h1></a>`);
+                list.push($(`<a href="?list=publications&pubId=${info.Name}&year=${info.Year}"><h1><big>‹</big> ${issue} ${info.Title} - ${title.toUpperCase()}</h1></a>`)[0]);
                 files = files.filter(f => getStoredItemTitle(f).match(/[a-z]/i)[0].toUpperCase() === title);
                 files = SortInfosByTitle(files);
                 for (const item of files) {
-                    list.append(buildDirectoryItem(null, "data/" + item.p, '.icon-docs', getStoredItemTitle(item), null, null, true));
+                    list.push(buildDirectoryItem(null, "data/" + item.p, '.icon-docs', getStoredItemTitle(item), null, null, true));
                 }
             }else {
-                list.append(`<a href="?list=publications&category=${info.Category}&title=${encodeURICompClean(info.Title)}"><h1><big>‹</big> ${issue} ${info.Title}</h1></a>`);
+                list.push($(`<a href="?list=publications&category=${info.Category}&title=${encodeURICompClean(info.Title)}"><h1><big>‹</big> ${issue} ${info.Title}</h1></a>`)[0]);
                 let chars = [...new Set(files.map(f => getStoredItemTitle(f).match(/[a-z]/i)[0].toUpperCase()))].sort();
                 for (const char of chars) {
-                    list.append(buildDirectoryItem(`?list=publications&pubId=${info.Name}&title=${char}&year=${info.Year}`, null, '.icon-docs', char.toUpperCase(), null, null, true));
+                    list.push(buildDirectoryItem(`?list=publications&pubId=${info.Name}&title=${char}&year=${info.Year}`, null, '.icon-docs', char.toUpperCase(), null, null, true));
                 }
             }
         }else {
             files = SortInfosByTitle(files);
-            list.append(`<a href="?list=publications&category=${info.Category}&title=${encodeURICompClean(info.Title)}"><h1><big>‹</big> ${issue} ${info.Title}</h1></a>`);
+            list.push($(`<a href="?list=publications&category=${info.Category}&title=${encodeURICompClean(info.Title)}"><h1><big>‹</big> ${issue} ${info.Title}</h1></a>`)[0]);
             for (const item of files) {
-                list.append(buildDirectoryItem(null, "data/" + item.p, '.icon-docs', getStoredItemTitle(item), null, null, true));
+                list.push(buildDirectoryItem(null, "data/" + item.p, '.icon-docs', getStoredItemTitle(item), null, null, true));
             }
         }
     }
@@ -3479,11 +3495,11 @@ async function ShowPublications(category, title, symbol, pubId) {
         infos = getInfosForSymbol(symbol, infos)
         infos = SortInfosByYear(infos);
         let info = infos[0][1];
-        list.append(`<a href="?list=publications&category=${info.Category}"><h1><big>‹</big> ${CapitalizeCompressedString(symbol)}</h1></a>`);
+        list.push($(`<a href="?list=publications&category=${info.Category}"><h1><big>‹</big> ${CapitalizeCompressedString(symbol)}</h1></a>`)[0]);
         for (const [infoId, info] of infos) {
             let issue = getIssueName(info);
             if(!issue)issue = info.Title;
-            list.append(buildDirectoryItem(`?list=publications&pubId=${info.Name}&year=${info.Year}`, null, `.icon-${info.Category}`, issue, null, null, true));
+            list.push(buildDirectoryItem(`?list=publications&pubId=${info.Name}&year=${info.Year}`, null, `.icon-${info.Category}`, issue, null, null, true));
         }
     }
     else if(title) {
@@ -3493,21 +3509,23 @@ async function ShowPublications(category, title, symbol, pubId) {
             infos = getInfosForTitle(title, infos)
         infos = SortInfosByYear(infos);
         let info = infos[0][1];
-        list.append(`<a href="?list=publications&category=${info.Category}"><h1><big>‹</big> ${title}</h1></a>`);
+        list.push($(`<a href="?list=publications&category=${info.Category}"><h1><big>‹</big> ${title}</h1></a>`)[0]);
         for (const [infoId, info] of infos) {
             let issue = getIssueName(info);
             if(!issue) issue = info.Title;
             else issue = info.Year + " - " + issue;
             let showYear = info.Title.indexOf(info.Year) === -1 ? info.Year : '';
-            list.append(buildDirectoryItem(`?list=publications&pubId=${info.Name}&year=${info.Year}`, null, `.icon-${info.Category}`, issue, null, showYear, true));
+            list.push(buildDirectoryItem(`?list=publications&pubId=${info.Name}&year=${info.Year}`, null, `.icon-${info.Category}`, issue, null, showYear, true));
         }
     }
     else if(category) {
         let categoryName = PublicationCodes.codeToName[category];
-        let sortSelect = $(`<select class="form-select w-auto d-inline-block" name='sort'><option value=''>By Year</option><option value='Title'>By Title</option></select>`);
-        sortSelect.find(`option[value='${getPageState('sort')}']`).attr('selected', 'selected');
-        if(!list[0].childNodes.length)
-            list.append(`<a class="d-inline-block" href="?list=publications"><h1><big>‹</big> ${categoryName}</h1></a>&nbsp;&nbsp;`+ sortSelect[0].outerHTML);
+        let sortBy = getPageState('sort');
+        let sortByYearSel = !sortBy ? 'selected' : '';
+        let sortByTitleSel = sortBy === 'Title' ? 'selected' : '';
+        let sortSelect = (`<select class="form-select w-auto d-inline-block" name='sort'><option value='' ${sortByYearSel}>By Year</option><option value='Title' ${sortByTitleSel}>By Title</option></select>`);
+        if(!list.length)
+            list.push($(`<div><a class="d-inline-block" href="?list=publications"><h1><big>‹</big> ${categoryName}</h1></a>&nbsp;&nbsp;`+ sortSelect + "</div>")[0]);
         infos = getInfosForCategory(category, infos);
         if(getPageState('sort') === "Title")
             infos = SortInfosByTitle(infos, infos);
@@ -3535,17 +3553,17 @@ async function ShowPublications(category, title, symbol, pubId) {
             }else if(groupFirstLetter)
                 title = '%' + title;
             if (subinfos.length === 1) {
-                list.append(buildDirectoryItem(`?list=publications&pubId=${info.Name}&year=${info.Year}`, null, `.icon-${info.Category}`, info.Title, null, showYear, true));
+                list.push(buildDirectoryItem(`?list=publications&pubId=${info.Name}&year=${info.Year}`, null, `.icon-${info.Category}`, info.Title, null, showYear, true));
             } else {
-                list.append(buildDirectoryItem(`?list=publications&category=${info.Category}&${groupBy.toLowerCase()}=` + encodeURICompClean(title), null, `.icon-folder`, displayTitle, null, showYear, true));
+                list.push(buildDirectoryItem(`?list=publications&category=${info.Category}&${groupBy.toLowerCase()}=` + encodeURICompClean(title), null, `.icon-folder`, displayTitle, null, showYear, true));
             }
         }
     }
     else {
         newPageTitle = "Publications"
-        list.append(buildDirectoryItem(`?list=image-gallery`, null, `.icon-images`, 'Image Gallery', 'View the thousands of images', 'Wow!', true));
+        list.push(buildDirectoryItem(`?list=image-gallery`, null, `.icon-images`, 'Image Gallery', 'View the thousands of images', 'Wow!', true));
         for (const [code, name] of Object.entries(PublicationCodes.codeToName)) {
-            list.append(buildDirectoryItem(`?list=publications&category=${code}`, null, `.icon-${code}`, name, null, null, true));
+            list.push(buildDirectoryItem(`?list=publications&category=${code}`, null, `.icon-${code}`, name, null, null, true));
         }
     }
 
@@ -3556,14 +3574,20 @@ async function ShowPublications(category, title, symbol, pubId) {
         setPageTitle(newPageTitle + pageTitleEnd);
         setPageDescription("Index for " + newPageTitle + " by Jehovahs Witnesses");
     } else if(list.length > 0) {
-        let catTitle = list.children().first().text().replace("‹", '').trim();
+        let catTitle = list[0].textContent.replace("‹", '').trim();
         setPageTitle(catTitle + pageTitleEnd);
         setPageDescription("Index for " + catTitle + " by Jehovahs Witnesses");
     }
 
-    container.append(list);
+    let listEl = document.createElement('ul');
+    listEl.classList.add('directory');
+    listEl.append(...list);
 
-    $('#contents').html(container);
+    let container = document.createElement('div');
+    container.classList.add('publications');
+    container.appendChild(listEl);
+
+    $('#contents')[0].replaceChildren(container);
     $('#resultsHeader').hide();
 
     // contents.fadeIn(200);
@@ -3575,10 +3599,20 @@ function getGroupByForCategory(category){
     return 'Title';
 }
 function FileNoLongerActive(){
-    $("#currentFileBox").fadeOut(0, function(){ $(this).html('') });
-    $("#relatedDocuments").fadeOut(200, function(){
-        $("#searchRefineForm").fadeIn(200);
-    });
+    if(showCurrentFileBox) {
+        showCurrentFileBox = false;
+        $("#currentFileBox").fadeOut(0, function () {
+            $(this).html('')
+        });
+    }
+    if(showingRelatedFiles) {
+        showingRelatedFiles = false;
+        $("#relatedDocuments").fadeOut(200, function () {
+            $("#searchRefineForm").fadeIn(200);
+        });
+    }else{
+        $("#searchRefineForm").fadeIn(0);
+    }
 }
 function getFilesForInfoId(infoId){
     //let infoId = store.iid;
@@ -3634,11 +3668,13 @@ function CapitalizeCompressedString(text){
 }
 
 var relatedFilesCategoryTitle;
+var showingRelatedFiles = false;
 async function showRelatedFiles(store) {
     //console.log('showRelatedFiles', path);
     if (store == null) return;
     let info = infoStore[store.iid];
 
+    showingRelatedFiles = true;
     let searchRefine = $("#searchRefineForm");
     let relatedDocs = $("#relatedDocuments");
     if (relatedDocs.attr('infoId') == store.iid) {
@@ -3666,11 +3702,15 @@ async function showRelatedFiles(store) {
     if (items.length === 1) {
         let groupBy = getGroupByForCategory(info.Category);
         relatedFilesCategoryTitle = CapitalizeCompressedString(info[groupBy]);
-        newItems.push(buildDirectoryItem(`?list=publications&category=${info.Category}&${groupBy.toLowerCase()}=${encodeURICompClean(info[groupBy])}`, null, '.icon-folder', relatedFilesCategoryTitle, null, null, false, true).addClass('folder'));
+        let di = buildDirectoryItem(`?list=publications&category=${info.Category}&${groupBy.toLowerCase()}=${encodeURICompClean(info[groupBy])}`, null, '.icon-folder', relatedFilesCategoryTitle, null, null, false, true);
+        di.classList.add('folder');
+        newItems.push(di);
     }
     else {
         relatedFilesCategoryTitle = info.Title + " " + issue;
-        newItems.push(buildDirectoryItem(`?list=publications&pubId=${info.Name}&year=${info.Year}`, null, '.icon-folder', relatedFilesCategoryTitle, null, null, false, true).addClass('folder'));
+        let di = buildDirectoryItem(`?list=publications&pubId=${info.Name}&year=${info.Year}`, null, '.icon-folder', relatedFilesCategoryTitle, null, null, false, true);
+        di.classList.add('folder');
+        newItems.push(di);
     }
     for (const item of items){
         let title = getStoredItemTitle(item);
@@ -3760,7 +3800,7 @@ async function AddChapters(){
                     $(list[list.length - 1]).find('.title').append(" " + title);
             }else {
                 let item = buildDirectoryItem(href, null, null, title, null, null, true);
-                item.addClass('chapter');
+                item.classList.add('chapter');
                 list.push(item);
             }
             lastElement = this;
@@ -3778,9 +3818,11 @@ function setPageTitle(text){
 function setPageDescription(desc){
     document.querySelector('meta[name="description"]').setAttribute("content", desc);
 }
+var showCurrentFileBox = false;
 function highlightRelatedFile(){
     let currentDoc = getPageState('file');
     if(!currentDoc) return;
+    showCurrentFileBox = true;
     $("#relatedDocuments a[file]").each(function(){
         if($(this).attr('file') === currentDoc) {
             $(this).addClass('active');
@@ -3799,26 +3841,29 @@ function buildDirectoryItem(href, doc, thumbnail, title, subtext, detail = null,
     if(!href && doc){
         href = '?file=' + encodeURICompClean(doc);
     }
-    let li = $(`<li class="item"></li>`);
-    let a = $(`<a href="${href}"></a>`);
-    if(doc) a.attr('file', doc);
+    let li = document.createElement('li');
+    li.classList.add('item');
+    let a = document.createElement('a');
+    a.href = href;
+    let aContents = [];
+    if(doc) a.file = doc;
     if (thumbnail) {
         if(thumbnail.charAt(0) === '.')
-            a.append(`<div class="thumbnail"><span class="${thumbnail.replaceAll('.', '')}"></span></div>`);
+            aContents.push(`<div class="thumbnail"><span class="${thumbnail.replaceAll('.', '')}"></span></div>`);
         else
-            a.append(`<div class="thumbnail"><img alt="thumbnail" src="${thumbnail}"/></div>`);
+            aContents.push(`<div class="thumbnail"><img alt="thumbnail" src="${thumbnail}"/></div>`);
     }
     if(backArrow)
-        a.append('<div class="arrow"><div class="icon-rev"></div></div>');
-    let divTitle = $(`<div class="title"><span class="text">${title}</span></div>`);
-    if (subtext)
-        divTitle.append(`<span class="subtext">${subtext}</span>`);
-    a.append(divTitle);
+        aContents.push('<div class="arrow"><div class="icon-rev"></div></div>');
+    subtext = !subtext ? '' : `<span class="subtext">${subtext}</span>`;
+    let divTitle = (`<div class="title"><span class="text">${title}</span>${subtext}</div>`);
+    aContents.push(divTitle);
     if (detail)
-        a.append(`<div class="detail">${detail}</div>`);
+        aContents.push(`<div class="detail">${detail}</div>`);
     if(arrow)
-        a.append(`<div class="arrow"><div class="icon"></div></div>`);
-    li.append(a);
+        aContents.push(`<div class="arrow"><div class="icon"></div></div>`);
+    a.innerHTML = aContents.join('\n');
+    li.appendChild(a);
     return li;
 }
 function GetClassesForContent(content){
@@ -4125,6 +4170,17 @@ function CheckPackedDataLoaded(){
 
 $(document).on('click', '#manualLoad', Begin);
 function Begin(){
+    if(!PerformanceMode) {
+        addScript('//static.getclicky.com/101371960.js', true);
+        addScript('https://www.googletagmanager.com/gtag/js?id=G-9WR5TN5ZP3', true);
+        window.dataLayer = window.dataLayer || [];
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+        gtag('config', 'G-9WR5TN5ZP3');
+    }
+
     LoadCategories();
     window.addEventListener('popstate', pageStateChanged);
     // if(!getPageState('file')){
@@ -4167,3 +4223,15 @@ class ScrollListener{
         }
     }
 }
+
+$(window).on('load', function(){
+    if(PerformanceMode) return;
+    setTimeout(()=> {
+        console.log("add tidio");
+        let tidio = document.createElement('script');
+        tidio.setAttribute('src', 'https://code.tidio.co/b0tisogvmg2hnkczsjpfa2i1jfsuljkq.js');
+        document.head.appendChild(tidio);
+    }, 2000);
+});
+
+Begin();

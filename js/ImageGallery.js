@@ -93,7 +93,7 @@ class ImageGallery {
 </div>
 <span style="color: white">Clicking an image will take you to that spot in the article.</span>
 </div>`
-        $("#contents").empty().append(ControlBar).append(pagination.clone()).append("<h1 id='yearNum' style='color: white; cursor: pointer;'>"+images[0].y+"</h1>").append(imageFlow).append(pagination).append("<div style='height: 200px'></div>");
+        $("#contents").empty().append(ControlBar).append(pagination.clone()).append("<button class='btn btn-outline-light btn-lg' id='yearNum'>"+images[0].y+"</button>").append(imageFlow).append(pagination).append("<div style='height: 200px'></div>");
     }
 
     static CopyUrlToClipboard(){

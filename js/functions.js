@@ -6,6 +6,12 @@ function InsertNav(){
         }
     });
 }
+function addScript(src, async = false) {
+    let s = document.createElement( 'script' );
+    s.src = src;
+    if(async)  s.async = true;
+    document.body.appendChild(s);
+}
 
 function IsHtml(content){
     return ((/(<p([^>]*)>)/i).test(content));
@@ -228,9 +234,13 @@ function encodeURICompClean(param){
 function getPageState(param) {
     return getUrlParam(location.href, param);
 }
+var lastHref = null;
+var lastURL = null;
 function getUrlParam(href, param) {
-    let url = new URL(href);
-    return url.searchParams.get(param);
+    if(lastHref !== href) {
+        lastURL = new URL(href);
+    }
+    return lastURL.searchParams.get(param);
 }
 
 class PublicationCodes {

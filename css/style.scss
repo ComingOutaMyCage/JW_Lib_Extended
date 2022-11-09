@@ -20,7 +20,7 @@
 @import "autocomplete";
 @import "../js/pace";
 
-@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400;1,700&family=Noto+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&display=swap');
+@import 'googlefonts';
 
 $font-family: 'Noto Sans', Verdana, Arial,"Arial Unicode MS",sans-serif;
 $color-primary-0: #343D4A;
@@ -106,6 +106,7 @@ a.nav-link img {
     flex-grow: 1;
   }
   input {
+    position: unset;
     border-radius: 0.375rem 0 0 0.375rem;
     //border-top-left-radius: 0.375rem;
     //border-bottom-left-radius: 0.375rem;
@@ -119,6 +120,7 @@ a.nav-link img {
     flex-wrap: nowrap;
   }
   button {
+    position: unset;
     white-space: nowrap;
     &:hover {
       background-color: $color-primary-0;

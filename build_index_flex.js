@@ -386,8 +386,13 @@ async function Process() {
             delete (info.duration);
             delete (info.durationFormattedHHMM);
             delete (info.durationFormattedMinSec);
-            let file = info.files[info.files.length - 1];
-            info.files = [{ progressiveDownloadURL: file.progressiveDownloadURL, subtitles: { url: file.subtitles.url } }];
+            if(info.files) {
+                let file = info.files[info.files.length - 1];
+                info.files = [{
+                    progressiveDownloadURL: file.progressiveDownloadURL,
+                    subtitles: {url: file.subtitles.url}
+                }];
+            }
             delete (info.printReferences);
             delete (info.subtitlesUrl);
         }
@@ -613,7 +618,7 @@ async function Process() {
         fs.writeFileSync(dir + 'infoStore.json', JSON.stringify(infoStore));
         fs.writeFileSync(dir + 'store', JSON.stringify(index.store));
 
-        fs.writeFileSync(dir + 'packed.js', "PackedData.Data = " + JSON.stringify(packedJson)) + "; PackedData.NowReady();";
+        fs.writeFileSync(dir + 'packed.js', "PackedData.Data = " + JSON.stringify(packedJson) + "; PackedData.NowReady();");
 
         sitemapWriter.writeSitemap(sitemap);
 
