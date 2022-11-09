@@ -3846,7 +3846,7 @@ function buildDirectoryItem(href, doc, thumbnail, title, subtext, detail = null,
     let a = document.createElement('a');
     a.href = href;
     let aContents = [];
-    if(doc) a.file = doc;
+    if(doc) $(a).attr('file', doc);
     if (thumbnail) {
         if(thumbnail.charAt(0) === '.')
             aContents.push(`<div class="thumbnail"><span class="${thumbnail.replaceAll('.', '')}"></span></div>`);
