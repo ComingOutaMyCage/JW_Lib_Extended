@@ -666,7 +666,7 @@ async function ShowFile(docPath, replaceState= false){
             }
         });
         let imagesReplaced = 0;
-        contents = contents.replace(/<img /, function(v){
+        contents = contents.replace(/<img /g, function(v){
             if(++imagesReplaced === 1) return v;
             return '<img loading="lazy" ';
         });
@@ -1397,9 +1397,6 @@ function initAutoComplete(){
                 item.innerHTML = `
                   <span style="text-overflow: ellipsis; white-space: nowrap; overflow: hidden;">
                     ${GetFriendlyName(data.value)}
-                  </span>
-                  <span style="display: flex; align-items: center; font-size: 13px; font-weight: 100; text-transform: uppercase; color: rgba(0,0,0,.2);">
-                    ${data.key}
                   </span>`;
             },
             highlight: true,
