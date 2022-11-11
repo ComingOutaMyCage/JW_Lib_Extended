@@ -16,6 +16,17 @@
 //@import "../node_modules/bootstrap/scss/dropdown";
 @import "../node_modules/bootstrap/scss/button-group";
 
+.d-flex { display: flex !important; }
+.gap-2 { grid-gap: 0.5rem !important; }
+.mt-1 { margin-top: 0.25rem !important;}
+.ml-1 { margin-left: 0.25rem !important;}
+.mr-1 { margin-right: 0.25rem !important;}
+.mb-1 { margin-bottom: 0.25rem !important;}
+.mt-2 { margin-top: 0.5rem !important;}
+.mb-2 { margin-bottom: 0.5rem !important;}
+.mr-2 { margin-right: 0.5rem !important;}
+.ml-2 { margin-left: 0.5rem !important;}
+
 //@import "../node_modules/@tarekraafat/autocomplete.js/dist/css/autoComplete.01";
 @import "autocomplete";
 @import "../js/pace";
@@ -812,6 +823,7 @@ mark.active {
 }
 
 .imageFlow {
+  margin-top: 0.25rem;
   @media screen and (min-width: 601px) {
     display: flex;
     flex-wrap: wrap;

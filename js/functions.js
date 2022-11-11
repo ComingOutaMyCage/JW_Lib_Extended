@@ -344,6 +344,7 @@ function defaultDict(defaultValue) {
 }
 
 function GetIndexForWord(word){
+    if(!word || word.length === 0) return '';
     let char0 = word.charAt(0).toLowerCase();
     let char1 = word.charAt(1).toLowerCase();
     if('scaptrdmfwbehilognu'.indexOf(char0) >= 0 && char1.match(/[a-z]/i))

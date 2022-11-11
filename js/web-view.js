@@ -2600,6 +2600,7 @@ function defaultDict(defaultValue) {
 }
 
 function GetIndexForWord(word){
+    if(!word || word.length === 0) return '';
     let char0 = word.charAt(0).toLowerCase();
     let char1 = word.charAt(1).toLowerCase();
     if('scaptrdmfwbehilognu'.indexOf(char0) >= 0 && char1.match(/[a-z]/i))
@@ -2611,14 +2612,11 @@ function GetIndexForWord(word){
 
 if(typeof module !== 'undefined')
     module.exports = { PublicationCodes, BASE_64, basename, getPath, mergeDict, filenameWithoutExt, until, GetIndexForWord, encodeURICompClean };
-var PerformanceMode = /bot|googlebot|crawler|spider|robot|crawling|Lighthouse/i.test(navigator.userAgent);
-PerformanceMode = true;
-
 class PackedData {
     static Ready = false;
     static Data = null;
     static NowReady(){
-        this.Ready = true;
+        console.log("Ready");
 
         let options = this.Data['index.json'];
         infoStore = this.Data['infoStore.json'];
@@ -2629,8 +2627,8 @@ class PackedData {
             console.log("Importing " + filename);
             index.import(filename, file);
         }
-        page_data_ready = true;
         $('#loading-state').html('');
+        this.Ready = true;
 
         if(!getPageState('file'))
             pageStateChanged();
@@ -2642,14 +2640,12 @@ class PackedData {
     }
 }
 let search = getPageState('search') ?? getPageState('searchExact') ?? '';
-let words = location.hash.substr(location.hash.indexOf('=') + 1);
 if(location.hash.startsWith(("#search="))) {
     let words = location.hash.substr(location.hash.indexOf('=') + 1);
     search = decodeURIComponent(words);
 }
-$("input[type=search]").val(search);
+$("#search").val(search);
 
-var page_data_ready = false;
 var pageTitle = "JWS Online Library";
 var pageTitleEnd = " - JWS Online Library";
 var pageStates = -1;
@@ -2719,8 +2715,11 @@ async function GetPackedData(filename) {
     })
 }
 
-async function LoadSearchMapsForWords(words){
-    let indexNames = words.map(w => GetIndexForWord(index.index.content.encode(w.replace(/^-+/, ''))[0]) );
+async function LoadSearchMapsForWords(terms){
+    if(!terms) terms = getSearchWords();
+    if(!terms || terms.length) return;
+    alert(JSON.stringify(terms));
+    let indexNames = terms.map(w => GetIndexForWord(index.index.content.encode(w.replace(/^-+/, ''))[0]) ).filter(w => w);
     let currentMaps = {};
     for (const indexName of Object.values(indexNames)){
         let searchMap = searchMaps[indexName];
@@ -2728,10 +2727,8 @@ async function LoadSearchMapsForWords(words){
             currentMaps = mergeDict(currentMaps, searchMap);
             continue;
         }
-
         await GetPackedData('index/' + indexName + '.content.map.zip')
-            .then(async function(files){
-
+            .then(function(files){
                 let replaceRegex = new RegExp('^' + indexName + "\.", 'i');
                 searchMap = {};
                 for (const [filename, file] of Object.entries(files)){
@@ -2749,7 +2746,7 @@ async function LoadSearchMapsForWords(words){
 }
 
 function getSearchWords(){
-    let words = $("input[type=search]").val().trim().replace(/\s{2,5}/g, ' ');
+    let words = $("#search").val().trim().replace(/\s{2,5}/g, ' ');
     if (!words) return [];
     words = words.replace(/sh[ae]?ph?[ea]?r?d/gi, "Shepherd");
     words = words.replace(/di?sf.ll?o?w?sh?i?p/gi, "disfellowship");
@@ -2811,14 +2808,17 @@ function HideSideMenu(){
     }
 }
 async function DoSearch(){
-    if(!CheckPackedDataLoaded()){
+    if(autoCompleteJS)
+        autoCompleteJS.input.blur();
+    if(!CheckPackedDataLoaded() || !index || !index.index || !index.index.content){
         setTimeout(DoSearch, 100);
         return;
     }
 
-    const input = $("input[type=search]");
+    const input = $("#search");
     const searchStart = input.val();
-    let words = getSearchWords();
+    const words = getSearchWords();
+    //alert(JSON.stringify(words));
     if(!words.length) return false;
     let thisSearchCount = StopLoading();
     searchDirty = false;
@@ -2858,6 +2858,7 @@ async function DoSearch(){
             }
         }
     }
+    //alert(JSON.stringify(words));
 
     await LoadSearchMapsForWords(words);
     console.log("Search Maps Loaded");
@@ -3064,6 +3065,16 @@ async function DoSearch(){
     }
     return true;
 }
+function DebugMobile(text){
+    if(location.href.startsWith("https")) return;
+    if(!window.mobileAndTabletCheck) return;
+    $("#search").val(text);
+}
+window.mobileAndTabletCheck = function() {
+    let check = false;
+    (function(a){if(/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|mobile.+firefox|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows ce|xda|xiino|android|ipad|playbook|silk/i.test(a)||/1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(a.substr(0,4))) check = true;})(navigator.userAgent||navigator.vendor||window.opera);
+    return check;
+};
 function generatePagination(items, itemsPerPage, page, addRandom = false){
     page = parseInt(page);
     let maxPage = Math.ceil(items / itemsPerPage);
@@ -3180,8 +3191,8 @@ async function pageStateChanged(e = null){
         LoadCategories();
     }
     if(search) {
-        if($("input[type=search]").val() !== search)
-            $("input[type=search]").val(search);
+        if($("#search").val() !== search)
+            $("#search").val(search);
         if(!file) searchDirty = true;
     }
     if(file) {
@@ -3378,7 +3389,7 @@ function ResetScroll(){
                 element = $("img[src$='" + location.hash.substr(location.hash.indexOf('=') + 1) + "']")
             } else if (location.hash.startsWith(("#search="))) {
                 let words = location.hash.substr(location.hash.indexOf('=') + 1);
-                //$("input[type=search]").val(words);
+                //$("#search").val(words);
             } else {
                 element = $(location.hash + ",[name='" + location.hash.substr(1) + "']");
             }
@@ -4032,7 +4043,7 @@ function initAutoComplete(){
     });
     $("#search").focus();
 }
-$(document).on('click', "#search-form input[type=search]", function(){
+$(document).on('click', "#search-form #search", function(){
     initAutoComplete();
     if(!$("#btnSideMenu").is(":visible")) return;
     $("#btnSideMenu").click();
@@ -4132,7 +4143,7 @@ $(document).on('click', '#startExactSearch', function(){
     searchDirty = true;
     setPageStates({
         search: null,
-        searchExact: $("input[type=search]").val(),
+        searchExact: $("#search").val(),
     });
     pageStateChanged();
 });
@@ -4142,12 +4153,12 @@ $(document).on('click', '#startExactSearch', function(){
 // });
 
 var searchDirty = false;
-$(document).on('input', 'input[type=search]', function () {
+$(document).on('input', '#search', function () {
     initAutoComplete();
     searchDirty = true;
     $('#contents .results').fadeTo(600, 1.5);
-});//.on('input', 'input[type=search]',$.debounce(1500, DoSearchIfDirty));
-$(document).on('input', 'input[type=search]', function () {
+});//.on('input', '#search',$.debounce(1500, DoSearchIfDirty));
+$(document).on('input', '#search', function () {
     searchDirty = true;
     $('#contents .results').fadeTo(600, 1.5);
 });
@@ -4160,23 +4171,21 @@ $(document).ready(async function(){
 //     ShowFile(getPageState('file'));
 // }
 function CheckPackedDataLoaded(){
-    if(page_data_ready) return true;
-    if(typeof packedData === 'undefined') return false;
-    return true;
+    return PackedData.Ready;
 }
 
 $(document).on('click', '#manualLoad', Begin);
 function Begin(){
-    if(!PerformanceMode) {
-        addScript('//static.getclicky.com/101371960.js', true);
-        addScript('https://www.googletagmanager.com/gtag/js?id=G-9WR5TN5ZP3', true);
-        window.dataLayer = window.dataLayer || [];
-        function gtag() {
-            dataLayer.push(arguments);
-        }
-        gtag('js', new Date());
-        gtag('config', 'G-9WR5TN5ZP3');
-    }
+    // if(!PerformanceMode) {
+    //     addScript('//static.getclicky.com/101371960.js', true);
+    //     addScript('https://www.googletagmanager.com/gtag/js?id=G-9WR5TN5ZP3', true);
+    //     window.dataLayer = window.dataLayer || [];
+    //     function gtag() {
+    //         dataLayer.push(arguments);
+    //     }
+    //     gtag('js', new Date());
+    //     gtag('config', 'G-9WR5TN5ZP3');
+    // }
 
     LoadCategories();
     window.addEventListener('popstate', pageStateChanged);
