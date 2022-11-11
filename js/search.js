@@ -103,8 +103,7 @@ async function GetPackedData(filename) {
 
 async function LoadSearchMapsForWords(terms){
     if(!terms) terms = getSearchWords();
-    if(!terms || terms.length) return;
-    alert(JSON.stringify(terms));
+    if(!terms || !terms.length) return;
     let indexNames = terms.map(w => GetIndexForWord(index.index.content.encode(w.replace(/^-+/, ''))[0]) ).filter(w => w);
     let currentMaps = {};
     for (const indexName of Object.values(indexNames)){
@@ -194,12 +193,12 @@ function HideSideMenu(){
     }
 }
 async function DoSearch(){
-    if(autoCompleteJS)
-        autoCompleteJS.input.blur();
-    if(!CheckPackedDataLoaded() || !index || !index.index || !index.index.content){
-        setTimeout(DoSearch, 100);
+    if(!CheckPackedDataLoaded()){
+        //setTimeout(DoSearch, 100);
         return;
     }
+    if(autoCompleteJS)
+        autoCompleteJS.input.blur();
 
     const input = $("#search");
     const searchStart = input.val();
