@@ -958,7 +958,7 @@ async function ShowPublications(category, title, symbol, pubId) {
     }
     else {
         newPageTitle = "Publications"
-        list.push(buildDirectoryItem(`?list=image-gallery`, null, `.icon-images`, 'Image Gallery', 'View the thousands of images', 'Wow!', true));
+        list.push(buildDirectoryItem(`?list=image-gallery`, null, `.icon-images`, 'Image Gallery', 'View the thousands of images', null, true));
         for (const [code, name] of Object.entries(PublicationCodes.codeToName)) {
             list.push(buildDirectoryItem(`?list=publications&category=${code}`, null, `.icon-${code}`, name, null, null, true));
         }
