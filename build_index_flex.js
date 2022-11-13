@@ -389,7 +389,7 @@ async function Process() {
             if(info.files) {
                 let file = info.files[info.files.length - 1];
                 info.files = [{
-                    progressiveDownloadURL: file.progressiveDownloadURL,
+                    url: file.progressiveDownloadURL,
                     subtitles: {url: file.subtitles.url}
                 }];
             }

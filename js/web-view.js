@@ -3298,11 +3298,18 @@ async function ShowFile(docPath, replaceState= false){
         if(info.Category === 'vod') {
             contents = highlightTimestamps(contents);
             if(info.files && info.files.length > 0) {
-                let video =  $("<video style='width: 100%; max-width: 720px; display: block' controls></video>");
                 let file = info.files[info.files.length - 1];
-                video.append(`<source src="${file.progressiveDownloadURL}" type="video/mp4">`);
-                video.append(`<track label="English" kind="subtitles" srclang="en" src="${docPath.replace('.txt', '.vtt')}" default />`);
-                contents = video[0].outerHTML + "Video above © Watch Tower Bible and Tract Society of Pennsylvania<br/><br/>" + (contents);
+                if(!file.url) file.url = file.progressiveDownloadURL;
+                let video;
+                if(file.url.indexOf('youtube') > 0) {
+                    video = $(`<iframe style="width: 100%; aspect-ratio: 16/9;" src="${file.url.replace('watch?v=', 'embed/')}" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`);
+                    contents = video[0].outerHTML + (contents);
+                }else{
+                    video = $("<video style='width: 100%; max-width: 720px; display: block' controls></video>");
+                    video.append(`<source src="${file.url}" type="video/mp4">`);
+                    video.append(`<track label="English" kind="subtitles" srclang="en" src="${docPath.replace('.txt', '.vtt')}" default />`);
+                    contents = video[0].outerHTML + "Video above © Watch Tower Bible and Tract Society of Pennsylvania<br/><br/>" + (contents);
+                }
             }
         }
         else if(docPath.endsWith(".txt")){
