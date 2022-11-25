@@ -3367,7 +3367,7 @@ function AfterShowFile(){
 
 function AddDisclaimer(info){
     let orgName = info.Year > 1932 ? "Watch Tower Bible and Tract Society of Pennsylvania" : (info.Year + " International Bible Students Association");
-    let disclaimer = $(`<div id='docDisclaimer'>The content displayed below is for educational and archival purposes only.<br/>Unless stated otherwise, content is © ${orgName}</div>`);
+    let disclaimer = $(`<div id='docDisclaimer' data-nosnippet>The content displayed below is for educational and archival purposes only.<br/>Unless stated otherwise, content is © ${orgName}</div>`);
     if(info.Year > 1970 || (info.Year > 1950 && info.Category === 'w')){
         let link = `https://wol.jw.org/en/wol/publication/r1/lp-e/${info.Symbol}`;
         if(info.Month === undefined) getDateForInfo(info);
