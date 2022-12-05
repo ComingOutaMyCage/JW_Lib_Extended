@@ -389,9 +389,10 @@ async function Process() {
             if(info.files) {
                 let file = info.files[info.files.length - 1];
                 info.files = [{
-                    url: file.progressiveDownloadURL,
-                    subtitles: {url: file.subtitles.url}
+                    url: file.progressiveDownloadURL
                 }];
+                if(file.subtitles)
+                    info.files[0]['subtitles'] = { url: file.subtitles.url};
             }
             delete (info.printReferences);
             delete (info.subtitlesUrl);
