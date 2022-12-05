@@ -1,0 +1,102 @@
+{
+    "guid": "63322222de06767d850e89f1",
+    "languageAgnosticNaturalKey": "pub-ptr_x_VIDEO",
+    "naturalKey": "pub-ptr_E_x_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpEndurance",
+    "description": "",
+    "firstPublished": "2022-09-29T17:48:48.626Z",
+    "duration": 1425.643,
+    "durationFormattedHHMM": "23:45",
+    "durationFormattedMinSec": "23m 45s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/e2/ptr_E_r240P.mp4",
+            "checksum": "83fa5ce93ce2567a025e0c0ad10821c6",
+            "filesize": 47671200,
+            "modifiedDatetime": "2022-11-09T19:11:58.000Z",
+            "bitRate": 261.2373855165704,
+            "duration": 1425.643,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/01/ptr_E.vtt",
+                "modifiedDatetime": "2022-11-09T19:11:50.000Z",
+                "checksum": "f8803d3e1afeab052f0ae6be2a1ac598"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/d8/ptr_E_r360P.mp4",
+            "checksum": "6242a3ba2c9215b0a753514558957901",
+            "filesize": 95247114,
+            "modifiedDatetime": "2022-11-09T19:12:04.000Z",
+            "bitRate": 521.9526053331724,
+            "duration": 1425.643,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/01/ptr_E.vtt",
+                "modifiedDatetime": "2022-11-09T19:11:50.000Z",
+                "checksum": "f8803d3e1afeab052f0ae6be2a1ac598"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/2c/ptr_E_r480P.mp4",
+            "checksum": "520139b48daa5d13efe4451f9a991992",
+            "filesize": 213111678,
+            "modifiedDatetime": "2022-11-09T19:12:19.000Z",
+            "bitRate": 1167.848461623983,
+            "duration": 1425.643,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/01/ptr_E.vtt",
+                "modifiedDatetime": "2022-11-09T19:11:50.000Z",
+                "checksum": "f8803d3e1afeab052f0ae6be2a1ac598"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/39/ptr_E_r720P.mp4",
+            "checksum": "8c87cf508bf878e744cc12a33ce87e13",
+            "filesize": 407767033,
+            "modifiedDatetime": "2022-11-09T19:12:31.000Z",
+            "bitRate": 2234.556579250556,
+            "duration": 1425.643,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/01/ptr_E.vtt",
+                "modifiedDatetime": "2022-11-09T19:11:50.000Z",
+                "checksum": "f8803d3e1afeab052f0ae6be2a1ac598"
+            }
+        }
+    ],
+    "printReferences": [
+        "ptr.v",
+        "ptr"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/01/ptr_E.vtt",
+    "Name": "pub-ptr_E_x_VIDEO",
+    "Title": "Purple Triangles",
+    "UndatedReferenceTitle": "Purple Triangles",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODIntExpEndurance"
+}

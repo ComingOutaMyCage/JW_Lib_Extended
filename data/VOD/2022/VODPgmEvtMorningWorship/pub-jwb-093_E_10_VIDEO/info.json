@@ -1,0 +1,102 @@
+{
+    "guid": "62d9ae117738170e4e578d50",
+    "languageAgnosticNaturalKey": "pub-jwb-093_10_VIDEO",
+    "naturalKey": "pub-jwb-093_E_10_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2022-10-21T14:03:30.136Z",
+    "duration": 497.387,
+    "durationFormattedHHMM": "8:17",
+    "durationFormattedMinSec": "8m 17s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/9d/jwb-093_E_10_r240P.mp4",
+            "checksum": "e18d56400e79d28655e95e6e2a31ab22",
+            "filesize": 9435614,
+            "modifiedDatetime": "2022-10-21T12:58:47.000Z",
+            "bitRate": 148.20599327083337,
+            "duration": 497.387,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/52/jwb-093_E_10.vtt",
+                "modifiedDatetime": "2022-10-21T12:58:30.000Z",
+                "checksum": "b449543e533cf2dd6f3c8d69416f5e60"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/64/jwb-093_E_10_r360P.mp4",
+            "checksum": "1231ef849319605c51217784e3ab0fb6",
+            "filesize": 16472064,
+            "modifiedDatetime": "2022-10-21T12:58:42.000Z",
+            "bitRate": 258.72811311916075,
+            "duration": 497.387,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/52/jwb-093_E_10.vtt",
+                "modifiedDatetime": "2022-10-21T12:58:30.000Z",
+                "checksum": "b449543e533cf2dd6f3c8d69416f5e60"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/ad/jwb-093_E_10_r480P.mp4",
+            "checksum": "f65a6055f3f4fdc13d191632292bba70",
+            "filesize": 28836230,
+            "modifiedDatetime": "2022-10-21T12:58:40.000Z",
+            "bitRate": 452.9331222468621,
+            "duration": 497.387,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/52/jwb-093_E_10.vtt",
+                "modifiedDatetime": "2022-10-21T12:58:30.000Z",
+                "checksum": "b449543e533cf2dd6f3c8d69416f5e60"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/a8/jwb-093_E_10_r720P.mp4",
+            "checksum": "f9243df7777acc8d2e7ad62fc1bb3eb8",
+            "filesize": 49533767,
+            "modifiedDatetime": "2022-10-21T12:58:34.000Z",
+            "bitRate": 778.0310999030936,
+            "duration": 497.387,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/52/jwb-093_E_10.vtt",
+                "modifiedDatetime": "2022-10-21T12:58:30.000Z",
+                "checksum": "b449543e533cf2dd6f3c8d69416f5e60"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-093-10.v",
+        "jwb-093-10"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/52/jwb-093_E_10.vtt",
+    "Name": "pub-jwb-093_E_10_VIDEO",
+    "Title": "Samuel F. Herd: “I Was Given a Thorn in the Flesh” (2 Cor. 12:7)",
+    "UndatedReferenceTitle": "Samuel F. Herd: “I Was Given a Thorn in the Flesh” (2 Cor. 12:7)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

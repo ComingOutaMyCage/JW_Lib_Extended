@@ -1,0 +1,102 @@
+{
+    "guid": "62c48dd45649d905f6df47b6",
+    "languageAgnosticNaturalKey": "pub-jwb-094_8_VIDEO",
+    "naturalKey": "pub-jwb-094_E_8_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesOurHistory",
+    "description": "",
+    "firstPublished": "2022-11-21T16:55:00.540Z",
+    "duration": 543.531,
+    "durationFormattedHHMM": "9:03",
+    "durationFormattedMinSec": "9m 3s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/f0/jwb-094_E_08_r240P.mp4",
+            "checksum": "4e8c8aefbeb5f14bc2f6a6da5d70a61a",
+            "filesize": 19248882,
+            "modifiedDatetime": "2022-11-21T05:39:39.000Z",
+            "bitRate": 276.67583012744444,
+            "duration": 543.531,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/6f/jwb-094_E_08.vtt",
+                "modifiedDatetime": "2022-11-21T05:39:25.000Z",
+                "checksum": "77e56a23bbbf8fa07f49acfac512201f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/49/jwb-094_E_08_r360P.mp4",
+            "checksum": "561683100a3bd3ff967014260182bdd2",
+            "filesize": 37861682,
+            "modifiedDatetime": "2022-11-21T05:39:36.000Z",
+            "bitRate": 544.2298957240897,
+            "duration": 543.51,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/6f/jwb-094_E_08.vtt",
+                "modifiedDatetime": "2022-11-21T05:39:25.000Z",
+                "checksum": "77e56a23bbbf8fa07f49acfac512201f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/07/jwb-094_E_08_r480P.mp4",
+            "checksum": "52a539aba1b86346ce16f4b0dfc1ab5d",
+            "filesize": 70482637,
+            "modifiedDatetime": "2022-11-21T05:39:30.000Z",
+            "bitRate": 1013.1287401565748,
+            "duration": 543.51,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/6f/jwb-094_E_08.vtt",
+                "modifiedDatetime": "2022-11-21T05:39:25.000Z",
+                "checksum": "77e56a23bbbf8fa07f49acfac512201f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/dc/jwb-094_E_08_r720P.mp4",
+            "checksum": "0b93cde51b613b8d29e00522c3bb7f75",
+            "filesize": 121170999,
+            "modifiedDatetime": "2022-11-21T05:39:26.000Z",
+            "bitRate": 1741.731393511619,
+            "duration": 543.51,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/6f/jwb-094_E_08.vtt",
+                "modifiedDatetime": "2022-11-21T05:39:25.000Z",
+                "checksum": "77e56a23bbbf8fa07f49acfac512201f"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-094-8.v",
+        "jwb-094-8"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/6f/jwb-094_E_08.vtt",
+    "Name": "pub-jwb-094_E_8_VIDEO",
+    "Title": "Our History in Motion—Conventions",
+    "UndatedReferenceTitle": "Our History in Motion—Conventions",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "SeriesOurHistory"
+}

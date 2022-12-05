@@ -1,0 +1,102 @@
+{
+    "guid": "62d1804f5649d905f616e2a8",
+    "languageAgnosticNaturalKey": "pub-mwbv_202211_3_VIDEO",
+    "naturalKey": "pub-mwbv_E_202211_3_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesOrgAccomplishments",
+    "description": "",
+    "firstPublished": "2022-11-07T13:32:54.227Z",
+    "duration": 586.347,
+    "durationFormattedHHMM": "9:46",
+    "durationFormattedMinSec": "9m 46s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/16/mwbv_E_202211_03_r240P.mp4",
+            "checksum": "7addb74fd1c258e9dd000f5f594fdd71",
+            "filesize": 7228139,
+            "modifiedDatetime": "2022-11-07T05:07:51.000Z",
+            "bitRate": 96.30787901617984,
+            "duration": 586.347,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/37/mwbv_E_202211_03.vtt",
+                "modifiedDatetime": "2022-11-07T05:07:34.000Z",
+                "checksum": "5705f4e337c4c2f4c849d6abefcbcc7c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/47/mwbv_E_202211_03_r360P.mp4",
+            "checksum": "17a647e68cd03f009924aaa2553eb5b4",
+            "filesize": 25698480,
+            "modifiedDatetime": "2022-11-07T05:07:49.000Z",
+            "bitRate": 342.4070985269815,
+            "duration": 586.347,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/37/mwbv_E_202211_03.vtt",
+                "modifiedDatetime": "2022-11-07T05:07:34.000Z",
+                "checksum": "5705f4e337c4c2f4c849d6abefcbcc7c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/b2/mwbv_E_202211_03_r480P.mp4",
+            "checksum": "754aec708dbcf03e8f0cd76cd8057278",
+            "filesize": 47091710,
+            "modifiedDatetime": "2022-11-07T05:07:43.000Z",
+            "bitRate": 627.450953744114,
+            "duration": 586.347,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/37/mwbv_E_202211_03.vtt",
+                "modifiedDatetime": "2022-11-07T05:07:34.000Z",
+                "checksum": "5705f4e337c4c2f4c849d6abefcbcc7c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/48/mwbv_E_202211_03_r720P.mp4",
+            "checksum": "523a5b0e5d82715dda213876d0c5579c",
+            "filesize": 79052631,
+            "modifiedDatetime": "2022-11-07T05:07:37.000Z",
+            "bitRate": 1053.2989504295238,
+            "duration": 586.347,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/37/mwbv_E_202211_03.vtt",
+                "modifiedDatetime": "2022-11-07T05:07:34.000Z",
+                "checksum": "5705f4e337c4c2f4c849d6abefcbcc7c"
+            }
+        }
+    ],
+    "printReferences": [
+        "mwbv.202211-3.v",
+        "mwbv.202211-3"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/37/mwbv_E_202211_03.vtt",
+    "Name": "pub-mwbv_E_202211_3_VIDEO",
+    "Title": "Organizational Accomplishments—Bible Translation Milestones",
+    "UndatedReferenceTitle": "Organizational Accomplishments—Bible Translation Milestones",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "SeriesOrgAccomplishments"
+}

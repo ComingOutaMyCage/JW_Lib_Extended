@@ -1,0 +1,102 @@
+{
+    "guid": "62fd46bce437cf041184417f",
+    "languageAgnosticNaturalKey": "pub-jwb-094_2_VIDEO",
+    "naturalKey": "pub-jwb-094_E_2_VIDEO",
+    "type": "video",
+    "primaryCategory": "StudioTalks",
+    "description": "",
+    "firstPublished": "2022-11-21T16:52:40.639Z",
+    "duration": 825.174,
+    "durationFormattedHHMM": "13:45",
+    "durationFormattedMinSec": "13m 45s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/c8/jwb-094_E_02_r240P.mp4",
+            "checksum": "91bff08d218fc792627636ab527a509c",
+            "filesize": 20077871,
+            "modifiedDatetime": "2022-11-21T05:41:04.000Z",
+            "bitRate": 190.09126219136812,
+            "duration": 825.174,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/25/jwb-094_E_02.vtt",
+                "modifiedDatetime": "2022-11-21T05:40:52.000Z",
+                "checksum": "f9e736dbb16cdd4e3b790de955730c65"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/df/jwb-094_E_02_r360P.mp4",
+            "checksum": "c7f6ffba6af953ae221b69c2410193c9",
+            "filesize": 34623797,
+            "modifiedDatetime": "2022-11-21T05:41:01.000Z",
+            "bitRate": 327.80772790041857,
+            "duration": 825.174,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/25/jwb-094_E_02.vtt",
+                "modifiedDatetime": "2022-11-21T05:40:52.000Z",
+                "checksum": "f9e736dbb16cdd4e3b790de955730c65"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/a7/jwb-094_E_02_r480P.mp4",
+            "checksum": "1019e2979e72c76384261a1362cb3e4a",
+            "filesize": 62984547,
+            "modifiedDatetime": "2022-11-21T05:40:58.000Z",
+            "bitRate": 596.3188048066227,
+            "duration": 825.174,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/25/jwb-094_E_02.vtt",
+                "modifiedDatetime": "2022-11-21T05:40:52.000Z",
+                "checksum": "f9e736dbb16cdd4e3b790de955730c65"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/fa/jwb-094_E_02_r720P.mp4",
+            "checksum": "4d2b805a59459e8e29c67cf48c2950b9",
+            "filesize": 100228738,
+            "modifiedDatetime": "2022-11-21T05:40:54.000Z",
+            "bitRate": 948.9356373625442,
+            "duration": 825.174,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/25/jwb-094_E_02.vtt",
+                "modifiedDatetime": "2022-11-21T05:40:52.000Z",
+                "checksum": "f9e736dbb16cdd4e3b790de955730c65"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-094-2.v",
+        "jwb-094-2"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/25/jwb-094_E_02.vtt",
+    "Name": "pub-jwb-094_E_2_VIDEO",
+    "Title": "William Turner, Jr.: Appreciate the Quality of Patience",
+    "UndatedReferenceTitle": "William Turner, Jr.: Appreciate the Quality of Patience",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "StudioTalks"
+}

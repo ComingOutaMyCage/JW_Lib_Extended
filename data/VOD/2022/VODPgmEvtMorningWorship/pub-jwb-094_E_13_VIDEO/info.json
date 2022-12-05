@@ -1,0 +1,102 @@
+{
+    "guid": "62fd150de437cf04117fcf6d",
+    "languageAgnosticNaturalKey": "pub-jwb-094_13_VIDEO",
+    "naturalKey": "pub-jwb-094_E_13_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2022-11-24T19:35:01.613Z",
+    "duration": 599.616,
+    "durationFormattedHHMM": "9:59",
+    "durationFormattedMinSec": "9m 59s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/8a/jwb-094_E_13_r240P.mp4",
+            "checksum": "3398999066c9b947e6621888705d03d3",
+            "filesize": 13959416,
+            "modifiedDatetime": "2022-11-24T19:31:14.000Z",
+            "bitRate": 181.87963213123066,
+            "duration": 599.616,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/ba/jwb-094_E_13.vtt",
+                "modifiedDatetime": "2022-11-24T19:30:55.000Z",
+                "checksum": "d3f8cef3fe181ae5847cc7a2c2f92d98"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/61/jwb-094_E_13_r360P.mp4",
+            "checksum": "2e060ff943da0346a5e56ec57119cdf4",
+            "filesize": 22431820,
+            "modifiedDatetime": "2022-11-24T19:31:09.000Z",
+            "bitRate": 292.2680411296563,
+            "duration": 599.616,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/ba/jwb-094_E_13.vtt",
+                "modifiedDatetime": "2022-11-24T19:30:55.000Z",
+                "checksum": "d3f8cef3fe181ae5847cc7a2c2f92d98"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/4f/jwb-094_E_13_r480P.mp4",
+            "checksum": "54ad0d467b39b0b8a84591998592a8c4",
+            "filesize": 39054465,
+            "modifiedDatetime": "2022-11-24T19:31:02.000Z",
+            "bitRate": 508.8473419863713,
+            "duration": 599.616,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/ba/jwb-094_E_13.vtt",
+                "modifiedDatetime": "2022-11-24T19:30:55.000Z",
+                "checksum": "d3f8cef3fe181ae5847cc7a2c2f92d98"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/1f/jwb-094_E_13_r720P.mp4",
+            "checksum": "0bfb790ffc604f6b2babe99f65cfd573",
+            "filesize": 69344900,
+            "modifiedDatetime": "2022-11-24T19:30:58.000Z",
+            "bitRate": 903.5066296596489,
+            "duration": 599.616,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/ba/jwb-094_E_13.vtt",
+                "modifiedDatetime": "2022-11-24T19:30:55.000Z",
+                "checksum": "d3f8cef3fe181ae5847cc7a2c2f92d98"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-094-13.v",
+        "jwb-094-13"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/ba/jwb-094_E_13.vtt",
+    "Name": "pub-jwb-094_E_13_VIDEO",
+    "Title": "Robert Luccioni: Guard Yourself Respecting a Treacherous Spirit (Mal. 2:15)",
+    "UndatedReferenceTitle": "Robert Luccioni: Guard Yourself Respecting a Treacherous Spirit (Mal. 2:15)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

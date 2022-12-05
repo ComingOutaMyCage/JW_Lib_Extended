@@ -1,0 +1,102 @@
+{
+    "guid": "635bf06c6fa8308a8b8217af",
+    "languageAgnosticNaturalKey": "pub-pk_46_VIDEO",
+    "naturalKey": "pub-pk_E_46_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBJFLessons",
+    "description": "",
+    "firstPublished": "2022-11-07T13:32:47.249Z",
+    "duration": 69.099,
+    "durationFormattedHHMM": "1:09",
+    "durationFormattedMinSec": "1m 9s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/54/pk_E_046_r240P.mp4",
+            "checksum": "4ffc481f84fe4a7ca6e7eaccf0aa63ad",
+            "filesize": 2727313,
+            "modifiedDatetime": "2022-11-07T05:04:21.000Z",
+            "bitRate": 308.356601578894,
+            "duration": 69.099,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/66/pk_E_046.vtt",
+                "modifiedDatetime": "2022-11-07T05:04:12.000Z",
+                "checksum": "a2af63e9dc7619c2bc314ec562d5ccbd"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/0e/pk_E_046_r360P.mp4",
+            "checksum": "464d11514ab151203782c73bf01e76d0",
+            "filesize": 3419769,
+            "modifiedDatetime": "2022-11-07T05:04:19.000Z",
+            "bitRate": 386.6473510832284,
+            "duration": 69.099,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/66/pk_E_046.vtt",
+                "modifiedDatetime": "2022-11-07T05:04:12.000Z",
+                "checksum": "a2af63e9dc7619c2bc314ec562d5ccbd"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/a7/pk_E_046_r480P.mp4",
+            "checksum": "29599a92a1943da8f2210bb1971ee87d",
+            "filesize": 5708149,
+            "modifiedDatetime": "2022-11-07T05:04:16.000Z",
+            "bitRate": 645.3771264779518,
+            "duration": 69.099,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/66/pk_E_046.vtt",
+                "modifiedDatetime": "2022-11-07T05:04:12.000Z",
+                "checksum": "a2af63e9dc7619c2bc314ec562d5ccbd"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/f0/pk_E_046_r720P.mp4",
+            "checksum": "0f843ef6b5c3ad5483308af0111a3b66",
+            "filesize": 8573604,
+            "modifiedDatetime": "2022-11-07T05:04:14.000Z",
+            "bitRate": 969.3523965614553,
+            "duration": 69.099,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/66/pk_E_046.vtt",
+                "modifiedDatetime": "2022-11-07T05:04:12.000Z",
+                "checksum": "a2af63e9dc7619c2bc314ec562d5ccbd"
+            }
+        }
+    ],
+    "printReferences": [
+        "pk-46.v",
+        "pk-46"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/66/pk_E_046.vtt",
+    "Name": "pub-pk_E_46_VIDEO",
+    "Title": "Become Jehovah’s Friend Trailer: Who Should Be My Friend?",
+    "UndatedReferenceTitle": "Become Jehovah’s Friend Trailer: Who Should Be My Friend?",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "SeriesBJFLessons"
+}

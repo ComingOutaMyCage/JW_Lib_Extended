@@ -1,0 +1,102 @@
+{
+    "guid": "5fa300f1a05028daa11917d4",
+    "languageAgnosticNaturalKey": "pub-lffv_301_VIDEO",
+    "naturalKey": "pub-lffv_E_301_VIDEO",
+    "type": "video",
+    "primaryCategory": "Other",
+    "description": "",
+    "firstPublished": "2021-01-12T20:03:12.082Z",
+    "duration": 76.822,
+    "durationFormattedHHMM": "1:16",
+    "durationFormattedMinSec": "1m 16s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/a7/lffv_E_301_r240P.mp4",
+            "checksum": "0d74ef13c228cbbec13835abb04e08bd",
+            "filesize": 2556866,
+            "modifiedDatetime": "2021-01-12T06:51:32.000Z",
+            "bitRate": 260.0233738382234,
+            "duration": 76.822,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.438,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/81/lffv_E_301.vtt",
+                "modifiedDatetime": "2021-01-12T06:51:40.000Z",
+                "checksum": "1b53677f5db999d7b10375a5d4657fc2"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/51/lffv_E_301_r360P.mp4",
+            "checksum": "c3034d9b1e7dce96ab97f55908ae7ba7",
+            "filesize": 4148765,
+            "modifiedDatetime": "2021-01-12T06:51:33.000Z",
+            "bitRate": 422.11114737712603,
+            "duration": 76.786,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/81/lffv_E_301.vtt",
+                "modifiedDatetime": "2021-01-12T06:51:40.000Z",
+                "checksum": "1b53677f5db999d7b10375a5d4657fc2"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/52/lffv_E_301_r480P.mp4",
+            "checksum": "fee6667c223c237636060333577480f0",
+            "filesize": 7366254,
+            "modifiedDatetime": "2021-01-12T06:51:36.000Z",
+            "bitRate": 749.4707287135676,
+            "duration": 76.786,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/81/lffv_E_301.vtt",
+                "modifiedDatetime": "2021-01-12T06:51:40.000Z",
+                "checksum": "1b53677f5db999d7b10375a5d4657fc2"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/70/lffv_E_301_r720P.mp4",
+            "checksum": "76943f955b1d2179b0fc55b3390b06c0",
+            "filesize": 12465903,
+            "modifiedDatetime": "2021-01-12T06:51:38.000Z",
+            "bitRate": 1268.3284347081499,
+            "duration": 76.786,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/81/lffv_E_301.vtt",
+                "modifiedDatetime": "2021-01-12T06:51:40.000Z",
+                "checksum": "1b53677f5db999d7b10375a5d4657fc2"
+            }
+        }
+    ],
+    "printReferences": [
+        "lffv-301.v",
+        "lffv-301"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/81/lffv_E_301.vtt",
+    "Name": "pub-lffv_E_301_VIDEO",
+    "Title": "Jesus Resurrects Lazarus",
+    "UndatedReferenceTitle": "Jesus Resurrects Lazarus",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "Other"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "62f547357738170e4e89a768",
+    "languageAgnosticNaturalKey": "pub-jwb-094_10_VIDEO",
+    "naturalKey": "pub-jwb-094_E_10_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2022-11-18T17:01:18.437Z",
+    "duration": 580.224,
+    "durationFormattedHHMM": "9:40",
+    "durationFormattedMinSec": "9m 40s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/78/jwb-094_E_10_r240P.mp4",
+            "checksum": "c2017eb3b10a23e9afcaeadd26198f43",
+            "filesize": 12257070,
+            "modifiedDatetime": "2022-11-18T16:43:37.000Z",
+            "bitRate": 165.0368812303524,
+            "duration": 580.224,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/8d/jwb-094_E_10.vtt",
+                "modifiedDatetime": "2022-11-18T16:43:26.000Z",
+                "checksum": "674bc5a1d5fbde482c7dcea9d98c9f6c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/36/jwb-094_E_10_r360P.mp4",
+            "checksum": "6b3edeb5d088ec0467d3cea61384ff1c",
+            "filesize": 20577095,
+            "modifiedDatetime": "2022-11-18T16:43:35.000Z",
+            "bitRate": 277.0629182651872,
+            "duration": 580.224,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/8d/jwb-094_E_10.vtt",
+                "modifiedDatetime": "2022-11-18T16:43:26.000Z",
+                "checksum": "674bc5a1d5fbde482c7dcea9d98c9f6c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/b8/jwb-094_E_10_r480P.mp4",
+            "checksum": "5d0296beb0bdd5db967ab6d7c053d4ff",
+            "filesize": 36471424,
+            "modifiedDatetime": "2022-11-18T16:43:32.000Z",
+            "bitRate": 491.07413688506506,
+            "duration": 580.224,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/8d/jwb-094_E_10.vtt",
+                "modifiedDatetime": "2022-11-18T16:43:26.000Z",
+                "checksum": "674bc5a1d5fbde482c7dcea9d98c9f6c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/3b/jwb-094_E_10_r720P.mp4",
+            "checksum": "f8ca528c5e731f00a45f7343f6190de3",
+            "filesize": 59617637,
+            "modifiedDatetime": "2022-11-18T16:43:28.000Z",
+            "bitRate": 802.7292719061948,
+            "duration": 580.224,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/8d/jwb-094_E_10.vtt",
+                "modifiedDatetime": "2022-11-18T16:43:26.000Z",
+                "checksum": "674bc5a1d5fbde482c7dcea9d98c9f6c"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-094-10.v",
+        "jwb-094-10"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/8d/jwb-094_E_10.vtt",
+    "Name": "pub-jwb-094_E_10_VIDEO",
+    "Title": "Anthony Morris: Jehovah Cares for Us as Individuals (John 6:44)",
+    "UndatedReferenceTitle": "Anthony Morris: Jehovah Cares for Us as Individuals (John 6:44)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

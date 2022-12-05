@@ -1,0 +1,102 @@
+{
+    "guid": "62d5c14f5649d905f62fed5d",
+    "languageAgnosticNaturalKey": "pub-jwb-093_9_VIDEO",
+    "naturalKey": "pub-jwb-093_E_9_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODMinistryTools",
+    "description": "",
+    "firstPublished": "2022-10-17T13:08:27.847Z",
+    "duration": 311.659,
+    "durationFormattedHHMM": "5:11",
+    "durationFormattedMinSec": "5m 11s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/6b/jwb-093_E_09_r240P.mp4",
+            "checksum": "04a53c0587239388fd624d96556b12d9",
+            "filesize": 4023632,
+            "modifiedDatetime": "2022-10-17T04:44:11.000Z",
+            "bitRate": 100.86224046153008,
+            "duration": 311.659,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/e8/jwb-093_E_09.vtt",
+                "modifiedDatetime": "2022-10-17T04:44:02.000Z",
+                "checksum": "48f98584d8bff7a6fa9f72af44b536af"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/aa/jwb-093_E_09_r360P.mp4",
+            "checksum": "06cab70c791c2be891fdddb829228f2b",
+            "filesize": 13048105,
+            "modifiedDatetime": "2022-10-17T04:44:09.000Z",
+            "bitRate": 327.08287042087665,
+            "duration": 311.659,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/e8/jwb-093_E_09.vtt",
+                "modifiedDatetime": "2022-10-17T04:44:02.000Z",
+                "checksum": "48f98584d8bff7a6fa9f72af44b536af"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/e3/jwb-093_E_09_r480P.mp4",
+            "checksum": "d992632616bc1b514026b002445f81f4",
+            "filesize": 23192884,
+            "modifiedDatetime": "2022-10-17T04:44:05.000Z",
+            "bitRate": 581.3867279622922,
+            "duration": 311.659,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/e8/jwb-093_E_09.vtt",
+                "modifiedDatetime": "2022-10-17T04:44:02.000Z",
+                "checksum": "48f98584d8bff7a6fa9f72af44b536af"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/84/jwb-093_E_09_r720P.mp4",
+            "checksum": "511163e1c2f5304c020173e8847c3ce6",
+            "filesize": 37435788,
+            "modifiedDatetime": "2022-10-17T04:44:03.000Z",
+            "bitRate": 938.4201763786702,
+            "duration": 311.659,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/e8/jwb-093_E_09.vtt",
+                "modifiedDatetime": "2022-10-17T04:44:02.000Z",
+                "checksum": "48f98584d8bff7a6fa9f72af44b536af"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-093-9.v",
+        "jwb-093-9"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/e8/jwb-093_E_09.vtt",
+    "Name": "pub-jwb-093_E_9_VIDEO",
+    "Title": "A New Study Tool Despite Challenges",
+    "UndatedReferenceTitle": "A New Study Tool Despite Challenges",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODMinistryTools"
+}

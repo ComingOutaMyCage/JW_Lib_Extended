@@ -1,0 +1,102 @@
+{
+    "guid": "62c48dbf5649d905f6df460f",
+    "languageAgnosticNaturalKey": "pub-jwb-094_4_VIDEO",
+    "naturalKey": "pub-jwb-094_E_4_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpTransformations",
+    "description": "",
+    "firstPublished": "2022-11-21T16:53:06.011Z",
+    "duration": 368.278,
+    "durationFormattedHHMM": "6:08",
+    "durationFormattedMinSec": "6m 8s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/51/jwb-094_E_04_r240P.mp4",
+            "checksum": "ba455b8984f51f18e00436296c559ffb",
+            "filesize": 8550577,
+            "modifiedDatetime": "2022-11-21T05:40:29.000Z",
+            "bitRate": 181.38846961398724,
+            "duration": 368.278,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/fc/jwb-094_E_04.vtt",
+                "modifiedDatetime": "2022-11-21T05:40:17.000Z",
+                "checksum": "93b3896e66caf9b053214614f60cf22b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/cc/jwb-094_E_04_r360P.mp4",
+            "checksum": "e61e988118c09e43e309921a1a80a9bf",
+            "filesize": 16003351,
+            "modifiedDatetime": "2022-11-21T05:40:27.000Z",
+            "bitRate": 339.50887341278894,
+            "duration": 368.256,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/fc/jwb-094_E_04.vtt",
+                "modifiedDatetime": "2022-11-21T05:40:17.000Z",
+                "checksum": "93b3896e66caf9b053214614f60cf22b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/73/jwb-094_E_04_r480P.mp4",
+            "checksum": "ad7169403a34e8bba621e63737bc4fc1",
+            "filesize": 28041306,
+            "modifiedDatetime": "2022-11-21T05:40:22.000Z",
+            "bitRate": 594.8924202864313,
+            "duration": 368.256,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/fc/jwb-094_E_04.vtt",
+                "modifiedDatetime": "2022-11-21T05:40:17.000Z",
+                "checksum": "93b3896e66caf9b053214614f60cf22b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/02/jwb-094_E_04_r720P.mp4",
+            "checksum": "28a44fe89a5bede83eca00b6ef0edc53",
+            "filesize": 43673798,
+            "modifiedDatetime": "2022-11-21T05:40:19.000Z",
+            "bitRate": 926.533571414994,
+            "duration": 368.256,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/fc/jwb-094_E_04.vtt",
+                "modifiedDatetime": "2022-11-21T05:40:17.000Z",
+                "checksum": "93b3896e66caf9b053214614f60cf22b"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-094-4.v",
+        "jwb-094-4"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/fc/jwb-094_E_04.vtt",
+    "Name": "pub-jwb-094_E_4_VIDEO",
+    "Title": "Takeei Takehara: Jehovah Helped Me to Hate Gambling",
+    "UndatedReferenceTitle": "Takeei Takehara: Jehovah Helped Me to Hate Gambling",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODIntExpTransformations"
+}

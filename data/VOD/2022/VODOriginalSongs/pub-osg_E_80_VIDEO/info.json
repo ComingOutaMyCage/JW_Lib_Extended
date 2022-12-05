@@ -1,0 +1,102 @@
+{
+    "guid": "62b35d055649d905f65a26fd",
+    "languageAgnosticNaturalKey": "pub-osg_80_VIDEO",
+    "naturalKey": "pub-osg_E_80_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODOriginalSongs",
+    "description": "",
+    "firstPublished": "2022-11-21T16:58:37.629Z",
+    "duration": 244.31,
+    "durationFormattedHHMM": "4:04",
+    "durationFormattedMinSec": "4m 4s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/90/osg_E_080_r240P.mp4",
+            "checksum": "a3bcd571ff6997888432e1924194fa56",
+            "filesize": 10700832,
+            "modifiedDatetime": "2022-11-21T05:35:38.000Z",
+            "bitRate": 342.1892268020138,
+            "duration": 244.31,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/40/osg_E_080.vtt",
+                "modifiedDatetime": "2022-11-21T05:35:22.000Z",
+                "checksum": "39cc8d09dbbb19f8d65d8b98bd5ada66"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/cb/osg_E_080_r360P.mp4",
+            "checksum": "d19ea58d01adad1c12c559b649db0252",
+            "filesize": 18903973,
+            "modifiedDatetime": "2022-11-21T05:35:36.000Z",
+            "bitRate": 604.5621932411743,
+            "duration": 244.288,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/40/osg_E_080.vtt",
+                "modifiedDatetime": "2022-11-21T05:35:22.000Z",
+                "checksum": "39cc8d09dbbb19f8d65d8b98bd5ada66"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/7b/osg_E_080_r480P.mp4",
+            "checksum": "8a0beb25d2e5827b9c05c7c5d0f07150",
+            "filesize": 35800818,
+            "modifiedDatetime": "2022-11-21T05:35:33.000Z",
+            "bitRate": 1144.935038254028,
+            "duration": 244.288,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/40/osg_E_080.vtt",
+                "modifiedDatetime": "2022-11-21T05:35:22.000Z",
+                "checksum": "39cc8d09dbbb19f8d65d8b98bd5ada66"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/a0/osg_E_080_r720P.mp4",
+            "checksum": "c6812073747753d72801e1eda4522bfe",
+            "filesize": 59656633,
+            "modifiedDatetime": "2022-11-21T05:35:29.000Z",
+            "bitRate": 1907.8605797767389,
+            "duration": 244.288,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/40/osg_E_080.vtt",
+                "modifiedDatetime": "2022-11-21T05:35:22.000Z",
+                "checksum": "39cc8d09dbbb19f8d65d8b98bd5ada66"
+            }
+        }
+    ],
+    "printReferences": [
+        "osg-80.v",
+        "osg-80"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/40/osg_E_080.vtt",
+    "Name": "pub-osg_E_80_VIDEO",
+    "Title": "Friends Again",
+    "UndatedReferenceTitle": "Friends Again",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODOriginalSongs"
+}

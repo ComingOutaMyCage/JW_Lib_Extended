@@ -1,0 +1,102 @@
+{
+    "guid": "6310f0c8e437cf0411d61736",
+    "languageAgnosticNaturalKey": "pub-jwb-094_11_VIDEO",
+    "naturalKey": "pub-jwb-094_E_11_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2022-11-18T17:01:11.852Z",
+    "duration": 612.502,
+    "durationFormattedHHMM": "10:12",
+    "durationFormattedMinSec": "10m 12s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/d7/jwb-094_E_11_r240P.mp4",
+            "checksum": "3415b1d6617a22f5610b136382f04ac1",
+            "filesize": 12825871,
+            "modifiedDatetime": "2022-11-18T16:43:20.000Z",
+            "bitRate": 163.5947591803782,
+            "duration": 612.502,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/a0/jwb-094_E_11.vtt",
+                "modifiedDatetime": "2022-11-18T16:43:00.000Z",
+                "checksum": "2f6f437516ab0730018f97f1e4040d6c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/fa/jwb-094_E_11_r360P.mp4",
+            "checksum": "70878a3541138e311387005c967f71f5",
+            "filesize": 20703692,
+            "modifiedDatetime": "2022-11-18T16:43:17.000Z",
+            "bitRate": 264.0768417899044,
+            "duration": 612.502,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/a0/jwb-094_E_11.vtt",
+                "modifiedDatetime": "2022-11-18T16:43:00.000Z",
+                "checksum": "2f6f437516ab0730018f97f1e4040d6c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/f6/jwb-094_E_11_r480P.mp4",
+            "checksum": "f9c196cdc261c5fa69046c8a9336ac87",
+            "filesize": 35447842,
+            "modifiedDatetime": "2022-11-18T16:43:12.000Z",
+            "bitRate": 452.1393654632965,
+            "duration": 612.502,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/a0/jwb-094_E_11.vtt",
+                "modifiedDatetime": "2022-11-18T16:43:00.000Z",
+                "checksum": "2f6f437516ab0730018f97f1e4040d6c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/24/jwb-094_E_11_r720P.mp4",
+            "checksum": "8c8f8d7a5e9e111e9d28185b38d2dbb6",
+            "filesize": 59684052,
+            "modifiedDatetime": "2022-11-18T16:43:05.000Z",
+            "bitRate": 761.2736876777545,
+            "duration": 612.502,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/a0/jwb-094_E_11.vtt",
+                "modifiedDatetime": "2022-11-18T16:43:00.000Z",
+                "checksum": "2f6f437516ab0730018f97f1e4040d6c"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-094-11.v",
+        "jwb-094-11"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/a0/jwb-094_E_11.vtt",
+    "Name": "pub-jwb-094_E_11_VIDEO",
+    "Title": "Joel Dellinger: Jehovah’s Day “Will Not Be Late!” (Hab. 2:3)",
+    "UndatedReferenceTitle": "Joel Dellinger: Jehovah’s Day “Will Not Be Late!” (Hab. 2:3)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

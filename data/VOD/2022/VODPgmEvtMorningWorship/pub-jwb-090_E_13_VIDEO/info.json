@@ -1,0 +1,102 @@
+{
+    "guid": "62ab851c8b9e72304c3729b0",
+    "languageAgnosticNaturalKey": "pub-jwb-090_13_VIDEO",
+    "naturalKey": "pub-jwb-090_E_13_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2022-09-23T14:09:55.514Z",
+    "duration": 561.6,
+    "durationFormattedHHMM": "9:21",
+    "durationFormattedMinSec": "9m 21s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/8f/jwb-090_E_13_r240P.mp4",
+            "checksum": "b0e2b801f4c0784288a37ed0f4356079",
+            "filesize": 10857542,
+            "modifiedDatetime": "2022-09-23T13:53:31.000Z",
+            "bitRate": 151.0408598201567,
+            "duration": 561.6,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/b8/jwb-090_E_13.vtt",
+                "modifiedDatetime": "2022-09-23T13:53:17.000Z",
+                "checksum": "a379fb00a5a6ebf7f190c91413d62105"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/21/jwb-090_E_13_r360P.mp4",
+            "checksum": "99a55a59137fdd4de9de6872233be769",
+            "filesize": 20157800,
+            "modifiedDatetime": "2022-09-23T13:53:27.000Z",
+            "bitRate": 280.4285995380882,
+            "duration": 561.579,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/b8/jwb-090_E_13.vtt",
+                "modifiedDatetime": "2022-09-23T13:53:17.000Z",
+                "checksum": "a379fb00a5a6ebf7f190c91413d62105"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/a2/jwb-090_E_13_r480P.mp4",
+            "checksum": "a898083c37bcc8598ba5d1a02fd90d62",
+            "filesize": 35050355,
+            "modifiedDatetime": "2022-09-23T13:53:24.000Z",
+            "bitRate": 487.6088643583539,
+            "duration": 561.579,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/b8/jwb-090_E_13.vtt",
+                "modifiedDatetime": "2022-09-23T13:53:17.000Z",
+                "checksum": "a379fb00a5a6ebf7f190c91413d62105"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/3a/jwb-090_E_13_r720P.mp4",
+            "checksum": "787073afe3a6d13c74ebdb10fa8837d5",
+            "filesize": 62134180,
+            "modifiedDatetime": "2022-09-23T13:53:18.000Z",
+            "bitRate": 864.3900168097455,
+            "duration": 561.579,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/b8/jwb-090_E_13.vtt",
+                "modifiedDatetime": "2022-09-23T13:53:17.000Z",
+                "checksum": "a379fb00a5a6ebf7f190c91413d62105"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-090-13.v",
+        "jwb-090-13"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/b8/jwb-090_E_13.vtt",
+    "Name": "pub-jwb-090_E_13_VIDEO",
+    "Title": "Gajus Glockentin: ‘Make Friends by Means of Unrighteous Riches’ (Luke 16:9)",
+    "UndatedReferenceTitle": "Gajus Glockentin: ‘Make Friends by Means of Unrighteous Riches’ (Luke 16:9)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

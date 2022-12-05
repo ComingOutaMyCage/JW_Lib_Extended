@@ -1,0 +1,102 @@
+{
+    "guid": "6284ed812b229f0b1c2f08fa",
+    "languageAgnosticNaturalKey": "pub-jwb-093_3_VIDEO",
+    "naturalKey": "pub-jwb-093_E_3_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODMinistryImproveSkills",
+    "description": "",
+    "firstPublished": "2022-10-17T13:06:15.782Z",
+    "duration": 431.04,
+    "durationFormattedHHMM": "7:11",
+    "durationFormattedMinSec": "7m 11s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/52/jwb-093_E_03_r240P.mp4",
+            "checksum": "008ec808c2c9e888a144576a4a9447a4",
+            "filesize": 12773361,
+            "modifiedDatetime": "2022-10-17T04:45:53.000Z",
+            "bitRate": 231.51420474317928,
+            "duration": 431.04,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/52/jwb-093_E_03.vtt",
+                "modifiedDatetime": "2022-10-17T04:45:39.000Z",
+                "checksum": "15f023a6285c8c68bfc796bdb7209c67"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/26/jwb-093_E_03_r360P.mp4",
+            "checksum": "f6b3711a5bb5adfb7b63ec5f33a683c7",
+            "filesize": 23148435,
+            "modifiedDatetime": "2022-10-17T04:45:50.000Z",
+            "bitRate": 419.5804557049689,
+            "duration": 431.019,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/52/jwb-093_E_03.vtt",
+                "modifiedDatetime": "2022-10-17T04:45:39.000Z",
+                "checksum": "15f023a6285c8c68bfc796bdb7209c67"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/5e/jwb-093_E_03_r480P.mp4",
+            "checksum": "559ae7828fbdebf344ef777a2c06eca4",
+            "filesize": 43257882,
+            "modifiedDatetime": "2022-10-17T04:45:46.000Z",
+            "bitRate": 784.077275305729,
+            "duration": 431.019,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/52/jwb-093_E_03.vtt",
+                "modifiedDatetime": "2022-10-17T04:45:39.000Z",
+                "checksum": "15f023a6285c8c68bfc796bdb7209c67"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/dc/jwb-093_E_03_r720P.mp4",
+            "checksum": "3fc978bba5757a7fe781fb8e623fbc08",
+            "filesize": 72831737,
+            "modifiedDatetime": "2022-10-17T04:45:41.000Z",
+            "bitRate": 1320.1226519306574,
+            "duration": 431.019,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/52/jwb-093_E_03.vtt",
+                "modifiedDatetime": "2022-10-17T04:45:39.000Z",
+                "checksum": "15f023a6285c8c68bfc796bdb7209c67"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-093-3.v",
+        "jwb-093-3"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/52/jwb-093_E_03.vtt",
+    "Name": "pub-jwb-093_E_3_VIDEO",
+    "Title": "Develop the \"Art of Teaching\"",
+    "UndatedReferenceTitle": "Develop the \"Art of Teaching\"",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODMinistryImproveSkills"
+}

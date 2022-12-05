@@ -1,0 +1,102 @@
+{
+    "guid": "62d6e4e37738170e4e482031",
+    "languageAgnosticNaturalKey": "pub-jwb-094_3_VIDEO",
+    "naturalKey": "pub-jwb-094_E_3_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpBlessings",
+    "description": "",
+    "firstPublished": "2022-11-21T16:52:51.774Z",
+    "duration": 345.067,
+    "durationFormattedHHMM": "5:45",
+    "durationFormattedMinSec": "5m 45s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/3f/jwb-094_E_03_r240P.mp4",
+            "checksum": "1c03cd3d99e99f980722069e0e206b1b",
+            "filesize": 8620254,
+            "modifiedDatetime": "2022-11-21T05:40:46.000Z",
+            "bitRate": 195.1671251525066,
+            "duration": 345.067,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/81/jwb-094_E_03.vtt",
+                "modifiedDatetime": "2022-11-21T05:40:35.000Z",
+                "checksum": "ec429054e51b4fb5ade4e71814e22edf"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/4b/jwb-094_E_03_r360P.mp4",
+            "checksum": "7522edab43e693685109386087558248",
+            "filesize": 14204189,
+            "modifiedDatetime": "2022-11-21T05:40:44.000Z",
+            "bitRate": 321.5903768326151,
+            "duration": 345.067,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/81/jwb-094_E_03.vtt",
+                "modifiedDatetime": "2022-11-21T05:40:35.000Z",
+                "checksum": "ec429054e51b4fb5ade4e71814e22edf"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/ad/jwb-094_E_03_r480P.mp4",
+            "checksum": "163c783b198e05ca495ebfaf9451440e",
+            "filesize": 25032904,
+            "modifiedDatetime": "2022-11-21T05:40:41.000Z",
+            "bitRate": 566.7582310102096,
+            "duration": 345.067,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/81/jwb-094_E_03.vtt",
+                "modifiedDatetime": "2022-11-21T05:40:35.000Z",
+                "checksum": "ec429054e51b4fb5ade4e71814e22edf"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/6a/jwb-094_E_03_r720P.mp4",
+            "checksum": "5f5ea60dc2b3c1d9340d15c009ac4b31",
+            "filesize": 40651261,
+            "modifiedDatetime": "2022-11-21T05:40:37.000Z",
+            "bitRate": 920.3661218328614,
+            "duration": 345.067,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/81/jwb-094_E_03.vtt",
+                "modifiedDatetime": "2022-11-21T05:40:35.000Z",
+                "checksum": "ec429054e51b4fb5ade4e71814e22edf"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-094-3.v",
+        "jwb-094-3"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/81/jwb-094_E_03.vtt",
+    "Name": "pub-jwb-094_E_3_VIDEO",
+    "Title": "Samuele Podestà: I’m Playing for a Better Team",
+    "UndatedReferenceTitle": "Samuele Podestà: I’m Playing for a Better Team",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODIntExpBlessings"
+}

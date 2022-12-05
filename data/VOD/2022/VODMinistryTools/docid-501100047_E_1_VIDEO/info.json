@@ -1,0 +1,102 @@
+{
+    "guid": "6307c813e437cf0411a99154",
+    "languageAgnosticNaturalKey": "docid-501100047_1_VIDEO",
+    "naturalKey": "docid-501100047_E_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODMinistryTools",
+    "description": "",
+    "firstPublished": "2022-10-28T10:02:34.505Z",
+    "duration": 131.008,
+    "durationFormattedHHMM": "2:11",
+    "durationFormattedMinSec": "2m 11s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/01/501100047_E_cnt_1_r240P.mp4",
+            "checksum": "b561e3e868a578d70c49bdcc9eef5a2f",
+            "filesize": 3809681,
+            "modifiedDatetime": "2022-10-27T19:07:03.000Z",
+            "bitRate": 227.18561318774425,
+            "duration": 131.008,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/83/501100047_E_cnt_1.vtt",
+                "modifiedDatetime": "2022-10-27T19:06:52.000Z",
+                "checksum": "c0cb15362ba3de40fd82c74f1bc04164"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/cc/501100047_E_cnt_1_r360P.mp4",
+            "checksum": "a3e8dcc128980b48ba073d529f6b428f",
+            "filesize": 5584543,
+            "modifiedDatetime": "2022-10-27T19:06:59.000Z",
+            "bitRate": 333.0273127404433,
+            "duration": 131.008,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/83/501100047_E_cnt_1.vtt",
+                "modifiedDatetime": "2022-10-27T19:06:52.000Z",
+                "checksum": "c0cb15362ba3de40fd82c74f1bc04164"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/f3/501100047_E_cnt_1_r480P.mp4",
+            "checksum": "5b8a75715db4237974644a4d1a1faa5e",
+            "filesize": 10175504,
+            "modifiedDatetime": "2022-10-27T19:06:56.000Z",
+            "bitRate": 606.8035921470444,
+            "duration": 131.008,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/83/501100047_E_cnt_1.vtt",
+                "modifiedDatetime": "2022-10-27T19:06:52.000Z",
+                "checksum": "c0cb15362ba3de40fd82c74f1bc04164"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/8c/501100047_E_cnt_1_r720P.mp4",
+            "checksum": "4d6d5e63d1263c5eaac8befc80c9ddf9",
+            "filesize": 17025418,
+            "modifiedDatetime": "2022-10-27T19:06:54.000Z",
+            "bitRate": 1015.2897389854054,
+            "duration": 131.008,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/83/501100047_E_cnt_1.vtt",
+                "modifiedDatetime": "2022-10-27T19:06:52.000Z",
+                "checksum": "c0cb15362ba3de40fd82c74f1bc04164"
+            }
+        }
+    ],
+    "printReferences": [
+        "501100047-1.v",
+        "501100047-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/content_assets/83/501100047_E_cnt_1.vtt",
+    "Name": "docid-501100047_E_1_VIDEO",
+    "Title": "Comfort for Those Who Mourn",
+    "UndatedReferenceTitle": "Comfort for Those Who Mourn",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODMinistryTools"
+}

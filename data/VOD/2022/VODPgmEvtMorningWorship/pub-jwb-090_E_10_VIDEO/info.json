@@ -1,0 +1,102 @@
+{
+    "guid": "62fbd534e437cf041177bcfb",
+    "languageAgnosticNaturalKey": "pub-jwb-090_10_VIDEO",
+    "naturalKey": "pub-jwb-090_E_10_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2022-09-23T14:09:51.149Z",
+    "duration": 586.71,
+    "durationFormattedHHMM": "9:46",
+    "durationFormattedMinSec": "9m 46s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/77/jwb-090_E_10_r240P.mp4",
+            "checksum": "4b6d2f8f80c47758e08438acfb5baf90",
+            "filesize": 10956512,
+            "modifiedDatetime": "2022-09-23T13:53:46.000Z",
+            "bitRate": 145.8944793850454,
+            "duration": 586.71,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/2f/jwb-090_E_10.vtt",
+                "modifiedDatetime": "2022-09-23T13:53:38.000Z",
+                "checksum": "0c6bb659507780e6a6718eba57253130"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/45/jwb-090_E_10_r360P.mp4",
+            "checksum": "84ced20d7d7b0ff5fd73e90d7e3b1712",
+            "filesize": 17683666,
+            "modifiedDatetime": "2022-09-23T13:53:44.000Z",
+            "bitRate": 235.47176735525215,
+            "duration": 586.71,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/2f/jwb-090_E_10.vtt",
+                "modifiedDatetime": "2022-09-23T13:53:38.000Z",
+                "checksum": "0c6bb659507780e6a6718eba57253130"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/5d/jwb-090_E_10_r480P.mp4",
+            "checksum": "b6550777e59fddedcd7fdaa807890e68",
+            "filesize": 29742097,
+            "modifiedDatetime": "2022-09-23T13:53:42.000Z",
+            "bitRate": 396.0391553109713,
+            "duration": 586.71,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/2f/jwb-090_E_10.vtt",
+                "modifiedDatetime": "2022-09-23T13:53:38.000Z",
+                "checksum": "0c6bb659507780e6a6718eba57253130"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/e7/jwb-090_E_10_r720P.mp4",
+            "checksum": "120a278ad51fe92ae468ac50be905cde",
+            "filesize": 48442272,
+            "modifiedDatetime": "2022-09-23T13:53:39.000Z",
+            "bitRate": 645.0465306539858,
+            "duration": 586.71,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/2f/jwb-090_E_10.vtt",
+                "modifiedDatetime": "2022-09-23T13:53:38.000Z",
+                "checksum": "0c6bb659507780e6a6718eba57253130"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-090-10.v",
+        "jwb-090-10"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/2f/jwb-090_E_10.vtt",
+    "Name": "pub-jwb-090_E_10_VIDEO",
+    "Title": "David Schafer: We Live in the Time of the Harvest (Matt. 9:37)",
+    "UndatedReferenceTitle": "David Schafer: We Live in the Time of the Harvest (Matt. 9:37)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

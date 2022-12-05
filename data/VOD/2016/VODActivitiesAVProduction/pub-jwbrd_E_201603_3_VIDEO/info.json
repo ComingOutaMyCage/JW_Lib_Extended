@@ -1,0 +1,102 @@
+{
+    "guid": "56cf7e7379892656f9a46279",
+    "languageAgnosticNaturalKey": "pub-jwbrd_201603_3_VIDEO",
+    "naturalKey": "pub-jwbrd_E_201603_3_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODActivitiesAVProduction",
+    "description": "",
+    "firstPublished": "2016-03-14T14:08:55.927Z",
+    "duration": 659.072,
+    "durationFormattedHHMM": "10:59",
+    "durationFormattedMinSec": "10m 59s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/b4/jwbrd_E_201603_03_r240P.mp4",
+            "checksum": "af3b7dbcee3c6df8356bd1b34ddff006",
+            "filesize": 16111973,
+            "modifiedDatetime": "2022-11-07T19:13:21.000Z",
+            "bitRate": 190.98791795509445,
+            "duration": 659.072,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/28/jwbrd_E_201603_03.vtt",
+                "modifiedDatetime": "2022-11-07T19:13:11.000Z",
+                "checksum": "2b80953269a37c56e009d4735dfcc70a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/6f/jwbrd_E_201603_03_r360P.mp4",
+            "checksum": "4165d54578b1bc3713bc8fceff454f09",
+            "filesize": 26900227,
+            "modifiedDatetime": "2022-11-07T19:13:29.000Z",
+            "bitRate": 318.86959761224875,
+            "duration": 659.072,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/28/jwbrd_E_201603_03.vtt",
+                "modifiedDatetime": "2022-11-07T19:13:11.000Z",
+                "checksum": "2b80953269a37c56e009d4735dfcc70a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/10/jwbrd_E_201603_03_r480P.mp4",
+            "checksum": "8f03425aa2e710e7a96ea4e204291817",
+            "filesize": 49365519,
+            "modifiedDatetime": "2022-11-07T19:13:33.000Z",
+            "bitRate": 585.1684143576119,
+            "duration": 659.072,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/28/jwbrd_E_201603_03.vtt",
+                "modifiedDatetime": "2022-11-07T19:13:11.000Z",
+                "checksum": "2b80953269a37c56e009d4735dfcc70a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/6b/jwbrd_E_201603_03_r720P.mp4",
+            "checksum": "f2c6f5d0c223f1bd9e59fd15a5d8a25f",
+            "filesize": 82310746,
+            "modifiedDatetime": "2022-11-07T19:13:42.000Z",
+            "bitRate": 975.6941625876991,
+            "duration": 659.072,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/28/jwbrd_E_201603_03.vtt",
+                "modifiedDatetime": "2022-11-07T19:13:11.000Z",
+                "checksum": "2b80953269a37c56e009d4735dfcc70a"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwbrd.201603-3.v",
+        "jwbrd.201603-3"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/28/jwbrd_E_201603_03.vtt",
+    "Name": "pub-jwbrd_E_201603_3_VIDEO",
+    "Title": "Production of the Audio Bible",
+    "UndatedReferenceTitle": "Production of the Audio Bible",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2016,
+    "Symbol": "VODActivitiesAVProduction"
+}

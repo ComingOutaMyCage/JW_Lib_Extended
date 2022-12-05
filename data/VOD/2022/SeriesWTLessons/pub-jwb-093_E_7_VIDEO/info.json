@@ -1,0 +1,102 @@
+{
+    "guid": "623c7868dedf1bc789e9deab",
+    "languageAgnosticNaturalKey": "pub-jwb-093_7_VIDEO",
+    "naturalKey": "pub-jwb-093_E_7_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesWTLessons",
+    "description": "",
+    "firstPublished": "2022-10-17T13:07:53.488Z",
+    "duration": 270.763,
+    "durationFormattedHHMM": "4:30",
+    "durationFormattedMinSec": "4m 30s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/de/jwb-093_E_07_r240P.mp4",
+            "checksum": "05795ac8ca41098b6efeec9e2d607d6c",
+            "filesize": 6364558,
+            "modifiedDatetime": "2022-10-17T04:44:53.000Z",
+            "bitRate": 183.6407093103563,
+            "duration": 270.763,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/94/jwb-093_E_07.vtt",
+                "modifiedDatetime": "2022-10-17T04:44:39.000Z",
+                "checksum": "6849bef012fbac034c3383c6cb31afb8"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/8a/jwb-093_E_07_r360P.mp4",
+            "checksum": "5e4fe47c3a13d139439deb40620ee370",
+            "filesize": 11394455,
+            "modifiedDatetime": "2022-10-17T04:44:50.000Z",
+            "bitRate": 328.7970824161009,
+            "duration": 270.742,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/94/jwb-093_E_07.vtt",
+                "modifiedDatetime": "2022-10-17T04:44:39.000Z",
+                "checksum": "6849bef012fbac034c3383c6cb31afb8"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/ac/jwb-093_E_07_r480P.mp4",
+            "checksum": "7d1c7b4cebcbd499c05941a5745db29a",
+            "filesize": 20417010,
+            "modifiedDatetime": "2022-10-17T04:44:47.000Z",
+            "bitRate": 589.1508913467434,
+            "duration": 270.742,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/94/jwb-093_E_07.vtt",
+                "modifiedDatetime": "2022-10-17T04:44:39.000Z",
+                "checksum": "6849bef012fbac034c3383c6cb31afb8"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/77/jwb-093_E_07_r720P.mp4",
+            "checksum": "77b5bb9382f456073b2dad53af35d38f",
+            "filesize": 33509080,
+            "modifiedDatetime": "2022-10-17T04:44:44.000Z",
+            "bitRate": 966.9341568725945,
+            "duration": 270.742,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/94/jwb-093_E_07.vtt",
+                "modifiedDatetime": "2022-10-17T04:44:39.000Z",
+                "checksum": "6849bef012fbac034c3383c6cb31afb8"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-093-7.v",
+        "jwb-093-7"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/94/jwb-093_E_07.vtt",
+    "Name": "pub-jwb-093_E_7_VIDEO",
+    "Title": "Lessons From The Watchtower—“Go, Therefore, and Make Disciples”",
+    "UndatedReferenceTitle": "Lessons From The Watchtower—“Go, Therefore, and Make Disciples”",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "SeriesWTLessons"
+}

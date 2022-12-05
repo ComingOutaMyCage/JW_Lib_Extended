@@ -1,0 +1,102 @@
+{
+    "guid": "62f401fb7738170e4e841c91",
+    "languageAgnosticNaturalKey": "pub-jwb-094_12_VIDEO",
+    "naturalKey": "pub-jwb-094_E_12_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2022-11-24T19:34:54.876Z",
+    "duration": 553.899,
+    "durationFormattedHHMM": "9:13",
+    "durationFormattedMinSec": "9m 13s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/2a/jwb-094_E_12_r240P.mp4",
+            "checksum": "666fa2af1b8632044ad3a265a8d2f591",
+            "filesize": 9187844,
+            "modifiedDatetime": "2022-11-24T19:31:34.000Z",
+            "bitRate": 129.59046911079457,
+            "duration": 553.899,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/f6/jwb-094_E_12.vtt",
+                "modifiedDatetime": "2022-11-24T19:31:19.000Z",
+                "checksum": "22b124da856bae3ed8a67ae9429313da"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/2e/jwb-094_E_12_r360P.mp4",
+            "checksum": "b00eb78077b26d2e0c186051130ebc00",
+            "filesize": 15304203,
+            "modifiedDatetime": "2022-11-24T19:31:31.000Z",
+            "bitRate": 215.85900306283276,
+            "duration": 553.899,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/f6/jwb-094_E_12.vtt",
+                "modifiedDatetime": "2022-11-24T19:31:19.000Z",
+                "checksum": "22b124da856bae3ed8a67ae9429313da"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/0a/jwb-094_E_12_r480P.mp4",
+            "checksum": "08fa31b1d0980585a50a9e7101cb7c07",
+            "filesize": 25868315,
+            "modifiedDatetime": "2022-11-24T19:31:25.000Z",
+            "bitRate": 364.8611225828175,
+            "duration": 553.899,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/f6/jwb-094_E_12.vtt",
+                "modifiedDatetime": "2022-11-24T19:31:19.000Z",
+                "checksum": "22b124da856bae3ed8a67ae9429313da"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/a7/jwb-094_E_12_r720P.mp4",
+            "checksum": "72a1f7cf707d79c22a75cab5e1b6f510",
+            "filesize": 43818108,
+            "modifiedDatetime": "2022-11-24T19:31:22.000Z",
+            "bitRate": 618.0350005145342,
+            "duration": 553.899,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/f6/jwb-094_E_12.vtt",
+                "modifiedDatetime": "2022-11-24T19:31:19.000Z",
+                "checksum": "22b124da856bae3ed8a67ae9429313da"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-094-12.v",
+        "jwb-094-12"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/f6/jwb-094_E_12.vtt",
+    "Name": "pub-jwb-094_E_12_VIDEO",
+    "Title": "Kenneth Flodin: ‘Do Good and Share’ (Heb. 13:16)",
+    "UndatedReferenceTitle": "Kenneth Flodin: ‘Do Good and Share’ (Heb. 13:16)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODPgmEvtMorningWorship"
+}
