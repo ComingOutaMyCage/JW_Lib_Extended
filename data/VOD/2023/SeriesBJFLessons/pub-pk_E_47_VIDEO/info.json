@@ -1,0 +1,102 @@
+{
+    "guid": "635bfc576fa8308a8b82488f",
+    "languageAgnosticNaturalKey": "pub-pk_47_VIDEO",
+    "naturalKey": "pub-pk_E_47_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBJFLessons",
+    "description": "",
+    "firstPublished": "2023-01-02T15:20:58.486Z",
+    "duration": 794.176,
+    "durationFormattedHHMM": "13:14",
+    "durationFormattedMinSec": "13m 14s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/7d/pk_E_047_r240P.mp4",
+            "checksum": "bb9dfd700e9007351698d3c3927ffec1",
+            "filesize": 25035983,
+            "modifiedDatetime": "2023-01-02T05:06:46.000Z",
+            "bitRate": 246.28497611045913,
+            "duration": 794.176,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/69/pk_E_047.vtt",
+                "modifiedDatetime": "2023-01-02T05:06:29.000Z",
+                "checksum": "764b984ee0fb251f68039c3a84a467ba"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/7a/pk_E_047_r360P.mp4",
+            "checksum": "1b0aeafcfe19987e17792cb6bfb63a39",
+            "filesize": 41853126,
+            "modifiedDatetime": "2023-01-02T05:06:43.000Z",
+            "bitRate": 411.71924973179745,
+            "duration": 794.176,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/69/pk_E_047.vtt",
+                "modifiedDatetime": "2023-01-02T05:06:29.000Z",
+                "checksum": "764b984ee0fb251f68039c3a84a467ba"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/20/pk_E_047_r480P.mp4",
+            "checksum": "3fef6f476705226db210f608cf6b9516",
+            "filesize": 76517024,
+            "modifiedDatetime": "2023-01-02T05:06:39.000Z",
+            "bitRate": 752.716337436538,
+            "duration": 794.176,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/69/pk_E_047.vtt",
+                "modifiedDatetime": "2023-01-02T05:06:29.000Z",
+                "checksum": "764b984ee0fb251f68039c3a84a467ba"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/b0/pk_E_047_r720P.mp4",
+            "checksum": "05e5d9fc1055f81646708c6a99d90a99",
+            "filesize": 120531036,
+            "modifiedDatetime": "2023-01-02T05:06:34.000Z",
+            "bitRate": 1185.6927415963212,
+            "duration": 794.176,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/69/pk_E_047.vtt",
+                "modifiedDatetime": "2023-01-02T05:06:29.000Z",
+                "checksum": "764b984ee0fb251f68039c3a84a467ba"
+            }
+        }
+    ],
+    "printReferences": [
+        "pk-47.v",
+        "pk-47"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/69/pk_E_047.vtt",
+    "Name": "pub-pk_E_47_VIDEO",
+    "Title": "Who Should Be My Friend?",
+    "UndatedReferenceTitle": "Who Should Be My Friend?",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "SeriesBJFLessons"
+}

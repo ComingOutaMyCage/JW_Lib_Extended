@@ -1,0 +1,102 @@
+{
+    "guid": "553944f471a673b272ac007a",
+    "languageAgnosticNaturalKey": "pub-jwbiv_201503_1_VIDEO",
+    "naturalKey": "pub-jwbiv_E_201503_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpArchives",
+    "description": "",
+    "firstPublished": "2015-04-23T23:16:02.000Z",
+    "duration": 420.139,
+    "durationFormattedHHMM": "7:00",
+    "durationFormattedMinSec": "7m 0s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/0e/jwbiv_E_201503_01_r240P.mp4",
+            "checksum": "950567d4ec09bcacdf9f6f06187c7cea",
+            "filesize": 15500284,
+            "modifiedDatetime": "2023-01-02T17:12:12.000Z",
+            "bitRate": 288.2283452619252,
+            "duration": 420.139,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/63/jwbiv_E_201503_01.vtt",
+                "modifiedDatetime": "2023-01-02T17:11:58.000Z",
+                "checksum": "d3f206feae6a8b4e3cd5ab2b1f5a9601"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/93/jwbiv_E_201503_01_r360P.mp4",
+            "checksum": "89141101bcbf49cec8209df127daddfa",
+            "filesize": 27051149,
+            "modifiedDatetime": "2023-01-02T17:12:17.000Z",
+            "bitRate": 503.01710044175854,
+            "duration": 420.139,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/63/jwbiv_E_201503_01.vtt",
+                "modifiedDatetime": "2023-01-02T17:11:58.000Z",
+                "checksum": "d3f206feae6a8b4e3cd5ab2b1f5a9601"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/bb/jwbiv_E_201503_01_r480P.mp4",
+            "checksum": "00321c54c0a79e7ac95a126d5fdf475a",
+            "filesize": 49005632,
+            "modifiedDatetime": "2023-01-02T17:12:21.000Z",
+            "bitRate": 911.2615110713359,
+            "duration": 420.139,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/63/jwbiv_E_201503_01.vtt",
+                "modifiedDatetime": "2023-01-02T17:11:58.000Z",
+                "checksum": "d3f206feae6a8b4e3cd5ab2b1f5a9601"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/ed/jwbiv_E_201503_01_r720P.mp4",
+            "checksum": "008bed79fe14a1a0dc4ce9f5b0ad71aa",
+            "filesize": 78202157,
+            "modifiedDatetime": "2023-01-02T17:12:27.000Z",
+            "bitRate": 1454.1719563346892,
+            "duration": 420.139,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/63/jwbiv_E_201503_01.vtt",
+                "modifiedDatetime": "2023-01-02T17:11:58.000Z",
+                "checksum": "d3f206feae6a8b4e3cd5ab2b1f5a9601"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwbiv.201503-1.v",
+        "jwbiv.201503-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/63/jwbiv_E_201503_01.vtt",
+    "Name": "pub-jwbiv_E_201503_1_VIDEO",
+    "Title": "George Couch: This Is Jehovah's Organization",
+    "UndatedReferenceTitle": "George Couch: This Is Jehovah's Organization",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2015,
+    "Symbol": "VODIntExpArchives"
+}

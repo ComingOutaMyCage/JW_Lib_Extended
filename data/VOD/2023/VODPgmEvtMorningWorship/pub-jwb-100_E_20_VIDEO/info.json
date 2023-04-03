@@ -1,0 +1,102 @@
+{
+    "guid": "6398a98a4b77aca6cefccd00",
+    "languageAgnosticNaturalKey": "pub-jwb-100_20_VIDEO",
+    "naturalKey": "pub-jwb-100_E_20_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2023-01-20T13:19:26.670Z",
+    "duration": 540.587,
+    "durationFormattedHHMM": "9:00",
+    "durationFormattedMinSec": "9m 0s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/6f/jwb-100_E_20_r240P.mp4",
+            "checksum": "e9b867c7eaf64e1f45b94f55106ac165",
+            "filesize": 12315307,
+            "modifiedDatetime": "2023-01-20T13:12:40.000Z",
+            "bitRate": 177.9793741571662,
+            "duration": 540.587,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/e2/jwb-100_E_20.vtt",
+                "modifiedDatetime": "2023-01-20T13:12:30.000Z",
+                "checksum": "3c5ddad2341dc20e999995aff4337619"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/47/jwb-100_E_20_r360P.mp4",
+            "checksum": "5a819ffabf2be37f4bb432584212e6a4",
+            "filesize": 18967290,
+            "modifiedDatetime": "2023-01-20T13:12:38.000Z",
+            "bitRate": 274.11305326432193,
+            "duration": 540.587,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/e2/jwb-100_E_20.vtt",
+                "modifiedDatetime": "2023-01-20T13:12:30.000Z",
+                "checksum": "3c5ddad2341dc20e999995aff4337619"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/59/jwb-100_E_20_r480P.mp4",
+            "checksum": "da30080ceb58e4532d7dfc66e2095a14",
+            "filesize": 32689259,
+            "modifiedDatetime": "2023-01-20T13:12:36.000Z",
+            "bitRate": 472.42134187004126,
+            "duration": 540.587,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/e2/jwb-100_E_20.vtt",
+                "modifiedDatetime": "2023-01-20T13:12:30.000Z",
+                "checksum": "3c5ddad2341dc20e999995aff4337619"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/fc/jwb-100_E_20_r720P.mp4",
+            "checksum": "9aaa7690036f834aade69cc548ee729b",
+            "filesize": 52798153,
+            "modifiedDatetime": "2023-01-20T13:12:34.000Z",
+            "bitRate": 763.0327224156334,
+            "duration": 540.587,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/e2/jwb-100_E_20.vtt",
+                "modifiedDatetime": "2023-01-20T13:12:30.000Z",
+                "checksum": "3c5ddad2341dc20e999995aff4337619"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-100-20.v",
+        "jwb-100-20"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/e2/jwb-100_E_20.vtt",
+    "Name": "pub-jwb-100_E_20_VIDEO",
+    "Title": "Clive Martin: Imitate Sarah’s Faith in Jehovah! (Heb. 11:11)",
+    "UndatedReferenceTitle": "Clive Martin: Imitate Sarah’s Faith in Jehovah! (Heb. 11:11)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

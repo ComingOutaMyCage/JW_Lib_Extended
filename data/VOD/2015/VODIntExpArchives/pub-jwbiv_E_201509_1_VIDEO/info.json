@@ -1,0 +1,102 @@
+{
+    "guid": "55afdacf79892656f9a3b118",
+    "languageAgnosticNaturalKey": "pub-jwbiv_201509_1_VIDEO",
+    "naturalKey": "pub-jwbiv_E_201509_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpArchives",
+    "description": "",
+    "firstPublished": "2015-09-21T13:43:46.737Z",
+    "duration": 406.55,
+    "durationFormattedHHMM": "6:46",
+    "durationFormattedMinSec": "6m 46s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/7e/jwbiv_E_201509_01_r240P.mp4",
+            "checksum": "9879c129b8c822a0f85d88090dc1a992",
+            "filesize": 14745084,
+            "modifiedDatetime": "2023-01-13T19:11:37.000Z",
+            "bitRate": 283.35006456770384,
+            "duration": 406.55,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/67/jwbiv_E_201509_01.vtt",
+                "modifiedDatetime": "2023-01-13T19:11:30.000Z",
+                "checksum": "9efc1d5274434065f59282cec407ba27"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/e2/jwbiv_E_201509_01_r360P.mp4",
+            "checksum": "30747a07f96936ce1c195dac7f56814e",
+            "filesize": 25406721,
+            "modifiedDatetime": "2023-01-13T19:11:42.000Z",
+            "bitRate": 488.2302492005903,
+            "duration": 406.55,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/67/jwbiv_E_201509_01.vtt",
+                "modifiedDatetime": "2023-01-13T19:11:30.000Z",
+                "checksum": "9efc1d5274434065f59282cec407ba27"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/0e/jwbiv_E_201509_01_r480P.mp4",
+            "checksum": "8188a9255c5280f626e583c833a8ed44",
+            "filesize": 47932317,
+            "modifiedDatetime": "2023-01-13T19:11:51.000Z",
+            "bitRate": 921.0951335936539,
+            "duration": 406.55,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/67/jwbiv_E_201509_01.vtt",
+                "modifiedDatetime": "2023-01-13T19:11:30.000Z",
+                "checksum": "9efc1d5274434065f59282cec407ba27"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/6f/jwbiv_E_201509_01_r720P.mp4",
+            "checksum": "505d589ae0a1a1f3b763d153ae4e7cc6",
+            "filesize": 82598163,
+            "modifiedDatetime": "2023-01-13T19:11:59.000Z",
+            "bitRate": 1587.2540854445947,
+            "duration": 406.55,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/67/jwbiv_E_201509_01.vtt",
+                "modifiedDatetime": "2023-01-13T19:11:30.000Z",
+                "checksum": "9efc1d5274434065f59282cec407ba27"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwbiv.201509-1.v",
+        "jwbiv.201509-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/67/jwbiv_E_201509_01.vtt",
+    "Name": "pub-jwbiv_E_201509_1_VIDEO",
+    "Title": "Robert Hatzfeld: Serving With God’s Progressive Organization",
+    "UndatedReferenceTitle": "Robert Hatzfeld: Serving With God’s Progressive Organization",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2015,
+    "Symbol": "VODIntExpArchives"
+}

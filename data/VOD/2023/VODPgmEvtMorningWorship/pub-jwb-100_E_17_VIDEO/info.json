@@ -1,0 +1,102 @@
+{
+    "guid": "6377e1e64b77aca6cea2ca37",
+    "languageAgnosticNaturalKey": "pub-jwb-100_17_VIDEO",
+    "naturalKey": "pub-jwb-100_E_17_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2023-01-20T13:19:21.623Z",
+    "duration": 565.76,
+    "durationFormattedHHMM": "9:25",
+    "durationFormattedMinSec": "9m 25s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/11/jwb-100_E_17_r240P.mp4",
+            "checksum": "c4ae175549b26bae9c2ca7bf9b92d1f7",
+            "filesize": 12596567,
+            "modifiedDatetime": "2023-01-20T13:13:00.000Z",
+            "bitRate": 173.94421607660493,
+            "duration": 565.76,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/72/jwb-100_E_17.vtt",
+                "modifiedDatetime": "2023-01-20T13:12:49.000Z",
+                "checksum": "60fe8740d1025722eb4c87b7382caa8e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/45/jwb-100_E_17_r360P.mp4",
+            "checksum": "61760531ead643d2fe74fc7b847822bf",
+            "filesize": 20178990,
+            "modifiedDatetime": "2023-01-20T13:12:56.000Z",
+            "bitRate": 278.6488252527574,
+            "duration": 565.76,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/72/jwb-100_E_17.vtt",
+                "modifiedDatetime": "2023-01-20T13:12:49.000Z",
+                "checksum": "60fe8740d1025722eb4c87b7382caa8e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/0e/jwb-100_E_17_r480P.mp4",
+            "checksum": "407af8b0211a3f6c7867d239ab7a5cbe",
+            "filesize": 34626968,
+            "modifiedDatetime": "2023-01-20T13:12:53.000Z",
+            "bitRate": 478.1589145574095,
+            "duration": 565.76,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/72/jwb-100_E_17.vtt",
+                "modifiedDatetime": "2023-01-20T13:12:49.000Z",
+                "checksum": "60fe8740d1025722eb4c87b7382caa8e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/18/jwb-100_E_17_r720P.mp4",
+            "checksum": "9f8d6f2b01c6ee39a0843ac6a3bd6c65",
+            "filesize": 59164321,
+            "modifiedDatetime": "2023-01-20T13:12:50.000Z",
+            "bitRate": 816.9917594253748,
+            "duration": 565.76,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/72/jwb-100_E_17.vtt",
+                "modifiedDatetime": "2023-01-20T13:12:49.000Z",
+                "checksum": "60fe8740d1025722eb4c87b7382caa8e"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-100-17.v",
+        "jwb-100-17"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/72/jwb-100_E_17.vtt",
+    "Name": "pub-jwb-100_E_17_VIDEO",
+    "Title": "Gary Breaux: The Older Men and the Superior Authorities Standing in Their Proper Place (Rom. 13:1-4)",
+    "UndatedReferenceTitle": "Gary Breaux: The Older Men and the Superior Authorities Standing in Their Proper Place (Rom. 13:1-4)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

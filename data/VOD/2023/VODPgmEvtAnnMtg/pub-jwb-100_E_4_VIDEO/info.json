@@ -1,0 +1,102 @@
+{
+    "guid": "639363344b77aca6cef1f80b",
+    "languageAgnosticNaturalKey": "pub-jwb-100_4_VIDEO",
+    "naturalKey": "pub-jwb-100_E_4_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtAnnMtg",
+    "description": "",
+    "firstPublished": "2023-01-02T15:21:28.344Z",
+    "duration": 1052.843,
+    "durationFormattedHHMM": "17:32",
+    "durationFormattedMinSec": "17m 32s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/e1/jwb-100_E_04_r240P.mp4",
+            "checksum": "34c3238d767881beb5182c14609d1a86",
+            "filesize": 22508455,
+            "modifiedDatetime": "2023-01-02T05:11:49.000Z",
+            "bitRate": 167.0213932062995,
+            "duration": 1052.843,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/0e/jwb-100_E_04.vtt",
+                "modifiedDatetime": "2023-01-02T05:11:30.000Z",
+                "checksum": "8b2fe69f602be37f5fe370195f91b13c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/fc/jwb-100_E_04_r360P.mp4",
+            "checksum": "d7b442db562f12aa6ddcb5013b2e01b5",
+            "filesize": 35094091,
+            "modifiedDatetime": "2023-01-02T05:11:43.000Z",
+            "bitRate": 260.4116529601279,
+            "duration": 1052.843,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/0e/jwb-100_E_04.vtt",
+                "modifiedDatetime": "2023-01-02T05:11:30.000Z",
+                "checksum": "8b2fe69f602be37f5fe370195f91b13c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/8f/jwb-100_E_04_r480P.mp4",
+            "checksum": "62c999f07d328746fc1b63cb0b1f6b63",
+            "filesize": 60816052,
+            "modifiedDatetime": "2023-01-02T05:11:38.000Z",
+            "bitRate": 451.27849665144754,
+            "duration": 1052.843,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/0e/jwb-100_E_04.vtt",
+                "modifiedDatetime": "2023-01-02T05:11:30.000Z",
+                "checksum": "8b2fe69f602be37f5fe370195f91b13c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/80/jwb-100_E_04_r720P.mp4",
+            "checksum": "ccd2bc5718f68b1740bcec6f3bdb4ddf",
+            "filesize": 101149564,
+            "modifiedDatetime": "2023-01-02T05:11:32.000Z",
+            "bitRate": 750.5686685954125,
+            "duration": 1052.843,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/0e/jwb-100_E_04.vtt",
+                "modifiedDatetime": "2023-01-02T05:11:30.000Z",
+                "checksum": "8b2fe69f602be37f5fe370195f91b13c"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-100-4.v",
+        "jwb-100-4"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/0e/jwb-100_E_04.vtt",
+    "Name": "pub-jwb-100_E_4_VIDEO",
+    "Title": "Gerrit Lösch: Supported by the “Pillar . . . of the Truth”",
+    "UndatedReferenceTitle": "Gerrit Lösch: Supported by the “Pillar . . . of the Truth”",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODPgmEvtAnnMtg"
+}

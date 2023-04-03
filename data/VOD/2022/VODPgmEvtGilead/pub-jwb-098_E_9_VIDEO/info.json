@@ -1,0 +1,102 @@
+{
+    "guid": "636ac9846fa8308a8ba83627",
+    "languageAgnosticNaturalKey": "pub-jwb-098_9_VIDEO",
+    "naturalKey": "pub-jwb-098_E_9_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtGilead",
+    "description": "",
+    "firstPublished": "2022-12-06T15:19:09.714Z",
+    "duration": 805.782,
+    "durationFormattedHHMM": "13:25",
+    "durationFormattedMinSec": "13m 25s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/97/jwb-098_E_09_r240P.mp4",
+            "checksum": "4f2301e3034e465e232b8334c866b22b",
+            "filesize": 19154406,
+            "modifiedDatetime": "2022-12-06T15:15:31.000Z",
+            "bitRate": 185.71250893541924,
+            "duration": 805.782,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/1c/jwb-098_E_09.vtt",
+                "modifiedDatetime": "2022-12-06T15:15:14.000Z",
+                "checksum": "01f314ebaa1f319f162863970837b989"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/ba/jwb-098_E_09_r360P.mp4",
+            "checksum": "df4ba45567bdf0360b17fd0110325915",
+            "filesize": 31991373,
+            "modifiedDatetime": "2022-12-06T15:15:27.000Z",
+            "bitRate": 310.17396958792824,
+            "duration": 805.782,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/1c/jwb-098_E_09.vtt",
+                "modifiedDatetime": "2022-12-06T15:15:14.000Z",
+                "checksum": "01f314ebaa1f319f162863970837b989"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/d2/jwb-098_E_09_r480P.mp4",
+            "checksum": "c085654af2691ebb748334418fa8ea0e",
+            "filesize": 59069220,
+            "modifiedDatetime": "2022-12-06T15:15:19.000Z",
+            "bitRate": 572.7086001548806,
+            "duration": 805.782,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/1c/jwb-098_E_09.vtt",
+                "modifiedDatetime": "2022-12-06T15:15:14.000Z",
+                "checksum": "01f314ebaa1f319f162863970837b989"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/9e/jwb-098_E_09_r720P.mp4",
+            "checksum": "85a7c34758eec5dd9ac90d0f182a2409",
+            "filesize": 104484786,
+            "modifiedDatetime": "2022-12-06T15:15:15.000Z",
+            "bitRate": 1013.0375096800375,
+            "duration": 805.782,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/1c/jwb-098_E_09.vtt",
+                "modifiedDatetime": "2022-12-06T15:15:14.000Z",
+                "checksum": "01f314ebaa1f319f162863970837b989"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-098-9.v",
+        "jwb-098-9"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/1c/jwb-098_E_09.vtt",
+    "Name": "pub-jwb-098_E_9_VIDEO",
+    "Title": "Mark Noumair: March On With Jehovah!",
+    "UndatedReferenceTitle": "Mark Noumair: March On With Jehovah!",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODPgmEvtGilead"
+}

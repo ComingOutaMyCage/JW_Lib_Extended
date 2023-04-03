@@ -1,0 +1,102 @@
+{
+    "guid": "62f65cb67738170e4e8dcc00",
+    "languageAgnosticNaturalKey": "pub-jwb-098_14_VIDEO",
+    "naturalKey": "pub-jwb-098_E_14_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2022-12-16T14:33:35.109Z",
+    "duration": 620.779,
+    "durationFormattedHHMM": "10:20",
+    "durationFormattedMinSec": "10m 20s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/50/jwb-098_E_14_r240P.mp4",
+            "checksum": "c8f12b0f69696aec025bd78022909831",
+            "filesize": 13015630,
+            "modifiedDatetime": "2022-12-16T07:22:26.000Z",
+            "bitRate": 163.80162565905096,
+            "duration": 620.779,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/b3/jwb-098_E_14.vtt",
+                "modifiedDatetime": "2022-12-16T07:22:13.000Z",
+                "checksum": "970839a00d18ef92b5d91457d0d4ace5"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/a2/jwb-098_E_14_r360P.mp4",
+            "checksum": "366144808ae633e3d2d955b3175f1b26",
+            "filesize": 21357267,
+            "modifiedDatetime": "2022-12-16T07:22:23.000Z",
+            "bitRate": 268.7810773842221,
+            "duration": 620.779,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/b3/jwb-098_E_14.vtt",
+                "modifiedDatetime": "2022-12-16T07:22:13.000Z",
+                "checksum": "970839a00d18ef92b5d91457d0d4ace5"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/83/jwb-098_E_14_r480P.mp4",
+            "checksum": "222b5ebdfd895c6b8ab1a77a8ee09d61",
+            "filesize": 37194965,
+            "modifiedDatetime": "2022-12-16T07:22:20.000Z",
+            "bitRate": 468.09841193484317,
+            "duration": 620.779,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/b3/jwb-098_E_14.vtt",
+                "modifiedDatetime": "2022-12-16T07:22:13.000Z",
+                "checksum": "970839a00d18ef92b5d91457d0d4ace5"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/fb/jwb-098_E_14_r720P.mp4",
+            "checksum": "e55b011e21ace398c796a840c6876cf2",
+            "filesize": 63553839,
+            "modifiedDatetime": "2022-12-16T07:22:16.000Z",
+            "bitRate": 799.8246834823665,
+            "duration": 620.779,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/b3/jwb-098_E_14.vtt",
+                "modifiedDatetime": "2022-12-16T07:22:13.000Z",
+                "checksum": "970839a00d18ef92b5d91457d0d4ace5"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-098-14.v",
+        "jwb-098-14"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/b3/jwb-098_E_14.vtt",
+    "Name": "pub-jwb-098_E_14_VIDEO",
+    "Title": "Geoffrey W. Jackson: “The Meek Will Possess the Earth” (Ps. 37:11)",
+    "UndatedReferenceTitle": "Geoffrey W. Jackson: “The Meek Will Possess the Earth” (Ps. 37:11)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

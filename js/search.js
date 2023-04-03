@@ -39,6 +39,12 @@ var searchCount = 0;
 var index = null;
 var searchMaps = {};
 var infoStore = {};
+function getInfoStore(){
+    return infoStore;
+}
+function getIndex(){
+    return index;
+}
 var loadedCategories = false;
 var abortController = new AbortController()
 const monthNames = ["Jan", "Feb", "Mar", "Apr", "May", "Jun",
@@ -168,6 +174,19 @@ function getIssueName(info, fullMonth = true){
         return issue;
     }
     return info.Issue || '';
+}
+function getThumbnailForInfoId(infoId, info){
+    if(!info.thb) return;
+    let stores = Object.values(getFilesForInfoId(infoId));
+    if(!stores.length) return null;
+    return getThumbnailForStore(stores[0]);
+
+    return result;
+}
+function getThumbnailForStore(store){
+    let path = store.p
+    let basepath = path.replace(/[^\/\\]+$/, '');
+    return "data/" + basepath + "cover.jpg";
 }
 
 function getStoredItemTitle(storeItem){
@@ -556,6 +575,9 @@ async function pageStateChanged(e = null){
     if(list === "image-gallery"){
         return ImageGallery.ShowGallery();
     }
+    if(list === "cover-gallery"){
+        return CoverGallery.ShowGallery();
+    }
     if(list === 'publications' || (!file && !search)){
         return ShowPublications(category, title, symbol, pubId);
     }
@@ -918,7 +940,8 @@ async function ShowPublications(category, title, symbol, pubId) {
             if(!issue) issue = info.Title;
             else issue = info.Year + " - " + issue;
             let showYear = info.Title.indexOf(info.Year) === -1 ? info.Year : '';
-            list.push(buildDirectoryItem(`?list=publications&pubId=${info.Name}&year=${info.Year}`, null, `.icon-${info.Category}`, issue, null, showYear, true));
+            let thumbnail = getThumbnailForInfoId(infoId, info);
+            list.push(buildDirectoryItem(`?list=publications&pubId=${info.Name}&year=${info.Year}`, null, thumbnail ?? `.icon-${info.Category}`, issue, null, showYear, true));
         }
     }
     else if(category) {
@@ -943,6 +966,7 @@ async function ShowPublications(category, title, symbol, pubId) {
             if (groupFirstLetter) groupName = groupName.charAt(0);
             if (!groups[groupName]) groups[groupName] = {};
             groups[groupName][infoId] = info;
+            info.iid = infoId;
         }
         for (let [title, items] of Object.entries((groups))) {
             let subinfos = Object.values(items);
@@ -956,7 +980,8 @@ async function ShowPublications(category, title, symbol, pubId) {
             }else if(groupFirstLetter)
                 title = '%' + title;
             if (subinfos.length === 1) {
-                list.push(buildDirectoryItem(`?list=publications&pubId=${info.Name}&year=${info.Year}`, null, `.icon-${info.Category}`, info.Title, null, showYear, true));
+                let thumbnail = getThumbnailForInfoId(info.iid, info) ?? `.icon-${info.Category}`;
+                list.push(buildDirectoryItem(`?list=publications&pubId=${info.Name}&year=${info.Year}`, null, thumbnail, info.Title, null, showYear, true));
             } else {
                 list.push(buildDirectoryItem(`?list=publications&category=${info.Category}&${groupBy.toLowerCase()}=` + encodeURICompClean(title), null, `.icon-folder`, displayTitle, null, showYear, true));
             }
@@ -965,6 +990,7 @@ async function ShowPublications(category, title, symbol, pubId) {
     else {
         newPageTitle = "Publications"
         list.push(buildDirectoryItem(`?list=image-gallery`, null, `.icon-images`, 'Image Gallery', 'View the thousands of images', null, true));
+        list.push(buildDirectoryItem(`?list=cover-gallery`, null, `.icon-images`, 'Cover Gallery', 'View the thousands of covers', null, true));
         for (const [code, name] of Object.entries(PublicationCodes.codeToName)) {
             list.push(buildDirectoryItem(`?list=publications&category=${code}`, null, `.icon-${code}`, name, null, null, true));
         }
@@ -1459,6 +1485,8 @@ $(document).on('click', '.pagination a', function(){
         DoSearch();
     else if (getPageState('list') == 'image-gallery')
         ImageGallery.ShowGallery();
+    else if (getPageState('list') == 'cover-gallery')
+        CoverGallery.ShowGallery();
     window.scrollTo({top: 0, behavior: 'auto'});
     return false;
 });

@@ -1,0 +1,102 @@
+{
+    "guid": "568554e879892656f9a42d05",
+    "languageAgnosticNaturalKey": "pub-nwtsv_160_VIDEO",
+    "naturalKey": "pub-nwtsv_E_160_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBibleBooks",
+    "description": "",
+    "firstPublished": "2016-01-14T17:48:48.026Z",
+    "duration": 194.923,
+    "durationFormattedHHMM": "3:14",
+    "durationFormattedMinSec": "3m 14s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/82/nwtsv_E_160_r240P.mp4",
+            "checksum": "2f241617b74726286d9a0cb5ea223b53",
+            "filesize": 4802784,
+            "modifiedDatetime": "2022-12-23T16:36:56.000Z",
+            "bitRate": 192.4952417108294,
+            "duration": 194.923,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/cd/nwtsv_E_160.vtt",
+                "modifiedDatetime": "2022-12-23T16:36:46.000Z",
+                "checksum": "a0f42282d992220f02c0021cb8a59a02"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/69/nwtsv_E_160_r360P.mp4",
+            "checksum": "7370d93ceb1ca12ca6baad2f0b7ac697",
+            "filesize": 8559351,
+            "modifiedDatetime": "2022-12-23T16:37:00.000Z",
+            "bitRate": 343.05818034557234,
+            "duration": 194.923,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/cd/nwtsv_E_160.vtt",
+                "modifiedDatetime": "2022-12-23T16:36:46.000Z",
+                "checksum": "a0f42282d992220f02c0021cb8a59a02"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/25/nwtsv_E_160_r480P.mp4",
+            "checksum": "bdab8cc4f41595a31d3f8686af39fcc4",
+            "filesize": 17773289,
+            "modifiedDatetime": "2022-12-23T16:37:03.000Z",
+            "bitRate": 712.3521611738994,
+            "duration": 194.923,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/cd/nwtsv_E_160.vtt",
+                "modifiedDatetime": "2022-12-23T16:36:46.000Z",
+                "checksum": "a0f42282d992220f02c0021cb8a59a02"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/c4/nwtsv_E_160_r720P.mp4",
+            "checksum": "a4b2e3f7b1590971735af6d68a3e5e7a",
+            "filesize": 30900022,
+            "modifiedDatetime": "2022-12-23T16:37:08.000Z",
+            "bitRate": 1238.4706877844071,
+            "duration": 194.923,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/cd/nwtsv_E_160.vtt",
+                "modifiedDatetime": "2022-12-23T16:36:46.000Z",
+                "checksum": "a0f42282d992220f02c0021cb8a59a02"
+            }
+        }
+    ],
+    "printReferences": [
+        "nwtsv-160.v",
+        "nwtsv-160"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/cd/nwtsv_E_160.vtt",
+    "Name": "pub-nwtsv_E_160_VIDEO",
+    "Title": "Introduction to Nehemiah",
+    "UndatedReferenceTitle": "Introduction to Nehemiah",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2016,
+    "Symbol": "SeriesBibleBooks"
+}

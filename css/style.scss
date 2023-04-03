@@ -287,8 +287,8 @@ ol.directory, ul.directory {
       flex-shrink: 0;
       transition: background 200ms;
       img {
-        max-height: 32px;
-        max-width: 32px;
+        max-height: 100%;//32px;
+        max-width: 100%;//32px;
       }
       span {
         width: 100%;

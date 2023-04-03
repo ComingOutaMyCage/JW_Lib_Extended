@@ -1,0 +1,102 @@
+{
+    "guid": "5536a5467f0bc1fc27073552",
+    "languageAgnosticNaturalKey": "pub-jwbiv_201412_1_VIDEO",
+    "naturalKey": "pub-jwbiv_E_201412_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpArchives",
+    "description": "",
+    "firstPublished": "2015-02-02T21:29:48.000Z",
+    "duration": 385.302,
+    "durationFormattedHHMM": "6:25",
+    "durationFormattedMinSec": "6m 25s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/17/jwbiv_E_201412_01_r240P.mp4",
+            "checksum": "5ec98e0abab2009eaa434c594681109c",
+            "filesize": 12539231,
+            "modifiedDatetime": "2022-12-15T21:34:19.000Z",
+            "bitRate": 254.24924393722324,
+            "duration": 385.302,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/49/jwbiv_E_201412_01.vtt",
+                "modifiedDatetime": "2022-12-15T21:34:11.000Z",
+                "checksum": "e37df43454b8001c81390461eefe1a4e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/c1/jwbiv_E_201412_01_r360P.mp4",
+            "checksum": "08f78d1ea8b6e38f4eef65725c34a429",
+            "filesize": 21533715,
+            "modifiedDatetime": "2022-12-15T21:34:27.000Z",
+            "bitRate": 436.6241245503527,
+            "duration": 385.302,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/49/jwbiv_E_201412_01.vtt",
+                "modifiedDatetime": "2022-12-15T21:34:11.000Z",
+                "checksum": "e37df43454b8001c81390461eefe1a4e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/d6/jwbiv_E_201412_01_r480P.mp4",
+            "checksum": "999a47d5a22f165733d3336c9d6e46c6",
+            "filesize": 38288365,
+            "modifiedDatetime": "2022-12-15T21:34:31.000Z",
+            "bitRate": 776.3464803258223,
+            "duration": 385.302,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/49/jwbiv_E_201412_01.vtt",
+                "modifiedDatetime": "2022-12-15T21:34:11.000Z",
+                "checksum": "e37df43454b8001c81390461eefe1a4e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/c6/jwbiv_E_201412_01_r720P.mp4",
+            "checksum": "6193bbebb23e84f30d60910eaea41e81",
+            "filesize": 62125362,
+            "modifiedDatetime": "2022-12-15T21:34:38.000Z",
+            "bitRate": 1259.6726480137659,
+            "duration": 385.302,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/49/jwbiv_E_201412_01.vtt",
+                "modifiedDatetime": "2022-12-15T21:34:11.000Z",
+                "checksum": "e37df43454b8001c81390461eefe1a4e"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwbiv.201412-1.v",
+        "jwbiv.201412-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/49/jwbiv_E_201412_01.vtt",
+    "Name": "pub-jwbiv_E_201412_1_VIDEO",
+    "Title": "Max Larson: Never Thought of Anything Else",
+    "UndatedReferenceTitle": "Max Larson: Never Thought of Anything Else",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2015,
+    "Symbol": "VODIntExpArchives"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "5536b37b7f0bc1fc27073559",
+    "languageAgnosticNaturalKey": "pub-jwbrd_201503_1_VIDEO",
+    "naturalKey": "pub-jwbrd_E_201503_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODActivitiesPrintingShipping",
+    "description": "",
+    "firstPublished": "2015-04-22T00:30:34.000Z",
+    "duration": 236.416,
+    "durationFormattedHHMM": "3:56",
+    "durationFormattedMinSec": "3m 56s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/2d/jwbrd_E_201503_01_r240P.mp4",
+            "checksum": "c8962c81674d798d94a021ad67ebba96",
+            "filesize": 11992988,
+            "modifiedDatetime": "2022-12-15T21:46:22.000Z",
+            "bitRate": 396.3150495313346,
+            "duration": 236.416,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/c9/jwbrd_E_201503_01.vtt",
+                "modifiedDatetime": "2022-12-15T21:46:15.000Z",
+                "checksum": "fd404a878533c040a5958c7deb3c3749"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/83/jwbrd_E_201503_01_r360P.mp4",
+            "checksum": "282ad57d15ba01bcdf17b0526b247c0d",
+            "filesize": 19643845,
+            "modifiedDatetime": "2022-12-15T21:46:28.000Z",
+            "bitRate": 649.141932282502,
+            "duration": 236.416,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/c9/jwbrd_E_201503_01.vtt",
+                "modifiedDatetime": "2022-12-15T21:46:15.000Z",
+                "checksum": "fd404a878533c040a5958c7deb3c3749"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/6e/jwbrd_E_201503_01_r480P.mp4",
+            "checksum": "b7d6b00fe9658121e608b653bd05d52f",
+            "filesize": 37411910,
+            "modifiedDatetime": "2022-12-15T21:46:36.000Z",
+            "bitRate": 1236.2976569902207,
+            "duration": 236.416,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/c9/jwbrd_E_201503_01.vtt",
+                "modifiedDatetime": "2022-12-15T21:46:15.000Z",
+                "checksum": "fd404a878533c040a5958c7deb3c3749"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/30/jwbrd_E_201503_01_r720P.mp4",
+            "checksum": "cf731ade3ee6763f3538a9bc26579012",
+            "filesize": 60908196,
+            "modifiedDatetime": "2022-12-15T21:46:44.000Z",
+            "bitRate": 2012.7456739391582,
+            "duration": 236.416,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/c9/jwbrd_E_201503_01.vtt",
+                "modifiedDatetime": "2022-12-15T21:46:15.000Z",
+                "checksum": "fd404a878533c040a5958c7deb3c3749"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwbrd.201503-1.v",
+        "jwbrd.201503-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/c9/jwbrd_E_201503_01.vtt",
+    "Name": "pub-jwbrd_E_201503_1_VIDEO",
+    "Title": "Speeding Up the Distribution of Literature",
+    "UndatedReferenceTitle": "Speeding Up the Distribution of Literature",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2015,
+    "Symbol": "VODActivitiesPrintingShipping"
+}

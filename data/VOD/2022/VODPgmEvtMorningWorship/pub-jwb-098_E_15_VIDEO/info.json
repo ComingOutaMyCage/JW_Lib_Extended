@@ -1,0 +1,102 @@
+{
+    "guid": "6307c504e437cf0411a98a03",
+    "languageAgnosticNaturalKey": "pub-jwb-098_15_VIDEO",
+    "naturalKey": "pub-jwb-098_E_15_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2022-12-16T14:33:29.246Z",
+    "duration": 618.603,
+    "durationFormattedHHMM": "10:18",
+    "durationFormattedMinSec": "10m 18s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/2d/jwb-098_E_15_r240P.mp4",
+            "checksum": "a583f65164b6c61e2a3e020e1be3838a",
+            "filesize": 12171886,
+            "modifiedDatetime": "2022-12-16T07:22:08.000Z",
+            "bitRate": 153.7219499016332,
+            "duration": 618.603,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/84/jwb-098_E_15.vtt",
+                "modifiedDatetime": "2022-12-16T07:21:51.000Z",
+                "checksum": "6ae182dc91263efe270365e3a3808870"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/e8/jwb-098_E_15_r360P.mp4",
+            "checksum": "5b0c556a5bdb0b4717ec0886281bbd07",
+            "filesize": 19623851,
+            "modifiedDatetime": "2022-12-16T07:22:05.000Z",
+            "bitRate": 247.83477599930814,
+            "duration": 618.603,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/84/jwb-098_E_15.vtt",
+                "modifiedDatetime": "2022-12-16T07:21:51.000Z",
+                "checksum": "6ae182dc91263efe270365e3a3808870"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/ad/jwb-098_E_15_r480P.mp4",
+            "checksum": "7aef52de574f0a83e0c562d8856ee53a",
+            "filesize": 33674788,
+            "modifiedDatetime": "2022-12-16T07:21:58.000Z",
+            "bitRate": 425.28775523235424,
+            "duration": 618.603,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/84/jwb-098_E_15.vtt",
+                "modifiedDatetime": "2022-12-16T07:21:51.000Z",
+                "checksum": "6ae182dc91263efe270365e3a3808870"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/2e/jwb-098_E_15_r720P.mp4",
+            "checksum": "bbdb38e950e3e9e48e1fa82694068fe5",
+            "filesize": 55903991,
+            "modifiedDatetime": "2022-12-16T07:21:52.000Z",
+            "bitRate": 706.0262069332027,
+            "duration": 618.603,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/84/jwb-098_E_15.vtt",
+                "modifiedDatetime": "2022-12-16T07:21:51.000Z",
+                "checksum": "6ae182dc91263efe270365e3a3808870"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-098-15.v",
+        "jwb-098-15"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/84/jwb-098_E_15.vtt",
+    "Name": "pub-jwb-098_E_15_VIDEO",
+    "Title": "Seth Hyatt: “Bear Fruit With Endurance” Despite Trials (Luke 8:15)",
+    "UndatedReferenceTitle": "Seth Hyatt: “Bear Fruit With Endurance” Despite Trials (Luke 8:15)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

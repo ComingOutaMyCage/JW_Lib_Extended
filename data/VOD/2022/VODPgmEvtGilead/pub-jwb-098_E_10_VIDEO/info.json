@@ -1,0 +1,102 @@
+{
+    "guid": "637fd8d84b77aca6cec026ee",
+    "languageAgnosticNaturalKey": "pub-jwb-098_10_VIDEO",
+    "naturalKey": "pub-jwb-098_E_10_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtGilead",
+    "description": "",
+    "firstPublished": "2022-12-27T14:42:46.723Z",
+    "duration": 899.883,
+    "durationFormattedHHMM": "14:59",
+    "durationFormattedMinSec": "14m 59s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/42/jwb-098_E_10_r240P.mp4",
+            "checksum": "be04eb82b15c05a2da878cf866a7576a",
+            "filesize": 16213278,
+            "modifiedDatetime": "2022-12-27T14:13:56.000Z",
+            "bitRate": 140.7585590293405,
+            "duration": 899.883,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/7a/jwb-098_E_10.vtt",
+                "modifiedDatetime": "2022-12-27T14:13:42.000Z",
+                "checksum": "fb612945cb1b37bd896f4a48f1159361"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/95/jwb-098_E_10_r360P.mp4",
+            "checksum": "841787ba0c900f74e0d6ffb9ef3398cf",
+            "filesize": 26420155,
+            "modifiedDatetime": "2022-12-27T14:13:52.000Z",
+            "bitRate": 229.37144155129056,
+            "duration": 899.883,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/7a/jwb-098_E_10.vtt",
+                "modifiedDatetime": "2022-12-27T14:13:42.000Z",
+                "checksum": "fb612945cb1b37bd896f4a48f1159361"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/ae/jwb-098_E_10_r480P.mp4",
+            "checksum": "d0e2cd4818c340925c0f1219854a001d",
+            "filesize": 49373994,
+            "modifiedDatetime": "2022-12-27T14:13:48.000Z",
+            "bitRate": 428.64942234157104,
+            "duration": 899.883,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/7a/jwb-098_E_10.vtt",
+                "modifiedDatetime": "2022-12-27T14:13:42.000Z",
+                "checksum": "fb612945cb1b37bd896f4a48f1159361"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/85/jwb-098_E_10_r720P.mp4",
+            "checksum": "92986d42ffff1b49ed40c4d44366f7e3",
+            "filesize": 80003851,
+            "modifiedDatetime": "2022-12-27T14:13:45.000Z",
+            "bitRate": 694.5681671256152,
+            "duration": 899.883,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/7a/jwb-098_E_10.vtt",
+                "modifiedDatetime": "2022-12-27T14:13:42.000Z",
+                "checksum": "fb612945cb1b37bd896f4a48f1159361"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-098-10.v",
+        "jwb-098-10"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/7a/jwb-098_E_10.vtt",
+    "Name": "pub-jwb-098_E_10_VIDEO",
+    "Title": "Samuel F. Herd: Any Day Now",
+    "UndatedReferenceTitle": "Samuel F. Herd: Any Day Now",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODPgmEvtGilead"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "6373e0476fa8308a8bbaae4c",
+    "languageAgnosticNaturalKey": "pub-jwb-098_5_VIDEO",
+    "naturalKey": "pub-jwb-098_E_5_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtGilead",
+    "description": "",
+    "firstPublished": "2022-12-06T15:18:11.698Z",
+    "duration": 646.998,
+    "durationFormattedHHMM": "10:46",
+    "durationFormattedMinSec": "10m 46s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/09/jwb-098_E_05_r240P.mp4",
+            "checksum": "ac8d2d8ffc28776c33171ddca56f3f8d",
+            "filesize": 12710798,
+            "modifiedDatetime": "2022-12-06T05:48:07.000Z",
+            "bitRate": 153.48286915106382,
+            "duration": 646.998,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/1b/jwb-098_E_05.vtt",
+                "modifiedDatetime": "2022-12-06T05:47:52.000Z",
+                "checksum": "93323038eb2aec4d919c1186e3edfc8b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/84/jwb-098_E_05_r360P.mp4",
+            "checksum": "613d6fb385799d87e4f8918ac01d6a2c",
+            "filesize": 21164806,
+            "modifiedDatetime": "2022-12-06T05:48:05.000Z",
+            "bitRate": 255.56500464452748,
+            "duration": 646.998,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/1b/jwb-098_E_05.vtt",
+                "modifiedDatetime": "2022-12-06T05:47:52.000Z",
+                "checksum": "93323038eb2aec4d919c1186e3edfc8b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/06/jwb-098_E_05_r480P.mp4",
+            "checksum": "0ce99f0c8d3428a12fc16da3cf1ec2cb",
+            "filesize": 38393614,
+            "modifiedDatetime": "2022-12-06T05:47:58.000Z",
+            "bitRate": 463.60283861001113,
+            "duration": 646.998,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/1b/jwb-098_E_05.vtt",
+                "modifiedDatetime": "2022-12-06T05:47:52.000Z",
+                "checksum": "93323038eb2aec4d919c1186e3edfc8b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/f1/jwb-098_E_05_r720P.mp4",
+            "checksum": "c0d638c284ccab2e210f21b7603f5f87",
+            "filesize": 67270732,
+            "modifiedDatetime": "2022-12-06T05:47:53.000Z",
+            "bitRate": 812.2940005224127,
+            "duration": 646.998,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/1b/jwb-098_E_05.vtt",
+                "modifiedDatetime": "2022-12-06T05:47:52.000Z",
+                "checksum": "93323038eb2aec4d919c1186e3edfc8b"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-098-5.v",
+        "jwb-098-5"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/1b/jwb-098_E_05.vtt",
+    "Name": "pub-jwb-098_E_5_VIDEO",
+    "Title": "Kenneth Cook, Jr.: Follow the Steps That Lead to Blessings",
+    "UndatedReferenceTitle": "Kenneth Cook, Jr.: Follow the Steps That Lead to Blessings",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODPgmEvtGilead"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "5f490aea20de59c21cc046b9",
+    "languageAgnosticNaturalKey": "pub-mwbv_202011_1_VIDEO",
+    "naturalKey": "pub-mwbv_E_202011_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODSampleConversations",
+    "description": "",
+    "firstPublished": "2020-10-05T12:17:07.157Z",
+    "duration": 92.822,
+    "durationFormattedHHMM": "1:32",
+    "durationFormattedMinSec": "1m 32s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/d0/mwbv_E_202011_01_r240P.mp4",
+            "checksum": "17f0a5ee5e54ea3ae4f869fa90beb38f",
+            "filesize": 1515370,
+            "modifiedDatetime": "2023-01-16T16:21:26.000Z",
+            "bitRate": 127.54334236495659,
+            "duration": 92.822,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/b8/mwbv_E_202011_01.vtt",
+                "modifiedDatetime": "2023-01-16T16:21:17.000Z",
+                "checksum": "b935fdfb8d012107db88a891a7bca240"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/60/mwbv_E_202011_01_r360P.mp4",
+            "checksum": "bfc00ba7d670259a8d9578e264551139",
+            "filesize": 2166919,
+            "modifiedDatetime": "2023-01-16T16:21:29.000Z",
+            "bitRate": 182.38192117709164,
+            "duration": 92.822,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/b8/mwbv_E_202011_01.vtt",
+                "modifiedDatetime": "2023-01-16T16:21:17.000Z",
+                "checksum": "b935fdfb8d012107db88a891a7bca240"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/15/mwbv_E_202011_01_r480P.mp4",
+            "checksum": "eb933a207f022ce33db8a7daaef07605",
+            "filesize": 3425863,
+            "modifiedDatetime": "2023-01-16T16:21:33.000Z",
+            "bitRate": 288.3427925222469,
+            "duration": 92.822,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/b8/mwbv_E_202011_01.vtt",
+                "modifiedDatetime": "2023-01-16T16:21:17.000Z",
+                "checksum": "b935fdfb8d012107db88a891a7bca240"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/2f/mwbv_E_202011_01_r720P.mp4",
+            "checksum": "daecd24fc15abdd478813bad44d4706f",
+            "filesize": 4751716,
+            "modifiedDatetime": "2023-01-16T16:21:37.000Z",
+            "bitRate": 399.9351581521622,
+            "duration": 92.822,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/b8/mwbv_E_202011_01.vtt",
+                "modifiedDatetime": "2023-01-16T16:21:17.000Z",
+                "checksum": "b935fdfb8d012107db88a891a7bca240"
+            }
+        }
+    ],
+    "printReferences": [
+        "mwbv.202011-1.v",
+        "mwbv.202011-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/b8/mwbv_E_202011_01.vtt",
+    "Name": "pub-mwbv_E_202011_1_VIDEO",
+    "Title": "Initial Call: Kingdom—Mt 6:9, 10",
+    "UndatedReferenceTitle": "Initial Call: Kingdom—Mt 6:9, 10",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2020,
+    "Symbol": "VODSampleConversations"
+}

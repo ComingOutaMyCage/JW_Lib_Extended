@@ -1,0 +1,102 @@
+{
+    "guid": "6388ac4c4b77aca6ced0f44e",
+    "languageAgnosticNaturalKey": "pub-jwb-098_3_VIDEO",
+    "naturalKey": "pub-jwb-098_E_3_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtGilead",
+    "description": "",
+    "firstPublished": "2022-12-26T13:40:01.739Z",
+    "duration": 1961.622,
+    "durationFormattedHHMM": "32:41",
+    "durationFormattedMinSec": "32m 41s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/3f/jwb-098_E_03_r240P.mp4",
+            "checksum": "ddc5a8c07f52dc2dd8fd4743b4276cbe",
+            "filesize": 41440310,
+            "modifiedDatetime": "2022-12-26T05:56:48.000Z",
+            "bitRate": 165.0432253894991,
+            "duration": 1961.622,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/d1/jwb-098_E_03.vtt",
+                "modifiedDatetime": "2022-12-26T05:56:21.000Z",
+                "checksum": "9575b083bf2d338019279dc156183355"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/7e/jwb-098_E_03_r360P.mp4",
+            "checksum": "e2e0765bc18ea02022976568e239d553",
+            "filesize": 75944707,
+            "modifiedDatetime": "2022-12-26T05:56:42.000Z",
+            "bitRate": 302.4629737214917,
+            "duration": 1961.622,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/d1/jwb-098_E_03.vtt",
+                "modifiedDatetime": "2022-12-26T05:56:21.000Z",
+                "checksum": "9575b083bf2d338019279dc156183355"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/53/jwb-098_E_03_r480P.mp4",
+            "checksum": "1393c9984ae19339d8531824c7029f99",
+            "filesize": 145124849,
+            "modifiedDatetime": "2022-12-26T05:56:35.000Z",
+            "bitRate": 577.9848935281619,
+            "duration": 1961.622,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/d1/jwb-098_E_03.vtt",
+                "modifiedDatetime": "2022-12-26T05:56:21.000Z",
+                "checksum": "9575b083bf2d338019279dc156183355"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/72/jwb-098_E_03_r720P.mp4",
+            "checksum": "f34123d24c410b7534ef0aee33011104",
+            "filesize": 261222218,
+            "modifiedDatetime": "2022-12-26T05:56:25.000Z",
+            "bitRate": 1040.362811043616,
+            "duration": 1961.622,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/d1/jwb-098_E_03.vtt",
+                "modifiedDatetime": "2022-12-26T05:56:21.000Z",
+                "checksum": "9575b083bf2d338019279dc156183355"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-098-3.v",
+        "jwb-098-3"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/d1/jwb-098_E_03.vtt",
+    "Name": "pub-jwb-098_E_3_VIDEO",
+    "Title": "152nd Gilead Graduation—Concluding Talk and Assignments",
+    "UndatedReferenceTitle": "152nd Gilead Graduation—Concluding Talk and Assignments",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODPgmEvtGilead"
+}

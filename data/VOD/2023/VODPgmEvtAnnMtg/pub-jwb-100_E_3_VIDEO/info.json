@@ -1,0 +1,102 @@
+{
+    "guid": "638e4a014b77aca6cee26369",
+    "languageAgnosticNaturalKey": "pub-jwb-100_3_VIDEO",
+    "naturalKey": "pub-jwb-100_E_3_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtAnnMtg",
+    "description": "",
+    "firstPublished": "2023-01-02T15:21:23.367Z",
+    "duration": 1277.931,
+    "durationFormattedHHMM": "21:17",
+    "durationFormattedMinSec": "21m 17s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/19/jwb-100_E_03_r240P.mp4",
+            "checksum": "94ea6f0d6bb67ba1fb07886ebaa5d19c",
+            "filesize": 28805856,
+            "modifiedDatetime": "2023-01-02T05:12:14.000Z",
+            "bitRate": 176.1016439854734,
+            "duration": 1277.931,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/36/jwb-100_E_03.vtt",
+                "modifiedDatetime": "2023-01-02T05:11:56.000Z",
+                "checksum": "c23598e1c1cd06602515453aa3ef230c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/0b/jwb-100_E_03_r360P.mp4",
+            "checksum": "243b027bdb7f0cf834c1ee84eb5abd46",
+            "filesize": 47806984,
+            "modifiedDatetime": "2023-01-02T05:12:10.000Z",
+            "bitRate": 292.26308971298135,
+            "duration": 1277.931,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/36/jwb-100_E_03.vtt",
+                "modifiedDatetime": "2023-01-02T05:11:56.000Z",
+                "checksum": "c23598e1c1cd06602515453aa3ef230c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/03/jwb-100_E_03_r480P.mp4",
+            "checksum": "91ab2d4ca8a4216d2cfbc648702165b2",
+            "filesize": 84142194,
+            "modifiedDatetime": "2023-01-02T05:12:03.000Z",
+            "bitRate": 514.394666554767,
+            "duration": 1277.931,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/36/jwb-100_E_03.vtt",
+                "modifiedDatetime": "2023-01-02T05:11:56.000Z",
+                "checksum": "c23598e1c1cd06602515453aa3ef230c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/69/jwb-100_E_03_r720P.mp4",
+            "checksum": "2de99d52bc437563b21bd90448f23bdd",
+            "filesize": 136936061,
+            "modifiedDatetime": "2023-01-02T05:11:58.000Z",
+            "bitRate": 837.144553628091,
+            "duration": 1277.931,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/36/jwb-100_E_03.vtt",
+                "modifiedDatetime": "2023-01-02T05:11:56.000Z",
+                "checksum": "c23598e1c1cd06602515453aa3ef230c"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-100-3.v",
+        "jwb-100-3"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/36/jwb-100_E_03.vtt",
+    "Name": "pub-jwb-100_E_3_VIDEO",
+    "Title": "Anthony Morris: They Will Be Sensational!",
+    "UndatedReferenceTitle": "Anthony Morris: They Will Be Sensational!",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODPgmEvtAnnMtg"
+}

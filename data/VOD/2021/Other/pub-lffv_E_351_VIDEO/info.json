@@ -1,0 +1,102 @@
+{
+    "guid": "5fce9c5cc0bf482e1bb12b52",
+    "languageAgnosticNaturalKey": "pub-lffv_351_VIDEO",
+    "naturalKey": "pub-lffv_E_351_VIDEO",
+    "type": "video",
+    "primaryCategory": "Other",
+    "description": "",
+    "firstPublished": "2021-01-12T20:08:33.623Z",
+    "duration": 354.688,
+    "durationFormattedHHMM": "5:54",
+    "durationFormattedMinSec": "5m 54s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/5b/lffv_E_351_r240P.mp4",
+            "checksum": "05df2f0096b9fd5b29c0856ae1e74ea2",
+            "filesize": 6586456,
+            "modifiedDatetime": "2021-01-12T06:53:12.000Z",
+            "bitRate": 145.07591883570913,
+            "duration": 354.688,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.615,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/67/lffv_E_351.vtt",
+                "modifiedDatetime": "2021-01-12T06:53:26.000Z",
+                "checksum": "4b4a1942b51d03aafa4e666e8147cbd9"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/a6/lffv_E_351_r360P.mp4",
+            "checksum": "7ffd0acdbcfe0726e1f615d2e2d4a825",
+            "filesize": 13446497,
+            "modifiedDatetime": "2021-01-12T06:53:16.000Z",
+            "bitRate": 296.1979727643629,
+            "duration": 354.664,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/67/lffv_E_351.vtt",
+                "modifiedDatetime": "2021-01-12T06:53:26.000Z",
+                "checksum": "4b4a1942b51d03aafa4e666e8147cbd9"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/e3/lffv_E_351_r480P.mp4",
+            "checksum": "7919767c85063d7474f17f6162a169b5",
+            "filesize": 23455169,
+            "modifiedDatetime": "2021-01-12T06:53:19.000Z",
+            "bitRate": 516.6679105082558,
+            "duration": 354.664,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/67/lffv_E_351.vtt",
+                "modifiedDatetime": "2021-01-12T06:53:26.000Z",
+                "checksum": "4b4a1942b51d03aafa4e666e8147cbd9"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/54/lffv_E_351_r720P.mp4",
+            "checksum": "c7fbff8801440f7007310ffaa0ebcfcd",
+            "filesize": 37847997,
+            "modifiedDatetime": "2021-01-12T06:53:21.000Z",
+            "bitRate": 833.7115595676471,
+            "duration": 354.664,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/67/lffv_E_351.vtt",
+                "modifiedDatetime": "2021-01-12T06:53:26.000Z",
+                "checksum": "4b4a1942b51d03aafa4e666e8147cbd9"
+            }
+        }
+    ],
+    "printReferences": [
+        "lffv-351.v",
+        "lffv-351"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/67/lffv_E_351.vtt",
+    "Name": "pub-lffv_E_351_VIDEO",
+    "Title": "Let Bible Principles Guide You",
+    "UndatedReferenceTitle": "Let Bible Principles Guide You",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "Other"
+}

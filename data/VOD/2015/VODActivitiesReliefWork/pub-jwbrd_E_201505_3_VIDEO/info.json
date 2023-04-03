@@ -1,0 +1,102 @@
+{
+    "guid": "556bdeee79892656f9a365e0",
+    "languageAgnosticNaturalKey": "pub-jwbrd_201505_3_VIDEO",
+    "naturalKey": "pub-jwbrd_E_201505_3_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODActivitiesReliefWork",
+    "description": "",
+    "firstPublished": "2015-06-01T15:52:56.404Z",
+    "duration": 249.814,
+    "durationFormattedHHMM": "4:09",
+    "durationFormattedMinSec": "4m 9s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/d7/jwbrd_E_201505_03_r240P.mp4",
+            "checksum": "53b5a9dc3c02740b3ed794ba27d80fc0",
+            "filesize": 8800534,
+            "modifiedDatetime": "2022-12-19T15:46:56.000Z",
+            "bitRate": 275.2214522604818,
+            "duration": 249.814,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/0f/jwbrd_E_201505_03.vtt",
+                "modifiedDatetime": "2022-12-19T15:46:51.000Z",
+                "checksum": "8318b6c6605981a9c2bc38b630ef096a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/17/jwbrd_E_201505_03_r360P.mp4",
+            "checksum": "f6ad85e481e3210c988558660d76bbcd",
+            "filesize": 14976343,
+            "modifiedDatetime": "2022-12-19T15:47:01.000Z",
+            "bitRate": 468.35917797841597,
+            "duration": 249.814,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/0f/jwbrd_E_201505_03.vtt",
+                "modifiedDatetime": "2022-12-19T15:46:51.000Z",
+                "checksum": "8318b6c6605981a9c2bc38b630ef096a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/0b/jwbrd_E_201505_03_r480P.mp4",
+            "checksum": "7e4563249c662a7be01dad9db8bb8e9f",
+            "filesize": 28125724,
+            "modifiedDatetime": "2022-12-19T15:47:07.000Z",
+            "bitRate": 879.5832849640133,
+            "duration": 249.814,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/0f/jwbrd_E_201505_03.vtt",
+                "modifiedDatetime": "2022-12-19T15:46:51.000Z",
+                "checksum": "8318b6c6605981a9c2bc38b630ef096a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/9d/jwbrd_E_201505_03_r720P.mp4",
+            "checksum": "15b0c830bf85ecb9444d78a2e652102a",
+            "filesize": 48849660,
+            "modifiedDatetime": "2022-12-19T15:47:10.000Z",
+            "bitRate": 1527.6884752255678,
+            "duration": 249.814,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/0f/jwbrd_E_201505_03.vtt",
+                "modifiedDatetime": "2022-12-19T15:46:51.000Z",
+                "checksum": "8318b6c6605981a9c2bc38b630ef096a"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwbrd.201505-3.v",
+        "jwbrd.201505-3"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/0f/jwbrd_E_201505_03.vtt",
+    "Name": "pub-jwbrd_E_201505_3_VIDEO",
+    "Title": "Helping Our Brothers When Disaster Strikes",
+    "UndatedReferenceTitle": "Helping Our Brothers When Disaster Strikes",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2015,
+    "Symbol": "VODActivitiesReliefWork"
+}

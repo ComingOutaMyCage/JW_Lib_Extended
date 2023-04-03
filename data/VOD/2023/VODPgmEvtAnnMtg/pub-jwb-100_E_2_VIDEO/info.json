@@ -1,0 +1,102 @@
+{
+    "guid": "6398a2354b77aca6cefcbba9",
+    "languageAgnosticNaturalKey": "pub-jwb-100_2_VIDEO",
+    "naturalKey": "pub-jwb-100_E_2_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtAnnMtg",
+    "description": "",
+    "firstPublished": "2023-01-02T15:21:19.493Z",
+    "duration": 1264.022,
+    "durationFormattedHHMM": "21:04",
+    "durationFormattedMinSec": "21m 4s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/bf/jwb-100_E_02_r240P.mp4",
+            "checksum": "abbfec1735eefcd2d26198074df935d7",
+            "filesize": 27203378,
+            "modifiedDatetime": "2023-01-12T21:00:58.000Z",
+            "bitRate": 168.1350408655862,
+            "duration": 1264.022,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/c4/jwb-100_E_02.vtt",
+                "modifiedDatetime": "2023-01-02T05:12:25.000Z",
+                "checksum": "4a2daf49e74eb471449a6f99149af41a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/62/jwb-100_E_02_r360P.mp4",
+            "checksum": "9e3870ebf0490c65eb2d7308f7d045c2",
+            "filesize": 45613120,
+            "modifiedDatetime": "2023-01-12T21:01:02.000Z",
+            "bitRate": 281.91953937510584,
+            "duration": 1264.022,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/c4/jwb-100_E_02.vtt",
+                "modifiedDatetime": "2023-01-02T05:12:25.000Z",
+                "checksum": "4a2daf49e74eb471449a6f99149af41a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/cc/jwb-100_E_02_r480P.mp4",
+            "checksum": "391d1ccbd391f0e9635818df33e754e2",
+            "filesize": 84819338,
+            "modifiedDatetime": "2023-01-12T21:01:25.000Z",
+            "bitRate": 524.2401462355876,
+            "duration": 1264.022,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/c4/jwb-100_E_02.vtt",
+                "modifiedDatetime": "2023-01-02T05:12:25.000Z",
+                "checksum": "4a2daf49e74eb471449a6f99149af41a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/c4/jwb-100_E_02_r720P.mp4",
+            "checksum": "c3f16bb0e0b47131b51a8d4f840e5817",
+            "filesize": 146031863,
+            "modifiedDatetime": "2023-01-12T21:01:34.000Z",
+            "bitRate": 902.5744248814499,
+            "duration": 1264.022,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/c4/jwb-100_E_02.vtt",
+                "modifiedDatetime": "2023-01-02T05:12:25.000Z",
+                "checksum": "4a2daf49e74eb471449a6f99149af41a"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-100-2.v",
+        "jwb-100-2"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/c4/jwb-100_E_02.vtt",
+    "Name": "pub-jwb-100_E_2_VIDEO",
+    "Title": "Geoffrey W. Jackson: Be Alert, Be Decisive",
+    "UndatedReferenceTitle": "Geoffrey W. Jackson: Be Alert, Be Decisive",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODPgmEvtAnnMtg"
+}

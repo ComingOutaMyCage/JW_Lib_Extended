@@ -1,0 +1,102 @@
+{
+    "guid": "5fab05a83082cd74680686c7",
+    "languageAgnosticNaturalKey": "pub-lffv_361_VIDEO",
+    "naturalKey": "pub-lffv_E_361_VIDEO",
+    "type": "video",
+    "primaryCategory": "Other",
+    "description": "",
+    "firstPublished": "2021-01-12T20:08:40.996Z",
+    "duration": 152.64,
+    "durationFormattedHHMM": "2:32",
+    "durationFormattedMinSec": "2m 32s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/18/lffv_E_361_r240P.mp4",
+            "checksum": "14ce23a902ff922f004d97f29b6085eb",
+            "filesize": 3785003,
+            "modifiedDatetime": "2021-01-12T06:53:31.000Z",
+            "bitRate": 193.72599539766773,
+            "duration": 152.64,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.529,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/c4/lffv_E_361.vtt",
+                "modifiedDatetime": "2021-01-12T06:53:45.000Z",
+                "checksum": "33c31cbe147ede7265150047a5a60099"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/12/lffv_E_361_r360P.mp4",
+            "checksum": "e997b1b8592d713748e7204fef67df8a",
+            "filesize": 6863583,
+            "modifiedDatetime": "2021-01-12T06:53:32.000Z",
+            "bitRate": 351.35993360613844,
+            "duration": 152.612,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/c4/lffv_E_361.vtt",
+                "modifiedDatetime": "2021-01-12T06:53:45.000Z",
+                "checksum": "33c31cbe147ede7265150047a5a60099"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/8d/lffv_E_361_r480P.mp4",
+            "checksum": "2884f3fd657b20b04f6fcc3c1ebcde3a",
+            "filesize": 12218296,
+            "modifiedDatetime": "2021-01-12T06:53:37.000Z",
+            "bitRate": 625.4779276858962,
+            "duration": 152.612,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/c4/lffv_E_361.vtt",
+                "modifiedDatetime": "2021-01-12T06:53:45.000Z",
+                "checksum": "33c31cbe147ede7265150047a5a60099"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/9f/lffv_E_361_r720P.mp4",
+            "checksum": "63831162830c2a6d2bf3531b6a93c292",
+            "filesize": 19741395,
+            "modifiedDatetime": "2021-01-12T06:53:40.000Z",
+            "bitRate": 1010.5997460062118,
+            "duration": 152.612,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/c4/lffv_E_361.vtt",
+                "modifiedDatetime": "2021-01-12T06:53:45.000Z",
+                "checksum": "33c31cbe147ede7265150047a5a60099"
+            }
+        }
+    ],
+    "printReferences": [
+        "lffv-361.v",
+        "lffv-361"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/c4/lffv_E_361.vtt",
+    "Name": "pub-lffv_E_361_VIDEO",
+    "Title": "What Contributes to Joy?—A Clean Conscience",
+    "UndatedReferenceTitle": "What Contributes to Joy?—A Clean Conscience",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "Other"
+}

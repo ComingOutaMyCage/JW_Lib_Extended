@@ -1,0 +1,102 @@
+{
+    "guid": "630e713ae437cf0411cc8302",
+    "languageAgnosticNaturalKey": "pub-mwbv_202301_1_VIDEO",
+    "naturalKey": "pub-mwbv_E_202301_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODSampleConversations",
+    "description": "",
+    "firstPublished": "2022-12-12T15:33:20.828Z",
+    "duration": 105.664,
+    "durationFormattedHHMM": "1:45",
+    "durationFormattedMinSec": "1m 45s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/9f/mwbv_E_202301_01_r240P.mp4",
+            "checksum": "63a71e1404b85dffa33e14112d13f1ac",
+            "filesize": 1703097,
+            "modifiedDatetime": "2022-12-12T19:01:05.000Z",
+            "bitRate": 125.92221866009237,
+            "duration": 105.664,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/d4/mwbv_E_202301_01.vtt",
+                "modifiedDatetime": "2022-12-12T05:04:04.000Z",
+                "checksum": "e8a1faeecc6ddbe99d477f4904242cf2"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/91/mwbv_E_202301_01_r360P.mp4",
+            "checksum": "ab3473084b3c07f7eb64a4101db0cf47",
+            "filesize": 2407337,
+            "modifiedDatetime": "2022-12-12T19:01:11.000Z",
+            "bitRate": 177.99175038329042,
+            "duration": 105.664,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/d4/mwbv_E_202301_01.vtt",
+                "modifiedDatetime": "2022-12-12T05:04:04.000Z",
+                "checksum": "e8a1faeecc6ddbe99d477f4904242cf2"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/2d/mwbv_E_202301_01_r480P.mp4",
+            "checksum": "f4e83964a9f6219e33e5752b94f46e0a",
+            "filesize": 3680750,
+            "modifiedDatetime": "2022-12-12T19:01:14.000Z",
+            "bitRate": 272.1443384217898,
+            "duration": 105.664,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/d4/mwbv_E_202301_01.vtt",
+                "modifiedDatetime": "2022-12-12T05:04:04.000Z",
+                "checksum": "e8a1faeecc6ddbe99d477f4904242cf2"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/52/mwbv_E_202301_01_r720P.mp4",
+            "checksum": "ac10b6ad229a31d323ec8466dcbf454c",
+            "filesize": 4968384,
+            "modifiedDatetime": "2022-12-12T19:01:17.000Z",
+            "bitRate": 367.34838734100543,
+            "duration": 105.664,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/d4/mwbv_E_202301_01.vtt",
+                "modifiedDatetime": "2022-12-12T05:04:04.000Z",
+                "checksum": "e8a1faeecc6ddbe99d477f4904242cf2"
+            }
+        }
+    ],
+    "printReferences": [
+        "mwbv.202301-1.v",
+        "mwbv.202301-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/d4/mwbv_E_202301_01.vtt",
+    "Name": "pub-mwbv_E_202301_1_VIDEO",
+    "Title": "Initial Call: Prayer—Ps 65:2",
+    "UndatedReferenceTitle": "Initial Call: Prayer—Ps 65:2",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODSampleConversations"
+}

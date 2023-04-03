@@ -1,0 +1,102 @@
+{
+    "guid": "6374fa486fa8308a8bbd6fea",
+    "languageAgnosticNaturalKey": "pub-jwb-100_5_VIDEO",
+    "naturalKey": "pub-jwb-100_E_5_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtAnnMtg",
+    "description": "",
+    "firstPublished": "2023-01-16T14:28:01.851Z",
+    "duration": 360.875,
+    "durationFormattedHHMM": "6:00",
+    "durationFormattedMinSec": "6m 0s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/a4/jwb-100_E_05_r240P.mp4",
+            "checksum": "5cd4fcb94169e7e4bceb67504675e543",
+            "filesize": 11527629,
+            "modifiedDatetime": "2023-01-16T05:05:13.000Z",
+            "bitRate": 249.55899289920333,
+            "duration": 360.875,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/61/jwb-100_E_05.vtt",
+                "modifiedDatetime": "2023-01-16T05:04:57.000Z",
+                "checksum": "88ccd225dbcc6e9fd757fea3363e6e47"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/c4/jwb-100_E_05_r360P.mp4",
+            "checksum": "15adf8f57e36317173ed61ee28b4e724",
+            "filesize": 20288641,
+            "modifiedDatetime": "2023-01-16T05:05:10.000Z",
+            "bitRate": 439.2241297194319,
+            "duration": 360.875,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/61/jwb-100_E_05.vtt",
+                "modifiedDatetime": "2023-01-16T05:04:57.000Z",
+                "checksum": "88ccd225dbcc6e9fd757fea3363e6e47"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/e9/jwb-100_E_05_r480P.mp4",
+            "checksum": "94bcb85a6f903434ddcc4d17db548f5d",
+            "filesize": 39418484,
+            "modifiedDatetime": "2023-01-16T05:05:07.000Z",
+            "bitRate": 853.3617076550051,
+            "duration": 360.875,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/61/jwb-100_E_05.vtt",
+                "modifiedDatetime": "2023-01-16T05:04:57.000Z",
+                "checksum": "88ccd225dbcc6e9fd757fea3363e6e47"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/6c/jwb-100_E_05_r720P.mp4",
+            "checksum": "db5a91b659cf29206968a346348ec8cc",
+            "filesize": 66416492,
+            "modifiedDatetime": "2023-01-16T05:05:00.000Z",
+            "bitRate": 1437.83538275026,
+            "duration": 360.875,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/61/jwb-100_E_05.vtt",
+                "modifiedDatetime": "2023-01-16T05:04:57.000Z",
+                "checksum": "88ccd225dbcc6e9fd757fea3363e6e47"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-100-5.v",
+        "jwb-100-5"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/61/jwb-100_E_05.vtt",
+    "Name": "pub-jwb-100_E_5_VIDEO",
+    "Title": "The Relief Ministry in Ukraine—Love Conquers Adversity",
+    "UndatedReferenceTitle": "The Relief Ministry in Ukraine—Love Conquers Adversity",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODPgmEvtAnnMtg"
+}

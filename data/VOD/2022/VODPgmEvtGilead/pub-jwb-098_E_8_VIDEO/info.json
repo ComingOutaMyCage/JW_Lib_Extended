@@ -1,0 +1,102 @@
+{
+    "guid": "636ac5696fa8308a8ba8293b",
+    "languageAgnosticNaturalKey": "pub-jwb-098_8_VIDEO",
+    "naturalKey": "pub-jwb-098_E_8_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtGilead",
+    "description": "",
+    "firstPublished": "2022-12-06T15:19:01.118Z",
+    "duration": 655.04,
+    "durationFormattedHHMM": "10:55",
+    "durationFormattedMinSec": "10m 55s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/d1/jwb-098_E_08_r240P.mp4",
+            "checksum": "f98eadbb615a6b0108b5019de37d81ef",
+            "filesize": 15123111,
+            "modifiedDatetime": "2022-12-06T05:47:08.000Z",
+            "bitRate": 180.3696029059294,
+            "duration": 655.04,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/1f/jwb-098_E_08.vtt",
+                "modifiedDatetime": "2022-12-06T05:46:50.000Z",
+                "checksum": "4147df9eacc144f8408dddfd6f0ab512"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/46/jwb-098_E_08_r360P.mp4",
+            "checksum": "e15e1e6e10e1bd6044335fc73eed2a78",
+            "filesize": 25255620,
+            "modifiedDatetime": "2022-12-06T05:47:02.000Z",
+            "bitRate": 301.2175306088178,
+            "duration": 655.04,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/1f/jwb-098_E_08.vtt",
+                "modifiedDatetime": "2022-12-06T05:46:50.000Z",
+                "checksum": "4147df9eacc144f8408dddfd6f0ab512"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/cd/jwb-098_E_08_r480P.mp4",
+            "checksum": "25adee94e00672b5ead073e02a7a3766",
+            "filesize": 46390167,
+            "modifiedDatetime": "2022-12-06T05:46:59.000Z",
+            "bitRate": 553.2840432454507,
+            "duration": 655.04,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/1f/jwb-098_E_08.vtt",
+                "modifiedDatetime": "2022-12-06T05:46:50.000Z",
+                "checksum": "4147df9eacc144f8408dddfd6f0ab512"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/83/jwb-098_E_08_r720P.mp4",
+            "checksum": "d3050e95e6645f863c5195547e68337c",
+            "filesize": 79214998,
+            "modifiedDatetime": "2022-12-06T05:46:52.000Z",
+            "bitRate": 944.7776805614925,
+            "duration": 655.04,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/1f/jwb-098_E_08.vtt",
+                "modifiedDatetime": "2022-12-06T05:46:50.000Z",
+                "checksum": "4147df9eacc144f8408dddfd6f0ab512"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-098-8.v",
+        "jwb-098-8"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/1f/jwb-098_E_08.vtt",
+    "Name": "pub-jwb-098_E_8_VIDEO",
+    "Title": "Trent Lippold: Distinguished—By What?",
+    "UndatedReferenceTitle": "Trent Lippold: Distinguished—By What?",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2022,
+    "Symbol": "VODPgmEvtGilead"
+}

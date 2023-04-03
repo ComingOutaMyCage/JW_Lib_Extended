@@ -1,0 +1,102 @@
+{
+    "guid": "556bdf0e79892656f9a365e2",
+    "languageAgnosticNaturalKey": "pub-jwbrd_201505_5_VIDEO",
+    "naturalKey": "pub-jwbrd_E_201505_5_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODMinistryMethods",
+    "description": "",
+    "firstPublished": "2015-06-01T15:55:26.946Z",
+    "duration": 280.192,
+    "durationFormattedHHMM": "4:40",
+    "durationFormattedMinSec": "4m 40s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/08/jwbrd_E_201505_05_r240P.mp4",
+            "checksum": "de251d311932493368711d65f753713a",
+            "filesize": 12649281,
+            "modifiedDatetime": "2023-01-25T20:58:06.000Z",
+            "bitRate": 352.6956794358868,
+            "duration": 280.192,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/17/jwbrd_E_201505_05.vtt",
+                "modifiedDatetime": "2023-01-25T20:57:58.000Z",
+                "checksum": "251bf8666abf3d3bbbd873aa6d82ed2b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/7d/jwbrd_E_201505_05_r360P.mp4",
+            "checksum": "9e296aa7000eee65e8dd4821df311320",
+            "filesize": 20476875,
+            "modifiedDatetime": "2023-01-25T20:58:10.000Z",
+            "bitRate": 570.9498698660204,
+            "duration": 280.192,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/17/jwbrd_E_201505_05.vtt",
+                "modifiedDatetime": "2023-01-25T20:57:58.000Z",
+                "checksum": "251bf8666abf3d3bbbd873aa6d82ed2b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/6f/jwbrd_E_201505_05_r480P.mp4",
+            "checksum": "2c1535f92cc726e45f05e968d89f0819",
+            "filesize": 37567590,
+            "modifiedDatetime": "2023-01-25T20:58:15.000Z",
+            "bitRate": 1047.4845708478472,
+            "duration": 280.192,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/17/jwbrd_E_201505_05.vtt",
+                "modifiedDatetime": "2023-01-25T20:57:58.000Z",
+                "checksum": "251bf8666abf3d3bbbd873aa6d82ed2b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/c3/jwbrd_E_201505_05_r720P.mp4",
+            "checksum": "c9d7c2ee265b10ab3e1842270972d5b3",
+            "filesize": 63132474,
+            "modifiedDatetime": "2023-01-25T20:58:23.000Z",
+            "bitRate": 1760.3016971398183,
+            "duration": 280.192,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/17/jwbrd_E_201505_05.vtt",
+                "modifiedDatetime": "2023-01-25T20:57:58.000Z",
+                "checksum": "251bf8666abf3d3bbbd873aa6d82ed2b"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwbrd.201505-5.v",
+        "jwbrd.201505-5"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/17/jwbrd_E_201505_05.vtt",
+    "Name": "pub-jwbrd_E_201505_5_VIDEO",
+    "Title": "Reaching Many at a Book Fair",
+    "UndatedReferenceTitle": "Reaching Many at a Book Fair",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2015,
+    "Symbol": "VODMinistryMethods"
+}

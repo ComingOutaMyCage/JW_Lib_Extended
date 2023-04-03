@@ -22,6 +22,7 @@ module.exports = function(grunt) {
                     'js/jquery.finder.js',
                     'js/bible.js',
                     'js/ImageGallery.js',
+                    'js/CoverGallery.js',
                     'js/functions.js',
                     'js/search.js',
                 ],
