@@ -1,23 +1,97 @@
 {
-    "guid": "5f52abab20de59c21cd87e42",
+    "guid": "5f22e99a12b86d2c3b07caa1",
     "languageAgnosticNaturalKey": "pub-jwb_202009_1_VIDEO",
     "naturalKey": "pub-jwb_E_202009_1_VIDEO",
     "type": "video",
     "primaryCategory": "StudioMonthlyPrograms",
     "description": "",
-    "firstPublished": "2020-09-05T12:17:19.710Z",
-    "duration": 3610.39,
-    "durationFormattedHHMM": "1:00:10",
-    "durationFormattedMinSec": "1h 0m 10s",
+    "firstPublished": "2020-09-07T15:52:35.624Z",
+    "duration": 3193.579,
+    "durationFormattedHHMM": "53:13",
+    "durationFormattedMinSec": "53m 13s",
     "files": [
         {
-            "progressiveDownloadURL": "https://www.youtube.com/watch?v=U31uua5gZOo"
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/0d/jwb_E_202009_01_r240P.mp4",
+            "checksum": "4c856bfa007c269664355524c03b2686",
+            "filesize": 66186333,
+            "modifiedDatetime": "2022-09-21T18:14:39.000Z",
+            "bitRate": 161.91261483198002,
+            "duration": 3193.579,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f5/jwb_E_202009_01.vtt",
+                "modifiedDatetime": "2022-09-21T18:14:31.000Z",
+                "checksum": "048ab06f9ea1345dbfc2cf07109abdac"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/0b/jwb_E_202009_01_r360P.mp4",
+            "checksum": "5199e4e3ebd724eb60f6634b254459be",
+            "filesize": 197079071,
+            "modifiedDatetime": "2022-09-21T18:14:53.000Z",
+            "bitRate": 482.1174745285775,
+            "duration": 3193.579,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f5/jwb_E_202009_01.vtt",
+                "modifiedDatetime": "2022-09-21T18:14:31.000Z",
+                "checksum": "048ab06f9ea1345dbfc2cf07109abdac"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/2d/jwb_E_202009_01_r480P.mp4",
+            "checksum": "ca7cfb0da3bcb960bd5527c39f97424b",
+            "filesize": 382954570,
+            "modifiedDatetime": "2022-09-21T18:15:17.000Z",
+            "bitRate": 936.8274835615464,
+            "duration": 3193.579,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f5/jwb_E_202009_01.vtt",
+                "modifiedDatetime": "2022-09-21T18:14:31.000Z",
+                "checksum": "048ab06f9ea1345dbfc2cf07109abdac"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/98/jwb_E_202009_01_r720P.mp4",
+            "checksum": "3ba4786456efa841e2b30f8f0bb6d3fb",
+            "filesize": 654667579,
+            "modifiedDatetime": "2022-09-21T18:15:40.000Z",
+            "bitRate": 1601.5230751885267,
+            "duration": 3193.579,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/f5/jwb_E_202009_01.vtt",
+                "modifiedDatetime": "2022-09-21T18:14:31.000Z",
+                "checksum": "048ab06f9ea1345dbfc2cf07109abdac"
+            }
         }
     ],
     "printReferences": [
         "jwb.202009-1.v",
         "jwb.202009-1"
     ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/f5/jwb_E_202009_01.vtt",
     "Name": "pub-jwb_E_202009_1_VIDEO",
     "Title": "JW Broadcasting—September 2020",
     "UndatedReferenceTitle": "JW Broadcasting—September 2020",

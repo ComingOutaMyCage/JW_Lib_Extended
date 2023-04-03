@@ -30,44 +30,6 @@
             }
         },
         {
-            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/39/jwbcov_s-Sub_E_201505_10_r240P.mp4",
-            "checksum": "fc3470fef3bd3af28b1c112a2b624a22",
-            "filesize": 70510823,
-            "modifiedDatetime": "2020-11-08T02:42:27.000Z",
-            "bitRate": 423.5368054373795,
-            "duration": 1300.6326666666666,
-            "frameHeight": 180,
-            "frameWidth": 320,
-            "label": "240p",
-            "frameRate": 23.976,
-            "mimetype": "video/mp4",
-            "subtitled": true,
-            "subtitles": {
-                "url": "https://download-a.akamaihd.net/files/media_periodical/ba/jwbcov_E_201505_10_r240P.vtt",
-                "modifiedDatetime": "2019-02-08T22:36:59.000Z",
-                "checksum": "8843a8dc6cc752e2868580943c31f3fa"
-            }
-        },
-        {
-            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/63/jwbcov_s-Sub_E_201505_10_r360P.mp4",
-            "checksum": "ec05445454cb6bd5b1dce6403ee7d701",
-            "filesize": 135718992,
-            "modifiedDatetime": "2019-02-08T23:31:00.000Z",
-            "bitRate": 815.2222008366185,
-            "duration": 1300.6326666666666,
-            "frameHeight": 360,
-            "frameWidth": 640,
-            "label": "360p",
-            "frameRate": 44.056,
-            "mimetype": "video/mp4",
-            "subtitled": true,
-            "subtitles": {
-                "url": "https://download-a.akamaihd.net/files/media_periodical/27/jwbcov_E_201505_10_r360P.vtt",
-                "modifiedDatetime": "2019-02-08T23:03:22.000Z",
-                "checksum": "8843a8dc6cc752e2868580943c31f3fa"
-            }
-        },
-        {
             "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/2d/jwbcov_E_201505_10_r360P.mp4",
             "checksum": "0d24e3dcc30d7b044c7d3aa52b60fa70",
             "filesize": 135150294,
@@ -102,44 +64,6 @@
             "subtitles": {
                 "url": "https://download-a.akamaihd.net/files/media_periodical/b6/jwbcov_E_201505_10_r480P.vtt",
                 "modifiedDatetime": "2019-02-08T23:41:52.000Z",
-                "checksum": "8843a8dc6cc752e2868580943c31f3fa"
-            }
-        },
-        {
-            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/c9/jwbcov_s-Sub_E_201505_10_r480P.mp4",
-            "checksum": "acd7bbf21a18ff137c141932c4658e1b",
-            "filesize": 184468206,
-            "modifiedDatetime": "2019-02-09T00:19:44.000Z",
-            "bitRate": 1108.0437208058745,
-            "duration": 1300.6326666666666,
-            "frameHeight": 480,
-            "frameWidth": 854,
-            "label": "480p",
-            "frameRate": 44.056,
-            "mimetype": "video/mp4",
-            "subtitled": true,
-            "subtitles": {
-                "url": "https://download-a.akamaihd.net/files/media_periodical/b6/jwbcov_E_201505_10_r480P.vtt",
-                "modifiedDatetime": "2019-02-08T23:41:52.000Z",
-                "checksum": "8843a8dc6cc752e2868580943c31f3fa"
-            }
-        },
-        {
-            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/e9/jwbcov_s-Sub_E_201505_10_r720P.mp4",
-            "checksum": "ec87ad902aadc095f38bf5fb54c266f2",
-            "filesize": 265054841,
-            "modifiedDatetime": "2019-02-09T01:20:57.000Z",
-            "bitRate": 1592.102826864644,
-            "duration": 1300.6326666666666,
-            "frameHeight": 720,
-            "frameWidth": 1280,
-            "label": "720p",
-            "frameRate": 44.056,
-            "mimetype": "video/mp4",
-            "subtitled": true,
-            "subtitles": {
-                "url": "https://download-a.akamaihd.net/files/media_periodical/2c/jwbcov_E_201505_10_r720P.vtt",
-                "modifiedDatetime": "2019-02-09T00:35:54.000Z",
                 "checksum": "8843a8dc6cc752e2868580943c31f3fa"
             }
         },

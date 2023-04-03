@@ -30,25 +30,6 @@
             }
         },
         {
-            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/09/jwbmw_s-Sub_E_201607_02_r240P.mp4",
-            "checksum": "45ae072bb8c9339ab29041e0d527c72a",
-            "filesize": 25397773,
-            "modifiedDatetime": "2020-11-04T05:23:42.000Z",
-            "bitRate": 346.3536211800664,
-            "duration": 572.883,
-            "frameHeight": 180,
-            "frameWidth": 320,
-            "label": "240p",
-            "frameRate": 29.97,
-            "mimetype": "video/mp4",
-            "subtitled": true,
-            "subtitles": {
-                "url": "https://download-a.akamaihd.net/files/media_periodical/cd/jwbmw_E_201607_02_r240P.vtt",
-                "modifiedDatetime": "2019-02-11T23:31:22.000Z",
-                "checksum": "51cbc069faf72a84977af70822d49661"
-            }
-        },
-        {
             "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/05/jwbmw_E_201607_02_r360P.mp4",
             "checksum": "dfe4c38166a74f7a8baaee6eb7b60650",
             "filesize": 58884449,
@@ -61,25 +42,6 @@
             "frameRate": 2205,
             "mimetype": "video/mp4",
             "subtitled": false,
-            "subtitles": {
-                "url": "https://download-a.akamaihd.net/files/media_periodical/01/jwbmw_E_201607_02_r360P.vtt",
-                "modifiedDatetime": "2019-02-12T00:11:54.000Z",
-                "checksum": "51cbc069faf72a84977af70822d49661"
-            }
-        },
-        {
-            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/8c/jwbmw_s-Sub_E_201607_02_r360P.mp4",
-            "checksum": "ddd2f77a1607d3ed8c52dd37aa391ad0",
-            "filesize": 59289120,
-            "modifiedDatetime": "2019-02-12T00:19:42.000Z",
-            "bitRate": 808.5977105373657,
-            "duration": 572.8389333333333,
-            "frameHeight": 360,
-            "frameWidth": 640,
-            "label": "360p",
-            "frameRate": 44.056,
-            "mimetype": "video/mp4",
-            "subtitled": true,
             "subtitles": {
                 "url": "https://download-a.akamaihd.net/files/media_periodical/01/jwbmw_E_201607_02_r360P.vtt",
                 "modifiedDatetime": "2019-02-12T00:11:54.000Z",
@@ -102,44 +64,6 @@
             "subtitles": {
                 "url": "https://download-a.akamaihd.net/files/media_periodical/a3/jwbmw_E_201607_02_r480P.vtt",
                 "modifiedDatetime": "2019-02-12T01:13:20.000Z",
-                "checksum": "51cbc069faf72a84977af70822d49661"
-            }
-        },
-        {
-            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/a1/jwbmw_s-Sub_E_201607_02_r480P.mp4",
-            "checksum": "eecb06715da278800538dbd7f66749ab",
-            "filesize": 81498945,
-            "modifiedDatetime": "2019-02-12T01:17:27.000Z",
-            "bitRate": 1111.5000583279138,
-            "duration": 572.8389333333333,
-            "frameHeight": 480,
-            "frameWidth": 854,
-            "label": "480p",
-            "frameRate": 44.056,
-            "mimetype": "video/mp4",
-            "subtitled": true,
-            "subtitles": {
-                "url": "https://download-a.akamaihd.net/files/media_periodical/a3/jwbmw_E_201607_02_r480P.vtt",
-                "modifiedDatetime": "2019-02-12T01:13:20.000Z",
-                "checksum": "51cbc069faf72a84977af70822d49661"
-            }
-        },
-        {
-            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/e1/jwbmw_s-Sub_E_201607_02_r720P.mp4",
-            "checksum": "f588bb775f013ed499611ebf49327b83",
-            "filesize": 116541872,
-            "modifiedDatetime": "2019-02-13T01:11:00.000Z",
-            "bitRate": 1589.4229983669638,
-            "duration": 572.8389333333333,
-            "frameHeight": 720,
-            "frameWidth": 1280,
-            "label": "720p",
-            "frameRate": 44.056,
-            "mimetype": "video/mp4",
-            "subtitled": true,
-            "subtitles": {
-                "url": "https://download-a.akamaihd.net/files/media_periodical/41/jwbmw_E_201607_02_r720P.vtt",
-                "modifiedDatetime": "2019-02-13T01:03:58.000Z",
                 "checksum": "51cbc069faf72a84977af70822d49661"
             }
         },

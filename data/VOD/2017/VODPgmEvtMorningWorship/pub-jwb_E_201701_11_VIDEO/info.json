@@ -11,25 +11,6 @@
     "durationFormattedMinSec": "9m 33s",
     "files": [
         {
-            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/d6/jwb_s-Sub_E_201701_11_r240P.mp4",
-            "checksum": "3a14d445c588cd4593bc58c000ec8e59",
-            "filesize": 25157129,
-            "modifiedDatetime": "2020-11-21T13:48:53.000Z",
-            "bitRate": 342.5720087926319,
-            "duration": 573.719,
-            "frameHeight": 180,
-            "frameWidth": 320,
-            "label": "240p",
-            "frameRate": 29.97,
-            "mimetype": "video/mp4",
-            "subtitled": true,
-            "subtitles": {
-                "url": "https://download-a.akamaihd.net/files/media_periodical/c8/jwb_E_201701_11_r240P.vtt",
-                "modifiedDatetime": "2019-03-09T12:48:48.000Z",
-                "checksum": "0e843a45c1657635e6f5c762b3f30e76"
-            }
-        },
-        {
             "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/da/jwb_E_201701_11_r240P.mp4",
             "checksum": "45f91e871bcc5e93a4387ae05af1b9b4",
             "filesize": 9051370,
@@ -68,44 +49,6 @@
             }
         },
         {
-            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/a5/jwb_s-Sub_E_201701_11_r360P.mp4",
-            "checksum": "4b040805e35d665d605b8575912e61fb",
-            "filesize": 59208505,
-            "modifiedDatetime": "2019-02-21T07:25:41.000Z",
-            "bitRate": 806.3240987114439,
-            "duration": 573.6731,
-            "frameHeight": 360,
-            "frameWidth": 640,
-            "label": "360p",
-            "frameRate": 44.056,
-            "mimetype": "video/mp4",
-            "subtitled": true,
-            "subtitles": {
-                "url": "https://download-a.akamaihd.net/files/media_periodical/d5/jwb_E_201701_11_r360P.vtt",
-                "modifiedDatetime": "2019-03-09T12:48:50.000Z",
-                "checksum": "0e843a45c1657635e6f5c762b3f30e76"
-            }
-        },
-        {
-            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/23/jwb_s-Sub_E_201701_11_r480P.mp4",
-            "checksum": "28049671c876ddc3d7dfb06a31f6de73",
-            "filesize": 80821337,
-            "modifiedDatetime": "2019-02-23T09:24:52.000Z",
-            "bitRate": 1100.6559228809926,
-            "duration": 573.6731,
-            "frameHeight": 480,
-            "frameWidth": 854,
-            "label": "480p",
-            "frameRate": 44.056,
-            "mimetype": "video/mp4",
-            "subtitled": true,
-            "subtitles": {
-                "url": "https://download-a.akamaihd.net/files/media_periodical/f7/jwb_E_201701_11_r480P.vtt",
-                "modifiedDatetime": "2019-03-09T12:48:54.000Z",
-                "checksum": "0e843a45c1657635e6f5c762b3f30e76"
-            }
-        },
-        {
             "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/c2/jwb_E_201701_11_r480P.mp4",
             "checksum": "9b2e9673aa1167de010e780547df17c4",
             "filesize": 32182716,
@@ -137,25 +80,6 @@
             "frameRate": 29.97,
             "mimetype": "video/mp4",
             "subtitled": false,
-            "subtitles": {
-                "url": "https://download-a.akamaihd.net/files/media_periodical/1a/jwb_E_201701_11_r720P.vtt",
-                "modifiedDatetime": "2019-03-09T12:48:39.000Z",
-                "checksum": "0e843a45c1657635e6f5c762b3f30e76"
-            }
-        },
-        {
-            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/cc/jwb_s-Sub_E_201701_11_r720P.mp4",
-            "checksum": "e59467e3e4ec4a3483b34d90839f7562",
-            "filesize": 116668774,
-            "modifiedDatetime": "2019-02-23T09:25:05.000Z",
-            "bitRate": 1588.8400499779405,
-            "duration": 573.6731,
-            "frameHeight": 720,
-            "frameWidth": 1280,
-            "label": "720p",
-            "frameRate": 44.056,
-            "mimetype": "video/mp4",
-            "subtitled": true,
             "subtitles": {
                 "url": "https://download-a.akamaihd.net/files/media_periodical/1a/jwb_E_201701_11_r720P.vtt",
                 "modifiedDatetime": "2019-03-09T12:48:39.000Z",

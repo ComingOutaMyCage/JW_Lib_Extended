@@ -30,44 +30,6 @@
             }
         },
         {
-            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/6e/jwbrd_s-Sub_E_201611_01_r240P.mp4",
-            "checksum": "25693ad7aaa39f7c22ed9bcf1c311e2c",
-            "filesize": 12235524,
-            "modifiedDatetime": "2020-11-08T09:13:52.000Z",
-            "bitRate": 354.33899710864813,
-            "duration": 269.77,
-            "frameHeight": 180,
-            "frameWidth": 320,
-            "label": "240p",
-            "frameRate": 23.976,
-            "mimetype": "video/mp4",
-            "subtitled": true,
-            "subtitles": {
-                "url": "https://download-a.akamaihd.net/files/media_periodical/93/jwbrd_E_201611_01_r240P.vtt",
-                "modifiedDatetime": "2019-02-10T06:57:04.000Z",
-                "checksum": "9a33a0f519314f58d9a770b9bc4f589b"
-            }
-        },
-        {
-            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/12/jwbrd_s-Sub_E_201611_01_r360P.mp4",
-            "checksum": "0fe2a21e2b55eaeaa42f153c86745af7",
-            "filesize": 28087878,
-            "modifiedDatetime": "2019-02-10T09:48:53.000Z",
-            "bitRate": 813.5481535628435,
-            "duration": 269.7277916666667,
-            "frameHeight": 360,
-            "frameWidth": 640,
-            "label": "360p",
-            "frameRate": 44.056,
-            "mimetype": "video/mp4",
-            "subtitled": true,
-            "subtitles": {
-                "url": "https://download-a.akamaihd.net/files/media_periodical/de/jwbrd_E_201611_01_r360P.vtt",
-                "modifiedDatetime": "2019-02-10T09:44:41.000Z",
-                "checksum": "9a33a0f519314f58d9a770b9bc4f589b"
-            }
-        },
-        {
             "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/b9/jwbrd_E_201611_01_r360P.mp4",
             "checksum": "c220829c9029479ea0319273c2b5137f",
             "filesize": 28079187,
@@ -102,44 +64,6 @@
             "subtitles": {
                 "url": "https://download-a.akamaihd.net/files/media_periodical/bf/jwbrd_E_201611_01_r480P.vtt",
                 "modifiedDatetime": "2019-02-10T14:10:28.000Z",
-                "checksum": "9a33a0f519314f58d9a770b9bc4f589b"
-            }
-        },
-        {
-            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/62/jwbrd_s-Sub_E_201611_01_r480P.mp4",
-            "checksum": "8ed5f26e7d721eff70d1588d45152228",
-            "filesize": 38270078,
-            "modifiedDatetime": "2019-02-10T14:15:40.000Z",
-            "bitRate": 1108.4693294953074,
-            "duration": 269.7277916666667,
-            "frameHeight": 480,
-            "frameWidth": 854,
-            "label": "480p",
-            "frameRate": 44.056,
-            "mimetype": "video/mp4",
-            "subtitled": true,
-            "subtitles": {
-                "url": "https://download-a.akamaihd.net/files/media_periodical/bf/jwbrd_E_201611_01_r480P.vtt",
-                "modifiedDatetime": "2019-02-10T14:10:28.000Z",
-                "checksum": "9a33a0f519314f58d9a770b9bc4f589b"
-            }
-        },
-        {
-            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/e1/jwbrd_s-Sub_E_201611_01_r720P.mp4",
-            "checksum": "c2f69a1978507203a08f33e3ba06d4fc",
-            "filesize": 55251650,
-            "modifiedDatetime": "2019-02-13T02:35:08.000Z",
-            "bitRate": 1600.3301438008411,
-            "duration": 269.7277916666667,
-            "frameHeight": 720,
-            "frameWidth": 1280,
-            "label": "720p",
-            "frameRate": 44.056,
-            "mimetype": "video/mp4",
-            "subtitled": true,
-            "subtitles": {
-                "url": "https://download-a.akamaihd.net/files/media_periodical/5f/jwbrd_E_201611_01_r720P.vtt",
-                "modifiedDatetime": "2019-02-13T02:29:26.000Z",
                 "checksum": "9a33a0f519314f58d9a770b9bc4f589b"
             }
         },

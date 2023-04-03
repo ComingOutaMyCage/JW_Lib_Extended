@@ -30,44 +30,6 @@
             }
         },
         {
-            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/22/jwb_s-Sub_E_201704_05_r240P.mp4",
-            "checksum": "610fc6139cb9e3b38d1c6aff757c8c12",
-            "filesize": 20014772,
-            "modifiedDatetime": "2020-11-05T00:34:31.000Z",
-            "bitRate": 348.8438227151141,
-            "duration": 448.239,
-            "frameHeight": 180,
-            "frameWidth": 320,
-            "label": "240p",
-            "frameRate": 29.97,
-            "mimetype": "video/mp4",
-            "subtitled": true,
-            "subtitles": {
-                "url": "https://download-a.akamaihd.net/files/media_periodical/46/jwb_E_201704_05_r240P.vtt",
-                "modifiedDatetime": "2019-02-17T21:14:57.000Z",
-                "checksum": "21a1425c41fc24414ca81e0ee97f7ebe"
-            }
-        },
-        {
-            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/38/jwb_s-Sub_E_201704_05_r360P.mp4",
-            "checksum": "5b5f67bac9c4cc499b66d00b67d6e25f",
-            "filesize": 46740981,
-            "modifiedDatetime": "2019-02-17T21:53:32.000Z",
-            "bitRate": 814.7080658398402,
-            "duration": 448.2144333333333,
-            "frameHeight": 360,
-            "frameWidth": 640,
-            "label": "360p",
-            "frameRate": 44.056,
-            "mimetype": "video/mp4",
-            "subtitled": true,
-            "subtitles": {
-                "url": "https://download-a.akamaihd.net/files/media_periodical/8d/jwb_E_201704_05_r360P.vtt",
-                "modifiedDatetime": "2019-02-17T21:15:10.000Z",
-                "checksum": "21a1425c41fc24414ca81e0ee97f7ebe"
-            }
-        },
-        {
             "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/48/jwb_E_201704_05_r360P.mp4",
             "checksum": "f14da045df08a0c7a273f508ef1f78ba",
             "filesize": 46718503,
@@ -102,44 +64,6 @@
             "subtitles": {
                 "url": "https://download-a.akamaihd.net/files/media_periodical/90/jwb_E_201704_05_r480P.vtt",
                 "modifiedDatetime": "2019-02-17T21:15:16.000Z",
-                "checksum": "21a1425c41fc24414ca81e0ee97f7ebe"
-            }
-        },
-        {
-            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/73/jwb_s-Sub_E_201704_05_r480P.mp4",
-            "checksum": "fc9a538e159c9ea2290b29680fb6c588",
-            "filesize": 64208605,
-            "modifiedDatetime": "2019-02-17T21:53:41.000Z",
-            "bitRate": 1119.1735233332886,
-            "duration": 448.2144333333333,
-            "frameHeight": 480,
-            "frameWidth": 854,
-            "label": "480p",
-            "frameRate": 44.056,
-            "mimetype": "video/mp4",
-            "subtitled": true,
-            "subtitles": {
-                "url": "https://download-a.akamaihd.net/files/media_periodical/90/jwb_E_201704_05_r480P.vtt",
-                "modifiedDatetime": "2019-02-17T21:15:16.000Z",
-                "checksum": "21a1425c41fc24414ca81e0ee97f7ebe"
-            }
-        },
-        {
-            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/c8/jwb_s-Sub_E_201704_05_r720P.mp4",
-            "checksum": "663fef4ed20bbc7e17309efecff61515",
-            "filesize": 91664540,
-            "modifiedDatetime": "2019-02-17T21:53:50.000Z",
-            "bitRate": 1597.737969802103,
-            "duration": 448.2144333333333,
-            "frameHeight": 720,
-            "frameWidth": 1280,
-            "label": "720p",
-            "frameRate": 44.056,
-            "mimetype": "video/mp4",
-            "subtitled": true,
-            "subtitles": {
-                "url": "https://download-a.akamaihd.net/files/media_periodical/33/jwb_E_201704_05_r720P.vtt",
-                "modifiedDatetime": "2019-02-17T21:15:21.000Z",
                 "checksum": "21a1425c41fc24414ca81e0ee97f7ebe"
             }
         },

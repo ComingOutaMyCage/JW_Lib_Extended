@@ -11,25 +11,6 @@
     "durationFormattedMinSec": "3m 55s",
     "files": [
         {
-            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/eb/osg_s-Sub_E_041_r240P.mp4",
-            "checksum": "d9c40fa3f78c97331f1fe4da384212d0",
-            "filesize": 10669372,
-            "modifiedDatetime": "2020-12-18T00:58:32.000Z",
-            "bitRate": 353.7770358596512,
-            "duration": 235.613,
-            "frameHeight": 180,
-            "frameWidth": 320,
-            "label": "240p",
-            "frameRate": 23.976,
-            "mimetype": "video/mp4",
-            "subtitled": true,
-            "subtitles": {
-                "url": "https://download-a.akamaihd.net/files/media_publication/ba/osg_E_041_r240P.vtt",
-                "modifiedDatetime": "2019-01-13T05:21:21.000Z",
-                "checksum": "3675ba2077885f1ab0d5330c541b9bd2"
-            }
-        },
-        {
             "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/75/osg_E_041_r240P.mp4",
             "checksum": "efa299fe8ccb8cffcb9cf8a40261d745",
             "filesize": 10507591,
@@ -45,25 +26,6 @@
             "subtitles": {
                 "url": "https://download-a.akamaihd.net/files/media_publication/ba/osg_E_041_r240P.vtt",
                 "modifiedDatetime": "2019-01-13T05:21:21.000Z",
-                "checksum": "3675ba2077885f1ab0d5330c541b9bd2"
-            }
-        },
-        {
-            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/30/osg_s-Sub_E_041_r360P.mp4",
-            "checksum": "4ff1fd4b29a7a606187f91264a2c272d",
-            "filesize": 24934671,
-            "modifiedDatetime": "2019-01-13T05:21:54.000Z",
-            "bitRate": 826.94409211538,
-            "duration": 235.56866666667,
-            "frameHeight": 360,
-            "frameWidth": 640,
-            "label": "360p",
-            "frameRate": 44.056,
-            "mimetype": "video/mp4",
-            "subtitled": true,
-            "subtitles": {
-                "url": "https://download-a.akamaihd.net/files/media_publication/29/osg_E_041_r360P.vtt",
-                "modifiedDatetime": "2019-01-13T05:21:28.000Z",
                 "checksum": "3675ba2077885f1ab0d5330c541b9bd2"
             }
         },
@@ -87,25 +49,6 @@
             }
         },
         {
-            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/75/osg_s-Sub_E_041_r480P.mp4",
-            "checksum": "a1242b7d03008301807ded598eaad833",
-            "filesize": 33891183,
-            "modifiedDatetime": "2019-01-13T05:21:59.000Z",
-            "bitRate": 1123.9816862492871,
-            "duration": 235.56866666667,
-            "frameHeight": 480,
-            "frameWidth": 854,
-            "label": "480p",
-            "frameRate": 44.056,
-            "mimetype": "video/mp4",
-            "subtitled": true,
-            "subtitles": {
-                "url": "https://download-a.akamaihd.net/files/media_publication/4b/osg_E_041_r480P.vtt",
-                "modifiedDatetime": "2019-01-13T05:21:35.000Z",
-                "checksum": "3675ba2077885f1ab0d5330c541b9bd2"
-            }
-        },
-        {
             "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/06/osg_E_041_r480P.mp4",
             "checksum": "2c5de5b2ec83b1f1d0f7c58447433b06",
             "filesize": 33954271,
@@ -121,25 +64,6 @@
             "subtitles": {
                 "url": "https://download-a.akamaihd.net/files/media_publication/4b/osg_E_041_r480P.vtt",
                 "modifiedDatetime": "2019-01-13T05:21:35.000Z",
-                "checksum": "3675ba2077885f1ab0d5330c541b9bd2"
-            }
-        },
-        {
-            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/e6/osg_s-Sub_E_041_r720P.mp4",
-            "checksum": "6e12f7a5e939dd61ca9ed87ca7b14f36",
-            "filesize": 48711101,
-            "modifiedDatetime": "2019-01-13T05:22:08.000Z",
-            "bitRate": 1615.4757843961759,
-            "duration": 235.56866666667,
-            "frameHeight": 720,
-            "frameWidth": 1280,
-            "label": "720p",
-            "frameRate": 44.056,
-            "mimetype": "video/mp4",
-            "subtitled": true,
-            "subtitles": {
-                "url": "https://download-a.akamaihd.net/files/media_publication/a7/osg_E_041_r720P.vtt",
-                "modifiedDatetime": "2019-01-13T05:21:46.000Z",
                 "checksum": "3675ba2077885f1ab0d5330c541b9bd2"
             }
         },
