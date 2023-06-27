@@ -176,6 +176,31 @@ function getIssueName(info, fullMonth = true){
     return info.Issue || '';
 }
 function getThumbnailForInfoId(infoId, info){
+    if(info.Category === 'vod'){
+        let tag = info.Name;
+        let docid = tag.match(/docid-(\d+)/);
+        if (docid) {
+            tag = docid[1];
+            return `https://assetsnffrgf-a.akamaihd.net/assets/m/${tag}/univ/art/${tag}_univ_sqr_lg.jpg`;
+        }
+        let pubTypeID = info.Name.match(/pub-(\w+)_E_(\d+)_(\d+)/);
+        if(pubTypeID){
+            let pubType = pubTypeID[1];
+            let date = pubTypeID[2];
+            let issue = pubTypeID[3];
+            //https://assetsnffrgf-a.akamaihd.net/assets/m/jwb/univ/202011/art/jwb_univ_202011_lss_02_lg.jpg
+            issue = String(issue).padStart(2, '0');
+            return `https://assetsnffrgf-a.akamaihd.net/assets/m/${pubType}/univ/${date}/art/${pubType}_univ_${date}_sqr_${issue}_lg.jpg`;
+        }
+        let jwb = info.Name.match(/pub-(jwb-\d+)_E_(\d+)/);
+        if(jwb){
+            let pubType = jwb[1];
+            let issue = jwb[2];
+            //https://assetsnffrgf-a.akamaihd.net/assets/m/jwb-094/univ/art/jwb-094_univ_lss_02_lg.jpg
+            issue = String(issue).padStart(2, '0');
+            return `https://assetsnffrgf-a.akamaihd.net/assets/m/${pubType}/univ/art/${pubType}_univ_sqr_${issue}_lg.jpg`;
+        }
+    }
     if(!info.thb) return;
     let stores = Object.values(getFilesForInfoId(infoId));
     if(!stores.length) return null;
@@ -703,6 +728,7 @@ async function ShowFile(docPath, replaceState= false){
         });
         //contents = contents.replaceAll('<img ', 'bookmark=" ');
 
+        console.log("showFile", info);
         if(info.Category === 'vod') {
             contents = highlightTimestamps(contents);
             if(info.files && info.files.length > 0) {
@@ -729,17 +755,20 @@ async function ShowFile(docPath, replaceState= false){
             contents = contents.replace(Bible.contentRegex, "<a href='BIBLE://NWTR/' class='lookupScripture'>$1</a>")
         }
 
+        if(!store && index && index.store) store = getStoreForFile(docPath);
+        else document.addEventListener("PackedDataReady", FileOnceStoreLoaded);
+
         let classes = GetClassesForContent(contents);
         elements.push($(`<input name="file" type='hidden' value='' />`).val(docPath));
-        elements.push(AddDisclaimer(info));
+        elements.push(AddDisclaimer(info, store));
         elements.push(`<div class="document ${classes}">${contents}</div>`);
 
         $('#loading-state').html('');
         $('#contents').html('').append(elements);
         $('#contents').find('style').remove();
 
-        if(!store && index && index.store) store = getStoreForFile(docPath);
-        else document.addEventListener("PackedDataReady", FileOnceStoreLoaded);
+        // if(!store && index && index.store) store = getStoreForFile(docPath);
+        // else document.addEventListener("PackedDataReady", FileOnceStoreLoaded);
         showRelatedFiles(store);
 
         showingFileFor = null;
@@ -773,17 +802,31 @@ function AfterShowFile(){
     }
 }
 
-function AddDisclaimer(info){
+function AddDisclaimer(info, store = null){
+    let thumbnail = '';
+    if(store) {
+        thumbnail = getThumbnailForInfoId(store.iid, info) || '';
+        if (thumbnail)
+            thumbnail = `<img style="float:left; height: 7rem; padding-right: 1rem" alt="thumbnail" src="${thumbnail}"/>`;
+    }
+    //console.log("AddDisclaimer", thumbnail);
     let orgName = info.Year > 1932 ? "Watch Tower Bible and Tract Society of Pennsylvania" : (info.Year + " International Bible Students Association");
-    let disclaimer = $(`<div id='docDisclaimer' data-nosnippet>The content displayed below is for educational and archival purposes only.<br/>Unless stated otherwise, content is © ${orgName}</div>`);
-    if(info.Year > 1970 || (info.Year > 1950 && info.Category === 'w')){
+    let disclaimer = $(`<div id='docDisclaimer' style="min-height: 8.4rem;" data-nosnippet>${thumbnail}</div>`);
+
+    if (info.Category !== 'vod') {
+        let pdfName = info.Name;
+        if (!pdfName.includes(info.Year)) pdfName = info.Year + "_" + pdfName;
+        disclaimer.append(`<a target="_blank" class="btn btn-dark" href="https://wt-archive.netlify.app/show?pubId=${encodeURIComponent(pdfName)}"><img alt="pdf" src="images/icons/pdf.png" height="24"> View PDF</a><br/>`);
+    }
+
+    disclaimer.append(`The content displayed below is for educational and archival purposes only.<br/>Unless stated otherwise, content is © ${orgName}<br/>`);
+    if(info.Year > 1970 || (info.Year > 1950 && info.Category === 'w')) {
         let link = `https://wol.jw.org/en/wol/publication/r1/lp-e/${info.Symbol}`;
-        if(info.Month === undefined) getDateForInfo(info);
-        if(info.Category === 'w') link = `https://wol.jw.org/en/wol/library/r1/lp-e/all-publications/watchtower/the-watchtower-${info.Year}/${monthNamesFull[info.Month - 1].toLowerCase()}` + (info.Day ? '-'+ info.Day : '');
-        else if(info.Category === 'g') link = `https://wol.jw.org/en/wol/library/r1/lp-e/all-publications/awake/awake-${info.Year}/${monthNamesFull[info.Month - 1].toLowerCase()}` + (info.Day ? '-'+ info.Day : '');
+        if (info.Month === undefined) getDateForInfo(info);
+        if (info.Category === 'w') link = `https://wol.jw.org/en/wol/library/r1/lp-e/all-publications/watchtower/the-watchtower-${info.Year}/${monthNamesFull[info.Month - 1].toLowerCase()}` + (info.Day ? '-' + info.Day : '');
+        else if (info.Category === 'g') link = `https://wol.jw.org/en/wol/library/r1/lp-e/all-publications/awake/awake-${info.Year}/${monthNamesFull[info.Month - 1].toLowerCase()}` + (info.Day ? '-' + info.Day : '');
+        else if (info.Category === 'vod') link = `https://www.jw.org/finder?srcid=share&wtlocale=E&lank=${info.Name.replace('_E_', '_')}`;
         disclaimer.append(`<br/><a target="_blank" rel="noreferrer" href="http://hidereferrer.net/?${link}">You may be able to find the original on wol.jw.org</a>`);
-    }else {
-        disclaimer.append(`<br/><a target="_blank" rel="noreferrer" href="https://archive.org/search.php?query=${encodeURIComponent(info.Title + " " + info.Year)}"><img alt="pdf" src="images/icons/pdf.png" height="24"> Content is too old for wol.jw.org, original copies may be found on Archive.org</a>`);
     }
     if(location.protocol === "http:"){
         let path = encodeURIComponent("C:\\MyDev\\www\\JW_Lib_Extended\\" + getPath(getPageState('file')));
@@ -924,7 +967,8 @@ async function ShowPublications(category, title, symbol, pubId) {
         for (const [infoId, info] of infos) {
             let issue = getIssueName(info);
             if(!issue)issue = info.Title;
-            list.push(buildDirectoryItem(`?list=publications&pubId=${info.Name}&year=${info.Year}`, null, `.icon-${info.Category}`, issue, null, null, true));
+            let thumbnail = getThumbnailForInfoId(infoId, info);
+            list.push(buildDirectoryItem(`?list=publications&pubId=${info.Name}&year=${info.Year}`, null, thumbnail ?? `.icon-${info.Category}`, issue, null, null, true));
         }
     }
     else if(title) {
@@ -1171,6 +1215,9 @@ async function showRelatedFiles(store) {
 
     relatedDocs.attr('infoId', store.iid);
     highlightRelatedFile();
+
+    let disclaimer = $('#docDisclaimer');
+    if(disclaimer.length) disclaimer.replaceWith($(AddDisclaimer(info, store)));
 }
 async function AddChapters(){
     let ul = $("#relatedDocuments ul");
