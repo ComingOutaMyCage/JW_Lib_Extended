@@ -1,0 +1,102 @@
+{
+    "guid": "63bc388604eee9688683c1f0",
+    "languageAgnosticNaturalKey": "pub-osg_87_VIDEO",
+    "naturalKey": "pub-osg_E_87_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODOriginalSongs",
+    "description": "",
+    "firstPublished": "2023-08-21T18:28:59.362Z",
+    "duration": 246.934,
+    "durationFormattedHHMM": "4:06",
+    "durationFormattedMinSec": "4m 6s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/83/osg_E_087_r240P.mp4",
+            "checksum": "695d477bbb77d1661b34bc654037e7fb",
+            "filesize": 7586773,
+            "modifiedDatetime": "2023-08-21T18:15:11.000Z",
+            "bitRate": 240.03038893995966,
+            "duration": 246.934,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/8e/osg_E_087.vtt",
+                "modifiedDatetime": "2023-08-21T18:14:57.000Z",
+                "checksum": "185477a7cd240180f4658a6387168cd9"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/85/osg_E_087_r360P.mp4",
+            "checksum": "2f304ca2cb49bfd6643dc4046c9d3dd3",
+            "filesize": 11326025,
+            "modifiedDatetime": "2023-08-21T18:15:07.000Z",
+            "bitRate": 358.33287563680983,
+            "duration": 246.934,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/8e/osg_E_087.vtt",
+                "modifiedDatetime": "2023-08-21T18:14:57.000Z",
+                "checksum": "185477a7cd240180f4658a6387168cd9"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/1f/osg_E_087_r480P.mp4",
+            "checksum": "804423fb002a4201b37cab16245b774c",
+            "filesize": 20255237,
+            "modifiedDatetime": "2023-08-21T18:15:05.000Z",
+            "bitRate": 640.8353611187605,
+            "duration": 246.934,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/8e/osg_E_087.vtt",
+                "modifiedDatetime": "2023-08-21T18:14:57.000Z",
+                "checksum": "185477a7cd240180f4658a6387168cd9"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/bb/osg_E_087_r720P.mp4",
+            "checksum": "70fbc9ef4520f4e0004f0f729208f834",
+            "filesize": 31823788,
+            "modifiedDatetime": "2023-08-21T18:15:02.000Z",
+            "bitRate": 1006.8412764139406,
+            "duration": 246.934,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/8e/osg_E_087.vtt",
+                "modifiedDatetime": "2023-08-21T18:14:57.000Z",
+                "checksum": "185477a7cd240180f4658a6387168cd9"
+            }
+        }
+    ],
+    "printReferences": [
+        "osg-87.v",
+        "osg-87"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/8e/osg_E_087.vtt",
+    "Name": "pub-osg_E_87_VIDEO",
+    "Title": "“Two Small Coins”",
+    "UndatedReferenceTitle": "“Two Small Coins”",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODOriginalSongs"
+}

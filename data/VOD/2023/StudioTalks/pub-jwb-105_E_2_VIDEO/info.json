@@ -1,0 +1,102 @@
+{
+    "guid": "646fc34c6e905ddbf1788840",
+    "languageAgnosticNaturalKey": "pub-jwb-105_2_VIDEO",
+    "naturalKey": "pub-jwb-105_E_2_VIDEO",
+    "type": "video",
+    "primaryCategory": "StudioTalks",
+    "description": "",
+    "firstPublished": "2023-07-17T12:50:00.737Z",
+    "duration": 823.915,
+    "durationFormattedHHMM": "13:43",
+    "durationFormattedMinSec": "13m 43s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/2c/jwb-105_E_02_r240P.mp4",
+            "checksum": "ff386a34eb8bf56c513c44af0a5d8a9c",
+            "filesize": 20149661,
+            "modifiedDatetime": "2023-07-17T04:07:51.000Z",
+            "bitRate": 191.06245979560998,
+            "duration": 823.915,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/43/jwb-105_E_02.vtt",
+                "modifiedDatetime": "2023-07-17T04:07:42.000Z",
+                "checksum": "489ca08e1fc722e466cf8fcdbad4660a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/1a/jwb-105_E_02_r360P.mp4",
+            "checksum": "d17856202bc38913785dd58864be2136",
+            "filesize": 32228789,
+            "modifiedDatetime": "2023-07-17T04:07:49.000Z",
+            "bitRate": 305.59877422124856,
+            "duration": 823.915,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/43/jwb-105_E_02.vtt",
+                "modifiedDatetime": "2023-07-17T04:07:42.000Z",
+                "checksum": "489ca08e1fc722e466cf8fcdbad4660a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/2c/jwb-105_E_02_r480P.mp4",
+            "checksum": "fdd974b66110d60f21fc682ca3d147ff",
+            "filesize": 56771435,
+            "modifiedDatetime": "2023-07-17T04:07:47.000Z",
+            "bitRate": 538.316253421166,
+            "duration": 823.915,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/43/jwb-105_E_02.vtt",
+                "modifiedDatetime": "2023-07-17T04:07:42.000Z",
+                "checksum": "489ca08e1fc722e466cf8fcdbad4660a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/75/jwb-105_E_02_r720P.mp4",
+            "checksum": "8404ba348c15da706ec60334be7854ae",
+            "filesize": 89565968,
+            "modifiedDatetime": "2023-07-17T04:07:44.000Z",
+            "bitRate": 849.2795069879782,
+            "duration": 823.915,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/43/jwb-105_E_02.vtt",
+                "modifiedDatetime": "2023-07-17T04:07:42.000Z",
+                "checksum": "489ca08e1fc722e466cf8fcdbad4660a"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-105-2.v",
+        "jwb-105-2"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/43/jwb-105_E_02.vtt",
+    "Name": "pub-jwb-105_E_2_VIDEO",
+    "Title": "William Malenfant: Love the Truth",
+    "UndatedReferenceTitle": "William Malenfant: Love the Truth",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "StudioTalks"
+}

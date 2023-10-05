@@ -1,0 +1,102 @@
+{
+    "guid": "645a8d83ffba8b1568ec5a18",
+    "languageAgnosticNaturalKey": "pub-jwb-104_9_VIDEO",
+    "naturalKey": "pub-jwb-104_E_9_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtGilead",
+    "description": "",
+    "firstPublished": "2023-06-06T19:39:53.546Z",
+    "duration": 665.43,
+    "durationFormattedHHMM": "11:05",
+    "durationFormattedMinSec": "11m 5s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/50/jwb-104_E_09_r240P.mp4",
+            "checksum": "e2e4023d9692b9be2c875528559cd6fc",
+            "filesize": 15109802,
+            "modifiedDatetime": "2023-06-06T16:28:09.000Z",
+            "bitRate": 177.39706374073907,
+            "duration": 665.43,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/57/jwb-104_E_09.vtt",
+                "modifiedDatetime": "2023-06-06T16:27:55.000Z",
+                "checksum": "ba2010e1e515220a67cf1305465918dd"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/1f/jwb-104_E_09_r360P.mp4",
+            "checksum": "2c0790f56ccc9cc418cd026d841c1699",
+            "filesize": 25584153,
+            "modifiedDatetime": "2023-06-06T16:28:05.000Z",
+            "bitRate": 300.37148206798616,
+            "duration": 665.43,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/57/jwb-104_E_09.vtt",
+                "modifiedDatetime": "2023-06-06T16:27:55.000Z",
+                "checksum": "ba2010e1e515220a67cf1305465918dd"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/ec/jwb-104_E_09_r480P.mp4",
+            "checksum": "74daf7f8f129ac7dfde3247ce2b42346",
+            "filesize": 48229640,
+            "modifiedDatetime": "2023-06-06T16:28:03.000Z",
+            "bitRate": 566.2414716799664,
+            "duration": 665.43,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/57/jwb-104_E_09.vtt",
+                "modifiedDatetime": "2023-06-06T16:27:55.000Z",
+                "checksum": "ba2010e1e515220a67cf1305465918dd"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/01/jwb-104_E_09_r720P.mp4",
+            "checksum": "8c7bfd90b4c374fc5255c9ad1b6001eb",
+            "filesize": 86688922,
+            "modifiedDatetime": "2023-06-06T16:27:59.000Z",
+            "bitRate": 1017.7737750401997,
+            "duration": 665.43,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/57/jwb-104_E_09.vtt",
+                "modifiedDatetime": "2023-06-06T16:27:55.000Z",
+                "checksum": "ba2010e1e515220a67cf1305465918dd"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-104-9.v",
+        "jwb-104-9"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/57/jwb-104_E_09.vtt",
+    "Name": "pub-jwb-104_E_9_VIDEO",
+    "Title": "James Cauthon: Counselor or Shepherd?",
+    "UndatedReferenceTitle": "James Cauthon: Counselor or Shepherd?",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODPgmEvtGilead"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "63a36d6004eee96886a702a0",
+    "languageAgnosticNaturalKey": "pub-jwb-096_10_VIDEO",
+    "naturalKey": "pub-jwb-096_E_10_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODMoviesExtras",
+    "description": "",
+    "firstPublished": "2023-04-10T17:09:30.326Z",
+    "duration": 118.336,
+    "durationFormattedHHMM": "1:58",
+    "durationFormattedMinSec": "1m 58s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/d9/jwb-096_E_10_r240P.mp4",
+            "checksum": "860e65460d6698e714c7565d75696313",
+            "filesize": 4436433,
+            "modifiedDatetime": "2023-04-10T04:10:41.000Z",
+            "bitRate": 292.89170508129394,
+            "duration": 118.336,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/dc/jwb-096_E_10.vtt",
+                "modifiedDatetime": "2023-04-10T04:10:15.000Z",
+                "checksum": "446dcc64ac98fe43883ee8a60c927a21"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/79/jwb-096_E_10_r360P.mp4",
+            "checksum": "46d28ae09b9bf51832e61e6b8a59e865",
+            "filesize": 6544716,
+            "modifiedDatetime": "2023-04-10T04:10:35.000Z",
+            "bitRate": 432.0797876385884,
+            "duration": 118.336,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/dc/jwb-096_E_10.vtt",
+                "modifiedDatetime": "2023-04-10T04:10:15.000Z",
+                "checksum": "446dcc64ac98fe43883ee8a60c927a21"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/47/jwb-096_E_10_r480P.mp4",
+            "checksum": "57900195dd93424007120d30615d0bbd",
+            "filesize": 12039660,
+            "modifiedDatetime": "2023-04-10T04:10:27.000Z",
+            "bitRate": 794.8540068111141,
+            "duration": 118.336,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/dc/jwb-096_E_10.vtt",
+                "modifiedDatetime": "2023-04-10T04:10:15.000Z",
+                "checksum": "446dcc64ac98fe43883ee8a60c927a21"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/99/jwb-096_E_10_r720P.mp4",
+            "checksum": "1a37350acf78aff2979ff5a4df55084b",
+            "filesize": 20899251,
+            "modifiedDatetime": "2023-04-10T04:10:20.000Z",
+            "bitRate": 1379.761006266056,
+            "duration": 118.336,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/dc/jwb-096_E_10.vtt",
+                "modifiedDatetime": "2023-04-10T04:10:15.000Z",
+                "checksum": "446dcc64ac98fe43883ee8a60c927a21"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-096-10.v",
+        "jwb-096-10"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/dc/jwb-096_E_10.vtt",
+    "Name": "pub-jwb-096_E_10_VIDEO",
+    "Title": "Feature Drama Preview: “Commit Your Way to Jehovah”",
+    "UndatedReferenceTitle": "Feature Drama Preview: “Commit Your Way to Jehovah”",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODMoviesExtras"
+}

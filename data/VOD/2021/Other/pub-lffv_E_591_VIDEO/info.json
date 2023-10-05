@@ -1,0 +1,102 @@
+{
+    "guid": "5ff859a6e668ffe0893bbc9a",
+    "languageAgnosticNaturalKey": "pub-lffv_591_VIDEO",
+    "naturalKey": "pub-lffv_E_591_VIDEO",
+    "type": "video",
+    "primaryCategory": "Other",
+    "description": "",
+    "firstPublished": "2021-02-23T22:11:39.794Z",
+    "duration": 220.886,
+    "durationFormattedHHMM": "3:40",
+    "durationFormattedMinSec": "3m 40s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/6f/lffv_E_591_r240P.mp4",
+            "checksum": "765d48b12ede5f738e3486a27ca39390",
+            "filesize": 6398381,
+            "modifiedDatetime": "2021-02-23T05:30:26.000Z",
+            "bitRate": 226.3038470636437,
+            "duration": 220.886,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.669,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/25/lffv_E_591.vtt",
+                "modifiedDatetime": "2021-02-23T05:30:19.000Z",
+                "checksum": "6705002b68853c6383fdec938643b136"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/a1/lffv_E_591_r360P.mp4",
+            "checksum": "4408bfd21ce817dd8374cf8c0f81f47b",
+            "filesize": 11503457,
+            "modifiedDatetime": "2021-02-23T05:30:24.000Z",
+            "bitRate": 406.93673816035533,
+            "duration": 220.847,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/25/lffv_E_591.vtt",
+                "modifiedDatetime": "2021-02-23T05:30:19.000Z",
+                "checksum": "6705002b68853c6383fdec938643b136"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/87/lffv_E_591_r480P.mp4",
+            "checksum": "c6284f4e012b943fe9ccc350bb9b848c",
+            "filesize": 21759913,
+            "modifiedDatetime": "2021-02-23T05:30:22.000Z",
+            "bitRate": 769.7606049097338,
+            "duration": 220.847,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/25/lffv_E_591.vtt",
+                "modifiedDatetime": "2021-02-23T05:30:19.000Z",
+                "checksum": "6705002b68853c6383fdec938643b136"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/72/lffv_E_591_r720P.mp4",
+            "checksum": "d03d38ce85943f6fcf2a4792399efc0b",
+            "filesize": 38908878,
+            "modifiedDatetime": "2021-02-23T05:30:19.000Z",
+            "bitRate": 1376.4081439865608,
+            "duration": 220.847,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/25/lffv_E_591.vtt",
+                "modifiedDatetime": "2021-02-23T05:30:19.000Z",
+                "checksum": "6705002b68853c6383fdec938643b136"
+            }
+        }
+    ],
+    "printReferences": [
+        "lffv-591.v",
+        "lffv-591"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/25/lffv_E_591.vtt",
+    "Name": "pub-lffv_E_591_VIDEO",
+    "Title": "Jehovah God Will Strengthen Me",
+    "UndatedReferenceTitle": "Jehovah God Will Strengthen Me",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "Other"
+}

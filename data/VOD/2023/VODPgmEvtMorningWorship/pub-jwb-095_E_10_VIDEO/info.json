@@ -1,0 +1,102 @@
+{
+    "guid": "63b33c5704eee96886203138",
+    "languageAgnosticNaturalKey": "pub-jwb-095_10_VIDEO",
+    "naturalKey": "pub-jwb-095_E_10_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2023-04-14T13:16:46.133Z",
+    "duration": 592.448,
+    "durationFormattedHHMM": "9:52",
+    "durationFormattedMinSec": "9m 52s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/9f/jwb-095_E_10_r240P.mp4",
+            "checksum": "0a168534800e498b0e70d94fcd85f9f8",
+            "filesize": 11199495,
+            "modifiedDatetime": "2023-04-14T12:59:42.000Z",
+            "bitRate": 147.68562757828536,
+            "duration": 592.448,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/e0/jwb-095_E_10.vtt",
+                "modifiedDatetime": "2023-04-14T12:59:32.000Z",
+                "checksum": "356216ceff20ec9894e0ae9500fef90c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/1c/jwb-095_E_10_r360P.mp4",
+            "checksum": "321366ba0089320c1d3b446955dd2a21",
+            "filesize": 17891149,
+            "modifiedDatetime": "2023-04-14T12:59:41.000Z",
+            "bitRate": 235.92720637507426,
+            "duration": 592.448,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/e0/jwb-095_E_10.vtt",
+                "modifiedDatetime": "2023-04-14T12:59:32.000Z",
+                "checksum": "356216ceff20ec9894e0ae9500fef90c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/39/jwb-095_E_10_r480P.mp4",
+            "checksum": "cfb5e8bf3b47cee4b6d6ce58afbfb7ad",
+            "filesize": 30486916,
+            "modifiedDatetime": "2023-04-14T12:59:38.000Z",
+            "bitRate": 402.0252093854651,
+            "duration": 592.448,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/e0/jwb-095_E_10.vtt",
+                "modifiedDatetime": "2023-04-14T12:59:32.000Z",
+                "checksum": "356216ceff20ec9894e0ae9500fef90c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/9d/jwb-095_E_10_r720P.mp4",
+            "checksum": "c27100156ce61bb19c6a85a91af3ba76",
+            "filesize": 50765589,
+            "modifiedDatetime": "2023-04-14T12:59:33.000Z",
+            "bitRate": 669.4362442990778,
+            "duration": 592.448,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/e0/jwb-095_E_10.vtt",
+                "modifiedDatetime": "2023-04-14T12:59:32.000Z",
+                "checksum": "356216ceff20ec9894e0ae9500fef90c"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-095-10.v",
+        "jwb-095-10"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/e0/jwb-095_E_10.vtt",
+    "Name": "pub-jwb-095_E_10_VIDEO",
+    "Title": "Kenneth Flodin: ‘Jesus’ Yoke Is Kindly’ (Matt. 11:29, 30)",
+    "UndatedReferenceTitle": "Kenneth Flodin: ‘Jesus’ Yoke Is Kindly’ (Matt. 11:29, 30)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

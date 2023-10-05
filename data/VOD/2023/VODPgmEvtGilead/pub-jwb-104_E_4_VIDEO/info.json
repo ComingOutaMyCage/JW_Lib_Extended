@@ -1,0 +1,102 @@
+{
+    "guid": "64592f55ffba8b1568e992db",
+    "languageAgnosticNaturalKey": "pub-jwb-104_4_VIDEO",
+    "naturalKey": "pub-jwb-104_E_4_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtGilead",
+    "description": "",
+    "firstPublished": "2023-06-06T19:40:16.950Z",
+    "duration": 619.371,
+    "durationFormattedHHMM": "10:19",
+    "durationFormattedMinSec": "10m 19s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/75/jwb-104_E_04_r240P.mp4",
+            "checksum": "7729b406fad95e64ee430668c2548376",
+            "filesize": 12686667,
+            "modifiedDatetime": "2023-06-06T16:29:35.000Z",
+            "bitRate": 160.02458290346175,
+            "duration": 619.371,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/57/jwb-104_E_04.vtt",
+                "modifiedDatetime": "2023-06-06T16:29:24.000Z",
+                "checksum": "8f797655162a27a0c9278bc8affd65ec"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/61/jwb-104_E_04_r360P.mp4",
+            "checksum": "3008e0beb6765828c6f440d1eb222f47",
+            "filesize": 21688645,
+            "modifiedDatetime": "2023-06-06T16:29:32.000Z",
+            "bitRate": 273.5719610096372,
+            "duration": 619.371,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/57/jwb-104_E_04.vtt",
+                "modifiedDatetime": "2023-06-06T16:29:24.000Z",
+                "checksum": "8f797655162a27a0c9278bc8affd65ec"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/90/jwb-104_E_04_r480P.mp4",
+            "checksum": "e55e1ea36df7964cf7db8699181ba8b1",
+            "filesize": 40903360,
+            "modifiedDatetime": "2023-06-06T16:29:30.000Z",
+            "bitRate": 515.9387507648889,
+            "duration": 619.371,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/57/jwb-104_E_04.vtt",
+                "modifiedDatetime": "2023-06-06T16:29:24.000Z",
+                "checksum": "8f797655162a27a0c9278bc8affd65ec"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/51/jwb-104_E_04_r720P.mp4",
+            "checksum": "0a9f1b6dbfcdd1b47b80f43aa7ac5938",
+            "filesize": 72570750,
+            "modifiedDatetime": "2023-06-06T16:29:28.000Z",
+            "bitRate": 915.3786411940501,
+            "duration": 619.371,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/57/jwb-104_E_04.vtt",
+                "modifiedDatetime": "2023-06-06T16:29:24.000Z",
+                "checksum": "8f797655162a27a0c9278bc8affd65ec"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-104-4.v",
+        "jwb-104-4"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/57/jwb-104_E_04.vtt",
+    "Name": "pub-jwb-104_E_4_VIDEO",
+    "Title": "Mark Sanderson: Jehovah Sees Us Clearly",
+    "UndatedReferenceTitle": "Mark Sanderson: Jehovah Sees Us Clearly",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODPgmEvtGilead"
+}

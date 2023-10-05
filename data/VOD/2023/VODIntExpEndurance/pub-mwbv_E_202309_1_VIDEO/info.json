@@ -1,0 +1,102 @@
+{
+    "guid": "64651052ffba8b156806b0e2",
+    "languageAgnosticNaturalKey": "pub-mwbv_202309_1_VIDEO",
+    "naturalKey": "pub-mwbv_E_202309_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpEndurance",
+    "description": "",
+    "firstPublished": "2023-09-26T02:46:49.472Z",
+    "duration": 376.427,
+    "durationFormattedHHMM": "6:16",
+    "durationFormattedMinSec": "6m 16s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/ba/mwbv_E_202309_01_r240P.mp4",
+            "checksum": "eb7ae9831cab527dd6b98b05b59cd4d9",
+            "filesize": 10547508,
+            "modifiedDatetime": "2023-09-25T14:19:19.000Z",
+            "bitRate": 218.90673689719387,
+            "duration": 376.427,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/15/mwbv_E_202309_01.vtt",
+                "modifiedDatetime": "2023-09-25T14:19:09.000Z",
+                "checksum": "addde7149b86f07c210af46043cdc932"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/90/mwbv_E_202309_01_r360P.mp4",
+            "checksum": "53b132e2f1f87fdd1ab87fb4d9749723",
+            "filesize": 17376932,
+            "modifiedDatetime": "2023-09-25T14:19:15.000Z",
+            "bitRate": 360.64703448477394,
+            "duration": 376.427,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/15/mwbv_E_202309_01.vtt",
+                "modifiedDatetime": "2023-09-25T14:19:09.000Z",
+                "checksum": "addde7149b86f07c210af46043cdc932"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/f1/mwbv_E_202309_01_r480P.mp4",
+            "checksum": "2f4d20c28b49c0254861b20283e198f8",
+            "filesize": 32290083,
+            "modifiedDatetime": "2023-09-25T14:19:13.000Z",
+            "bitRate": 670.1598807670543,
+            "duration": 376.427,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/15/mwbv_E_202309_01.vtt",
+                "modifiedDatetime": "2023-09-25T14:19:09.000Z",
+                "checksum": "addde7149b86f07c210af46043cdc932"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/c2/mwbv_E_202309_01_r720P.mp4",
+            "checksum": "52517ec64e6661ca8c330d53078dec4d",
+            "filesize": 52415693,
+            "modifiedDatetime": "2023-09-25T14:19:11.000Z",
+            "bitRate": 1087.8539572413774,
+            "duration": 376.427,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/15/mwbv_E_202309_01.vtt",
+                "modifiedDatetime": "2023-09-25T14:19:09.000Z",
+                "checksum": "addde7149b86f07c210af46043cdc932"
+            }
+        }
+    ],
+    "printReferences": [
+        "mwbv.202309-1.v",
+        "mwbv.202309-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/15/mwbv_E_202309_01.vtt",
+    "Name": "pub-mwbv_E_202309_1_VIDEO",
+    "Title": "How Our Brothers Are Enjoying Peace Despite Depression",
+    "UndatedReferenceTitle": "How Our Brothers Are Enjoying Peace Despite Depression",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODIntExpEndurance"
+}

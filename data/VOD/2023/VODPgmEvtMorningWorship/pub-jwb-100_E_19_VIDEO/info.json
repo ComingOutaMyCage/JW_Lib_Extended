@@ -1,0 +1,102 @@
+{
+    "guid": "635ad23d6fa8308a8b7d47c2",
+    "languageAgnosticNaturalKey": "pub-jwb-100_19_VIDEO",
+    "naturalKey": "pub-jwb-100_E_19_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2023-01-27T15:22:00.803Z",
+    "duration": 624.15,
+    "durationFormattedHHMM": "10:24",
+    "durationFormattedMinSec": "10m 24s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/7b/jwb-100_E_19_r240P.mp4",
+            "checksum": "c03f468ede96c8ca895e9ab9f5d57bdb",
+            "filesize": 15795880,
+            "modifiedDatetime": "2023-01-27T14:45:59.000Z",
+            "bitRate": 197.71739565809503,
+            "duration": 624.15,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/63/jwb-100_E_19.vtt",
+                "modifiedDatetime": "2023-01-27T14:45:49.000Z",
+                "checksum": "bdf2a7c7a8140f9643c2c879941b8c0e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/ee/jwb-100_E_19_r360P.mp4",
+            "checksum": "d96c6701ad13139358381268846ee0d1",
+            "filesize": 25366624,
+            "modifiedDatetime": "2023-01-27T14:45:56.000Z",
+            "bitRate": 317.51461988304095,
+            "duration": 624.15,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/63/jwb-100_E_19.vtt",
+                "modifiedDatetime": "2023-01-27T14:45:49.000Z",
+                "checksum": "bdf2a7c7a8140f9643c2c879941b8c0e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/37/jwb-100_E_19_r480P.mp4",
+            "checksum": "322e36aab1bb6e1a7b54657da05e4bbf",
+            "filesize": 45638371,
+            "modifiedDatetime": "2023-01-27T14:45:53.000Z",
+            "bitRate": 571.2565464031082,
+            "duration": 624.15,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/63/jwb-100_E_19.vtt",
+                "modifiedDatetime": "2023-01-27T14:45:49.000Z",
+                "checksum": "bdf2a7c7a8140f9643c2c879941b8c0e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/80/jwb-100_E_19_r720P.mp4",
+            "checksum": "64a80e01562bd5fed0c7efdac7ed942b",
+            "filesize": 85586580,
+            "modifiedDatetime": "2023-01-27T14:45:50.000Z",
+            "bitRate": 1071.2892033165106,
+            "duration": 624.15,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/63/jwb-100_E_19.vtt",
+                "modifiedDatetime": "2023-01-27T14:45:49.000Z",
+                "checksum": "bdf2a7c7a8140f9643c2c879941b8c0e"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-100-19.v",
+        "jwb-100-19"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/63/jwb-100_E_19.vtt",
+    "Name": "pub-jwb-100_E_19_VIDEO",
+    "Title": "Christopher Mavor: Draw Close to God Through Prayer (Eph. 6:18)",
+    "UndatedReferenceTitle": "Christopher Mavor: Draw Close to God Through Prayer (Eph. 6:18)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "5ff859c6e668ffe0893bbd7a",
+    "languageAgnosticNaturalKey": "pub-lffv_601_VIDEO",
+    "naturalKey": "pub-lffv_E_601_VIDEO",
+    "type": "video",
+    "primaryCategory": "Other",
+    "description": "",
+    "firstPublished": "2021-02-23T22:11:17.364Z",
+    "duration": 322.859,
+    "durationFormattedHHMM": "5:22",
+    "durationFormattedMinSec": "5m 22s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/1e/lffv_E_601_r240P.mp4",
+            "checksum": "6719f49385d168e716f354441cb96a14",
+            "filesize": 7913824,
+            "modifiedDatetime": "2021-02-23T05:29:56.000Z",
+            "bitRate": 191.49768165050378,
+            "duration": 322.859,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.833,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/cd/lffv_E_601.vtt",
+                "modifiedDatetime": "2021-02-23T05:29:41.000Z",
+                "checksum": "8b77db0267b3af66d4753e2816269f70"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/aa/lffv_E_601_r360P.mp4",
+            "checksum": "ffd964b7f3986543edcbcd0e6789c5f4",
+            "filesize": 15539855,
+            "modifiedDatetime": "2021-02-23T05:29:53.000Z",
+            "bitRate": 376.07215444793445,
+            "duration": 322.824,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/cd/lffv_E_601.vtt",
+                "modifiedDatetime": "2021-02-23T05:29:41.000Z",
+                "checksum": "8b77db0267b3af66d4753e2816269f70"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/ae/lffv_E_601_r480P.mp4",
+            "checksum": "5428e1a31c95aac27d9c5e5b843ab1e2",
+            "filesize": 28233621,
+            "modifiedDatetime": "2021-02-23T05:29:51.000Z",
+            "bitRate": 683.2675515528585,
+            "duration": 322.824,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/cd/lffv_E_601.vtt",
+                "modifiedDatetime": "2021-02-23T05:29:41.000Z",
+                "checksum": "8b77db0267b3af66d4753e2816269f70"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/45/lffv_E_601_r720P.mp4",
+            "checksum": "99bff033b7ed81efb24c04e607725d6c",
+            "filesize": 46544044,
+            "modifiedDatetime": "2021-02-23T05:29:44.000Z",
+            "bitRate": 1126.3888179007756,
+            "duration": 322.824,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/cd/lffv_E_601.vtt",
+                "modifiedDatetime": "2021-02-23T05:29:41.000Z",
+                "checksum": "8b77db0267b3af66d4753e2816269f70"
+            }
+        }
+    ],
+    "printReferences": [
+        "lffv-601.v",
+        "lffv-601"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/cd/lffv_E_601.vtt",
+    "Name": "pub-lffv_E_601_VIDEO",
+    "Title": "Improve Your Personal Study",
+    "UndatedReferenceTitle": "Improve Your Personal Study",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2021,
+    "Symbol": "Other"
+}

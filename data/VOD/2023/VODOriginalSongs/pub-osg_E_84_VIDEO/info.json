@@ -1,0 +1,102 @@
+{
+    "guid": "6310ebbfe437cf0411d60ada",
+    "languageAgnosticNaturalKey": "pub-osg_84_VIDEO",
+    "naturalKey": "pub-osg_E_84_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODOriginalSongs",
+    "description": "",
+    "firstPublished": "2023-05-15T14:25:55.568Z",
+    "duration": 283.798,
+    "durationFormattedHHMM": "4:43",
+    "durationFormattedMinSec": "4m 43s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/50/osg_E_084_r240P.mp4",
+            "checksum": "7e335fc4b4bcbfe7a55af3e10f4d654a",
+            "filesize": 10813167,
+            "modifiedDatetime": "2023-05-15T04:04:45.000Z",
+            "bitRate": 297.66900114694255,
+            "duration": 283.798,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/9d/osg_E_084.vtt",
+                "modifiedDatetime": "2023-05-15T04:04:29.000Z",
+                "checksum": "24ded7a241b98d5d61f15ec91afd0614"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/36/osg_E_084_r360P.mp4",
+            "checksum": "f84671d115e8a5511433411a7dc3b83b",
+            "filesize": 16324004,
+            "modifiedDatetime": "2023-05-15T04:04:43.000Z",
+            "bitRate": 449.37343198331206,
+            "duration": 283.798,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/9d/osg_E_084.vtt",
+                "modifiedDatetime": "2023-05-15T04:04:29.000Z",
+                "checksum": "24ded7a241b98d5d61f15ec91afd0614"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/9a/osg_E_084_r480P.mp4",
+            "checksum": "72406f08bb3c4ddfb6494ae477b48bd8",
+            "filesize": 30898673,
+            "modifiedDatetime": "2023-05-15T04:04:39.000Z",
+            "bitRate": 850.5905003294597,
+            "duration": 283.798,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/9d/osg_E_084.vtt",
+                "modifiedDatetime": "2023-05-15T04:04:29.000Z",
+                "checksum": "24ded7a241b98d5d61f15ec91afd0614"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/cc/osg_E_084_r720P.mp4",
+            "checksum": "53780783aa231db3ad8fad0a6e573e1b",
+            "filesize": 52228200,
+            "modifiedDatetime": "2023-05-15T04:04:36.000Z",
+            "bitRate": 1437.7578858906686,
+            "duration": 283.798,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/9d/osg_E_084.vtt",
+                "modifiedDatetime": "2023-05-15T04:04:29.000Z",
+                "checksum": "24ded7a241b98d5d61f15ec91afd0614"
+            }
+        }
+    ],
+    "printReferences": [
+        "osg-84.v",
+        "osg-84"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/9d/osg_E_084.vtt",
+    "Name": "pub-osg_E_84_VIDEO",
+    "Title": "Draw Close to Me",
+    "UndatedReferenceTitle": "Draw Close to Me",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODOriginalSongs"
+}

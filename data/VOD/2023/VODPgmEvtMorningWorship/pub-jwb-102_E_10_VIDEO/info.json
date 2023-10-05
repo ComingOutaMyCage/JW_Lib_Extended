@@ -1,0 +1,102 @@
+{
+    "guid": "6463dc22ffba8b156803ea6d",
+    "languageAgnosticNaturalKey": "pub-jwb-102_10_VIDEO",
+    "naturalKey": "pub-jwb-102_E_10_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2023-09-22T13:24:31.659Z",
+    "duration": 601.984,
+    "durationFormattedHHMM": "10:01",
+    "durationFormattedMinSec": "10m 1s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/a8/jwb-102_E_10_r240P.mp4",
+            "checksum": "3a6ccc389bed64193fcf00cc5686c4b1",
+            "filesize": 11932699,
+            "modifiedDatetime": "2023-09-22T12:43:53.000Z",
+            "bitRate": 154.86160917482854,
+            "duration": 601.984,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/f0/jwb-102_E_10.vtt",
+                "modifiedDatetime": "2023-09-22T12:43:37.000Z",
+                "checksum": "50fd04a8bf39888181cd7dd80db69f9e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/b6/jwb-102_E_10_r360P.mp4",
+            "checksum": "f42e378d60e21ae5f91c0711ccd35409",
+            "filesize": 19692968,
+            "modifiedDatetime": "2023-09-22T12:43:50.000Z",
+            "bitRate": 255.57375694370612,
+            "duration": 601.984,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/f0/jwb-102_E_10.vtt",
+                "modifiedDatetime": "2023-09-22T12:43:37.000Z",
+                "checksum": "50fd04a8bf39888181cd7dd80db69f9e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/7d/jwb-102_E_10_r480P.mp4",
+            "checksum": "59dfd230c785e0453c431ca2f3947719",
+            "filesize": 35095360,
+            "modifiedDatetime": "2023-09-22T12:43:48.000Z",
+            "bitRate": 455.4647631830746,
+            "duration": 601.984,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/f0/jwb-102_E_10.vtt",
+                "modifiedDatetime": "2023-09-22T12:43:37.000Z",
+                "checksum": "50fd04a8bf39888181cd7dd80db69f9e"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/5d/jwb-102_E_10_r720P.mp4",
+            "checksum": "ee7f351064cf480637cc9fb6294a3386",
+            "filesize": 61845023,
+            "modifiedDatetime": "2023-09-22T12:43:42.000Z",
+            "bitRate": 802.619741035476,
+            "duration": 601.984,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/f0/jwb-102_E_10.vtt",
+                "modifiedDatetime": "2023-09-22T12:43:37.000Z",
+                "checksum": "50fd04a8bf39888181cd7dd80db69f9e"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-102-10.v",
+        "jwb-102-10"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/f0/jwb-102_E_10.vtt",
+    "Name": "pub-jwb-102_E_10_VIDEO",
+    "Title": "David Schafer: ‘Trust in Jehovah and Do Good’ (Ps. 37:3)",
+    "UndatedReferenceTitle": "David Schafer: ‘Trust in Jehovah and Do Good’ (Ps. 37:3)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

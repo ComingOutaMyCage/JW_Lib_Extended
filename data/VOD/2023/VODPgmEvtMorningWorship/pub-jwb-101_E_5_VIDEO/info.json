@@ -1,0 +1,102 @@
+{
+    "guid": "634ee9266fa8308a8b5ca795",
+    "languageAgnosticNaturalKey": "pub-jwb-101_5_VIDEO",
+    "naturalKey": "pub-jwb-101_E_5_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2023-08-21T18:23:08.140Z",
+    "duration": 605.59,
+    "durationFormattedHHMM": "10:05",
+    "durationFormattedMinSec": "10m 5s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/c4/jwb-101_E_05_r240P.mp4",
+            "checksum": "b1b5368c931fa7d30b90c1c160aa290e",
+            "filesize": 13319054,
+            "modifiedDatetime": "2023-08-21T18:18:59.000Z",
+            "bitRate": 171.82435207813867,
+            "duration": 605.59,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/53/jwb-101_E_05.vtt",
+                "modifiedDatetime": "2023-08-21T18:18:48.000Z",
+                "checksum": "cff108015f12ad38e8408ab14ab6f7da"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/2f/jwb-101_E_05_r360P.mp4",
+            "checksum": "51de6b5520f141851b981edd2674890a",
+            "filesize": 21310434,
+            "modifiedDatetime": "2023-08-21T18:18:56.000Z",
+            "bitRate": 274.91828733136276,
+            "duration": 605.59,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/53/jwb-101_E_05.vtt",
+                "modifiedDatetime": "2023-08-21T18:18:48.000Z",
+                "checksum": "cff108015f12ad38e8408ab14ab6f7da"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/21/jwb-101_E_05_r480P.mp4",
+            "checksum": "e8a9292262f7e128d51b4b5de42d6e41",
+            "filesize": 38516460,
+            "modifiedDatetime": "2023-08-21T18:18:53.000Z",
+            "bitRate": 496.88707500123843,
+            "duration": 605.59,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/53/jwb-101_E_05.vtt",
+                "modifiedDatetime": "2023-08-21T18:18:48.000Z",
+                "checksum": "cff108015f12ad38e8408ab14ab6f7da"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/6f/jwb-101_E_05_r720P.mp4",
+            "checksum": "ae0baa56e66143e8d8b3c5e0e4df0214",
+            "filesize": 75587059,
+            "modifiedDatetime": "2023-08-21T18:18:50.000Z",
+            "bitRate": 975.1216143554219,
+            "duration": 605.59,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/53/jwb-101_E_05.vtt",
+                "modifiedDatetime": "2023-08-21T18:18:48.000Z",
+                "checksum": "cff108015f12ad38e8408ab14ab6f7da"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-101-5.v",
+        "jwb-101-5"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/53/jwb-101_E_05.vtt",
+    "Name": "pub-jwb-101_E_5_VIDEO",
+    "Title": "Geoffrey W. Jackson: Qualities of a Good Teacher (1 Thess. 2:7, 8)",
+    "UndatedReferenceTitle": "Geoffrey W. Jackson: Qualities of a Good Teacher (1 Thess. 2:7, 8)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

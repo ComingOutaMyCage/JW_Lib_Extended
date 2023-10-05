@@ -1,0 +1,102 @@
+{
+    "guid": "629f6efe2b229f0b1c85776a",
+    "languageAgnosticNaturalKey": "pub-jwb-095_8_VIDEO",
+    "naturalKey": "pub-jwb-095_E_8_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesWhereAreTheyNow",
+    "description": "",
+    "firstPublished": "2023-04-17T12:42:31.252Z",
+    "duration": 308.31,
+    "durationFormattedHHMM": "5:08",
+    "durationFormattedMinSec": "5m 8s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/52/jwb-095_E_08_r240P.mp4",
+            "checksum": "b0c6787f5c341ecf25d90d4e6ddaf3ea",
+            "filesize": 8237311,
+            "modifiedDatetime": "2023-04-17T05:12:09.000Z",
+            "bitRate": 208.73144623106614,
+            "duration": 308.31,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/23/jwb-095_E_08.vtt",
+                "modifiedDatetime": "2023-04-17T05:12:02.000Z",
+                "checksum": "618b63d703538cbc5a7c94c49580da35"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/19/jwb-095_E_08_r360P.mp4",
+            "checksum": "a408e27100d993982aef61f14d284e74",
+            "filesize": 13626605,
+            "modifiedDatetime": "2023-04-17T05:12:07.000Z",
+            "bitRate": 345.29483819045765,
+            "duration": 308.31,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/23/jwb-095_E_08.vtt",
+                "modifiedDatetime": "2023-04-17T05:12:02.000Z",
+                "checksum": "618b63d703538cbc5a7c94c49580da35"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/f7/jwb-095_E_08_r480P.mp4",
+            "checksum": "22fe85773ab6464af6e4df4bcdbee9db",
+            "filesize": 26222401,
+            "modifiedDatetime": "2023-04-17T05:12:05.000Z",
+            "bitRate": 664.4692284145827,
+            "duration": 308.31,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/23/jwb-095_E_08.vtt",
+                "modifiedDatetime": "2023-04-17T05:12:02.000Z",
+                "checksum": "618b63d703538cbc5a7c94c49580da35"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/9b/jwb-095_E_08_r720P.mp4",
+            "checksum": "6f70e3ef7979e3c6b801ff9bc8401363",
+            "filesize": 49944263,
+            "modifiedDatetime": "2023-04-17T05:12:03.000Z",
+            "bitRate": 1265.575410098602,
+            "duration": 308.31,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/23/jwb-095_E_08.vtt",
+                "modifiedDatetime": "2023-04-17T05:12:02.000Z",
+                "checksum": "618b63d703538cbc5a7c94c49580da35"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-095-8.v",
+        "jwb-095-8"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/23/jwb-095_E_08.vtt",
+    "Name": "pub-jwb-095_E_8_VIDEO",
+    "Title": "Where Are They Now? Enrique Torres, Jr.: From a Roaring Lion to a Meek Lamb",
+    "UndatedReferenceTitle": "Where Are They Now? Enrique Torres, Jr.: From a Roaring Lion to a Meek Lamb",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "SeriesWhereAreTheyNow"
+}

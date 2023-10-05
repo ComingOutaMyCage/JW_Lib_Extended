@@ -1,0 +1,102 @@
+{
+    "guid": "6489e1006e905ddbf1b49c99",
+    "languageAgnosticNaturalKey": "pub-jwb-105_11_VIDEO",
+    "naturalKey": "pub-jwb-105_E_11_VIDEO",
+    "type": "video",
+    "primaryCategory": "Reports",
+    "description": "",
+    "firstPublished": "2023-07-31T12:34:26.507Z",
+    "duration": 464.512,
+    "durationFormattedHHMM": "7:44",
+    "durationFormattedMinSec": "7m 44s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/b4/jwb-105_E_11_r240P.mp4",
+            "checksum": "a57cca76f157ba539acfca8c854e1148",
+            "filesize": 19458115,
+            "modifiedDatetime": "2023-07-31T04:17:34.000Z",
+            "bitRate": 327.26070249530693,
+            "duration": 464.512,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/2b/jwb-105_E_11.vtt",
+                "modifiedDatetime": "2023-07-31T04:17:24.000Z",
+                "checksum": "de23ce70817921ef751376d84b1d3e64"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/a7/jwb-105_E_11_r360P.mp4",
+            "checksum": "05ee99cbe2c820711cd5b4076edf6685",
+            "filesize": 33294023,
+            "modifiedDatetime": "2023-07-31T04:17:32.000Z",
+            "bitRate": 559.9630465682264,
+            "duration": 464.512,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/2b/jwb-105_E_11.vtt",
+                "modifiedDatetime": "2023-07-31T04:17:24.000Z",
+                "checksum": "de23ce70817921ef751376d84b1d3e64"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/46/jwb-105_E_11_r480P.mp4",
+            "checksum": "fead4e590b218b11127957730a6b341f",
+            "filesize": 66443920,
+            "modifiedDatetime": "2023-07-31T04:17:29.000Z",
+            "bitRate": 1117.5020774490217,
+            "duration": 464.512,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/2b/jwb-105_E_11.vtt",
+                "modifiedDatetime": "2023-07-31T04:17:24.000Z",
+                "checksum": "de23ce70817921ef751376d84b1d3e64"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/6e/jwb-105_E_11_r720P.mp4",
+            "checksum": "ab85231ccf610326cbf64031bc27970a",
+            "filesize": 115360368,
+            "modifiedDatetime": "2023-07-31T04:17:25.000Z",
+            "bitRate": 1940.2144078086249,
+            "duration": 464.512,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/2b/jwb-105_E_11.vtt",
+                "modifiedDatetime": "2023-07-31T04:17:24.000Z",
+                "checksum": "de23ce70817921ef751376d84b1d3e64"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-105-11.v",
+        "jwb-105-11"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/2b/jwb-105_E_11.vtt",
+    "Name": "pub-jwb-105_E_11_VIDEO",
+    "Title": "Branch Report: Brazil and Paraguay",
+    "UndatedReferenceTitle": "Branch Report: Brazil and Paraguay",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "Reports"
+}

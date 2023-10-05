@@ -1,0 +1,102 @@
+{
+    "guid": "63a2034d04eee96886a39d5a",
+    "languageAgnosticNaturalKey": "pub-jwb-103_12_VIDEO",
+    "naturalKey": "pub-jwb-103_E_12_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2023-02-24T13:56:27.366Z",
+    "duration": 655.702,
+    "durationFormattedHHMM": "10:55",
+    "durationFormattedMinSec": "10m 55s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/77/jwb-103_E_12_r240P.mp4",
+            "checksum": "c09e7c196abe2a006f23b29fb93498b0",
+            "filesize": 13131737,
+            "modifiedDatetime": "2023-02-24T13:55:33.000Z",
+            "bitRate": 156.46085464509792,
+            "duration": 655.702,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/4d/jwb-103_E_12.vtt",
+                "modifiedDatetime": "2023-02-24T13:55:24.000Z",
+                "checksum": "08c0423c0603c433eab71aad119a1a89"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/a4/jwb-103_E_12_r360P.mp4",
+            "checksum": "803fa368b3e0b465691cfb1a7be1db03",
+            "filesize": 21371546,
+            "modifiedDatetime": "2023-02-24T13:55:31.000Z",
+            "bitRate": 254.63579968491786,
+            "duration": 655.702,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/4d/jwb-103_E_12.vtt",
+                "modifiedDatetime": "2023-02-24T13:55:24.000Z",
+                "checksum": "08c0423c0603c433eab71aad119a1a89"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/40/jwb-103_E_12_r480P.mp4",
+            "checksum": "60550890b91c1a7c3cb54e2b05d5eb63",
+            "filesize": 39335518,
+            "modifiedDatetime": "2023-02-24T13:55:29.000Z",
+            "bitRate": 468.6713390762877,
+            "duration": 655.702,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/4d/jwb-103_E_12.vtt",
+                "modifiedDatetime": "2023-02-24T13:55:24.000Z",
+                "checksum": "08c0423c0603c433eab71aad119a1a89"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/09/jwb-103_E_12_r720P.mp4",
+            "checksum": "9e63a5d47fdb9e917d40d6c13a375322",
+            "filesize": 77209525,
+            "modifiedDatetime": "2023-02-24T13:55:25.000Z",
+            "bitRate": 919.9291965900668,
+            "duration": 655.702,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/4d/jwb-103_E_12.vtt",
+                "modifiedDatetime": "2023-02-24T13:55:24.000Z",
+                "checksum": "08c0423c0603c433eab71aad119a1a89"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-103-12.v",
+        "jwb-103-12"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/4d/jwb-103_E_12.vtt",
+    "Name": "pub-jwb-103_E_12_VIDEO",
+    "Title": "M. Stephen Lett: Beware of the Power of Materialism (Matt. 6:11)",
+    "UndatedReferenceTitle": "M. Stephen Lett: Beware of the Power of Materialism (Matt. 6:11)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

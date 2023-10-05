@@ -1,0 +1,102 @@
+{
+    "guid": "6440019ad49538204de7482f",
+    "languageAgnosticNaturalKey": "pub-jwb-102_4_VIDEO",
+    "naturalKey": "pub-jwb-102_E_4_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesWhereAreTheyNow",
+    "description": "",
+    "firstPublished": "2023-09-18T14:24:39.412Z",
+    "duration": 299.968,
+    "durationFormattedHHMM": "4:59",
+    "durationFormattedMinSec": "4m 59s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/56/jwb-102_E_04_r240P.mp4",
+            "checksum": "bd37a9cb7c50e49d10233def54a8da9d",
+            "filesize": 8760792,
+            "modifiedDatetime": "2023-09-18T05:37:24.000Z",
+            "bitRate": 228.16996312940046,
+            "duration": 299.968,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/bc/jwb-102_E_04.vtt",
+                "modifiedDatetime": "2023-09-18T05:37:13.000Z",
+                "checksum": "5405539cf5c81f16d6675f07e5bee7c3"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/95/jwb-102_E_04_r360P.mp4",
+            "checksum": "c5569f24dbf91dc65aced2157feada01",
+            "filesize": 14232034,
+            "modifiedDatetime": "2023-09-18T05:37:21.000Z",
+            "bitRate": 370.66542306179326,
+            "duration": 299.968,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/bc/jwb-102_E_04.vtt",
+                "modifiedDatetime": "2023-09-18T05:37:13.000Z",
+                "checksum": "5405539cf5c81f16d6675f07e5bee7c3"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/36/jwb-102_E_04_r480P.mp4",
+            "checksum": "5610f3770272982cffedeea677f423be",
+            "filesize": 25645204,
+            "modifiedDatetime": "2023-09-18T05:37:18.000Z",
+            "bitRate": 667.9150984438339,
+            "duration": 299.968,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/bc/jwb-102_E_04.vtt",
+                "modifiedDatetime": "2023-09-18T05:37:13.000Z",
+                "checksum": "5405539cf5c81f16d6675f07e5bee7c3"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/11/jwb-102_E_04_r720P.mp4",
+            "checksum": "2dd5c67f4acacdc43f5f0910d7f8add2",
+            "filesize": 40227097,
+            "modifiedDatetime": "2023-09-18T05:37:15.000Z",
+            "bitRate": 1047.6924048981891,
+            "duration": 299.968,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/bc/jwb-102_E_04.vtt",
+                "modifiedDatetime": "2023-09-18T05:37:13.000Z",
+                "checksum": "5405539cf5c81f16d6675f07e5bee7c3"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-102-4.v",
+        "jwb-102-4"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/bc/jwb-102_E_04.vtt",
+    "Name": "pub-jwb-102_E_4_VIDEO",
+    "Title": "Where Are They Now? Janice Adams: Though Deaf and Blind, I Found Security",
+    "UndatedReferenceTitle": "Where Are They Now? Janice Adams: Though Deaf and Blind, I Found Security",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "SeriesWhereAreTheyNow"
+}

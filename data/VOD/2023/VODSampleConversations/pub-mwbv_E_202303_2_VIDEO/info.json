@@ -1,0 +1,102 @@
+{
+    "guid": "63a4c1ea04eee96886aaa64c",
+    "languageAgnosticNaturalKey": "pub-mwbv_202303_2_VIDEO",
+    "naturalKey": "pub-mwbv_E_202303_2_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODSampleConversations",
+    "description": "",
+    "firstPublished": "2023-02-13T18:42:25.745Z",
+    "duration": 157.718,
+    "durationFormattedHHMM": "2:37",
+    "durationFormattedMinSec": "2m 37s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/d0/mwbv_E_202303_02_r240P.mp4",
+            "checksum": "822c546eb450408e4eb82003495dd580",
+            "filesize": 5066327,
+            "modifiedDatetime": "2023-02-13T05:19:46.000Z",
+            "bitRate": 250.95854428473606,
+            "duration": 157.718,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/0b/mwbv_E_202303_02.vtt",
+                "modifiedDatetime": "2023-02-13T05:19:33.000Z",
+                "checksum": "e62f71e5b6f9333009efb6f1cb821bfb"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/ea/mwbv_E_202303_02_r360P.mp4",
+            "checksum": "59707738e13518142d417c9ee9c40de1",
+            "filesize": 7525330,
+            "modifiedDatetime": "2023-02-13T05:19:45.000Z",
+            "bitRate": 372.7643048035101,
+            "duration": 157.718,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/0b/mwbv_E_202303_02.vtt",
+                "modifiedDatetime": "2023-02-13T05:19:33.000Z",
+                "checksum": "e62f71e5b6f9333009efb6f1cb821bfb"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/a2/mwbv_E_202303_02_r480P.mp4",
+            "checksum": "2b0bc8ff41206dca4cfef387deffb4b0",
+            "filesize": 14018357,
+            "modifiedDatetime": "2023-02-13T05:19:40.000Z",
+            "bitRate": 694.393880612866,
+            "duration": 157.718,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/0b/mwbv_E_202303_02.vtt",
+                "modifiedDatetime": "2023-02-13T05:19:33.000Z",
+                "checksum": "e62f71e5b6f9333009efb6f1cb821bfb"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/c2/mwbv_E_202303_02_r720P.mp4",
+            "checksum": "1ec00600f59a6b4ee076fc896aa94310",
+            "filesize": 22743314,
+            "modifiedDatetime": "2023-02-13T05:19:37.000Z",
+            "bitRate": 1126.5812438973358,
+            "duration": 157.718,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/0b/mwbv_E_202303_02.vtt",
+                "modifiedDatetime": "2023-02-13T05:19:33.000Z",
+                "checksum": "e62f71e5b6f9333009efb6f1cb821bfb"
+            }
+        }
+    ],
+    "printReferences": [
+        "mwbv.202303-2.v",
+        "mwbv.202303-2"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/0b/mwbv_E_202303_02.vtt",
+    "Name": "pub-mwbv_E_202303_2_VIDEO",
+    "Title": "Memorial Invitation Campaign",
+    "UndatedReferenceTitle": "Memorial Invitation Campaign",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODSampleConversations"
+}

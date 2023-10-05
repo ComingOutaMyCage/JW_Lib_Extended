@@ -1,0 +1,102 @@
+{
+    "guid": "6304ea60e437cf04119cf426",
+    "languageAgnosticNaturalKey": "pub-jwb-092_5_VIDEO",
+    "naturalKey": "pub-jwb-092_E_5_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODMinistryExpandMinistry",
+    "description": "",
+    "firstPublished": "2023-03-20T14:13:46.285Z",
+    "duration": 321.216,
+    "durationFormattedHHMM": "5:21",
+    "durationFormattedMinSec": "5m 21s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/74/jwb-092_E_05_r240P.mp4",
+            "checksum": "889818d1591e6fa6a27d0d311bfab8e5",
+            "filesize": 9625234,
+            "modifiedDatetime": "2023-03-20T04:15:33.000Z",
+            "bitRate": 234.10147883355748,
+            "duration": 321.216,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/03/jwb-092_E_05.vtt",
+                "modifiedDatetime": "2023-03-20T04:15:18.000Z",
+                "checksum": "e8120c5658745252d5221c802197b0c4"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/c7/jwb-092_E_05_r360P.mp4",
+            "checksum": "251baeb43eb3d7b43650e9ca19264aa4",
+            "filesize": 15584663,
+            "modifiedDatetime": "2023-03-20T04:15:30.000Z",
+            "bitRate": 379.04456716819834,
+            "duration": 321.216,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/03/jwb-092_E_05.vtt",
+                "modifiedDatetime": "2023-03-20T04:15:18.000Z",
+                "checksum": "e8120c5658745252d5221c802197b0c4"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/95/jwb-092_E_05_r480P.mp4",
+            "checksum": "c147e74fb224086989e69e106e9a540c",
+            "filesize": 28204797,
+            "modifiedDatetime": "2023-03-20T04:15:24.000Z",
+            "bitRate": 685.9869264373506,
+            "duration": 321.216,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/03/jwb-092_E_05.vtt",
+                "modifiedDatetime": "2023-03-20T04:15:18.000Z",
+                "checksum": "e8120c5658745252d5221c802197b0c4"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/42/jwb-092_E_05_r720P.mp4",
+            "checksum": "da2c205cb6d052cbe5ad06325850ea0e",
+            "filesize": 45128961,
+            "modifiedDatetime": "2023-03-20T04:15:20.000Z",
+            "bitRate": 1097.610355064816,
+            "duration": 321.216,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/03/jwb-092_E_05.vtt",
+                "modifiedDatetime": "2023-03-20T04:15:18.000Z",
+                "checksum": "e8120c5658745252d5221c802197b0c4"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-092-5.v",
+        "jwb-092-5"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/03/jwb-092_E_05.vtt",
+    "Name": "pub-jwb-092_E_5_VIDEO",
+    "Title": "We Can Do More With Reasonable Expectations",
+    "UndatedReferenceTitle": "We Can Do More With Reasonable Expectations",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODMinistryExpandMinistry"
+}

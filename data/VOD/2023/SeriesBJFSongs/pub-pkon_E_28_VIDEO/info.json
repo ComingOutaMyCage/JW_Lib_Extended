@@ -1,0 +1,102 @@
+{
+    "guid": "638e384f4b77aca6cee22f58",
+    "languageAgnosticNaturalKey": "pub-pkon_28_VIDEO",
+    "naturalKey": "pub-pkon_E_28_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBJFSongs",
+    "description": "",
+    "firstPublished": "2023-02-06T14:56:23.024Z",
+    "duration": 123.798,
+    "durationFormattedHHMM": "2:03",
+    "durationFormattedMinSec": "2m 3s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/05/pkon_E_028_r240P.mp4",
+            "checksum": "6cc592d1420d01c488159f1108963bdf",
+            "filesize": 4914537,
+            "modifiedDatetime": "2023-02-06T05:15:55.000Z",
+            "bitRate": 310.14087717491395,
+            "duration": 123.798,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/40/pkon_E_028.vtt",
+                "modifiedDatetime": "2023-02-06T05:15:42.000Z",
+                "checksum": "262ed89de5e5b6b9e8828ac3c1198173"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/cd/pkon_E_028_r360P.mp4",
+            "checksum": "04b5a66a4fffd1c5209ae1637e970708",
+            "filesize": 6971457,
+            "modifiedDatetime": "2023-02-06T05:15:54.000Z",
+            "bitRate": 439.94658889885136,
+            "duration": 123.798,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/40/pkon_E_028.vtt",
+                "modifiedDatetime": "2023-02-06T05:15:42.000Z",
+                "checksum": "262ed89de5e5b6b9e8828ac3c1198173"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/3e/pkon_E_028_r480P.mp4",
+            "checksum": "327e50e44b53b8e7d19168d2ca0d5083",
+            "filesize": 12562893,
+            "modifiedDatetime": "2023-02-06T05:15:52.000Z",
+            "bitRate": 792.8044198008046,
+            "duration": 123.798,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/40/pkon_E_028.vtt",
+                "modifiedDatetime": "2023-02-06T05:15:42.000Z",
+                "checksum": "262ed89de5e5b6b9e8828ac3c1198173"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/96/pkon_E_028_r720P.mp4",
+            "checksum": "ea06a4492146f44fec8d13c6f6227c84",
+            "filesize": 18911985,
+            "modifiedDatetime": "2023-02-06T05:15:49.000Z",
+            "bitRate": 1193.475523130422,
+            "duration": 123.798,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/40/pkon_E_028.vtt",
+                "modifiedDatetime": "2023-02-06T05:15:42.000Z",
+                "checksum": "262ed89de5e5b6b9e8828ac3c1198173"
+            }
+        }
+    ],
+    "printReferences": [
+        "pkon-28.v",
+        "pkon-28"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/40/pkon_E_028.vtt",
+    "Name": "pub-pkon_E_28_VIDEO",
+    "Title": "I Want to Be Meek Like Moses",
+    "UndatedReferenceTitle": "I Want to Be Meek Like Moses",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "SeriesBJFSongs"
+}

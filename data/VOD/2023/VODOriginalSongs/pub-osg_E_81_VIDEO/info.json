@@ -1,0 +1,102 @@
+{
+    "guid": "6204112857c50ea1eb100bda",
+    "languageAgnosticNaturalKey": "pub-osg_81_VIDEO",
+    "naturalKey": "pub-osg_E_81_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODOriginalSongs",
+    "description": "",
+    "firstPublished": "2023-03-20T14:15:12.191Z",
+    "duration": 243.051,
+    "durationFormattedHHMM": "4:03",
+    "durationFormattedMinSec": "4m 3s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/bd/osg_E_081_r240P.mp4",
+            "checksum": "7df6ef8c3393f562ca07b2fb2f1b01c9",
+            "filesize": 6078481,
+            "modifiedDatetime": "2023-03-20T13:40:49.000Z",
+            "bitRate": 195.3834084718845,
+            "duration": 243.051,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/6e/osg_E_081.vtt",
+                "modifiedDatetime": "2023-03-20T13:40:30.000Z",
+                "checksum": "c47124e2cf81440a39978f408c47fbac"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/54/osg_E_081_r360P.mp4",
+            "checksum": "de030852cd4f70c6ef5053f9b7e1eee8",
+            "filesize": 9209853,
+            "modifiedDatetime": "2023-03-20T13:40:46.000Z",
+            "bitRate": 296.0365378562524,
+            "duration": 243.051,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/6e/osg_E_081.vtt",
+                "modifiedDatetime": "2023-03-20T13:40:30.000Z",
+                "checksum": "c47124e2cf81440a39978f408c47fbac"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/67/osg_E_081_r480P.mp4",
+            "checksum": "d7c5c8a7729c64d45322df5134e8631c",
+            "filesize": 16149280,
+            "modifiedDatetime": "2023-03-20T13:40:44.000Z",
+            "bitRate": 519.093729299612,
+            "duration": 243.051,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/6e/osg_E_081.vtt",
+                "modifiedDatetime": "2023-03-20T13:40:30.000Z",
+                "checksum": "c47124e2cf81440a39978f408c47fbac"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/73/osg_E_081_r720P.mp4",
+            "checksum": "be42f84ffeb76bf856dbdc47a3ebd20b",
+            "filesize": 24494197,
+            "modifiedDatetime": "2023-03-20T13:40:41.000Z",
+            "bitRate": 787.3282317805729,
+            "duration": 243.051,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/6e/osg_E_081.vtt",
+                "modifiedDatetime": "2023-03-20T13:40:30.000Z",
+                "checksum": "c47124e2cf81440a39978f408c47fbac"
+            }
+        }
+    ],
+    "printReferences": [
+        "osg-81.v",
+        "osg-81"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/6e/osg_E_081.vtt",
+    "Name": "pub-osg_E_81_VIDEO",
+    "Title": "Learn From a Fall",
+    "UndatedReferenceTitle": "Learn From a Fall",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODOriginalSongs"
+}

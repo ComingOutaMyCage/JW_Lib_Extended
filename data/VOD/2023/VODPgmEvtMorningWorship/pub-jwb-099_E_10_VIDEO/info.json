@@ -1,0 +1,102 @@
+{
+    "guid": "645ba569ffba8b1568ee9097",
+    "languageAgnosticNaturalKey": "pub-jwb-099_10_VIDEO",
+    "naturalKey": "pub-jwb-099_E_10_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2023-07-14T10:54:04.419Z",
+    "duration": 638.55,
+    "durationFormattedHHMM": "10:38",
+    "durationFormattedMinSec": "10m 38s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/6e/jwb-099_E_10_r240P.mp4",
+            "checksum": "140766ef46d54438700d6e74bf51b5ef",
+            "filesize": 14130653,
+            "modifiedDatetime": "2023-07-14T05:00:13.000Z",
+            "bitRate": 172.88501536684677,
+            "duration": 638.55,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/1b/jwb-099_E_10.vtt",
+                "modifiedDatetime": "2023-07-14T05:00:00.000Z",
+                "checksum": "e21d21dee5b20bf3e553b2616e7b00ca"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/81/jwb-099_E_10_r360P.mp4",
+            "checksum": "43c5dae7e094716d4bf2196b5dc88fad",
+            "filesize": 22572938,
+            "modifiedDatetime": "2023-07-14T05:00:07.000Z",
+            "bitRate": 276.17426689374366,
+            "duration": 638.55,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/1b/jwb-099_E_10.vtt",
+                "modifiedDatetime": "2023-07-14T05:00:00.000Z",
+                "checksum": "e21d21dee5b20bf3e553b2616e7b00ca"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/69/jwb-099_E_10_r480P.mp4",
+            "checksum": "b2dbefa78ce5d716b1628625125cb2ed",
+            "filesize": 39942801,
+            "modifiedDatetime": "2023-07-14T05:00:04.000Z",
+            "bitRate": 488.6902087737844,
+            "duration": 638.55,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/1b/jwb-099_E_10.vtt",
+                "modifiedDatetime": "2023-07-14T05:00:00.000Z",
+                "checksum": "e21d21dee5b20bf3e553b2616e7b00ca"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/6d/jwb-099_E_10_r720P.mp4",
+            "checksum": "665fec626228ca3a84595aff48d1e397",
+            "filesize": 76606652,
+            "modifiedDatetime": "2023-07-14T05:00:01.000Z",
+            "bitRate": 937.2632820452588,
+            "duration": 638.55,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/1b/jwb-099_E_10.vtt",
+                "modifiedDatetime": "2023-07-14T05:00:00.000Z",
+                "checksum": "e21d21dee5b20bf3e553b2616e7b00ca"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-099-10.v",
+        "jwb-099-10"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/1b/jwb-099_E_10.vtt",
+    "Name": "pub-jwb-099_E_10_VIDEO",
+    "Title": "Gary Breaux: Prepare Your Heart for Prayer (Ezra 7:10)",
+    "UndatedReferenceTitle": "Gary Breaux: Prepare Your Heart for Prayer (Ezra 7:10)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

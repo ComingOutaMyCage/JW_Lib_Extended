@@ -1,0 +1,102 @@
+{
+    "guid": "64628488ffba8b1568002dcc",
+    "languageAgnosticNaturalKey": "pub-jwb-104_8_VIDEO",
+    "naturalKey": "pub-jwb-104_E_8_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtGilead",
+    "description": "",
+    "firstPublished": "2023-06-06T19:39:56.915Z",
+    "duration": 619.456,
+    "durationFormattedHHMM": "10:19",
+    "durationFormattedMinSec": "10m 19s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/53/jwb-104_E_08_r240P.mp4",
+            "checksum": "829dca09d5d43456da078df654ca0c7b",
+            "filesize": 15511080,
+            "modifiedDatetime": "2023-06-06T16:28:25.000Z",
+            "bitRate": 195.6237610096601,
+            "duration": 619.456,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/78/jwb-104_E_08.vtt",
+                "modifiedDatetime": "2023-06-06T16:28:14.000Z",
+                "checksum": "44b858fda6273cb36164d7941e94a129"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/41/jwb-104_E_08_r360P.mp4",
+            "checksum": "87473903dbb61047bd69f812e6645bdd",
+            "filesize": 25544599,
+            "modifiedDatetime": "2023-06-06T16:28:23.000Z",
+            "bitRate": 322.1652218842016,
+            "duration": 619.456,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/78/jwb-104_E_08.vtt",
+                "modifiedDatetime": "2023-06-06T16:28:14.000Z",
+                "checksum": "44b858fda6273cb36164d7941e94a129"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/af/jwb-104_E_08_r480P.mp4",
+            "checksum": "d98f0394fe33cef09cc8abf562877402",
+            "filesize": 48062297,
+            "modifiedDatetime": "2023-06-06T16:28:20.000Z",
+            "bitRate": 606.1555547327009,
+            "duration": 619.456,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/78/jwb-104_E_08.vtt",
+                "modifiedDatetime": "2023-06-06T16:28:14.000Z",
+                "checksum": "44b858fda6273cb36164d7941e94a129"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/73/jwb-104_E_08_r720P.mp4",
+            "checksum": "c5736449f6346772b3bac8c811f481b2",
+            "filesize": 83783700,
+            "modifiedDatetime": "2023-06-06T16:28:15.000Z",
+            "bitRate": 1056.6693296214744,
+            "duration": 619.456,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/78/jwb-104_E_08.vtt",
+                "modifiedDatetime": "2023-06-06T16:28:14.000Z",
+                "checksum": "44b858fda6273cb36164d7941e94a129"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-104-8.v",
+        "jwb-104-8"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/78/jwb-104_E_08.vtt",
+    "Name": "pub-jwb-104_E_8_VIDEO",
+    "Title": "Richard Chilton: “Where You Go I Will Go”",
+    "UndatedReferenceTitle": "Richard Chilton: “Where You Go I Will Go”",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODPgmEvtGilead"
+}

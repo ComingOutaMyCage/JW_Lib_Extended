@@ -1,0 +1,102 @@
+{
+    "guid": "63adbb6c04eee96886f695da",
+    "languageAgnosticNaturalKey": "pub-jwb-092_14_VIDEO",
+    "naturalKey": "pub-jwb-092_E_14_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2023-03-24T13:04:37.227Z",
+    "duration": 608.619,
+    "durationFormattedHHMM": "10:08",
+    "durationFormattedMinSec": "10m 8s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/1d/jwb-092_E_14_r240P.mp4",
+            "checksum": "2d14d998786c7884ff8e28bba739b84c",
+            "filesize": 10863902,
+            "modifiedDatetime": "2023-03-24T13:00:36.000Z",
+            "bitRate": 139.45380340574317,
+            "duration": 608.619,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/2a/jwb-092_E_14.vtt",
+                "modifiedDatetime": "2023-03-24T13:00:25.000Z",
+                "checksum": "0c1d37434610efd250c46e7a11c1bb69"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/9a/jwb-092_E_14_r360P.mp4",
+            "checksum": "bf172171b489b1e5d66691b4f7a92caf",
+            "filesize": 17946640,
+            "modifiedDatetime": "2023-03-24T13:00:33.000Z",
+            "bitRate": 230.37092992496125,
+            "duration": 608.619,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/2a/jwb-092_E_14.vtt",
+                "modifiedDatetime": "2023-03-24T13:00:25.000Z",
+                "checksum": "0c1d37434610efd250c46e7a11c1bb69"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/56/jwb-092_E_14_r480P.mp4",
+            "checksum": "5e527a5cf0bdf7746c58d98df840a1a3",
+            "filesize": 31120240,
+            "modifiedDatetime": "2023-03-24T13:00:30.000Z",
+            "bitRate": 399.4730282820615,
+            "duration": 608.619,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/2a/jwb-092_E_14.vtt",
+                "modifiedDatetime": "2023-03-24T13:00:25.000Z",
+                "checksum": "0c1d37434610efd250c46e7a11c1bb69"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/80/jwb-092_E_14_r720P.mp4",
+            "checksum": "64b1d9a5c304ce960dbdfd1f88d72e76",
+            "filesize": 52896754,
+            "modifiedDatetime": "2023-03-24T13:00:26.000Z",
+            "bitRate": 679.0058979837961,
+            "duration": 608.619,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/2a/jwb-092_E_14.vtt",
+                "modifiedDatetime": "2023-03-24T13:00:25.000Z",
+                "checksum": "0c1d37434610efd250c46e7a11c1bb69"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-092-14.v",
+        "jwb-092-14"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/2a/jwb-092_E_14.vtt",
+    "Name": "pub-jwb-092_E_14_VIDEO",
+    "Title": "Kenneth Cook, Jr.: Avoid Deception, and Follow the Kingdom (Jer. 10:23)",
+    "UndatedReferenceTitle": "Kenneth Cook, Jr.: Avoid Deception, and Follow the Kingdom (Jer. 10:23)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

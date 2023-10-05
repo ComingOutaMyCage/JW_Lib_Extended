@@ -1,0 +1,102 @@
+{
+    "guid": "63adc74904eee96886f6b874",
+    "languageAgnosticNaturalKey": "pub-jwb-092_13_VIDEO",
+    "naturalKey": "pub-jwb-092_E_13_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2023-03-24T13:04:32.910Z",
+    "duration": 618.582,
+    "durationFormattedHHMM": "10:18",
+    "durationFormattedMinSec": "10m 18s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/61/jwb-092_E_13_r240P.mp4",
+            "checksum": "4c5bc58a57fdaaeb6477de8a122d87f9",
+            "filesize": 12785585,
+            "modifiedDatetime": "2023-03-24T13:00:50.000Z",
+            "bitRate": 161.47799776343314,
+            "duration": 618.582,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/06/jwb-092_E_13.vtt",
+                "modifiedDatetime": "2023-03-24T13:00:42.000Z",
+                "checksum": "233dd1a69cf0ebadf0dc3093d032db24"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/82/jwb-092_E_13_r360P.mp4",
+            "checksum": "29a5f437d3fc2b79e3498481d1854bdf",
+            "filesize": 21297599,
+            "modifiedDatetime": "2023-03-24T13:00:48.000Z",
+            "bitRate": 268.9821110014517,
+            "duration": 618.582,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/06/jwb-092_E_13.vtt",
+                "modifiedDatetime": "2023-03-24T13:00:42.000Z",
+                "checksum": "233dd1a69cf0ebadf0dc3093d032db24"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/7d/jwb-092_E_13_r480P.mp4",
+            "checksum": "0863b38f3d41b0af088d87e784285ace",
+            "filesize": 37566442,
+            "modifiedDatetime": "2023-03-24T13:00:46.000Z",
+            "bitRate": 474.4525836914104,
+            "duration": 618.582,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/06/jwb-092_E_13.vtt",
+                "modifiedDatetime": "2023-03-24T13:00:42.000Z",
+                "checksum": "233dd1a69cf0ebadf0dc3093d032db24"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/39/jwb-092_E_13_r720P.mp4",
+            "checksum": "73c84b032cb10f7fa34d9eb4feb7d2cd",
+            "filesize": 63983447,
+            "modifiedDatetime": "2023-03-24T13:00:43.000Z",
+            "bitRate": 808.0912145641161,
+            "duration": 618.582,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/06/jwb-092_E_13.vtt",
+                "modifiedDatetime": "2023-03-24T13:00:42.000Z",
+                "checksum": "233dd1a69cf0ebadf0dc3093d032db24"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-092-13.v",
+        "jwb-092-13"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/06/jwb-092_E_13.vtt",
+    "Name": "pub-jwb-092_E_13_VIDEO",
+    "Title": "Izak Marais: Always Be Gracious in Your Speech (Col. 4:6)",
+    "UndatedReferenceTitle": "Izak Marais: Always Be Gracious in Your Speech (Col. 4:6)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

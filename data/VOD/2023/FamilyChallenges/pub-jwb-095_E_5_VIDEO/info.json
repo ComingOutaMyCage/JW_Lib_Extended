@@ -1,0 +1,102 @@
+{
+    "guid": "634dd9f0de06767d855a7012",
+    "languageAgnosticNaturalKey": "pub-jwb-095_5_VIDEO",
+    "naturalKey": "pub-jwb-095_E_5_VIDEO",
+    "type": "video",
+    "primaryCategory": "FamilyChallenges",
+    "description": "",
+    "firstPublished": "2023-04-17T12:42:54.040Z",
+    "duration": 304.107,
+    "durationFormattedHHMM": "5:04",
+    "durationFormattedMinSec": "5m 4s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/c5/jwb-095_E_05_r240P.mp4",
+            "checksum": "8fa1abfcf572260bf5b0bc26f5340528",
+            "filesize": 11557253,
+            "modifiedDatetime": "2023-04-17T05:12:38.000Z",
+            "bitRate": 296.9054939955344,
+            "duration": 304.107,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/9a/jwb-095_E_05.vtt",
+                "modifiedDatetime": "2023-04-17T05:12:29.000Z",
+                "checksum": "079d2f422a60fce3e05552bc38191343"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/1d/jwb-095_E_05_r360P.mp4",
+            "checksum": "f57fd8fdd6470095db94988e1ebbd311",
+            "filesize": 17834101,
+            "modifiedDatetime": "2023-04-17T05:12:35.000Z",
+            "bitRate": 458.1575368620255,
+            "duration": 304.107,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/9a/jwb-095_E_05.vtt",
+                "modifiedDatetime": "2023-04-17T05:12:29.000Z",
+                "checksum": "079d2f422a60fce3e05552bc38191343"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/54/jwb-095_E_05_r480P.mp4",
+            "checksum": "c29b70a8c2210a7fd2ef2e91519e13e4",
+            "filesize": 32888565,
+            "modifiedDatetime": "2023-04-17T05:12:33.000Z",
+            "bitRate": 844.9062799031261,
+            "duration": 304.107,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/9a/jwb-095_E_05.vtt",
+                "modifiedDatetime": "2023-04-17T05:12:29.000Z",
+                "checksum": "079d2f422a60fce3e05552bc38191343"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/56/jwb-095_E_05_r720P.mp4",
+            "checksum": "7d7f22b96bd6ec2b957f4fbd85270e3b",
+            "filesize": 53358646,
+            "modifiedDatetime": "2023-04-17T05:12:31.000Z",
+            "bitRate": 1370.7820664272772,
+            "duration": 304.107,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/9a/jwb-095_E_05.vtt",
+                "modifiedDatetime": "2023-04-17T05:12:29.000Z",
+                "checksum": "079d2f422a60fce3e05552bc38191343"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-095-5.v",
+        "jwb-095-5"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/9a/jwb-095_E_05.vtt",
+    "Name": "pub-jwb-095_E_5_VIDEO",
+    "Title": "Language of the Heart",
+    "UndatedReferenceTitle": "Language of the Heart",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "FamilyChallenges"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "6499df890ba3d6ad9f764737",
+    "languageAgnosticNaturalKey": "docid-502100012_1_VIDEO",
+    "naturalKey": "docid-502100012_E_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesWhiteboard",
+    "description": "",
+    "firstPublished": "2023-07-27T15:59:16.079Z",
+    "duration": 209.6,
+    "durationFormattedHHMM": "3:29",
+    "durationFormattedMinSec": "3m 29s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/68/502100012_E_cnt_1_r240P.mp4",
+            "checksum": "e1c84ce91b615618c5c0e92b31327ff7",
+            "filesize": 5294805,
+            "modifiedDatetime": "2023-07-27T13:24:04.000Z",
+            "bitRate": 197.35526747375954,
+            "duration": 209.6,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/26/502100012_E_cnt_1.vtt",
+                "modifiedDatetime": "2023-07-27T13:24:06.000Z",
+                "checksum": "a3c680212f97b028811a186b7c431f43"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/dd/502100012_E_cnt_1_r360P.mp4",
+            "checksum": "08182db8978e76768c89b156f965134d",
+            "filesize": 8004714,
+            "modifiedDatetime": "2023-07-27T13:24:02.000Z",
+            "bitRate": 298.36272960400765,
+            "duration": 209.6,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/26/502100012_E_cnt_1.vtt",
+                "modifiedDatetime": "2023-07-27T13:24:06.000Z",
+                "checksum": "a3c680212f97b028811a186b7c431f43"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/f9/502100012_E_cnt_1_r480P.mp4",
+            "checksum": "439036d17c7a3fc899bfcf561aa82766",
+            "filesize": 12849062,
+            "modifiedDatetime": "2023-07-27T13:23:57.000Z",
+            "bitRate": 478.92794310591603,
+            "duration": 209.6,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/26/502100012_E_cnt_1.vtt",
+                "modifiedDatetime": "2023-07-27T13:24:06.000Z",
+                "checksum": "a3c680212f97b028811a186b7c431f43"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/3b/502100012_E_cnt_1_r720P.mp4",
+            "checksum": "01ffbbc3d0d53e496eecfb198ea4d5f2",
+            "filesize": 18272465,
+            "modifiedDatetime": "2023-07-27T13:23:53.000Z",
+            "bitRate": 681.0764924260496,
+            "duration": 209.6,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/26/502100012_E_cnt_1.vtt",
+                "modifiedDatetime": "2023-07-27T13:24:06.000Z",
+                "checksum": "a3c680212f97b028811a186b7c431f43"
+            }
+        }
+    ],
+    "printReferences": [
+        "502100012-1.v",
+        "502100012-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/content_assets/26/502100012_E_cnt_1.vtt",
+    "Name": "docid-502100012_E_1_VIDEO",
+    "Title": "What Is Prejudice?",
+    "UndatedReferenceTitle": "What Is Prejudice?",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "SeriesWhiteboard"
+}

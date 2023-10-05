@@ -1,0 +1,102 @@
+{
+    "guid": "63fe52cdf53f48d61f76e3b0",
+    "languageAgnosticNaturalKey": "docid-1001072331_1_VIDEO",
+    "naturalKey": "docid-1001072331_E_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODBibleMedia",
+    "description": "",
+    "firstPublished": "2023-04-21T14:59:20.249Z",
+    "duration": 117.462,
+    "durationFormattedHHMM": "1:57",
+    "durationFormattedMinSec": "1m 57s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/cf/1001072331_E_cnt_1_r240P.mp4",
+            "checksum": "1cd9e0570c05546c17d6a4a6b584b9d9",
+            "filesize": 3705250,
+            "modifiedDatetime": "2023-04-21T13:27:52.000Z",
+            "bitRate": 246.43940699971054,
+            "duration": 117.462,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/ff/1001072331_E_cnt_1.vtt",
+                "modifiedDatetime": "2023-04-21T13:27:45.000Z",
+                "checksum": "55e04029e352b00464ad50c246030441"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/3d/1001072331_E_cnt_1_r360P.mp4",
+            "checksum": "71486aa0a840e5f1e644ad42b386a62f",
+            "filesize": 5672341,
+            "modifiedDatetime": "2023-04-21T13:27:51.000Z",
+            "bitRate": 377.27234392824914,
+            "duration": 117.462,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/ff/1001072331_E_cnt_1.vtt",
+                "modifiedDatetime": "2023-04-21T13:27:45.000Z",
+                "checksum": "55e04029e352b00464ad50c246030441"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/ed/1001072331_E_cnt_1_r480P.mp4",
+            "checksum": "0cb11a285d00c12641774055cf200997",
+            "filesize": 10827467,
+            "modifiedDatetime": "2023-04-21T13:27:48.000Z",
+            "bitRate": 720.1442674013723,
+            "duration": 117.462,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/ff/1001072331_E_cnt_1.vtt",
+                "modifiedDatetime": "2023-04-21T13:27:45.000Z",
+                "checksum": "55e04029e352b00464ad50c246030441"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/2e/1001072331_E_cnt_1_r720P.mp4",
+            "checksum": "adbfa04a05249f1648ae0475fbf5537d",
+            "filesize": 18494831,
+            "modifiedDatetime": "2023-04-21T13:27:46.000Z",
+            "bitRate": 1230.10732992372,
+            "duration": 117.462,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/ff/1001072331_E_cnt_1.vtt",
+                "modifiedDatetime": "2023-04-21T13:27:45.000Z",
+                "checksum": "55e04029e352b00464ad50c246030441"
+            }
+        }
+    ],
+    "printReferences": [
+        "1001072331-1.v",
+        "1001072331-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/content_assets/ff/1001072331_E_cnt_1.vtt",
+    "Name": "docid-1001072331_E_1_VIDEO",
+    "Title": "“The Wall in Between”",
+    "UndatedReferenceTitle": "“The Wall in Between”",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODBibleMedia"
+}

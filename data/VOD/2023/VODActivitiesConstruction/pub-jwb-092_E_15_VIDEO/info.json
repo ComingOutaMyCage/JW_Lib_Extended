@@ -1,0 +1,102 @@
+{
+    "guid": "63e6a612c52251b22a58e049",
+    "languageAgnosticNaturalKey": "pub-jwb-092_15_VIDEO",
+    "naturalKey": "pub-jwb-092_E_15_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODActivitiesConstruction",
+    "description": "",
+    "firstPublished": "2023-03-27T12:44:33.267Z",
+    "duration": 310.87,
+    "durationFormattedHHMM": "5:10",
+    "durationFormattedMinSec": "5m 10s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/94/jwb-092_E_15_r240P.mp4",
+            "checksum": "8077783310fc7c5df2534cff68d31a74",
+            "filesize": 12469759,
+            "modifiedDatetime": "2023-03-27T04:04:04.000Z",
+            "bitRate": 313.3785575562132,
+            "duration": 310.87,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/2f/jwb-092_E_15.vtt",
+                "modifiedDatetime": "2023-03-27T04:03:51.000Z",
+                "checksum": "5da4287c9fc441ba31eaeebd05ae179d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/28/jwb-092_E_15_r360P.mp4",
+            "checksum": "59a9ab615196280daa043646ba8b9643",
+            "filesize": 21115390,
+            "modifiedDatetime": "2023-03-27T04:04:01.000Z",
+            "bitRate": 530.6526341396725,
+            "duration": 310.87,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/2f/jwb-092_E_15.vtt",
+                "modifiedDatetime": "2023-03-27T04:03:51.000Z",
+                "checksum": "5da4287c9fc441ba31eaeebd05ae179d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/da/jwb-092_E_15_r480P.mp4",
+            "checksum": "724b1dc5d04ddb8eca4b91dd869a64e5",
+            "filesize": 40977552,
+            "modifiedDatetime": "2023-03-27T04:03:58.000Z",
+            "bitRate": 1029.810290475118,
+            "duration": 310.87,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/2f/jwb-092_E_15.vtt",
+                "modifiedDatetime": "2023-03-27T04:03:51.000Z",
+                "checksum": "5da4287c9fc441ba31eaeebd05ae179d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/22/jwb-092_E_15_r720P.mp4",
+            "checksum": "308dff396a0c57dcd56c4988a2e10d6e",
+            "filesize": 69371277,
+            "modifiedDatetime": "2023-03-27T04:03:54.000Z",
+            "bitRate": 1743.375370934796,
+            "duration": 310.87,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/2f/jwb-092_E_15.vtt",
+                "modifiedDatetime": "2023-03-27T04:03:51.000Z",
+                "checksum": "5da4287c9fc441ba31eaeebd05ae179d"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-092-15.v",
+        "jwb-092-15"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/2f/jwb-092_E_15.vtt",
+    "Name": "pub-jwb-092_E_15_VIDEO",
+    "Title": "Brazil Branch Renovation",
+    "UndatedReferenceTitle": "Brazil Branch Renovation",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODActivitiesConstruction"
+}

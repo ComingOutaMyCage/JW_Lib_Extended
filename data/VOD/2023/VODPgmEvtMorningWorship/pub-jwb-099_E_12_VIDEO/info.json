@@ -1,0 +1,102 @@
+{
+    "guid": "63ed2d05c52251b22a654ea6",
+    "languageAgnosticNaturalKey": "pub-jwb-099_12_VIDEO",
+    "naturalKey": "pub-jwb-099_E_12_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2023-07-21T13:23:55.203Z",
+    "duration": 633.622,
+    "durationFormattedHHMM": "10:33",
+    "durationFormattedMinSec": "10m 33s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/07/jwb-099_E_12_r240P.mp4",
+            "checksum": "64ba257485aa3328c4ef67d6946979cc",
+            "filesize": 13426976,
+            "modifiedDatetime": "2023-07-21T13:02:07.000Z",
+            "bitRate": 165.55335831142227,
+            "duration": 633.622,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/be/jwb-099_E_12.vtt",
+                "modifiedDatetime": "2023-07-21T13:01:57.000Z",
+                "checksum": "edce053388da14a810e2aaac69ea6956"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/88/jwb-099_E_12_r360P.mp4",
+            "checksum": "4a44e1ccc7f4550ddab17e8512c5086a",
+            "filesize": 21440789,
+            "modifiedDatetime": "2023-07-21T13:02:03.000Z",
+            "bitRate": 264.36292310320664,
+            "duration": 633.622,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/be/jwb-099_E_12.vtt",
+                "modifiedDatetime": "2023-07-21T13:01:57.000Z",
+                "checksum": "edce053388da14a810e2aaac69ea6956"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/7d/jwb-099_E_12_r480P.mp4",
+            "checksum": "0fa351b7242dda02786d0976762c4849",
+            "filesize": 37313036,
+            "modifiedDatetime": "2023-07-21T13:02:00.000Z",
+            "bitRate": 460.0662441487196,
+            "duration": 633.622,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/be/jwb-099_E_12.vtt",
+                "modifiedDatetime": "2023-07-21T13:01:57.000Z",
+                "checksum": "edce053388da14a810e2aaac69ea6956"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/8b/jwb-099_E_12_r720P.mp4",
+            "checksum": "339aa571d8bcbe82d2d6df309d5930ea",
+            "filesize": 64977206,
+            "modifiedDatetime": "2023-07-21T13:01:58.000Z",
+            "bitRate": 801.1628729352832,
+            "duration": 633.622,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/be/jwb-099_E_12.vtt",
+                "modifiedDatetime": "2023-07-21T13:01:57.000Z",
+                "checksum": "edce053388da14a810e2aaac69ea6956"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-099-12.v",
+        "jwb-099-12"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/be/jwb-099_E_12.vtt",
+    "Name": "pub-jwb-099_E_12_VIDEO",
+    "Title": "Ronald Curzan: “Dwell Together in Unity!” (Ps. 133:1)",
+    "UndatedReferenceTitle": "Ronald Curzan: “Dwell Together in Unity!” (Ps. 133:1)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "6346d6d8de06767d85488802",
+    "languageAgnosticNaturalKey": "pub-jwb-101_4_VIDEO",
+    "naturalKey": "pub-jwb-101_E_4_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODBibleTranslations",
+    "description": "",
+    "firstPublished": "2023-08-21T18:22:57.159Z",
+    "duration": 301.483,
+    "durationFormattedHHMM": "5:01",
+    "durationFormattedMinSec": "5m 1s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/93/jwb-101_E_04_r240P.mp4",
+            "checksum": "f1105a19015496987bc5c08ccc9ffd82",
+            "filesize": 8335047,
+            "modifiedDatetime": "2023-08-21T18:19:18.000Z",
+            "bitRate": 215.9908010982377,
+            "duration": 301.483,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/eb/jwb-101_E_04.vtt",
+                "modifiedDatetime": "2023-08-21T18:19:05.000Z",
+                "checksum": "f160add6cd54c746dc7e063e80131f4c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/45/jwb-101_E_04_r360P.mp4",
+            "checksum": "5153c7bef7ae94b47b8cde612c3f74cb",
+            "filesize": 13127267,
+            "modifiedDatetime": "2023-08-21T18:19:17.000Z",
+            "bitRate": 340.17431642082636,
+            "duration": 301.483,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/eb/jwb-101_E_04.vtt",
+                "modifiedDatetime": "2023-08-21T18:19:05.000Z",
+                "checksum": "f160add6cd54c746dc7e063e80131f4c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/81/jwb-101_E_04_r480P.mp4",
+            "checksum": "f58300df45c38bce4236c0dcbbd2e01b",
+            "filesize": 24112796,
+            "modifiedDatetime": "2023-08-21T18:19:13.000Z",
+            "bitRate": 624.8485611128986,
+            "duration": 301.483,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/eb/jwb-101_E_04.vtt",
+                "modifiedDatetime": "2023-08-21T18:19:05.000Z",
+                "checksum": "f160add6cd54c746dc7e063e80131f4c"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/5a/jwb-101_E_04_r720P.mp4",
+            "checksum": "e3c9d2c9ee50f9010abb01cbb9deac28",
+            "filesize": 40704604,
+            "modifiedDatetime": "2023-08-21T18:19:09.000Z",
+            "bitRate": 1054.8014937824023,
+            "duration": 301.483,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/eb/jwb-101_E_04.vtt",
+                "modifiedDatetime": "2023-08-21T18:19:05.000Z",
+                "checksum": "f160add6cd54c746dc7e063e80131f4c"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-101-4.v",
+        "jwb-101-4"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/eb/jwb-101_E_04.vtt",
+    "Name": "pub-jwb-101_E_4_VIDEO",
+    "Title": "The Magdeburger Bible—A Rediscovered Treasure",
+    "UndatedReferenceTitle": "The Magdeburger Bible—A Rediscovered Treasure",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODBibleTranslations"
+}

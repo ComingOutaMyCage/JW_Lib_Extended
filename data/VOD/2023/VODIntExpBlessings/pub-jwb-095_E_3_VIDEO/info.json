@@ -1,0 +1,102 @@
+{
+    "guid": "62f65c917738170e4e8dcbac",
+    "languageAgnosticNaturalKey": "pub-jwb-095_3_VIDEO",
+    "naturalKey": "pub-jwb-095_E_3_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpBlessings",
+    "description": "",
+    "firstPublished": "2023-04-17T12:43:39.023Z",
+    "duration": 306.368,
+    "durationFormattedHHMM": "5:06",
+    "durationFormattedMinSec": "5m 6s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/8a/jwb-095_E_03_r240P.mp4",
+            "checksum": "e63871154b1251a45b9aabe374e9a164",
+            "filesize": 8580860,
+            "modifiedDatetime": "2023-04-17T05:13:11.000Z",
+            "bitRate": 218.8151789677773,
+            "duration": 306.368,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/93/jwb-095_E_03.vtt",
+                "modifiedDatetime": "2023-04-17T05:12:56.000Z",
+                "checksum": "79b451a83137d4efe7da61c5ea948e99"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/5d/jwb-095_E_03_r360P.mp4",
+            "checksum": "c692aadb3e6cb46c39bbd58193d33ba1",
+            "filesize": 13981399,
+            "modifiedDatetime": "2023-04-17T05:13:09.000Z",
+            "bitRate": 356.5309682718169,
+            "duration": 306.368,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/93/jwb-095_E_03.vtt",
+                "modifiedDatetime": "2023-04-17T05:12:56.000Z",
+                "checksum": "79b451a83137d4efe7da61c5ea948e99"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/8b/jwb-095_E_03_r480P.mp4",
+            "checksum": "2c9da2332606478a3c5061010c437a96",
+            "filesize": 24745019,
+            "modifiedDatetime": "2023-04-17T05:13:04.000Z",
+            "bitRate": 631.0073536971877,
+            "duration": 306.368,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/93/jwb-095_E_03.vtt",
+                "modifiedDatetime": "2023-04-17T05:12:56.000Z",
+                "checksum": "79b451a83137d4efe7da61c5ea948e99"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/22/jwb-095_E_03_r720P.mp4",
+            "checksum": "c369705f5e08f57d51b16aff53469832",
+            "filesize": 38895098,
+            "modifiedDatetime": "2023-04-17T05:13:00.000Z",
+            "bitRate": 991.8397258362493,
+            "duration": 306.368,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/93/jwb-095_E_03.vtt",
+                "modifiedDatetime": "2023-04-17T05:12:56.000Z",
+                "checksum": "79b451a83137d4efe7da61c5ea948e99"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-095-3.v",
+        "jwb-095-3"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/93/jwb-095_E_03.vtt",
+    "Name": "pub-jwb-095_E_3_VIDEO",
+    "Title": "Greg and Joren Harris: Raising a Spiritual Family",
+    "UndatedReferenceTitle": "Greg and Joren Harris: Raising a Spiritual Family",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODIntExpBlessings"
+}

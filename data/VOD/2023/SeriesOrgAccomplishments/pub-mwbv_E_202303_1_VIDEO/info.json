@@ -1,0 +1,102 @@
+{
+    "guid": "631a3d84e437cf0411f8a38e",
+    "languageAgnosticNaturalKey": "pub-mwbv_202303_1_VIDEO",
+    "naturalKey": "pub-mwbv_E_202303_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesOrgAccomplishments",
+    "description": "",
+    "firstPublished": "2023-02-06T14:57:24.599Z",
+    "duration": 575.915,
+    "durationFormattedHHMM": "9:35",
+    "durationFormattedMinSec": "9m 35s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/7b/mwbv_E_202303_01_r240P.mp4",
+            "checksum": "eb7157097f9655f925f76c8affb7ac5f",
+            "filesize": 18072768,
+            "modifiedDatetime": "2023-02-06T05:23:32.000Z",
+            "bitRate": 245.16378284989975,
+            "duration": 575.915,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/67/mwbv_E_202303_01.vtt",
+                "modifiedDatetime": "2023-02-06T05:23:18.000Z",
+                "checksum": "ea01b9c7c414d8faf6ac972635625cfa"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/d1/mwbv_E_202303_01_r360P.mp4",
+            "checksum": "c6ab47d3c2d6a591de1e0be65cc81c81",
+            "filesize": 29200177,
+            "modifiedDatetime": "2023-02-06T05:23:29.000Z",
+            "bitRate": 396.11120184836307,
+            "duration": 575.915,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/67/mwbv_E_202303_01.vtt",
+                "modifiedDatetime": "2023-02-06T05:23:18.000Z",
+                "checksum": "ea01b9c7c414d8faf6ac972635625cfa"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/6d/mwbv_E_202303_01_r480P.mp4",
+            "checksum": "b84f3f81f3752db0f0ffe7fa6cd7cb82",
+            "filesize": 52799390,
+            "modifiedDatetime": "2023-02-06T05:23:26.000Z",
+            "bitRate": 716.243255298091,
+            "duration": 575.915,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/67/mwbv_E_202303_01.vtt",
+                "modifiedDatetime": "2023-02-06T05:23:18.000Z",
+                "checksum": "ea01b9c7c414d8faf6ac972635625cfa"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/ed/mwbv_E_202303_01_r720P.mp4",
+            "checksum": "2ca6d5f6031bc970ebe8aea505f59334",
+            "filesize": 84958875,
+            "modifiedDatetime": "2023-02-06T05:23:22.000Z",
+            "bitRate": 1152.4985647838657,
+            "duration": 575.915,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/67/mwbv_E_202303_01.vtt",
+                "modifiedDatetime": "2023-02-06T05:23:18.000Z",
+                "checksum": "ea01b9c7c414d8faf6ac972635625cfa"
+            }
+        }
+    ],
+    "printReferences": [
+        "mwbv.202303-1.v",
+        "mwbv.202303-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/67/mwbv_E_202303_01.vtt",
+    "Name": "pub-mwbv_E_202303_1_VIDEO",
+    "Title": "Organizational Accomplishments—Global Museums Bring Praise to Jehovah",
+    "UndatedReferenceTitle": "Organizational Accomplishments—Global Museums Bring Praise to Jehovah",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "SeriesOrgAccomplishments"
+}

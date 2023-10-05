@@ -1,0 +1,102 @@
+{
+    "guid": "630cc8d8e437cf0411b6fe56",
+    "languageAgnosticNaturalKey": "pub-jwb-095_6_VIDEO",
+    "naturalKey": "pub-jwb-095_E_6_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2023-04-17T12:42:42.777Z",
+    "duration": 591.744,
+    "durationFormattedHHMM": "9:51",
+    "durationFormattedMinSec": "9m 51s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/bd/jwb-095_E_06_r240P.mp4",
+            "checksum": "08711b13afc9c85201aff83585996d81",
+            "filesize": 12779756,
+            "modifiedDatetime": "2023-04-17T05:12:26.000Z",
+            "bitRate": 168.72472513451763,
+            "duration": 591.744,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/2c/jwb-095_E_06.vtt",
+                "modifiedDatetime": "2023-04-17T05:12:14.000Z",
+                "checksum": "d60058045ec5d98cf5008457f47bd691"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/78/jwb-095_E_06_r360P.mp4",
+            "checksum": "5a66e9a1887b40406934559d78502c5c",
+            "filesize": 20650414,
+            "modifiedDatetime": "2023-04-17T05:12:21.000Z",
+            "bitRate": 272.6370852513925,
+            "duration": 591.744,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/2c/jwb-095_E_06.vtt",
+                "modifiedDatetime": "2023-04-17T05:12:14.000Z",
+                "checksum": "d60058045ec5d98cf5008457f47bd691"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/40/jwb-095_E_06_r480P.mp4",
+            "checksum": "936048aec8ce7340bd6b439423e78d30",
+            "filesize": 35542974,
+            "modifiedDatetime": "2023-04-17T05:12:19.000Z",
+            "bitRate": 469.25610462463493,
+            "duration": 591.744,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/2c/jwb-095_E_06.vtt",
+                "modifiedDatetime": "2023-04-17T05:12:14.000Z",
+                "checksum": "d60058045ec5d98cf5008457f47bd691"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/af/jwb-095_E_06_r720P.mp4",
+            "checksum": "40925037c63de87a13291a233daf3ca1",
+            "filesize": 58212561,
+            "modifiedDatetime": "2023-04-17T05:12:17.000Z",
+            "bitRate": 768.5513208625689,
+            "duration": 591.744,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/2c/jwb-095_E_06.vtt",
+                "modifiedDatetime": "2023-04-17T05:12:14.000Z",
+                "checksum": "d60058045ec5d98cf5008457f47bd691"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-095-6.v",
+        "jwb-095-6"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/2c/jwb-095_E_06.vtt",
+    "Name": "pub-jwb-095_E_6_VIDEO",
+    "Title": "Robert Luccioni: Be a Gideon (Eph. 4:1, 2)",
+    "UndatedReferenceTitle": "Robert Luccioni: Be a Gideon (Eph. 4:1, 2)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

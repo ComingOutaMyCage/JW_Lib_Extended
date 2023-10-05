@@ -1,0 +1,102 @@
+{
+    "guid": "64935d5c0ba3d6ad9f6b6cf3",
+    "languageAgnosticNaturalKey": "pub-pkon_31_VIDEO",
+    "naturalKey": "pub-pkon_E_31_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBJFSongs",
+    "description": "",
+    "firstPublished": "2023-09-04T13:24:04.354Z",
+    "duration": 112.79,
+    "durationFormattedHHMM": "1:52",
+    "durationFormattedMinSec": "1m 52s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/8a/pkon_E_031_r240P.mp4",
+            "checksum": "d2ffbcc58b895e9fb3f1d45995916e93",
+            "filesize": 4043968,
+            "modifiedDatetime": "2023-09-04T04:02:37.000Z",
+            "bitRate": 280.1090522209416,
+            "duration": 112.79,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/7e/pkon_E_031.vtt",
+                "modifiedDatetime": "2023-09-04T04:02:22.000Z",
+                "checksum": "d516f6173463d9b39ebb5a893d7d058d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/df/pkon_E_031_r360P.mp4",
+            "checksum": "1f47d039b9f1ddb2fd8711a96c207fa5",
+            "filesize": 6255813,
+            "modifiedDatetime": "2023-09-04T04:02:34.000Z",
+            "bitRate": 433.31446992197885,
+            "duration": 112.79,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/7e/pkon_E_031.vtt",
+                "modifiedDatetime": "2023-09-04T04:02:22.000Z",
+                "checksum": "d516f6173463d9b39ebb5a893d7d058d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/a3/pkon_E_031_r480P.mp4",
+            "checksum": "c959a6480203d1edcec51a484f8158ce",
+            "filesize": 10897094,
+            "modifiedDatetime": "2023-09-04T04:02:31.000Z",
+            "bitRate": 754.7969401099388,
+            "duration": 112.79,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/7e/pkon_E_031.vtt",
+                "modifiedDatetime": "2023-09-04T04:02:22.000Z",
+                "checksum": "d516f6173463d9b39ebb5a893d7d058d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/a5/pkon_E_031_r720P.mp4",
+            "checksum": "2f871c116eb1d82578fa64d937c02431",
+            "filesize": 16136892,
+            "modifiedDatetime": "2023-09-04T04:02:28.000Z",
+            "bitRate": 1117.7362243993261,
+            "duration": 112.79,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/7e/pkon_E_031.vtt",
+                "modifiedDatetime": "2023-09-04T04:02:22.000Z",
+                "checksum": "d516f6173463d9b39ebb5a893d7d058d"
+            }
+        }
+    ],
+    "printReferences": [
+        "pkon-31.v",
+        "pkon-31"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/7e/pkon_E_031.vtt",
+    "Name": "pub-pkon_E_31_VIDEO",
+    "Title": "I Love to Clean!",
+    "UndatedReferenceTitle": "I Love to Clean!",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "SeriesBJFSongs"
+}

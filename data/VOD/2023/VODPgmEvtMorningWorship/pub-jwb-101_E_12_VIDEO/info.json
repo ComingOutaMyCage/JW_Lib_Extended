@@ -1,0 +1,102 @@
+{
+    "guid": "64678d6b6e905ddbf169d4f1",
+    "languageAgnosticNaturalKey": "pub-jwb-101_12_VIDEO",
+    "naturalKey": "pub-jwb-101_E_12_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2023-08-25T10:03:35.423Z",
+    "duration": 595.862,
+    "durationFormattedHHMM": "9:55",
+    "durationFormattedMinSec": "9m 55s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/8a/jwb-101_E_12_r240P.mp4",
+            "checksum": "ee51df2f4bf32c6948d328a197acc508",
+            "filesize": 12475818,
+            "modifiedDatetime": "2023-08-25T02:54:56.000Z",
+            "bitRate": 163.5736598826574,
+            "duration": 595.862,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/3a/jwb-101_E_12.vtt",
+                "modifiedDatetime": "2023-08-25T02:54:46.000Z",
+                "checksum": "5df1f1a2b7eae6196ebecbf392d8ea35"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/54/jwb-101_E_12_r360P.mp4",
+            "checksum": "2d4cd39fb16e66db80e0c2e6341d60bb",
+            "filesize": 20210322,
+            "modifiedDatetime": "2023-08-25T02:54:54.000Z",
+            "bitRate": 264.98273194967965,
+            "duration": 595.862,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/3a/jwb-101_E_12.vtt",
+                "modifiedDatetime": "2023-08-25T02:54:46.000Z",
+                "checksum": "5df1f1a2b7eae6196ebecbf392d8ea35"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/9d/jwb-101_E_12_r480P.mp4",
+            "checksum": "ba0ba3dab8bba5b6938db70fb4ab92b0",
+            "filesize": 35849158,
+            "modifiedDatetime": "2023-08-25T02:54:52.000Z",
+            "bitRate": 470.02753468924016,
+            "duration": 595.862,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/3a/jwb-101_E_12.vtt",
+                "modifiedDatetime": "2023-08-25T02:54:46.000Z",
+                "checksum": "5df1f1a2b7eae6196ebecbf392d8ea35"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/53/jwb-101_E_12_r720P.mp4",
+            "checksum": "79d83748a84fc52085b3ce1ff92f6837",
+            "filesize": 60496347,
+            "modifiedDatetime": "2023-08-25T02:54:50.000Z",
+            "bitRate": 793.1831715019586,
+            "duration": 595.862,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/3a/jwb-101_E_12.vtt",
+                "modifiedDatetime": "2023-08-25T02:54:46.000Z",
+                "checksum": "5df1f1a2b7eae6196ebecbf392d8ea35"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-101-12.v",
+        "jwb-101-12"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/3a/jwb-101_E_12.vtt",
+    "Name": "pub-jwb-101_E_12_VIDEO",
+    "Title": "Hermanus van Selm: Jehovah Cares for the Humble (Isa. 57:15)",
+    "UndatedReferenceTitle": "Hermanus van Selm: Jehovah Cares for the Humble (Isa. 57:15)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

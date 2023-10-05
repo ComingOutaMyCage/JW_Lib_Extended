@@ -1,0 +1,102 @@
+{
+    "guid": "63bc245e04eee96886836c53",
+    "languageAgnosticNaturalKey": "pub-jwb-095_12_VIDEO",
+    "naturalKey": "pub-jwb-095_E_12_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2023-04-21T14:59:32.370Z",
+    "duration": 595.243,
+    "durationFormattedHHMM": "9:55",
+    "durationFormattedMinSec": "9m 55s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/ee/jwb-095_E_12_r240P.mp4",
+            "checksum": "914941940197234db5ce8e5037e20340",
+            "filesize": 11511941,
+            "modifiedDatetime": "2023-04-21T13:26:59.000Z",
+            "bitRate": 151.09298061883968,
+            "duration": 595.243,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/cd/jwb-095_E_12.vtt",
+                "modifiedDatetime": "2023-04-21T13:26:49.000Z",
+                "checksum": "83532e3a8a795ba46efee94b55347f85"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/a6/jwb-095_E_12_r360P.mp4",
+            "checksum": "069ce9ab7a466fedde0aee53d00f6b62",
+            "filesize": 18969756,
+            "modifiedDatetime": "2023-04-21T13:26:55.000Z",
+            "bitRate": 248.97599593779344,
+            "duration": 595.243,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/cd/jwb-095_E_12.vtt",
+                "modifiedDatetime": "2023-04-21T13:26:49.000Z",
+                "checksum": "83532e3a8a795ba46efee94b55347f85"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/3a/jwb-095_E_12_r480P.mp4",
+            "checksum": "fa101e0ed01f1c0b3c259b2da160e0d9",
+            "filesize": 32443490,
+            "modifiedDatetime": "2023-04-21T13:26:52.000Z",
+            "bitRate": 425.81729751546845,
+            "duration": 595.243,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/cd/jwb-095_E_12.vtt",
+                "modifiedDatetime": "2023-04-21T13:26:49.000Z",
+                "checksum": "83532e3a8a795ba46efee94b55347f85"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/12/jwb-095_E_12_r720P.mp4",
+            "checksum": "062460cdaca1e381348d3a3f05d78efc",
+            "filesize": 53812858,
+            "modifiedDatetime": "2023-04-21T13:26:50.000Z",
+            "bitRate": 706.2879414373625,
+            "duration": 595.243,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/cd/jwb-095_E_12.vtt",
+                "modifiedDatetime": "2023-04-21T13:26:49.000Z",
+                "checksum": "83532e3a8a795ba46efee94b55347f85"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-095-12.v",
+        "jwb-095-12"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/cd/jwb-095_E_12.vtt",
+    "Name": "pub-jwb-095_E_12_VIDEO",
+    "Title": "Seth Hyatt: Give Gifts of Mercy (Luke 10:37)",
+    "UndatedReferenceTitle": "Seth Hyatt: Give Gifts of Mercy (Luke 10:37)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "64ad5e900ba3d6ad9fa5ae6c",
+    "languageAgnosticNaturalKey": "pub-jwb-101_9_VIDEO",
+    "naturalKey": "pub-jwb-101_E_9_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2023-08-18T13:54:58.191Z",
+    "duration": 575.488,
+    "durationFormattedHHMM": "9:35",
+    "durationFormattedMinSec": "9m 35s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/4a/jwb-101_E_09_r240P.mp4",
+            "checksum": "5ed3bd2d94d348fd8d08f1f43e9a12e0",
+            "filesize": 12392744,
+            "modifiedDatetime": "2023-08-18T13:45:53.000Z",
+            "bitRate": 168.23689199427267,
+            "duration": 575.488,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/32/jwb-101_E_09.vtt",
+                "modifiedDatetime": "2023-08-18T13:45:44.000Z",
+                "checksum": "1646ac29a02d0208758fb831e35909e2"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/56/jwb-101_E_09_r360P.mp4",
+            "checksum": "350ab75644348f3e82f78ec090ed93a1",
+            "filesize": 20494907,
+            "modifiedDatetime": "2023-08-18T13:45:52.000Z",
+            "bitRate": 278.2272800431981,
+            "duration": 575.488,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/32/jwb-101_E_09.vtt",
+                "modifiedDatetime": "2023-08-18T13:45:44.000Z",
+                "checksum": "1646ac29a02d0208758fb831e35909e2"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/35/jwb-101_E_09_r480P.mp4",
+            "checksum": "de6df7623fe4f8e3b32c4ccdc9d562e6",
+            "filesize": 36278077,
+            "modifiedDatetime": "2023-08-18T13:45:50.000Z",
+            "bitRate": 492.49068019228895,
+            "duration": 575.488,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/32/jwb-101_E_09.vtt",
+                "modifiedDatetime": "2023-08-18T13:45:44.000Z",
+                "checksum": "1646ac29a02d0208758fb831e35909e2"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/f8/jwb-101_E_09_r720P.mp4",
+            "checksum": "379e86d80888fc64d2b2fa2320138720",
+            "filesize": 62559288,
+            "modifiedDatetime": "2023-08-18T13:45:48.000Z",
+            "bitRate": 849.2695547083517,
+            "duration": 575.488,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/32/jwb-101_E_09.vtt",
+                "modifiedDatetime": "2023-08-18T13:45:44.000Z",
+                "checksum": "1646ac29a02d0208758fb831e35909e2"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-101-9.v",
+        "jwb-101-9"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/32/jwb-101_E_09.vtt",
+    "Name": "pub-jwb-101_E_9_VIDEO",
+    "Title": "Mark Noumair: Jehovah Encourages His Servant (Jer. 15:16)",
+    "UndatedReferenceTitle": "Mark Noumair: Jehovah Encourages His Servant (Jer. 15:16)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

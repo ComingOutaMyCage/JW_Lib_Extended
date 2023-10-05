@@ -1,0 +1,102 @@
+{
+    "guid": "63d81b96c52251b22afba39e",
+    "languageAgnosticNaturalKey": "pub-jwb-101_6_VIDEO",
+    "naturalKey": "pub-jwb-101_E_6_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpEndurance",
+    "description": "",
+    "firstPublished": "2023-08-21T18:23:33.268Z",
+    "duration": 304.64,
+    "durationFormattedHHMM": "5:04",
+    "durationFormattedMinSec": "5m 4s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/67/jwb-101_E_06_r240P.mp4",
+            "checksum": "ef55cd96498da3f805f5b5f411bebdb8",
+            "filesize": 9066739,
+            "modifiedDatetime": "2023-08-21T18:18:44.000Z",
+            "bitRate": 232.51673594242385,
+            "duration": 304.64,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/02/jwb-101_E_06.vtt",
+                "modifiedDatetime": "2023-08-21T18:18:33.000Z",
+                "checksum": "142b369dbd7bf2cc6703383b0be807d8"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/6b/jwb-101_E_06_r360P.mp4",
+            "checksum": "d4e84384308540318a5eabf03c4058f3",
+            "filesize": 15008626,
+            "modifiedDatetime": "2023-08-21T18:18:41.000Z",
+            "bitRate": 384.89656849067757,
+            "duration": 304.64,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/02/jwb-101_E_06.vtt",
+                "modifiedDatetime": "2023-08-21T18:18:33.000Z",
+                "checksum": "142b369dbd7bf2cc6703383b0be807d8"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/f4/jwb-101_E_06_r480P.mp4",
+            "checksum": "42dfb1e62f8cf9bc3901e041731f914c",
+            "filesize": 27198285,
+            "modifiedDatetime": "2023-08-21T18:18:37.000Z",
+            "bitRate": 697.5006616416098,
+            "duration": 304.64,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/02/jwb-101_E_06.vtt",
+                "modifiedDatetime": "2023-08-21T18:18:33.000Z",
+                "checksum": "142b369dbd7bf2cc6703383b0be807d8"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/86/jwb-101_E_06_r720P.mp4",
+            "checksum": "15312a76e0109f883aae4891c9455a17",
+            "filesize": 43803170,
+            "modifiedDatetime": "2023-08-21T18:18:35.000Z",
+            "bitRate": 1123.333329913997,
+            "duration": 304.64,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/02/jwb-101_E_06.vtt",
+                "modifiedDatetime": "2023-08-21T18:18:33.000Z",
+                "checksum": "142b369dbd7bf2cc6703383b0be807d8"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-101-6.v",
+        "jwb-101-6"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/02/jwb-101_E_06.vtt",
+    "Name": "pub-jwb-101_E_6_VIDEO",
+    "Title": "Maria Kaloyanoff: ‘Obeying God as Ruler’",
+    "UndatedReferenceTitle": "Maria Kaloyanoff: ‘Obeying God as Ruler’",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODIntExpEndurance"
+}

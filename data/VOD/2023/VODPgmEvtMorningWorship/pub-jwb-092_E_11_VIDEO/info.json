@@ -1,0 +1,102 @@
+{
+    "guid": "63ab213a04eee96886b8f4f8",
+    "languageAgnosticNaturalKey": "pub-jwb-092_11_VIDEO",
+    "naturalKey": "pub-jwb-092_E_11_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2023-03-17T13:45:03.079Z",
+    "duration": 523.286,
+    "durationFormattedHHMM": "8:43",
+    "durationFormattedMinSec": "8m 43s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/9e/jwb-092_E_11_r240P.mp4",
+            "checksum": "c6c678f42ae007c06ea077cf7e6d0b55",
+            "filesize": 11028197,
+            "modifiedDatetime": "2023-03-17T13:39:38.000Z",
+            "bitRate": 164.6476096484523,
+            "duration": 523.286,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/33/jwb-092_E_11.vtt",
+                "modifiedDatetime": "2023-03-17T13:39:20.000Z",
+                "checksum": "f90395ca1885eae44787ebad6d4db9e7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/bc/jwb-092_E_11_r360P.mp4",
+            "checksum": "9e3963582df555cc03c853db782e3593",
+            "filesize": 18030535,
+            "modifiedDatetime": "2023-03-17T13:39:34.000Z",
+            "bitRate": 269.19037522024286,
+            "duration": 523.286,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/33/jwb-092_E_11.vtt",
+                "modifiedDatetime": "2023-03-17T13:39:20.000Z",
+                "checksum": "f90395ca1885eae44787ebad6d4db9e7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/90/jwb-092_E_11_r480P.mp4",
+            "checksum": "a6d473f72acb712b5fb01fdf912071b2",
+            "filesize": 32123496,
+            "modifiedDatetime": "2023-03-17T13:39:28.000Z",
+            "bitRate": 479.5939744231644,
+            "duration": 523.286,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/33/jwb-092_E_11.vtt",
+                "modifiedDatetime": "2023-03-17T13:39:20.000Z",
+                "checksum": "f90395ca1885eae44787ebad6d4db9e7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/32/jwb-092_E_11_r720P.mp4",
+            "checksum": "4b3794359d26f768eec1d9313df1dc5b",
+            "filesize": 56538238,
+            "modifiedDatetime": "2023-03-17T13:39:22.000Z",
+            "bitRate": 844.0986083613933,
+            "duration": 523.286,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/33/jwb-092_E_11.vtt",
+                "modifiedDatetime": "2023-03-17T13:39:20.000Z",
+                "checksum": "f90395ca1885eae44787ebad6d4db9e7"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-092-11.v",
+        "jwb-092-11"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/33/jwb-092_E_11.vtt",
+    "Name": "pub-jwb-092_E_11_VIDEO",
+    "Title": "John Ekrann: Build Faith in the Resurrection (Acts 9:40)",
+    "UndatedReferenceTitle": "John Ekrann: Build Faith in the Resurrection (Acts 9:40)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

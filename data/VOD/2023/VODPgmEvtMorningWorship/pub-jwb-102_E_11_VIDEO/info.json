@@ -1,0 +1,102 @@
+{
+    "guid": "646f5a1c6e905ddbf176dd3c",
+    "languageAgnosticNaturalKey": "pub-jwb-102_11_VIDEO",
+    "naturalKey": "pub-jwb-102_E_11_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2023-09-22T13:24:38.874Z",
+    "duration": 571.286,
+    "durationFormattedHHMM": "9:31",
+    "durationFormattedMinSec": "9m 31s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/ba/jwb-102_E_11_r240P.mp4",
+            "checksum": "c3d4c15214de4570e6774abb59452b56",
+            "filesize": 12994472,
+            "modifiedDatetime": "2023-09-22T12:43:33.000Z",
+            "bitRate": 177.70313380688484,
+            "duration": 571.286,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/cc/jwb-102_E_11.vtt",
+                "modifiedDatetime": "2023-09-22T12:43:18.000Z",
+                "checksum": "9cf52b1207820a40adc85c572665a7d9"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/95/jwb-102_E_11_r360P.mp4",
+            "checksum": "b1879356397b1bdb7b78a7211393f432",
+            "filesize": 21376970,
+            "modifiedDatetime": "2023-09-22T12:43:28.000Z",
+            "bitRate": 292.33619960055034,
+            "duration": 571.286,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/cc/jwb-102_E_11.vtt",
+                "modifiedDatetime": "2023-09-22T12:43:18.000Z",
+                "checksum": "9cf52b1207820a40adc85c572665a7d9"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/6c/jwb-102_E_11_r480P.mp4",
+            "checksum": "f90b10edd9e486908427fd3e32b1b2b3",
+            "filesize": 37710783,
+            "modifiedDatetime": "2023-09-22T12:43:26.000Z",
+            "bitRate": 515.7057799202152,
+            "duration": 571.286,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/cc/jwb-102_E_11.vtt",
+                "modifiedDatetime": "2023-09-22T12:43:18.000Z",
+                "checksum": "9cf52b1207820a40adc85c572665a7d9"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/d8/jwb-102_E_11_r720P.mp4",
+            "checksum": "deab413375c98566376112cc45da2ae9",
+            "filesize": 65915316,
+            "modifiedDatetime": "2023-09-22T12:43:22.000Z",
+            "bitRate": 901.4108629478055,
+            "duration": 571.286,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/cc/jwb-102_E_11.vtt",
+                "modifiedDatetime": "2023-09-22T12:43:18.000Z",
+                "checksum": "9cf52b1207820a40adc85c572665a7d9"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-102-11.v",
+        "jwb-102-11"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/cc/jwb-102_E_11.vtt",
+    "Name": "pub-jwb-102_E_11_VIDEO",
+    "Title": "Gage Fleegle: Jehovah’s Precious Gift, the Holy Spirit (John 3:34)",
+    "UndatedReferenceTitle": "Gage Fleegle: Jehovah’s Precious Gift, the Holy Spirit (John 3:34)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

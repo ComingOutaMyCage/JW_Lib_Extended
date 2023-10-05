@@ -1,0 +1,102 @@
+{
+    "guid": "63e2672fc52251b22a4e63af",
+    "languageAgnosticNaturalKey": "pub-jwb-095_11_VIDEO",
+    "naturalKey": "pub-jwb-095_E_11_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2023-04-21T14:59:28.143Z",
+    "duration": 589.952,
+    "durationFormattedHHMM": "9:49",
+    "durationFormattedMinSec": "9m 49s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/c5/jwb-095_E_11_r240P.mp4",
+            "checksum": "215a30f4764fa2b2d133c1568a732dfc",
+            "filesize": 13331280,
+            "modifiedDatetime": "2023-04-21T13:27:14.000Z",
+            "bitRate": 176.54084569592104,
+            "duration": 589.952,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/c6/jwb-095_E_11.vtt",
+                "modifiedDatetime": "2023-04-21T13:27:05.000Z",
+                "checksum": "f9f507a583ab71595c10b1e6f078716d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/88/jwb-095_E_11_r360P.mp4",
+            "checksum": "269d9ad5ccef94b75850ecb31764addd",
+            "filesize": 20574415,
+            "modifiedDatetime": "2023-04-21T13:27:11.000Z",
+            "bitRate": 272.45880544095115,
+            "duration": 589.952,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/c6/jwb-095_E_11.vtt",
+                "modifiedDatetime": "2023-04-21T13:27:05.000Z",
+                "checksum": "f9f507a583ab71595c10b1e6f078716d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/4c/jwb-095_E_11_r480P.mp4",
+            "checksum": "49bd9888a1426fff0aebfa7cc35d0778",
+            "filesize": 37553419,
+            "modifiedDatetime": "2023-04-21T13:27:08.000Z",
+            "bitRate": 497.30501114921213,
+            "duration": 589.952,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/c6/jwb-095_E_11.vtt",
+                "modifiedDatetime": "2023-04-21T13:27:05.000Z",
+                "checksum": "f9f507a583ab71595c10b1e6f078716d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/86/jwb-095_E_11_r720P.mp4",
+            "checksum": "c7f9305017a4bbc1e6429f6b5516af31",
+            "filesize": 71441549,
+            "modifiedDatetime": "2023-04-21T13:27:06.000Z",
+            "bitRate": 946.0720559681126,
+            "duration": 589.952,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/c6/jwb-095_E_11.vtt",
+                "modifiedDatetime": "2023-04-21T13:27:05.000Z",
+                "checksum": "f9f507a583ab71595c10b1e6f078716d"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-095-11.v",
+        "jwb-095-11"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/c6/jwb-095_E_11.vtt",
+    "Name": "pub-jwb-095_E_11_VIDEO",
+    "Title": "Patrick LaFranca: Continue to Acquire Wisdom Each Day (Prov. 3:15)",
+    "UndatedReferenceTitle": "Patrick LaFranca: Continue to Acquire Wisdom Each Day (Prov. 3:15)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

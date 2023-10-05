@@ -1,0 +1,102 @@
+{
+    "guid": "643d8695d49538204de195a1",
+    "languageAgnosticNaturalKey": "pub-jwb-101_11_VIDEO",
+    "naturalKey": "pub-jwb-101_E_11_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2023-08-25T10:03:39.408Z",
+    "duration": 556.523,
+    "durationFormattedHHMM": "9:16",
+    "durationFormattedMinSec": "9m 16s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/23/jwb-101_E_11_r240P.mp4",
+            "checksum": "fe474486c77d3c49ff0aad8a031b8357",
+            "filesize": 11578324,
+            "modifiedDatetime": "2023-08-25T02:55:14.000Z",
+            "bitRate": 162.53713907601303,
+            "duration": 556.523,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/2c/jwb-101_E_11.vtt",
+                "modifiedDatetime": "2023-08-25T02:55:00.000Z",
+                "checksum": "28b7a2b2260682326a0e206db1e12544"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/72/jwb-101_E_11_r360P.mp4",
+            "checksum": "794b147d9d06b970b7fd9276199b0cb5",
+            "filesize": 19690155,
+            "modifiedDatetime": "2023-08-25T02:55:09.000Z",
+            "bitRate": 276.41146176797724,
+            "duration": 556.523,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/2c/jwb-101_E_11.vtt",
+                "modifiedDatetime": "2023-08-25T02:55:00.000Z",
+                "checksum": "28b7a2b2260682326a0e206db1e12544"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/a7/jwb-101_E_11_r480P.mp4",
+            "checksum": "1dec61fa1dc8c10296d9f4ba81efd0c9",
+            "filesize": 36034295,
+            "modifiedDatetime": "2023-08-25T02:55:04.000Z",
+            "bitRate": 505.85138383768503,
+            "duration": 556.523,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/2c/jwb-101_E_11.vtt",
+                "modifiedDatetime": "2023-08-25T02:55:00.000Z",
+                "checksum": "28b7a2b2260682326a0e206db1e12544"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/f9/jwb-101_E_11_r720P.mp4",
+            "checksum": "df8ad569c82bbbbf6ca98bd2ef3f6c1c",
+            "filesize": 66088770,
+            "modifiedDatetime": "2023-08-25T02:55:02.000Z",
+            "bitRate": 927.757730812563,
+            "duration": 556.523,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/2c/jwb-101_E_11.vtt",
+                "modifiedDatetime": "2023-08-25T02:55:00.000Z",
+                "checksum": "28b7a2b2260682326a0e206db1e12544"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-101-11.v",
+        "jwb-101-11"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/2c/jwb-101_E_11.vtt",
+    "Name": "pub-jwb-101_E_11_VIDEO",
+    "Title": "John Ekrann: “Lovers of Money” (2 Tim. 3:2)",
+    "UndatedReferenceTitle": "John Ekrann: “Lovers of Money” (2 Tim. 3:2)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

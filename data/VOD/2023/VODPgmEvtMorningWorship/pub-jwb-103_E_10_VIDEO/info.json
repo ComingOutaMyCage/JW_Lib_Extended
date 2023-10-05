@@ -1,0 +1,102 @@
+{
+    "guid": "6390ac164b77aca6ceeb2f10",
+    "languageAgnosticNaturalKey": "pub-jwb-103_10_VIDEO",
+    "naturalKey": "pub-jwb-103_E_10_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2023-02-20T22:07:46.485Z",
+    "duration": 660.63,
+    "durationFormattedHHMM": "11:00",
+    "durationFormattedMinSec": "11m 0s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/85/jwb-103_E_10_r240P.mp4",
+            "checksum": "24f9edc6168eeda7ff41f874f23f50de",
+            "filesize": 12246881,
+            "modifiedDatetime": "2023-02-20T19:56:09.000Z",
+            "bitRate": 144.82956846116585,
+            "duration": 660.63,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/cd/jwb-103_E_10.vtt",
+                "modifiedDatetime": "2023-02-20T19:55:54.000Z",
+                "checksum": "38378445507f075e0fc3649f9c2b7c0b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/b1/jwb-103_E_10_r360P.mp4",
+            "checksum": "7af3d6eaecac1434850cf06827f5a7a7",
+            "filesize": 19808564,
+            "modifiedDatetime": "2023-02-20T19:56:07.000Z",
+            "bitRate": 234.25276819096922,
+            "duration": 660.63,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/cd/jwb-103_E_10.vtt",
+                "modifiedDatetime": "2023-02-20T19:55:54.000Z",
+                "checksum": "38378445507f075e0fc3649f9c2b7c0b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/1e/jwb-103_E_10_r480P.mp4",
+            "checksum": "b1aa3ae3e2098b64e8620062fcde504e",
+            "filesize": 33824392,
+            "modifiedDatetime": "2023-02-20T19:56:01.000Z",
+            "bitRate": 400.00160831327673,
+            "duration": 660.63,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/cd/jwb-103_E_10.vtt",
+                "modifiedDatetime": "2023-02-20T19:55:54.000Z",
+                "checksum": "38378445507f075e0fc3649f9c2b7c0b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/18/jwb-103_E_10_r720P.mp4",
+            "checksum": "261cd4c9dd83fcf87be1e86ee335a99c",
+            "filesize": 57410904,
+            "modifiedDatetime": "2023-02-20T19:55:59.000Z",
+            "bitRate": 678.9317583216022,
+            "duration": 660.63,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/cd/jwb-103_E_10.vtt",
+                "modifiedDatetime": "2023-02-20T19:55:54.000Z",
+                "checksum": "38378445507f075e0fc3649f9c2b7c0b"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-103-10.v",
+        "jwb-103-10"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/cd/jwb-103_E_10.vtt",
+    "Name": "pub-jwb-103_E_10_VIDEO",
+    "Title": "Ronald Curzan: Be “a True Friend” (Prov. 17:17)",
+    "UndatedReferenceTitle": "Ronald Curzan: Be “a True Friend” (Prov. 17:17)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

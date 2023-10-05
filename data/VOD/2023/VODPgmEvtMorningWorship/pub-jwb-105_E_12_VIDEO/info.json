@@ -1,0 +1,102 @@
+{
+    "guid": "645be753ffba8b1568ef43e9",
+    "languageAgnosticNaturalKey": "pub-jwb-105_12_VIDEO",
+    "naturalKey": "pub-jwb-105_E_12_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2023-07-17T12:52:06.263Z",
+    "duration": 643.328,
+    "durationFormattedHHMM": "10:43",
+    "durationFormattedMinSec": "10m 43s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/be/jwb-105_E_12_r240P.mp4",
+            "checksum": "5eb29dc1d31421cb976a2588798ccace",
+            "filesize": 11322532,
+            "modifiedDatetime": "2023-07-17T04:06:53.000Z",
+            "bitRate": 137.49950452957123,
+            "duration": 643.328,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/20/jwb-105_E_12.vtt",
+                "modifiedDatetime": "2023-07-17T04:06:41.000Z",
+                "checksum": "5120efed7c83d29c04018af96e5369d1"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/11/jwb-105_E_12_r360P.mp4",
+            "checksum": "84d6f51973286e255b2cec1be42c2b6e",
+            "filesize": 18796051,
+            "modifiedDatetime": "2023-07-17T04:06:48.000Z",
+            "bitRate": 228.25704529804392,
+            "duration": 643.328,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/20/jwb-105_E_12.vtt",
+                "modifiedDatetime": "2023-07-17T04:06:41.000Z",
+                "checksum": "5120efed7c83d29c04018af96e5369d1"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/b2/jwb-105_E_12_r480P.mp4",
+            "checksum": "e5c70902ba7a0e82bfd68e0dab631f15",
+            "filesize": 33953505,
+            "modifiedDatetime": "2023-07-17T04:06:45.000Z",
+            "bitRate": 412.32739413254205,
+            "duration": 643.328,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/20/jwb-105_E_12.vtt",
+                "modifiedDatetime": "2023-07-17T04:06:41.000Z",
+                "checksum": "5120efed7c83d29c04018af96e5369d1"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/2f/jwb-105_E_12_r720P.mp4",
+            "checksum": "3d31b74da9a728b157200d6aacdd3947",
+            "filesize": 70185966,
+            "modifiedDatetime": "2023-07-17T04:06:42.000Z",
+            "bitRate": 852.3301634236346,
+            "duration": 643.328,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/20/jwb-105_E_12.vtt",
+                "modifiedDatetime": "2023-07-17T04:06:41.000Z",
+                "checksum": "5120efed7c83d29c04018af96e5369d1"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-105-12.v",
+        "jwb-105-12"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/20/jwb-105_E_12.vtt",
+    "Name": "pub-jwb-105_E_12_VIDEO",
+    "Title": "David H. Splane: ‘Readjust Others in a Spirit of Mildness’ (Gal. 6:1)",
+    "UndatedReferenceTitle": "David H. Splane: ‘Readjust Others in a Spirit of Mildness’ (Gal. 6:1)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

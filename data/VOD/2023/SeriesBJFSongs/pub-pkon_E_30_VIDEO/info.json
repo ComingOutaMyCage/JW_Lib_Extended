@@ -1,0 +1,102 @@
+{
+    "guid": "63fe50ddf53f48d61f76e162",
+    "languageAgnosticNaturalKey": "pub-pkon_30_VIDEO",
+    "naturalKey": "pub-pkon_E_30_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBJFSongs",
+    "description": "",
+    "firstPublished": "2023-05-01T15:52:46.357Z",
+    "duration": 134.187,
+    "durationFormattedHHMM": "2:14",
+    "durationFormattedMinSec": "2m 14s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/a9/pkon_E_030_r240P.mp4",
+            "checksum": "972ada1ba9bb83dd090a05b6a750c184",
+            "filesize": 5818052,
+            "modifiedDatetime": "2023-05-01T04:02:26.000Z",
+            "bitRate": 338.73274795621035,
+            "duration": 134.187,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/1b/pkon_E_030.vtt",
+                "modifiedDatetime": "2023-05-01T04:02:11.000Z",
+                "checksum": "6f271c6d66b853bf51379b6ce3ead91a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/be/pkon_E_030_r360P.mp4",
+            "checksum": "492e459096a43d61f238fc34ae95de4f",
+            "filesize": 9199315,
+            "modifiedDatetime": "2023-05-01T04:02:24.000Z",
+            "bitRate": 535.5932276412767,
+            "duration": 134.187,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/1b/pkon_E_030.vtt",
+                "modifiedDatetime": "2023-05-01T04:02:11.000Z",
+                "checksum": "6f271c6d66b853bf51379b6ce3ead91a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/cf/pkon_E_030_r480P.mp4",
+            "checksum": "b7d92525e39c29739790033e7110f092",
+            "filesize": 16161498,
+            "modifiedDatetime": "2023-05-01T04:02:21.000Z",
+            "bitRate": 940.9384152339644,
+            "duration": 134.187,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/1b/pkon_E_030.vtt",
+                "modifiedDatetime": "2023-05-01T04:02:11.000Z",
+                "checksum": "6f271c6d66b853bf51379b6ce3ead91a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/95/pkon_E_030_r720P.mp4",
+            "checksum": "7a34c061fbba02743619d8f1bf35056d",
+            "filesize": 24416907,
+            "modifiedDatetime": "2023-05-01T04:02:18.000Z",
+            "bitRate": 1421.5765009837016,
+            "duration": 134.187,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/1b/pkon_E_030.vtt",
+                "modifiedDatetime": "2023-05-01T04:02:11.000Z",
+                "checksum": "6f271c6d66b853bf51379b6ce3ead91a"
+            }
+        }
+    ],
+    "printReferences": [
+        "pkon-30.v",
+        "pkon-30"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/1b/pkon_E_030.vtt",
+    "Name": "pub-pkon_E_30_VIDEO",
+    "Title": "Can’t Wait for the Convention!",
+    "UndatedReferenceTitle": "Can’t Wait for the Convention!",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "SeriesBJFSongs"
+}

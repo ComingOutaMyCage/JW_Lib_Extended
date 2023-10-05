@@ -1,0 +1,102 @@
+{
+    "guid": "6490702b0ba3d6ad9f6355a3",
+    "languageAgnosticNaturalKey": "pub-jwb-101_10_VIDEO",
+    "naturalKey": "pub-jwb-101_E_10_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2023-08-18T13:54:49.677Z",
+    "duration": 617.664,
+    "durationFormattedHHMM": "10:17",
+    "durationFormattedMinSec": "10m 17s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/a7/jwb-101_E_10_r240P.mp4",
+            "checksum": "1628d6f6cbbd91b5596cbdbbb3987e8e",
+            "filesize": 12706539,
+            "modifiedDatetime": "2023-08-18T13:45:40.000Z",
+            "bitRate": 160.71818324768807,
+            "duration": 617.664,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/ac/jwb-101_E_10.vtt",
+                "modifiedDatetime": "2023-08-18T13:45:30.000Z",
+                "checksum": "4b82d3d0e7e089fdf16e9b4a82d04478"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/07/jwb-101_E_10_r360P.mp4",
+            "checksum": "7d5ba29fc043093bf0e105940b8d6498",
+            "filesize": 20696704,
+            "modifiedDatetime": "2023-08-18T13:45:37.000Z",
+            "bitRate": 261.78148637446895,
+            "duration": 617.664,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/ac/jwb-101_E_10.vtt",
+                "modifiedDatetime": "2023-08-18T13:45:30.000Z",
+                "checksum": "4b82d3d0e7e089fdf16e9b4a82d04478"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/2e/jwb-101_E_10_r480P.mp4",
+            "checksum": "549c71ffef960adbb706b0edeed9ec8f",
+            "filesize": 36709832,
+            "modifiedDatetime": "2023-08-18T13:45:33.000Z",
+            "bitRate": 464.3229369042068,
+            "duration": 617.664,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/ac/jwb-101_E_10.vtt",
+                "modifiedDatetime": "2023-08-18T13:45:30.000Z",
+                "checksum": "4b82d3d0e7e089fdf16e9b4a82d04478"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/88/jwb-101_E_10_r720P.mp4",
+            "checksum": "e4b37082c2ab64cee0849de5e325e7f3",
+            "filesize": 66742026,
+            "modifiedDatetime": "2023-08-18T13:45:31.000Z",
+            "bitRate": 844.1840193454694,
+            "duration": 617.664,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/ac/jwb-101_E_10.vtt",
+                "modifiedDatetime": "2023-08-18T13:45:30.000Z",
+                "checksum": "4b82d3d0e7e089fdf16e9b4a82d04478"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-101-10.v",
+        "jwb-101-10"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/ac/jwb-101_E_10.vtt",
+    "Name": "pub-jwb-101_E_10_VIDEO",
+    "Title": "Seth Hyatt: Uphold Jehovah’s View of Marriage (Mark 10:11, 12)",
+    "UndatedReferenceTitle": "Seth Hyatt: Uphold Jehovah’s View of Marriage (Mark 10:11, 12)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

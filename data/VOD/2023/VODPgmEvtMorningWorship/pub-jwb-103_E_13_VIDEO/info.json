@@ -1,0 +1,102 @@
+{
+    "guid": "63ab1efc04eee96886b8f101",
+    "languageAgnosticNaturalKey": "pub-jwb-103_13_VIDEO",
+    "naturalKey": "pub-jwb-103_E_13_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2023-02-24T13:56:23.604Z",
+    "duration": 566.912,
+    "durationFormattedHHMM": "9:26",
+    "durationFormattedMinSec": "9m 26s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/52/jwb-103_E_13_r240P.mp4",
+            "checksum": "9ff208172dbcff2e90cf4d81a2cbd63b",
+            "filesize": 11726352,
+            "modifiedDatetime": "2023-02-24T13:55:17.000Z",
+            "bitRate": 161.59849324057348,
+            "duration": 566.912,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/6c/jwb-103_E_13.vtt",
+                "modifiedDatetime": "2023-02-24T13:55:03.000Z",
+                "checksum": "ba6fce3af34bed7bc5eb262c52c0093a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/4e/jwb-103_E_13_r360P.mp4",
+            "checksum": "6eb3d4b2bc257ac77b5d722d8ec32f0f",
+            "filesize": 19807352,
+            "modifiedDatetime": "2023-02-24T13:55:14.000Z",
+            "bitRate": 272.9611253598442,
+            "duration": 566.912,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/6c/jwb-103_E_13.vtt",
+                "modifiedDatetime": "2023-02-24T13:55:03.000Z",
+                "checksum": "ba6fce3af34bed7bc5eb262c52c0093a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/7a/jwb-103_E_13_r480P.mp4",
+            "checksum": "36b7a267c8a5acf3d660ca2926837f61",
+            "filesize": 35051123,
+            "modifiedDatetime": "2023-02-24T13:55:09.000Z",
+            "bitRate": 483.0324608360733,
+            "duration": 566.912,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/6c/jwb-103_E_13.vtt",
+                "modifiedDatetime": "2023-02-24T13:55:03.000Z",
+                "checksum": "ba6fce3af34bed7bc5eb262c52c0093a"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/e1/jwb-103_E_13_r720P.mp4",
+            "checksum": "6fb16a4c8f9eac7d9c21f82ca4677ff7",
+            "filesize": 59825463,
+            "modifiedDatetime": "2023-02-24T13:55:05.000Z",
+            "bitRate": 824.4426466321052,
+            "duration": 566.912,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/6c/jwb-103_E_13.vtt",
+                "modifiedDatetime": "2023-02-24T13:55:03.000Z",
+                "checksum": "ba6fce3af34bed7bc5eb262c52c0093a"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-103-13.v",
+        "jwb-103-13"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/6c/jwb-103_E_13.vtt",
+    "Name": "pub-jwb-103_E_13_VIDEO",
+    "Title": "James Mantz: “Make Friends . . . by Means of Unrighteous Riches” (Luke 16:9)",
+    "UndatedReferenceTitle": "James Mantz: “Make Friends . . . by Means of Unrighteous Riches” (Luke 16:9)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "63a367f404eee96886a6f647",
+    "languageAgnosticNaturalKey": "pub-jwb-092_12_VIDEO",
+    "naturalKey": "pub-jwb-092_E_12_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2023-03-17T13:45:07.095Z",
+    "duration": 597.291,
+    "durationFormattedHHMM": "9:57",
+    "durationFormattedMinSec": "9m 57s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/85/jwb-092_E_12_r240P.mp4",
+            "checksum": "bf692a5b0a038693013e26282a59d634",
+            "filesize": 13744756,
+            "modifiedDatetime": "2023-03-17T13:39:11.000Z",
+            "bitRate": 179.77988325623522,
+            "duration": 597.291,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/a8/jwb-092_E_12.vtt",
+                "modifiedDatetime": "2023-03-17T13:38:54.000Z",
+                "checksum": "f8cb15f6f4347e7da2d7f3458676b98f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/3d/jwb-092_E_12_r360P.mp4",
+            "checksum": "84fb8d3e7bdd8b9f0123318767f84750",
+            "filesize": 21725361,
+            "modifiedDatetime": "2023-03-17T13:39:08.000Z",
+            "bitRate": 284.1653110669673,
+            "duration": 597.291,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/a8/jwb-092_E_12.vtt",
+                "modifiedDatetime": "2023-03-17T13:38:54.000Z",
+                "checksum": "f8cb15f6f4347e7da2d7f3458676b98f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/83/jwb-092_E_12_r480P.mp4",
+            "checksum": "869812cd1554a726c5741d86e149dd5b",
+            "filesize": 37126577,
+            "modifiedDatetime": "2023-03-17T13:39:03.000Z",
+            "bitRate": 485.6115073096698,
+            "duration": 597.291,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/a8/jwb-092_E_12.vtt",
+                "modifiedDatetime": "2023-03-17T13:38:54.000Z",
+                "checksum": "f8cb15f6f4347e7da2d7f3458676b98f"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/50/jwb-092_E_12_r720P.mp4",
+            "checksum": "1c71e2e2f41b9323613eddb2977d4b9a",
+            "filesize": 59110764,
+            "modifiedDatetime": "2023-03-17T13:38:58.000Z",
+            "bitRate": 773.1622337353149,
+            "duration": 597.291,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/a8/jwb-092_E_12.vtt",
+                "modifiedDatetime": "2023-03-17T13:38:54.000Z",
+                "checksum": "f8cb15f6f4347e7da2d7f3458676b98f"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-092-12.v",
+        "jwb-092-12"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/a8/jwb-092_E_12.vtt",
+    "Name": "pub-jwb-092_E_12_VIDEO",
+    "Title": "Gajus Glockentin: The Ransom Protects Our Precious Unity (John 10:16)",
+    "UndatedReferenceTitle": "Gajus Glockentin: The Ransom Protects Our Precious Unity (John 10:16)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

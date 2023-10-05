@@ -1,0 +1,102 @@
+{
+    "guid": "64219809d49538204d9e5daa",
+    "languageAgnosticNaturalKey": "pub-pk_49_VIDEO",
+    "naturalKey": "pub-pk_E_49_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBJFLessons",
+    "description": "",
+    "firstPublished": "2023-06-05T13:18:14.106Z",
+    "duration": 111.062,
+    "durationFormattedHHMM": "1:51",
+    "durationFormattedMinSec": "1m 51s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/0d/pk_E_049_r240P.mp4",
+            "checksum": "be3d8c614a7087a7489f7273d76c196c",
+            "filesize": 3965321,
+            "modifiedDatetime": "2023-06-05T03:22:16.000Z",
+            "bitRate": 278.9349220480452,
+            "duration": 111.062,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/be/pk_E_049.vtt",
+                "modifiedDatetime": "2023-06-05T03:22:07.000Z",
+                "checksum": "e52aff2eb2a18ea93d18fcc4380fb5f3"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/be/pk_E_049_r360P.mp4",
+            "checksum": "808a62c7059f7c0b65070bf85f5e5a27",
+            "filesize": 5918282,
+            "modifiedDatetime": "2023-06-05T03:22:14.000Z",
+            "bitRate": 416.3132135653959,
+            "duration": 111.062,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/be/pk_E_049.vtt",
+                "modifiedDatetime": "2023-06-05T03:22:07.000Z",
+                "checksum": "e52aff2eb2a18ea93d18fcc4380fb5f3"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/8b/pk_E_049_r480P.mp4",
+            "checksum": "e245d67f2e20b3e10d17bc5d2fb8c46c",
+            "filesize": 10956211,
+            "modifiedDatetime": "2023-06-05T03:22:12.000Z",
+            "bitRate": 770.6992349993698,
+            "duration": 111.062,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/be/pk_E_049.vtt",
+                "modifiedDatetime": "2023-06-05T03:22:07.000Z",
+                "checksum": "e52aff2eb2a18ea93d18fcc4380fb5f3"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/a7/pk_E_049_r720P.mp4",
+            "checksum": "7e47ff8c48ff2158010af3582076e0e9",
+            "filesize": 18971173,
+            "modifiedDatetime": "2023-06-05T03:22:08.000Z",
+            "bitRate": 1334.5004507617368,
+            "duration": 111.062,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/be/pk_E_049.vtt",
+                "modifiedDatetime": "2023-06-05T03:22:07.000Z",
+                "checksum": "e52aff2eb2a18ea93d18fcc4380fb5f3"
+            }
+        }
+    ],
+    "printReferences": [
+        "pk-49.v",
+        "pk-49"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/be/pk_E_049.vtt",
+    "Name": "pub-pk_E_49_VIDEO",
+    "Title": "The Steps to Baptism",
+    "UndatedReferenceTitle": "The Steps to Baptism",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "SeriesBJFLessons"
+}

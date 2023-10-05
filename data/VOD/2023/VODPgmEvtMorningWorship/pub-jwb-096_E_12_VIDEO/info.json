@@ -1,0 +1,102 @@
+{
+    "guid": "63ced84104eee968861216cf",
+    "languageAgnosticNaturalKey": "pub-jwb-096_12_VIDEO",
+    "naturalKey": "pub-jwb-096_E_12_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2023-05-12T12:11:39.558Z",
+    "duration": 588.651,
+    "durationFormattedHHMM": "9:48",
+    "durationFormattedMinSec": "9m 48s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/7b/jwb-096_E_12_r240P.mp4",
+            "checksum": "c46c13df476b752e4a360da9529c0071",
+            "filesize": 12285783,
+            "modifiedDatetime": "2023-05-11T23:53:12.000Z",
+            "bitRate": 163.05532427108764,
+            "duration": 588.651,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/6a/jwb-096_E_12.vtt",
+                "modifiedDatetime": "2023-05-11T23:53:00.000Z",
+                "checksum": "e2d0c319ff81a499fdc5c707df5660e1"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/f8/jwb-096_E_12_r360P.mp4",
+            "checksum": "d9147477c9e06dc5105a8bb047d3fbbf",
+            "filesize": 20261947,
+            "modifiedDatetime": "2023-05-11T23:53:07.000Z",
+            "bitRate": 268.91394211086026,
+            "duration": 588.651,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/6a/jwb-096_E_12.vtt",
+                "modifiedDatetime": "2023-05-11T23:53:00.000Z",
+                "checksum": "e2d0c319ff81a499fdc5c707df5660e1"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/a0/jwb-096_E_12_r480P.mp4",
+            "checksum": "77a158720479ac14e243b27e7865be92",
+            "filesize": 36069118,
+            "modifiedDatetime": "2023-05-11T23:53:04.000Z",
+            "bitRate": 478.7046728452003,
+            "duration": 588.651,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/6a/jwb-096_E_12.vtt",
+                "modifiedDatetime": "2023-05-11T23:53:00.000Z",
+                "checksum": "e2d0c319ff81a499fdc5c707df5660e1"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/36/jwb-096_E_12_r720P.mp4",
+            "checksum": "84952cd242a26ae300cb78db02978ba1",
+            "filesize": 63084437,
+            "modifiedDatetime": "2023-05-11T23:53:01.000Z",
+            "bitRate": 837.2484953945548,
+            "duration": 588.651,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/6a/jwb-096_E_12.vtt",
+                "modifiedDatetime": "2023-05-11T23:53:00.000Z",
+                "checksum": "e2d0c319ff81a499fdc5c707df5660e1"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-096-12.v",
+        "jwb-096-12"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/6a/jwb-096_E_12.vtt",
+    "Name": "pub-jwb-096_E_12_VIDEO",
+    "Title": "Joel Dellinger: “Always Rejoice in the Lord” (Phil. 4:4)",
+    "UndatedReferenceTitle": "Joel Dellinger: “Always Rejoice in the Lord” (Phil. 4:4)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

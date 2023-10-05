@@ -1,0 +1,102 @@
+{
+    "guid": "64f77b1759501c070f9ec705",
+    "languageAgnosticNaturalKey": "pub-pk_50_VIDEO",
+    "naturalKey": "pub-pk_E_50_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBJFLessons",
+    "description": "",
+    "firstPublished": "2023-10-02T15:37:07.988Z",
+    "duration": 61.547,
+    "durationFormattedHHMM": "1:01",
+    "durationFormattedMinSec": "1m 1s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/13/pk_E_050_r240P.mp4",
+            "checksum": "aac6beff6080c150314a9c8f22d12ac1",
+            "filesize": 2175650,
+            "modifiedDatetime": "2023-10-02T04:25:20.000Z",
+            "bitRate": 276.1672482005622,
+            "duration": 61.547,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/7c/pk_E_050.vtt",
+                "modifiedDatetime": "2023-10-02T04:25:15.000Z",
+                "checksum": "052da98c3b8839c53bbeb921325fafe8"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/d3/pk_E_050_r360P.mp4",
+            "checksum": "40f96deff31ee1cf75343d0a1b89462a",
+            "filesize": 3046701,
+            "modifiedDatetime": "2023-10-02T04:25:18.000Z",
+            "bitRate": 386.73455347133086,
+            "duration": 61.547,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/7c/pk_E_050.vtt",
+                "modifiedDatetime": "2023-10-02T04:25:15.000Z",
+                "checksum": "052da98c3b8839c53bbeb921325fafe8"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/16/pk_E_050_r480P.mp4",
+            "checksum": "ec09d9b4d0c32ae82e12cd48df08763f",
+            "filesize": 5041323,
+            "modifiedDatetime": "2023-10-02T04:25:17.000Z",
+            "bitRate": 639.9229196792695,
+            "duration": 61.547,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/7c/pk_E_050.vtt",
+                "modifiedDatetime": "2023-10-02T04:25:15.000Z",
+                "checksum": "052da98c3b8839c53bbeb921325fafe8"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/ca/pk_E_050_r720P.mp4",
+            "checksum": "8835cdd9fde04b046674c3bceadf8272",
+            "filesize": 7514281,
+            "modifiedDatetime": "2023-10-02T04:25:16.000Z",
+            "bitRate": 953.8291112889337,
+            "duration": 61.547,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 24,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/7c/pk_E_050.vtt",
+                "modifiedDatetime": "2023-10-02T04:25:15.000Z",
+                "checksum": "052da98c3b8839c53bbeb921325fafe8"
+            }
+        }
+    ],
+    "printReferences": [
+        "pk-50.v",
+        "pk-50"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/7c/pk_E_050.vtt",
+    "Name": "pub-pk_E_50_VIDEO",
+    "Title": "Become Jehovah’s Friend Preview: You Are Precious to Jehovah",
+    "UndatedReferenceTitle": "Become Jehovah’s Friend Preview: You Are Precious to Jehovah",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "SeriesBJFLessons"
+}

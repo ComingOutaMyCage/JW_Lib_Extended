@@ -1,0 +1,102 @@
+{
+    "guid": "63e26eb7c52251b22a4e79b2",
+    "languageAgnosticNaturalKey": "pub-jwb-099_11_VIDEO",
+    "naturalKey": "pub-jwb-099_E_11_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2023-07-14T10:53:50.788Z",
+    "duration": 524.118,
+    "durationFormattedHHMM": "8:44",
+    "durationFormattedMinSec": "8m 44s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/c3/jwb-099_E_11_r240P.mp4",
+            "checksum": "368140d6e062470e2dce134133d2a223",
+            "filesize": 11150747,
+            "modifiedDatetime": "2023-07-14T04:59:51.000Z",
+            "bitRate": 166.21297291354236,
+            "duration": 524.118,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/ff/jwb-099_E_11.vtt",
+                "modifiedDatetime": "2023-07-14T04:59:36.000Z",
+                "checksum": "88ab27bb306fb2a304c099d42f00fa54"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/51/jwb-099_E_11_r360P.mp4",
+            "checksum": "f4c10cef175602b1c2eae8aab2af6287",
+            "filesize": 19184468,
+            "modifiedDatetime": "2023-07-14T04:59:47.000Z",
+            "bitRate": 285.96357356549476,
+            "duration": 524.118,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/ff/jwb-099_E_11.vtt",
+                "modifiedDatetime": "2023-07-14T04:59:36.000Z",
+                "checksum": "88ab27bb306fb2a304c099d42f00fa54"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/98/jwb-099_E_11_r480P.mp4",
+            "checksum": "93cfd1c3c9314983df8eb9e3ac479387",
+            "filesize": 36813302,
+            "modifiedDatetime": "2023-07-14T04:59:44.000Z",
+            "bitRate": 548.7388753582208,
+            "duration": 524.118,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/ff/jwb-099_E_11.vtt",
+                "modifiedDatetime": "2023-07-14T04:59:36.000Z",
+                "checksum": "88ab27bb306fb2a304c099d42f00fa54"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/5c/jwb-099_E_11_r720P.mp4",
+            "checksum": "d60ee7bd6880e75ade8a00d59dc5ed02",
+            "filesize": 68549542,
+            "modifiedDatetime": "2023-07-14T04:59:38.000Z",
+            "bitRate": 1021.7990927138544,
+            "duration": 524.118,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/ff/jwb-099_E_11.vtt",
+                "modifiedDatetime": "2023-07-14T04:59:36.000Z",
+                "checksum": "88ab27bb306fb2a304c099d42f00fa54"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-099-11.v",
+        "jwb-099-11"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/ff/jwb-099_E_11.vtt",
+    "Name": "pub-jwb-099_E_11_VIDEO",
+    "Title": "Robert Ciranko: Discipline Is From Jehovah (1 Cor. 5:11)",
+    "UndatedReferenceTitle": "Robert Ciranko: Discipline Is From Jehovah (1 Cor. 5:11)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

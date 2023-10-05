@@ -1,0 +1,102 @@
+{
+    "guid": "63b2f9f804eee968861e9f4c",
+    "languageAgnosticNaturalKey": "pub-jwb-095_2_VIDEO",
+    "naturalKey": "pub-jwb-095_E_2_VIDEO",
+    "type": "video",
+    "primaryCategory": "StudioTalks",
+    "description": "",
+    "firstPublished": "2023-04-17T12:44:23.441Z",
+    "duration": 902.592,
+    "durationFormattedHHMM": "15:02",
+    "durationFormattedMinSec": "15m 2s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/e7/jwb-095_E_02_r240P.mp4",
+            "checksum": "45e587bf8f828166df9cf99ba392cde6",
+            "filesize": 20136948,
+            "modifiedDatetime": "2023-04-17T05:13:22.000Z",
+            "bitRate": 174.297917829983,
+            "duration": 902.592,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/b3/jwb-095_E_02.vtt",
+                "modifiedDatetime": "2023-04-17T05:13:14.000Z",
+                "checksum": "c05ae81bba44913f17fdf4241709bea4"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/98/jwb-095_E_02_r360P.mp4",
+            "checksum": "bfa875b61a1c9448e47dff9cd7576660",
+            "filesize": 33133156,
+            "modifiedDatetime": "2023-04-17T05:13:20.000Z",
+            "bitRate": 286.78825122535983,
+            "duration": 902.592,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/b3/jwb-095_E_02.vtt",
+                "modifiedDatetime": "2023-04-17T05:13:14.000Z",
+                "checksum": "c05ae81bba44913f17fdf4241709bea4"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/db/jwb-095_E_02_r480P.mp4",
+            "checksum": "4fa5fc56ae756e4987c39b173e426d34",
+            "filesize": 57914543,
+            "modifiedDatetime": "2023-04-17T05:13:18.000Z",
+            "bitRate": 501.28670228353457,
+            "duration": 902.592,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/b3/jwb-095_E_02.vtt",
+                "modifiedDatetime": "2023-04-17T05:13:14.000Z",
+                "checksum": "c05ae81bba44913f17fdf4241709bea4"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/98/jwb-095_E_02_r720P.mp4",
+            "checksum": "a0d3107bc10c32a4bcb881207b5990eb",
+            "filesize": 93576775,
+            "modifiedDatetime": "2023-04-17T05:13:15.000Z",
+            "bitRate": 809.9656929016654,
+            "duration": 902.592,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/b3/jwb-095_E_02.vtt",
+                "modifiedDatetime": "2023-04-17T05:13:14.000Z",
+                "checksum": "c05ae81bba44913f17fdf4241709bea4"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-095-2.v",
+        "jwb-095-2"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/b3/jwb-095_E_02.vtt",
+    "Name": "pub-jwb-095_E_2_VIDEO",
+    "Title": "Geoffrey W. Jackson: Make Wise Decisions",
+    "UndatedReferenceTitle": "Geoffrey W. Jackson: Make Wise Decisions",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "StudioTalks"
+}

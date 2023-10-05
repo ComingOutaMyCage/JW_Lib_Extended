@@ -1,0 +1,102 @@
+{
+    "guid": "63d2cc7ac52251b22af41319",
+    "languageAgnosticNaturalKey": "pub-jwb-096_14_VIDEO",
+    "naturalKey": "pub-jwb-096_E_14_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2023-05-19T14:02:48.060Z",
+    "duration": 590.336,
+    "durationFormattedHHMM": "9:50",
+    "durationFormattedMinSec": "9m 50s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/ea/jwb-096_E_14_r240P.mp4",
+            "checksum": "0e7fc7b0f8f4f273e7ddec8dc76a7526",
+            "filesize": 12205092,
+            "modifiedDatetime": "2023-05-19T13:35:51.000Z",
+            "bitRate": 161.52205057797593,
+            "duration": 590.336,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/00/jwb-096_E_14.vtt",
+                "modifiedDatetime": "2023-05-19T13:35:42.000Z",
+                "checksum": "2fe350ff942d0826f11b4720577e938b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/e3/jwb-096_E_14_r360P.mp4",
+            "checksum": "37d0a70934de15984e2c4f73690fa40b",
+            "filesize": 20048785,
+            "modifiedDatetime": "2023-05-19T13:35:49.000Z",
+            "bitRate": 265.3253957280261,
+            "duration": 590.336,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/00/jwb-096_E_14.vtt",
+                "modifiedDatetime": "2023-05-19T13:35:42.000Z",
+                "checksum": "2fe350ff942d0826f11b4720577e938b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/35/jwb-096_E_14_r480P.mp4",
+            "checksum": "a922f4f5ca8957a4d58ec07c8458dbb0",
+            "filesize": 35918618,
+            "modifiedDatetime": "2023-05-19T13:35:47.000Z",
+            "bitRate": 475.3465875789381,
+            "duration": 590.336,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/00/jwb-096_E_14.vtt",
+                "modifiedDatetime": "2023-05-19T13:35:42.000Z",
+                "checksum": "2fe350ff942d0826f11b4720577e938b"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/81/jwb-096_E_14_r720P.mp4",
+            "checksum": "20f7652813aaa31bfd75a5f3f045e283",
+            "filesize": 67393517,
+            "modifiedDatetime": "2023-05-19T13:35:44.000Z",
+            "bitRate": 891.8850477736407,
+            "duration": 590.336,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/00/jwb-096_E_14.vtt",
+                "modifiedDatetime": "2023-05-19T13:35:42.000Z",
+                "checksum": "2fe350ff942d0826f11b4720577e938b"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-096-14.v",
+        "jwb-096-14"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/00/jwb-096_E_14.vtt",
+    "Name": "pub-jwb-096_E_14_VIDEO",
+    "Title": "Baltasar Perla, Jr.: Acquire and Maintain Humility (1 Pet. 5:5)",
+    "UndatedReferenceTitle": "Baltasar Perla, Jr.: Acquire and Maintain Humility (1 Pet. 5:5)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

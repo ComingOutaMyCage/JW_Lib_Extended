@@ -1,0 +1,102 @@
+{
+    "guid": "63fd027ef53f48d61f738e0d",
+    "languageAgnosticNaturalKey": "pub-jwb-096_7_VIDEO",
+    "naturalKey": "pub-jwb-096_E_7_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpEndurance",
+    "description": "",
+    "firstPublished": "2023-05-15T14:26:13.989Z",
+    "duration": 343.339,
+    "durationFormattedHHMM": "5:43",
+    "durationFormattedMinSec": "5m 43s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/5c/jwb-096_E_07_r240P.mp4",
+            "checksum": "d6a4b426f9afebeaa306e54688c92911",
+            "filesize": 11111896,
+            "modifiedDatetime": "2023-05-15T04:08:47.000Z",
+            "bitRate": 252.8454020661795,
+            "duration": 343.339,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/00/jwb-096_E_07.vtt",
+                "modifiedDatetime": "2023-05-15T04:08:34.000Z",
+                "checksum": "308ac832ff35e2dc0be33e74703b49e5"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/2a/jwb-096_E_07_r360P.mp4",
+            "checksum": "b59b92c326e73cfd29acec4f216c204e",
+            "filesize": 19226812,
+            "modifiedDatetime": "2023-05-15T04:08:44.000Z",
+            "bitRate": 437.49608622964473,
+            "duration": 343.339,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/00/jwb-096_E_07.vtt",
+                "modifiedDatetime": "2023-05-15T04:08:34.000Z",
+                "checksum": "308ac832ff35e2dc0be33e74703b49e5"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/3a/jwb-096_E_07_r480P.mp4",
+            "checksum": "64f715c08707af4039f6ee0b11f1e525",
+            "filesize": 36904779,
+            "modifiedDatetime": "2023-05-15T04:08:41.000Z",
+            "bitRate": 839.7490117274764,
+            "duration": 343.339,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/00/jwb-096_E_07.vtt",
+                "modifiedDatetime": "2023-05-15T04:08:34.000Z",
+                "checksum": "308ac832ff35e2dc0be33e74703b49e5"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/d1/jwb-096_E_07_r720P.mp4",
+            "checksum": "84ef3831aacefe9c63a65de7e59e8900",
+            "filesize": 62008229,
+            "modifiedDatetime": "2023-05-15T04:08:36.000Z",
+            "bitRate": 1410.9649327996528,
+            "duration": 343.339,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/00/jwb-096_E_07.vtt",
+                "modifiedDatetime": "2023-05-15T04:08:34.000Z",
+                "checksum": "308ac832ff35e2dc0be33e74703b49e5"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-096-7.v",
+        "jwb-096-7"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/00/jwb-096_E_07.vtt",
+    "Name": "pub-jwb-096_E_7_VIDEO",
+    "Title": "Coping With Albinism With Brotherly Love",
+    "UndatedReferenceTitle": "Coping With Albinism With Brotherly Love",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODIntExpEndurance"
+}

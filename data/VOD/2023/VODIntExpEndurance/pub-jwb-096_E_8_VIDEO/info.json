@@ -1,0 +1,102 @@
+{
+    "guid": "6390e8224b77aca6ceebb281",
+    "languageAgnosticNaturalKey": "pub-jwb-096_8_VIDEO",
+    "naturalKey": "pub-jwb-096_E_8_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpEndurance",
+    "description": "",
+    "firstPublished": "2023-05-15T14:26:08.523Z",
+    "duration": 304.854,
+    "durationFormattedHHMM": "5:04",
+    "durationFormattedMinSec": "5m 4s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/60/jwb-096_E_08_r240P.mp4",
+            "checksum": "b3a703a88eb593bbec24acac13c8f6aa",
+            "filesize": 8432285,
+            "modifiedDatetime": "2023-05-15T04:08:27.000Z",
+            "bitRate": 216.0943486472213,
+            "duration": 304.854,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/eb/jwb-096_E_08.vtt",
+                "modifiedDatetime": "2023-05-15T04:08:16.000Z",
+                "checksum": "319c2440b4cecc84f6afe9d197262f40"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/33/jwb-096_E_08_r360P.mp4",
+            "checksum": "cbe58384964788eabc275e9ab7598d8d",
+            "filesize": 13456823,
+            "modifiedDatetime": "2023-05-15T04:08:25.000Z",
+            "bitRate": 344.85829179705695,
+            "duration": 304.854,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/eb/jwb-096_E_08.vtt",
+                "modifiedDatetime": "2023-05-15T04:08:16.000Z",
+                "checksum": "319c2440b4cecc84f6afe9d197262f40"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/2a/jwb-096_E_08_r480P.mp4",
+            "checksum": "f289c112e9a004a1bc6bb14f81e958f1",
+            "filesize": 24872465,
+            "modifiedDatetime": "2023-05-15T04:08:23.000Z",
+            "bitRate": 637.4071943044868,
+            "duration": 304.854,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/eb/jwb-096_E_08.vtt",
+                "modifiedDatetime": "2023-05-15T04:08:16.000Z",
+                "checksum": "319c2440b4cecc84f6afe9d197262f40"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/d6/jwb-096_E_08_r720P.mp4",
+            "checksum": "cf480f4c6260019bfa37e48369f588de",
+            "filesize": 41509266,
+            "modifiedDatetime": "2023-05-15T04:08:20.000Z",
+            "bitRate": 1063.7588505481312,
+            "duration": 304.854,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/eb/jwb-096_E_08.vtt",
+                "modifiedDatetime": "2023-05-15T04:08:16.000Z",
+                "checksum": "319c2440b4cecc84f6afe9d197262f40"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-096-8.v",
+        "jwb-096-8"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/eb/jwb-096_E_08.vtt",
+    "Name": "pub-jwb-096_E_8_VIDEO",
+    "Title": "Elijah Vega: Facing Unexpected Health Challenges With Jehovah",
+    "UndatedReferenceTitle": "Elijah Vega: Facing Unexpected Health Challenges With Jehovah",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODIntExpEndurance"
+}

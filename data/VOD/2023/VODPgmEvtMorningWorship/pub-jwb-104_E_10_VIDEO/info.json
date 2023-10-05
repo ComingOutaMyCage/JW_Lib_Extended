@@ -1,0 +1,102 @@
+{
+    "guid": "63f4d526f53f48d61f62a928",
+    "languageAgnosticNaturalKey": "pub-jwb-104_10_VIDEO",
+    "naturalKey": "pub-jwb-104_E_10_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2023-06-16T13:04:21.604Z",
+    "duration": 597.824,
+    "durationFormattedHHMM": "9:57",
+    "durationFormattedMinSec": "9m 57s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/b8/jwb-104_E_10_r240P.mp4",
+            "checksum": "a0636645dd1a776b746184d949383bd0",
+            "filesize": 14082133,
+            "modifiedDatetime": "2023-06-16T12:56:43.000Z",
+            "bitRate": 184.02851685864067,
+            "duration": 597.824,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/89/jwb-104_E_10.vtt",
+                "modifiedDatetime": "2023-06-16T12:56:31.000Z",
+                "checksum": "2a2bd600fef853ad84bd8857a4b9b61d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/0e/jwb-104_E_10_r360P.mp4",
+            "checksum": "1808daa310c1198e741c6d6742a49f94",
+            "filesize": 22576740,
+            "modifiedDatetime": "2023-06-16T12:56:38.000Z",
+            "bitRate": 295.03797313256075,
+            "duration": 597.824,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/89/jwb-104_E_10.vtt",
+                "modifiedDatetime": "2023-06-16T12:56:31.000Z",
+                "checksum": "2a2bd600fef853ad84bd8857a4b9b61d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/18/jwb-104_E_10_r480P.mp4",
+            "checksum": "70d3a4528afba148bd7ec37449cebea3",
+            "filesize": 40375848,
+            "modifiedDatetime": "2023-06-16T12:56:35.000Z",
+            "bitRate": 527.6407646732149,
+            "duration": 597.824,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/89/jwb-104_E_10.vtt",
+                "modifiedDatetime": "2023-06-16T12:56:31.000Z",
+                "checksum": "2a2bd600fef853ad84bd8857a4b9b61d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/d4/jwb-104_E_10_r720P.mp4",
+            "checksum": "dcc400444ba8ba87002fbb0baefc93b7",
+            "filesize": 71367336,
+            "modifiedDatetime": "2023-06-16T12:56:32.000Z",
+            "bitRate": 932.6445785047105,
+            "duration": 597.824,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/89/jwb-104_E_10.vtt",
+                "modifiedDatetime": "2023-06-16T12:56:31.000Z",
+                "checksum": "2a2bd600fef853ad84bd8857a4b9b61d"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-104-10.v",
+        "jwb-104-10"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/89/jwb-104_E_10.vtt",
+    "Name": "pub-jwb-104_E_10_VIDEO",
+    "Title": "Alex Reinmueller: Keep Up the Fight Against Sin! (Rom. 7:22, 23)",
+    "UndatedReferenceTitle": "Alex Reinmueller: Keep Up the Fight Against Sin! (Rom. 7:22, 23)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

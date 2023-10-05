@@ -1,0 +1,102 @@
+{
+    "guid": "63a215a504eee96886a3e617",
+    "languageAgnosticNaturalKey": "pub-jwb-100_14_VIDEO",
+    "naturalKey": "pub-jwb-100_E_14_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtAnnMtg",
+    "description": "",
+    "firstPublished": "2023-02-06T14:57:37.408Z",
+    "duration": 1394.176,
+    "durationFormattedHHMM": "23:14",
+    "durationFormattedMinSec": "23m 14s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/01/jwb-100_E_14_r240P.mp4",
+            "checksum": "2d03cdac5556469e7cc0cb8ea3a19bf7",
+            "filesize": 29616951,
+            "modifiedDatetime": "2023-02-06T05:21:03.000Z",
+            "bitRate": 165.96357252420069,
+            "duration": 1394.176,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/be/jwb-100_E_14.vtt",
+                "modifiedDatetime": "2023-02-06T05:20:52.000Z",
+                "checksum": "65fdb85e3e7912c5654c454099b8fca8"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/86/jwb-100_E_14_r360P.mp4",
+            "checksum": "424d974300e7d68bfced34562295af56",
+            "filesize": 47197317,
+            "modifiedDatetime": "2023-02-06T05:21:00.000Z",
+            "bitRate": 264.4781139988782,
+            "duration": 1394.176,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/be/jwb-100_E_14.vtt",
+                "modifiedDatetime": "2023-02-06T05:20:52.000Z",
+                "checksum": "65fdb85e3e7912c5654c454099b8fca8"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/3a/jwb-100_E_14_r480P.mp4",
+            "checksum": "0b0a6da2f375112ce8dc67aa3c708e84",
+            "filesize": 81459713,
+            "modifiedDatetime": "2023-02-06T05:20:57.000Z",
+            "bitRate": 456.47321988938273,
+            "duration": 1394.176,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/be/jwb-100_E_14.vtt",
+                "modifiedDatetime": "2023-02-06T05:20:52.000Z",
+                "checksum": "65fdb85e3e7912c5654c454099b8fca8"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/a5/jwb-100_E_14_r720P.mp4",
+            "checksum": "099e56d985b2cfb4bc40015f10a8deef",
+            "filesize": 132637165,
+            "modifiedDatetime": "2023-02-06T05:20:53.000Z",
+            "bitRate": 743.2546906290885,
+            "duration": 1394.176,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/be/jwb-100_E_14.vtt",
+                "modifiedDatetime": "2023-02-06T05:20:52.000Z",
+                "checksum": "65fdb85e3e7912c5654c454099b8fca8"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-100-14.v",
+        "jwb-100-14"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/be/jwb-100_E_14.vtt",
+    "Name": "pub-jwb-100_E_14_VIDEO",
+    "Title": "M. Stephen Lett: Why Must All Kiss God’s Son?",
+    "UndatedReferenceTitle": "M. Stephen Lett: Why Must All Kiss God’s Son?",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODPgmEvtAnnMtg"
+}

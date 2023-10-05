@@ -1,0 +1,102 @@
+{
+    "guid": "6480915f6e905ddbf1a2c692",
+    "languageAgnosticNaturalKey": "docid-502200130_1_VIDEO",
+    "naturalKey": "docid-502200130_E_1_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesWasItDesigned",
+    "description": "",
+    "firstPublished": "2023-07-20T13:36:53.796Z",
+    "duration": 247.894,
+    "durationFormattedHHMM": "4:07",
+    "durationFormattedMinSec": "4m 7s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/aa/502200130_E_cnt_1_r240P.mp4",
+            "checksum": "a9913a65c31dfcb7d49076d868e87bf3",
+            "filesize": 9220049,
+            "modifiedDatetime": "2023-07-20T12:22:20.000Z",
+            "bitRate": 290.57432940087295,
+            "duration": 247.894,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/20/502200130_E_cnt_1.vtt",
+                "modifiedDatetime": "2023-07-20T12:22:25.000Z",
+                "checksum": "e26a2e107dff32bd0b97c356b4871515"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/5f/502200130_E_cnt_1_r360P.mp4",
+            "checksum": "62c00e228e448e5402e9c6bb587ed935",
+            "filesize": 15949058,
+            "modifiedDatetime": "2023-07-20T12:22:15.000Z",
+            "bitRate": 502.64232141560507,
+            "duration": 247.894,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/20/502200130_E_cnt_1.vtt",
+                "modifiedDatetime": "2023-07-20T12:22:25.000Z",
+                "checksum": "e26a2e107dff32bd0b97c356b4871515"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/e0/502200130_E_cnt_1_r480P.mp4",
+            "checksum": "526cdaa00733e639add1775996cf8e98",
+            "filesize": 31432827,
+            "modifiedDatetime": "2023-07-20T12:22:11.000Z",
+            "bitRate": 990.6208336526903,
+            "duration": 247.894,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/20/502200130_E_cnt_1.vtt",
+                "modifiedDatetime": "2023-07-20T12:22:25.000Z",
+                "checksum": "e26a2e107dff32bd0b97c356b4871515"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/content_assets/02/502200130_E_cnt_1_r720P.mp4",
+            "checksum": "4d5ea9451cc13e00ec88b6e4a14b40b9",
+            "filesize": 52815811,
+            "modifiedDatetime": "2023-07-20T12:22:08.000Z",
+            "bitRate": 1664.515976334643,
+            "duration": 247.894,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/content_assets/20/502200130_E_cnt_1.vtt",
+                "modifiedDatetime": "2023-07-20T12:22:25.000Z",
+                "checksum": "e26a2e107dff32bd0b97c356b4871515"
+            }
+        }
+    ],
+    "printReferences": [
+        "502200130-1.v",
+        "502200130-1"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/content_assets/20/502200130_E_cnt_1.vtt",
+    "Name": "docid-502200130_E_1_VIDEO",
+    "Title": "Was It Designed? Oxygen Transport",
+    "UndatedReferenceTitle": "Was It Designed? Oxygen Transport",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "SeriesWasItDesigned"
+}

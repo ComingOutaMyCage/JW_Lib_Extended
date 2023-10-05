@@ -1,0 +1,102 @@
+{
+    "guid": "63b833e804eee968862df5c6",
+    "languageAgnosticNaturalKey": "pub-jwb-100_21_VIDEO",
+    "naturalKey": "pub-jwb-100_E_21_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODActivitiesConstruction",
+    "description": "",
+    "firstPublished": "2023-01-09T15:32:28.970Z",
+    "duration": 426.475,
+    "durationFormattedHHMM": "7:06",
+    "durationFormattedMinSec": "7m 6s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/a1/jwb-100_E_21_r240P.mp4",
+            "checksum": "afaa6ac063860ccdb46c786417ddfb01",
+            "filesize": 9950558,
+            "modifiedDatetime": "2023-01-30T16:37:10.000Z",
+            "bitRate": 182.28204320300134,
+            "duration": 426.475,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/6b/jwb-100_E_21.vtt",
+                "modifiedDatetime": "2023-01-30T16:37:02.000Z",
+                "checksum": "34ebd1f725dec8b410e01da671950fa9"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/35/jwb-100_E_21_r360P.mp4",
+            "checksum": "60b8d347a7c5dac1ce9cbdadbeb5ff1a",
+            "filesize": 16320700,
+            "modifiedDatetime": "2023-01-30T16:37:13.000Z",
+            "bitRate": 298.9752476698517,
+            "duration": 426.475,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/6b/jwb-100_E_21.vtt",
+                "modifiedDatetime": "2023-01-30T16:37:02.000Z",
+                "checksum": "34ebd1f725dec8b410e01da671950fa9"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/5f/jwb-100_E_21_r480P.mp4",
+            "checksum": "78f6cf0623360e053642359f6bf6adf8",
+            "filesize": 29613445,
+            "modifiedDatetime": "2023-01-30T16:37:16.000Z",
+            "bitRate": 542.4820659182835,
+            "duration": 426.475,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/6b/jwb-100_E_21.vtt",
+                "modifiedDatetime": "2023-01-30T16:37:02.000Z",
+                "checksum": "34ebd1f725dec8b410e01da671950fa9"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/71/jwb-100_E_21_r720P.mp4",
+            "checksum": "7b9737fc95d2cca80cbe8d0ff5705e2e",
+            "filesize": 50465599,
+            "modifiedDatetime": "2023-01-30T16:37:21.000Z",
+            "bitRate": 924.4680044258163,
+            "duration": 426.475,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/6b/jwb-100_E_21.vtt",
+                "modifiedDatetime": "2023-01-30T16:37:02.000Z",
+                "checksum": "34ebd1f725dec8b410e01da671950fa9"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-100-21.v",
+        "jwb-100-21"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/6b/jwb-100_E_21.vtt",
+    "Name": "pub-jwb-100_E_21_VIDEO",
+    "Title": "Headquarters Project Ramapo Update",
+    "UndatedReferenceTitle": "Headquarters Project Ramapo Update",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODActivitiesConstruction"
+}

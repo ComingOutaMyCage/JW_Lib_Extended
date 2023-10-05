@@ -1,0 +1,102 @@
+{
+    "guid": "643974cdd49538204dd6a40f",
+    "languageAgnosticNaturalKey": "pub-com-rep22_4_VIDEO",
+    "naturalKey": "pub-com-rep22_E_4_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesOrgAccomplishments",
+    "description": "",
+    "firstPublished": "2023-04-17T12:44:42.131Z",
+    "duration": 601.814,
+    "durationFormattedHHMM": "10:01",
+    "durationFormattedMinSec": "10m 1s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/8e/com-rep22_E_04_r240P.mp4",
+            "checksum": "3d89df5bba1024e95c86394cbf0fc580",
+            "filesize": 17446963,
+            "modifiedDatetime": "2023-04-17T05:14:07.000Z",
+            "bitRate": 226.48924491204926,
+            "duration": 601.814,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/5c/com-rep22_E_04.vtt",
+                "modifiedDatetime": "2023-04-17T05:13:55.000Z",
+                "checksum": "8d9808585733ae07f4b273f4325095b0"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/ea/com-rep22_E_04_r360P.mp4",
+            "checksum": "5f22cf90424e4563797eb7df05860e98",
+            "filesize": 29577183,
+            "modifiedDatetime": "2023-04-17T05:14:02.000Z",
+            "bitRate": 383.95873507013795,
+            "duration": 601.814,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/5c/com-rep22_E_04.vtt",
+                "modifiedDatetime": "2023-04-17T05:13:55.000Z",
+                "checksum": "8d9808585733ae07f4b273f4325095b0"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/c9/com-rep22_E_04_r480P.mp4",
+            "checksum": "98b853328c65efbc30a7bd27e77916f7",
+            "filesize": 56510922,
+            "modifiedDatetime": "2023-04-17T05:14:00.000Z",
+            "bitRate": 733.6013753834242,
+            "duration": 601.814,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/5c/com-rep22_E_04.vtt",
+                "modifiedDatetime": "2023-04-17T05:13:55.000Z",
+                "checksum": "8d9808585733ae07f4b273f4325095b0"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/40/com-rep22_E_04_r720P.mp4",
+            "checksum": "6ad36b90b7758fde7c643543c75b45bb",
+            "filesize": 96399788,
+            "modifiedDatetime": "2023-04-17T05:13:56.000Z",
+            "bitRate": 1251.4221067472674,
+            "duration": 601.814,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/5c/com-rep22_E_04.vtt",
+                "modifiedDatetime": "2023-04-17T05:13:55.000Z",
+                "checksum": "8d9808585733ae07f4b273f4325095b0"
+            }
+        }
+    ],
+    "printReferences": [
+        "com-rep22-4.v",
+        "com-rep22-4"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/5c/com-rep22_E_04.vtt",
+    "Name": "pub-com-rep22_E_4_VIDEO",
+    "Title": "Organizational Accomplishments—Special Pioneers: We Remember Your Faithful Work",
+    "UndatedReferenceTitle": "Organizational Accomplishments—Special Pioneers: We Remember Your Faithful Work",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "SeriesOrgAccomplishments"
+}

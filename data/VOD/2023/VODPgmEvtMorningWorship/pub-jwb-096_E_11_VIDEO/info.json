@@ -1,0 +1,102 @@
+{
+    "guid": "63e26ae2c52251b22a4e6ef7",
+    "languageAgnosticNaturalKey": "pub-jwb-096_11_VIDEO",
+    "naturalKey": "pub-jwb-096_E_11_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2023-05-12T12:11:32.748Z",
+    "duration": 589.248,
+    "durationFormattedHHMM": "9:49",
+    "durationFormattedMinSec": "9m 49s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/f3/jwb-096_E_11_r240P.mp4",
+            "checksum": "5df4d9a0b664467c973808d0cd985192",
+            "filesize": 11869778,
+            "modifiedDatetime": "2023-05-11T23:53:28.000Z",
+            "bitRate": 157.3745530320001,
+            "duration": 589.248,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/f7/jwb-096_E_11.vtt",
+                "modifiedDatetime": "2023-05-11T23:53:18.000Z",
+                "checksum": "c0556cf51a6ca4b4ac426b831c8b18b7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/4f/jwb-096_E_11_r360P.mp4",
+            "checksum": "530c032b424dad9126a9e609bfd91a93",
+            "filesize": 19371852,
+            "modifiedDatetime": "2023-05-11T23:53:25.000Z",
+            "bitRate": 256.8402332294721,
+            "duration": 589.248,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/f7/jwb-096_E_11.vtt",
+                "modifiedDatetime": "2023-05-11T23:53:18.000Z",
+                "checksum": "c0556cf51a6ca4b4ac426b831c8b18b7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/44/jwb-096_E_11_r480P.mp4",
+            "checksum": "530dc52b8253ee95c976ca3a5c94bf6c",
+            "filesize": 34429320,
+            "modifiedDatetime": "2023-05-11T23:53:23.000Z",
+            "bitRate": 456.4785328079179,
+            "duration": 589.248,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/f7/jwb-096_E_11.vtt",
+                "modifiedDatetime": "2023-05-11T23:53:18.000Z",
+                "checksum": "c0556cf51a6ca4b4ac426b831c8b18b7"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/5d/jwb-096_E_11_r720P.mp4",
+            "checksum": "b8c576c35ffc9a5566c9069d655007f5",
+            "filesize": 65386675,
+            "modifiedDatetime": "2023-05-11T23:53:19.000Z",
+            "bitRate": 866.9242805024369,
+            "duration": 589.248,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/f7/jwb-096_E_11.vtt",
+                "modifiedDatetime": "2023-05-11T23:53:18.000Z",
+                "checksum": "c0556cf51a6ca4b4ac426b831c8b18b7"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-096-11.v",
+        "jwb-096-11"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/f7/jwb-096_E_11.vtt",
+    "Name": "pub-jwb-096_E_11_VIDEO",
+    "Title": "William Malenfant: Comparing the Spiritual and Physical Person (1 Cor. 2:12-15)",
+    "UndatedReferenceTitle": "William Malenfant: Comparing the Spiritual and Physical Person (1 Cor. 2:12-15)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

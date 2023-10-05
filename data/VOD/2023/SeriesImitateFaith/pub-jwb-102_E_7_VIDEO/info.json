@@ -1,0 +1,102 @@
+{
+    "guid": "6477814d6e905ddbf1875a13",
+    "languageAgnosticNaturalKey": "pub-jwb-102_7_VIDEO",
+    "naturalKey": "pub-jwb-102_E_7_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesImitateFaith",
+    "description": "",
+    "firstPublished": "2023-09-18T14:23:52.813Z",
+    "duration": 643.03,
+    "durationFormattedHHMM": "10:43",
+    "durationFormattedMinSec": "10m 43s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/d9/jwb-102_E_07_r240P.mp4",
+            "checksum": "ab4ed73fbe4fa2eb8cc11946f235f809",
+            "filesize": 15909318,
+            "modifiedDatetime": "2023-09-18T05:36:33.000Z",
+            "bitRate": 193.29043260034524,
+            "duration": 643.03,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/ce/jwb-102_E_07.vtt",
+                "modifiedDatetime": "2023-09-18T05:36:23.000Z",
+                "checksum": "5f760ebb78dd2cbb497dcda744f488db"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/2b/jwb-102_E_07_r360P.mp4",
+            "checksum": "1580b6cbfe65d3351010381878fe1fa6",
+            "filesize": 26930930,
+            "modifiedDatetime": "2023-09-18T05:36:29.000Z",
+            "bitRate": 327.197627832294,
+            "duration": 643.03,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/ce/jwb-102_E_07.vtt",
+                "modifiedDatetime": "2023-09-18T05:36:23.000Z",
+                "checksum": "5f760ebb78dd2cbb497dcda744f488db"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/20/jwb-102_E_07_r480P.mp4",
+            "checksum": "d594689c5c0785e99ebdad0a79e7abfb",
+            "filesize": 50507117,
+            "modifiedDatetime": "2023-09-18T05:36:27.000Z",
+            "bitRate": 613.6367689882277,
+            "duration": 643.03,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/ce/jwb-102_E_07.vtt",
+                "modifiedDatetime": "2023-09-18T05:36:23.000Z",
+                "checksum": "5f760ebb78dd2cbb497dcda744f488db"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/09/jwb-102_E_07_r720P.mp4",
+            "checksum": "087ea47477898c9863b49240613501c1",
+            "filesize": 83013336,
+            "modifiedDatetime": "2023-09-18T05:36:24.000Z",
+            "bitRate": 1008.5714313484597,
+            "duration": 643.03,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/ce/jwb-102_E_07.vtt",
+                "modifiedDatetime": "2023-09-18T05:36:23.000Z",
+                "checksum": "5f760ebb78dd2cbb497dcda744f488db"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-102-7.v",
+        "jwb-102-7"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/ce/jwb-102_E_07.vtt",
+    "Name": "pub-jwb-102_E_7_VIDEO",
+    "Title": "Imitate Their Faith—Abraham, Part 1",
+    "UndatedReferenceTitle": "Imitate Their Faith—Abraham, Part 1",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "SeriesImitateFaith"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "63165003e437cf0411e93951",
+    "languageAgnosticNaturalKey": "pub-jwb-095_4_VIDEO",
+    "naturalKey": "pub-jwb-095_E_4_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesIronSharpens",
+    "description": "",
+    "firstPublished": "2023-04-17T12:43:22.129Z",
+    "duration": 380.352,
+    "durationFormattedHHMM": "6:20",
+    "durationFormattedMinSec": "6m 20s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/51/jwb-095_E_04_r240P.mp4",
+            "checksum": "508a8a97ed751882845131309bb426af",
+            "filesize": 9239722,
+            "modifiedDatetime": "2023-04-17T05:12:53.000Z",
+            "bitRate": 189.7855884154678,
+            "duration": 380.352,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/b4/jwb-095_E_04.vtt",
+                "modifiedDatetime": "2023-04-17T05:12:43.000Z",
+                "checksum": "db9a041799bb303ce0b90b8bb05ce7b1"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/5c/jwb-095_E_04_r360P.mp4",
+            "checksum": "a6942c89744cea6b5cadb72e83327fc3",
+            "filesize": 15096024,
+            "modifiedDatetime": "2023-04-17T05:12:51.000Z",
+            "bitRate": 310.0751080577991,
+            "duration": 380.352,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/b4/jwb-095_E_04.vtt",
+                "modifiedDatetime": "2023-04-17T05:12:43.000Z",
+                "checksum": "db9a041799bb303ce0b90b8bb05ce7b1"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/4a/jwb-095_E_04_r480P.mp4",
+            "checksum": "80e641f57f76b309590a165654c6e354",
+            "filesize": 26950071,
+            "modifiedDatetime": "2023-04-17T05:12:48.000Z",
+            "bitRate": 553.5594125638883,
+            "duration": 380.352,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/b4/jwb-095_E_04.vtt",
+                "modifiedDatetime": "2023-04-17T05:12:43.000Z",
+                "checksum": "db9a041799bb303ce0b90b8bb05ce7b1"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/a1/jwb-095_E_04_r720P.mp4",
+            "checksum": "75ca9f9c6718370521439ac6d6cb29a9",
+            "filesize": 42754652,
+            "modifiedDatetime": "2023-04-17T05:12:45.000Z",
+            "bitRate": 878.1884116555192,
+            "duration": 380.352,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/b4/jwb-095_E_04.vtt",
+                "modifiedDatetime": "2023-04-17T05:12:43.000Z",
+                "checksum": "db9a041799bb303ce0b90b8bb05ce7b1"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-095-4.v",
+        "jwb-095-4"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/b4/jwb-095_E_04.vtt",
+    "Name": "pub-jwb-095_E_4_VIDEO",
+    "Title": "“Iron Sharpens Iron”—Be Adaptable",
+    "UndatedReferenceTitle": "“Iron Sharpens Iron”—Be Adaptable",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "SeriesIronSharpens"
+}

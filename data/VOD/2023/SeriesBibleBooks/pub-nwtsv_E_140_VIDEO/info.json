@@ -1,0 +1,102 @@
+{
+    "guid": "63692a0d6fa8308a8ba2698d",
+    "languageAgnosticNaturalKey": "pub-nwtsv_140_VIDEO",
+    "naturalKey": "pub-nwtsv_E_140_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesBibleBooks",
+    "description": "",
+    "firstPublished": "2023-02-27T16:02:57.652Z",
+    "duration": 337.686,
+    "durationFormattedHHMM": "5:37",
+    "durationFormattedMinSec": "5m 37s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/7a/nwtsv_E_140_r240P.mp4",
+            "checksum": "5c22a3ef21f097bc7ff26eca70338417",
+            "filesize": 8163933,
+            "modifiedDatetime": "2023-05-03T18:37:14.000Z",
+            "bitRate": 188.8758389820721,
+            "duration": 337.686,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/3d/nwtsv_E_140.vtt",
+                "modifiedDatetime": "2023-05-03T18:37:03.000Z",
+                "checksum": "3e4536e61a029d539969f02bca9cde95"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/26/nwtsv_E_140_r360P.mp4",
+            "checksum": "b182047578231c9aa26497ad42ce066e",
+            "filesize": 15452097,
+            "modifiedDatetime": "2023-05-03T18:37:17.000Z",
+            "bitRate": 357.4904136164958,
+            "duration": 337.686,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/3d/nwtsv_E_140.vtt",
+                "modifiedDatetime": "2023-05-03T18:37:03.000Z",
+                "checksum": "3e4536e61a029d539969f02bca9cde95"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/c2/nwtsv_E_140_r480P.mp4",
+            "checksum": "683fbbc5a146d55987eb10865ad933e4",
+            "filesize": 34261216,
+            "modifiedDatetime": "2023-05-03T18:37:24.000Z",
+            "bitRate": 792.646867207998,
+            "duration": 337.686,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/3d/nwtsv_E_140.vtt",
+                "modifiedDatetime": "2023-05-03T18:37:03.000Z",
+                "checksum": "3e4536e61a029d539969f02bca9cde95"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/d8/nwtsv_E_140_r720P.mp4",
+            "checksum": "a861d454bbc21d288326b9be630687fe",
+            "filesize": 62058947,
+            "modifiedDatetime": "2023-05-03T18:37:29.000Z",
+            "bitRate": 1435.7584366467665,
+            "duration": 337.686,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/3d/nwtsv_E_140.vtt",
+                "modifiedDatetime": "2023-05-03T18:37:03.000Z",
+                "checksum": "3e4536e61a029d539969f02bca9cde95"
+            }
+        }
+    ],
+    "printReferences": [
+        "nwtsv-140.v",
+        "nwtsv-140"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/3d/nwtsv_E_140.vtt",
+    "Name": "pub-nwtsv_E_140_VIDEO",
+    "Title": "Introduction to 2 Chronicles",
+    "UndatedReferenceTitle": "Introduction to 2 Chronicles",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "SeriesBibleBooks"
+}

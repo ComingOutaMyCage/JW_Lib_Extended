@@ -1,0 +1,102 @@
+{
+    "guid": "63a1c9624b77aca6ce1045fa",
+    "languageAgnosticNaturalKey": "pub-jwb-100_13_VIDEO",
+    "naturalKey": "pub-jwb-100_E_13_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtAnnMtg",
+    "description": "",
+    "firstPublished": "2023-02-06T14:57:34.229Z",
+    "duration": 1066.326,
+    "durationFormattedHHMM": "17:46",
+    "durationFormattedMinSec": "17m 46s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/c2/jwb-100_E_13_r240P.mp4",
+            "checksum": "23f48b445f394a22a6577159dab053f8",
+            "filesize": 21230571,
+            "modifiedDatetime": "2023-02-06T05:21:27.000Z",
+            "bitRate": 155.54702402220335,
+            "duration": 1066.326,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/8e/jwb-100_E_13.vtt",
+                "modifiedDatetime": "2023-02-06T05:21:10.000Z",
+                "checksum": "0389c23c3bcee9a56cde306909aaceac"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/76/jwb-100_E_13_r360P.mp4",
+            "checksum": "5254f330f83be6492b7c1cdac5ae5772",
+            "filesize": 36842583,
+            "modifiedDatetime": "2023-02-06T05:21:25.000Z",
+            "bitRate": 269.92934589187547,
+            "duration": 1066.326,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/8e/jwb-100_E_13.vtt",
+                "modifiedDatetime": "2023-02-06T05:21:10.000Z",
+                "checksum": "0389c23c3bcee9a56cde306909aaceac"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/5e/jwb-100_E_13_r480P.mp4",
+            "checksum": "763e57a856808365bf67e586ec517b36",
+            "filesize": 69301157,
+            "modifiedDatetime": "2023-02-06T05:21:18.000Z",
+            "bitRate": 507.7389926368671,
+            "duration": 1066.326,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/8e/jwb-100_E_13.vtt",
+                "modifiedDatetime": "2023-02-06T05:21:10.000Z",
+                "checksum": "0389c23c3bcee9a56cde306909aaceac"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/87/jwb-100_E_13_r720P.mp4",
+            "checksum": "3072080ba420e3f38c44cde7c50f4860",
+            "filesize": 131557677,
+            "modifiedDatetime": "2023-02-06T05:21:12.000Z",
+            "bitRate": 963.8650389866701,
+            "duration": 1066.326,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/8e/jwb-100_E_13.vtt",
+                "modifiedDatetime": "2023-02-06T05:21:10.000Z",
+                "checksum": "0389c23c3bcee9a56cde306909aaceac"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-100-13.v",
+        "jwb-100-13"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/8e/jwb-100_E_13.vtt",
+    "Name": "pub-jwb-100_E_13_VIDEO",
+    "Title": "Mark Sanderson: Share It With the Generation to Come",
+    "UndatedReferenceTitle": "Mark Sanderson: Share It With the Generation to Come",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODPgmEvtAnnMtg"
+}

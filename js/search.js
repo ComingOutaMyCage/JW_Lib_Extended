@@ -794,8 +794,9 @@ function AfterShowFile(){
     ResetScroll();
     let searchWords = getSearchWords();
     if(searchWords.length && typeof finder !== 'undefined') {
+        console.log("Starting Finder");
+        finder.createFinder();
         setTimeout(()=> {
-            finder.createFinder();
             $('#finder input').val(searchWords.join(' '));
             finder.activate();
         }, 100);

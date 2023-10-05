@@ -1,0 +1,102 @@
+{
+    "guid": "630790f3e437cf0411a866f8",
+    "languageAgnosticNaturalKey": "pub-osg_88_VIDEO",
+    "naturalKey": "pub-osg_E_88_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODOriginalSongs",
+    "description": "",
+    "firstPublished": "2023-09-18T14:23:32.334Z",
+    "duration": 246.848,
+    "durationFormattedHHMM": "4:06",
+    "durationFormattedMinSec": "4m 6s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/70/osg_E_088_r240P.mp4",
+            "checksum": "68ca8388b18f0915b374be6c769d3abc",
+            "filesize": 9724399,
+            "modifiedDatetime": "2023-09-18T05:33:46.000Z",
+            "bitRate": 307.76780523844633,
+            "duration": 246.848,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/ea/osg_E_088.vtt",
+                "modifiedDatetime": "2023-09-18T05:33:35.000Z",
+                "checksum": "84462395e3d7be305f4f045c48e347c0"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/5a/osg_E_088_r360P.mp4",
+            "checksum": "141974f4ed644bc8c5031299fcfa6ed0",
+            "filesize": 15465531,
+            "modifiedDatetime": "2023-09-18T05:33:45.000Z",
+            "bitRate": 489.469069781809,
+            "duration": 246.848,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/ea/osg_E_088.vtt",
+                "modifiedDatetime": "2023-09-18T05:33:35.000Z",
+                "checksum": "84462395e3d7be305f4f045c48e347c0"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/87/osg_E_088_r480P.mp4",
+            "checksum": "aeb80934c2857a4ddee7d97ac1fed836",
+            "filesize": 29529042,
+            "modifiedDatetime": "2023-09-18T05:33:43.000Z",
+            "bitRate": 934.5655651453526,
+            "duration": 246.848,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/ea/osg_E_088.vtt",
+                "modifiedDatetime": "2023-09-18T05:33:35.000Z",
+                "checksum": "84462395e3d7be305f4f045c48e347c0"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/cb/osg_E_088_r720P.mp4",
+            "checksum": "363de616bd72d46296038cae46f94fb7",
+            "filesize": 49376754,
+            "modifiedDatetime": "2023-09-18T05:33:41.000Z",
+            "bitRate": 1562.7264171676497,
+            "duration": 246.848,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/ea/osg_E_088.vtt",
+                "modifiedDatetime": "2023-09-18T05:33:35.000Z",
+                "checksum": "84462395e3d7be305f4f045c48e347c0"
+            }
+        }
+    ],
+    "printReferences": [
+        "osg-88.v",
+        "osg-88"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/ea/osg_E_088.vtt",
+    "Name": "pub-osg_E_88_VIDEO",
+    "Title": "He Knows Us",
+    "UndatedReferenceTitle": "He Knows Us",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODOriginalSongs"
+}

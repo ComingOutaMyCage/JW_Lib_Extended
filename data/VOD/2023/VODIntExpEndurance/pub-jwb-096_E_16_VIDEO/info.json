@@ -1,0 +1,102 @@
+{
+    "guid": "63e270d8c52251b22a4e84f3",
+    "languageAgnosticNaturalKey": "pub-jwb-096_16_VIDEO",
+    "naturalKey": "pub-jwb-096_E_16_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpEndurance",
+    "description": "",
+    "firstPublished": "2023-05-29T13:02:46.007Z",
+    "duration": 409.963,
+    "durationFormattedHHMM": "6:49",
+    "durationFormattedMinSec": "6m 49s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/a9/jwb-096_E_16_r240P.mp4",
+            "checksum": "ad422954be1831402973066beb51d5ca",
+            "filesize": 9487172,
+            "modifiedDatetime": "2023-05-29T05:45:30.000Z",
+            "bitRate": 180.79322097360006,
+            "duration": 409.963,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/ab/jwb-096_E_16.vtt",
+                "modifiedDatetime": "2023-05-29T05:45:19.000Z",
+                "checksum": "eee99612adecc74da6c6f4a831dead63"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/67/jwb-096_E_16_r360P.mp4",
+            "checksum": "c9b97b7427d18256f962b600abcd1d5b",
+            "filesize": 16506487,
+            "modifiedDatetime": "2023-05-29T05:45:28.000Z",
+            "bitRate": 314.5574836936504,
+            "duration": 409.963,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/ab/jwb-096_E_16.vtt",
+                "modifiedDatetime": "2023-05-29T05:45:19.000Z",
+                "checksum": "eee99612adecc74da6c6f4a831dead63"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/8e/jwb-096_E_16_r480P.mp4",
+            "checksum": "b653b0fbd8b2adf27c6fe5c5d5f8eae4",
+            "filesize": 31558706,
+            "modifiedDatetime": "2023-05-29T05:45:23.000Z",
+            "bitRate": 601.4015670316589,
+            "duration": 409.963,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/ab/jwb-096_E_16.vtt",
+                "modifiedDatetime": "2023-05-29T05:45:19.000Z",
+                "checksum": "eee99612adecc74da6c6f4a831dead63"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/6b/jwb-096_E_16_r720P.mp4",
+            "checksum": "0e66df486efb69b4c31b4296409d905a",
+            "filesize": 55181880,
+            "modifiedDatetime": "2023-05-29T05:45:20.000Z",
+            "bitRate": 1051.5788924854194,
+            "duration": 409.963,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/ab/jwb-096_E_16.vtt",
+                "modifiedDatetime": "2023-05-29T05:45:19.000Z",
+                "checksum": "eee99612adecc74da6c6f4a831dead63"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-096-16.v",
+        "jwb-096-16"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/ab/jwb-096_E_16.vtt",
+    "Name": "pub-jwb-096_E_16_VIDEO",
+    "Title": "Rainer and Karen Oehm: Jehovah’s Care While Living With ALS",
+    "UndatedReferenceTitle": "Rainer and Karen Oehm: Jehovah’s Care While Living With ALS",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODIntExpEndurance"
+}

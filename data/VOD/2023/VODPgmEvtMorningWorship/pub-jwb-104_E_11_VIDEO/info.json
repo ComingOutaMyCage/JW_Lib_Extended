@@ -1,0 +1,102 @@
+{
+    "guid": "644181faffba8b1568b6e885",
+    "languageAgnosticNaturalKey": "pub-jwb-104_11_VIDEO",
+    "naturalKey": "pub-jwb-104_E_11_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2023-06-16T13:04:30.279Z",
+    "duration": 584.128,
+    "durationFormattedHHMM": "9:44",
+    "durationFormattedMinSec": "9m 44s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/88/jwb-104_E_11_r240P.mp4",
+            "checksum": "c5820c2bef5e261a317bd07980ad75cc",
+            "filesize": 10647196,
+            "modifiedDatetime": "2023-06-16T12:56:27.000Z",
+            "bitRate": 142.40238226895474,
+            "duration": 584.128,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/5d/jwb-104_E_11.vtt",
+                "modifiedDatetime": "2023-06-16T12:56:15.000Z",
+                "checksum": "ffffb3ff68f56e36001e0b68edd82be1"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/cd/jwb-104_E_11_r360P.mp4",
+            "checksum": "72dab50ee419cfa072193ed645dd8f3d",
+            "filesize": 17488764,
+            "modifiedDatetime": "2023-06-16T12:56:26.000Z",
+            "bitRate": 233.90587123027828,
+            "duration": 584.128,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/5d/jwb-104_E_11.vtt",
+                "modifiedDatetime": "2023-06-16T12:56:15.000Z",
+                "checksum": "ffffb3ff68f56e36001e0b68edd82be1"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/38/jwb-104_E_11_r480P.mp4",
+            "checksum": "e663ca503057610d2a58ce29a080c5b7",
+            "filesize": 30295396,
+            "modifiedDatetime": "2023-06-16T12:56:23.000Z",
+            "bitRate": 405.1899262661608,
+            "duration": 584.128,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/5d/jwb-104_E_11.vtt",
+                "modifiedDatetime": "2023-06-16T12:56:15.000Z",
+                "checksum": "ffffb3ff68f56e36001e0b68edd82be1"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/de/jwb-104_E_11_r720P.mp4",
+            "checksum": "1c15ab4bfb2a3352432dcb80291851af",
+            "filesize": 53297735,
+            "modifiedDatetime": "2023-06-16T12:56:18.000Z",
+            "bitRate": 712.8378620567752,
+            "duration": 584.128,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/5d/jwb-104_E_11.vtt",
+                "modifiedDatetime": "2023-06-16T12:56:15.000Z",
+                "checksum": "ffffb3ff68f56e36001e0b68edd82be1"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-104-11.v",
+        "jwb-104-11"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/5d/jwb-104_E_11.vtt",
+    "Name": "pub-jwb-104_E_11_VIDEO",
+    "Title": "Leonard Myers: Show Love to Unbelieving Relatives While Being Loyal to Jehovah (Matt. 10:34, 35)",
+    "UndatedReferenceTitle": "Leonard Myers: Show Love to Unbelieving Relatives While Being Loyal to Jehovah (Matt. 10:34, 35)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

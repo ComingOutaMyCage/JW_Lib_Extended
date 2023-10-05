@@ -1,0 +1,102 @@
+{
+    "guid": "63a3336004eee96886a69b7d",
+    "languageAgnosticNaturalKey": "pub-jwb-100_10_VIDEO",
+    "naturalKey": "pub-jwb-100_E_10_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtAnnMtg",
+    "description": "",
+    "firstPublished": "2023-02-06T14:55:24.945Z",
+    "duration": 686.464,
+    "durationFormattedHHMM": "11:26",
+    "durationFormattedMinSec": "11m 26s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/2e/jwb-100_E_10_r240P.mp4",
+            "checksum": "de89a34e6839b68dc76f1ea45bb96432",
+            "filesize": 13111734,
+            "modifiedDatetime": "2023-02-06T05:21:42.000Z",
+            "bitRate": 149.2218410215248,
+            "duration": 686.464,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/01/jwb-100_E_10.vtt",
+                "modifiedDatetime": "2023-02-06T05:21:33.000Z",
+                "checksum": "b1fa4669ca9136c3986fda6e6a5cfa70"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/68/jwb-100_E_10_r360P.mp4",
+            "checksum": "4d52300b5ef203c4b9d45bdae968c38b",
+            "filesize": 20433623,
+            "modifiedDatetime": "2023-02-06T05:21:40.000Z",
+            "bitRate": 232.55069411870105,
+            "duration": 686.464,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/01/jwb-100_E_10.vtt",
+                "modifiedDatetime": "2023-02-06T05:21:33.000Z",
+                "checksum": "b1fa4669ca9136c3986fda6e6a5cfa70"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/96/jwb-100_E_10_r480P.mp4",
+            "checksum": "8afd1692c12f63888b631112d8a29c1e",
+            "filesize": 34491017,
+            "modifiedDatetime": "2023-02-06T05:21:37.000Z",
+            "bitRate": 392.5348893933258,
+            "duration": 686.464,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/01/jwb-100_E_10.vtt",
+                "modifiedDatetime": "2023-02-06T05:21:33.000Z",
+                "checksum": "b1fa4669ca9136c3986fda6e6a5cfa70"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/35/jwb-100_E_10_r720P.mp4",
+            "checksum": "eba89d24ae05cfe903bfc81f42c8c47f",
+            "filesize": 55870198,
+            "modifiedDatetime": "2023-02-06T05:21:34.000Z",
+            "bitRate": 635.846776924937,
+            "duration": 686.464,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/01/jwb-100_E_10.vtt",
+                "modifiedDatetime": "2023-02-06T05:21:33.000Z",
+                "checksum": "b1fa4669ca9136c3986fda6e6a5cfa70"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-100-10.v",
+        "jwb-100-10"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/01/jwb-100_E_10.vtt",
+    "Name": "pub-jwb-100_E_10_VIDEO",
+    "Title": "Samuel F. Herd: Are You a Joyful Person?",
+    "UndatedReferenceTitle": "Samuel F. Herd: Are You a Joyful Person?",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODPgmEvtAnnMtg"
+}

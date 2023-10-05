@@ -1,0 +1,102 @@
+{
+    "guid": "64d2a28d0ba3d6ad9ffef601",
+    "languageAgnosticNaturalKey": "pub-osg_82_VIDEO",
+    "naturalKey": "pub-osg_E_82_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODOriginalSongs",
+    "description": "",
+    "firstPublished": "2023-08-08T21:06:29.392Z",
+    "duration": 235.243,
+    "durationFormattedHHMM": "3:55",
+    "durationFormattedMinSec": "3m 55s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/f2/osg_E_082_r240P.mp4",
+            "checksum": "e47d85dde38f6560442487f16b3bc9b7",
+            "filesize": 12065891,
+            "modifiedDatetime": "2023-08-08T20:16:14.000Z",
+            "bitRate": 400.7123418656453,
+            "duration": 235.243,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/ea/osg_E_082.vtt",
+                "modifiedDatetime": "2023-08-08T20:16:08.000Z",
+                "checksum": "e9af6f76f9d6271fb3999f08ff5d994d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/22/osg_E_082_r360P.mp4",
+            "checksum": "df2ea62264e1fb311e4a1a6190ed61fb",
+            "filesize": 23660936,
+            "modifiedDatetime": "2023-08-08T20:16:18.000Z",
+            "bitRate": 785.78772800891,
+            "duration": 235.243,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/ea/osg_E_082.vtt",
+                "modifiedDatetime": "2023-08-08T20:16:08.000Z",
+                "checksum": "e9af6f76f9d6271fb3999f08ff5d994d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/3d/osg_E_082_r480P.mp4",
+            "checksum": "069fa1ae484a24ad49226747ca809073",
+            "filesize": 44595743,
+            "modifiedDatetime": "2023-08-08T20:16:21.000Z",
+            "bitRate": 1481.0397851902076,
+            "duration": 235.243,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/ea/osg_E_082.vtt",
+                "modifiedDatetime": "2023-08-08T20:16:08.000Z",
+                "checksum": "e9af6f76f9d6271fb3999f08ff5d994d"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/03/osg_E_082_r720P.mp4",
+            "checksum": "2d98f575f1c6a798e4309199759a376c",
+            "filesize": 73230102,
+            "modifiedDatetime": "2023-08-08T20:16:25.000Z",
+            "bitRate": 2431.99658172613,
+            "duration": 235.243,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/ea/osg_E_082.vtt",
+                "modifiedDatetime": "2023-08-08T20:16:08.000Z",
+                "checksum": "e9af6f76f9d6271fb3999f08ff5d994d"
+            }
+        }
+    ],
+    "printReferences": [
+        "osg-82.v",
+        "osg-82"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/ea/osg_E_082.vtt",
+    "Name": "pub-osg_E_82_VIDEO",
+    "Title": "Live for Forever",
+    "UndatedReferenceTitle": "Live for Forever",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODOriginalSongs"
+}

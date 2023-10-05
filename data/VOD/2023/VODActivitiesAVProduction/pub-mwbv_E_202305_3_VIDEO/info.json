@@ -1,0 +1,102 @@
+{
+    "guid": "63a0971f4b77aca6ce0d21d8",
+    "languageAgnosticNaturalKey": "pub-mwbv_202305_3_VIDEO",
+    "naturalKey": "pub-mwbv_E_202305_3_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODActivitiesAVProduction",
+    "description": "",
+    "firstPublished": "2023-04-03T15:19:20.215Z",
+    "duration": 549.504,
+    "durationFormattedHHMM": "9:09",
+    "durationFormattedMinSec": "9m 9s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/1f/mwbv_E_202305_03_r240P.mp4",
+            "checksum": "4459c92e2a0d3f482acbc975b3c43cda",
+            "filesize": 13990205,
+            "modifiedDatetime": "2023-04-03T14:44:22.000Z",
+            "bitRate": 198.90387797450063,
+            "duration": 549.504,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/e7/mwbv_E_202305_03.vtt",
+                "modifiedDatetime": "2023-04-03T14:44:01.000Z",
+                "checksum": "12f9641890e5743dda048363dd508760"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/45/mwbv_E_202305_03_r360P.mp4",
+            "checksum": "709e43f9324c28849fe6f01ead531f47",
+            "filesize": 23630377,
+            "modifiedDatetime": "2023-04-03T14:44:16.000Z",
+            "bitRate": 335.9617406106234,
+            "duration": 549.504,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/e7/mwbv_E_202305_03.vtt",
+                "modifiedDatetime": "2023-04-03T14:44:01.000Z",
+                "checksum": "12f9641890e5743dda048363dd508760"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/3d/mwbv_E_202305_03_r480P.mp4",
+            "checksum": "c7a3b2980391f3d0d9ddd8bd3e9f09bd",
+            "filesize": 42865617,
+            "modifiedDatetime": "2023-04-03T14:44:11.000Z",
+            "bitRate": 609.4362057646532,
+            "duration": 549.504,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/e7/mwbv_E_202305_03.vtt",
+                "modifiedDatetime": "2023-04-03T14:44:01.000Z",
+                "checksum": "12f9641890e5743dda048363dd508760"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_periodical/92/mwbv_E_202305_03_r720P.mp4",
+            "checksum": "46b4ad1876f974f0115b7cd32f74f918",
+            "filesize": 69069277,
+            "modifiedDatetime": "2023-04-03T14:44:07.000Z",
+            "bitRate": 981.9832550127023,
+            "duration": 549.504,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_periodical/e7/mwbv_E_202305_03.vtt",
+                "modifiedDatetime": "2023-04-03T14:44:01.000Z",
+                "checksum": "12f9641890e5743dda048363dd508760"
+            }
+        }
+    ],
+    "printReferences": [
+        "mwbv.202305-3.v",
+        "mwbv.202305-3"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_periodical/e7/mwbv_E_202305_03.vtt",
+    "Name": "pub-mwbv_E_202305_3_VIDEO",
+    "Title": "Production of the Audio Bible—Excerpt",
+    "UndatedReferenceTitle": "Production of the Audio Bible—Excerpt",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODActivitiesAVProduction"
+}

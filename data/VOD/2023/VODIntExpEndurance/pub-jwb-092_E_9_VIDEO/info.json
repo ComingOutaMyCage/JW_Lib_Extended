@@ -1,0 +1,102 @@
+{
+    "guid": "6304e3e1e437cf04119cc3ab",
+    "languageAgnosticNaturalKey": "pub-jwb-092_9_VIDEO",
+    "naturalKey": "pub-jwb-092_E_9_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpEndurance",
+    "description": "",
+    "firstPublished": "2023-03-20T14:15:22.016Z",
+    "duration": 416.683,
+    "durationFormattedHHMM": "6:56",
+    "durationFormattedMinSec": "6m 56s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/84/jwb-092_E_09_r240P.mp4",
+            "checksum": "3d155245110d6747fbb5727cf1e3c08f",
+            "filesize": 10139297,
+            "modifiedDatetime": "2023-03-20T04:14:26.000Z",
+            "bitRate": 190.104366658827,
+            "duration": 416.683,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/cc/jwb-092_E_09.vtt",
+                "modifiedDatetime": "2023-03-20T04:14:11.000Z",
+                "checksum": "ca66fa0c18ec29fbbdaf99805af9d3a3"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/6e/jwb-092_E_09_r360P.mp4",
+            "checksum": "3332b16407cf560955349df9a3fbd440",
+            "filesize": 17711152,
+            "modifiedDatetime": "2023-03-20T04:14:23.000Z",
+            "bitRate": 332.0710828135537,
+            "duration": 416.683,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/cc/jwb-092_E_09.vtt",
+                "modifiedDatetime": "2023-03-20T04:14:11.000Z",
+                "checksum": "ca66fa0c18ec29fbbdaf99805af9d3a3"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/93/jwb-092_E_09_r480P.mp4",
+            "checksum": "f392de9cc8ea3e4af46c907e78c2221b",
+            "filesize": 34053415,
+            "modifiedDatetime": "2023-03-20T04:14:17.000Z",
+            "bitRate": 638.4765029710835,
+            "duration": 416.683,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/cc/jwb-092_E_09.vtt",
+                "modifiedDatetime": "2023-03-20T04:14:11.000Z",
+                "checksum": "ca66fa0c18ec29fbbdaf99805af9d3a3"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/3e/jwb-092_E_09_r720P.mp4",
+            "checksum": "0f9299b5d854773786e183834c697346",
+            "filesize": 60051673,
+            "modifiedDatetime": "2023-03-20T04:14:13.000Z",
+            "bitRate": 1125.924732500486,
+            "duration": 416.683,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/cc/jwb-092_E_09.vtt",
+                "modifiedDatetime": "2023-03-20T04:14:11.000Z",
+                "checksum": "ca66fa0c18ec29fbbdaf99805af9d3a3"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-092-9.v",
+        "jwb-092-9"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/cc/jwb-092_E_09.vtt",
+    "Name": "pub-jwb-092_E_9_VIDEO",
+    "Title": "Felix and Mayra Terrazas: Maintain Spiritual Focus Despite Trials",
+    "UndatedReferenceTitle": "Felix and Mayra Terrazas: Maintain Spiritual Focus Despite Trials",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODIntExpEndurance"
+}

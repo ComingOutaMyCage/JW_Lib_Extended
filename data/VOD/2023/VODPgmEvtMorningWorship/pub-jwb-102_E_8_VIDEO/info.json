@@ -1,0 +1,102 @@
+{
+    "guid": "645ce1c4ffba8b1568f2cc72",
+    "languageAgnosticNaturalKey": "pub-jwb-102_8_VIDEO",
+    "naturalKey": "pub-jwb-102_E_8_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2023-09-15T14:52:53.979Z",
+    "duration": 569.579,
+    "durationFormattedHHMM": "9:29",
+    "durationFormattedMinSec": "9m 29s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/4a/jwb-102_E_08_r240P.mp4",
+            "checksum": "9596deff559098355ffd62aba0c2ed35",
+            "filesize": 12874793,
+            "modifiedDatetime": "2023-09-15T12:45:38.000Z",
+            "bitRate": 176.5941516672841,
+            "duration": 569.579,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/28/jwb-102_E_08.vtt",
+                "modifiedDatetime": "2023-09-15T12:45:23.000Z",
+                "checksum": "820ecb49bb1463c39760aecae9723000"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/3d/jwb-102_E_08_r360P.mp4",
+            "checksum": "8b43752fb4f620706f39c5a1a7e87f07",
+            "filesize": 21400234,
+            "modifiedDatetime": "2023-09-15T12:45:36.000Z",
+            "bitRate": 293.53141201659474,
+            "duration": 569.579,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/28/jwb-102_E_08.vtt",
+                "modifiedDatetime": "2023-09-15T12:45:23.000Z",
+                "checksum": "820ecb49bb1463c39760aecae9723000"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/87/jwb-102_E_08_r480P.mp4",
+            "checksum": "58d4538451ca759f9771fff44ebefc8c",
+            "filesize": 38193389,
+            "modifiedDatetime": "2023-09-15T12:45:30.000Z",
+            "bitRate": 523.8708793029589,
+            "duration": 569.579,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/28/jwb-102_E_08.vtt",
+                "modifiedDatetime": "2023-09-15T12:45:23.000Z",
+                "checksum": "820ecb49bb1463c39760aecae9723000"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/df/jwb-102_E_08_r720P.mp4",
+            "checksum": "c8ba4d0ed0e451b0e7fb21b5788ff610",
+            "filesize": 64921759,
+            "modifiedDatetime": "2023-09-15T12:45:24.000Z",
+            "bitRate": 890.4844493696222,
+            "duration": 569.579,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/28/jwb-102_E_08.vtt",
+                "modifiedDatetime": "2023-09-15T12:45:23.000Z",
+                "checksum": "820ecb49bb1463c39760aecae9723000"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-102-8.v",
+        "jwb-102-8"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/28/jwb-102_E_08.vtt",
+    "Name": "pub-jwb-102_E_8_VIDEO",
+    "Title": "Gajus Glockentin: Reject Improper Instant Gratification (Titus 2:12)",
+    "UndatedReferenceTitle": "Gajus Glockentin: Reject Improper Instant Gratification (Titus 2:12)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

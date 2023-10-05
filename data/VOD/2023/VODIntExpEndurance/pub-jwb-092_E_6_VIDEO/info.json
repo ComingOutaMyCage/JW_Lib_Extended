@@ -1,0 +1,102 @@
+{
+    "guid": "63164fbae437cf0411e93735",
+    "languageAgnosticNaturalKey": "pub-jwb-092_6_VIDEO",
+    "naturalKey": "pub-jwb-092_E_6_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODIntExpEndurance",
+    "description": "",
+    "firstPublished": "2023-05-16T13:40:32.129Z",
+    "duration": 278.422,
+    "durationFormattedHHMM": "4:38",
+    "durationFormattedMinSec": "4m 38s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/1d/jwb-092_E_06_r240P.mp4",
+            "checksum": "fbe6c408dabe45b1845afea92ee5b31b",
+            "filesize": 7514704,
+            "modifiedDatetime": "2023-03-20T04:15:12.000Z",
+            "bitRate": 210.86201880598514,
+            "duration": 278.422,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/86/jwb-092_E_06.vtt",
+                "modifiedDatetime": "2023-03-20T04:14:56.000Z",
+                "checksum": "38e1d2854a8dd5e6c487bea042d1c820"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/fb/jwb-092_E_06_r360P.mp4",
+            "checksum": "79a6971d4b9d3774e6064d9862b871f6",
+            "filesize": 11541569,
+            "modifiedDatetime": "2023-03-20T04:15:09.000Z",
+            "bitRate": 323.8555423511791,
+            "duration": 278.422,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/86/jwb-092_E_06.vtt",
+                "modifiedDatetime": "2023-03-20T04:14:56.000Z",
+                "checksum": "38e1d2854a8dd5e6c487bea042d1c820"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/7d/jwb-092_E_06_r480P.mp4",
+            "checksum": "e606a35009813f9657155fbc583dc457",
+            "filesize": 21214438,
+            "modifiedDatetime": "2023-03-20T04:15:03.000Z",
+            "bitRate": 595.2755057969556,
+            "duration": 278.422,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/86/jwb-092_E_06.vtt",
+                "modifiedDatetime": "2023-03-20T04:14:56.000Z",
+                "checksum": "38e1d2854a8dd5e6c487bea042d1c820"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/fe/jwb-092_E_06_r720P.mp4",
+            "checksum": "ceb652747b4e20bd882600035ed868bc",
+            "filesize": 35563421,
+            "modifiedDatetime": "2023-03-20T04:14:59.000Z",
+            "bitRate": 997.9068700120679,
+            "duration": 278.422,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/86/jwb-092_E_06.vtt",
+                "modifiedDatetime": "2023-03-20T04:14:56.000Z",
+                "checksum": "38e1d2854a8dd5e6c487bea042d1c820"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-092-6.v",
+        "jwb-092-6"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/86/jwb-092_E_06.vtt",
+    "Name": "pub-jwb-092_E_6_VIDEO",
+    "Title": "Return and Serve Again!",
+    "UndatedReferenceTitle": "Return and Serve Again!",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODIntExpEndurance"
+}

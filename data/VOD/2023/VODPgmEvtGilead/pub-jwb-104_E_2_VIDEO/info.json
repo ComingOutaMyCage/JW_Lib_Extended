@@ -1,0 +1,102 @@
+{
+    "guid": "64750ea06e905ddbf1821ab2",
+    "languageAgnosticNaturalKey": "pub-jwb-104_2_VIDEO",
+    "naturalKey": "pub-jwb-104_E_2_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtGilead",
+    "description": "",
+    "firstPublished": "2023-06-19T12:16:42.662Z",
+    "duration": 1976.662,
+    "durationFormattedHHMM": "32:56",
+    "durationFormattedMinSec": "32m 56s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/f4/jwb-104_E_02_r240P.mp4",
+            "checksum": "2d5932f9eee66e0f9ef8a9bf96632b06",
+            "filesize": 47120258,
+            "modifiedDatetime": "2023-07-19T15:58:26.000Z",
+            "bitRate": 186.2367039104308,
+            "duration": 1976.662,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/c0/jwb-104_E_02.vtt",
+                "modifiedDatetime": "2023-06-19T04:02:58.000Z",
+                "checksum": "ca35376e35d062c6e49a371bff75dc30"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/8c/jwb-104_E_02_r360P.mp4",
+            "checksum": "8f40b7a3ba67ac02b61dc4bb19472648",
+            "filesize": 92501277,
+            "modifiedDatetime": "2023-07-19T15:58:34.000Z",
+            "bitRate": 365.59929141274534,
+            "duration": 1976.662,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/c0/jwb-104_E_02.vtt",
+                "modifiedDatetime": "2023-06-19T04:02:58.000Z",
+                "checksum": "ca35376e35d062c6e49a371bff75dc30"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/ec/jwb-104_E_02_r480P.mp4",
+            "checksum": "dd3f999576bc2965eb85daf1b001fe57",
+            "filesize": 180849529,
+            "modifiedDatetime": "2023-07-19T15:58:52.000Z",
+            "bitRate": 714.7842905425915,
+            "duration": 1976.662,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/c0/jwb-104_E_02.vtt",
+                "modifiedDatetime": "2023-06-19T04:02:58.000Z",
+                "checksum": "ca35376e35d062c6e49a371bff75dc30"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/bf/jwb-104_E_02_r720P.mp4",
+            "checksum": "34dac3bd032abd9c2d7f458109757c6c",
+            "filesize": 311324804,
+            "modifiedDatetime": "2023-07-19T15:59:03.000Z",
+            "bitRate": 1230.470880327542,
+            "duration": 1976.662,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/c0/jwb-104_E_02.vtt",
+                "modifiedDatetime": "2023-06-19T04:02:58.000Z",
+                "checksum": "ca35376e35d062c6e49a371bff75dc30"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-104-2.v",
+        "jwb-104-2"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/c0/jwb-104_E_02.vtt",
+    "Name": "pub-jwb-104_E_2_VIDEO",
+    "Title": "153rd Gilead Graduation—The Inside Story",
+    "UndatedReferenceTitle": "153rd Gilead Graduation—The Inside Story",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODPgmEvtGilead"
+}

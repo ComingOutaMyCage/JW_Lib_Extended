@@ -1,0 +1,102 @@
+{
+    "guid": "636bbce16fa8308a8baacf08",
+    "languageAgnosticNaturalKey": "pub-jwb-101_7_VIDEO",
+    "naturalKey": "pub-jwb-101_E_7_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODMinistryImproveSkills",
+    "description": "",
+    "firstPublished": "2023-08-21T18:23:18.170Z",
+    "duration": 369.792,
+    "durationFormattedHHMM": "6:09",
+    "durationFormattedMinSec": "6m 9s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/10/jwb-101_E_07_r240P.mp4",
+            "checksum": "dde2f3edec6d50316803ffbd83c43606",
+            "filesize": 11430419,
+            "modifiedDatetime": "2023-08-21T18:18:29.000Z",
+            "bitRate": 241.48750767323253,
+            "duration": 369.792,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/3e/jwb-101_E_07.vtt",
+                "modifiedDatetime": "2023-08-21T18:18:16.000Z",
+                "checksum": "34748c11328b281b132eb78fb4eee136"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/01/jwb-101_E_07_r360P.mp4",
+            "checksum": "0fc80d27378597cb8090d587a45316f0",
+            "filesize": 17740859,
+            "modifiedDatetime": "2023-08-21T18:18:25.000Z",
+            "bitRate": 374.80654242790547,
+            "duration": 369.792,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/3e/jwb-101_E_07.vtt",
+                "modifiedDatetime": "2023-08-21T18:18:16.000Z",
+                "checksum": "34748c11328b281b132eb78fb4eee136"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/fd/jwb-101_E_07_r480P.mp4",
+            "checksum": "3cf5e004b90b81400874af37e21ed3a9",
+            "filesize": 32088399,
+            "modifiedDatetime": "2023-08-21T18:18:20.000Z",
+            "bitRate": 677.9233114494094,
+            "duration": 369.792,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/3e/jwb-101_E_07.vtt",
+                "modifiedDatetime": "2023-08-21T18:18:16.000Z",
+                "checksum": "34748c11328b281b132eb78fb4eee136"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/85/jwb-101_E_07_r720P.mp4",
+            "checksum": "4144584890ba77f13a8094ea42a12ec5",
+            "filesize": 51410706,
+            "modifiedDatetime": "2023-08-21T18:18:17.000Z",
+            "bitRate": 1086.1406969999352,
+            "duration": 369.792,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/3e/jwb-101_E_07.vtt",
+                "modifiedDatetime": "2023-08-21T18:18:16.000Z",
+                "checksum": "34748c11328b281b132eb78fb4eee136"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-101-7.v",
+        "jwb-101-7"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/3e/jwb-101_E_07.vtt",
+    "Name": "pub-jwb-101_E_7_VIDEO",
+    "Title": "Jehovah “Is Not Far Off”",
+    "UndatedReferenceTitle": "Jehovah “Is Not Far Off”",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODMinistryImproveSkills"
+}

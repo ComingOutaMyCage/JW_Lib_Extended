@@ -1,0 +1,102 @@
+{
+    "guid": "644a8986ffba8b1568c6beb3",
+    "languageAgnosticNaturalKey": "pub-osg_89_VIDEO",
+    "naturalKey": "pub-osg_E_89_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODOriginalSongs",
+    "description": "",
+    "firstPublished": "2023-07-17T12:59:13.536Z",
+    "duration": 255.232,
+    "durationFormattedHHMM": "4:15",
+    "durationFormattedMinSec": "4m 15s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/59/osg_E_089_r240P.mp4",
+            "checksum": "ffaded9c22b5639054284b8be2c6c454",
+            "filesize": 13532016,
+            "modifiedDatetime": "2023-09-14T13:56:21.000Z",
+            "bitRate": 414.20697639794383,
+            "duration": 255.232,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/22/osg_E_089.vtt",
+                "modifiedDatetime": "2023-07-17T04:03:21.000Z",
+                "checksum": "ad597b7b7f67af675013f86cb4ba87ce"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/30/osg_E_089_r360P.mp4",
+            "checksum": "e51534730c68c45755dd014786ffb21d",
+            "filesize": 24337272,
+            "modifiedDatetime": "2023-09-14T13:56:24.000Z",
+            "bitRate": 744.9494479532347,
+            "duration": 255.232,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/22/osg_E_089.vtt",
+                "modifiedDatetime": "2023-07-17T04:03:21.000Z",
+                "checksum": "ad597b7b7f67af675013f86cb4ba87ce"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/e5/osg_E_089_r480P.mp4",
+            "checksum": "03734469e7a0f196e1fc618721e07335",
+            "filesize": 48802548,
+            "modifiedDatetime": "2023-09-14T13:56:31.000Z",
+            "bitRate": 1493.8170223561308,
+            "duration": 255.232,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/22/osg_E_089.vtt",
+                "modifiedDatetime": "2023-07-17T04:03:21.000Z",
+                "checksum": "ad597b7b7f67af675013f86cb4ba87ce"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/ef/osg_E_089_r720P.mp4",
+            "checksum": "517c31c142abfdf35a0ebd36b07e374f",
+            "filesize": 83261947,
+            "modifiedDatetime": "2023-09-14T13:56:36.000Z",
+            "bitRate": 2548.598768718264,
+            "duration": 255.232,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/22/osg_E_089.vtt",
+                "modifiedDatetime": "2023-07-17T04:03:21.000Z",
+                "checksum": "ad597b7b7f67af675013f86cb4ba87ce"
+            }
+        }
+    ],
+    "printReferences": [
+        "osg-89.v",
+        "osg-89"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/22/osg_E_089.vtt",
+    "Name": "pub-osg_E_89_VIDEO",
+    "Title": "When All Hearts Sing as One",
+    "UndatedReferenceTitle": "When All Hearts Sing as One",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODOriginalSongs"
+}

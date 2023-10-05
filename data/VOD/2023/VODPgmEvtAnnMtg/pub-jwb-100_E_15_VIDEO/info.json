@@ -1,0 +1,102 @@
+{
+    "guid": "6373e33d6fa8308a8bbab50d",
+    "languageAgnosticNaturalKey": "pub-jwb-100_15_VIDEO",
+    "naturalKey": "pub-jwb-100_E_15_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtAnnMtg",
+    "description": "",
+    "firstPublished": "2023-02-20T14:28:39.776Z",
+    "duration": 622.592,
+    "durationFormattedHHMM": "10:22",
+    "durationFormattedMinSec": "10m 22s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/06/jwb-100_E_15_r240P.mp4",
+            "checksum": "8da2605913a67099497c1424b1436b12",
+            "filesize": 29727308,
+            "modifiedDatetime": "2023-02-20T06:02:33.000Z",
+            "bitRate": 373.02855441444797,
+            "duration": 622.592,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/f8/jwb-100_E_15.vtt",
+                "modifiedDatetime": "2023-02-20T06:02:13.000Z",
+                "checksum": "5762c4f2c643f5892ffe0f9a3ace4bc8"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/51/jwb-100_E_15_r360P.mp4",
+            "checksum": "9c2c8aff9b63ae6f9985d8a9a628c4fb",
+            "filesize": 47660382,
+            "modifiedDatetime": "2023-02-20T06:02:29.000Z",
+            "bitRate": 598.0589766251413,
+            "duration": 622.592,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/f8/jwb-100_E_15.vtt",
+                "modifiedDatetime": "2023-02-20T06:02:13.000Z",
+                "checksum": "5762c4f2c643f5892ffe0f9a3ace4bc8"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/b8/jwb-100_E_15_r480P.mp4",
+            "checksum": "285ccc7ad766cd63a0cbcd26d16d4b64",
+            "filesize": 98310886,
+            "modifiedDatetime": "2023-02-20T06:02:22.000Z",
+            "bitRate": 1233.6390394913524,
+            "duration": 622.592,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/f8/jwb-100_E_15.vtt",
+                "modifiedDatetime": "2023-02-20T06:02:13.000Z",
+                "checksum": "5762c4f2c643f5892ffe0f9a3ace4bc8"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/4b/jwb-100_E_15_r720P.mp4",
+            "checksum": "e4dedacfdf56f290b1fe27ea605bfd14",
+            "filesize": 179989043,
+            "modifiedDatetime": "2023-02-20T06:02:16.000Z",
+            "bitRate": 2258.5648361005283,
+            "duration": 622.592,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/f8/jwb-100_E_15.vtt",
+                "modifiedDatetime": "2023-02-20T06:02:13.000Z",
+                "checksum": "5762c4f2c643f5892ffe0f9a3ace4bc8"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-100-15.v",
+        "jwb-100-15"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/f8/jwb-100_E_15.vtt",
+    "Name": "pub-jwb-100_E_15_VIDEO",
+    "Title": "100 Years of Kingdom Proclamation",
+    "UndatedReferenceTitle": "100 Years of Kingdom Proclamation",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODPgmEvtAnnMtg"
+}

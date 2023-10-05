@@ -1,0 +1,102 @@
+{
+    "guid": "6385053e4b77aca6cec87d13",
+    "languageAgnosticNaturalKey": "pub-jwb-102_6_VIDEO",
+    "naturalKey": "pub-jwb-102_E_6_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtMorningWorship",
+    "description": "",
+    "firstPublished": "2023-09-18T14:24:07.008Z",
+    "duration": 605.824,
+    "durationFormattedHHMM": "10:05",
+    "durationFormattedMinSec": "10m 5s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/1e/jwb-102_E_06_r240P.mp4",
+            "checksum": "22f52cce7f81a6e9bde5c219cfad295f",
+            "filesize": 11339762,
+            "modifiedDatetime": "2023-09-18T05:36:53.000Z",
+            "bitRate": 146.2337091713105,
+            "duration": 605.824,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/b1/jwb-102_E_06.vtt",
+                "modifiedDatetime": "2023-09-18T05:36:40.000Z",
+                "checksum": "72015a585822c412bd4511cdfbe59918"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/e9/jwb-102_E_06_r360P.mp4",
+            "checksum": "c6b5cd5c3cb9f017ec8700b7b1f68b7e",
+            "filesize": 19386755,
+            "modifiedDatetime": "2023-09-18T05:36:52.000Z",
+            "bitRate": 250.00499062021316,
+            "duration": 605.824,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/b1/jwb-102_E_06.vtt",
+                "modifiedDatetime": "2023-09-18T05:36:40.000Z",
+                "checksum": "72015a585822c412bd4511cdfbe59918"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/68/jwb-102_E_06_r480P.mp4",
+            "checksum": "ae10445420a7125dbd9ae020de7cb94c",
+            "filesize": 34082925,
+            "modifiedDatetime": "2023-09-18T05:36:50.000Z",
+            "bitRate": 439.5217943866536,
+            "duration": 605.824,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/b1/jwb-102_E_06.vtt",
+                "modifiedDatetime": "2023-09-18T05:36:40.000Z",
+                "checksum": "72015a585822c412bd4511cdfbe59918"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/60/jwb-102_E_06_r720P.mp4",
+            "checksum": "193ee34b957c82bf231df22d6c6a97b0",
+            "filesize": 58337157,
+            "modifiedDatetime": "2023-09-18T05:36:48.000Z",
+            "bitRate": 752.2961108548028,
+            "duration": 605.824,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 29.97,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/b1/jwb-102_E_06.vtt",
+                "modifiedDatetime": "2023-09-18T05:36:40.000Z",
+                "checksum": "72015a585822c412bd4511cdfbe59918"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-102-6.v",
+        "jwb-102-6"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/b1/jwb-102_E_06.vtt",
+    "Name": "pub-jwb-102_E_6_VIDEO",
+    "Title": "William Turner, Jr.: What Makes Us Valuable to Jehovah? (1 Pet. 3:4)",
+    "UndatedReferenceTitle": "William Turner, Jr.: What Makes Us Valuable to Jehovah? (1 Pet. 3:4)",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODPgmEvtMorningWorship"
+}

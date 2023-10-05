@@ -1,0 +1,102 @@
+{
+    "guid": "63598c8d6fa8308a8b797fcd",
+    "languageAgnosticNaturalKey": "pub-jwb-105_3_VIDEO",
+    "naturalKey": "pub-jwb-105_E_3_VIDEO",
+    "type": "video",
+    "primaryCategory": "SeriesReasonsFaith",
+    "description": "",
+    "firstPublished": "2023-07-17T12:50:21.989Z",
+    "duration": 256.726,
+    "durationFormattedHHMM": "4:16",
+    "durationFormattedMinSec": "4m 16s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/d5/jwb-105_E_03_r240P.mp4",
+            "checksum": "b525eb81c45b14e48d677d16211f5e11",
+            "filesize": 6205054,
+            "modifiedDatetime": "2023-07-17T04:07:37.000Z",
+            "bitRate": 188.82771661226366,
+            "duration": 256.726,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/af/jwb-105_E_03.vtt",
+                "modifiedDatetime": "2023-07-17T04:07:27.000Z",
+                "checksum": "7a3a80743cced9c3b71c3ee6180e8f38"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/c6/jwb-105_E_03_r360P.mp4",
+            "checksum": "20adc51687d381ea08b111e084968bf5",
+            "filesize": 10093773,
+            "modifiedDatetime": "2023-07-17T04:07:35.000Z",
+            "bitRate": 307.166401387082,
+            "duration": 256.726,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/af/jwb-105_E_03.vtt",
+                "modifiedDatetime": "2023-07-17T04:07:27.000Z",
+                "checksum": "7a3a80743cced9c3b71c3ee6180e8f38"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/da/jwb-105_E_03_r480P.mp4",
+            "checksum": "a8ba7615ace2504c472606e60e057d35",
+            "filesize": 18682442,
+            "modifiedDatetime": "2023-07-17T04:07:33.000Z",
+            "bitRate": 568.530566148345,
+            "duration": 256.726,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/af/jwb-105_E_03.vtt",
+                "modifiedDatetime": "2023-07-17T04:07:27.000Z",
+                "checksum": "7a3a80743cced9c3b71c3ee6180e8f38"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/25/jwb-105_E_03_r720P.mp4",
+            "checksum": "6472f7d2241004d41bcfb830c4ddba70",
+            "filesize": 31105713,
+            "modifiedDatetime": "2023-07-17T04:07:28.000Z",
+            "bitRate": 946.5865662710438,
+            "duration": 256.726,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/af/jwb-105_E_03.vtt",
+                "modifiedDatetime": "2023-07-17T04:07:27.000Z",
+                "checksum": "7a3a80743cced9c3b71c3ee6180e8f38"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-105-3.v",
+        "jwb-105-3"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/af/jwb-105_E_03.vtt",
+    "Name": "pub-jwb-105_E_3_VIDEO",
+    "Title": "Reasons for Faith—God’s Standards Versus My Own",
+    "UndatedReferenceTitle": "Reasons for Faith—God’s Standards Versus My Own",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "SeriesReasonsFaith"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "6478bfd56e905ddbf18a15f5",
+    "languageAgnosticNaturalKey": "pub-jwb-104_12_VIDEO",
+    "naturalKey": "pub-jwb-104_E_12_VIDEO",
+    "type": "video",
+    "primaryCategory": "VODPgmEvtGilead",
+    "description": "",
+    "firstPublished": "2023-06-27T13:23:26.511Z",
+    "duration": 1355.115,
+    "durationFormattedHHMM": "22:35",
+    "durationFormattedMinSec": "22m 35s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/f4/jwb-104_E_12_r240P.mp4",
+            "checksum": "4453ad3f26817302d9b3d34407bc01f2",
+            "filesize": 27982629,
+            "modifiedDatetime": "2023-06-27T13:19:21.000Z",
+            "bitRate": 161.3252669053918,
+            "duration": 1355.115,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/ed/jwb-104_E_12.vtt",
+                "modifiedDatetime": "2023-06-27T13:19:03.000Z",
+                "checksum": "88c695c607d2952f7b0a7f5e6adf5005"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/36/jwb-104_E_12_r360P.mp4",
+            "checksum": "84525e0fe63b4bbd86b2688b7cd16cdc",
+            "filesize": 47843278,
+            "modifiedDatetime": "2023-06-27T13:19:15.000Z",
+            "bitRate": 275.82574864494893,
+            "duration": 1355.115,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/ed/jwb-104_E_12.vtt",
+                "modifiedDatetime": "2023-06-27T13:19:03.000Z",
+                "checksum": "88c695c607d2952f7b0a7f5e6adf5005"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/85/jwb-104_E_12_r480P.mp4",
+            "checksum": "a55d2c15b5e7e4eacfb113a5e23036af",
+            "filesize": 92096213,
+            "modifiedDatetime": "2023-06-27T13:19:11.000Z",
+            "bitRate": 530.9524756662719,
+            "duration": 1355.115,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/ed/jwb-104_E_12.vtt",
+                "modifiedDatetime": "2023-06-27T13:19:03.000Z",
+                "checksum": "88c695c607d2952f7b0a7f5e6adf5005"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/93/jwb-104_E_12_r720P.mp4",
+            "checksum": "b6c3f99c0af48d49cd6c0de814130962",
+            "filesize": 168017981,
+            "modifiedDatetime": "2023-06-27T13:19:05.000Z",
+            "bitRate": 968.656148417293,
+            "duration": 1355.115,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/ed/jwb-104_E_12.vtt",
+                "modifiedDatetime": "2023-06-27T13:19:03.000Z",
+                "checksum": "88c695c607d2952f7b0a7f5e6adf5005"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-104-12.v",
+        "jwb-104-12"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/ed/jwb-104_E_12.vtt",
+    "Name": "pub-jwb-104_E_12_VIDEO",
+    "Title": "M. Stephen Lett: Imitate the Great Teacher",
+    "UndatedReferenceTitle": "M. Stephen Lett: Imitate the Great Teacher",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "VODPgmEvtGilead"
+}

@@ -1,0 +1,102 @@
+{
+    "guid": "64a71c270ba3d6ad9f9c64f9",
+    "languageAgnosticNaturalKey": "pub-jwb-105_10_VIDEO",
+    "naturalKey": "pub-jwb-105_E_10_VIDEO",
+    "type": "video",
+    "primaryCategory": "Reports",
+    "description": "",
+    "firstPublished": "2023-07-28T13:04:29.842Z",
+    "duration": 271.126,
+    "durationFormattedHHMM": "4:31",
+    "durationFormattedMinSec": "4m 31s",
+    "files": [
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/c8/jwb-105_E_10_r240P.mp4",
+            "checksum": "a9410b6a049221cbd9c220f1e7a276ed",
+            "filesize": 5897270,
+            "modifiedDatetime": "2023-07-31T19:12:59.000Z",
+            "bitRate": 169.92992879694313,
+            "duration": 271.126,
+            "frameHeight": 234,
+            "frameWidth": 416,
+            "label": "240p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/63/jwb-105_E_10.vtt",
+                "modifiedDatetime": "2023-07-31T19:12:52.000Z",
+                "checksum": "1113f9e6bde79ca9ea2c9835d2bc9ac9"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/4b/jwb-105_E_10_r360P.mp4",
+            "checksum": "e6a3280c735bb9ff10859d71c3e2fa89",
+            "filesize": 9304724,
+            "modifiedDatetime": "2023-07-31T19:13:01.000Z",
+            "bitRate": 268.115769974108,
+            "duration": 271.126,
+            "frameHeight": 360,
+            "frameWidth": 640,
+            "label": "360p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/63/jwb-105_E_10.vtt",
+                "modifiedDatetime": "2023-07-31T19:12:52.000Z",
+                "checksum": "1113f9e6bde79ca9ea2c9835d2bc9ac9"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/73/jwb-105_E_10_r480P.mp4",
+            "checksum": "f7cb3b19f2c8f93f807e3e30afc964d1",
+            "filesize": 16353415,
+            "modifiedDatetime": "2023-07-31T19:13:08.000Z",
+            "bitRate": 471.22391318980846,
+            "duration": 271.126,
+            "frameHeight": 540,
+            "frameWidth": 960,
+            "label": "480p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/63/jwb-105_E_10.vtt",
+                "modifiedDatetime": "2023-07-31T19:12:52.000Z",
+                "checksum": "1113f9e6bde79ca9ea2c9835d2bc9ac9"
+            }
+        },
+        {
+            "progressiveDownloadURL": "https://download-a.akamaihd.net/files/media_publication/d4/jwb-105_E_10_r720P.mp4",
+            "checksum": "4b1cbf4206f3441f6577a2de5f3a16c8",
+            "filesize": 29966836,
+            "modifiedDatetime": "2023-07-31T19:13:14.000Z",
+            "bitRate": 863.4948557128421,
+            "duration": 271.126,
+            "frameHeight": 720,
+            "frameWidth": 1280,
+            "label": "720p",
+            "frameRate": 23.976,
+            "mimetype": "video/mp4",
+            "subtitled": false,
+            "subtitles": {
+                "url": "https://download-a.akamaihd.net/files/media_publication/63/jwb-105_E_10.vtt",
+                "modifiedDatetime": "2023-07-31T19:12:52.000Z",
+                "checksum": "1113f9e6bde79ca9ea2c9835d2bc9ac9"
+            }
+        }
+    ],
+    "printReferences": [
+        "jwb-105-10.v",
+        "jwb-105-10"
+    ],
+    "subtitlesUrl": "https://download-a.akamaihd.net/files/media_publication/63/jwb-105_E_10.vtt",
+    "Name": "pub-jwb-105_E_10_VIDEO",
+    "Title": "Congo (Kinshasa) Branch Report",
+    "UndatedReferenceTitle": "Congo (Kinshasa) Branch Report",
+    "ShortTitle": null,
+    "Category": "vod",
+    "Year": 2023,
+    "Symbol": "Reports"
+}
