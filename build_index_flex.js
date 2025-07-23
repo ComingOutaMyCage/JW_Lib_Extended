@@ -613,12 +613,22 @@ async function Process() {
         //packedJson['tag'] = tagIndex;
         packedJson['index.json'] = docOptions;
         packedJson['infoStore.json'] = infoStore;
-        packedJson['store'] = index.store;
+        // Don't include store in packed data anymore
+        // packedJson['store'] = index.store;
 
         fs.writeFileSync(dir + 'index.json', JSON.stringify(docOptions));
         fs.writeFileSync(dir + 'infoStore.json', JSON.stringify(infoStore));
         fs.writeFileSync(dir + 'store', JSON.stringify(index.store));
+        
+        function removeKeyQuotes(str){
+            return str.replaceAll(/"(\d+|iid|p|t)":/g, '$1:');
+        }
 
+        // Create separate store.json file
+        let jsonStore = removeKeyQuotes(JSON.stringify(index.store));
+        fs.writeFileSync(dir + 'store.js', "StoreManager.Store = " + JSON.stringify(index.store)+ "; StoreManager.NowReady();");
+
+        let jsonPacked = removeKeyQuotes(JSON.stringify(packedJson));
         fs.writeFileSync(dir + 'packed.js', "PackedData.Data = " + JSON.stringify(packedJson) + "; PackedData.NowReady();");
 
         sitemapWriter.writeSitemap(sitemap);

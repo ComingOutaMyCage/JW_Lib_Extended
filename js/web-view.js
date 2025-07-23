@@ -2750,9 +2750,65 @@ function GetIndexForWord(word){
 
 if(typeof module !== 'undefined')
     module.exports = { PublicationCodes, BASE_64, basename, getPath, mergeDict, filenameWithoutExt, until, GetIndexForWord, encodeURICompClean };
+class StoreManager {
+    static Ready = false;
+    static Store = null;
+    static LoadingPromise = null;
+    static ReadyCallbacks = [];
+    
+    // static async Load() {
+    //     if (this.LoadingPromise) return this.LoadingPromise;
+        
+    //     this.LoadingPromise = fetch('index/store.json', {
+    //         cache: "force-cache",
+    //         method: "get"
+    //     })
+    //     .then(resp => resp.json())
+    //     .then(store => {
+    //         this.Store = store;
+    //         this.Ready = true;
+    //         this.ExecuteCallbacks();
+    //         return store;
+    //     })
+    //     .catch(error => {
+    //         console.error('Failed to load store:', error);
+    //         throw error;
+    //     });
+        
+    //     return this.LoadingPromise;
+    // }
+    static NowReady() {
+        this.Ready = true;
+        this.ExecuteCallbacks();
+    }
+    
+    static WhenReady(callback) {
+        if (this.Ready) {
+            callback(this.Store);
+        } else {
+            this.ReadyCallbacks.push(callback);
+        }
+    }
+    
+    static ExecuteCallbacks() {
+        this.ReadyCallbacks.forEach(callback => {
+            try {
+                callback(this.Store);
+            } catch (e) {
+                console.error('Error in store ready callback:', e);
+            }
+        });
+        this.ReadyCallbacks = [];
+    }
+}
+
 class PackedData {
     static Ready = false;
     static Data = null;
+    static LoadingPromise = null;
+    static ReadyCallbacks = [];
+    static LoadingCheckPerformed = false;
+    
     static NowReady(){
         console.log("Ready");
 
@@ -2760,21 +2816,65 @@ class PackedData {
         infoStore = this.Data['infoStore.json'];
         delete this.Data['index.json'];
         delete this.Data['infoStore.json'];
+        
         index = new FlexSearch.Document(options);
         for (const [filename, file] of Object.entries(this.Data)) {
             console.log("Importing " + filename);
             index.import(filename, file);
         }
-        $('#loading-state').html('');
+        
+        // Set up store when it's ready
+        StoreManager.WhenReady((store) => {
+            index.store = store;
+            console.log("Store attached to index");
+        });
+        
+        // Update loading state more explicitly
+        const loadingEl = $('#loading-state');
+        loadingEl.html('Index Ready').addClass('loaded');
+        setTimeout(() => loadingEl.hide(), 0);
+        
         this.Ready = true;
+
+        // Execute any queued callbacks
+        this.ReadyCallbacks.forEach(callback => {
+            try {
+                callback();
+            } catch (e) {
+                console.error('Error in ready callback:', e);
+            }
+        });
+        this.ReadyCallbacks = [];
 
         if(!getPageState('file'))
             pageStateChanged();
 
         let event = new Event("PackedDataReady", {bubbles: true}); // (2)
         document.dispatchEvent(event);
+        
+        // Force a reflow to ensure DOM is updated
+        document.body.offsetHeight;
         // else if(showingFileFor == null && !hasLoadedFileWithStore)
         //     FileOnceStoreLoaded();
+    }
+    
+    static WhenReady(callback) {
+        if (this.Ready) {
+            callback();
+        } else {
+            this.ReadyCallbacks.push(callback);
+        }
+    }
+    
+    static EnsureLoading() {
+        if (!this.LoadingCheckPerformed && !this.LoadingPromise && !this.Ready) {
+            this.LoadingCheckPerformed = true;
+            console.warn('PackedData loading may not have initiated properly');
+            const loadingEl = $('#loading-state');
+            if (!loadingEl.is(':visible')) {
+                loadingEl.show().html('<h1>Index Loading...</h1>');
+            }
+        }
     }
 }
 let search = getPageState('search') ?? getPageState('searchExact') ?? '';
@@ -2808,17 +2908,6 @@ const monthNamesFull = ["January", "February", "March", "April", "May", "June",
 
 async function GetPackedData(filename) {
     let newCache = null;
-    // if ('caches' in window) {
-    //     newCache = await window.caches.open('new-cache');
-    //     // newCache.add('packedData.json' JSON.stringify(files));
-    //     const packedData = await newCache.match(filename);
-    //     if (packedData) {
-    //         console.log("Used local storage " + filename);
-    //         return new Promise(function (resolve, reject) {
-    //             return resolve(JSON.parse(packedData));
-    //         });
-    //     }
-    // }
     return new JSZip.external.Promise(function (resolve, reject) {
         let display = filenameWithoutExt(filename);
         display = display.replaceAll('.', ' ');
@@ -2990,7 +3079,13 @@ function HideSideMenu(){
 }
 async function DoSearch(){
     if(!CheckPackedDataLoaded()){
-        //setTimeout(DoSearch, 100);
+        console.log('Data not ready, queuing search');
+        PackedData.WhenReady(() => {
+            StoreManager.WhenReady(() => {
+                console.log('Data and store ready, executing queued search');
+                DoSearch();
+            });
+        });
         return;
     }
     if(autoCompleteJS)
@@ -3055,7 +3150,7 @@ async function DoSearch(){
     let itemStart = itemsPerPage * page;
 
     let minYear = parseInt($("#minYear").val() ?? 1880);
-    let maxYear = parseInt($("#maxYear").val() ?? 2022);
+    let maxYear = parseInt($("#maxYear").val() ?? 2025);
     if(minYear < 1880 || maxYear < 1880) return false;
     if(maxYear < minYear) {
         let tmp = minYear;
@@ -3071,7 +3166,7 @@ async function DoSearch(){
     newPageState['cat'] = searchCats.length > 0 ? searchCats.join(' ') : null;
     newPageState['sort'] = rankBy;
     newPageState['minYear'] = minYear !== 1880 ? minYear : null;
-    newPageState['maxYear'] = maxYear !== 2022 ? maxYear : null;
+    newPageState['maxYear'] = maxYear !== 2025 ? maxYear : null;
     setPageStates(newPageState);
 
     let searchExact = getPageState('searchExact');
@@ -3128,7 +3223,7 @@ async function DoSearch(){
         negativeResults = new Set(negativeResults);
     }
 
-    if(minYear !== 1880 || maxYear !== 2022 || searchCats) {
+    if(minYear !== 1880 || maxYear !== 2025 || searchCats) {
         results = results.filter((result)=>{
             let info = infoStore[result.doc.iid];
             if(info.Year < minYear || info.Year > maxYear)
@@ -3335,6 +3430,7 @@ async function pageStateChanged(e = null){
 
     pageStates++;
     console.log('pageStateChanged');
+    
     let list = getPageState('list');
     let category = getPageState('category');
     let title = getPageState('title');
@@ -3345,7 +3441,7 @@ async function pageStateChanged(e = null){
     let cat = getPageState('cat');
     let sort = getPageState('sort') ?? 'occ';
     let minYear = getPageState('minYear') ?? '1880';
-    let maxYear = getPageState('maxYear') ?? '2022';
+    let maxYear = getPageState('maxYear') ?? '2025';
     if(!file){
         FileNoLongerActive();
     }
@@ -3415,7 +3511,7 @@ async function ShowFile(docPath, replaceState= false){
     if(showingFileFor === docPath) return;
     let info = null, store = null;
     let preload = null;
-    if(index && index.store) {
+    if(index && StoreManager.Ready) {
         StopLoading();
         setPageStates({'file': docPath}, replaceState, true);
         docPath = docPath.replace('\\', '/');
@@ -3546,8 +3642,9 @@ function AfterShowFile(){
     ResetScroll();
     let searchWords = getSearchWords();
     if(searchWords.length && typeof finder !== 'undefined') {
+        console.log("Starting Finder");
+        finder.createFinder();
         setTimeout(()=> {
-            finder.createFinder();
             $('#finder input').val(searchWords.join(' '));
             finder.activate();
         }, 100);
@@ -3633,7 +3730,14 @@ function ScrollToElement(element, offset) {
 }
 function getStoreForFile(path) {
     if(path.startsWith("data/")) path = path.substr("data/".length);
-    for (const [key, store] of Object.entries(index.store)) {
+    
+    // Use StoreManager instead of index.store directly
+    if (!StoreManager.Ready) {
+        console.warn('Store not ready when trying to get store for file');
+        return null;
+    }
+    
+    for (const [key, store] of Object.entries(StoreManager.Store)) {
         if (store.p === path)
             return store;
     }
@@ -3840,10 +3944,12 @@ function FileNoLongerActive(){
     }
 }
 function getFilesForInfoId(infoId){
+    if (!StoreManager.Ready) return {};
+    
     //let infoId = store.iid;
     let results = {};
     for (let id = Math.max(1, infoId - 50); id < infoId + 100; id++) {
-        let store = index.store[id];
+        let store = StoreManager.Store[id];
         if (store === null || store.iid > infoId) return results;
         if (store.iid != infoId) continue;
         results[id] = store;
@@ -4385,12 +4491,37 @@ $(document).on('input', '#search', function () {
 var scrollListener;
 $(document).ready(async function(){
     scrollListener = new ScrollListener();
+    
+    // Set a maximum timeout for loading
+    setTimeout(() => {
+        if (!PackedData.Ready) {
+            console.warn('Loading timeout reached');
+            const loadingEl = $('#loading-state');
+            if (loadingEl.is(':visible')) {
+                loadingEl.html('<h2>Loading timed out. <button onclick="location.reload()">Reload Page</button></h2>');
+            }
+        }
+    }, 30000); // 30 second timeout
+    
+    // Single check after DOM is ready - only if we haven't performed a loading check yet
+    setTimeout(() => {
+        if (!PackedData.Ready && !PackedData.LoadingCheckPerformed && !$('#loading-state').is(':visible')) {
+            console.log('No loading indicator visible, showing loading state');
+            $('#loading-state').show().html('<h1>Index Loading...</h1>');
+            PackedData.LoadingCheckPerformed = true;
+        }
+    }, 2000);
 });
 // if(getPageState('file')){
 //     ShowFile(getPageState('file'));
 // }
 function CheckPackedDataLoaded(){
-    return PackedData.Ready;
+    const isReady = PackedData.Ready && StoreManager.Ready;
+    if (!isReady && !PackedData.LoadingCheckPerformed) {
+        // Only check once to avoid infinite loops
+        PackedData.EnsureLoading();
+    }
+    return isReady;
 }
 
 $(document).on('click', '#manualLoad', Begin);

@@ -6,7 +6,7 @@
     <meta name="description" content="Jehovahs Witness publications published since 1880">
     <meta property='og:title' content='JWS Online Library Archive'/>
     <meta property='og:image' content='https://jws-library.one/images/examples/SiteExample4.png'/>
-    <meta property='og:description' content='Archive of JW Content from 1880-2022'/>
+    <meta property='og:description' content='Archive of JW Content from 1880-2025'/>
     <meta property='og:url' content='https://jws-library.one'/>
     <meta property='og:image:width' content='610' />
     <meta property='og:image:height' content='420' />
@@ -68,6 +68,15 @@
             font-size: 50%;
             margin-top: -0.5em;
         }
+        #loading-state {
+            text-align: center;
+            padding: 2em;
+            transition: opacity 0.5s ease-out;
+        }
+        #loading-state.loaded {
+            opacity: 0.5;
+            color: green;
+        }
     </style>
 </head>
 <body data-finder-wrapper data-finder-scroll-offset="260">
@@ -75,7 +84,7 @@
 <div id="fixedHeader">
     <nav class="navbar navbar-expand-lg navbar-dark bg-light">
         <div class="container-fluid">
-            <a class="navbar-brand" href="?list=publications"><img alt="Logo" src="images/history_book.svg" style="width: 1.5em; height:1.5em;"/><div id="nav-title"><div class="main-title">JWS Online Library | <i>1880 - 2022</i></div><div id="slogan">Historical Archive to preserve expressions of faith</div></div></a>
+            <a class="navbar-brand" href="?list=publications"><img alt="Logo" src="images/history_book.svg" style="width: 1.5em; height:1.5em;"/><div id="nav-title"><div class="main-title">JWS Online Library | <i>1880 - 2025</i></div><div id="slogan">Historical Archive to preserve expressions of faith</div></div></a>
             <!--        <div class="navbar-collapse" id="navbarSupportedContent">-->
             <!--            <ul class="navbar-nav me-auto mb-2 mb-lg-0 flex-row gap-1">-->
             <!--                <li class="nav-item d-block d-none d-xl-block"><a class="nav-link active" aria-current="page" href="index.html">Home</a></li>-->
@@ -113,7 +122,7 @@
                         </div>
                         <div class="form-group mr-1">
                             <label for="maxYear" class="form-control-label">Max Year</label>
-                            <input type="number" id="maxYear" name="maxYear" min="1880" max="2023" class="form-control w-auto" value="2022" step="1"/>
+                            <input type="number" id="maxYear" name="maxYear" min="1880" max="2023" class="form-control w-auto" value="2025" step="1"/>
                         </div>
                     </div>
                     <ul class="searchNav">
@@ -148,7 +157,7 @@
                 <button id="startExactSearch" name="startExactSearch" class="btn btn-outline-dark">Start Exact Search</button>
                 <div id="resultsFilter"></div>
             </div>
-            <div id="loading-state"><h1>Index Downloading...</h1></div><noscript><h3>Javascript required for this page to operate</h3></noscript>
+            <div id="loading-state" style="display: block;"><h1>Index Downloading...</h1></div><noscript><h3>Javascript required for this page to operate</h3></noscript>
             <div id="contents" data-finder-content></div>
         </div>
     </div>
@@ -157,6 +166,7 @@
 </body>
 </html>
 <script async src="js/web-view.min.js"></script>
+<script async src="index/store.js"></script>
 <script async src="index/packed.js"></script>
 <!--<script src="js/CoverGallery.js"></script>-->
 
