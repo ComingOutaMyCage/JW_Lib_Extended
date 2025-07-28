@@ -3891,6 +3891,7 @@ async function ShowPublications(category, title, symbol, pubId) {
         newPageTitle = "Publications"
         list.push(buildDirectoryItem(`?list=image-gallery`, null, `.icon-images`, 'Image Gallery', 'View the thousands of images', null, true));
         list.push(buildDirectoryItem(`?list=cover-gallery`, null, `.icon-images`, 'Cover Gallery', 'View the thousands of covers', null, true));
+        list.push(buildDirectoryItem(`https://analytics.jws-library.one/`, null, `.icon-analytics`, 'Watchtower Analytics', 'Inspect how scriptures are used over time', null, true));
         for (const [code, name] of Object.entries(PublicationCodes.codeToName)) {
             list.push(buildDirectoryItem(`?list=publications&category=${code}`, null, `.icon-${code}`, name, null, null, true));
         }
